@@ -29,7 +29,7 @@ sudo apt install tesseract-ocr tesseract-ocr-eng
 # Verificar dependências
 ./venv/bin/python3 gbww_extract.py --check
 
-# Baixar todos os 54 volumes (~XX GB)
+# Baixar todos os 54 volumes (~6 GB)
 ./venv/bin/python3 gbww_download.py --output ./pdfs
 
 # Listar volumes disponíveis
