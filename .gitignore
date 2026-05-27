@@ -1,6 +1,5 @@
 venv/
 pdfs/
-txts/
 *.log
 __pycache__/
 *.pyc
