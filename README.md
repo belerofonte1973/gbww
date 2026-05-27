@@ -1,5 +1,7 @@
 # Great Books of the Western World — Text Extraction
 
+**Repositório:** https://github.com/belerofonte1973/gbww
+
 Pipeline para baixar e extrair texto dos 54 volumes da coleção *Great Books of the Western World* (Encyclopædia Britannica, 1952) do [Internet Archive](https://archive.org/details/encyclopaediabritannicagreatbooksofthewesternworld), preservando referências alfanuméricas de página e coluna.
 
 ## Referências no texto extraído
