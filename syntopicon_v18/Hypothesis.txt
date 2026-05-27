@@ -1,442 +1,442 @@
 Chapter 36: HYPOTHESI INTRODUCTION A COMPARISON of their Greek and Latin Z roots
-shows  that  the English words "hypothesis" and "supposition" are synonymous. To
-hypothesize  or  to  suppose  is  to  place under to make one thing the basis of
+shows that the English words "hypothesis" and "supposition" are synonymous. To
+hypothesize or to suppose is to place under to make one thing the basis of
 another in the process of thought.
 
-The  word  "hypothesis"  is  today often popularly misapplied to mean a guess or
-hunch.  The sleuth in a detective story speaks of having an hypothesis about who
-committed  the  crime. The popular notion of what it means to suppose something,
-or  to  entertain  a  supposition,  more  accurately  reflects  the  meaning  of
+The word "hypothesis" is today often popularly misapplied to mean a guess or
+hunch. The sleuth in a detective story speaks of having an hypothesis about who
+committed the crime. The popular notion of what it means to suppose something,
+or to entertain a supposition, more accurately reflects the meaning of
 hypothesis in logic, mathematics, and scientific or philosophical method.
 
-A  supposition  is  generally  understood  to  be  something  taken for granted,
-something  assumed for the purpose of drawing implications or making inferences.
-What  is supposed is not known to be true; it may be true or false. When we make
-a  supposition,  our first concern is to see what follows from it, and only then
-to  consider  its truth in the light of its consequences. We cannot reverse this
-order,  when  we  employ suppositions, and ask first about their truth. The word
-"if  expresses  the  essence  of  supposing.  The  word "then" or the phrase "it
+A supposition is generally understood to be something taken for granted,
+something assumed for the purpose of drawing implications or making inferences.
+What is supposed is not known to be true; it may be true or false. When we make
+a supposition, our first concern is to see what follows from it, and only then
+to consider its truth in the light of its consequences. We cannot reverse this
+order, when we employ suppositions, and ask first about their truth. The word
+"if expresses the essence of supposing. The word "then" or the phrase "it
 follows that" introduces the consequences for the consideration of which we make
 the supposition. We are not interested in the "if" for its own sake, but for the
 sake of what it may lead to. In any statement of the "if . . . then . . ." sort,
-it  is  the  if-clause  which  formulates the supposition or the hypothesis; the
-other  part  of  the  statement, the then-clause, formulates the consequences or
-implications.  The  whole complex statement, which makes an // the logical basis
-for  a  then, is not an hypothesis. Rather it is what is traditionally called in
+it is the if-clause which formulates the supposition or the hypothesis; the
+other part of the statement, the then-clause, formulates the consequences or
+implications. The whole complex statement, which makes an // the logical basis
+for a then, is not an hypothesis. Rather it is what is traditionally called in
 logic a hypothetical proposition.
 
-S  THERE  is ONE USE of the word "hypothesis" in mathematics which seems at odds
-with  the foregoing summary. In Euclid's Elementsk for example, an hypothesis is
-that  which  is  given,  not  as the basis from which the conclusion is drawn or
+S THERE is ONE USE of the word "hypothesis" in mathematics which seems at odds
+with the foregoing summary. In Euclid's Elementsk for example, an hypothesis is
+that which is given, not as the basis from which the conclusion is drawn or
 proved, but as a condition of solving the geometric problem under consideration.
-Let  us  take Proposition 6 of Book I. It reads: "//"in a triangle two angles be
+Let us take Proposition 6 of Book I. It reads: "//"in a triangle two angles be
 equal to one another, then the sides which subtend the equal angles will also be
-equal  to  one another." In the demonstration of this theorem, a triangle having
-two  equal  angles  is  regarded as given or granted. That figure or geometrical
-condition  is  a  fact  obtained  by  hypothesis.  It  is the fact stated in the
+equal to one another." In the demonstration of this theorem, a triangle having
+two equal angles is regarded as given or granted. That figure or geometrical
+condition is a fact obtained by hypothesis. It is the fact stated in the
 hypothesis, or the if-clause, of the theorem. If the geometrical reality of that
 fact itself is questioned, the answer would have to be obtained by a prior proof
-that  such  a figure, conforming to the definition of an isosceles triangle, can
-be  constructed  by  the  use of no other instruments than a straight edge and a
-compass.  The construction is not made, however, as part of the proof of Theorem
-6,  any  more than is the demonstration of an antecedent theorem, which may have
+that such a figure, conforming to the definition of an isosceles triangle, can
+be constructed by the use of no other instruments than a straight edge and a
+compass. The construction is not made, however, as part of the proof of Theorem
+6, any more than is the demonstration of an antecedent theorem, which may have
 to be used in the proof of Theorem 6. In the proof of Theorem 6, the first line,
-beginning  with the word "let," declares that the construe tibihty of the figure
-is  to  be  taken  for  granted  as a matter of hypothesis. The whole problem of
-Theorem  6  is  to prove that the then-clause follows from the if-clause. Euclid
-appears  to  accomplish  this  by  introducing other propositions drawn from his
-axioms,  definitions,  postulates,  or  theorems  previously  demonstrated which
-establish  this  connection  and so certify the conclusion as following from the
-hypothesis.  Two  points  about  this  procedure  should  be  noted.  First, the
-conclusion  does  not  follow  from 749 750 the hypothesis directly, for if that
-were  so,  the  11  "if-then proposition would be self-evident and would need no
-proof.  Th$  mind  which  sees  immediately that the sides opposite to the equal
-angles  in  an  isosceles  triangle  are  necessarily  equal  docs  not need any
-demonstration  of  the  connection  between  equal  angles and tfqual sides. The
-Euclidean  demonstration  consists  in  making  this  connection,  which  is not
-immediatethat  is,  evident ly evident, mediately evident; through the mediation
-of   other  propositions.  It  isnot  the  hypothesis  alone  which  proves  the
-conclusion,  but the hypothesis in the company of other propositions which serve
-to  take  the  mind  step  by step from the hypothesis granted to the conclusion
+beginning with the word "let," declares that the construe tibihty of the figure
+is to be taken for granted as a matter of hypothesis. The whole problem of
+Theorem 6 is to prove that the then-clause follows from the if-clause. Euclid
+appears to accomplish this by introducing other propositions drawn from his
+axioms, definitions, postulates, or theorems previously demonstrated which
+establish this connection and so certify the conclusion as following from the
+hypothesis. Two points about this procedure should be noted. First, the
+conclusion does not follow from 749 750 the hypothesis directly, for if that
+were so, the 11 "if-then proposition would be self-evident and would need no
+proof. Th$ mind which sees immediately that the sides opposite to the equal
+angles in an isosceles triangle are necessarily equal docs not need any
+demonstration of the connection between equal angles and tfqual sides. The
+Euclidean demonstration consists in making this connection, which is not
+immediatethat is, evident ly evident, mediately evident; through the mediation
+of other propositions. It isnot the hypothesis alone which proves the
+conclusion, but the hypothesis in the company of other propositions which serve
+to take the mind step by step from the hypothesis granted to the conclusion
 implied.
 
-Second,  the  proposition  with the truth of which the reasoning seems to end is
-not  the  proposition  to  be  proved.  The  Q.E.D.  at  the  end of a Euclidean
-demonstration  does  not apply to the last proposition in the line of proof, but
-to  the  theorem  itself,  for  that  is  the proposition to be proved. The last
-proposition  in  the  reasoning is merely the consequent which, according to the
+Second, the proposition with the truth of which the reasoning seems to end is
+not the proposition to be proved. The Q.E.D. at the end of a Euclidean
+demonstration does not apply to the last proposition in the line of proof, but
+to the theorem itself, for that is the proposition to be proved. The last
+proposition in the reasoning is merely the consequent which, according to the
 theorem, is proposed as following from the hypothesis. When he is able to verify
 the proposed connection between the hypothesis and its conclusion or consequent,
-Euclid  says  Q.E.D.  to the theorem as a whole the whole if-then statement. The
-process  of  proof seems to be the same when the theorem is stated categorically
-rather  than  hypothetically.  For example, Theorem 6 might have been stated, as
-other  Euclidean  theorems are, in the following manner: "The sides subtended by
-equal  angles  in  a  triangle are also equal to one another." This variation in
+Euclid says Q.E.D. to the theorem as a whole the whole if-then statement. The
+process of proof seems to be the same when the theorem is stated categorically
+rather than hypothetically. For example, Theorem 6 might have been stated, as
+other Euclidean theorems are, in the following manner: "The sides subtended by
+equal angles in a triangle are also equal to one another." This variation in
 mode of statement raises a question, not about the meaning of "by hypothesis" in
-Euclidean  proof,  but about the difference between hypothetical and categorical
+Euclidean proof, but about the difference between hypothetical and categorical
 propositions, which we will consider later.
 
-THE  EUCLIDEAN USE of a given (that is, a constructible) figure as an hypothesis
-does  not  seem  to be a method of making a supposition in order to discover its
+THE EUCLIDEAN USE of a given (that is, a constructible) figure as an hypothesis
+does not seem to be a method of making a supposition in order to discover its
 implications. Nor does it seem to be a way of testing the truth of an hypothesis
-by  reference  to  its  consequences.  Both  of  these  aspects  of hypothetical
-reasoning  do  appear,  however, in Plato's dialogues. In the MenOj for example,
-Socrates  proposes,  at  a  certain  turn  in  the conversation about virtue and
-knowledge,  triat he and Meno entertain the hypothesis that virtue is knowledge.
-Socrates  immediately inquires about the consequences. "If virtue is knowledge,"
-he  asks,  "will it be taught?" Since Meno already understands that knowledge is
-teachable,  he  answers the question affirmatively. The utility of advancing the
-hypothesis  that  virtue is knowledge gradually appears in the next phase of the
-dialogue,  wherein  it  is discovered that virtue is not teachable at all, or at
+by reference to its consequences. Both of these aspects of hypothetical
+reasoning do appear, however, in Plato's dialogues. In the MenOj for example,
+Socrates proposes, at a certain turn in the conversation about virtue and
+knowledge, triat he and Meno entertain the hypothesis that virtue is knowledge.
+Socrates immediately inquires about the consequences. "If virtue is knowledge,"
+he asks, "will it be taught?" Since Meno already understands that knowledge is
+teachable, he answers the question affirmatively. The utility of advancing the
+hypothesis that virtue is knowledge gradually appears in the next phase of the
+dialogue, wherein it is discovered that virtue is not teachable at all, or at
 least not in the way in which the arts and sciences are teachable. The discovery
-throws  some  doubt  on the truth of the hypothesis that virtue is knowledge; at
+throws some doubt on the truth of the hypothesis that virtue is knowledge; at
 least it does not seem to be knowledge in the same sense as science or art. This
-mode  of  reasoning  exemplifies  the  use of an hypothesis to test its truth in
-terms  of  its consequences. The underlying logical principle is that the denial
-of  the  consequences requires a denial of the antecedent hypothesis, just as an
-affirmation  of  the  antecedent would require an affirmation of the consequent.
-Nothing  follows  logically  from  a  denial  of  the  hypothesis,  or  from  an
+mode of reasoning exemplifies the use of an hypothesis to test its truth in
+terms of its consequences. The underlying logical principle is that the denial
+of the consequences requires a denial of the antecedent hypothesis, just as an
+affirmation of the antecedent would require an affirmation of the consequent.
+Nothing follows logically from a denial of the hypothesis, or from an
 affirmation of its consequences. This example from the Meno also illustrates the
-difference  between Euclid's and Plato's use of hypotheses. Socrates is not here
-trying  to  prove  that  //"virtue  is  knowledge, then virtue is teachable. The
-validity  of  the  foregoing if-then statement is already understood in terms of
-the  fact  that  knowledge  ts  teachable. With the ifthen statement accepted as
+difference between Euclid's and Plato's use of hypotheses. Socrates is not here
+trying to prove that //"virtue is knowledge, then virtue is teachable. The
+validity of the foregoing if-then statement is already understood in terms of
+the fact that knowledge ts teachable. With the ifthen statement accepted as
 valid, Socrates uses it for the purpose of ascertaining whether or in what sense
-virtue  is  knowledge.  It is not the hypothetical or if-then statement which is
+virtue is knowledge. It is not the hypothetical or if-then statement which is
 proved, but the hypothesis the antecedent in that statement which is tested. The
-same  general  method  of  employing hypotheses and testing them is found in the
-empirical   sciences.   In   medical   practice,  the  physician,  according  to
-Hippocrates,  "must  be  able  to  form  a  judgment  from  having  made himself
+same general method of employing hypotheses and testing them is found in the
+empirical sciences. In medical practice, the physician, according to
+Hippocrates, "must be able to form a judgment from having made himself
 acquainted with all the symptoms, and estimating their powers in comparison with
-one  another";  he  should then "cultivate prognosis," since "he will manage the
+one another"; he should then "cultivate prognosis," since "he will manage the
 cure best who has foreseen what is to happen from the present state of matters."
-'  CHAPTER  36:  HYP  The  preliminary  diagnosis states an hypothesis (what the
+' CHAPTER 36: HYP The preliminary diagnosis states an hypothesis (what the
 disease may be) and the prognosis foresees a set of consequences (what is likely
-to  happen  if  the  diagnosis  is  correct).  Observation  of the course of the
-symptoms  and the patient's changing condition will either confirm or invalidate
-the  prognosis.  Confirmation  leaves  the diagnosis a lucky guess, but fails to
-prove  it.  If  the  disease  does  not  run  the predicted course, however, the
-diagnosis  on  which  the  prognosis  was  based  can  be  dismissed  as a false
+to happen if the diagnosis is correct). Observation of the course of the
+symptoms and the patient's changing condition will either confirm or invalidate
+the prognosis. Confirmation leaves the diagnosis a lucky guess, but fails to
+prove it. If the disease does not run the predicted course, however, the
+diagnosis on which the prognosis was based can be dismissed as a false
 hypothesis.
 
-WHEN  AN  HYPOTHESIS takes the form of a prediction of what should happen if the
-hypothesis  is  true,  the  failure  of  the  consequences  to occur refutes the
-hypothesis.   Though  discussions  of  scientific  method  frequently  speak  of
-"prediction  and verification," it would seem as though prediction can only lead
-to  the  refutation  of  an  hypothesis  rather  than  to  its  verification. An
-hypothesis  is overthrown when its prediction fails, but it is not verified when
-its  prediction  comes  true. To think that it can be verified in this way is to
-commit  the  logical  fallacy  of  arguing from the truth of a conclusion to the
+WHEN AN HYPOTHESIS takes the form of a prediction of what should happen if the
+hypothesis is true, the failure of the consequences to occur refutes the
+hypothesis. Though discussions of scientific method frequently speak of
+"prediction and verification," it would seem as though prediction can only lead
+to the refutation of an hypothesis rather than to its verification. An
+hypothesis is overthrown when its prediction fails, but it is not verified when
+its prediction comes true. To think that it can be verified in this way is to
+commit the logical fallacy of arguing from the truth of a conclusion to the
 truth of its premises. How, then, do empirical scientists prove an hypothesis to
-be  true  ?  What do they mean by prediction and verification in relation to the
-use  of  hypothesis  ? There seem to be two possible ways in which an hypothesis
+be true ? What do they mean by prediction and verification in relation to the
+use of hypothesis ? There seem to be two possible ways in which an hypothesis
 can be proved by empirical or experimental research. One way can be used when we
 know that the consequences implied follow only from the truth of the hypothesis.
-Should  the  consequences  implied  be  impossible unless the supposed condition
-exists,  then  the  confirmation  of the prediction verifies the hypothesis. The
-other  possible  method  of  verification  has  come to be called "the method of
+Should the consequences implied be impossible unless the supposed condition
+exists, then the confirmation of the prediction verifies the hypothesis. The
+other possible method of verification has come to be called "the method of
 multiple working hypotheses." The validity of this method depends on our knowing
-that   the  several  hypotheses  being  entertained  exhaust  all  the  relevant
+that the several hypotheses being entertained exhaust all the relevant
 possibilities. Each hypothesis generates a prediction; and if upon investigation
-the  observed  facts negate every prediction except one, then that one remaining
-hypothesis  is  verified.  If  negative  instances  have  eliminated  the  false
-hypotheses,  the hypothesis remaining must be true, on the condition, of course,
+the observed facts negate every prediction except one, then that one remaining
+hypothesis is verified. If negative instances have eliminated the false
+hypotheses, the hypothesis remaining must be true, on the condition, of course,
 that it is the only possibility which is left.
 
-OTHESIS  Both of these methods seem to be valid only if a prerequisite condition
-is  fulfilled.  To  verify  one  of  a series of multiple hypotheses through the
-elimination  of  the  others,  the  scientist  must  know  that  the  hypotheses
-enumerated  are  truly exhaustive. In the verification of a single hypothesis by
-the  confirmation  of  its prediction, the scientist must know that the observed
+OTHESIS Both of these methods seem to be valid only if a prerequisite condition
+is fulfilled. To verify one of a series of multiple hypotheses through the
+elimination of the others, the scientist must know that the hypotheses
+enumerated are truly exhaustive. In the verification of a single hypothesis by
+the confirmation of its prediction, the scientist must know that the observed
 consequences can follow from no other supposition. Since such knowledge is often
-unavailable,  probability rather than complete proof results from the testing of
-hypotheses  by  observation or experiment. In his Treatise on the Vacuum, Pascal
+unavailable, probability rather than complete proof results from the testing of
+hypotheses by observation or experiment. In his Treatise on the Vacuum, Pascal
 offers a summary of the logical situation by distinguishing the true, the false,
-and  the  doubtful  or  probable  hypothesis.  "Sometimes  its negation brings a
+and the doubtful or probable hypothesis. "Sometimes its negation brings a
 conclusion of obvious absurdity, and then the hypothesis is true and invariable.
-Or  else  one  deduces  an  obvious  error  from  its  affirmation, and then the
-hypothesis  is  held  to  be  false.  And when one has not been able to find any
-mistake  either  in its negation or its affirmation, then the hypothesis remains
-doubtful,  so  that, in order that the hypothesis may be demonstrable, it is not
-enough  that  all  the  phenomena result from it, but rather it is necessary, if
-there  ensues something contrary to a single one of the expected phenomena, that
+Or else one deduces an obvious error from its affirmation, and then the
+hypothesis is held to be false. And when one has not been able to find any
+mistake either in its negation or its affirmation, then the hypothesis remains
+doubtful, so that, in order that the hypothesis may be demonstrable, it is not
+enough that all the phenomena result from it, but rather it is necessary, if
+there ensues something contrary to a single one of the expected phenomena, that
 this suffice to establish its falsity."
 
 BOTH THE USE of hypotheses and the method of verifying them vary from science to
-science,  according  as  the  character  of  the  science  happens  to be purely
+science, according as the character of the science happens to be purely
 empirical (e.g., the work of Hippocrates, Darwin, Freud), or experimental (e.g.,
-the  work  of  Harvey  and  Faraday),  or  a combination of experimentation with
-mathematical  reasoning  (e.g.,  the  work of Galileo, Newton, Fourier). Not all
-scientific  work  is directed or controlled by hypotheses, but in the absence of
+the work of Harvey and Faraday), or a combination of experimentation with
+mathematical reasoning (e.g., the work of Galileo, Newton, Fourier). Not all
+scientific work is directed or controlled by hypotheses, but in the absence of
 well-formulated hypotheses, the research can hardly be better than exploration A
 well-constructed experiment, especially what Bacon calls an experimentum cruetsk
-derives  its  demonstrative  character  from  the  hypothetical  reasoning which
-formulates  the  problem  to  be  solved. The value of such a crucial experiment
-appears  in  Bacon's  reasoning  about the rise and fall of the tides. "If it be
-found,"  he  writes, "that dunng the ebb the surface of the TOE GREAT IDE waters
-at  sea  is  more  curved  and  round, from the waters rising in the middle, and
-sinking  at  the  sides  or  coast,  and if, during a flood, it be more even and
-level,  from  the  waters returning to their former position, then assuredly, by
+derives its demonstrative character from the hypothetical reasoning which
+formulates the problem to be solved. The value of such a crucial experiment
+appears in Bacon's reasoning about the rise and fall of the tides. "If it be
+found," he writes, "that dunng the ebb the surface of the TOE GREAT IDE waters
+at sea is more curved and round, from the waters rising in the middle, and
+sinking at the sides or coast, and if, during a flood, it be more even and
+level, from the waters returning to their former position, then assuredly, by
 this decisive instance, the raising of them by a magnetic force can be admitted;
-if  otherwise,  it  must  be  entirely  rejected."  In the field of mathematical
-physics,  and  particularly  in  astronomy,  the  meaning  of hypothesis is both
-enlarged  and  altered.  So  far  we have considered hypotheses which are single
-propositionsimplying  certain consequences. But in mathematical physics, a whole
-theory  a  complex  system  of  propositions  comes  to  be regarded as a single
-hypothesis.  In  his  preface  to the work of Copernicus, Osiander says that the
-task  of  the  astronomer  is  "to  use  painstaking  and skilled observation in
-gathering  together  the  history  of the celestial movements; and then since he
-cannot  by  any  line  of  reasoning reach the true causes of these movements to
-think  up  or  construct whatever causes or hypotheses he pleases, such that, by
-the  assumption of these causes, those same movements can be calculated from the
-principles  of  geometry,  for  the  past and for the future too." The elaborate
-system  constructed  by  Copernicus  and the system constructed by Ptolemy which
-Copernicus  hopes to replace are sometimes called "the Copermcan hypothesis" and
-"the  Ptolemaic hypothesis"; and sometimes these two theories are referred to as
-"the  heliocentric  hypothesis" and "the geocentric hypothesis." A whole theory,
-regarded  as  an  hypothesis,  must  be  tested in a different way from a single
-proposition  whose  implication generates a prediction, As rival hypotheses, one
-theory  may  be  superior  to another in internal consistency or in mathematical
-simplicity  and  elegance.  Kepler  is  thus  able  to  argue against Ptolemy by
-appealing  to  criteria which Ptolemy accepts, pointing out that Ptolemy himself
-wishes  "to construct hypotheses which are as simple as possible, if that can be
-done.  And  so  if  anyone  constructs  simpler hypotheses than he understanding
-simplicity  geometrically  he,  on  the  contrary, will not defend his composite
+if otherwise, it must be entirely rejected." In the field of mathematical
+physics, and particularly in astronomy, the meaning of hypothesis is both
+enlarged and altered. So far we have considered hypotheses which are single
+propositionsimplying certain consequences. But in mathematical physics, a whole
+theory a complex system of propositions comes to be regarded as a single
+hypothesis. In his preface to the work of Copernicus, Osiander says that the
+task of the astronomer is "to use painstaking and skilled observation in
+gathering together the history of the celestial movements; and then since he
+cannot by any line of reasoning reach the true causes of these movements to
+think up or construct whatever causes or hypotheses he pleases, such that, by
+the assumption of these causes, those same movements can be calculated from the
+principles of geometry, for the past and for the future too." The elaborate
+system constructed by Copernicus and the system constructed by Ptolemy which
+Copernicus hopes to replace are sometimes called "the Copermcan hypothesis" and
+"the Ptolemaic hypothesis"; and sometimes these two theories are referred to as
+"the heliocentric hypothesis" and "the geocentric hypothesis." A whole theory,
+regarded as an hypothesis, must be tested in a different way from a single
+proposition whose implication generates a prediction, As rival hypotheses, one
+theory may be superior to another in internal consistency or in mathematical
+simplicity and elegance. Kepler is thus able to argue against Ptolemy by
+appealing to criteria which Ptolemy accepts, pointing out that Ptolemy himself
+wishes "to construct hypotheses which are as simple as possible, if that can be
+done. And so if anyone constructs simpler hypotheses than he understanding
+simplicity geometrically he, on the contrary, will not defend his composite
 hypotheses." But even if the Copernican hypothesis is superior on the grounds of
-being  geometrically  AS simpler, it must meet another test. As indicated in the
-chapter  on  ASTRONOMY,  mathematical  theories about physical phenomena must be
-more  than  ideal  constructions of possible universes. They must try to account
-for  this  one  real  world  and  are  therefore  subject  to  the test of their
-applicability   to  reality.  However  elegant  it  may  be  mathematically,  an
-hypothesis  when  considered  from  the point of view of physics is satisfactory
-only  if  it accounts for the phenomena it was invented to explain. In the words
-of  Simphcius,  it  must  "save the appearances." An hypothesis can therefore be
-tested  for  its application to reality by the way in which it fits the observed
-facts.  "In  those  sciences  where  mathematical  demonstrations are applied to
-natural  phenomena," Galileo writes, "the principles" which are "the foundations
-of  the  entire superstructure" must be "established by wellchosen experiments."
-By   such  means  Galileo  chooses  between  the  hypothesis  that  the  uniform
-acceleration  of  a  freely  falling  body is proportional to the units of space
-traversed  and  the  hypothesis  that  it  is  proportional to the units of time
-elapsed.   To  borrow  Plato's  expression  in  the  Ttmaeus,  the  mathematical
-consistency  of  a theory makes it"a likely story." The theoretical integrity of
-the  hypothesis makes it credible. But when competing credible hypotheses exist,
+being geometrically AS simpler, it must meet another test. As indicated in the
+chapter on ASTRONOMY, mathematical theories about physical phenomena must be
+more than ideal constructions of possible universes. They must try to account
+for this one real world and are therefore subject to the test of their
+applicability to reality. However elegant it may be mathematically, an
+hypothesis when considered from the point of view of physics is satisfactory
+only if it accounts for the phenomena it was invented to explain. In the words
+of Simphcius, it must "save the appearances." An hypothesis can therefore be
+tested for its application to reality by the way in which it fits the observed
+facts. "In those sciences where mathematical demonstrations are applied to
+natural phenomena," Galileo writes, "the principles" which are "the foundations
+of the entire superstructure" must be "established by wellchosen experiments."
+By such means Galileo chooses between the hypothesis that the uniform
+acceleration of a freely falling body is proportional to the units of space
+traversed and the hypothesis that it is proportional to the units of time
+elapsed. To borrow Plato's expression in the Ttmaeus, the mathematical
+consistency of a theory makes it"a likely story." The theoretical integrity of
+the hypothesis makes it credible. But when competing credible hypotheses exist,
 each saving the relevant appearances equally well, which is to be believed ? The
 fact that one of them, as in the case of the Copermcan-Ptolemaic controversy, is
 mathematically superior cannot decide the question, since the question is, Which
-is  true  of  reality  ?  Sometimes a single fact, such as the phenomenon of the
-Foucault  pendulum,  may  exercise  a  decisive  influence,  if  one  of the two
-competing   theories   finds  that  fact  congenial  and  the  other  leaves  it
-inexplicable.  Sometimes,  as  appears  in  the  discussion  of  the  Copernican
-hypothesis  in  the  chapter  on  ASTRONOMY, of two hypotheses which are equally
+is true of reality ? Sometimes a single fact, such as the phenomenon of the
+Foucault pendulum, may exercise a decisive influence, if one of the two
+competing theories finds that fact congenial and the other leaves it
+inexplicable. Sometimes, as appears in the discussion of the Copernican
+hypothesis in the chapter on ASTRONOMY, of two hypotheses which are equally
 satisfactory so far as purely astronomical phenomena are concerned, one may have
-the  additional  virtue  of  covering  other  fields  of  phenomena  which  that
-hypothesis  was not originally designed to explain. As interpreted by Kepler and
-as  developed in Newton's theory of universal gravitation, CHAPTER 36: HYPOT the
-Copernican  hypothesis  brings  the  terrestrial  phenomena  of the tides and of
-falling  bodies  under  the  same  set  of  laws  which applies to the celestial
-motions.  The  hypothesis  then has the amazing quality of consiliencea bringing
-together  under  one  formulation  of  phenomena  not  previously  thought to be
-related.  This seems to be what Huygens has in mind when he considers the degree
-of  probability  that  is  attainable  through  experimental  research." We have
-"scarcely  less  than  complete  proof," he writes, when "things which have been
-demonstrated  by  the  principles assumed, correspond perfectly to the phenomena
-which  experiment  has brought under observation; and further, principally, when
-one  can  imagine  and  foresee  new  phenomena  which  ought to follow from the
-hypotheses  which  one  employs,  and  when  one  finds  that  therein  the fact
-corresponds  to  our  prevision." Then, in common parlance, we say that it is no
-longer  a  theory,  but  has become a fact. Yet the question remains whether the
-empirical  tests  which eliminate the less satisfactory hypothesis can ever make
+the additional virtue of covering other fields of phenomena which that
+hypothesis was not originally designed to explain. As interpreted by Kepler and
+as developed in Newton's theory of universal gravitation, CHAPTER 36: HYPOT the
+Copernican hypothesis brings the terrestrial phenomena of the tides and of
+falling bodies under the same set of laws which applies to the celestial
+motions. The hypothesis then has the amazing quality of consiliencea bringing
+together under one formulation of phenomena not previously thought to be
+related. This seems to be what Huygens has in mind when he considers the degree
+of probability that is attainable through experimental research." We have
+"scarcely less than complete proof," he writes, when "things which have been
+demonstrated by the principles assumed, correspond perfectly to the phenomena
+which experiment has brought under observation; and further, principally, when
+one can imagine and foresee new phenomena which ought to follow from the
+hypotheses which one employs, and when one finds that therein the fact
+corresponds to our prevision." Then, in common parlance, we say that it is no
+longer a theory, but has become a fact. Yet the question remains whether the
+empirical tests which eliminate the less satisfactory hypothesis can ever make
 the more satisfactory hypothesis more than a likely story.
 
-IN  THE  Mathematical Principles of Natural Philosophy, Newton says, "I have not
-been  able  to discover the cause of those properties of gravity from phenomena,
-and  I frame no hypotheses; for whatever is not deduced from the phenomena is to
-be  called  an  hypothesis;  and  hypotheses,  whether metaphysical or physical,
-whether  of  occult  qualities  or  mechanical,  have  no  place in experimental
-philosophy."  The context of this passage, and of a similar statement at the end
-of  the  Optics,  as  well as the association inNewton's mind of hypotheses with
-occult  and  qualities,  substantial  forms,  hidden causes, seems to indicate a
-special  meaning  of "hypothesis." Newton criticizes the vortices in the physics
-of  Descartes  on  the  ground  that  it  is  unnecessary to appeal to occult or
-unobservable  entities  in  order  to  explain  natural phenomena. The Cartesian
-vortices,  like  the substantial forms of Aristotle, are, for Newton, hypotheses
+IN THE Mathematical Principles of Natural Philosophy, Newton says, "I have not
+been able to discover the cause of those properties of gravity from phenomena,
+and I frame no hypotheses; for whatever is not deduced from the phenomena is to
+be called an hypothesis; and hypotheses, whether metaphysical or physical,
+whether of occult qualities or mechanical, have no place in experimental
+philosophy." The context of this passage, and of a similar statement at the end
+of the Optics, as well as the association inNewton's mind of hypotheses with
+occult and qualities, substantial forms, hidden causes, seems to indicate a
+special meaning of "hypothesis." Newton criticizes the vortices in the physics
+of Descartes on the ground that it is unnecessary to appeal to occult or
+unobservable entities in order to explain natural phenomena. The Cartesian
+vortices, like the substantial forms of Aristotle, are, for Newton, hypotheses
 in a very special sense. They are hypothetical entities.
 
-They  are  not  inferred  from  the  phenomena. Although treated as if they were
-realities  under-  HESIS  lying  the phenomena, they are, as Gilbert says of the
-primum  mobile,  a  "fiction,  something not comprehensible by any reasoning and
-evidenced  by  no  visible  star,  but  purely  a  product  of  imagination  and
-mathematical   hypothesis."   There   is   almost   a  play  on  words  in  this
-identificationof   hypotheses  with  imaginary  entities  to  which  reality  is
-attributed;  for  in  their  Greek  and  Latin roots, the words "hypothesis" and
+They are not inferred from the phenomena. Although treated as if they were
+realities under- HESIS lying the phenomena, they are, as Gilbert says of the
+primum mobile, a "fiction, something not comprehensible by any reasoning and
+evidenced by no visible star, but purely a product of imagination and
+mathematical hypothesis." There is almost a play on words in this
+identificationof hypotheses with imaginary entities to which reality is
+attributed; for in their Greek and Latin roots, the words "hypothesis" and
 "hypostasis," "supposition" and "substance," are closely related. The first word
-in  each  of  these pairs refers to a proposition which underlies reasoning, the
-second  to  a reality which underlies observable qualities or phenomena. To make
-hypotheses,  in  the  sense  in  which  Newton  excludes  them from experimental
-philosophy,  is  to hypostatize or to reify, that is, to make a thing out of, or
+in each of these pairs refers to a proposition which underlies reasoning, the
+second to a reality which underlies observable qualities or phenomena. To make
+hypotheses, in the sense in which Newton excludes them from experimental
+philosophy, is to hypostatize or to reify, that is, to make a thing out of, or
 to give reality to, a fiction or construction of the mind. It has seemed to some
-critics  that, no less than the Cartesian vortices, the ether in Newton's theory
-of  light  is an hypothesis in precisely this sensean imaginary entity. For many
-centuries,  the  atoms and molecules postulated to explain chemical combinations
-and  changes were attacked as fictions and defended as useful hypotheses. On the
-one  hand,  there  is  an  issue  concerning  the  theoretic  usefulness of such
-constructions;  on  the  other,  a  question  concerning  their  counterparts in
-reality.  It  is  sometimes  thought  that  fictions  are useful for purposes of
-explanation  even  when  their  unreality  is  admitted.  Rousseau, for example,
+critics that, no less than the Cartesian vortices, the ether in Newton's theory
+of light is an hypothesis in precisely this sensean imaginary entity. For many
+centuries, the atoms and molecules postulated to explain chemical combinations
+and changes were attacked as fictions and defended as useful hypotheses. On the
+one hand, there is an issue concerning the theoretic usefulness of such
+constructions; on the other, a question concerning their counterparts in
+reality. It is sometimes thought that fictions are useful for purposes of
+explanation even when their unreality is admitted. Rousseau, for example,
 explicitly denies any historical reality to the idea of man living in a state of
 nature prior to the formation of society by the social contract. In this matter,
-he  says,  we  can  lay "facts aside, as they do not affect the question." These
-related  notions  the  state  of  nature  and  the  social  contractare  "rather
-calculated  to  explain  the  nature  of  things, than to ascertain their actual
-origin;  just like the hypotheses which our physicists daily form respecting the
-formation  of  the world." Similarly Lavoisier posits the existence ot "caloric"
-for  its  explanatory  value. "It is difficult," he writes, "to comprehend these
-phenomena,  without  admitting  them  as  the  effects  of  a  real and material
-substance,  or  very  subtile  fluid,  which,  insinuating  itself  between  the
-particles  of  bodies,  separates  them  from each other; and, even allowing the
-existence  of this fluid to be hypothetical, we shall see in the sequel, that it
-explains  the  phenomena  of  nature  in  a very satisfactory manner/* ONE OTHER
-MEANING  of  hypothesis  remains  to  be  considered.  It  is the sense in which
-postulatesor  assumptions  are distinguished from axioms in the foundations of a
-science.  In  Euclid's  geometry,  as  in  Descartes',  both sorts of principles
-appear.   The  axioms  or  common  notions  are  those  propositions  which  are
-immediately  seen  to  be  true without proof. The postulates or assumptions are
-hypotheses  in  the  sense  that their truth is taken for granted without proof.
-Both  sorts  of  propositions  serve  as  principles  or starting points for the
-demonstration  of  theorems,  or  the  conclusions  of  the  science.  Both  are
-principles  of  demonstration  in  that  they  arc  used  to  demonstrate  other
+he says, we can lay "facts aside, as they do not affect the question." These
+related notions the state of nature and the social contractare "rather
+calculated to explain the nature of things, than to ascertain their actual
+origin; just like the hypotheses which our physicists daily form respecting the
+formation of the world." Similarly Lavoisier posits the existence ot "caloric"
+for its explanatory value. "It is difficult," he writes, "to comprehend these
+phenomena, without admitting them as the effects of a real and material
+substance, or very subtile fluid, which, insinuating itself between the
+particles of bodies, separates them from each other; and, even allowing the
+existence of this fluid to be hypothetical, we shall see in the sequel, that it
+explains the phenomena of nature in a very satisfactory manner/* ONE OTHER
+MEANING of hypothesis remains to be considered. It is the sense in which
+postulatesor assumptions are distinguished from axioms in the foundations of a
+science. In Euclid's geometry, as in Descartes', both sorts of principles
+appear. The axioms or common notions are those propositions which are
+immediately seen to be true without proof. The postulates or assumptions are
+hypotheses in the sense that their truth is taken for granted without proof.
+Both sorts of propositions serve as principles or starting points for the
+demonstration of theorems, or the conclusions of the science. Both are
+principles of demonstration in that they arc used to demonstrate other
 propositions without themselves being demonstrated. But axioms are traditionally
-regarded  as  intrinsically  indemonstrable,  whereas  hypotheses  postulates or
-assumptions  may  not  be  indemonstrable.  They  are  simply  asserted  without
+regarded as intrinsically indemonstrable, whereas hypotheses postulates or
+assumptions may not be indemonstrable. They are simply asserted without
 demonstration.
 
-The  possibility  of  demonstrating  an  hypothesis  gives it the character of a
-provisional  assumption. In the Discourse on Method, Descartes refers to certain
+The possibility of demonstrating an hypothesis gives it the character of a
+provisional assumption. In the Discourse on Method, Descartes refers to certain
 matters assumed in his Dioptrics and Meteors, and expresses his concern lest the
-reader  should take "offence because I call them hypotheses and do not appear to
-care  about  their  proof." He goes on to say: "I have not named them hypotheses
+reader should take "offence because I call them hypotheses and do not appear to
+care about their proof." He goes on to say: "I have not named them hypotheses
 with any other object than that it may be known that whileI consider myself able
-to  deduce  them  from  the  primary  truths  which  I  explained  above,  yet I
-particularly  desired  not  to  do so, in order that certain persons may not for
-this  reason  take occasion to build up some extravagant philosophical system on
+to deduce them from the primary truths which I explained above, yet I
+particularly desired not to do so, in order that certain persons may not for
+this reason take occasion to build up some extravagant philosophical system on
 what they take to be my principles." The distinction between axioms and postutwo
-issues.  The  first  lates  or hypotheses raises concerns the genuineness of the
-distinction  itself.  Axioms,  self-evident  propositions, or what William James
+issues. The first lates or hypotheses raises concerns the genuineness of the
+distinction itself. Axioms, self-evident propositions, or what William James
 calls "necessary truths," have been denied entirely or dismissed as tautologies.
-The  only  principles  of science must then be hypothesesassumptions voluntarily
-made  or  conventionally  agreed upon. This issue is more fully discussed in the
-chapter   on   PRINCIPLE.  The  other  issue  presupposes  the  reality  of  the
-distinction,  but is concerned with different applications of it in the analysis
-of  science.  Aristotle,  for  example, defines scientific knowledge in terms of
-three  elements,  one  of  which  consists  of  the  primary premises upon which
+The only principles of science must then be hypothesesassumptions voluntarily
+made or conventionally agreed upon. This issue is more fully discussed in the
+chapter on PRINCIPLE. The other issue presupposes the reality of the
+distinction, but is concerned with different applications of it in the analysis
+of science. Aristotle, for example, defines scientific knowledge in terms of
+three elements, one of which consists of the primary premises upon which
 demonstrations rest. The principles of a particular science may be axioms in the
-strict  sense  of being self-evident truths and hence absolutely indemonstrable;
-or  they may be provisional assumptions which, though not proved m this science,
-can  nevertheless  be  proved  by  a  higher  science, as in "the application of
-geometrical   demonstrations   to   theorems  in  mechanics  or  optics,  or  of
-arithmetical  demonstrations  to  those of harmonics." The latter are not axioms
+strict sense of being self-evident truths and hence absolutely indemonstrable;
+or they may be provisional assumptions which, though not proved m this science,
+can nevertheless be proved by a higher science, as in "the application of
+geometrical demonstrations to theorems in mechanics or optics, or of
+arithmetical demonstrations to those of harmonics." The latter are not axioms
 because they are demonstrable; yet m a particular science they may play the role
-of  axioms  insofar as they are used, without being demonstrated, to demonstrate
-other  propositions.  Reasoning  which rests either on axioms or on demonstrable
-principles  Aristotle  calls  scientific,  but  reasoning  which  rests  only on
-hypotheses   he   regards   as  dialectical.  Reasoning  results  in  scientific
-demonstration,  according  to  Aristotle,  "when  the  premises  from  which the
-reasoning  starts  are  true and primary, or are such that our knowledge of them
-has  originally  come through premises which are primary and true." In contrast,
-reasoning  is  dialectical  "if  it  reasons  from  opinions  that are generally
-accepted,"  and,  Aristotle  explains,  "those opinions are 'generally accepted'
-which  are accepted by everyone or by the majority or by the philosophers /., by
-all,  or  by  a  majority,  or  by the most notable and illustrious of them." In
-another  place,  he  adds one important qualification. In defining a dialectical
-proposition  as  one  that  is  "held  by  all  men  or  by  most  men or by the
+of axioms insofar as they are used, without being demonstrated, to demonstrate
+other propositions. Reasoning which rests either on axioms or on demonstrable
+principles Aristotle calls scientific, but reasoning which rests only on
+hypotheses he regards as dialectical. Reasoning results in scientific
+demonstration, according to Aristotle, "when the premises from which the
+reasoning starts are true and primary, or are such that our knowledge of them
+has originally come through premises which are primary and true." In contrast,
+reasoning is dialectical "if it reasons from opinions that are generally
+accepted," and, Aristotle explains, "those opinions are 'generally accepted'
+which are accepted by everyone or by the majority or by the philosophers /., by
+all, or by a majority, or by the most notable and illustrious of them." In
+another place, he adds one important qualification. In defining a dialectical
+proposition as one that is "held by all men or by most men or by the
 philosophers," he adds: "provided it be not contrary to the general opinion; for
 a man would assent to the view of the philosophers, only if it were not contrary
-to  the  opinions of most men." For Aristotle, dialectical reasoning or argument
+to the opinions of most men." For Aristotle, dialectical reasoning or argument
 moves entirely within the sphere of opinion. Even an opinion generally accepted,
-not  only  by the philosophers but also by most CHAPTER 36: HYPO men, remains an
-opinion.  The  best  opinions  are  probabilities  propositions  which  are  not
-selfevident  and  which  cannot  be  proved.  They  are  not  merely provisional
+not only by the philosophers but also by most CHAPTER 36: HYPO men, remains an
+opinion. The best opinions are probabilities propositions which are not
+selfevident and which cannot be proved. They are not merely provisional
 assumptions. Resting on assumptions which cannot ever be more than probable, the
-conclusions  of  dialectical  reasoning are also never more than probable. Since
-they  lack  the  certain  foundation  which  axioms  give,  they cannot have the
-certitude  of  science.  Plato,  on  the  other  hand,  seems  to think that the
+conclusions of dialectical reasoning are also never more than probable. Since
+they lack the certain foundation which axioms give, they cannot have the
+certitude of science. Plato, on the other hand, seems to think that the
 mathematical sciences are hypothetical in their foundation, and that only in the
-science  of dialectic,which he considers the highest science, does the mind rise
-from  mere  hypotheses to the ultimate principles of knowledge. "The students of
-geometry,  arithmetic, and the kindred sciences," Socrates says in the Republic,
-"assume  the  odd and the even, and the figures and the three kinds of angle and
+science of dialectic,which he considers the highest science, does the mind rise
+from mere hypotheses to the ultimate principles of knowledge. "The students of
+geometry, arithmetic, and the kindred sciences," Socrates says in the Republic,
+"assume the odd and the even, and the figures and the three kinds of angle and
 the like in their several branches of science; these are their hypotheses, which
 they and everybody are supposed to know, and therefore they do not deign to give
-an  account  of  them either to themselves or others." There is a higher sort of
-knowledge,  he goes on, "which reason herself attains by the power of dialectic,
-using  the hypotheses not as first principles, but only as hypotheses that is to
+an account of them either to themselves or others." There is a higher sort of
+knowledge, he goes on, "which reason herself attains by the power of dialectic,
+using the hypotheses not as first principles, but only as hypotheses that is to
 say, as steps and points of departure into a world which is above hypotheses, in
-order  that  she  may  soar  beyond them to first principles." The issue between
-Plato  and Aristotle may be only verbal a difference in the use of such words as
-"science"  and  "dialectic."  Whether  it is verbal or real is considered in the
-chapters  on  DIALECTIC  and METAPHYSICS. In any case, the issue throws light on
-the  difference  between  an  hypothesis  as  a  merely  provisional assumption,
-susceptible  to  proof  by higher principles, and an hypothesis as a probability
-taken  for  granted  for  the purposes of argument, which is itself incapable of
+order that she may soar beyond them to first principles." The issue between
+Plato and Aristotle may be only verbal a difference in the use of such words as
+"science" and "dialectic." Whether it is verbal or real is considered in the
+chapters on DIALECTIC and METAPHYSICS. In any case, the issue throws light on
+the difference between an hypothesis as a merely provisional assumption,
+susceptible to proof by higher principles, and an hypothesis as a probability
+taken for granted for the purposes of argument, which is itself incapable of
 being proved.
 
 FINALLY WE COME to the meaning of "hypothetical" in the analysis of propositions
-and  syllogisms.  The  distinction  between the categorical and the hypothetical
-proposition  or  syllogism,  briefly  touched  on  in  Aristotle's  Organon,  is
+and syllogisms. The distinction between the categorical and the hypothetical
+proposition or syllogism, briefly touched on in Aristotle's Organon, is
 developed in the tradition of logic which begins with that book.
 
-In  his  work  on  Interpretation  he  distin- THESIS guishes between simple and
-compound  propositions.  The  compound  proposition  consists  of several simple
-propositions  in  some  logical  relation  to  one  another. In the tradition of
-logical   analysis,   three  basic  types  of  relation  have  been  defined  as
+In his work on Interpretation he distin- THESIS guishes between simple and
+compound propositions. The compound proposition consists of several simple
+propositions in some logical relation to one another. In the tradition of
+logical analysis, three basic types of relation have been defined as
 constituting three different kinds of compound proposition. One type of relation
-is  the  conjunctive;  it  is  signified  by  the  word  "and."  Another  is the
-disjunctive;  it is signified by the words "either ... or ..." The third type is
-the  hypothetical and is signified by the words "if . . . then . . ." To take an
-example  we  have  already used, "virtue is knowledge" and "virtue is teachable"
-are  simple  propositions.  In contrast, the statement, "//"virtue is knowledge,
-then  virtue  is teachable," is a compound proposition, hypothetical in form. If
+is the conjunctive; it is signified by the word "and." Another is the
+disjunctive; it is signified by the words "either ... or ..." The third type is
+the hypothetical and is signified by the words "if . . . then . . ." To take an
+example we have already used, "virtue is knowledge" and "virtue is teachable"
+are simple propositions. In contrast, the statement, "//"virtue is knowledge,
+then virtue is teachable," is a compound proposition, hypothetical in form. If
 the proposition were stated m the sentence, "either virtue is knowledge or it is
-not  teachable,"  it  would  be  disjunctive  in form; if stated in the sentence
-"virtue  is knowledge and virtue is teachable," it would be conjunctive in form.
-In  each  of  these  three  cases,  the compound proposition consists of the two
-simple  propositions  with which we began, though in each case they appear to be
-differently  related.  Whereas  Aristotle  divides  propositions into simple and
+not teachable," it would be disjunctive in form; if stated in the sentence
+"virtue is knowledge and virtue is teachable," it would be conjunctive in form.
+In each of these three cases, the compound proposition consists of the two
+simple propositions with which we began, though in each case they appear to be
+differently related. Whereas Aristotle divides propositions into simple and
 compound, Kant divides all judgments into the categorical, the hypothetical, and
-the  disjunctive.  In  the  categorical  judgment,  he  says,  "we  consider two
-concepts";  in  the hypothetical, "two judgements"; in the disjunctive, "several
-judgements  in their relation to one another." As an example of the hypothetical
-proposition,   he   offers  the  statement,  "If  perfect  justice  exists,  the
+the disjunctive. In the categorical judgment, he says, "we consider two
+concepts"; in the hypothetical, "two judgements"; in the disjunctive, "several
+judgements in their relation to one another." As an example of the hypothetical
+proposition, he offers the statement, "If perfect justice exists, the
 obstinately wicked are punished." As an example of the disjunctive judgment, "we
-may  say  [that]  the  . . . world exists either by blind chance, or by internal
-necessity,  or  by  an  external  cause." Each of these three alternatives, Kant
+may say [that] the . . . world exists either by blind chance, or by internal
+necessity, or by an external cause." Each of these three alternatives, Kant
 points out, "occupies a part of the sphere of all possible knowledge with regard
-to  the existence of the world, while all together occupy the whole sphere." The
-hypothetical  judgment does no more than state "the relation of two propositions
+to the existence of the world, while all together occupy the whole sphere." The
+hypothetical judgment does no more than state "the relation of two propositions
 Whether both these propositions are . . . true remains unsettled. It is only the
-consequence,"  Kant  says,  "which is laid down by this judgement." THE GREAT In
-the  Prior  Analytics,  Aristotle  distinguishes between the categorical and the
-hypothetical   syllogism.  The  following  reasoning  is  categorical  in  form:
+consequence," Kant says, "which is laid down by this judgement." THE GREAT In
+the Prior Analytics, Aristotle distinguishes between the categorical and the
+hypothetical syllogism. The following reasoning is categorical in form:
 "Knowledge is teachable, virtue is knowledge; therefore, virtue is teachable."
 
 The following reasoning is hypothetical in form:' '//"virtue is knowledge, it is
-teachable;  but virtue is knowledge; therefore it is teachable'*; or "//* virtue
-is  knowledge, it is teachable; but virtue is not teachable; therefore it is not
+teachable; but virtue is knowledge; therefore it is teachable'*; or "//* virtue
+is knowledge, it is teachable; but virtue is not teachable; therefore it is not
 knowledge."
 
-The  basic  issue  with  respect  to  the  distinction  between  categorical and
-hypothetical  syllogisms  is  whether  the  latter  are  always reducible to the
-former.  One  thing  seems to be clear. The rules for the hypothetical syllogism
-formally  parallel  the  rules  for  the  categorical syllogism. In hypothetical
-reasoning,  the  consequent  must be affirmed if the antecedent is affirmed; the
+The basic issue with respect to the distinction between categorical and
+hypothetical syllogisms is whether the latter are always reducible to the
+former. One thing seems to be clear. The rules for the hypothetical syllogism
+formally parallel the rules for the categorical syllogism. In hypothetical
+reasoning, the consequent must be affirmed if the antecedent is affirmed; the
 antecedent must be denied if the consequent is denied. In categorical reasoning,
 the affirmation of the premises requires an affirmation of the conclusion, and a
-denial  of the conclusion requires a denial of the premises. With respect to the
-distinction  between the categorical and hypothetical proposition, there is also
-an  issue  whether  propositions stated in one form can always be converted into
-propositions  having  the other form of statement. In modern mathematical logic,
-for  example,  general propositions, such as "All men are mortal," are sometimes
+denial of the conclusion requires a denial of the premises. With respect to the
+distinction between the categorical and hypothetical proposition, there is also
+an issue whether propositions stated in one form can always be converted into
+propositions having the other form of statement. In modern mathematical logic,
+for example, general propositions, such as "All men are mortal," are sometimes
 expressed in hypothetical form :
 
 OUTLINE OF TOPICS
@@ -448,16 +448,16 @@ OUTLINE OF TOPICS
 3. The foundations of mathematics: postulates, assumptions
 
 4. The role of hypotheses in science
-   4a. Theories, provisional assumptions, fictions, reifications
-   4b. The purpose of hypotheses: saving the appearances; the formulation of predic-
-   tions
-   4c. Consistency, simplicity, and beauty as standards in the construction of hy-
-   potheses
-   4d. The task of verification: the plurality of hypotheses
-   5* Hypothetical propositions            and syllogisms: the distinction between the hypothetical
-   and the categorical
+ 4a. Theories, provisional assumptions, fictions, reifications
+ 4b. The purpose of hypotheses: saving the appearances; the formulation of predic-
+ tions
+ 4c. Consistency, simplicity, and beauty as standards in the construction of hy-
+ potheses
+ 4d. The task of verification: the plurality of hypotheses
+ 5* Hypothetical propositions and syllogisms: the distinction between the hypothetical
+ and the categorical
 
-CROSS-REFERENCES  For:  The  distinction between axioms and postulates, assumpti
+CROSS-REFERENCES For: The distinction between axioms and postulates, assumpti
 8a; PRINCIPLE 2b(2), 30-30(3); TRUTH 40, 73.
 
 Other discussions of the use of hypotheses in dialec
@@ -494,20 +494,20 @@ I.
 
 DESCARTES. The Principles of Philosophy, PART in, 43-47
 
-HOBBES.  Concerning  Body, PART iv, CH 26 SPINOZA. Correspondence, vi, xin KANT.
+HOBBES. Concerning Body, PART iv, CH 26 SPINOZA. Correspondence, vi, xin KANT.
 Introduction to Logic, x J. S. MILL. A System of Logic, BK in, CH 14
 
 II.
 
-ARNAULD.  Logic  or  the  Art  of  Thinking,  PART n BOYLE. Reflections upon the
+ARNAULD. Logic or the Art of Thinking, PART n BOYLE. Reflections upon the
 Hypothesis of Alkali and Acidum
 
 T. REID. Essays on the Intellectual Powers of Man, i, CH3
 
 BROWN. Lectures on the Philosophy of the Human Mind, VOL i, pp 220-241
 
-HERSCHEL.  A  Preliminary Discourse on the Study of Natural Philosophy, par 202,
-208,  210, COMTE. The Positive Philosophy, BK m, CH i WHBWELL. The Philosophy of
+HERSCHEL. A Preliminary Discourse on the Study of Natural Philosophy, par 202,
+208, 210, COMTE. The Positive Philosophy, BK m, CH i WHBWELL. The Philosophy of
 the Inductive Sciences, VOL II, BK XIII
 
 . On the Philosophy of Discovery, APPENDIX H 58a-b; CH 29 62d-63d; CH 44
@@ -529,21 +529,21 @@ A 13, REP 2 86d-88c; Q 19, A 8, REP 1,3
 
 179c-180c; 193a-200c esp 194b-d; 232c-233c
 
-298a  / Fund. Prm. Metaphysic of Morals, 265c267a esp 266a-c / Practical Reason,
+298a / Fund. Prm. Metaphysic of Morals, 265c267a esp 266a-c / Practical Reason,
 297aons, and hypotheses, see JUDGMENT tic and philosophy, see DIALECTIC 23(2); n
-between  scientific  and dialectical LOGIC 43; MATHEMATICS 33; snd for othetical
-reasoning,  see JUDGMENT 6d; rical science, see ASTRONOMY 2b; 4b-4d; SCIENCE 46,
-56.  ths  of  the Western World, but relevant to the hese works are divided into
-two  groups:  ted in this collection esented in this collection. the publication
-of  the works cited, consult llows the last chapter of The Great Ideas. BERNARD.
-Introduction  to  Experimental Medicine, PART I, CH 2 TYNDALL. Scientific Use of
+between scientific and dialectical LOGIC 43; MATHEMATICS 33; snd for othetical
+reasoning, see JUDGMENT 6d; rical science, see ASTRONOMY 2b; 4b-4d; SCIENCE 46,
+56. ths of the Western World, but relevant to the hese works are divided into
+two groups: ted in this collection esented in this collection. the publication
+of the works cited, consult llows the last chapter of The Great Ideas. BERNARD.
+Introduction to Experimental Medicine, PART I, CH 2 TYNDALL. Scientific Use of
 the Imagination JEVONS. The Principles of Science, CH 23 BRADLEY. The Principles
-of  Logic,  BK  i,  CH  2  BOSANQUET. LoglC, VOL II, CH 5 C. S. PEIRCE Collected
+of Logic, BK i, CH 2 BOSANQUET. LoglC, VOL II, CH 5 C. S. PEIRCE Collected
 Papers, VOL n, par 619-644, 669-693, 755-791 VOL vi, par 7-34 ; VENN. Principles
-of  Empirical or Inductive Logic, CH 1 6 POINCARE". Science and Hypothesis, PART
+of Empirical or Inductive Logic, CH 1 6 POINCARE". Science and Hypothesis, PART
 iv, CH 9-10 MACH. Erfynntnis und Irrtum (Die Hypothese)
 
-DUHEM.  La theone physique, son objet sa structure PARETO. The Mind and Society,
+DUHEM. La theone physique, son objet sa structure PARETO. The Mind and Society,
 VOL i, CH 4-5 N. R. CAMPBELL. Physics; the Elements, CH 6
 
 ,What Is Science?, CH 5 BOHR. Atomic Theory and the Description of Nature

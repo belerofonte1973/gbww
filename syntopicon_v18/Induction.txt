@@ -1,389 +1,389 @@
-Chapter  39:  IND  INTRODUCTI A I the list of Additional Readings indicates, the
-theory  of  induction  falls  within  the  province  of logic and is part of the
-logician's  concern  with  the methods of inference or reasoning employed in the
-sciences.  The  great  controversies  about  induction  seem to be of relatively
-recent  origin  in  the  history  of  logic, beginning perhaps with the argument
-between  William  Whewell  and  J.  S.  Mill over the contributionsof reason and
-experience  to the inductive process. Later in the nineteenth century and in our
-own  time,  writers  like  Johnson  and  Keyncs,  Russell and Nicod, who present
-different  formulations  of  inductive inference, call attention to the unsolved
+Chapter 39: IND INTRODUCTI A I the list of Additional Readings indicates, the
+theory of induction falls within the province of logic and is part of the
+logician's concern with the methods of inference or reasoning employed in the
+sciences. The great controversies about induction seem to be of relatively
+recent origin in the history of logic, beginning perhaps with the argument
+between William Whewell and J. S. Mill over the contributionsof reason and
+experience to the inductive process. Later in the nineteenth century and in our
+own time, writers like Johnson and Keyncs, Russell and Nicod, who present
+different formulations of inductive inference, call attention to the unsolved
 problems with which any theory is left. They underline the assumptions that seem
-to  be  unavoidable in any statement of the formal conditions which validate the
+to be unavoidable in any statement of the formal conditions which validate the
 so-called "inductive leap" the jump from observed particulars to general truths,
-truths  having  a wider generality than the particular evidences from which they
+truths having a wider generality than the particular evidences from which they
 are drawn or on which they arc based.
 
-The  problem  of  induction,  in  anyone's  version  of  it,  is  the problem of
-generalization.  This  may  involve  psychological  questions about how the mind
-generalizes  from  experience.  But however they are answered, the basic logical
-questions   remain   substantially   unaltered.   By   what  criteria  is  valid
-distinguished  from fallacious induction? Can induction be secured from error by
-rules  of inference ? Is induction indispensable m the development of scientific
-knowledge,  or  is there, as Whewell, for example, suggests, a sharp distinction
-between  the  inductive  and  the  deductive  sciences?  What is the relation of
-induction  to deduction? Is it the relation of a method of discovery to a method
+The problem of induction, in anyone's version of it, is the problem of
+generalization. This may involve psychological questions about how the mind
+generalizes from experience. But however they are answered, the basic logical
+questions remain substantially unaltered. By what criteria is valid
+distinguished from fallacious induction? Can induction be secured from error by
+rules of inference ? Is induction indispensable m the development of scientific
+knowledge, or is there, as Whewell, for example, suggests, a sharp distinction
+between the inductive and the deductive sciences? What is the relation of
+induction to deduction? Is it the relation of a method of discovery to a method
 of demonstration or proof? Is it a relation between two modes of reasoning, both
-of  which  can  be  formulated as processes of UCTION ON proof? Is there both an
-inductive  and  a deductive type of syllogism, or is induction the very opposite
+of which can be formulated as processes of UCTION ON proof? Is there both an
+inductive and a deductive type of syllogism, or is induction the very opposite
 of all forms of reasoning and proof?
 
-It  is  with these last questions that the discussion of induction begins in the
-great  books,  especially  in Aristotle's Organon and Bacon's Novum Organum, but
-also  in  the writings of Descartes and Locke, and in observations on scientific
-method  by  Newton,  Harvey,  and  Pascal.  Though many of the controversies and
+It is with these last questions that the discussion of induction begins in the
+great books, especially in Aristotle's Organon and Bacon's Novum Organum, but
+also in the writings of Descartes and Locke, and in observations on scientific
+method by Newton, Harvey, and Pascal. Though many of the controversies and
 problems which become central in the nineteenth century do not appear explicitly
-the  m  they  arc anticipated by the earlier tradition, fundamental distinctions
-and  issues  which  can be found in the earlier writers. Bacon's dissatisfaction
-with  Aristotle,  for  example,  leads  him  to  formulate  specific  rules  for
-induction.  Going further in the same general direction, Mill later develops his
+the m they arc anticipated by the earlier tradition, fundamental distinctions
+and issues which can be found in the earlier writers. Bacon's dissatisfaction
+with Aristotle, for example, leads him to formulate specific rules for
+induction. Going further in the same general direction, Mill later develops his
 elaborate theory of inductive inference. We move in the opposite direction if we
-are  guided  by  Aristotle's  distinction  between  scientific  and  dialectical
-induction  and  by  his  way  of  setting induction off The question as the very
+are guided by Aristotle's distinction between scientific and dialectical
+induction and by his way of setting induction off The question as the very
 opposite of reasoning. then arises whether Bacon and Mill are treating induction
-in  all or in only one of several quite distinct senses. As THE CHAPTER on LOGIC
+in all or in only one of several quite distinct senses. As THE CHAPTER on LOGIC
 indicates, the names of Aristotle and Bacon are sometimes used as the symbols of
-opposed  tendencies  in  logic.  The  one  is  supposed  to  represent an almost
-exclusive  emphasis  on  deduction,  the  other  the  primacy  and importance of
-induction.  An  opposition  between  Aristotle  and Bacon is also implied in the
-current  use  of  such phrases as "inductive logic" and "deductive logic." These
-phrases  are  sometimes  used  to  suggest  that  the inductive or the deductive
-process  can  be favored to the exclusion, or at least the subordination, of the
+opposed tendencies in logic. The one is supposed to represent an almost
+exclusive emphasis on deduction, the other the primacy and importance of
+induction. An opposition between Aristotle and Bacon is also implied in the
+current use of such phrases as "inductive logic" and "deductive logic." These
+phrases are sometimes used to suggest that the inductive or the deductive
+process can be favored to the exclusion, or at least the subordination, of the
 other. Such understanding of THE GREAT I the matter usually includes the popular
-notion  that  induction  is  always reasoning from particulars to universals and
-deduction  always  reasoning  from  universals to particulars. But none of these
-things  seems to be true, or at least not without serious qualification. Neither
-Aristotle  nor  Bacon  emphasizes deduction or induction to the exclusion of the
-other.  On  the  contrary,  both  appear  to  insist on the absolute priority of
-induction,  since,  according  to them, it provides deductive reasoning with its
+notion that induction is always reasoning from particulars to universals and
+deduction always reasoning from universals to particulars. But none of these
+things seems to be true, or at least not without serious qualification. Neither
+Aristotle nor Bacon emphasizes deduction or induction to the exclusion of the
+other. On the contrary, both appear to insist on the absolute priority of
+induction, since, according to them, it provides deductive reasoning with its
 ultimate premises. Far from conflicting, induction and deduction complement each
-other.  "The  consilience  of the results of both these processes," Mill writes,
+other. "The consilience of the results of both these processes," Mill writes,
 "each corroborating and verifying the other, is requisite to give to any general
 proposition the kind and degree of evidence which constitutes scientific proof."
-Until  principles  are  established,  the  deduction  of  their  implications or
-consequences  cannot  begin. Unless principles, once they are obtained, are then
-used  in  the  proof  of other truths, or are otherwise rationally employed, the
+Until principles are established, the deduction of their implications or
+consequences cannot begin. Unless principles, once they are obtained, are then
+used in the proof of other truths, or are otherwise rationally employed, the
 purpose of inductive generalization is not fully realized. In this understanding
-of  the relationship between induction and reasoning, Aristotle and Bacon do not
-seem  to  disagree,  nor  does either of them conceive induction as a process of
-reasoning  from  particulars  to  universals.  There  is  no  question  that the
-direction  of  induction  is from particulars; but in the precise sense in which
-induction  precedes deduction the sense in which both Bacon and Aristotle regard
-it  as  the source of axioms they do not think it is a process of reasoning or a
-form  of  proof.  As  for deduction, it is questionable, at least for Aristotle,
+of the relationship between induction and reasoning, Aristotle and Bacon do not
+seem to disagree, nor does either of them conceive induction as a process of
+reasoning from particulars to universals. There is no question that the
+direction of induction is from particulars; but in the precise sense in which
+induction precedes deduction the sense in which both Bacon and Aristotle regard
+it as the source of axioms they do not think it is a process of reasoning or a
+form of proof. As for deduction, it is questionable, at least for Aristotle,
 whether its direction can be described as from the universal to the particular.
 
 Aristotle seldom uses the word "deduction" as the name for that phase of thought
-which  is  complementary  to  induction.  He  speaks  rather  of  demonstration.
-Demonstration  takes place through the various forms of reasoning which he calls
-"syllogisms."  As  the  chapter  on REASONING explains, these are collections of
-premises  each  of  which  yields  a  conclusion by valid inference. In the most
-perfect  forms of reasoning, the conclusion is as universal as its premises, and
-though  there  are  syllogisms  in  which  a  par-  ticular  proposition  can be
-demonstrated  from  a  universal and a particular premise, it is seldom the case
-that  from exclusively universal premises a particular conclusion can be validly
-drawn.The  statement  that deduction is reasoning from universals to particulars
-certainly  does  not  seem  to fit Aristotle's theory of the syllogism, and even
-less  his  conception  of scientific demonstration, the aim of which is to prove
-universal,  not  particular,  propositions.  "WE LEARN EITHER by induction or by
+which is complementary to induction. He speaks rather of demonstration.
+Demonstration takes place through the various forms of reasoning which he calls
+"syllogisms." As the chapter on REASONING explains, these are collections of
+premises each of which yields a conclusion by valid inference. In the most
+perfect forms of reasoning, the conclusion is as universal as its premises, and
+though there are syllogisms in which a par- ticular proposition can be
+demonstrated from a universal and a particular premise, it is seldom the case
+that from exclusively universal premises a particular conclusion can be validly
+drawn.The statement that deduction is reasoning from universals to particulars
+certainly does not seem to fit Aristotle's theory of the syllogism, and even
+less his conception of scientific demonstration, the aim of which is to prove
+universal, not particular, propositions. "WE LEARN EITHER by induction or by
 demonstration," Aristotle writes in the Prior Analytics. "Demonstration develops
 from universals, induction from particulars." In the Posterior Analytics he says
-that  the  ultimate premises of demonstration must be primary or basic truths. A
-basic  truth  is  an  immediate  proposition  what  is sometimes called a "first
-principle"  or  an  "axiom."  Since in his view "an immediate proposition is one
-which  has  no  other  proposition  prior  to  it," the basic premises cannot be
-demonstrated.  Whence  come  these  primary  premises which are indispensable to
-demonstration  but  which  demonstration cannot establish? Aristotle's answer is
-that  "we know the primary premises by induction." In another place he says, "it
-is  by  intuition  that  we  obtain  the primary premises." The word "intuition"
+that the ultimate premises of demonstration must be primary or basic truths. A
+basic truth is an immediate proposition what is sometimes called a "first
+principle" or an "axiom." Since in his view "an immediate proposition is one
+which has no other proposition prior to it," the basic premises cannot be
+demonstrated. Whence come these primary premises which are indispensable to
+demonstration but which demonstration cannot establish? Aristotle's answer is
+that "we know the primary premises by induction." In another place he says, "it
+is by intuition that we obtain the primary premises." The word "intuition"
 indicates an essential characteristic of the sort of induction which, because it
-is  not itself a form of reasoning, can be prior to all reasoning and must be in
-order  to  supply  the  premises  from  which  reasoning  proceeds. Reasoning is
-discursive.  It  is  a  process  involving  steps. One proposition is drawn from
-another  by the mediation of a third. Intuition, in contrast, is immediate. Like
-an  act of seeing, it apprehends its object at once and directly. When Aristotle
-speaks  of  induction  as  a  kind  of intuition, he implies, therefore, that it
-consists  in the immediate grasp of a universal truth. The proposition thus held
-he  calls  "immediate"  precisely  because it can be known intuitively and in no
-other  way.  Intuitive  induction,  as  opposed to what may be called "inductive
-reasoning,"  consists  in  seeing  the universal in the particular. When what is
-seen  is  expressed  in the form of a proposition, the universal implicit in the
+is not itself a form of reasoning, can be prior to all reasoning and must be in
+order to supply the premises from which reasoning proceeds. Reasoning is
+discursive. It is a process involving steps. One proposition is drawn from
+another by the mediation of a third. Intuition, in contrast, is immediate. Like
+an act of seeing, it apprehends its object at once and directly. When Aristotle
+speaks of induction as a kind of intuition, he implies, therefore, that it
+consists in the immediate grasp of a universal truth. The proposition thus held
+he calls "immediate" precisely because it can be known intuitively and in no
+other way. Intuitive induction, as opposed to what may be called "inductive
+reasoning," consists in seeing the universal in the particular. When what is
+seen is expressed in the form of a proposition, the universal implicit in the
 known particulars is made explicit.
 
-CHAPTER  39:  IN  Induction  and  intuition  arc,  however,  not  identical  for
-Aristotle.  In  one  passage  in  the  Prior  Analytics he considers syllogistic
-induction,  which  can hardly be called "intuitive." And in the Ethics, where he
-discusses  intuitive reason, he distinguishes between two sorts of primary truth
-that  can  be  known  by intuition. "Intuitive reason/' he writes, "is concerned
+CHAPTER 39: IN Induction and intuition arc, however, not identical for
+Aristotle. In one passage in the Prior Analytics he considers syllogistic
+induction, which can hardly be called "intuitive." And in the Ethics, where he
+discusses intuitive reason, he distinguishes between two sorts of primary truth
+that can be known by intuition. "Intuitive reason/' he writes, "is concerned
 with the ultimates in both directions; for both the first terms and the last are
-objects  of intuitive reason and not of argument, and the intuitive reason which
-is  presupposed by demonstrations grasps the unchangeable and first terms, while
-the  intuitive  reason  involved  in  practical  reasoning  grasps  the last and
-variable  the  minor  premise.  For  these  variable  fact,  i.e., facts are the
-starting-points  for  the  apprehension  of  the  end,  since the universals are
-reached  from  the  particulars; of these therefore we must have perception, and
-this  perception  is  intuitive  "  reason  This applies to theoretic as well as
-practical  knowledge. By intuitive reason, it seems, we grasp both the universal
+objects of intuitive reason and not of argument, and the intuitive reason which
+is presupposed by demonstrations grasps the unchangeable and first terms, while
+the intuitive reason involved in practical reasoning grasps the last and
+variable the minor premise. For these variable fact, i.e., facts are the
+starting-points for the apprehension of the end, since the universals are
+reached from the particulars; of these therefore we must have perception, and
+this perception is intuitive " reason This applies to theoretic as well as
+practical knowledge. By intuitive reason, it seems, we grasp both the universal
 principles or axioms and the particular facts of sense-perception. As perception
-is  intuition on the part of the sensitive faculty, so induction is an intuitive
-use  of  the intellect (though Aristotle attributes both to "intuitive reason").
-These  two  forms  of  intuition  are  functionally  related.  The  induction of
-universal  truths  from particulars is impossible without sense-perception, "for
-it  is  sense-perception  alone  which  is  able to grasp the particulars." But,
-according  to  Aristotle,  a single isolated perception does not give rise to an
-intuitive   induction.   Repeated  perceptions  of  things  of  a  certain  sort
-particulars  of  a  certain  class  are  formed by memory into what he calls "an
+is intuition on the part of the sensitive faculty, so induction is an intuitive
+use of the intellect (though Aristotle attributes both to "intuitive reason").
+These two forms of intuition are functionally related. The induction of
+universal truths from particulars is impossible without sense-perception, "for
+it is sense-perception alone which is able to grasp the particulars." But,
+according to Aristotle, a single isolated perception does not give rise to an
+intuitive induction. Repeated perceptions of things of a certain sort
+particulars of a certain class are formed by memory into what he calls "an
 experience." Because the experience refers, not to a single individual, but to a
-class  of similar individuals, it provides the material for the mind's intuitive
+class of similar individuals, it provides the material for the mind's intuitive
 act of induction.
 
-This  theory  of  the role of experience in induction is more fully discussed in
-the  chapter on EXPERIENCE. For our present purposes, the main point is that the
-universal,  lying  implicitly  in  the  experience,  is ready, as it were, to be
+This theory of the role of experience in induction is more fully discussed in
+the chapter on EXPERIENCE. For our present purposes, the main point is that the
+universal, lying implicitly in the experience, is ready, as it were, to be
 extracted therefrom and made explicit. "Though the act of sense-perception is of
-the  particular,  its  content is universal," Aristotle writes. With DUCTION the
-help  of  memory  and experience, induction makes the latent universal manifest.
-BACON'S  CRITICISM of the logic of Aristotle seems to rest on two counts: first,
-he  complains  of Aristotle's over-emphasis on syllogisms, whether they are used
-dialectically  or  demonstratively;  and  second,  he  charges  Aristotle with a
-superficial  understanding  of  induction. One of the chief efforts of the Novum
+the particular, its content is universal," Aristotle writes. With DUCTION the
+help of memory and experience, induction makes the latent universal manifest.
+BACON'S CRITICISM of the logic of Aristotle seems to rest on two counts: first,
+he complains of Aristotle's over-emphasis on syllogisms, whether they are used
+dialectically or demonstratively; and second, he charges Aristotle with a
+superficial understanding of induction. One of the chief efforts of the Novum
 Organum is to correct the latter mistake. "There are and can exist," says Bacon,
 "but two ways of investigating and discovering truth. The one hurries on rapidly
-from  the  senses  and particulars to the most general axioms, and from them, as
+from the senses and particulars to the most general axioms, and from them, as
 principles, and from their supposed indisputable truth, deduces the intermediate
-axioms.  This  is  the  way now in use. The other constructs its axioms from the
+axioms. This is the way now in use. The other constructs its axioms from the
 senses and particulars, by ascending continually and gradually, until it finally
-arrives  at  the  most  general  axioms, which is the true but unattempted way."
-Where  Aristotle  proposes  that  only the primary truths or first principles be
-established  by induction, while all the others (which Bacon calls "intermediate
-axioms")  are  to be derived from them by demonstration, Bacon urges a method of
-induction  which  shall  mount  gradually  from  the  least  general to the most
-universal  propositions. We should not "suffer the understanding to jump and fly
-from  particulars  to  remote  and most general axioms." We should "proceed by a
-true   scale   and  successive  steps,  without  interruption  or  breach,  from
-particulars  to  the lesser axioms, thence to the intermediate (rising one above
-the  other),  and  lastly,  to  the  most  general."  According  to this theory,
+arrives at the most general axioms, which is the true but unattempted way."
+Where Aristotle proposes that only the primary truths or first principles be
+established by induction, while all the others (which Bacon calls "intermediate
+axioms") are to be derived from them by demonstration, Bacon urges a method of
+induction which shall mount gradually from the least general to the most
+universal propositions. We should not "suffer the understanding to jump and fly
+from particulars to remote and most general axioms." We should "proceed by a
+true scale and successive steps, without interruption or breach, from
+particulars to the lesser axioms, thence to the intermediate (rising one above
+the other), and lastly, to the most general." According to this theory,
 induction can intuitively draw more general from less general truths, as well as
-the  least  general  truths from the particulars of perception. It might seem at
+the least general truths from the particulars of perception. It might seem at
 were no place for deduction in first as if there the development of science. But
-Bacon  divides  the  study  of  nature  into  two phases: "the first regards the
-eliciting  or  creating  of  axioms from experiments, the second the deducing or
-deriving  of  new experiments from axioms." Here too there seems to be a crucial
-difference  between Bacon and Aristotle. This difference is indicated by Bacon's
-emphasis  upon  experiments  both  as the source of inductive generalization and
-also  as  that which is ultimately derived by deduction from axioms. The between
-experience  (which  difference  Aristotle  makes  the  source  of induction) and
-experiment  is  more  than verbal. "The axioms now in use," Bacon contends, "are
-derived  from a scanty handful, as it were, of experience, and a few particulars
-of  frequent  occurrence," There has been too little attention given to negative
-instances,  that  is,  of  cases which seem to run counter to the generalization
+Bacon divides the study of nature into two phases: "the first regards the
+eliciting or creating of axioms from experiments, the second the deducing or
+deriving of new experiments from axioms." Here too there seems to be a crucial
+difference between Bacon and Aristotle. This difference is indicated by Bacon's
+emphasis upon experiments both as the source of inductive generalization and
+also as that which is ultimately derived by deduction from axioms. The between
+experience (which difference Aristotle makes the source of induction) and
+experiment is more than verbal. "The axioms now in use," Bacon contends, "are
+derived from a scanty handful, as it were, of experience, and a few particulars
+of frequent occurrence," There has been too little attention given to negative
+instances, that is, of cases which seem to run counter to the generalization
 being formed.
 
-"In  establishing  any true axiom," Bacon insists, "the negative instance is the
-most  powerful."  The  chapter  on  EXPERIENCE  dwells on the difference between
-ordinary  experience  and  planned  experiments.  Where  Aristotle  seems  to be
-satisfied  with the ordinary experience which arises from the perceptions of men
-in  the  course  of  daily life, Bacon thinks it does not suffice. Because it is
-haphazard,  it  fails  to  collect  the  variety of instances, both positive and
-negative,  upon  which  genuine and solid inductions can be founded. Unusual and
-special  experiences  must  be sought out, and the effort must be made to invent
-experiences  which  do  not  arise  spontaneously.  For  this, experiment or the
-production  of experiences is necessary. Bacon thinks we must, "by every kind of
+"In establishing any true axiom," Bacon insists, "the negative instance is the
+most powerful." The chapter on EXPERIENCE dwells on the difference between
+ordinary experience and planned experiments. Where Aristotle seems to be
+satisfied with the ordinary experience which arises from the perceptions of men
+in the course of daily life, Bacon thinks it does not suffice. Because it is
+haphazard, it fails to collect the variety of instances, both positive and
+negative, upon which genuine and solid inductions can be founded. Unusual and
+special experiences must be sought out, and the effort must be made to invent
+experiences which do not arise spontaneously. For this, experiment or the
+production of experiences is necessary. Bacon thinks we must, "by every kind of
 experiment, elicit the discovery of causes and true axioms."
 
-Two  CONSEQUENCES  FOLLOW  from  the  several  differences we have noted between
-Aristotle's  and  Bacon's  theories  of induction. In the first place, Aristotle
-does  not seem to think that induction can be methodically prescribed by logical
-rules.  It  is a natural act of intelligence to draw universals from experience.
+Two CONSEQUENCES FOLLOW from the several differences we have noted between
+Aristotle's and Bacon's theories of induction. In the first place, Aristotle
+does not seem to think that induction can be methodically prescribed by logical
+rules. It is a natural act of intelligence to draw universals from experience.
 Though men may differ in the readiness of their native wit, the induction of the
-primary  truths,  which  are the axioms or first principles of science, does not
-require  special  genius  nor  can  it  be  improved or rendered more certain by
-following  rules.  Precisely  because  it  is  intuitivethan  discursive, rather
-induction,  unlike  reasoning, cannot be regulated by rules of inference such as
+primary truths, which are the axioms or first principles of science, does not
+require special genius nor can it be improved or rendered more certain by
+following rules. Precisely because it is intuitivethan discursive, rather
+induction, unlike reasoning, cannot be regulated by rules of inference such as
 those which govern the syllogism.
 
-Without  disagreeing that it is intuitive rather than argumentative, Bacon seems
-to  think  that induction requires the practice of the most detailed and precise
-method.  Not only must the various ascending stages of induction be regulated by
-observance  of  an  order  of  generality, but the making of experiments and the
-collection  and arrangement of particulars, "forming tables and coordinations of
-instances,"  must  be governed by a complex set of rules. The twentyseven tables
-of  instances, set forth in the second book of the Novum Organum, constitute the
-heart  of  Bacon's  method  of  induction.  This  new method "of discovering the
-sciences,"  he  observes,  "levels  men's  wits  and  leaves but little of their
-superiority,  since  it  achieves  everything by the most certain rules." In the
-second  place, since genuine induction depends for Bacon upon ample experiments,
-it  belongs primarily to the method of the experimental sciences the physical or
-natural  sciences  in  which  experimentation  is  possible.  Though  the  first
+Without disagreeing that it is intuitive rather than argumentative, Bacon seems
+to think that induction requires the practice of the most detailed and precise
+method. Not only must the various ascending stages of induction be regulated by
+observance of an order of generality, but the making of experiments and the
+collection and arrangement of particulars, "forming tables and coordinations of
+instances," must be governed by a complex set of rules. The twentyseven tables
+of instances, set forth in the second book of the Novum Organum, constitute the
+heart of Bacon's method of induction. This new method "of discovering the
+sciences," he observes, "levels men's wits and leaves but little of their
+superiority, since it achieves everything by the most certain rules." In the
+second place, since genuine induction depends for Bacon upon ample experiments,
+it belongs primarily to the method of the experimental sciences the physical or
+natural sciences in which experimentation is possible. Though the first
 principles or axioms of arithmetic and geometry may be learned by induction, the
-method  of  gradual ascent from experiments through intermediate generalizations
+method of gradual ascent from experiments through intermediate generalizations
 does not apply to mathematics. Here we may have the beginning of the notion that
-only  the experimental sciences are primarily inductive, whereas other sciences,
-like  mathematics,  are primarily deductive. But such a division of the sciences
-does  not accord with Aristotle's theory of induction. He thinks mathematics and
-metaphysics  require  induction for their foundation no less than physics and in
-no  different  way;  if  anything,  induction  is of the greatest importance for
-metaphysics,  because all its principles are indemonstrable, whereas some of the
+only the experimental sciences are primarily inductive, whereas other sciences,
+like mathematics, are primarily deductive. But such a division of the sciences
+does not accord with Aristotle's theory of induction. He thinks mathematics and
+metaphysics require induction for their foundation no less than physics and in
+no different way; if anything, induction is of the greatest importance for
+metaphysics, because all its principles are indemonstrable, whereas some of the
 principles needed in mathematics and physics can be demonstrated in metaphysics.
-Yet  no  science  is  peculiarly  inductive,  )ust  as  none stands in a special
-relation  to experience. All depend equally upon experience for the induction of
-the  primary  truths on which their demonstrations rest. Descartes seems to fall
-somewhere  between  Aristotle  and  Bacon. He regards arithmetic and geometry as
-more  certain  than  the  physical  sciences,  because  mathematics  is  largely
-developed  by deduction, whereas the study of nature depends upon induction from
-experiments.  In  this  lies  the  superiority of mathematics. "While CHAFTE 39:
-INDUCTIO  our  inferences from experience are frequently * falkcious," Descartes
-writes,  'deduction, or the . . . pure illation of one thing from another cannot
-be  erroneous  when  performed  by  an understanding that is in the least degree
-rational/'  Nevertheless,  Descartes does not exclude induction as the source of
-the  axioms of mathematics or, for that matter, of metaphysics; he only excludes
+Yet no science is peculiarly inductive, )ust as none stands in a special
+relation to experience. All depend equally upon experience for the induction of
+the primary truths on which their demonstrations rest. Descartes seems to fall
+somewhere between Aristotle and Bacon. He regards arithmetic and geometry as
+more certain than the physical sciences, because mathematics is largely
+developed by deduction, whereas the study of nature depends upon induction from
+experiments. In this lies the superiority of mathematics. "While CHAFTE 39:
+INDUCTIO our inferences from experience are frequently * falkcious," Descartes
+writes, 'deduction, or the . . . pure illation of one thing from another cannot
+be erroneous when performed by an understanding that is in the least degree
+rational/' Nevertheless, Descartes does not exclude induction as the source of
+the axioms of mathematics or, for that matter, of metaphysics; he only excludes
 the kind of induction which depends upon experiments. Such axioms as when equals
-are  taken from equals the remainders are equal or the whole is greater than any
-of  its parts are products of induction, as may be seen, he points out, from the
-fact  that  a  child  can  be  taught  these general truths only "by showing him
-examples  in  particular  cases."  Similarly,  the  metaphysical  truth  in  the
-proposition  /  thinfy  therefore,  I  exist  cannot  be learned by deduction or
-syllogistic  reasoning.  The axiom that to thmk is to exist has to be learned by
+are taken from equals the remainders are equal or the whole is greater than any
+of its parts are products of induction, as may be seen, he points out, from the
+fact that a child can be taught these general truths only "by showing him
+examples in particular cases." Similarly, the metaphysical truth in the
+proposition / thinfy therefore, I exist cannot be learned by deduction or
+syllogistic reasoning. The axiom that to thmk is to exist has to be learned by
 induction "from the experience of the individual that unless he exists he cannot
-think.  For  our  mind is so constituted by nature that general propositions are
+think. For our mind is so constituted by nature that general propositions are
 formed out of the knowledge of particulars."
 
 FROM THE FOREGOING we can gather that different theories of induction may be, in
-large  part, theories about different kinds of induction. Common to induction of
-every  sort is the motion of the mind from particulars, apprehended by sense, to
-general  propositions  or universal notions. But the character of the induction,
-or  its  conditions and method, may differ according to the precise character of
+large part, theories about different kinds of induction. Common to induction of
+every sort is the motion of the mind from particulars, apprehended by sense, to
+general propositions or universal notions. But the character of the induction,
+or its conditions and method, may differ according to the precise character of
 its source: (i) whether it arises from ordinary sense-experience or from planned
-experiments;  and  (2)  whether  it is based upon a single experiment or upon an
-enumeration  of instances. There remains the most radical distinction in type of
-induction:  (3)  whether  it is intuitive or discursiveaccomplished by an act of
-immediate  insight  or  by a process of reasoning from premises to a conclusion.
-These  three divisions cross one another to some extent. Descartes, for example,
+experiments; and (2) whether it is based upon a single experiment or upon an
+enumeration of instances. There remains the most radical distinction in type of
+induction: (3) whether it is intuitive or discursiveaccomplished by an act of
+immediate insight or by a process of reasoning from premises to a conclusion.
+These three divisions cross one another to some extent. Descartes, for example,
 seems to regard the complete enumeration of a series of connected facts as a way
-of  drawing  a  general conclusion about their connection. That he has inductive
+of drawing a general conclusion about their connection. That he has inductive
 reasoning rather than intuitive induction in mind, we learn from his statement N
-that  "by  adequate  enumeration  or  induction is meant that method by which we
-attain  surer  conclusions than by any other type of proof, , with the exception
+that "by adequate enumeration or induction is meant that method by which we
+attain surer conclusions than by any other type of proof, , with the exception
 of simple intuition."
 
-Pascal  seems  to  be  making  the same point, when he says that "in all matters
-whose  proof  is  by experiment and not by demonstration, no universal assertion
-can  be  made  except  by  the  general enumeration of all the parts and all the
-different  cases."  Bacon,  on  the  other  hand,  always thinks of induction as
+Pascal seems to be making the same point, when he says that "in all matters
+whose proof is by experiment and not by demonstration, no universal assertion
+can be made except by the general enumeration of all the parts and all the
+different cases." Bacon, on the other hand, always thinks of induction as
 intuitive generalization, and therefore maintains that "induction which proceeds
 by simple enumeration is puerile, leads to uncertain conclusions, and is exposed
-to  danger from one contradictory instance." The elaborate procedure which Bacon
-proposes  for collating instances stresses, not completeness of enumeration, but
-an  examination  of  their relation to one another and, in the light thereof, an
-interpretation  of  their significance. Mill's four or five methods of induction
-bear  a  close  resemblance  to  Bacon's  more numerous tables of instances; but
-Mill's  methods  are  attempts to formulate the rules of inference for inductive
-reasoning,  whereas Bacon's rules are rules, not of reasoning, but of tabulating
-the  particulars  from  which intuitive generalizations can be formed. On Mill's
-view  of  induction,  it  may be questioned whether induction from an exhaustive
-enumeration  is  induction  at  all,  for it seems to result in a summary of the
-facts  enumerated  rather than a generalization from particulars. Where there is
-no  inductive  leap, there is no induction. Where the inductive leap does occur,
-however,  it  seems  easier  to understand it as an intuitive acta seeing of the
-universal  in  the  particular  rather  than  as a process of reasoning. Each of
-Mill's  methods  requires  a  rule  of  inference  which  is  itself a universal
-proposition.  His  critics  have asked, Whence come these universal propositions
-about  the  relations  of  cause and effect or about the order and uniformity of
-nature?  They  point  out  that  he  cannot  answer  that these propositions are
+to danger from one contradictory instance." The elaborate procedure which Bacon
+proposes for collating instances stresses, not completeness of enumeration, but
+an examination of their relation to one another and, in the light thereof, an
+interpretation of their significance. Mill's four or five methods of induction
+bear a close resemblance to Bacon's more numerous tables of instances; but
+Mill's methods are attempts to formulate the rules of inference for inductive
+reasoning, whereas Bacon's rules are rules, not of reasoning, but of tabulating
+the particulars from which intuitive generalizations can be formed. On Mill's
+view of induction, it may be questioned whether induction from an exhaustive
+enumeration is induction at all, for it seems to result in a summary of the
+facts enumerated rather than a generalization from particulars. Where there is
+no inductive leap, there is no induction. Where the inductive leap does occur,
+however, it seems easier to understand it as an intuitive acta seeing of the
+universal in the particular rather than as a process of reasoning. Each of
+Mill's methods requires a rule of inference which is itself a universal
+proposition. His critics have asked, Whence come these universal propositions
+about the relations of cause and effect or about the order and uniformity of
+nature? They point out that he cannot answer that these propositions are
 themselves conclusions of inductive reasoning without begging the question. SUCH
-CRITICISM  of  inductive  reasoning  does  not  seem  to  apply  to  Aristotle's
-conception  of  it,  for with him it is not, as with Mill, distinct in form from
-the  syllogism.  It  is  simply  a distinct type of syllogism, which consists in
-reasoning  from  effect  to cause rather than from cause to effect. Nor does the
-observation  that  an  inductive inference cannot be more than probable apply to
-what  Aristotle means by an inductive syllogism. The certainty or probability of
+CRITICISM of inductive reasoning does not seem to apply to Aristotle's
+conception of it, for with him it is not, as with Mill, distinct in form from
+the syllogism. It is simply a distinct type of syllogism, which consists in
+reasoning from effect to cause rather than from cause to effect. Nor does the
+observation that an inductive inference cannot be more than probable apply to
+what Aristotle means by an inductive syllogism. The certainty or probability of
 non-syllogistic induction depends on the source of the inference whether derives
-from  a  single  it  specially  constructed experiment or from an enumeration of
-particular  instances,  with or without a statistical calculation based on their
-frequency.  The conception of a perfect experiment implies that the operation of
-a  universal  law  can  be  exhibited  in  a single case. It is almost as if the
-controlling  aim  of  the  experiment were to make the universal manifest in the
+from a single it specially constructed experiment or from an enumeration of
+particular instances, with or without a statistical calculation based on their
+frequency. The conception of a perfect experiment implies that the operation of
+a universal law can be exhibited in a single case. It is almost as if the
+controlling aim of the experiment were to make the universal manifest in the
 particular. Newton's experiments on reflection and refraction seem to be of this
-sort.  From  them certain laws of optics are directly induced, even as,according
-to  Aristotle  and  Descartes,  the  axioms of mathematics or metaphysics can be
-directly  induced  from  simple experiences, available to & child or familiar to
+sort. From them certain laws of optics are directly induced, even as,according
+to Aristotle and Descartes, the axioms of mathematics or metaphysics can be
+directly induced from simple experiences, available to & child or familiar to
 all men. Yet Newton does not think that the inductive establishment of such laws
-is  as  certain  as  demonstration. The analytic method, he writes, "consists in
+is as certain as demonstration. The analytic method, he writes, "consists in
 making experiments and observations and in drawing general conclusions from them
-by  induction.  And  although  the  arguing from experiments and observations by
-induction  be no demonstration of general conclusions; yet it is the best way of
-arguing  which the nature of things admits of, and may be looked upon as so much
-stronger,  by how much the induction is more general. If no exception occur from
-phenomena,  the  conclusion  may  be  pronounced  generally;  but if at any time
-afterwards  any  exception shall occur from experiments, it may then begin to be
-pronounced  with  such exceptions as occur." Because it must depend on inductive
-generalizations  from experience which, in his view, can never be certain, Locke
+by induction. And although the arguing from experiments and observations by
+induction be no demonstration of general conclusions; yet it is the best way of
+arguing which the nature of things admits of, and may be looked upon as so much
+stronger, by how much the induction is more general. If no exception occur from
+phenomena, the conclusion may be pronounced generally; but if at any time
+afterwards any exception shall occur from experiments, it may then begin to be
+pronounced with such exceptions as occur." Because it must depend on inductive
+generalizations from experience which, in his view, can never be certain, Locke
 doubts that physics can ever become a science. "I deny not," he u writes, that a
-man,  accustomed  to  rational  and  regular  experiments,  shall be able to see
-further  into  the  nature  of  bodies  and  guess  nghter  at their ytt unknown
+man, accustomed to rational and regular experiments, shall be able to see
+further into the nature of bodies and guess nghter at their ytt unknown
 properties, than one that is a S stranger to them; but yet, as I have said, this
-is  but  judgment  and opinion, not knowledge and certainty. This way of getting
-and  improving our knowledge in substances only by experience and history, which
-is  all that the weakness of our faculties in this state of mediocrity . . . can
-attain  to,  makes me suspect," Locke concludes, "that natural philosophy is not
-capable   of   being   made   a   science"  Hume  offers  two  reasons  for  the
+is but judgment and opinion, not knowledge and certainty. This way of getting
+and improving our knowledge in substances only by experience and history, which
+is all that the weakness of our faculties in this state of mediocrity . . . can
+attain to, makes me suspect," Locke concludes, "that natural philosophy is not
+capable of being made a science" Hume offers two reasons for the
 inconclusiveness and uncertainty which he thinks qualify all our generalizations
-or  inductions  from  experience.  The  first  calls attention to the fact that,
-unlike  mathematical  reasoning,  inferences  from  experience  in  the realm of
-physical  matdepend on the number of cases observed. ters "The conclusions which
-[reason]  draws  from  considering  one circle," he says, "are the same it would
-form  upon  surveying  all  the circles in the universe. But no man, having seen
-only  one  body  move,  after  being impelled by another, could infer that every
-other  body will move after a like impulse." The principle "which determines him
-to  form  such  a  conclusion"  is,  according  to  Hume, "Custom or Habit"; and
+or inductions from experience. The first calls attention to the fact that,
+unlike mathematical reasoning, inferences from experience in the realm of
+physical matdepend on the number of cases observed. ters "The conclusions which
+[reason] draws from considering one circle," he says, "are the same it would
+form upon surveying all the circles in the universe. But no man, having seen
+only one body move, after being impelled by another, could infer that every
+other body will move after a like impulse." The principle "which determines him
+to form such a conclusion" is, according to Hume, "Custom or Habit"; and
 precisely because inductive generalization is an effect of custom rather than of
-reasoning  in  the  strict  sense, the strength of the induction or the force of
-customvaries  with the number of cases from which it arises. "After the constant
+reasoning in the strict sense, the strength of the induction or the force of
+customvaries with the number of cases from which it arises. "After the constant
 conjunction of two objects heat and flame, for instance, weight and solidity -we
-are  determined  by  custom  alone  to expect the one from the appearance of the
-other.  This  hypothesis,"  Hume  maintains,  "seems  .  .  . the only one which
-explains  the  difficulty,why  we  draw, from a thousand instances, an inference
+are determined by custom alone to expect the one from the appearance of the
+other. This hypothesis," Hume maintains, "seems . . . the only one which
+explains the difficulty,why we draw, from a thousand instances, an inference
 which we are not able to draw from one instance, that is in no respect different
-from  them.  Reason  is incapable of any such variation." Since all the relevant
-cases  can  never  be  exhaustively  observed,  the  inference  from a customary
-conjunction  must  always  remain uncertain, no matter how high a probability it
-derives  from  the  multiplication  of  like  instances.  To  this  first point,
-concerning  the dependence of the probability of generalizations from experience
+from them. Reason is incapable of any such variation." Since all the relevant
+cases can never be exhaustively observed, the inference from a customary
+conjunction must always remain uncertain, no matter how high a probability it
+derives from the multiplication of like instances. To this first point,
+concerning the dependence of the probability of generalizations from experience
 upon the frequency of the observed instances, Hume adds a second point about the
-similarity  of  the  cases under obser- : vation. Analogy, he says, "leads us to
-expect  from  any  cause  the same events, which we have observed to result from
-similar   causes.  Where  the  causes  are  entirely  similar,  the  analogy  is
-perfect,and  the  inference drawn from it is regarded as certain and conclusive.
-But  . . . where the objects have not so exact a similarity, the analogy is less
-perfect,  and  the inference is less conclusive; though still it has some force,
-in  proportion  to  the  degree  of  similarity and resemblance." The absence of
-perfect   similarity  is  Hume's  second  reason  for  the  inconclusiveness  or
+similarity of the cases under obser- : vation. Analogy, he says, "leads us to
+expect from any cause the same events, which we have observed to result from
+similar causes. Where the causes are entirely similar, the analogy is
+perfect,and the inference drawn from it is regarded as certain and conclusive.
+But . . . where the objects have not so exact a similarity, the analogy is less
+perfect, and the inference is less conclusive; though still it has some force,
+in proportion to the degree of similarity and resemblance." The absence of
+perfect similarity is Hume's second reason for the inconclusiveness or
 uncertainty of inductive generalizations. The contrary supposition that one case
-can  be  perfectly  representative  of  an  infinite number of similar cases may
-explain  why  Aristotle  seems  to  think  that induction is able to produce the
-primary  truths  or principles of science with a certitude which gives certainty
-to  all  the  demonstrations  founded  on  these  axioms. Another explanation of
-Aristotle's  view  may  be  found  in  his  distinction  between  scientific and
-dialectical  induction.  He  regards  the  former as based on the kind of common
-experience  which,  unlike even the best experiment, admits of no exceptions. In
-contrast,  dialectical induction, or the still weaker form of induction which he
-calls  "rhetorical,"  is  based  on  an  enumeration  of cases (which may not be
+can be perfectly representative of an infinite number of similar cases may
+explain why Aristotle seems to think that induction is able to produce the
+primary truths or principles of science with a certitude which gives certainty
+to all the demonstrations founded on these axioms. Another explanation of
+Aristotle's view may be found in his distinction between scientific and
+dialectical induction. He regards the former as based on the kind of common
+experience which, unlike even the best experiment, admits of no exceptions. In
+contrast, dialectical induction, or the still weaker form of induction which he
+calls "rhetorical," is based on an enumeration of cases (which may not be
 complete) or upon a single example (which provides no safeguard against possible
-exceptions).  In  its  dialectical  form, the inductive argument proceeds from a
+exceptions). In its dialectical form, the inductive argument proceeds from a
 number of particulars
 
 OUTLINE OF TOPICS
 
 1. The theory of induction: generalization from particulars
-   1a. Induction and intuition: their relation to reasoning or demonstration
-   1b. Inductive reasoning: the issue concerning inductive and deductive proof
+ 1a. Induction and intuition: their relation to reasoning or demonstration
+ 1b. Inductive reasoning: the issue concerning inductive and deductive proof
 
 2. The conditions or sources of induction: memory, experience, experiment
 
 3. The products of induction: definitions, axioms, principles, laws
 
 4. The use of induction in argument
-   4a. Dialectical induction: securing assumptions for disputation
-   4b. Rhetorical induction: inference from example in the process of persuasion
+ 4a. Dialectical induction: securing assumptions for disputation
+ 4b. Rhetorical induction: inference from example in the process of persuasion
 
 5. The role of induction in the development of science: the methods
 of experimental and
@@ -391,7 +391,7 @@ enumerative induction
 
 CROSS-REFERENCES
 
-For:  Other  discussions  of  induction  as  an  intuitive  act  of g EDGE 6c(a)
+For: Other discussions of induction as an intuitive act of g EDGE 6c(a)
 PRINCIPLE 33(1), 3a(3)-3b; REASONING 5b(i ;
 
 Other treatments of inductive reasoning and its relati ING 40, 6c; SCIENCE 50Th;
@@ -405,7 +405,7 @@ tion, see EXPERIENCE ab; IDEA 2g; MEMORY AND IMAGI UNIVERSAL AND PARTICULAR 40.
 
 Induction as the source of principles, axioms, or scie
 
-4d;  UNIVERSAL AND PARTICULAR 4f. Other treatments of dialectical and rhetorical
+4d; UNIVERSAL AND PARTICULAR 4f. Other treatments of dialectical and rhetorical
 inducti
 
 4c(i); and for their contrast with dialectical and r
@@ -416,26 +416,26 @@ The role of induction in the experimental sciences, se
 
 SCIENCE 4d, 5d.
 
-S  8  GILBERT:  Loadstone,  PREP,  la-c  8 GALILEO: Two New Sciences, THIRD DAY,
-200a-b;  207d-208a  8 HARVEY: Motion of the Heart, 280c; 285c-d / Circulation of
-the  Blood,  324c-d  /  On Animal Generation, 332a-33Sc esp 334c-d; 383d; 473a 0
-BACON:  Advancement  of  Learning,  16a;  34b;  42a-c;  56b-58c; 96d-97a / Novum
-Organum  105a-195d  esp  BK  i,  APH 11-26 107d-108d, APH 69 116a-b, APH 104-106
-128a-c,  BK n, APH i-io 137a-140d, APH 15-16 149a-b, APH 20-21 150d-153b, APH 52
+S 8 GILBERT: Loadstone, PREP, la-c 8 GALILEO: Two New Sciences, THIRD DAY,
+200a-b; 207d-208a 8 HARVEY: Motion of the Heart, 280c; 285c-d / Circulation of
+the Blood, 324c-d / On Animal Generation, 332a-33Sc esp 334c-d; 383d; 473a 0
+BACON: Advancement of Learning, 16a; 34b; 42a-c; 56b-58c; 96d-97a / Novum
+Organum 105a-195d esp BK i, APH 11-26 107d-108d, APH 69 116a-b, APH 104-106
+128a-c, BK n, APH i-io 137a-140d, APH 15-16 149a-b, APH 20-21 150d-153b, APH 52
 194c-195d 1 DESCARTES: Rules, n, 2d-3a; vn 10b-12a / Discourse, PART vi, 61d-62c
-/  Objections  and  Replies,  167c-d  3  PASCAL:  Vacuum,  358a-b / Arithmetical
+/ Objections and Replies, 167c-d 3 PASCAL: Vacuum, 358a-b / Arithmetical
 Triangle, 451b-452a; 458b-459b; 464a-466a 4 NEWTON: Principles, BK in, RULE m-iv
-270b271  b;  GENERAL  scHOL, 371b-372a / Optics, BK in, 543a-b 5 BERKELEY: Human
-Knowledge,  SECT  107  433d-434a  5  HUME:  Human  Understanding,  SECT i, DIV 9
-454c-455a;  SECT  HI,  DIV 19, 458a; SECT iv, DIV 26 460b-c 2 KANT: Pure Reason,
+270b271 b; GENERAL scHOL, 371b-372a / Optics, BK in, 543a-b 5 BERKELEY: Human
+Knowledge, SECT 107 433d-434a 5 HUME: Human Understanding, SECT i, DIV 9
+454c-455a; SECT HI, DIV 19, 458a; SECT iv, DIV 26 460b-c 2 KANT: Pure Reason,
 5a-13d; 45b-46a; 72c85d esp 72c-74b, 82a-b / Intro. Metaphysic of Morals, 387a-b
-/  Judgement,  562d-563b 3 MILL: Utilitarianism, 445d-446b; 475b,d IM 5 FARADAY:
-Researches  in  Electricity,  659a  1 TOLSTOY: War and Peace, EPILOGUE n, 690b 3
-IAMES:  Psychology, 385a-b; 677b; 862a-865a 4 FREUD: Instincts, 412a-b ) SCIENCE
-50Th.  ;  NATION 30, 6c(i); SENSE 5b; eneralization, see JUDGMENT 8a; KNOWLon to
-deductive  reasoning,  see  REASONns  in modes of argument, see EXPERIinduction,
-generalization,  or  abstracntific  laws,  see  PRINCIPLE  3b;  SCIENCE  on, see
-DIALECTIC  1b,  3b; RHETORIC hetorical reasoning, see DIALECTIC jc; e EXPERIENCE
+/ Judgement, 562d-563b 3 MILL: Utilitarianism, 445d-446b; 475b,d IM 5 FARADAY:
+Researches in Electricity, 659a 1 TOLSTOY: War and Peace, EPILOGUE n, 690b 3
+IAMES: Psychology, 385a-b; 677b; 862a-865a 4 FREUD: Instincts, 412a-b ) SCIENCE
+50Th. ; NATION 30, 6c(i); SENSE 5b; eneralization, see JUDGMENT 8a; KNOWLon to
+deductive reasoning, see REASONns in modes of argument, see EXPERIinduction,
+generalization, or abstracntific laws, see PRINCIPLE 3b; SCIENCE on, see
+DIALECTIC 1b, 3b; RHETORIC hetorical reasoning, see DIALECTIC jc; e EXPERIENCE
 5a; REASONING 6c;
 
 CHAWER 39: INDU
@@ -460,12 +460,12 @@ J. S. MILL. A System of Logic, BK m-rv
 
 II.
 
-PHILODEMUS.  On  Methods of Inference JOHN OF SAINT THOMAS. Cursus Philosophicus
+PHILODEMUS. On Methods of Inference JOHN OF SAINT THOMAS. Cursus Philosophicus
 Thomisticus, Ars Logica, PART i, BK m, CH 2; Q 8
 
 (2); PART ii, Q 5
 
-WHATELY.  Elements  of  Logic,  BK  iv, CH i GRATRY. Logic, PART iv WHEWELL. The
+WHATELY. Elements of Logic, BK iv, CH i GRATRY. Logic, PART iv WHEWELL. The
 Philosophy of the Inductive Sciences, VOL II, BK XI, CH 1-6; BK XIII
 
 . On the Philosophy of Discovery
@@ -475,7 +475,7 @@ iv, esp ;
 
 CH22
 
-LOTZE.  Logic, BK i, CH 3 (A) BRADLEY. The Principles ofLogic, BK n, PART 11, CH
+LOTZE. Logic, BK i, CH 3 (A) BRADLEY. The Principles ofLogic, BK n, PART 11, CH
 3 C. S. PEIRCE. Collected Papers, VOL n, par 619-644, 669-693, 755-79 1
 
 VENN. Principles of Empirical or Inductive Logic,
@@ -483,21 +483,21 @@ VENN. Principles of Empirical or Inductive Logic,
 CH 5-15, 17, 24
 
 CTION oty of the Western World, but relevant to the These works are divided into
-two  groups: ted in this collection. esented in this collection. the publication
+two groups: ted in this collection. esented in this collection. the publication
 of the works cited, consult ollows the last chapter of The Great Ideas. PEARSON.
 The Grammar of Science, CH 3 BOSANQUET. LoglC, VOL H, CH 3-5
 
-.Science  and  Philosophy,  4  J.  C.  WILSON.  Statement and Inference, PART iv
-POINCARE.  Science  and  Method,  BK n, CH 3-4 CASSIRER. Substance and Function,
-PART  n,  CH 5 N. R. CAMPBELL. Physics; the Elements, CH 4 W. E. JOHNSON. Logic,
+.Science and Philosophy, 4 J. C. WILSON. Statement and Inference, PART iv
+POINCARE. Science and Method, BK n, CH 3-4 CASSIRER. Substance and Function,
+PART n, CH 5 N. R. CAMPBELL. Physics; the Elements, CH 4 W. E. JOHNSON. Logic,
 PART n, CH 8-n; PART in,
 
 CH 2 J. M. KEYNES. A Treatise on Probability, PART in NICOD. "The Logical
 Problem of Induction," in
 
-Foundations  of Geometry and Induction MISES. Probability, Statistics, and Truth
-M.  R.  COHEN.  Reason  and Nature, BK i, CH 3(3) JEFFREYS. Scientific Inference
-MEYERSON.  Du chemmement de la pensSe DEWEY. Logic, the Theory of Inquiry, CH 21
+Foundations of Geometry and Induction MISES. Probability, Statistics, and Truth
+M. R. COHEN. Reason and Nature, BK i, CH 3(3) JEFFREYS. Scientific Inference
+MEYERSON. Du chemmement de la pensSe DEWEY. Logic, the Theory of Inquiry, CH 21
 B, RUSSELL. The Problems of Philosophy, CH 6
 
 . Introduction to Mathematical Philosophy,

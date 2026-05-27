@@ -1,381 +1,381 @@
-Chapter  76:  QUAN  INTRODUCTION AS indicated in the chapter on QUALITY, the JLk
-traditional   consideration   of  that  fundamental  notion  involves  questions
-concerning  the  relation of quality and quantity and the priority of one or the
-other  in  the  nature  of  things.  According  to  one  theory of the elements,
-difference  in  quality  rather  than  in  quantity  seems  to  be  the  denning
-characteristic.  Certain kinds of qualities, it is thought, inhere in substances
-directly  and  without  being  based  upon their quantitative aspects. But it is
-seldom  if ever suggested that quality takes universal precedence over quantity.
-In  the  tradition  of  western  thought,  the opposite view that quantities are
-primaryseems  to  occur  with  some  frequency,  at least so far as the realm of
+Chapter 76: QUAN INTRODUCTION AS indicated in the chapter on QUALITY, the JLk
+traditional consideration of that fundamental notion involves questions
+concerning the relation of quality and quantity and the priority of one or the
+other in the nature of things. According to one theory of the elements,
+difference in quality rather than in quantity seems to be the denning
+characteristic. Certain kinds of qualities, it is thought, inhere in substances
+directly and without being based upon their quantitative aspects. But it is
+seldom if ever suggested that quality takes universal precedence over quantity.
+In the tradition of western thought, the opposite view that quantities are
+primaryseems to occur with some frequency, at least so far as the realm of
 material things is concerned.
 
-It  is  held  that  bodies  have  only  quantitative  attributes.  Such sensible
-qualities  as  colors,  odors,  tastes,  textures are thought to have no reality
-apart  from  experience; or, as it is sometimes put, red and blue, hot and cold,
-sweet  and  sour are the qualities of sensations, not of things. Those who think
-that  bodies  can  exist without being perceived, also tend to think that bodies
-can  exist  totally  bereft  of  qualities,  but never without the dimensions of
-quantity.  The notions of matter and quantity seem to be inseparably associated.
-For  matter  to  exist  without  existing  in  some  quantity  seems  to  be  as
-inconceivable  as  for  experience to exist without qualitative diversity "As if
-there  could  be  matter,'* says Hobbes, "that had not some determined quantity,
-when  quantity  is  nothing else but determination of matter; that is to say, of
-body,  by  which we say that one body is greater or less than another by thus or
-thus  much."  The  use  of the word "quality" where quantity appears to be meant
-only  slightly  obscures TITY this point. Newton refers to "extension, hardness,
-impenetrability,  mobility, and inertia" as "the qualities of bodies" which "are
+It is held that bodies have only quantitative attributes. Such sensible
+qualities as colors, odors, tastes, textures are thought to have no reality
+apart from experience; or, as it is sometimes put, red and blue, hot and cold,
+sweet and sour are the qualities of sensations, not of things. Those who think
+that bodies can exist without being perceived, also tend to think that bodies
+can exist totally bereft of qualities, but never without the dimensions of
+quantity. The notions of matter and quantity seem to be inseparably associated.
+For matter to exist without existing in some quantity seems to be as
+inconceivable as for experience to exist without qualitative diversity "As if
+there could be matter,'* says Hobbes, "that had not some determined quantity,
+when quantity is nothing else but determination of matter; that is to say, of
+body, by which we say that one body is greater or less than another by thus or
+thus much." The use of the word "quality" where quantity appears to be meant
+only slightly obscures TITY this point. Newton refers to "extension, hardness,
+impenetrability, mobility, and inertia" as "the qualities of bodies" which "are
 to be esteemed the universal qualities of all bodies whatsoever." Following him,
-Locke  calls  our  simple ideas of "solidity, extension, figure, motion or rest,
-and  number"  ideas  of  "the original or primary qualities of bodies," and says
-that  even  if bodies are divided "till their parts become insensible, they must
+Locke calls our simple ideas of "solidity, extension, figure, motion or rest,
+and number" ideas of "the original or primary qualities of bodies," and says
+that even if bodies are divided "till their parts become insensible, they must
 retain still each of them all those qualities. For division can . . . never take
-away  either  solidity,  extension,  figure, or mobility from any body, but only
-makes  two  or  more  distinct  separate masses of matter, of that which was one
-before."  Though Locke uses the word "quality" for those attributes which belong
-to  bodies  even  when  they  are  not  sensed or are not even sensible, he also
-appears  to recognize that number, extension, and figure are, as the traditional
-objects  of  the  mathematical  sciences,  traditionally  regarded as quantities
-rather  than  qualities.  "It  has been generally taken for granted," he writes,
+away either solidity, extension, figure, or mobility from any body, but only
+makes two or more distinct separate masses of matter, of that which was one
+before." Though Locke uses the word "quality" for those attributes which belong
+to bodies even when they are not sensed or are not even sensible, he also
+appears to recognize that number, extension, and figure are, as the traditional
+objects of the mathematical sciences, traditionally regarded as quantities
+rather than qualities. "It has been generally taken for granted," he writes,
 "that mathematics alone are capable of demonstrative certainty; but to have such
-an  agreement  or  disagreement  as  may  intuitively  be perceived, being, as I
-imagine,  not the privilege of the ideas of number, extension, and figure alone,
-it  may  possibly  be  the  want  of  due  method and application in us ... that
-demonstration  has  been  thought  to  have  so  little  to do in other parts of
-knowledge."  Yet,  he  adds, "in other simple ideas, whose modes and differences
-are  made  and  counted  by  degrees,  and not quantity, we have not so nice and
-accurate  a  distinction  of  their  differences as to perceive, or find ways to
-measure,  their  just  equality."  Newton  also  gives  some indication that his
-"universal  qualities"  are  quantities.  He restricts them to attributes "which
-admit  neither  intensification  nor  remission  of degrees. *' One dif- 527 528
-fcrence  between  quantity and quality, according to an ancient opinion, is that
-qualities  are  subject to variation in degree, quantities not. One thing may be
-white  or  hot to a greater or less degree than another, Aristotle observes, but
+an agreement or disagreement as may intuitively be perceived, being, as I
+imagine, not the privilege of the ideas of number, extension, and figure alone,
+it may possibly be the want of due method and application in us ... that
+demonstration has been thought to have so little to do in other parts of
+knowledge." Yet, he adds, "in other simple ideas, whose modes and differences
+are made and counted by degrees, and not quantity, we have not so nice and
+accurate a distinction of their differences as to perceive, or find ways to
+measure, their just equality." Newton also gives some indication that his
+"universal qualities" are quantities. He restricts them to attributes "which
+admit neither intensification nor remission of degrees. *' One dif- 527 528
+fcrence between quantity and quality, according to an ancient opinion, is that
+qualities are subject to variation in degree, quantities not. One thing may be
+white or hot to a greater or less degree than another, Aristotle observes, but
 "one thing cannot be two cubits long in a greater degree than another. Similarly
-with  regard  to  number:  what is 'three is not more truly 1 three than what is
-'five  is  five  . . . Nor is there any other kind of quantity, of all that have
+with regard to number: what is 'three is not more truly 1 three than what is
+'five is five . . . Nor is there any other kind of quantity, of all that have
 been mentioned, with regard to which variation in degree can be predicated."
 
 GRANTED THAT WHAT Newton and Locke call "qualities" are not qualities, except in
-the  sense  in  which  the  word  "quality"  means  attribute,  questions remain
+the sense in which the word "quality" means attribute, questions remain
 concerning their difficult enumeration of the universal or primary attributes of
-bodies.  Do  extension,  hardness,  impenetrability, motion and rest, figure and
-number  constitute  an  exhaustive  enumeration?  Are  these  all  the corporeal
-quantities,  or  only the basic ones from which others can be derived ? Are they
-all  of  the  same kind and, among them, are some more fundamental than others ?
-Descartes,  for  example,  seems  to make extension the one primary attribute of
-bodies.  "I observed," he writes, "that nothing at all belonged to the nature or
-essence  of  bodies, except that it was a thing with length, breadth, and depth,
+bodies. Do extension, hardness, impenetrability, motion and rest, figure and
+number constitute an exhaustive enumeration? Are these all the corporeal
+quantities, or only the basic ones from which others can be derived ? Are they
+all of the same kind and, among them, are some more fundamental than others ?
+Descartes, for example, seems to make extension the one primary attribute of
+bodies. "I observed," he writes, "that nothing at all belonged to the nature or
+essence of bodies, except that it was a thing with length, breadth, and depth,
 admitting of various shapes and various motions.
 
-I  found  also  that its shape and motions were only modes, which no power could
-make  to exist apart from it ... Finally, I saw that gravity, hardness,the power
-of  heating,  of  attracting,  and  of purging, and all other qualities which we
-experience  in  bodies,  consisted  solely  in motion or its absence, and in the
-configuration  and  situation  of  their parts." With motion and figure modes of
+I found also that its shape and motions were only modes, which no power could
+make to exist apart from it ... Finally, I saw that gravity, hardness,the power
+of heating, of attracting, and of purging, and all other qualities which we
+experience in bodies, consisted solely in motion or its absence, and in the
+configuration and situation of their parts." With motion and figure modes of
 extension, and all the other properties of bodies the result of their motions or
-configurations,  the three dimensions of extension (or spatial magnitude) become
-almost  identical  with  body  itself.  Considering the statement body possesses
-extension,  Descartes  points  out that, though "the meaning of extension is not
-identical  with  that of body, yet we do not construct two distinct ideas in our
-imagination,  one  of body, the other of extension, but merely a single image of
+configurations, the three dimensions of extension (or spatial magnitude) become
+almost identical with body itself. Considering the statement body possesses
+extension, Descartes points out that, though "the meaning of extension is not
+identical with that of body, yet we do not construct two distinct ideas in our
+imagination, one of body, the other of extension, but merely a single image of
 extended body; and from the point of view of the thing it is exactly as if I had
-said:  body  is  extended,  or better, the extended is extended'' But, Descartes
+said: body is extended, or better, the extended is extended'' But, Descartes
 adds, when we consider the expression extension is not body, "the meaning of the
-term  extension  becomes  otherwise  than as above. When we give it this meaning
-there  is  no special idea corresponding to it in the imagination." It becomes a
-purely  abstract  entity,  which  may  properly  be the object of the geometer's
-consideration;  but then it should be treated as an abstraction and not as if it
-had  independent  reality.  Aquinas  also  distinguishes  between  physical  and
-mathematical  quantities,  or  the  quantities  which  inhere  in bodies and the
-quantities  abstracted  therefrom.  "Quantities,  such as number, dimension, and
-figure,  which  are  the  terminations of quantity, can be considered apart from
-sensible  qualities, and this is to abstract them from sensible matter. But they
-cannot  be  considered  without  understanding the substance which is subject to
+term extension becomes otherwise than as above. When we give it this meaning
+there is no special idea corresponding to it in the imagination." It becomes a
+purely abstract entity, which may properly be the object of the geometer's
+consideration; but then it should be treated as an abstraction and not as if it
+had independent reality. Aquinas also distinguishes between physical and
+mathematical quantities, or the quantities which inhere in bodies and the
+quantities abstracted therefrom. "Quantities, such as number, dimension, and
+figure, which are the terminations of quantity, can be considered apart from
+sensible qualities, and this is to abstract them from sensible matter. But they
+cannot be considered without understanding the substance which is subject to
 quantity"- that is, corporeal or material substance. Like a body, a mathematical
-solid  has  three  dimensions,  but, as Aquinas points out, lacking matter, this
-three-dimensional  object  does  not  occupy  space  or  fill a place. The three
-spatial  dimensions  are  not  for  him, however, the only primary quantities of
-either  the  physical  or  the  mathematical  body.  Number  and  figure  arc as
-fundamental.  Still  another  enumeration  of  corporeal  quantitiesis  given by
+solid has three dimensions, but, as Aquinas points out, lacking matter, this
+three-dimensional object does not occupy space or fill a place. The three
+spatial dimensions are not for him, however, the only primary quantities of
+either the physical or the mathematical body. Number and figure arc as
+fundamental. Still another enumeration of corporeal quantitiesis given by
 Lucretius in his description of the properties of atoms. According to him, atoms
-vary  in  size,  weight,  and  shape.  Each  of  these  attributes is a distinct
-quantity,  not  reducible  to  the  others. In addition, atoms have the property
+vary in size, weight, and shape. Each of these attributes is a distinct
+quantity, not reducible to the others. In addition, atoms have the property
 which Newton calls "impenetrability" and Locke "solidity." But whereas atoms may
 be unequal in size and weight, and different in shape or configuration, they are
-all  equal  in their solidity, being absolutely indivisible through lack of void
-or  pores.  THE  DISTINCTION  BETWEEN mathematical and physical quantity and the
-enumeration  or ordering of diverse quantities seem to require the consideration
-of  two  prior  questions. What is the nature of quantity? What are the kinds or
-modes  of  quantity?  Terms  like  quantity  and  quality  do  not  appear to be
-susceptible  of  definition.  Quantity  is, CHAPTER 76: perhaps, the fundamental
+all equal in their solidity, being absolutely indivisible through lack of void
+or pores. THE DISTINCTION BETWEEN mathematical and physical quantity and the
+enumeration or ordering of diverse quantities seem to require the consideration
+of two prior questions. What is the nature of quantity? What are the kinds or
+modes of quantity? Terms like quantity and quality do not appear to be
+susceptible of definition. Quantity is, CHAPTER 76: perhaps, the fundamental
 notion in the mathematical sciences, yet neither it nor such terms as magnitude,
-figure,  and number are defined in the great books of geometry or arithmetic. In
-Aristotle's  theory  of  the  categories  as  the  highest genera, such terms as
-substance,  quantity,  quality,  and  relation  are  strictly indefinable, if to
+figure, and number are defined in the great books of geometry or arithmetic. In
+Aristotle's theory of the categories as the highest genera, such terms as
+substance, quantity, quality, and relation are strictly indefinable, if to
 define a term is to give its genus and differentia.
 
-With  quite  a  different  theory  of  the  categories, Kant also treats them as
-indefinable.  As  indicated  in  the  chapter  on  QUALITY, they are for him the
-transcendental  concepts  of  the understanding. He uses such terms as quantity,
-quality,  and  relation,  with modality as a coordinate fourth, to represent the
-four  major  groupings of the categories. In his table of the categories, Kant's
-treatment  of  quantity,  under which he lists the concepts of unity, plurality,
-and  totality,  parallels  the  treatment of quantity in his table of judgments,
-according  to  which  judgments  are  classified  as  universal, particular, and
-singular.  All  these  considerations  of quantity belong to what Kant calls his
+With quite a different theory of the categories, Kant also treats them as
+indefinable. As indicated in the chapter on QUALITY, they are for him the
+transcendental concepts of the understanding. He uses such terms as quantity,
+quality, and relation, with modality as a coordinate fourth, to represent the
+four major groupings of the categories. In his table of the categories, Kant's
+treatment of quantity, under which he lists the concepts of unity, plurality,
+and totality, parallels the treatment of quantity in his table of judgments,
+according to which judgments are classified as universal, particular, and
+singular. All these considerations of quantity belong to what Kant calls his
 "transcendental logic." So far as Kant considers quantity in its mathematical or
-physical  (rather than logical) significance, he discusses it in connection with
-the  transcendental forms of space and time which provide, according to him, the
-a  priori  foundations  of geometry and arithmetic the sciences of magnitude and
-number.  But  in none of these connections are quantity and its principal modes,
-magnitude  and  number,  defined. Though indefinable, quantity can, according to
-Aristotle,  be  characterized  by  certain distinctive marks. As we have already
-observed,  where qualities admit of variation in degree, quantities do not. With
+physical (rather than logical) significance, he discusses it in connection with
+the transcendental forms of space and time which provide, according to him, the
+a priori foundations of geometry and arithmetic the sciences of magnitude and
+number. But in none of these connections are quantity and its principal modes,
+magnitude and number, defined. Though indefinable, quantity can, according to
+Aristotle, be characterized by certain distinctive marks. As we have already
+observed, where qualities admit of variation in degree, quantities do not. With
 few exceptions, each quality has a contrary, whereas definite quantities such as
-an  extent  or  a  number  are  not  opposed  by  contrary quantities. Aristotle
+an extent or a number are not opposed by contrary quantities. Aristotle
 considers the possibility that such apparently quantitative terms as 'large' and
-'small'  may  also  appear  to be contrary to one another, as hot is to cold, or
-white  is  to  black.  But,  he  argues,  these  terms represent quantities only
-relatively,  not  absolutely. When things are compared with respect to size, one
-may  be  judged to be both larger and smaller than others, but the sizes of each
+'small' may also appear to be contrary to one another, as hot is to cold, or
+white is to black. But, he argues, these terms represent quantities only
+relatively, not absolutely. When things are compared with respect to size, one
+may be judged to be both larger and smaller than others, but the sizes of each
 of two things unequal in size are not contrary to one another.
 
-QUANTITY  These  two  characteristics  (lack  of contrariety and of variation in
-degree)  do  not,  however, satisfy Aristotle's search for a distinctive mark of
-quantity.  They  apply to substances, such as tree or man, as well as to figures
-and  numbers. This fact could have some bearing on the issue whether the objects
-of  mathematics  have a separate existence comparable to that of substances, but
+QUANTITY These two characteristics (lack of contrariety and of variation in
+degree) do not, however, satisfy Aristotle's search for a distinctive mark of
+quantity. They apply to substances, such as tree or man, as well as to figures
+and numbers. This fact could have some bearing on the issue whether the objects
+of mathematics have a separate existence comparable to that of substances, but
 in Aristotle's view at least, quantities are not substances. Physical quantities
-are  the  attributes of bodies; the objects of mathematics consist of quantities
+are the attributes of bodies; the objects of mathematics consist of quantities
 abstracted from sensible matter. Conceiving quantity as one of the attributes of
-substance,  Aristotle  says  that  "the  most  distinctive  mark  of quantity is
-equality  and inequality." Only when things are compared quantitatively can they
-be  said to be equal or unequal; and, conversely, in whatever respect things are
-said  to  be  equal or unequal, in that respect they are determined in quantity.
-"How  far  is  it  true,"  Plotinus  asks,  "that  equality  and  inequality are
-characteristic  of  quantity?"  It is significant, he thinks, that triangles and
-other  figures  are  said to be similar as well as equal. "It may, of course, be
-the  case  that  the  term  'similarity'  has  a  different sense here from that
-understood  in reference to quality"; or another alternative, Plotinus adds, may
+substance, Aristotle says that "the most distinctive mark of quantity is
+equality and inequality." Only when things are compared quantitatively can they
+be said to be equal or unequal; and, conversely, in whatever respect things are
+said to be equal or unequal, in that respect they are determined in quantity.
+"How far is it true," Plotinus asks, "that equality and inequality are
+characteristic of quantity?" It is significant, he thinks, that triangles and
+other figures are said to be similar as well as equal. "It may, of course, be
+the case that the term 'similarity' has a different sense here from that
+understood in reference to quality"; or another alternative, Plotinus adds, may
 be that "similarity is predicablc of quantity only insofar as quantity possesses
-[qualitative]  differences."  In  any  case,  comparison,  whether  in  terms of
-equality  or  likeness,  seems  to generate the relationships fundamental to the
-mathematical  treatment  of  quantities.  Euclid  does  not  define magnitude in
-itself,  but  only  the  relation  of  magnitudes to one another. The first four
-definitions  in  the fifth book of his Elements illustrate this. "i. A magnitude
+[qualitative] differences." In any case, comparison, whether in terms of
+equality or likeness, seems to generate the relationships fundamental to the
+mathematical treatment of quantities. Euclid does not define magnitude in
+itself, but only the relation of magnitudes to one another. The first four
+definitions in the fifth book of his Elements illustrate this. "i. A magnitude
 is a part of a magnitude, the less of the greater, when it measures the greater.
-2.  The  greater multiple of the less when it is measis a ured by the less. 3. A
-ratio  is  a  sort  of relation in respect of size between two magnitudes of the
-same  kind.  4.  Magnitudes  are  said to have a ratio to one another, which are
-capable,  when multiplied, of exceeding one another." Archimedes also states his
-understanding  of  the  distinction between kinds of magnitudes without defining
-these  kinds  by  reference  to  their  comparability.  Assuming  that any given
+2. The greater multiple of the less when it is measis a ured by the less. 3. A
+ratio is a sort of relation in respect of size between two magnitudes of the
+same kind. 4. Magnitudes are said to have a ratio to one another, which are
+capable, when multiplied, of exceeding one another." Archimedes also states his
+understanding of the distinction between kinds of magnitudes without defining
+these kinds by reference to their comparability. Assuming that any given
 magnitude can, by being multiplied, exceed any other magnitude of the same kind,
 he is able to know that magnitudes are of the same kind if, by being multiplied,
-they  can  exceed one another. It follows that an indivisible point and a finite
-or  divisible  magnitude,  such  as  a  line, are not of the same kind, for they
-cannot  have  a ratio to one another. For the same reason, the length of a line,
-the  area  of  a plane, and the volume of a solid are not magnitudes of the same
-kind.  Since  they  bear  no  ratio  to  one  another,  they  are quantitatively
+they can exceed one another. It follows that an indivisible point and a finite
+or divisible magnitude, such as a line, are not of the same kind, for they
+cannot have a ratio to one another. For the same reason, the length of a line,
+the area of a plane, and the volume of a solid are not magnitudes of the same
+kind. Since they bear no ratio to one another, they are quantitatively
 incomparable.
 
-THE  EMPHASIS UPON ratios has some significance for a controversial point in the
-definition  of  the subject matter of mathematics. In the tradition of the great
-books,  mathematicians  and  philosophers  seem  to  agree  that  arithmetic and
-geometry  have  as their objects the two principal species of quantitynumber and
+THE EMPHASIS UPON ratios has some significance for a controversial point in the
+definition of the subject matter of mathematics. In the tradition of the great
+books, mathematicians and philosophers seem to agree that arithmetic and
+geometry have as their objects the two principal species of quantitynumber and
 magnitude. This is the opinion of Euclid, Nicomachus, Descartes, and Galileo; it
-is  the opinion of Plato, Aristotle, Aquinas, Bacon, Hume, and Kant. But writers
-like  Russell  and  Whitehead,  who  reflect  developments  in mathematics since
+is the opinion of Plato, Aristotle, Aquinas, Bacon, Hume, and Kant. But writers
+like Russell and Whitehead, who reflect developments in mathematics since
 theiQth century, reject the traditional opinion as unduly narrowing the scope of
-mathematics.  To  give  adequate  expression to the universality of mathematics,
-they  sometimes propose that it should be conceived as the science not merely of
-quantity,  but  of relations and order. In view of the fact that the great books
-of  mathematics  deal  with quantities largely in terms of their relationship or
+mathematics. To give adequate expression to the universality of mathematics,
+they sometimes propose that it should be conceived as the science not merely of
+quantity, but of relations and order. In view of the fact that the great books
+of mathematics deal with quantities largely in terms of their relationship or
 order to one another, the broader conception seems to fit the older tradition as
 well as more recent developments.
 
-Whether  there is a genuine issue here concerning the definition of mathematical
-subject  matter  may  depend,  therefore, on whether the fundamental terms which
-generate  the  systems  of  relationship  and  order  are or are not essentially
-quantitative.  To  this  question  the  traditional  answer seems to be that the
+Whether there is a genuine issue here concerning the definition of mathematical
+subject matter may depend, therefore, on whether the fundamental terms which
+generate the systems of relationship and order are or are not essentially
+quantitative. To this question the traditional answer seems to be that the
 mathematician studies not relations of any sort, but the relation of quantities.
-The  problem  of  the  kinds  of  quantity  seems  to appeal for solution to the
-principle  of  commensurability.  For example, Galileo's observation that finite
-and  infinite  quantities  cannot be compared in any way, implies their utter AS
-diversity.But  he goes further and says that "the attributes 'larger,' 'smaller/
+The problem of the kinds of quantity seems to appeal for solution to the
+principle of commensurability. For example, Galileo's observation that finite
+and infinite quantities cannot be compared in any way, implies their utter AS
+diversity.But he goes further and says that "the attributes 'larger,' 'smaller/
 and 'equal' have no pkce either in comparing infinite quantities with each other
-or  in  comparing  infinite  with  finite quantities." If the notion of quantity
-entails  the possibility of equality or inequality between two quantities of the
-same  tynd, then either infinite quantities are not quantities, or each infinite
+or in comparing infinite with finite quantities." If the notion of quantity
+entails the possibility of equality or inequality between two quantities of the
+same tynd, then either infinite quantities are not quantities, or each infinite
 quantity belongs to a kind of its own. The principle of incommensurability seems
-to  be  applied  by mathematicians to distinguish quantities which are different
-species   of   the   same   generic  kind.  For  example,  the  one-dimensional,
-two-dimensional,  and  three-dimensional  quantities  of  a line, a plane, and a
-solid,  are  incommensurable  magnitudes.  The  number of days in a year and the
-number  of years in infinite or endless time are incommensurable multitudes. The
+to be applied by mathematicians to distinguish quantities which are different
+species of the same generic kind. For example, the one-dimensional,
+two-dimensional, and three-dimensional quantities of a line, a plane, and a
+solid, are incommensurable magnitudes. The number of days in a year and the
+number of years in infinite or endless time are incommensurable multitudes. The
 distinction between magnitude and multitude (or number) as two modes of quantity
-appears   to   be   based   upon  another  principle,  that  of  continuity  and
-discontinuity.   Yet   the   question  can  be  raised  whether  magnitudes  are
+appears to be based upon another principle, that of continuity and
+discontinuity. Yet the question can be raised whether magnitudes are
 commensurable with numbers, at least to the extent of being measured by numbers.
-It  may  be  necessary, however, to postpone answering it until we have examined
-the  fundamental  difference between magnitude and multitude as generic kinds of
-quantity.  What  if  magnitude  and  multitude,  or continuous and discontinuous
-quantity,  do not divide quantity into its ultimate kinds? Aquinas, for example,
-proposes  that the two basic kinds are dimensive and virtual quantity. "There is
-quantity  of bulJk or dimensive quantity," he writes, "which is to be found only
+It may be necessary, however, to postpone answering it until we have examined
+the fundamental difference between magnitude and multitude as generic kinds of
+quantity. What if magnitude and multitude, or continuous and discontinuous
+quantity, do not divide quantity into its ultimate kinds? Aquinas, for example,
+proposes that the two basic kinds are dimensive and virtual quantity. "There is
+quantity of bulJk or dimensive quantity," he writes, "which is to be found only
 in corporeal things, and has, therefore, no place in God. There is also quantity
-of  virtue,  which  is  measured  according  to the perfection of some nature or
-form."  It  is in the latter sense, according to Aquinas, that Augustine writes:
-"In  things  which  are  great, but not in bulk, to be greater is to be better."
-Just  as  dimensive  quantities can be incommensurable with one another, so with
-respect   to   virtual   quantities,   God's   infinite   perfection  makes  him
+of virtue, which is measured according to the perfection of some nature or
+form." It is in the latter sense, according to Aquinas, that Augustine writes:
+"In things which are great, but not in bulk, to be greater is to be better."
+Just as dimensive quantities can be incommensurable with one another, so with
+respect to virtual quantities, God's infinite perfection makes him
 incommensurable with finite creatures. But a dimensive quantity cannot be either
-commensurable  or  incommensurable  with  CHAPTER 76: QU a virtual quantity. The
-standard  of  measurement  by  which  dimensive quantities are compared, and the
-standard  by  which  virtual  quantities  are ordered, represent utterly diverse
-principles  of  commensurability.  Euclid's statement that "those magnitudes are
-said  to  be  commensurable  which  are  measured by the same measure, and those
+commensurable or incommensurable with CHAPTER 76: QU a virtual quantity. The
+standard of measurement by which dimensive quantities are compared, and the
+standard by which virtual quantities are ordered, represent utterly diverse
+principles of commensurability. Euclid's statement that "those magnitudes are
+said to be commensurable which are measured by the same measure, and those
 incommensurable which cannot have a common measure," cannot be extended to cover
 dimensive and virtual quantities, for the very meaning of "measure" changes when
-we  turn  from  the  dimensions  of  a  body  to the perfections of a being. The
+we turn from the dimensions of a body to the perfections of a being. The
 distinction which Aquinas makes between dimensive and virtual magnitudes has its
-parallel  in  the  distinction  he  makes  between two kinds of number, for both
-depend  on  the  difference  between  material and formal quantity. "Division is
-twofold,"  he  writes. "One is material, and is division of the continuous; from
-this  results  number,  which  is a species of quantity. Number in this sense is
+parallel in the distinction he makes between two kinds of number, for both
+depend on the difference between material and formal quantity. "Division is
+twofold," he writes. "One is material, and is division of the continuous; from
+this results number, which is a species of quantity. Number in this sense is
 found only in material things which have quantity. The other kind of division is
 formal, and is effected by opposite or diversek forms; and this kind of division
-results  in a multitude, which does not belong to a genus, but is transcendental
-in  the  sense  in  which  being  is  divided by one and many. Only this kind of
-multitude  is found in immaterial things." According to the example suggested in
-the  context,  such  is  the  multitude  which  is  the number of persons in the
+results in a multitude, which does not belong to a genus, but is transcendental
+in the sense in which being is divided by one and many. Only this kind of
+multitude is found in immaterial things." According to the example suggested in
+the context, such is the multitude which is the number of persons in the
 Trinity.
 
-THE  MATERIAL  quantities  of physics and mathematics seem to fall under the two
-main  heads  of  magnitude  and  multitude.  "Quantity  is  either  discrete  or
+THE MATERIAL quantities of physics and mathematics seem to fall under the two
+main heads of magnitude and multitude. "Quantity is either discrete or
 continuous," writes Aristotle.
 
-"Instances  of  discrete quantities are number and speech; of continuous, lines,
-surfaces,  solids,  and, besides these, time and place." Nicomachus explains the
+"Instances of discrete quantities are number and speech; of continuous, lines,
+surfaces, solids, and, besides these, time and place." Nicomachus explains the
 two kinds of quantity by examples.
 
-"The  unified  and  continuous,"  he  says,  is  exemplified  by "an animal, the
-universe,  a  tree,  and  the  like,  which  are  properly and peculiarly called
-'magnitudes'  "; to illustrate the discontinuous, he points to "heaps of things,
-which  arc  called  'multitudes,' a flock, for instance, a people, a chorus, and
-the  like."  The  principle  of this distinction appears to be the possession or
-lack  of  a  common  boundary. To take Aristotle's example of speech as a ANTITY
-quantity,  the  letters  of  a  written word or the syllables of vocal utterance
-comprise  a  multitude rather than a continuum or magnitude "because there is no
-common  boundary  at  which the syllables join, each being separate and distinct
-from  the  rest." The continuity of magnitudes can be readily seen, according to
+"The unified and continuous," he says, is exemplified by "an animal, the
+universe, a tree, and the like, which are properly and peculiarly called
+'magnitudes' "; to illustrate the discontinuous, he points to "heaps of things,
+which arc called 'multitudes,' a flock, for instance, a people, a chorus, and
+the like." The principle of this distinction appears to be the possession or
+lack of a common boundary. To take Aristotle's example of speech as a ANTITY
+quantity, the letters of a written word or the syllables of vocal utterance
+comprise a multitude rather than a continuum or magnitude "because there is no
+common boundary at which the syllables join, each being separate and distinct
+from the rest." The continuity of magnitudes can be readily seen, according to
 Aristotle, in the possibility of finding a common boundary at which the parts of
-a  line  join  or  make  contact. "In the case of a line," he says, "this common
-boundary  is the point; in the case of a plane, it is the line. . . . Similarly,
-you  can  find  a  common  boundary in the case of the parts of a solid, namely,
-either  a line or a plane." Accepting the principle of the distinction, Plotinus
-insists  that  "number  and  magnitude  are  to  be  regarded  as  the only true
-quantities."  All others, like space and time, or motion, are quantities only in
-a  relative sense, that is, insofar as they can be measured by number or involve
-magnitude.   Galileo   raises  another  sort  of  difficulty.  The  Aristotelian
-conception  of  magnitudes  as  continuous  quantities  implies  their  infinite
-divisibility.  This means, in his terms, that "every magnitude is divisible into
+a line join or make contact. "In the case of a line," he says, "this common
+boundary is the point; in the case of a plane, it is the line. . . . Similarly,
+you can find a common boundary in the case of the parts of a solid, namely,
+either a line or a plane." Accepting the principle of the distinction, Plotinus
+insists that "number and magnitude are to be regarded as the only true
+quantities." All others, like space and time, or motion, are quantities only in
+a relative sense, that is, insofar as they can be measured by number or involve
+magnitude. Galileo raises another sort of difficulty. The Aristotelian
+conception of magnitudes as continuous quantities implies their infinite
+divisibility. This means, in his terms, that "every magnitude is divisible into
 magnitudes" and that "it is impossible for anything continuous to be composed of
-indivisible   parts."  Galileo  acknowledges  the  objections  to  "building  up
-continuous  quantities  out  of  indivisible quantities" on the ground that "the
-addition  of  one indivisible to another cannot produce a divisible, for if this
-were  so  it would render the Suppose a line to comindivisible divisible." prise
+indivisible parts." Galileo acknowledges the objections to "building up
+continuous quantities out of indivisible quantities" on the ground that "the
+addition of one indivisible to another cannot produce a divisible, for if this
+were so it would render the Suppose a line to comindivisible divisible." prise
 an odd number of indivisible points. Since such a line can, in principle, be cut
-into  two  equal  parts, we are required to do the impos; sible, namely, "to cut
+into two equal parts, we are required to do the impos; sible, namely, "to cut
 the indivisible which lies exactly in the middle of the line." To this and other
 objections which seem to him of the same type, Galileo replies that "a divisible
-magnitude  cannot  be  constructed  out of two or ten or a hundred or a thousand
-indivisibles,  but  requires  an  infinite number of them. ... I am willing," he
+magnitude cannot be constructed out of two or ten or a hundred or a thousand
+indivisibles, but requires an infinite number of them. ... I am willing," he
 says, "to grant to the Peripatetics the truth of their opinion that a continuous
 quantity is divisible only into parts which are still further divisible, so that
-however  far  the division and subdivision be continued, no end will be reached;
-but  I  am  not  so  certain  that  they  will  concede to me that none of these
-divisions  of  theirs  can  be a final one, as is surely the fact, because there
-always  remains  'another;  the  final and ultimate division is rather one which
-resolves   a   continuous  quantity  into  an  infinite  number  of  indivisible
-quantities/'  The  question remains whether these indivisible units, an infinite
+however far the division and subdivision be continued, no end will be reached;
+but I am not so certain that they will concede to me that none of these
+divisions of theirs can be a final one, as is surely the fact, because there
+always remains 'another; the final and ultimate division is rather one which
+resolves a continuous quantity into an infinite number of indivisible
+quantities/' The question remains whether these indivisible units, an infinite
 number of which constitute the continuity of a finite magnitude, can properly be
 called quantities. At least they are not magnitudes, as is indicated by Euclid's
-definition  of  a point as "that which has no part," or by Nicomachus' statement
-that  "the  point is the beginning of dimension, but is not itself a dimension."
-If,  in  addition  to having position, a point had size or extent, a finite line
-could  not  contain  an  infinite number of points. This problem of infinite and
+definition of a point as "that which has no part," or by Nicomachus' statement
+that "the point is the beginning of dimension, but is not itself a dimension."
+If, in addition to having position, a point had size or extent, a finite line
+could not contain an infinite number of points. This problem of infinite and
 infinitesimal quantities is more fully discussed in the chapter on INFINITY.
 
-WITHIN  EACH  OF  THE two main divisions of quantitymagnitude and number further
-sub-divisions  into  kinds  are  made.  Relations of equality and inequality, or
-proportions  of  these  ratios,  may  occur between quantities different in kind
-different  plane  figures,  for  example.  But  the  great  books of mathematics
-indicate  other  problems in the study of quantity than those concerned with the
-ratios  and  proportions  of quantities. The classification of lines and figures
+WITHIN EACH OF THE two main divisions of quantitymagnitude and number further
+sub-divisions into kinds are made. Relations of equality and inequality, or
+proportions of these ratios, may occur between quantities different in kind
+different plane figures, for example. But the great books of mathematics
+indicate other problems in the study of quantity than those concerned with the
+ratios and proportions of quantities. The classification of lines and figures
 results in the discovery of the properties which belong to each type. Possessing
 the same properties, all lines or figures of a certain type arc similar in kind,
 not equal in quantity. In addition to developing the properties of such straight
-lines  as  perpendiculars  and  parallels,  or  such curved lines as circles and
-ellipses,  parabolas and hyperbolas, the geometer defines the different types of
-relationship  in  which  straight  lines  can  stand  to curves, e.g., tangents,
-secants,  asymptotes.  As  there  are types of lines and figures, both plane and
+lines as perpendiculars and parallels, or such curved lines as circles and
+ellipses, parabolas and hyperbolas, the geometer defines the different types of
+relationship in which straight lines can stand to curves, e.g., tangents,
+secants, asymptotes. As there are types of lines and figures, both plane and
 solid, so there are types of numbers.
 
-Euclid  and  Nicomachus  divide the odd numbers into the prime and the composite
-into  those  which  are divisible only by themselves and unity, such as 5 and 7,
-and  those which have other factors, such as 9 and 15. The composite are further
-differentia  ted  into  the  variety which is simply secondary and composite and
-"the  variety  which,  in  itself, is secondary and composite, but relatively is
-prime  and  incom-  AS  posite." To illustrate the latter, Nicomachus asks us to
+Euclid and Nicomachus divide the odd numbers into the prime and the composite
+into those which are divisible only by themselves and unity, such as 5 and 7,
+and those which have other factors, such as 9 and 15. The composite are further
+differentia ted into the variety which is simply secondary and composite and
+"the variety which, in itself, is secondary and composite, but relatively is
+prime and incom- AS posite." To illustrate the latter, Nicomachus asks us to
 compare 9 with 25, "Each in itself," he writes, "is secondary and composite, but
-relatively  to  each  other  they  have  only  unity as a common measure, and no
+relatively to each other they have only unity as a common measure, and no
 factors in them have the same denominator, for the third part in the former does
-not  exist  in  the  latter  nor  is  the  fifth part in the latter found in the
-former."  The  even  numbers  are divided by Nicomachus into the even-times-even
-(numbers  like  64  which can be divided into equal halves, and their halves can
-again  be  divided  into  equal halves, and so on until division must stop); the
-even-  times-odd  (numbers  like  6, 10, 14, 1 8 which can be divided into equal
+not exist in the latter nor is the fifth part in the latter found in the
+former." The even numbers are divided by Nicomachus into the even-times-even
+(numbers like 64 which can be divided into equal halves, and their halves can
+again be divided into equal halves, and so on until division must stop); the
+even- times-odd (numbers like 6, 10, 14, 1 8 which can be divided into equal
 halves, but whose halves cannot be divided again into equal halves); and the odd
--times-even  (numbers  like  24,  28,  40 which can be divided into equal parts,
-whose  parts  also  can  be so divided, and perhaps again these parts, but which
-cannot  be  divided  in  this  way  as  far  as  unity). By another principle of
+-times-even (numbers like 24, 28, 40 which can be divided into equal parts,
+whose parts also can be so divided, and perhaps again these parts, but which
+cannot be divided in this way as far as unity). By another principle of
 classification, the even numbers fall into the superabundant, the deficient, and
-the  perfect.  The factors which produce superabundant ordeficient numbers, when
-added  together,  amount to more or less than the number itself; but a number is
+the perfect. The factors which produce superabundant ordeficient numbers, when
+added together, amount to more or less than the number itself; but a number is
 perfect, Nicomachus writes, when, "comparing with itself the sum and combination
-of  all  the  factors  whose  presence it will admit, it neither exceeds them in
-multitude  nor  is  exceeded  by  them." It is "equal to its own parts"; as, for
-example,  6,  "for  6  has  the  factors  half,  third,  and sixth, 3, 2, and i,
-respectively,  and  these  added  together  make 6 and arc equal to the original
-number."  At  the time of Nicomachus only four perfect numbers were known 6, 28,
-496,  8128;  since  his  day  seven  more  have  been  discovered.  The  further
-classification  of  numbers as linear, plane, and solid, and of plane numbers as
-triangular,  square,  pentagonal,  etc., assigns properties to them according to
-their  configurations.  The analysis of figurate numbers by Nicomachus or Pascal
-represents  one  of  the great bridges between arithmetic and geometry, of which
-the  other, in the opposite direction, is the algebraic rendering of geometrical
-loci  in 1 Descartes analytical geometry. In either direction of the translation
+of all the factors whose presence it will admit, it neither exceeds them in
+multitude nor is exceeded by them." It is "equal to its own parts"; as, for
+example, 6, "for 6 has the factors half, third, and sixth, 3, 2, and i,
+respectively, and these added together make 6 and arc equal to the original
+number." At the time of Nicomachus only four perfect numbers were known 6, 28,
+496, 8128; since his day seven more have been discovered. The further
+classification of numbers as linear, plane, and solid, and of plane numbers as
+triangular, square, pentagonal, etc., assigns properties to them according to
+their configurations. The analysis of figurate numbers by Nicomachus or Pascal
+represents one of the great bridges between arithmetic and geometry, of which
+the other, in the opposite direction, is the algebraic rendering of geometrical
+loci in 1 Descartes analytical geometry. In either direction of the translation
 between arithmetic and geometry, discontinuous and continuous quantities seem to
-have  certain  CHAPTER 76: QU properties in common, at least by analogy. Euclid,
-for  example,  proposes numerical ratios as the test for the commensurability of
-magnitudes.  "Commensurable  magnitudes  have  to  one another," he writes, "the
-ratio  which  a number has to a number." With the exception of infinite numbers,
-all  numbers  are  commensurable  and  so  provide the criterion for determining
-whether  two  magnitudes are or are not commensurable. Introducing the notion of
+have certain CHAPTER 76: QU properties in common, at least by analogy. Euclid,
+for example, proposes numerical ratios as the test for the commensurability of
+magnitudes. "Commensurable magnitudes have to one another," he writes, "the
+ratio which a number has to a number." With the exception of infinite numbers,
+all numbers are commensurable and so provide the criterion for determining
+whether two magnitudes are or are not commensurable. Introducing the notion of
 dimensionality into the discussion of figurate numbers, Nicomachus observes that
-"mathematical  speculations are always to be interlocked and to be explained one
-by  means  of  another." Though the dimensions by which linear, plane, and solid
-numbers  are  to be distinguished "are more closely related to magnitude ... yet
-the  germs of these ideas are taken over into arithmetic as the science which is
-the  mother  of  geometry and more elementary than it." The translation does not
-seem  to  fail in any respect. The only non-dimensional number, unity, finds its
-geometrical  analogue  in  the point, which has position without magnitude. When
-diverse  magnitudes are translated into numbers, the diversity of the magnitudes
-seems  to  be  effaced  by  the fact that their numerical measures do not have a
-corresponding  diversity. The numbers will appear to be commensurable though the
-magnitudes  they measure are not, as magnitudes, comparable. As Descartes points
+"mathematical speculations are always to be interlocked and to be explained one
+by means of another." Though the dimensions by which linear, plane, and solid
+numbers are to be distinguished "are more closely related to magnitude ... yet
+the germs of these ideas are taken over into arithmetic as the science which is
+the mother of geometry and more elementary than it." The translation does not
+seem to fail in any respect. The only non-dimensional number, unity, finds its
+geometrical analogue in the point, which has position without magnitude. When
+diverse magnitudes are translated into numbers, the diversity of the magnitudes
+seems to be effaced by the fact that their numerical measures do not have a
+corresponding diversity. The numbers will appear to be commensurable though the
+magnitudes they measure are not, as magnitudes, comparable. As Descartes points
 out, necessary, therefore, to regard each it is order of magnitude as a distinct
 dimension.
 
@@ -384,53 +384,53 @@ PAGB
 
 1. The nature and existence of quantity: its relation to matter, substance, and body; the
 transcendental categories of quantity
-   1a. The relation between quantity and quality: reducibility of quality to quantity
-   1b. The relation of quantities: equality and proportion
+ 1a. The relation between quantity and quality: reducibility of quality to quantity
+ 1b. The relation of quantities: equality and proportion
 
 2. The kinds of quantity: continuous and discontinuous
 
 3. The magnitudes of geometry: the relations of dimensionality
-   3a. Straight lines: their length and their relations; angles, perpendiculars, parallels
-   534                                      TOE GREAT IDEAS
-   PAGB
-   3b. Curved lines: their kinds, number, and degree
-   (1) Circles
-   (2) Ellipses
-   (3) Parabolas
-   (4) Hyperbolas
-   3c. The relations of straight and curved lines: tangents, secants, asymptotes
-   3d. Surfaces
-   (1) The measurement and transformation of areas
-   (2) The relations of surfaces to lines and solids
-   3e. Solids: regular and irregular
-   (1) The determination of volume
-   (2) The   relations of solids:   inscribed   and circumscribed spheres;   solids   of
-   revolution
-   4.
-   Discrete quantities: number and numbering
-   3f. The kinds of numbers: odd-even, square- triangular, prime-composite
-   3g. The relations of numbers to one another: multiples and fractions
-   3h. The
-   number series as a continuum
+ 3a. Straight lines: their length and their relations; angles, perpendiculars, parallels
+ 534 TOE GREAT IDEAS
+ PAGB
+ 3b. Curved lines: their kinds, number, and degree
+ (1) Circles
+ (2) Ellipses
+ (3) Parabolas
+ (4) Hyperbolas
+ 3c. The relations of straight and curved lines: tangents, secants, asymptotes
+ 3d. Surfaces
+ (1) The measurement and transformation of areas
+ (2) The relations of surfaces to lines and solids
+ 3e. Solids: regular and irregular
+ (1) The determination of volume
+ (2) The relations of solids: inscribed and circumscribed spheres; solids of
+ revolution
+ 4.
+ Discrete quantities: number and numbering
+ 3f. The kinds of numbers: odd-even, square- triangular, prime-composite
+ 3g. The relations of numbers to one another: multiples and fractions
+ 3h. The
+ number series as a continuum
 
 5. Physical quantities
-   5a. Space: the matrix
-   of figures and distances
-   5b. Time: the
-   number of motion
-   5c. The quantity of motion: momentum, velocity, acceleration
-   5<f.
-   Mass: its relation to weight
-   $e.
-   Force: its measure and the measure of its effect
+ 5a. Space: the matrix
+ of figures and distances
+ 5b. Time: the
+ number of motion
+ 5c. The quantity of motion: momentum, velocity, acceleration
+ 5<f.
+ Mass: its relation to weight
+ $e.
+ Force: its measure and the measure of its effect
 
-6. The measurements of quantities: the relation of magnitudes and multitudes;           the units
+6. The measurements of quantities: the relation of magnitudes and multitudes; the units
 of measurement
-   6a. Commensurable and incommensurable magnitudes
-   6b. Mathematical procedures in measurement: superposition, congruence; ratio and
-   proportion; parameters and coordinates
-   6c. Physical procedures in measurement: experiment and observation; clocks, rules,
-   balances
+ 6a. Commensurable and incommensurable magnitudes
+ 6b. Mathematical procedures in measurement: superposition, congruence; ratio and
+ proportion; parameters and coordinates
+ 6c. Physical procedures in measurement: experiment and observation; clocks, rules,
+ balances
 
 7. Infinite quantity:
 the actual infinite and the potentially infinite quantity; the mathe-
@@ -438,7 +438,7 @@ matical and physical infinite of the great and the small
 
 CROSS-REFERENCES
 
-For:  Discussions  relevant  to the problem of the existe matter, substance, and
+For: Discussions relevant to the problem of the existe matter, substance, and
 body, see BEING 7b, 7b( Discussions relevant to the conception of the ca
 
 understanding, see FORM 1c; JUDGMENT 8c-8d; ME 1e(i); PRINCIPLE 2b(3).
@@ -526,14 +526,14 @@ the Physicists, BKII,
 
 CH4
 
-OREME.  Treatise  on the Breadth of Forms SUAREZ. Disputationes Metaphysicae, iv
+OREME. Treatise on the Breadth of Forms SUAREZ. Disputationes Metaphysicae, iv
 (9), xm XLI
 
-standing,  BK  II, CH 1 6 (14), xiv, xvi, xviii (3-6), xxvni (i), xxxixLEIBNITZ.
-New  Essays  Concerning  Human  UnderT.  REID.  An  Essay  on Quantity VOLTAIRE.
+standing, BK II, CH 1 6 (14), xiv, xvi, xviii (3-6), xxvni (i), xxxixLEIBNITZ.
+New Essays Concerning Human UnderT. REID. An Essay on Quantity VOLTAIRE.
 "Number," "Numbering," in A Philosophical Dictionary
 
-GAUSS.  General Investigations of Curved Surfaces WHEWELL. The Philosophy of the
+GAUSS. General Investigations of Curved Surfaces WHEWELL. The Philosophy of the
 Inductive Sciences,
 
 VOL I, BK II, CH 9-IO RIEMANN. Uber die Ilypothesen welche der Geometrie
@@ -544,18 +544,18 @@ JEVONS. On a General System of Numerically Definite
 
 Reasoning DEDEKIND. Essays on the Theory of Numbers
 
-TITY  of  the  Western  World, but relevant to the se works arc divided into two
-groups:  d  in  this  collection. ented in this collection. e publication of the
-works  cited,  consult  ows  the  last chapter of The Great Ideas. CLIFFORD. The
-Common  Sense  of  the Exact Sciences, CH i, 3 HELMHOLTZ. Counting and Measuring
-BOSANQUET.  Logic,  VOL  I,  CH  3-4 C. S. PEIRCE. Collected Papers, VOL in, par
+TITY of the Western World, but relevant to the se works arc divided into two
+groups: d in this collection. ented in this collection. e publication of the
+works cited, consult ows the last chapter of The Great Ideas. CLIFFORD. The
+Common Sense of the Exact Sciences, CH i, 3 HELMHOLTZ. Counting and Measuring
+BOSANQUET. Logic, VOL I, CH 3-4 C. S. PEIRCE. Collected Papers, VOL in, par
 252-288,
 
-554-562  MCLELLAN  and  DEWEY.  The  Psychology  of Number POINCARE. Science and
-Hypothesis,  PART  i CASSIRER. Substance and Function, PART i, CH 2; SUP i L. W.
+554-562 MCLELLAN and DEWEY. The Psychology of Number POINCARE. Science and
+Hypothesis, PART i CASSIRER. Substance and Function, PART i, CH 2; SUP i L. W.
 REID. The Elements ofthe Theory of Algebraic
 
-Numbers  WHITEHEAD and RUSSELL. Principia Mathematica, PART III, SECT A, B; PART
+Numbers WHITEHEAD and RUSSELL. Principia Mathematica, PART III, SECT A, B; PART
 VI B. RUSSELL. Principles of Mathematics, CH 11-12, - - 14-15, 19-22, 29-36
 
 Our Knowledge of the External World, v
@@ -564,12 +564,12 @@ Our Knowledge of the External World, v
 
 Introduction to Mathematical Philosophy, CH
 
-.  1-2,  7-8, 10-11 N. R. CAMPBELL. Physics; the Elements, PART n W. E. JOHNSON.
-Logic,  PART  n,  CH  7  G.  N.  LEWIS. The Anatomy of Science, ESSAY i J. B. S.
+. 1-2, 7-8, 10-11 N. R. CAMPBELL. Physics; the Elements, PART n W. E. JOHNSON.
+Logic, PART n, CH 7 G. N. LEWIS. The Anatomy of Science, ESSAY i J. B. S.
 HALDANE. "On Being the Right Size," in
 
-Possible  Worlds and Other Essays EDDINGTON. The Nature ofthe Physical World, CH
-12  DICKSON. Introduction to the Theory of Numbers WHITEHEAD. An Introduction to
+Possible Worlds and Other Essays EDDINGTON. The Nature ofthe Physical World, CH
+12 DICKSON. Introduction to the Theory of Numbers WHITEHEAD. An Introduction to
 Mathematics, CH - .
 
 .
@@ -578,5 +578,5 @@ An Enquiry Concerning the Principles ofNatural - Knowledge, CH 9-12
 
 . The Principle of Relativity with Applications to - Physical Science, CH 3
 
-.  Process  and  Reality,  PART  iv  NAGEL.  On the Logic of Measurement TARSKI.
+. Process and Reality, PART iv NAGEL. On the Logic of Measurement TARSKI.
 Introduction to Logic, PART n

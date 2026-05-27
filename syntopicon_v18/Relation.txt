@@ -2,478 +2,478 @@ Chapter 78:
 
 INTRODUCTION
 
-quantity  and  quality,  relation is genElE erally recognized as a basic term or
+quantity and quality, relation is genElE erally recognized as a basic term or
 category. But its meaning, like theirs, cannot be defined. Relation is, perhaps,
 the prototype of an indefinable notion. As Bertrand Russell points out, it seems
-to  be  impossible  to  make any statement of what relation is without using the
-notion  of  relation  in  doing so. Any term which is essentially relative seems
-also  to  be  incapable  of  definition.  Its  meaning  cannot be stated without
-referring  to  its correlative; and since the meaning of the latter reciprocally
-involves  the  former  as  its correlative, each member of a pair of correlative
-terms  draws  upon  the  other  for  its meaning. A part is a part of a whole; a
+to be impossible to make any statement of what relation is without using the
+notion of relation in doing so. Any term which is essentially relative seems
+also to be incapable of definition. Its meaning cannot be stated without
+referring to its correlative; and since the meaning of the latter reciprocally
+involves the former as its correlative, each member of a pair of correlative
+terms draws upon the other for its meaning. A part is a part of a whole; a
 whole, a whole of parts. Similarly, the meaning of parent involves the notion of
-child  and  the  meaning  of  child  the  notion  of  parent. Plato applies this
-maddening  fact  about  correlative  terms  to  all  comparatives  which  prethe
-correlation  of  more and less. "Comsuppose paratives such as the hotter and the
+child and the meaning of child the notion of parent. Plato applies this
+maddening fact about correlative terms to all comparatives which prethe
+correlation of more and less. "Comsuppose paratives such as the hotter and the
 colder," he writes, "are to be ranked in the class of the infinite." They cannot
-be  measured or defined. Terms like 'much and 'little,' 'great' and 'small' look
-like  quantities,  but,  according  to  Aristotle, they are "not quantities, but
-relatives,  for  things  are  not  great or small absolutely; they are so called
+be measured or defined. Terms like 'much and 'little,' 'great' and 'small' look
+like quantities, but, according to Aristotle, they are "not quantities, but
+relatives, for things are not great or small absolutely; they are so called
 rather as the result of an act of comparison."
 
-Concerning  quantities  and  qualities,  the  ancients  ask  how they exist. The
-alternatives  seem  to  be  either that they exist in and of themselves, or that
-they  exist  as  the attributes of substances such as stones and trees. But with
+Concerning quantities and qualities, the ancients ask how they exist. The
+alternatives seem to be either that they exist in and of themselves, or that
+they exist as the attributes of substances such as stones and trees. But with
 regard to relations, the question seems to be whether they exist rather than how
 they exist. The supposition that a relation cannot exist apart from the terms it
-relates  may  be thought to imply that the relation does exist when the terms it
-relates  exist.  The  ancients, however, do not appear to regard the relation as
-something  having  a reality distinguishable from the reality of the correlative
+relates may be thought to imply that the relation does exist when the terms it
+relates exist. The ancients, however, do not appear to regard the relation as
+something having a reality distinguishable from the reality of the correlative
 terms. It seems to be significant that both Plato and Aristotle discuss relative
-terms,  rather than relations as such. For the most part, they signify relations
+terms, rather than relations as such. For the most part, they signify relations
 by using a pair of words which name things standing in a certain relation to one
-another.  Thus  in  the  Categories,  Aristotle  refers  to  'double' and 'half/
-'master'  and 'slave,' 'greater' and 'less,' or 'knowledge and 'object known' as
-examples  of  correlative terms. "All relatives," he says, "have a correlative."
-Sometimes  it is necessary to find the precise word, or even to invent the right
-word,  for  in  order to indicate that a given term is relative, its correlative
-must  be appropriately named. "Concubine," says Locke, "is, no doubt, a relative
-name,  as  well as wife; but in languages where this, and like words, have not a
-correlative  term, there people are not so apt to take them to be so, as wanting
-that  evident  mark  of  relations  which is between correlatives, which seem to
-explain  one  another,  and  not  to  be  able  to  exist  but  together."  When
-"reciprocity  of  correlation does not appear to exist," Aristotle suggests that
-it  may  be  the result of our failure to use words carefully. If we wish to use
-tho  term  'rudder'  as  relative,  we cannot call its correlative a 'boat,' for
+another. Thus in the Categories, Aristotle refers to 'double' and 'half/
+'master' and 'slave,' 'greater' and 'less,' or 'knowledge and 'object known' as
+examples of correlative terms. "All relatives," he says, "have a correlative."
+Sometimes it is necessary to find the precise word, or even to invent the right
+word, for in order to indicate that a given term is relative, its correlative
+must be appropriately named. "Concubine," says Locke, "is, no doubt, a relative
+name, as well as wife; but in languages where this, and like words, have not a
+correlative term, there people are not so apt to take them to be so, as wanting
+that evident mark of relations which is between correlatives, which seem to
+explain one another, and not to be able to exist but together." When
+"reciprocity of correlation does not appear to exist," Aristotle suggests that
+it may be the result of our failure to use words carefully. If we wish to use
+tho term 'rudder' as relative, we cannot call its correlative a 'boat,' for
 "there are boats which have no rudders."
 
-Since  there is no existing word, it would be "more accurate," Aristotle thinks,
-"if  we  coined  some word like *ruddered' to name the correlative of 'rudder.'"
-Similarly,  in  the  case  of 'slave' as a relative term, its correlative is not
+Since there is no existing word, it would be "more accurate," Aristotle thinks,
+"if we coined some word like *ruddered' to name the correlative of 'rudder.'"
+Similarly, in the case of 'slave' as a relative term, its correlative is not
 'man' understood in any sense, but only man understood as 'master.'
 
-The  things  which are designated by a pair of reciprocally relative terms must,
-according  to 569 570 THE GREAT I Aristotle, coexist. One man cannot be called a
-master  unless  another man exists who can be called his slave; something cannot
-be  called  larger  unless  something  coexistent with it can be called smaller.
+The things which are designated by a pair of reciprocally relative terms must,
+according to 569 570 THE GREAT I Aristotle, coexist. One man cannot be called a
+master unless another man exists who can be called his slave; something cannot
+be called larger unless something coexistent with it can be called smaller.
 Aristotle considers possible exceptions to this principle of the simultaneity or
-coexistence  of  correlatives; as, for example, in the case of knowledge and the
-knowable.  It seems possible, he thinks, for the knowable to exist before anyone
-has  actual  knowledge of it. But the exception may be due to an improper naming
-of  the  correlatives.  If the correlative of knowledge is the known rather than
-the  knowable,  then  knowledge  and  its  object  may be said to be necessarily
-coexistent,   for   nothing  comes  to  be  an  object  actually  known,  except
+coexistence of correlatives; as, for example, in the case of knowledge and the
+knowable. It seems possible, he thinks, for the knowable to exist before anyone
+has actual knowledge of it. But the exception may be due to an improper naming
+of the correlatives. If the correlative of knowledge is the known rather than
+the knowable, then knowledge and its object may be said to be necessarily
+coexistent, for nothing comes to be an object actually known, except
 simultaneously with someone's coming actually to know it.
 
-THE  COEXISTENCE  OF  things which are correlative to one another still leaves a
-question  concerning  the existence of the relation between them. When conceived
-as  an  attribute,  a quality or a quantity can be said to exist in the thing it
-somehow  modifies.  In  the  language  of  Aristotle,  such  accidents inhere in
+THE COEXISTENCE OF things which are correlative to one another still leaves a
+question concerning the existence of the relation between them. When conceived
+as an attribute, a quality or a quantity can be said to exist in the thing it
+somehow modifies. In the language of Aristotle, such accidents inhere in
 substances, and accordingly have reality as long as the substances in which they
-inhere  exist.  But a relation does not seem to inhere in a substance. It cannot
+inhere exist. But a relation does not seem to inhere in a substance. It cannot
 be the attribute of a single thing. It somehow lies between two things, inhering
 in neither, for if it belonged to either one alone it could have some reality if
-that  one  existed  and  the  other did not. The question, therefore, is whether
-relations  really  exist  at  all,  or  are only in the mind of him who compares
-things  or  considers them relative to one another. "A sign that the relative is
-least  of all a substance and a real thing," writes Aristotle, "is the fact that
-it  alone  has no proper generation or destruction or movement; as in respect of
-quantity  there is increase and diminution, in respect of quality alteration, in
-respect  of  place  locomotion,  in  respect  of substance simple generation and
-destruction.  In  respect  to  relation  there is no proper change; for, without
-changing,  a thing will be now greater and now less or equal, if that with which
-it  is compared has changed in quantity." Plotinus also questions the reality of
+that one existed and the other did not. The question, therefore, is whether
+relations really exist at all, or are only in the mind of him who compares
+things or considers them relative to one another. "A sign that the relative is
+least of all a substance and a real thing," writes Aristotle, "is the fact that
+it alone has no proper generation or destruction or movement; as in respect of
+quantity there is increase and diminution, in respect of quality alteration, in
+respect of place locomotion, in respect of substance simple generation and
+destruction. In respect to relation there is no proper change; for, without
+changing, a thing will be now greater and now less or equal, if that with which
+it is compared has changed in quantity." Plotinus also questions the reality of
 relations. "Has relationfor example, that of right and left, double and half any
-actuality?  .  .  .  What  can  be  the  meaning  of correlatives apart from our
-conception  of  their  juxtaposition  ?  'Greater'  may  refer to very different
-magnitudes;  Different' to all sorts of objects. The comparison is ours; it does
-not  lie  in  the  things  themselves."  In  the  case of certain space and time
-relations  he  maintains  that "right and left are in our conception, nothing of
-them  in  the  things  themselves.  Before  and after are merely two things; the
-relation  is  again of our making." Yet Plotinus seems unwilling to say that "we
-do  not  mean  anything by relation, but are victims of words, "or that "none of
-the  relations  mentioned  can  exist."  Recognizing  what he calls "the elusive
-character  of  relation," he is willing to affirm the reality of relations "when
+actuality? . . . What can be the meaning of correlatives apart from our
+conception of their juxtaposition ? 'Greater' may refer to very different
+magnitudes; Different' to all sorts of objects. The comparison is ours; it does
+not lie in the things themselves." In the case of certain space and time
+relations he maintains that "right and left are in our conception, nothing of
+them in the things themselves. Before and after are merely two things; the
+relation is again of our making." Yet Plotinus seems unwilling to say that "we
+do not mean anything by relation, but are victims of words, "or that "none of
+the relations mentioned can exist." Recognizing what he calls "the elusive
+character of relation," he is willing to affirm the reality of relations "when
 the actuality of the relationships is derived from no other source than relation
-itself."  He thinks that one quantity may be the double of another, "quite apart
+itself." He thinks that one quantity may be the double of another, "quite apart
 from our speech or thought." The fact that one quantity is the double of another
-is  an  additional  fact about the two quantities over and above all their other
-properties.  "In  all  the  conditions  in  which  we assert relation," Plotinus
+is an additional fact about the two quantities over and above all their other
+properties. "In all the conditions in which we assert relation," Plotinus
 declares, "the mutual relation exists over and above the objects; we perceive it
 as already existent; our knowledge is directed upon a thing, there to be known a
-clear  testimony  to  the reality of relation." The problem thus seems to become
+clear testimony to the reality of relation." The problem thus seems to become
 one of distinguishing between relations which have independent reality and those
 which exist only in the mind. "Some have said that relation is not a reality but
 only an idea. But this," Aquinas declares, "is plainly seen to be false from the
-very  fact  that  things  themselves  have a mutual order and relation." Not all
-relations  are  real,  however. "Relations which result in the things understood
-from  the  operation of the intellect alone are logical relations only, inasmuch
+very fact that things themselves have a mutual order and relation." Not all
+relations are real, however. "Relations which result in the things understood
+from the operation of the intellect alone are logical relations only, inasmuch
 as reason observes them as existing between two understood things." For example,
-"the  relation  of  a  thing  to itself is not a real relation," for "reason, by
-apprehending  one  thing  twice,  regards  it  as  two; and thus it apprehends a
-certain  relation of a thing to itself . . . The same is true of those relations
+"the relation of a thing to itself is not a real relation," for "reason, by
+apprehending one thing twice, regards it as two; and thus it apprehends a
+certain relation of a thing to itself . . . The same is true of those relations
 that follow upon an act of reason, as genus and species, and the like."
 
 CHAPTER 78: RE Aquinas offers, in contrast, "other relations which are realities
-with  regard  to  both  extremes;  as  when a relation exists between two things
-according  to  some reality that belongs to both. This is clear of all relations
-consequent  upon  quantity,  great and small, double and half, and the like; for
-there  is quantity in both extremes.'* This distinction between real and logical
-relations  seems to be qualified by the intermediate case of a relation which is
+with regard to both extremes; as when a relation exists between two things
+according to some reality that belongs to both. This is clear of all relations
+consequent upon quantity, great and small, double and half, and the like; for
+there is quantity in both extremes.'* This distinction between real and logical
+relations seems to be qualified by the intermediate case of a relation which is
 partly logical and partly real; for, according to Aquinas, "sometimes a relation
 in one extreme may be a reality, while in the other extreme, it is only an idea.
-This  happens  whenever the two extremes are not of one order Since God is . . .
-outside  the  whole  order of creation and all creatures are ordered to Him, and
+This happens whenever the two extremes are not of one order Since God is . . .
+outside the whole order of creation and all creatures are ordered to Him, and
 not conversely, it is manifest that creatures are really related to God Himself;
-whereas  in  God  there is no real relation to creatures, but a relation only in
-idea,  inasmuch  as  creatures  are  related to Him." In the CharmideS) Socrates
-raises  some  doubts  about  the  admissibility  of  reflexive relations, or the
-relations  of  things  to themselves. Others have questioned the partly real and
-partly  logical relation, according to which one thing is related to another but
-the  second  is  not related to the first. But the more important issues, in the
+whereas in God there is no real relation to creatures, but a relation only in
+idea, inasmuch as creatures are related to Him." In the CharmideS) Socrates
+raises some doubts about the admissibility of reflexive relations, or the
+relations of things to themselves. Others have questioned the partly real and
+partly logical relation, according to which one thing is related to another but
+the second is not related to the first. But the more important issues, in the
 tradition of western thought, seem to be whether there are both real and logical
 relations, *.., relations both in nature and in the mind, and whether, in either
-case,  relations  enter into the very nature of the things related or are merely
-external,  so  that  the  character of a thing is unaffected by the relations in
+case, relations enter into the very nature of the things related or are merely
+external, so that the character of a thing is unaffected by the relations in
 which it stands.
 
-As  INDICATED  IN THE chapters on JUDGMENT, REASONING, and LOGIC, relation tends
-to  displace predication in certain typically modern theories of the proposition
-and  of  inference.  What  is currently called "relational logic" is set against
+As INDICATED IN THE chapters on JUDGMENT, REASONING, and LOGIC, relation tends
+to displace predication in certain typically modern theories of the proposition
+and of inference. What is currently called "relational logic" is set against
 "subject-predicate logic." Relations themselves, without regard to the character
 of the terms related, become the primary object of logical analysis. It is said,
-for  example,  that  1  the  proposition  'John  hit James has the form 'aRb' or
+for example, that 1 the proposition 'John hit James has the form 'aRb' or
 *R(a,b),' and that the proposition 'John went to school with James' has the form
-LATION  571  *R(a,b,c,).'  The  first is a dyadic relation, the second a triadic
+LATION 571 *R(a,b,c,).' The first is a dyadic relation, the second a triadic
 relation.
 
-Relations  are  classified not only with respect to the number of the terms they
-relate,   but   also  with  respect  to  such  formal  properties  as  symmetry,
-transitivity,  reflexivity.  The  relation  of parent and child, for example, is
-asymA  is  the  parent  of metrical. It cannot be said, if B, that B is also the
-parent  of  A; whereas the relation of brotherhood is symmetrical. Statements of
-symmetrical  relationship are convertible. If we say that A is the brother of B,
+Relations are classified not only with respect to the number of the terms they
+relate, but also with respect to such formal properties as symmetry,
+transitivity, reflexivity. The relation of parent and child, for example, is
+asymA is the parent of metrical. It cannot be said, if B, that B is also the
+parent of A; whereas the relation of brotherhood is symmetrical. Statements of
+symmetrical relationship are convertible. If we say that A is the brother of B,
 we can also say that B is the brother of A. The type of relationship remains the
-same   regardless  of  the  character  of  the  terms.  Unequal  quantities  are
-asymmetrically  related,  equal  quantities symmetrically; 'to-the-rightof is an
-asymmetrical    spatial   relation,   'next-to'   is   symmetrical;   in   time,
-'simultaneous-with'  is symmetrical and 'prior-to' asymmetrical. The distinction
-between  transitive  and intransitive relations similarly holds for all kinds of
-terms.  The  relation  of  father  to  son  or  of 'standingnext-to' in space is
-intransitive,  for  if A is the father of B, and B the father of C, A is not the
-father  of  C;  whereas  the  spatial  relation of Standing- to- the-right-of is
+same regardless of the character of the terms. Unequal quantities are
+asymmetrically related, equal quantities symmetrically; 'to-the-rightof is an
+asymmetrical spatial relation, 'next-to' is symmetrical; in time,
+'simultaneous-with' is symmetrical and 'prior-to' asymmetrical. The distinction
+between transitive and intransitive relations similarly holds for all kinds of
+terms. The relation of father to son or of 'standingnext-to' in space is
+intransitive, for if A is the father of B, and B the father of C, A is not the
+father of C; whereas the spatial relation of Standing- to- the-right-of is
 transitive, for if A is to the right of B, and B to the right of C, then A is to
-the  right  of  C.  The modern analysis of propositions as relational structures
-which  differ  in  type  according  to  the  character of the relations, not the
-character  of  the  terms,  has an antecedent in Locke's analysis ofjudgments as
-acts  of  comparison which look to the relation between ideas rather than to the
-ideas  themselves. Both analyses lead to a theory of inference which is based on
-the  convertibility  of symmetrical relations and on the transitivity of certain
-relationships  and  the intransitivity of others. As indicated in the chapter on
+the right of C. The modern analysis of propositions as relational structures
+which differ in type according to the character of the relations, not the
+character of the terms, has an antecedent in Locke's analysis ofjudgments as
+acts of comparison which look to the relation between ideas rather than to the
+ideas themselves. Both analyses lead to a theory of inference which is based on
+the convertibility of symmetrical relations and on the transitivity of certain
+relationships and the intransitivity of others. As indicated in the chapter on
 REASONING, the factor of transitivity appears in William James discussion of the
-"principle  of mediate comparison." He states this in the formula "more than the
-more  is  more than the less'' Then he explains that "such a formula would cover
-all  possible cases; as, earlier than early is earlier than late, worse than bad
-is  worse  than  good,  east  of  east  is east of west; etc., etc., ad libitum.
-Symbolically,  we  might  write  it  as  abcd  .  .  and say. that any number of
-intermediaries  may  be  ex- 572 punged without obliging us to alter anything in
+"principle of mediate comparison." He states this in the formula "more than the
+more is more than the less'' Then he explains that "such a formula would cover
+all possible cases; as, earlier than early is earlier than late, worse than bad
+is worse than good, east of east is east of west; etc., etc., ad libitum.
+Symbolically, we might write it as abcd . . and say. that any number of
+intermediaries may be ex- 572 punged without obliging us to alter anything in
 what remains written."
 
-James  thus  formulates  what he regards as the most fundamental law of thought.
-For  series  "  of  "homogeneously  related  terms,  the law is " that "shipping
-intermediary  terms  leaves  the  relations  the same The factor of transitivity
-enters  the  picture  when  fames  distinguishes between relations which are and
-relations  which  are  not  transferable.  "Allskipping  of  intermediaries  and
+James thus formulates what he regards as the most fundamental law of thought.
+For series " of "homogeneously related terms, the law is " that "shipping
+intermediary terms leaves the relations the same The factor of transitivity
+enters the picture when fames distinguishes between relations which are and
+relations which are not transferable. "Allskipping of intermediaries and
 transfer of relations occurs within homogeneous series," he writes. "But not all
-homogeneous  series  allow  of intermediaries being skipped. It depends on which
+homogeneous series allow of intermediaries being skipped. It depends on which
 series they are, on what relations they contain. Let it not be said that it is a
-mere  matter  of  verbal  association,  due  to  the fact thatlanguage sometimes
-permits  us  to transfer the name of a relation over skipped intermediaries, and
-sometimes  does  not; as where we call men 'progenitors' of their remote as well
+mere matter of verbal association, due to the fact thatlanguage sometimes
+permits us to transfer the name of a relation over skipped intermediaries, and
+sometimes does not; as where we call men 'progenitors' of their remote as well
 as of their immediate posterity, but refuse to call them 'fathers' thereof.
 
 There are relations which are intrinsically transferable, whilst others are not.
-The  relation of condition, e.g., is intrinsically transferable. What conditions
-a  condition  conditions what it conditions-Vcause of cause is cause of effect.'
-The  relations  of  negation  and  frustration,  on  the  other  hand,  are  not
-transferable:   what  frustrates  a  frustration  does  not  frustrate  what  it
-frustrates.  No  changes  in  terminology  would  annul  the intimate difference
+The relation of condition, e.g., is intrinsically transferable. What conditions
+a condition conditions what it conditions-Vcause of cause is cause of effect.'
+The relations of negation and frustration, on the other hand, are not
+transferable: what frustrates a frustration does not frustrate what it
+frustrates. No changes in terminology would annul the intimate difference
 between these two cases."
 
 THE FOREGOING PASSAGES from James reflect the general tenor of the theory of the
-calculus  of  relations.  He  himself  does  not  systematically expound it. Its
+calculus of relations. He himself does not systematically expound it. Its
 elaboration is to be found in the writings of Boole, Couturat, and De Morgan, of
-Jevons,  Pierce, Bradley, Royce, Russell and Whitehead (whose works are cited in
-the  Additional  Readings).  Is  this  relational  logic  more  general than the
-subject-predicate  logic  that is traditionally called "Aristotelian," or is the
-reverse  the  case  ?  The  modern answer insists upon the greater generality of
-relational   logic.   Royce,   for   example,   denning   "subsumption"   as   a
-non-symmetrical,  transitive relation which obtains between two classes when one
-includes  the  other,  declares  that  "the  entire  traditional  'theory of the
-syllogism'  can  be  expressed  as a sort of comment upon, and relatively simple
-application  of,  the  transitivity  of  the subsumption relation." According to
-Royce,  William  James' axiom of skipped intermediaries represents a step in the
-right  direction,  but it fails to achieve complete generality. Russell disposes
-of  the  traditional  theory  of  the proposition in the same fashion that Royce
-disposes  of  the  traditional  theory  of  the syllogism. Traditional logic, he
-writes,  "believed  that there was only one form of simple proposition (i.e., of
-proposition  not  stating  a  relation  between two or more other propositions),
-namely,  the  form  which  ascribes a predicate to a subject." It is, therefore,
-"unable  to admit the reality of relations; all relations, it maintains, must be
-reduced  to properties of the apparently related terms." Russell insists, on the
-contrary,  that  "propositions  stating  that two things have a certain relation
-have  a  different  form  from subject-predicate propositions." This can be most
-easily  seen,  he thinks, in the case of asymmetrical relations. The proposition
-which  states  that A and B are related by the symmetrical relation of equality,
-can  be  interpreted  to  mean that A and B both possess a common property. "But
-when  we  come  to asymmetrical relations, such as before and after, greater and
-less,  etc.,  the  attempt  to  reduce them to properties becomes," in Russell's
-opinion,  "obviously  impossible."  The  relational  theory  of the proposition,
+Jevons, Pierce, Bradley, Royce, Russell and Whitehead (whose works are cited in
+the Additional Readings). Is this relational logic more general than the
+subject-predicate logic that is traditionally called "Aristotelian," or is the
+reverse the case ? The modern answer insists upon the greater generality of
+relational logic. Royce, for example, denning "subsumption" as a
+non-symmetrical, transitive relation which obtains between two classes when one
+includes the other, declares that "the entire traditional 'theory of the
+syllogism' can be expressed as a sort of comment upon, and relatively simple
+application of, the transitivity of the subsumption relation." According to
+Royce, William James' axiom of skipped intermediaries represents a step in the
+right direction, but it fails to achieve complete generality. Russell disposes
+of the traditional theory of the proposition in the same fashion that Royce
+disposes of the traditional theory of the syllogism. Traditional logic, he
+writes, "believed that there was only one form of simple proposition (i.e., of
+proposition not stating a relation between two or more other propositions),
+namely, the form which ascribes a predicate to a subject." It is, therefore,
+"unable to admit the reality of relations; all relations, it maintains, must be
+reduced to properties of the apparently related terms." Russell insists, on the
+contrary, that "propositions stating that two things have a certain relation
+have a different form from subject-predicate propositions." This can be most
+easily seen, he thinks, in the case of asymmetrical relations. The proposition
+which states that A and B are related by the symmetrical relation of equality,
+can be interpreted to mean that A and B both possess a common property. "But
+when we come to asymmetrical relations, such as before and after, greater and
+less, etc., the attempt to reduce them to properties becomes," in Russell's
+opinion, "obviously impossible." The relational theory of the proposition,
 therefore, includes the subject-predicate theory as a special case. A defense of
-the  subject-predicate  logic  would  not  make the counterclaim that relational
-logic  can  be  treated  as  a special case. Rather it would insist that the two
+the subject-predicate logic would not make the counterclaim that relational
+logic can be treated as a special case. Rather it would insist that the two
 logics are radically different in principle that the one belongs to a philosophy
-of  nature and a metaphysics, in which substance is the primary concept; whereas
-the  other belongs to the empirical sciences and to modern mathematics, in which
-the  concept  of relation supplants substance. Whichever side of the controversy
+of nature and a metaphysics, in which substance is the primary concept; whereas
+the other belongs to the empirical sciences and to modern mathematics, in which
+the concept of relation supplants substance. Whichever side of the controversy
 is taken, the undeniable difference between a relational and a subject-predicate
-logic  represents  one  of  the  great  differences  between  modern and ancient
-thought.  It  is  not  only  in  logic that the modern emphasis seems to be upon
-relations  rather than CHAPTER 78: R upon things related on relations denuded of
-their  terms  rather  than  on  terms treated as correlatives. The same tendency
-appears  in  modern  mathematics, in algebra, in the calculus, and especially in
-the  theory  of  equations and functions, of sets and series. It also appears in
-modern  physics  where,  according  to Cassirer, the great conceptual revolution
-consists  in  displacing  substance  by  function, and the casual interaction of
-substances  by functional relationships and systems of order. Such substitutions
+logic represents one of the great differences between modern and ancient
+thought. It is not only in logic that the modern emphasis seems to be upon
+relations rather than CHAPTER 78: R upon things related on relations denuded of
+their terms rather than on terms treated as correlatives. The same tendency
+appears in modern mathematics, in algebra, in the calculus, and especially in
+the theory of equations and functions, of sets and series. It also appears in
+modern physics where, according to Cassirer, the great conceptual revolution
+consists in displacing substance by function, and the casual interaction of
+substances by functional relationships and systems of order. Such substitutions
 obviously parallel the shift in logic from the consideration of terms related as
-subjects  and  predicates,  to  the consideration of relations without regard to
-differences  in  the  terms  related.  In the tradition of the great books, this
+subjects and predicates, to the consideration of relations without regard to
+differences in the terms related. In the tradition of the great books, this
 conceptual revolution seems to be announced by the treatment which Hume and Kant
-accord  to  the notion of substance. Hume appears to conceive of experience as a
+accord to the notion of substance. Hume appears to conceive of experience as a
 series of events related, as he says, by "only three principles of connexion . .
-.  namely, Resemblance, Contiguity in time or place, and Cause or Effect." These
-relations  make  up  the  fabric  of experience. So long as it consisted in such
+. namely, Resemblance, Contiguity in time or place, and Cause or Effect." These
+relations make up the fabric of experience. So long as it consisted in such
 connections, our experience would be the same whether or not there were enduring
-things  or  substances.  "Nature  has  established  connexions  among particular
+things or substances. "Nature has established connexions among particular
 ideas," Hume writes, so that "no sooner does one idea occur to our thoughts than
-it  introduces  its  correlative."  All our knowledge of matters of fact depends
-upon  the association of ideas, or the relations of resemblance, contiguity, and
-causation  among  the  elements  of  experience. All other knowledge has for its
+it introduces its correlative." All our knowledge of matters of fact depends
+upon the association of ideas, or the relations of resemblance, contiguity, and
+causation among the elements of experience. All other knowledge has for its
 object those relations between ideas which do not connect them causally or place
-them  in  a  spatial  or temporal order. In either case, relations of all sorts,
-rather  than  things  and their properties (or substances and their attributes),
-seem  to  be  the prime constituents of nature and of knowledge. Kant presents a
-fourfold  classification  of  judgments  according  to  their quantity, quality,
-relation,  and  modality.  Under  the  head  of  relation,  he distinguishes the
-categorical,  the  hypothetical,  and the disjunctive according to the following
+them in a spatial or temporal order. In either case, relations of all sorts,
+rather than things and their properties (or substances and their attributes),
+seem to be the prime constituents of nature and of knowledge. Kant presents a
+fourfold classification of judgments according to their quantity, quality,
+relation, and modality. Under the head of relation, he distinguishes the
+categorical, the hypothetical, and the disjunctive according to the following
 criteria: "a. Relation of the predicate to the subject, b. Relation of the cause
 to its effect, c. Relation of subdivided knowledge, ELATION and of the collected
-members  of  the  subdivision  to  each  other."  These are, he writes, "all the
+members of the subdivision to each other." These are, he writes, "all the
 relations of thought in judgements."
 
-Pointing  out  that  he  borrows  the  term  from Aristotle, Kant calls the pure
-concepts  of the understanding "categories" and constructs a table of categories
-which  runs  parallel  to  his table of judgments; because, as he explains, "the
-same  function  which  imparts unity to various representations in one judgement
-imparts  unity  likewise to the mere synthesis of various representations in one
-intuition,   which  in  a  general  way  may  be  called  the  pure  concept  of
+Pointing out that he borrows the term from Aristotle, Kant calls the pure
+concepts of the understanding "categories" and constructs a table of categories
+which runs parallel to his table of judgments; because, as he explains, "the
+same function which imparts unity to various representations in one judgement
+imparts unity likewise to the mere synthesis of various representations in one
+intuition, which in a general way may be called the pure concept of
 understanding." Kant's categories, in contrast to Aristotle's, afford a striking
-example  of  the shift from substance to relation. Where for Aristotle substance
-is  the  primary  category  and  all  other  categories signify the accidents of
-substance,  among  which  relation  seems to have least reality in the nature of
-things,  Kant  makes  relation  one  of the four major groups of categories, and
-under  relation  places  subsistence  and  inherence (or substance and accident)
-along  with  causality  and  dependence  (or cause and effect) and community (or
-reciprocity  between  the  active and the passive). It is not substance, but the
+example of the shift from substance to relation. Where for Aristotle substance
+is the primary category and all other categories signify the accidents of
+substance, among which relation seems to have least reality in the nature of
+things, Kant makes relation one of the four major groups of categories, and
+under relation places subsistence and inherence (or substance and accident)
+along with causality and dependence (or cause and effect) and community (or
+reciprocity between the active and the passive). It is not substance, but the
 relation of substance and accident, which is for Kant a transcendental category.
-THE  ISSUE  CONCERNING  substance and relation takes another form in the problem
-whether  relations  exist  in  the  very nature of things, as belonging to their
+THE ISSUE CONCERNING substance and relation takes another form in the problem
+whether relations exist in the very nature of things, as belonging to their
 essence, or only exist as connections between things. In the latter alternative,
-there  is  still  the  question  whether relations between things are externally
+there is still the question whether relations between things are externally
 affixed to them or are internally inherent in them and affect the natures of the
-things  related.  According  to the Christian doctrine of the Trinity, there are
-real  relations in God, each really distinct from the others, yet each identical
-with  the  divine  essence.  These  relations are the persons of the Trinity the
-relations  Aquinas  calls  "paternity, filiation, spiration and procession," the
-relation  of  the  Father  and  the  Son,  and  of the Holy Spirit to them both.
-"Relation  in  God,"  he writes, "is not as an accident in a subject, but is the
-divine  essence  itself;  and  so  it  is  subsistent, for the divine essence is
+things related. According to the Christian doctrine of the Trinity, there are
+real relations in God, each really distinct from the others, yet each identical
+with the divine essence. These relations are the persons of the Trinity the
+relations Aquinas calls "paternity, filiation, spiration and procession," the
+relation of the Father and the Son, and of the Holy Spirit to them both.
+"Relation in God," he writes, "is not as an accident in a subject, but is the
+divine essence itself; and so it is subsistent, for the divine essence is
 subsistent. Therefore, as the Godhead is God, so the divine paternity is God the
-Father,  Who is a divine person. Therefore, a divine person signifies a relation
+Father, Who is a divine person. Therefore, a divine person signifies a relation
 as subsisting."
 
 Since the three persons of the Trinity are of the same essence, the principle of
-their  real  distinction  must  be  found  elsewhere. Denying that "there can be
-discerned  between  them  a  real distinction in respect of the divine essence,"
-Descartes  does not reject the possibility of a distinction "in respect of their
-relation  to one another." Aquinas considers "two principles of difference among
-the  divine  persons  . . . origin and relation" but thinks it is "better to say
-that  the  persons  or  hypostases are distinguished by relations rather than by
-origin";  for,  among  other  reasons,  "when  a  relation  is  an  accident, it
+their real distinction must be found elsewhere. Denying that "there can be
+discerned between them a real distinction in respect of the divine essence,"
+Descartes does not reject the possibility of a distinction "in respect of their
+relation to one another." Aquinas considers "two principles of difference among
+the divine persons . . . origin and relation" but thinks it is "better to say
+that the persons or hypostases are distinguished by relations rather than by
+origin"; for, among other reasons, "when a relation is an accident, it
 presupposes the distinction of subjects; but when the relation is subsistent, it
 does not presuppose, but brings about, distinction."
 
-It  would  seem  to follow that, except in God, relations are not subsistent. In
+It would seem to follow that, except in God, relations are not subsistent. In
 Aristotle's theory of corporeal substances, for example, the matter and the form
-which  constitute  a  physical  thing are united, not related. Though matter and
-form  are  conceived  as  really  distinct  principles  in  the composition of a
-composite  substance  as  essence  and  existence  are also sometimes said to be
-really  distinct  principles  in  the  being of all things except God their real
-distinction  does  not imply that they are subsistent, as are the persons of the
-Trinity,  nor that they are relations, or in relation to one another. If real as
-opposed  to  logical  relations  occur  only between things which somehow really
-subsist,  then  those  principles  which  must be united in order for a thing to
+which constitute a physical thing are united, not related. Though matter and
+form are conceived as really distinct principles in the composition of a
+composite substance as essence and existence are also sometimes said to be
+really distinct principles in the being of all things except God their real
+distinction does not imply that they are subsistent, as are the persons of the
+Trinity, nor that they are relations, or in relation to one another. If real as
+opposed to logical relations occur only between things which somehow really
+subsist, then those principles which must be united in order for a thing to
 subsist cannot be really related to one another.
 
-WITH  A  SOMEWHAT  different analysis, Locke seems to exclude relations from the
-constitution  of  what  he  calls  "the  complex idea of substance." All complex
-ideas,  according  to  Locke,  "are either modes, substances, or relations." The
-complex  idea  of  substance  is  a "collection of those several simple ideas of
+WITH A SOMEWHAT different analysis, Locke seems to exclude relations from the
+constitution of what he calls "the complex idea of substance." All complex
+ideas, according to Locke, "are either modes, substances, or relations." The
+complex idea of substance is a "collection of those several simple ideas of
 sensible qualities, whichwe .... find united in the thing called horse or stone;
-yet  because  we  cannot  conceive  how  they  should  subsist alone, nor one in
-another,  we  suppose  them  existing  in, and supported by some common subject;
+yet because we cannot conceive how they should subsist alone, nor one in
+another, we suppose them existing in, and supported by some common subject;
 which support we denote by the name substance, S though it be certain we have no
-clear  or  distinct idea of that thing we suppose a support." The various simple
-ideas  of  qualities  which, together with the indistinct notion of a supporting
-substratum,  constitute  the  complex  idea  of  a particular substance, are, in
-Locke's  theory,  compounded,  not  related.  Relation  is itself acomplex idea,
-consisting  in  "the  consideration and comparing of one idea with another." The
-ideas  related  may  be  either simple or complex, but the relations are between
-ideas,  not in them certainly not in simple ideas, nor in complex ideas of modes
-and  substances,  which  are  combinations,  not relations, of simple ideas. The
-exception  is,  of  course,  a  complex idea of relation, which involves several
-distinct  ideas  and,  in  addition,  the idea of a relation between them which,
-Locke  says,  "it  gets  from their comparison one with another. Since . . . any
-idea,  whether  simple  or complex, may be the occasion why the mind thus brings
-two  things  together . . . any of our ideas may be the foundation of relation";
-but,  Locke adds, "there must always be in relation two ideas, or things, either
-in  themselves  really  separate,  or considered as distinct, and then ground or
-occasion  for  their  comparison." Locke's theory of relations not only seems to
-exclude  them  from  the  interior constitution of substances, but also seems to
-make  them  entirely  extrinsic  to the natures of the things related. "Ideas of
-relation,"  Locke  says, "may be the same in men who have far different ideas of
-the  things  that  are  related  or  that  are  thus  compared." The relation is
-unaffected  by  the things it relates, as they in turn are unaffected by it, for
-they  are  "not  contained  in the real existence of things, but [are] something
-extraneous  and  super-induced."  Berkeley  and  Hume  also  seem  to agree that
-relations  are  entirely  external.  "Relations  are  distinct from the ideas or
+clear or distinct idea of that thing we suppose a support." The various simple
+ideas of qualities which, together with the indistinct notion of a supporting
+substratum, constitute the complex idea of a particular substance, are, in
+Locke's theory, compounded, not related. Relation is itself acomplex idea,
+consisting in "the consideration and comparing of one idea with another." The
+ideas related may be either simple or complex, but the relations are between
+ideas, not in them certainly not in simple ideas, nor in complex ideas of modes
+and substances, which are combinations, not relations, of simple ideas. The
+exception is, of course, a complex idea of relation, which involves several
+distinct ideas and, in addition, the idea of a relation between them which,
+Locke says, "it gets from their comparison one with another. Since . . . any
+idea, whether simple or complex, may be the occasion why the mind thus brings
+two things together . . . any of our ideas may be the foundation of relation";
+but, Locke adds, "there must always be in relation two ideas, or things, either
+in themselves really separate, or considered as distinct, and then ground or
+occasion for their comparison." Locke's theory of relations not only seems to
+exclude them from the interior constitution of substances, but also seems to
+make them entirely extrinsic to the natures of the things related. "Ideas of
+relation," Locke says, "may be the same in men who have far different ideas of
+the things that are related or that are thus compared." The relation is
+unaffected by the things it relates, as they in turn are unaffected by it, for
+they are "not contained in the real existence of things, but [are] something
+extraneous and super-induced." Berkeley and Hume also seem to agree that
+relations are entirely external. "Relations are distinct from the ideas or
 things related," writes Berkeley, "inasmuch as the latter may be perceived by us
 without our perceiving the former." To Hume, "all events seem entirely loose and
-separate.  One  event  follows another; but we can never observe any tie between
-them.  They  seem  conjoinedk  but  never connected" So far as our understanding
-goes,  nothing  in the nature of one event necessarily CHAPTER 78: REL leads the
-mind  to  the  consideration  of  another, as it would if the event could not be
+separate. One event follows another; but we can never observe any tie between
+them. They seem conjoinedk but never connected" So far as our understanding
+goes, nothing in the nature of one event necessarily CHAPTER 78: REL leads the
+mind to the consideration of another, as it would if the event could not be
 understood by us except as intrinsically related or connected with that other.
 
-In  the  tradition  of  western thought, the issue concerning the internality or
-externality  of  relations has profound implications for man's conception of the
-order  of  nature  or  the  structure of the world. The difference, discussed in
-chapter  on  CHANCE,  between  what  the William James calls the "block" and the
-"concatenated"  universe  presupposes not only different views of causality, but
-also  different  positions  with  respect  to  the internality or externality of
-relations,  as  is  indicated  by  James'  criticism  of  Hegel and Bradley. The
-relation  of  part  and whole, and of one part to another in the structure of an
+In the tradition of western thought, the issue concerning the internality or
+externality of relations has profound implications for man's conception of the
+order of nature or the structure of the world. The difference, discussed in
+chapter on CHANCE, between what the William James calls the "block" and the
+"concatenated" universe presupposes not only different views of causality, but
+also different positions with respect to the internality or externality of
+relations, as is indicated by James' criticism of Hegel and Bradley. The
+relation of part and whole, and of one part to another in the structure of an
 organic whole, seems to be the prime example of internal relationship. Each part
-is  thought  to  be  constituted, both in its being and nature, by the being and
-nature  of  the  whole to which it belongs and by the other parts which comprise
+is thought to be constituted, both in its being and nature, by the being and
+nature of the whole to which it belongs and by the other parts which comprise
 that whole. This may be seen in Spinoza's theory of God or Nature as the one and
-only  substance,  in and through which everything else both is and is conceived.
-All  things  are locked together in a system of internal relationshipsthe finite
-parts  with  one  another through the infinite whole which determines each to be
+only substance, in and through which everything else both is and is conceived.
+All things are locked together in a system of internal relationshipsthe finite
+parts with one another through the infinite whole which determines each to be
 what it is, in itself and in relation to all others.
 
-SEEMS  TO  BE  the  principle of order. At least it can be said that the various
-conceptions  of  order  which  appear  in  the  great  books involve the idea of
+SEEMS TO BE the principle of order. At least it can be said that the various
+conceptions of order which appear in the great books involve the idea of
 relation and of different kinds of relationship.
 
-The  order  of  the  universe or of nature, for example, seems to be differently
-conceived  according  as  things are causally related to one another, related as
-lower  and  higher species in a hierarchy of grades of being, or as the parts of
+The order of the universe or of nature, for example, seems to be differently
+conceived according as things are causally related to one another, related as
+lower and higher species in a hierarchy of grades of being, or as the parts of
 one all-embracing whole. In each case, it makes a difference, as we have already
-observed,  whether the relations involved are thought to be real or logical, and
-internal  or  external  to  the  things  related. Relation similarly enters into
-conceptions  of psychological, political, and moral order the order of the parts
-of  the soul, the order of classes or functions in the state, the order of ATION
-goods,  of means and ends, of duties, of loves. Just as the status of each thing
-in  nature  is  affected  by  whether  the  universe  is conceived as a whole of
+observed, whether the relations involved are thought to be real or logical, and
+internal or external to the things related. Relation similarly enters into
+conceptions of psychological, political, and moral order the order of the parts
+of the soul, the order of classes or functions in the state, the order of ATION
+goods, of means and ends, of duties, of loves. Just as the status of each thing
+in nature is affected by whether the universe is conceived as a whole of
 internally related parts or as a set of externally related wholes, so the status
 of the individual in society is affected by whether the state is conceived as an
-organic  whole  or merely as a political order formed by the free association of
-individuals.  The  consideration  of  the various types of order occurs in other
-chapters,  such  as  NATURE,  WORLD,  SOUL,  STATE,  GOOD  AND EVIL, and BEAUTY.
-Particular  types  of relationship are also discussed in chapters concerned with
+organic whole or merely as a political order formed by the free association of
+individuals. The consideration of the various types of order occurs in other
+chapters, such as NATURE, WORLD, SOUL, STATE, GOOD AND EVIL, and BEAUTY.
+Particular types of relationship are also discussed in chapters concerned with
 the terms between which such relationships hold the relation of cause and effect
-in  the  chapter on CAUSE; spatial and temporal relationships in the chapters on
-SPACE  and  TIME; the relation of species and genus in the chapters on EVOLUTION
-and  IDEA;  relations of equality and inequality in the chapter on QUANTITY; and
-relations  of  similarity and dissimilarity in the chapter on QUALITY. This last
+in the chapter on CAUSE; spatial and temporal relationships in the chapters on
+SPACE and TIME; the relation of species and genus in the chapters on EVOLUTION
+and IDEA; relations of equality and inequality in the chapter on QUANTITY; and
+relations of similarity and dissimilarity in the chapter on QUALITY. This last
 type of relationship, more broadly conceived as including not merely likeness in
-quality,  but  the sameness or similitude of things in every sort of respect, is
-the  main  consideration of the chapter on SAME AND OTHER. The theory of analogy
-is  discussed  there also, for though it is concerned with relation a proportion
-being  a  ratio  of  ratios  the  specific  relationship  by which relations are
-themselves  related  in  analogies  or proportions seems to be one of similitude
-(either  identity  or  similarity).  Finally,  the  idea of relation seems to be
-involved  in the contrast between the absolute and the relative. Things are said
-to  be  considered  absolutely  when  they  are  considered  in  themselves, and
-relatively  when  they  are  considered  with  reference  to  something else. By
+quality, but the sameness or similitude of things in every sort of respect, is
+the main consideration of the chapter on SAME AND OTHER. The theory of analogy
+is discussed there also, for though it is concerned with relation a proportion
+being a ratio of ratios the specific relationship by which relations are
+themselves related in analogies or proportions seems to be one of similitude
+(either identity or similarity). Finally, the idea of relation seems to be
+involved in the contrast between the absolute and the relative. Things are said
+to be considered absolutely when they are considered in themselves, and
+relatively when they are considered with reference to something else. By
 extension of these meanings, relativism tends to assert that with regard to most
-things,  if  not  all,  what  they are depends on the point of view, i.e., their
-relation  to  man, to this group of men, or even to this man. Absolutism goes to
-the  opposite  extreme  of saying that things are what they are independently of
-man's  view  of  them.  The  opposition of these two tendencies creates familiar
-issues  concerning the true, the good, and the beautiful, which are discussed in
+things, if not all, what they are depends on the point of view, i.e., their
+relation to man, to this group of men, or even to this man. Absolutism goes to
+the opposite extreme of saying that things are what they are independently of
+man's view of them. The opposition of these two tendencies creates familiar
+issues concerning the true, the good, and the beautiful, which are discussed in
 the chapters devoted to those subjects.'
 
 OUTLINE OF TOPICS
 PAGB
 
 1. The general theory of relation
-   1a. The nature and being of relations: the distinction between real and logical or
-   ideal relations
-   1b. The effect of relations on the nature and being of things: internal and external
-   relations
-   1c. The coexistence of correlatives
-   1d. Relational
-   unity or identity of relation: the notion and use of analogy or
-   proportionality
+ 1a. The nature and being of relations: the distinction between real and logical or
+ ideal relations
+ 1b. The effect of relations on the nature and being of things: internal and external
+ relations
+ 1c. The coexistence of correlatives
+ 1d. Relational
+ unity or identity of relation: the notion and use of analogy or
+ proportionality
 
-2. Order and relation in        God   :   the divine processions and the relations constituting the
+2. Order and relation in God : the divine processions and the relations constituting the
 Trinity of persons
 
 3. The
 relation of God to the world: divine immanence and transcendence
 4.
 Relation in the order of thought or knowledge
-   3a. The definability or indefinability of relative terms
-   3b. The proposition or judgment as a statement of relation: relation in reasoning
-   3c. The transcendental categories of relation
-   4</.
-   Relations as objects of knowledge: ideas of relation
-   4*. The relations between ideas
-   ^f.
-   The types of relationship underlying the association of ideas in thought, memory,
-   and dreams
+ 3a. The definability or indefinability of relative terms
+ 3b. The proposition or judgment as a statement of relation: relation in reasoning
+ 3c. The transcendental categories of relation
+ 4</.
+ Relations as objects of knowledge: ideas of relation
+ 4*. The relations between ideas
+ ^f.
+ The types of relationship underlying the association of ideas in thought, memory,
+ and dreams
 
-5. Order as a system of relationships or related          things
-   5a. The nature and typesof order: inclusion and exclusion; succession and coexistence;
-   5b. posteriority, and simultaneity
-   (1) The order of the causes or of cause and effect
-   (2) The order of goods or of means and ends: the order of loves
-   (3) The order of quantities: the types of proportion
-   (4) The order of kinds: hierarchy; species and genus
-   5& The order of the universe or of nature: the hierarchy of beings
-   5?. Order as a principle
-   of beauty
+5. Order as a system of relationships or related things
+ 5a. The nature and typesof order: inclusion and exclusion; succession and coexistence;
+ 5b. posteriority, and simultaneity
+ (1) The order of the causes or of cause and effect
+ (2) The order of goods or of means and ends: the order of loves
+ (3) The order of quantities: the types of proportion
+ (4) The order of kinds: hierarchy; species and genus
+ 5& The order of the universe or of nature: the hierarchy of beings
+ 5?. Order as a principle
+ of beauty
 
 6. The absolute and the relative modes of consideration
-   6a. Absolute and relative with respect to space, time, motion
-   6b. Absolute and relative with respect to truth
-   6c. Absolute and relative with respect to goodness or beauty
+ 6a. Absolute and relative with respect to space, time, motion
+ 6b. Absolute and relative with respect to truth
+ 6c. Absolute and relative with respect to goodness or beauty
 
-CROSS-REFERENCES  For: The conception of identity as a logical rather than a and
-for  the conception of the relation between cr logical, see GOD 5e; ONE AND MANY
+CROSS-REFERENCES For: The conception of identity as a logical rather than a and
+for the conception of the relation between cr logical, see GOD 5e; ONE AND MANY
 1b; WORLD 3b. Another consideration of correlative terms, see OPP
 
 The theory of proportionality or analogical similit
@@ -517,25 +517,25 @@ Order in the soul, in the state, and in the universe
 ONE AND MANY 3b(5); SOUL 2b; STATE 5a-5c, 6a-6b; W
 
 6c 5 LOCKE: Human Understanding, 90a-d; BK i, CH n, SECT 8-12 105d-107d; SECT 21
-Ilia;  BK  H,  CH  xxi, SECT 55-56 192c-193b; CH XXVHI, SECT io-i2 230b-231c esp
-SECT  10 230b-c 8 ROUSSEAU: Inequality, 362a-d 2 KANT: Fund. Prin. Metaphysic of
-Morals,  259c-d;  270d-271a;  271c-272b / Pref. Metaphysical Elements of Ethics,
-377c-d  / Intro. Metaphysic of Morals, 387a-388a / Science of Right, 397b-398a /
-Judgement,  471b-473a;  525a; 540b-542a 476a-495a,c; 513b-516b; 516d-517c; 524d3
-MILL:   Utilitarianism,  471b-476a,c  4  Bos  WELL:  Johnson,  197a-b  6  HEGEL:
-Philosophy  of  Right,  PART i, par 70 31a; ADDITIONS, 45 123c-d / Philosophy of
-History,  PART n, 280b-281b 8 MELVILLE: Moby Dice, 302b-304a 9 DARWIN: Origin of
+Ilia; BK H, CH xxi, SECT 55-56 192c-193b; CH XXVHI, SECT io-i2 230b-231c esp
+SECT 10 230b-c 8 ROUSSEAU: Inequality, 362a-d 2 KANT: Fund. Prin. Metaphysic of
+Morals, 259c-d; 270d-271a; 271c-272b / Pref. Metaphysical Elements of Ethics,
+377c-d / Intro. Metaphysic of Morals, 387a-388a / Science of Right, 397b-398a /
+Judgement, 471b-473a; 525a; 540b-542a 476a-495a,c; 513b-516b; 516d-517c; 524d3
+MILL: Utilitarianism, 471b-476a,c 4 Bos WELL: Johnson, 197a-b 6 HEGEL:
+Philosophy of Right, PART i, par 70 31a; ADDITIONS, 45 123c-d / Philosophy of
+History, PART n, 280b-281b 8 MELVILLE: Moby Dice, 302b-304a 9 DARWIN: Origin of
 Species, 95a / Descent of Man, 302a; 314c-315d esp 315d; 462d-463a; 569c; 577b-d
-0  MARX-ENGELS:  Communist  Manifesto,  428b-d  1  TOLSTOY: War and Peace, BK i,
-15d-16a;  BK  xi,  514c-d;  BK xii, 542d; BK xiv, 611a-c; EPILOGUE i, 645a-646c;
-647b-649c  passim  4 FREUD: War and Death, 757d-759c esp 759a / Civilization and
+0 MARX-ENGELS: Communist Manifesto, 428b-d 1 TOLSTOY: War and Peace, BK i,
+15d-16a; BK xi, 514c-d; BK xii, 542d; BK xiv, 611a-c; EPILOGUE i, 645a-646c;
+647b-649c passim 4 FREUD: War and Death, 757d-759c esp 759a / Civilization and
 Its Discontents, 792b-c real relation, see SAME and OTHER i, 2d; eatures and God
-as  partly  real  and partly OSITION la. ude, see SAME AND OTHER 30; and for the
+as partly real and partly OSITION la. ude, see SAME AND OTHER 30; and for the
 sics and mathematics, see IDEA 40(4); 5f. ON 1c; PRINCIPLE 23(3). and reasoning,
-see  IDEA  5b;  JUDGMENT  ries  as  the  transcendental  concepts  of  the Y AND
-IMAGINATION  60(2);  MIND  objects of knowledge, see IDEA la; DEA 56; MEMORY AND
-IMAGINATION  2C. the simultaneous, see TIME 5d. ND EVIL 5b-5c. ties, see QUALITY
-4c;  QUANTITY  1b;  A  4X3);  OPPOSITION  icfa); SAME . or nature, see MAN 5-5a;
+see IDEA 5b; JUDGMENT ries as the transcendental concepts of the Y AND
+IMAGINATION 60(2); MIND objects of knowledge, see IDEA la; DEA 56; MEMORY AND
+IMAGINATION 2C. the simultaneous, see TIME 5d. ND EVIL 5b-5c. ties, see QUALITY
+4c; QUANTITY 1b; A 4X3); OPPOSITION icfa); SAME . or nature, see MAN 5-5a;
 NATURE 3a-3b; ORLD la-1c, 6a-6c.
 
 CHAPTER 78: REL
@@ -578,7 +578,7 @@ SECT in, CH i, 3
 
 ton's Philosophy, CH 4-7
 
-J.  S.MILL.  An  Examination  of  Sir  William  HamilW. JAMES. Essays in Radical
+J. S.MILL. An Examination of Sir William HamilW. JAMES. Essays in Radical
 Empiricism . The Meaning of Truth, CH n, 13
 
 . Some Problems of Philosophy, CH 9
@@ -599,37 +599,37 @@ LHI-LIV
 JOHN OF SAINT THOMAS. Cursus Philosophicus Thomisticus, Ars Logica, PART n, Q 17
 LEIBNITZ. Philosophical Worlds, CH 12 (A New System
 
-of  the  Interaction  of  Substances),  13  (Reply  of M. Poucher Concerning the
+of the Interaction of Substances), 13 (Reply of M. Poucher Concerning the
 Interaction of Substances)
 
 . New Essays Concerning Human Understanding,
 
 BK n, CH 25, 28, 30
 
-ATION  elation  in God, see GOD pa. d motion, .kCHANGE 7c(3); SPACE 2a;TiME i. ,
-and  beauty, see BEAUTY 5; CUSTOM AND , 6a; PRINCIPLE 5; TRUTH oty ofthe Western
-World,  but  relevant to the These works are divided into two groups: ed in this
-collection.  sented  in  this  collection.  the  publication of the works cited,
-consult  ollows the last chapter of The Great Ideas. DE MORGAN. Formal Logic, CH
+ATION elation in God, see GOD pa. d motion, .kCHANGE 7c(3); SPACE 2a;TiME i. ,
+and beauty, see BEAUTY 5; CUSTOM AND , 6a; PRINCIPLE 5; TRUTH oty ofthe Western
+World, but relevant to the These works are divided into two groups: ed in this
+collection. sented in this collection. the publication of the works cited,
+consult ollows the last chapter of The Great Ideas. DE MORGAN. Formal Logic, CH
 3-5 BOOLE. An Investigation of the Laws of Thought JEVONS. Pure Logic, CH 1-2, 4
-LOTZE.  Metaphysics,  BK  in,  CH  3 C. S. PEIRCE. Collected Papers, VOL HI, par
+LOTZE. Metaphysics, BK in, CH 3 C. S. PEIRCE. Collected Papers, VOL HI, par
 45-149, 214-251 VOL vi, par 318-324, 386-392
 
 ; BRADLEY. Appearance and Reality, BK i, CH 3; BK n, CH 26
 
 Collected Essays, VOL n (31)
 
-.  COUTURAT.  The  Algebra  of  Logic  WOODWORTH.  Psychological  Issues, CH 5-6
-CASSIRER.  Substance  and  Function, PART i; PART nf CH 7-8; SUP II-HI WHITEHEAD
+. COUTURAT. The Algebra of Logic WOODWORTH. Psychological Issues, CH 5-6
+CASSIRER. Substance and Function, PART i; PART nf CH 7-8; SUP II-HI WHITEHEAD
 and RUSSELL. Principia Mathematica, PART I, SECT C, D; PART II, SECT B, C, D, EJ
-PART  iv-v ROYCE. The Principles of Logic B. RUSSELL. Principles of Mathematics,
+PART iv-v ROYCE. The Principles of Logic B. RUSSELL. Principles of Mathematics,
 CH 9, 24- 31
 
 . The Problems of Philosophy, CH 9
 
 . Our Knowledge of the External World, v
 
-.  Introduction to Mathematical Philosophy, CH 4-6 W. E. JOHNSON. Logic, PART i,
-CH  12-13  MOORE.  Philosophical Studies, CH 9 WHITEHEAD. Science and the Modern
+. Introduction to Mathematical Philosophy, CH 4-6 W. E. JOHNSON. Logic, PART i,
+CH 12-13 MOORE. Philosophical Studies, CH 9 WHITEHEAD. Science and the Modern
 World, CH 10 TARSKI. Introduction to Logic, v B LAN SHAM, The Nature of Thought,
 CH 31-32
