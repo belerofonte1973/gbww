@@ -1,0 +1,733 @@
+Chapter  77:  REASON  INTRODUCTION  the  tradition  of  western thought, certain
+INverbal  expressions  have  become  shorthand  for the fundamental ideas in the
+discussion  of which they happen to be so often repeated. This may be due to the
+influence  of the textbooks used in the schools, which copy one from another and
+hand  down an easily recited jargon from generation to generation. In most cases
+the  great  books  themselves are probably the original source, though they have
+usually  suffered over-simplification or distortion when their insights arc thus
+transmitted.  "Fcathcrlcss  biped" and "rational animal" are, for example, stock
+phrases  to  illustrate  the  idea  that  a  definition  consists  of  genus and
+differentia-  -the  class  to  which  man,  in  this  instance,  belongs and the
+attribute  which differentiates him from other members of this class. Statements
+such  as  "the  whole  is  greater than the part'* or "two plus two equals four"
+similaily serve to represent axioms or at least statements which, whether or not
+they  can be proved, are usually accepted as true without proof. In the field of
+reasoning,  the  familiar  verbal landmark is "All men are mortal, Socrates is a
+man;  therefore,  Socrates  is  mortal."  Even  those  who  have  never heard of
+syllogisms, or who are throughly innocent of the age-old controversies about the
+theory  of  the  syllogism  and  the difference between deduction and induction,
+might  offer  this  sequence of statements if, pressed to say what reasoning is,
+they  tried  to  answer by giving an example. The example, shopworn though it is
+and  far  from being the perfect paradigm, does convey certain insights into the
+nature  of reasoning which are generally undisputed. The word "therefore," which
+connects  the  third statement with the first two, signifies a relationshipwhich
+is  sometimes  described  in terms of cause and effect, as by Aristotle, and ING
+sometimes  in  terms  of  antecedent  and consequent, as by Hobbes. The premises
+(/.?., the statements which precede the "therefore") cause the conclusion, it is
+said. We know that Socrates is mortal because we know that Socrates is a man and
+that  all  men are mortal. The premises are the cause in the sense of the reason
+why  the  conclusion  may  be  regarded  as true. The conclusion is also said to
+follow  from  the  premises,  or  the  premises  are  said to imply or yield the
+conclusion.  If  the  premises are true, then the truth of the conclusion can be
+inferred  or  proved.  The  relationship between the premises and the conclusion
+seems  to  be  the  same  whether  the  act  of  reasoning  is  called "proof or
+"inference."  The distinction in meaning between these two words seems to be one
+of  direction.  We  speak  of  "proving"  a  conclusion  when we look toward the
+premises  as  the foundation for its truth; we speak of "inferring" a conclusion
+when  we  look  toward it as something which can be drawn from the premises. The
+words  "if*  and "then" indicate that reasoning is a motion of the mind from one
+statement  to  another.  Sometimes  the inference is immediate, as when we argue
+that  if  all  men  are  mortal,  then  some  mortals  are  men.  Here  only two
+propositions  are  involved,  one  of which is simply the converse of the other.
+Those   who  deny  that  immediate  inference  is  truly  inference  (because  a
+proposition  and  its  converse  are  merely two ways of stating the same fact),
+insist  that, implicitly or explicitly, reasoning always involves at least three
+statements.  In any case, a single statement like "Socrates is a man," or even a
+pair  of  statements  connected by "and" rather than "if-then"k., "Socrates is a
+man  and  Socrates  is  mortal'' does not express what is commonly recognized as
+reasoning.  The  motion  of  reasoning does, however, appear in this sequence of
+statements,  "If Socrates is a CHAPTER 77: R man, then Socrates is mortal/' even
+though  it  omits  a  statement  that  may  be  necessary to the validity of the
+reasoning,  namely,  "All  men  are  mortal.'*  Thus,  the  familiar grammatical
+distinctions of word (or phrase), sentence, and paragraph do not seem to provide
+a  perfect parallel for the distinctions which the logicians make between terms,
+propositions,  and  syllogisms. But this much is clear. Just as a single word or
+phrase,  like  "man"  or "rational animal," can never express a proposition, but
+only  a  term,  so  a  simple sentence expresses only a proposition, and never a
+syllogism;  and  a  compound  sentence,  one  made  up of a number of sentences,
+expresses  a  syllogism  only  if its verbal construction somehow indicates that
+they  form  a  sequence  in  which  one  follows from the others, or if they are
+related  in  such  a  way  that  the  truth of one is caused by the truth of the
+others.
+
+THE CHAPTER ON IDEA (and perhaps also the chapter on DEFINITION) deals with that
+content  or  act  of  the  mind  whether  a percept or a concept, an image or an
+abstraction  which  is  verbally  expressed in words or phrases and of which the
+term  is  the  logical representative. The chapter on JUDGMENT (and perhaps also
+the  chapter  on PRINCIPLE) deals with the mental act or content that requires a
+sentence  for  its  expression  and is logically represented by the proposition.
+Here  we  are concerned with mental activity which involves not only two or more
+ideas, but also two or more judgments so connected that the mind passes from one
+to  another.  Whether  the  logical structure that Aristotle calls a "syllogism"
+represents  all  forms  of  the  mental activity called reasoning, is one of the
+great  traditional  issues.  Hume  suggests,  for  example,  that animals reason
+without  making use of syllogisms; and Descartes and Locke seem to hold that the
+highest forms of thinking, such as occur in mathematics or philosophy, cannot be
+reduced  to  syllogisms,  except  perhaps by a tour deforce. We face a different
+sort  of  problem  when  we  compare  reasoning with other acts of the mind with
+conception  (or  the  having  of  ideas) and with judgment (or the connecting of
+ideas  with  one another in the manner which mediaeval writers call "composition
+and  division").  No  EASONING  one  denies that reasoning is thinking, nor does
+anyone  deny  that  there  arc  forms of thinking which are not reasoning, since
+conceiving  and  judging arc generally regarded as kinds of thinking or modes of
+thought.  Reasoning  is merely that mode of thought which is a process the going
+step  by  step  from one statement to another. The problem which arises from the
+comparison  of  reasoning  with  other  modes  of  thought turns on the question
+whether  the  mind  can  learn  anything without having to think rationally. Can
+certain  things  be  known  by  insight  or instinct, by induction or intuition,
+rather than by reasoning? Are there truths which cannot be known by reasoning at
+all,  but only by some other mode of thought ? These questions in turn raise the
+problem  of  the  priority  or  superiority  of  such modes of thought as do not
+consist  in  reasoning.  The  theory  discussed in the chapter on INDUCTION that
+induction is prior to reasoning because intuitive generalization from experience
+must provide the starting-points for demonstration indicates one solution of the
+problem.  Our  present  concern,  however,  goes  beyond  the  issue  concerning
+induction  and  deduction to the most general contrast between the intuitive and
+the  rational. FOR PLOTINUS ANY FORM of thinking not merely reasoning signifiesa
+deficiency  orweakness.  In  the  scale  of intellectual beings man occupies the
+lowest  rank  because  he  reasons.  But even the pure intelligences, which know
+intuitively,  rank  below  the  One,  because  even  the simplest act of thought
+involves  some  duality  of  subject and object. The One, according to Plotinus,
+transcends  thought even as it transcends being. "The super-essential," he says,
+"is  the  supra-cogitative." The One "has no need for intellection, being always
+self-sufficing."  Other  writers do not go as far as this. Christian theologians
+do,  however, contrast the human mind with the angelic intellect and the mind of
+God  by  saying  that  the  latter  are  supra-rational, i.e., above the need to
+reason.  They do not, like Plotinus, hold that the transcendent being transcends
+thought  itself  certainly not insofar as they discuss the divine ideas. But the
+kind  of  thinking  which  is not an instantaneous act of vision or an immediate
+intuition involves THE GREAT I the mind in a process of thought, somehow akin to
+change  or  motion;  and  this,  the  theologians hold, cannot take place in any
+immutable  being  the  angels or God. The human intellect, according to Aquinas,
+gradually  comes  to  know  the  truth  "by  a  kind  of movement and discursive
+intellectual  operation ... by advancing from one thing known to another. But if
+from  the'knowledge  of  a known principle [men] were straightway to perceive as
+known  all  its  consequent  conclusions,  then  there  would  be  no  place for
+discursiveness  in  the  human  intellect.  Such is the condition of the angels,
+because  in the truths which they know naturally, they at once behold all things
+whatsoever  that  can  be  known in them." That, says Aquinas, is why the angels
+"are  called  intellectual  beings"  and  men "are called rational." Recourse to
+reasoning  on  the  part  of  men  betrays "the feebleness of their intellectual
+light.  For  if  they  possessed  the  fullness  of intellectual light, like the
+angels,  then  in the grasping of principles they would at once first comprehend
+all  that  they implied, by perceiving at once whatever could be reasoned out of
+them."  The  type  of intuitive apprehension which the angels enjoy is even more
+perfectly  exemplified  in God's knowledge. "In the divine knowledge," according
+to Aquinas, "there is no discursiveness" no succession, neither the turning from
+one  thought  to  another,  nor  the  advance  from  the known to the unknown by
+reasoning from principles to conclusion. The divine knowledge, Aquinas explains,
+is  a  single  allembracing  act of vision, in which "God sees all things in one
+thing  alone, which is Himself," and therefore "sees all things together and not
+successively."   Apart   from   participation  in  the  vision  of  God  through
+supernatural  light, all human thinking on the natural plane is'discursive. Kven
+the  conception  and  the  judgment  arc  discursive  in  the sense that the one
+involves  an  act  of  abstraction  or  definition  and  the  other  involves  a
+composition  or  division of concepts. But though it is always discursive, human
+thinking  is  not,  according  to  Aquinas,  always  involved  in  the motion of
+reasoning,  that is, the transition from one thought to another. "Reasoning," he
+says,  "is  compared  to  understanding"  I.*.,  the act of judgment by which we
+affirm  or  deny a single proposition "as movement is to rest, or acquisition to
+possession."  DESCARTES  USES  THE  word "intuition" to name the way in which we
+know  certain truths immediately and with certitude. He distinguishes "intuition
+from deduction by the fact that into the conception of the latter there enters a
+certain  movement  or  succession, into that of the former there does not. . The
+first  principles  . . are given by intuition alone, while, on the contrary, the
+remote  conclusions are furnished only by deduction." But while deduction, which
+Descartes  says  he  understands to be "all necessary inference from other facts
+that  are known with certainty," supplements intuition, it is never at any stage
+of  the  reasoning  process  independent  of intuition. Not only does intuition,
+according  to  Descartes,supply  the  first  principles  or ultimate premises of
+reasoning,  but  it  also  certifies  each  step  in  the process. He asks us to
+"consider  this  consequence: 2 and 2 amount to the same as 3 and i. Now we need
+to  see intuitively not only that 2 and 2 make 4, and that likewise 3 and i make
+4,  but further that the third of the above statements is a necessary conclusion
+from  these  two."  If  in  addition  to  knowing the premises by intuition, the
+drawing  of  a  conclusion  from them is, as Descartes says, itself "effected by
+intuition"  if  the  act of inference rests on the intuition that the conclusion
+follows  logically  from  the  premises  in what way does deduction or reasoning
+supplement  intuition ? To this question, Descartes replies that though the mind
+"has  a  clear  vision of each step in the process," it cannot comprehend in one
+intuition  all  the  connections  involved in a long chain of reasoning. Only by
+taking  the  steps  one  after another can we "know that the last link in a long
+chain is connected with the first, even though we do not take in by means of one
+and  the  same act of vision all the intermediate links on which that connection
+depends,  but  only remember that we have taken them successively under review."
+Like  Descartes,  Locke  contrasts  intuition  and  reasoning,  or intuitive and
+demonstrative   knowledge.  "Sometimes  the  mind  perceives  the  agreement  or
+disagreement  of  two  ideas  immediately  by  themselves, without the interven-
+CHAPTER  77:  REAS  tion  of  any  other:  and  this,"  says Locke, "we may call
+intuitive  knowledge. . . . When the mind cannot so bring its ideas together, as
+by  their  immediate comparison ... to perceive their agreement or disagreement,
+it  is  fain by the intervention of other ideas ... to discover the agreement or
+disagreement which it searches; and this is that which we call reasoning." Again
+like  Descartes, Locke asks, "What need is there of reason?" It is necessary, he
+thinks, "both for the enlargement of our knowledge and regulating our assent . .
+. Sense and intuition reach but very little of the way. The greatest part of our
+knowledge  depends  upon  deductions  and intermediate ideas; and in those cases
+where  we  are  fain  to  substitute  assent  instead  of  knowledge,  and  take
+propositions  for  true  without being certain they are so, we have need to find
+out,  examine,  and  compare  the  grounds  of  their  probability."  But though
+reasoning enlarges our knowledge beyond what can be known intuitively, reasoning
+produces certain knowledge, according to Locke, only if "every step in reasoning
+.  .  .  has  intuitive  certainty.  ... To make anything a demonstration, it is
+necessary  to perceive the immediate agreement of the intervening ideas, whereby
+the  agreement  or  disagreement of the two ideas under examination (whereof the
+one  is  always the first, and the other the last, in the account) is found." On
+this  view of reasoning, nothing can be known demonstratively or by proof unless
+some  things  can  be known intuitively, t.e., without inference or proof. Locke
+and  Descartes  seem  to  agree  with  Aquinas  and Aristotle that demonstration
+depends  upon  indemonstrable truths, whether these are called axioms, immediate
+propositions,  first principles, or self-evident maxims. Locke and Descartes, on
+the  one  hand, stress thepoint that in reasoning the logical connection between
+premises   and  conclusion  is  also  indemonstrable  and  must  be  intuitively
+perceived.  Aquinas  and  Aristotle,  on  the other, repeatedly observe that the
+truth of the conclusion is implicitly contained in the truth of the premises, so
+that  the  advance which reasoning appears to make from the known to the unknown
+consists  in  coming  to  know  actually  what  is  already  potentially  known.
+Nevertheess  they,  unlike  Descartes  and  Locke, maintain ONING that reasoning
+extends knowledge, even though it may not be the method of initial discovery.
+
+A  somewhat  contrary  view  seems  to  be  taken  by Hume. If the objects under
+consideration  are  matters  of  fact  rather than the relations between our own
+ideas,  the  kind of reasoning which goes from premises to conclusion avails not
+at  all.  The beliefs we hold about such matters, according to Hume, result from
+mental  operations  which  are  "a  species  of  natural instinct . . . which no
+reasoning  or process of " thought is able either to produce or to prevent. What
+he  calls  "experimental reasoning" or "reasoning concerning matters of fact" is
+founded,  he  says,  "on a species of Analogy, which leads us to expect from any
+cause the same events which we have observed to result from similar causes." Not
+only men, but also animals reason in this way. But Hume thinks "it is impossible
+that  this  inference of the animal can be founded on any process of argument or
+reasoning by which he concludes that like events must follow like objects. . . .
+The  experimental  reasoning itself, which we possess in common with beasts, and
+on which the whole conduct of life depends, is nothing but a species of instinct
+or  mechanical  power,  that  acts  in us unknown to ourselves; and in its chief
+operations is not directed by any such relations or comparisons of ideas, as are
+the  proper objects of our intellectual faculties." THE FOREGOING considerations
+indicate  how  diverse  theories  of  the  role  of reasoning arise from diverse
+theories  of the nature and kinds of knowledge in animals, men, angels, and God.
+According  as various distinctions are made between human knowledge and opinion,
+or  between  the  way  in  which  different  objects  can  be  known, or between
+speculative  and  practical interests, so, too, different formulations are given
+of  the  nature  of  reasoning.  Aristotle's  distinction,  for example, between
+scientific  and dialectical or rhetorical reasoning turns upon his understanding
+of  the  difference  between the objects of certain knowledge and the objects of
+probable  opinion. This difference, he says, makes it "equally foolish to accept
+probable  reasoning  from  a  mathematician  and  to  demand  from a rhetorician
+scientific  proofs."  THE  GREAT  Hume's  distinction  between  a  priori  and a
+posteriori  reasoning  between reasoning from /.., principles and reasoning from
+experience  depends  upon his understanding of what matters must be submitted to
+experience  and  of  the  manner  in  which  experience  generates  belief.  The
+distinction   which  Aquinas  makes  between  demonstrations  propter  quid  and
+demonstrations  quiai.e.,  between proving what something is from its causes and
+proving  that  it  is  from  its  effects  depends upon his understanding of the
+difference  between  essence  and existence as objects of rational knowledge. To
+take  an  example  in  the  opposite  vein, Locke's theory that the same type of
+demonstration  is  possible in both mathematics and the moral sciences, seems to
+rest  upon  his  view that all knowledge consists in the comparison of ideas. In
+contrast  to this, other theories, which hold that the mode of reasoning differs
+in   different   disciplines  (especially  in  mathematics  and  morals,  or  in
+metaphysics  and  the  natural  sciences),  seem to arise from the contrary view
+that,  in  these  different  fields  of  inquiry,  the objects and conditions of
+knowledge  are  different.  Sometimes a distinction in the modes of reasoning is
+based  upon  the same considerations, but the distinction itself is expressed by
+different writers in different terms. The role of causes in reasoning appears to
+underlie  Aquinas'  distinction  between a priori and a posteriori reasoning, or
+reasoning  from  cause  to  effect as opposed to reasoning from effect to cause.
+"Demonstration  can  be  made in two ways," he writes; "one is through the cause
+and  is called a priori, and this is to argue from what is prior absolutely. The
+other  is  through  the  effect,  and is called a demonstration a posteriori; to
+argue  this  is  from what is prior relatively only to us." Descartes appears to
+make  a parallel distinction, though he makes it in different terms. "The method
+of  proof  is  twofold,"  he  says,  "one  being  analytic, the other synthetic.
+Analysis  shows the true way by which a thing was methodically discovered, as it
+were  effect  from  . . cause. . Synthesis employs an opposite procedure, one in
+which  the  search  goes as it were from effect to cause." For both mathematical
+and  metaphysical  reasoning,  Descartes  prefers  the analytic to the synthetic
+method.
+
+According  to Newton, the method of analy- IDEAS sis, in natural science as well
+as  mathematics,  consists  in going from effects to causes, while the method of
+synthesis  goes  from  causes  to effects. Newton relates the difference between
+analysis  and  synthesis  to  the  difference  between  inductive  and deductive
+reasoning. This way of distinguishing between inductive and deductive reasoning,
+in  terms  of going from effects to causes or from causes to effects, would also
+seem  to  be related to the distinction Aquinas makes between demonstration quia
+(i.e.,  reasoning  which  proves  only  that something exists) and demonstration
+propter  quid  (i.e.,  reasoning  which  proves what something is--its nature or
+properties). The proof that God exists is, according to Aquinas, a demonstration
+quiak  it  is also a posteriori reasoning or reasoning from effect to cause. But
+he  would  not  call it "inductive." In one passage at least, he seems to regard
+induction  as  the  method whereby we can come to some knowledge of what God is.
+"From  natural  things,"  he  writes,  "one  does not come by a demonstration of
+reason  to  know non-natural things, but by the induction of reason one may know
+something  above  nature,  since  the natural bears a certain resemblance to the
+supernatural."  This  sense  of  the  word "induction," however, is like that in
+which  Aristotle  opposes  induction  to  reasoning,  not  like that in which he
+distinguishes  between  inductive and deductive reasoning according to the order
+of  terms  in  the  inductive and deductive syllogism. In the ordinary deductive
+syllogism,  the  middle  term establishes the connection between the two extreme
+terms  (for example, 'being a man' establishes the connection between 'Socrates'
+and  'being  mortal').  But  "the  syllogism  which  springs  out of induction,"
+according  to  Aristotle,  establishes  "a  relation between one extreme and the
+middle  by  means  of the other extreme, e.g., if B is the middle term between A
+and  C,  it  consists in proving through C that A belongs to B." Starting from C
+(particular cases of long-lived animals, such as man, horse, mule), we can argue
+inductively  from  the  fact  that these long-lived animals are bileless, to the
+general  connection  between  B  (being bileless) and A (being long-lived). Such
+reasoning  is  valid,  Aristotle adds, only if we can treat C "as made up of all
+the particulars; for induction CHAPTER 77: REASO proceeds through an enumeration
+of all the cases."
+
+DIFFERENT  THEORIES  of  definition  also  affect the place which is assigned to
+definition  in  reasoning.  Hobbes,  for example, regards reasoning as a kind of
+calculation  with  names,  which  wholly depends upon the determination of their
+meanings. The operations of addition and subtraction when done with words rather
+than  with  numbers are, he thinks, equivalent to "conceiving of the consequence
+of  the  names  of all the parts, to the name of the whole; or from the names of
+the  whole  and  one  part,  to  the name of the other part." It is "nothing but
+reckoning (that is, adding and subtracting) of the consequences of general names
+agreed  upon."  Aristotle,  with the theory that definitions state the essential
+natures  of  things, not just the meanings of words, holds that a definition may
+be  "the  conclusion of a demonstration giving essential nature," as well as "an
+indemonstrable   statement  of  essential  nature."  In  the  latter  case,  the
+definition  functions  as  a  principle  in  demonstration. According to William
+fames,  reasoning,  like definition, is "a selective activity of the mind" which
+serves an individual's interest or purpose.
+
+"My  thinking," he says, "is first, last, and always for the sake of my doing. .
+.  .  Reasoning  is  always for a subjective interest, to attain some particular
+conclusion,  or  to  gratify  some  special  curiosity."  It makes no difference
+whether  the  interest is practical or the curiosity speculative. The process of
+reasoning  will be the same, though the element which provides a solution to the
+problem  in  any  emergency  will  be  called  "  a 'reason' if the emergency be
+theoretical,  a  'means'  if it be practical." Those writers who, like Aristotle
+and Aquinas, regard the speculative and the practical as distinct though related
+orders  of thought and knowledge, seem to think that practical reasoning has its
+own  syllogistic  form.  Practical  deliberations  for  them  are different from
+theoretic  demonstrations. The conclusion of theoretic reasoning is an assertion
+that  something  is  either  true  or false, whereas the conclusion of practical
+deliberation  is a judgment that something is good or evil, and therefore should
+either be done or avoided. According to Aristotle, prac- NING tical reasoning of
+the  sort  which  ends  in  a decision that leads to action, takes the form of a
+syllogism  which has one universal and one particular premise. The major premise
+is a general rule of conduct, the minor premise a particular perception of fact.
+In  the example Aristotle gives of the practical syllogism, the major premise is
+the  rule that everything sweet ought to be tasted, and the minor premise is the
+perception  that  this particular thing is sweet. These two premises lead to the
+practical  conclusion  that  this  particular  thing ought to be tasted. Not all
+practical  reasoning, however, is concerned with reaching decisions or prompting
+action  in  particular  cases.  The rules of conduct which decisions and actions
+apply  may  themselves  be  the  products of practical reasoning. The process by
+which  general  rules are derived from even more general principles the precepts
+of law or morality involves, according to Aquinas, a form of thinking distinctly
+different  from the theoretic or speculative sort. He points out in his Treatise
+on  Law  that  we  are  able to formulate certain practical rules only by making
+particular  determinations  of  universal  principles, not by drawing deductions
+from  them.  "Something  may  be  derived  from the natural law in two ways," he
+writes: "first, as a conclusion from premises; secondly, by way of determination
+of certain generalities. The first way is like that by which, in the speculative
+sciences,  demonstrated  conclusions  are  drawn  from the principles; while the
+second  mode  is  likened  to  that  whereby,  in  the  arts,  general forms are
+particularized  as  to  details."  Of these two ways of thinking in the field of
+law,  it  would  appear that it is only the second type which is peculiar to the
+practical  as  opposed  to the speculative order. THE DISCUSSION OF reasoning in
+relation  to  knowledge,  opinion,  and  action,  or  in  relation  to different
+disciplines  and  sciences,  usually  presupposes  a  theory  of  the form which
+reasoning  takes  regardless  of  its  subject  matter or use. This fact is most
+explicitly  attested by the order of three great books concerned with reasoning.
+Aristotle's  Posterior  Analytics  deals with the theory of demonstration in the
+sciences.  His Topics deals with the theory of probable argument or reasoning in
+the sphere of opinion.
+
+552  Both  arc  preceded by his Prior Analytics which treats of the syllogism in
+terms  of  its  purely  formal  structure  and  its  various forms. In the later
+tradition,  the  distinction between the problems of the Prior and the Posterior
+Analytics  comes  to  be  represented  by the separation between what are called
+"formal" and "material" logic.
+
+The  formal  analysis  of reasoning centers on the problem of its cogency. Quite
+apart  from  any  consideration  of  the  truth  of its premises or conclusions,
+reasoning is true or false according as it is valid or invalid on purely logical
+grounds.  From  premises  which  are  in  fact false, a conclusion, which may be
+either  true  or  false, can be truly inferred if the structure of the reasoning
+isformally  valid  that  is,  if  the  form  of the premises stands in a certain
+logically  prescribed  relation  to  the  form  of  the  conclusion. The logical
+problem, then, is to prescribe the formal relationships among propositions which
+permit  valid  inference  from certain propositions to others, without regard to
+the content of the propositions or their truth in fact.
+
+Defining  a  syllogism  as  "discourse  in  which,  certain things being stated,
+something  other  than what is stated follows of necessity from their being so,"
+Aristotle  says, "I call that a perfect syllogism which needs nothing other than
+what  has  been  stated  to  make plain what necessarily follows; a syllogism is
+imperfect,  if  it  needs  either  one or more propositions which are indeed the
+necessary consequences of the terms set down, but have not been expressly stated
+as  premises."  Using the letters S and P to symbolize the subject and predicate
+of  the conclusion, and the letter Mto symbolize the middle term, the term which
+appears  in the premises but not in the conclusion, Aristotle states the form of
+a  perfect syllogism in the following manner: "All M is P, all S is M; therefore
+all  S  is  P."  The  first  of  these  propositions, the one which contains the
+predicate  of  the  conclusion, is called the major premise; the second, the one
+which  contains the subject of the conclusion, the minor premise; the subject of
+the conclusion is called the minor term, the predicate the major term. Aristotle
+classifies  syllogisms  into  three  figures,  or formal types, according to the
+position  of  the  middle  term,  either  as  subject  of  the major premise and
+predicate  of  the  minor  AS in the first figure, or as predicate in both or as
+subject  in both in the second and third figures respectively. Then according to
+whether  the  premises  are universal propositions or particular ('AllM is P' or
+'Some  S  is  M'),  and  each is either affirmative or negative ('All M is P' or
+'Some  S  is  not  M'),  he further distinguishes within each figure a number of
+valid  moods,  or  formally  correct  patterns  of inference. For example, in no
+figure  can  a  valid  mood  be  constructed with two particular or two negative
+premises.  No  conclusion  can  be drawn from the two particular statements that
+some  poisons  are  liquids and that some liquids are indispensable to life; nor
+can  any  conclusion be drawn from the two negative statements that no triangles
+are parallelograms and no rhomboids are parallelograms. In the first figure, the
+minor  premise  can  be  particular  and  must  be affirmative, the major can be
+negative  and  must  be  universal. In this figure the following combinations of
+premises  "some  figures  are not rectangular" with "all rectangular figures are
+parallelograms,"  or  "all  prime  numbers  are  odd" with "some odd numbers are
+squares"  yield  no  conclusions.  In  the  second  figure,  one premise must be
+negative.  Here it is impossible to draw a valid conclusion from two affirmative
+premises. Nothing follows from the two affirmative statements that all fish swim
+and  all  whales  swim. In the third figure, only a particular conclusion can be
+drawn  from a pair of premises both of which are universal. From the proposition
+that  no  men  are  wise  and  the  proposition  that all men are mortal, we can
+conclude  only  that  some  mortals are not wise. From these examples it will be
+seen  that  Aristotle's rules of the syllogism are rules concerning the quantity
+and quality of the premises required in each figure to permit a valid inference;
+and as in the third figure these rules permit only a particular conclusion to be
+drawn,  so  for all figures they determine the character of the conclusion which
+can  be drawn from premises of a certain quantity and quality. If one premise is
+negative,  the  conclusion  must  be negative. If one premise is particular, the
+conclusion  must be particular. There seems to be one universal principle of the
+syllogism  which  underlies  all  these  specific  rules  for the valid moods in
+different figures.
+
+CHAPTER 77: REAS "When one thing is predicated of another," Aristotle says, "all
+that  which  is  predicable  of  the  predicate  will  be predicable also of the
+subject."The  negative  aspect  of  this  principle is immediately obvious. What
+cannot be predicated of a predicate, cannot be predicated of its subject. In the
+tradition  of  formal  logic, this principle is sometimes stated in terms of the
+relation  of  classes  rather  than  in terms of subjects and predicates: if one
+class is included in a second, and that second class is included in a third, the
+first  is  included in the third; and if one class excludes another, the classes
+which  it  includes  are  also  excluded  from  that other. The principle of the
+syllogism  is  traditionally  called  the  dictum de omniet nullo. The dictum de
+omni,  which  Kant  in his Introduction to Logic calls "the supreme principle of
+affirmative  syllogisms,"  is  thus  expressed  by him: "Whatever is universally
+affirmed  of  a  concept is also affirmed of everything contained under it." The
+dictum  de nullo, according to Kant, states that "whatever is universally denied
+of  a  concept  is  also  denied of everything that is contained under it." Kant
+appears to think that both these rules follow from even more general principles:
+that "an attribute of an attribute is an attribute of the thing itself" and that
+"whatever is inconsistent with the attribute of a thing is inconsistent with the
+thing  itself."  James  also  attempts to make a more general formulation of the
+dictum  de  omni  et nullo. This law of thought, he says, is "only the result of
+the function of comparison in the mind which has come by some lucky variation to
+apprehend  a  series  of  more  than two terms at once." As James states what he
+calls  the  "principle of mediate comparison," it appears to be broader than the
+principle  of  the  syllogism.  It applies to any series of related terms to the
+relation  of  equal  and  unequal  quantities  in mathematics, as well as to the
+relation of subjects and predicates in the logic of predication or classes.
+
+James'  principle  of  mediate comparison itself depends on what in mathematical
+logic  and the logic of relations is called the "transitivity" of relations. The
+relation  of larger than, for example, is transitive; for if one thing is larger
+than  a second, and the second is larger than a third, it follows that the first
+is  larger  than  the  third.  As stated in mathematical logic, the principle of
+ONING  the  syllogism  is merely a special case of transitivity as it appears in
+the relation of implication; for if P implies Q, and Q implies R, then P implies
+R.  James  recognizes  this  when  he  writes  that  "the  principle  of mediate
+predication  or  subsumption is only the axiom of skipped intermediaries applied
+to  a  series of successive predications. It expresses the fact that any earlier
+term  in  the  series stands to any later term, in the same relation in which it
+stands  to any intermediate term; in other words, that whatever has an attribute
+has all the attributes ofthat attribute; or more briefly still, that whatever is
+of  a kind is of that find's kind." Along with "the axiom of mediate " equality,
+'equals of equals are equal,' the rule of mediate predication or subsumption is,
+according  to James, a special case of the law that "skipping intermediary terms
+leaves   relations  the  same.  This  AXIOM  OF  SKIPPED  INTERMEDIARIES  Or  of
+TRANSFERRED  RELATIONS  .  . . Seems to be on the whole the broadest and deepest
+law  of man's thought." JAMES' ATTEMPT TO state a law of thought or principle of
+reasoning  which  relegates  all  the  rules of the syllogism to the status of a
+special  case  represents  one  type  of  attack  on the syllogism. Whether, for
+instance,  the  sample of reasoning which Descartes asks us to considerthat if 2
+and 2 make 4, and 3 and i make 4, then 2 and 2 amount to the same as 3 and i can
+be  reduced  to  the  syllogistic  form  of  subject  and  predicate, or must be
+formulated   under   a   more  general  principle  of  "transferred  relations,"
+illustrates  the  basic issue here between subjectpredicate logic and relational
+or  mathematical  logic.Other aspects of that issue are discussed LATION. in the
+chapters  on LOGIC, JUDGMENT, and REAnother type of criticism of the traditional
+theory  of the syllogism accepts the syllogism as the form of all reasoning, but
+objects,  as  Kant  does,  to  what  he  calls  "the  mistaken  subtilty" of the
+classification  of  syllogisms according to figures and moods. But Kant does not
+deny all distinctions among syllogisms. On the contrary, he says that syllogisms
+are  "threefold, like all judgements, differing from each other in the manner in
+which they express the relation of knowledge in the understanding, namely, cate-
+554  THE  GREAT  I gorical,hypothctical,anddisjunctivc."Whether the hypothetical
+and  disjunctive  syllogisms  are  distinct  types of reasoning, or only special
+cases  which  it  would  be a mistaken subtlety to treat as having principles of
+their own, is a problem considered in the chapter on HYPOTHESIS.
+
+Of  all  criticisms,  the most severe is that which either rejects the syllogism
+entirely as of no use in reasoning, or regards the deductive syllogism as useful
+only  in  argumentation  or  debate, not in the process of inquiry or discovery,
+where  inductive reasoning alone is fruitful or instructive. From the conclusion
+of a syllogism, according to Mill, one learns nothing more than one already knew
+in  the  premises; whereas in inductive reasoning, Mill, like Bacon, thinks that
+the  mind goes beyond anything contained in the premises and genuinely discovers
+a  new  truth. It seems to be Descartes' opinion that "the syllogistic forms are
+of  no  aid  in  perceiving the truth about objects." Locke makes the same point
+more  extensively.  Admitting  that  "all  right  reasoning  may  be  reduced to
+[Aristotle's]  forms  of  syllogism,"  he  denies that they are "the best way of
+reasoning  for  the  leading  of those into truth who are willing to find it and
+desire to make the best use of their reason for the attainment of knowledge. . .
+.  The rules of syllogism," he writes, "serve not to furnish the mind with those
+intermediate ideas that may
+
+OUTLINE OF TOPICS
+
+1. Definitions or descriptions of reasoning: the process of thought
+   1a. Human reasoning compared with the reasoning of animals
+   1b. Discursive reasoning contrasted with immediate intuition
+   1c. The role of sense, memory, and imagination in reasoning: perceptual inference,
+   rational reminiscence, the collation of images
+
+2. The rules of reasoning: the theory of the syllogism
+   2a. The structure of a syllogism: its figures and moods
+   (1) The number of premises and the number of terms: the middle term in rea-
+   soning
+   (2) Affirmation, negation, and the distribution    of the middle term: the quan-
+   tity and the quality of the premises
+   2b. The kinds of syllogism: categorical, hypothetical, disjunctive, modal
+   2c. The connection of syllogisms: sorites, pro-syllogisms and epi-syllogisms
+
+3. The truth and cogency of reasoning
+   3a. Formal and material truth: logical validity distinguished from factual truth
+   3b. Lack of cogency in reasoning: invalid syllogisms; formal fallacies
+   3c. Lack of truth in reasoning: sophistical arguments; material fallacies
+   3d. Necessity and contingency in reasoning: logical necessity; certainty and prob-
+   ability
+
+4. The types of reasoning, inference, or argument
+   4a. Immediate inference: its relation to mediated inference or reasoning
+   4& The direction and uses of reasoning: the distinction between proof and infer-
+   4b. and between demonstration and discovery
+   4c. Inductive and deductive reasoning
+   4d. Direct      and indirect argumentation: proof by reductio ad absurdum\ argument
+   from the impossible or ideal case
+   4*. Refutation: disproof
+   4e. Reasoning by analogy: arguments from similarity
+   in relation to knowledge, opinion, and action
+
+5. Reasoning
+   5a. The       fact   and the reasoned     fact:   mere   belief distinguished   from   belief   on
+   rational grounds
+   5b. Scientific reasoning:
+   the theory of demonstration
+   (1) The indemonstrable as a basis for demonstration
+   (2) Definitions used as means in reasoning: definitions as the ends of reasoning
+   (3)   A priori and a posteriori reasoning: from causes or from effects; from princi-
+   ples or from experience; analysis and synthesis
+   (4) The role of causes in demonstration and scientific reasoning
+   (5) Demonstration in relation to essence and existence: demonstrations propter
+   quid and quia
+   5c. Dialectical reasoning: the opposition of rational arguments
+   *)d.
+   Rhetorical reasoning: the rational grounds of persuasion
+   5d. Practical reasoning
+   (1) The form of the practical syllogism
+   (2) Deduction and determination in legal thought
+   (3) Deliberation: the choice of alternative means; decision
+
+6. The character of reasoning in the various disciplines
+   6a. Proof in metaphysics and theology
+   6b. Demonstration in mathematics: analysis and synthesis
+   6c. Inductive and deductive inference in the philosophy of nature and the natural
+   sciences
+   6d. Induction and demonstration in the moral sciences
+
+CROSS-REFERENCES  For:  Other  comparisons of human and animal intelligence, see
+ANIMAL 1c(2);
+
+MAN xa-1c; MEMORY AND IMAGINATION 6b; MIND 3a-3b.
+
+Another discussion of the distinction between the intuitive and the discursiv
+
+see KNOWLEDGE 6c(i); and for the consideration of supra-rational knowled
+
+PERIENCE 7; GOD 6c(3)-6c(4); HAPPINESS 7c(i).
+
+The distinction and relation between reasoning and other acts of the mind, se
+
+IDEA 53-50, 56; INDUCTION la; JUDGMENT i, yc; KNOWLEDGE 6c(2); MEMORY AND
+
+IMAGINATION 6c; SENSE 1c-1d.
+
+Other discussions bearing on the theory of the syllogism, see HYPOTHESIS 5; I
+
+JUDGMENT yc; LOGIC la; OPPOSITION 1d(i); UNIVERSAL AND PARTICULAR 5d.
+
+The problems of truth and falsity, necessity and contingency, and certainty a
+
+in reasoning, see NECESSITY AND CONTINGENCY 46(2); OPPOSITION 1d(2); SIGN A
+
+BOL 46 TRUTH 33).
+
+;
+
+An examination of immediate inference, see JUDGMENT 7b; and for the distincti
+
+inductive and deductive reasoning, and a priori and a posteriori reasoning,
+
+2d; INDUCTION 1b; SCIENCE 5d.
+
+The elements of scientific reasoning, see BEING 8d, 8f; CAUSE 5b; DEFINITION
+
+PHILOSOPHY 3c; PRINCIPLE 3a(2)~3a(3); SCIENCE 5d-5e.
+
+The analysis of dialectical and rhetorical reasoning, see DIALECTIC 2b, 2c(2)
+
+2c; OPPOSITION 1c; RHETORIC 4C, 4c(2).
+
+Other discussions relevant to the study of practical reasoning, see GOOD AND
+
+MENT 2; KNOWLEDGE 6e(i)-6e(2); LAW 5g; LOGIC 4e; OPINION 6b; PRUDENCE 53, 6
+
+The character of reasoning in the various disciplines, see BEING 8f; GOD 2b-2
+
+2; LOGIC 43, 4C, 46; MATHEMATICS 33, 3c; MECHANICS 2; MEDICINE 3c; METAPHYS
+
+PHILOSOPHY 3c; THEOLOGY 4c; WILL 5C.
+
+The general problem of the rationality of the universe, *??MiND loa; NATURE
+
+ADDITIONAL READINGS
+
+Listed below are works not included in Great Booths ofthe Western World, but
+
+idea and topics with which this chapter deals. These works are divided into
+
+I. Works by authors represented in this collection.
+
+II. Works by authors not represented in this collect
+
+For the date, place, and other facts concerning the publication of the works
+
+the Bibliography of Additional Readings which follows the last chapter of Th
+
+HOBBES. Six Lessons t
+
+*
+
+Mathematics,  ii-v  AQUINAS.  De  Fallacies  .  The  Art  of  Sop SPINOZA. Ofthe
+Improvement  of  the Understanding LOCKE. Conduct of th HOBBES. Concerning Body,
+PART i, CH 4 KANT. Introduction t
+
+567  22  73b-c;  par 225-229 73d-75b 74b-d; ADDITIONS, 134 138b-c; 6a-c d Peace,
+EPILOGUE n, 683d- gy, 886b-888a esp 887a-888a,
+
+LANGUAGE  i;  e or rational, e DEFINITION 5; DEA 5a-5b; ge, see EXnd probability
+ND SYMon between /kEXPERIENCE 5; INFINITY 2c; , 30-3k OPINION EVIL 5c; JUDGb. c;
+IMMORTALITY  ICS  2c;  33;  WORLD  6c.  relevant  to the two groups: ion. cited,
+consult  e  Great  Ideas.  o the Savilian Professors of histry e Understanding o
+Logic,  xi  HEGEL. Science of Logic, VOL n, SECT i, CH 3 J. S. MILL. A System of
+Logic, BK 11, v FARADAY. Observations on the Education of the
+
+Judgment W. JAMES. "The Sentiment of Rationality," in
+
+The Will to Relieve
+
+II.
+
+QUINTILIAN. Institutio Oratorio (Institutes of Oratory), BK V,
+
+CH IO-I4; BK VII, CH 8
+
+SEXTOS EMPIRICUS. Against the Logicians, BK n,
+
+CH 3-6
+
+.Outlines of Pyrrhonism, BK I-H
+
+PETRUS HISPANICUS. Summulae Logicales (Logical
+
+Treatises)
+
+SUAREZ. Disputationes Metaphysicae, xix (5-6), xxix, xxx (2, 8)
+
+JOHN OF SAINT THOMAS. Cursus Philosophicus Tho-misticus,An Logica, PART i, QQ 6,
+8; PART n,
+
+QQ 24-25
+
+ARNAULD. Logic or the Art of Thinking, PART in-iv standing, BK n, CH 19
+
+LEIBNITZ.  New  Essays Concerning Human UnderEULER. Letters to a German Princess
+T. REID. Essays on the Intellectual Powers of Man, VII
+
+MAINE DE BIRAN. The Influence of Habit on the
+
+Faculty of Thinking
+
+SCHOPENHAUER. The World as Will and Idea, VOL n, SUP, CH 10
+
+BROWN.  Lectures on the Philosophy of the Human Mind, VOL n, pp 497-525 BENTHAM.
+Rationale of Judicial Evidence
+
+. The BooJ( of Fallacies WHATELY. Elements of Logic, BK i, CH 3; BK iv
+
+W.  HAMILTON.  Lectures  on  Metaphysics  and  Logic, VOL n (15-23) WHEWELL. The
+Philosophy of the Inductive Sciences,
+
+VOL  I,  BK  i;  VOL  II,  BK  XI, XIII COURNOT. Essai sur les fondements de nos
+connaissances et sur les characteres de la critique philosophique
+
+S  MANSEL.  Prolegomena  Logica.  An Inquiry into the Psychological Character of
+Logical  Processes  G.  C.  LEWIS.  A Treatise on the Methods of Observation and
+Reasoning  in Politics BOOLE. An Investigation of the Laws of Thought DE MORGAN.
+Formal Logic, CH 5-6 A Budget of Paradoxes
+
+.  TAINE. On Intelligence SlGWART. Logic, PART I, CH 3; PART III, CH 3-4 JEVONS.
+The Substitution of Similars The Principles of Science, CH 4, 6-7, n
+
+. CLIFFORD. Seeing and Thinking LOTZE. LoglC, BK I, CH 3; BK II, CH 4-7 Outlines
+of Logic, DIV i, CH 3
+
+.  VENN.  Symbolic Logic C. S. PEIRCE. Collected Papers, VOL n, par 435-618; VOL
+iv, par 21-79; VOL v, par 151-212
+
+A. SIDGWICK. Fallacies The Use of Words in Reasoning
+
+.  J.  C.  WILSON.  Statement  and Inference, PART i, HI DEWEY et al. Studies in
+Logical  Theory, i-iv WHITEHEAD and RUSSELL. Principia Mathematica, PART I, SECT
+A BRADLEY. The Principles of Logic, BK II-IH; Terminal Essays, i .
+
+Appearance and Reality, BK n, CH 15
+
+. Collected Essays, VOL 1(12)
+
+. Essays on Truth and Reality, CH 12
+
+DEWEY. How We Thinly
+
+Essays  in  Experimental  Logic,  n-vi  . PARETO. The Mind and Society, VOL i-in
+BOSANQUET.  Logic,  VOL II, CH I-2, 6-7 Implication and Linear Inference . W. E.
+JOHNSON.  Logic,  PART  i,  CH  14;  PART  n,  CH 1-6 J.M. KEYNES. A Treatise on
+Probability, PART n,
+
+CH  12-14  SANTA  YANA.  Scepticism  and  Animal  Faith,  CH  1  3 MEYERS ON. Du
+cheminement  de  la  pensee ophy, CH 14 B. RUSSELL. Introduction to Mathematical
+Philos. An Inquiry into Meaning and Truth, CH 24

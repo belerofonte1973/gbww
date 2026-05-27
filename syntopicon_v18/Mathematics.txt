@@ -1,0 +1,833 @@
+Chapter  51:  MATHEMATICS  INTRODUCTION  TT  is  necessary for us to observe the
+difference J. between problems in mathematics and the problem of the truth about
+mathematics.  In  the  case of any science in physics, logic, or metaphysics, as
+well  as  mathematics  it is one thing to examine the discourses or treatises of
+the  scientists  on the special subject matter of their field, and quite another
+to  examine  discussions  of the science itself, its scope, branches, and unity,
+its  objects,  its methods and its relation to other disciplines. The chapter on
+QUANTITY  deals  with  the  subject  matter  of  arithmetic, geometry, and other
+branches  of  mathematics;  here  we  are primarily concerned with the nature of
+mathematical  science  itself.  Sometimes reflections on the nature of a science
+are  expressed  by  experts  in its subject matter who comment on the scientific
+enterprise  in  which  they  are  engaged  in  prefaces or interspersed remarks.
+Sometimes  such  reflections are the commentary on a particular science by those
+who  may  claim to speak with competence on the processes of the human mind, the
+nature  of  knowledge  or  of  science  in  general,  but  who  claim no special
+competence  in  the  particular science under consideration. This is usually the
+commentary  of philosophers who may assert their right to make all knowledge, as
+well  as  all  reality,  their  province. The same man may, of course, be both a
+mathematician  and  a philosopher; as, for example, Plato, Descartes, Pascal. In
+the  case  of  mathematics,  the  disparity  between  discourse in and about the
+science  could hardly escape notice. Even if no preliminary rule of caution were
+laid   down,  we  should  be  struck  by  the  contrast  between  the  agreement
+mathematicians have been able to reach in the solution of their problems and the
+disagreement  of  the commentators on basic questions about mathematics. To this
+there  may  be  one  significant  exception.  Mathematics  is honored for 42 the
+precision of its concepts, the rigor of its demonstrations, the certitude of its
+truth.  Even  its  detractors  like Swift or Berkeley concede the exactitude and
+brilliance  of  mathematics  while  questioning  its  utility; or they admit its
+intellectual  austerity  while  challenging  some application of its method. Its
+"clearness and certainty of demonstration," Berkeley writes, "is hardly anywhere
+else  to  be  found."  This  general agreement about the quality oi mathematical
+thought  may  explain  why in all epochs mathematics has been looked upon as the
+type  of certain and exact knowledge. Sometimes it is taken as more than a model
+for  other  sciences;  it is regarded as the method of pure science itself or as
+the  universal science. Sometimes its excellences are thought to be qualified by
+the  limited or special character of its objects; or it is contrasted with other
+disciplines  which,  employing  different  methods,  deal  with more fundamental
+matters  no less scientifically. But always the conclusions of mathematics serve
+to  exemplify  rational  truth;  always the method of mathematics represents the
+spirit  of  dispassionate  thought; always mathematical knowledge symbolizes the
+power of the human mind to rise above sensible particulars and contingent events
+to  universal  and  necessary  relationships. Mathematics means this not only to
+mathematicians  and  philosophers,  but  also  to  moralists  and statesmen."The
+objects  of  geometrical  inquiry,"  writes Alexander Hamilton, "are so entirely
+abstracted  from those pursuits which stir and put in motion the unruly passions
+of  the  human  heart, that mankind, without difficulty, adopt not only the more
+simple theorems of the science, but even those abstruse paradoxes which, however
+they  may  appear susceptible of demonstration, are at variance with the natural
+conceptions  which  the  mind,  without  the aid CHAPTER 52: MATH of philosophy,
+would  be led to entertain upon the subject. . . . But in the sciences of morals
+1 and politics, men are found far less tractable.' This, Hamilton points out, is
+not  due  merely  to  the  passionate  interest in their problems. "It cannot be
+pretended," he says, "that the principles of moral and political knowledge have,
+in general, the same degree of certainty with those of mathematics."
+
+ADMIRATION  FOR  MATHEMATICS  often  extends beyond enthusiasm for its exemplary
+virtues  or  delight  in  its  intellectual  beauty  to  the  recognition of its
+influence on the whole history of thought. Yet here differences of opinion begin
+to appear.
+
+In  the  ancient  world  Plato and Aristotle represent opposite estimates of the
+importance  of  mathematics  for  the  rest  of  philosophy. For the Platonists,
+Aristotle  says,  "mathematics  has come to be identical with philosophy, though
+they  say  that it should be studied for the sake of other things." He complains
+of  those  students of science who "do not listen to a lecturer unless he speaks
+mathematically."  They  make the error of supposing that "the minute accuracy of
+mathematics  is  ...  to  be  demanded  in all whereas, according to Aristotle's
+cases,"  own  view,  "its  method is not that of natural science." In the modern
+world, thinkers who are both mathematicians and philosophers, like Descartes and
+Whitehead,  represent  a  return to the Platonic point of view; while Kant, even
+more  than  Aristotle,  insists  that the philosopher is grievously misled if he
+tries  to  follow  the  method  of  mathematics  in his own inquiries. Whitehead
+charges  Aristotle  with  having  deposed  mathematics  from its high role "as a
+formative  element  in  the  development  of philosophy" a demotion which lasted
+until,  with Descartes and others in the iyth century, mathematics recovered the
+importance it had for Plato. Attempting to qualify his own enthusiasm, Whitehead
+admits  that  he  would  not "go so far as to say that to construct a history of
+thought  without a profound study of the mathematical ideas of successive epochs
+is  like  omitting  Hamletfrom  the play which is named after him. That would be
+claiming  too  much.  But  it  is certainly analogous to cutting out the part of
+EMATICS  43  Ophelia.  This  simile  is  singularly  exact. For Ophelia is quite
+essential  to the play, she is very charming and a little mad. Let us grant that
+the  pursuit  of  mathematics  is a divine madness of the human spirit, a refuge
+from  the  goading  urgency of contingent happenings." For Kant the madness lies
+not in the pursuit of mathematics itself, but in the delusion of the philosopher
+that  he can proceed in the same way. "The science of mathematics," Kant writes,
+"presents the most brilliant example of how pure reason may successfully enlarge
+its  domain  without the aid of experience. Such examples are always contagious,
+particularly  when the faculty is the same, which naturally flatters itself that
+it  will meet with the same success in other cases which it has had in one." The
+expectation naturally arises that the method of mathematics "would have the same
+success  outside the field of quantities." But philosophers who understand their
+own  task,  Kant  thinks, should not be infected by the "confidence ... of those
+who  arc  masters in the art of mathematics ... as to their ability of achieving
+such  success"  by  applying  its  method  in  other  fields.  "The exactness of
+mathematics,"  Kant holds, "depends on definitions, axioms, and demonstrations..
+None of these can be achieved or . . imitated by the philosopher in the sense in
+which they are understood by the mathematician," because, according to Kant, the
+validity  of  the  mathematician's  definitions  and  demonstrations  ultimately
+depends on the fact that he is able to construct the concepts he uses. The point
+is  not that mathematics obtains its objects from reason rather than experience,
+but  rather  that  it obtains them from reason by construction; as, for example,
+Euclid  begins  by constructing a triangle which corresponds with his definition
+of that figure. Hence, Kant maintains, "we must not try in philosophy to imitate
+mathematics by beginning with definitions, except it be by the way of experiment
+In  philosophy,  in  fact,  the  definition  in  its complete clearness ought to
+conclude  rather  than  begin  our work"; whereas in mathematics we cannot begin
+until  we  have  constructed  the  objects corresponding to our definitions. "It
+follows  from  all this," Kant concludes, "that it is not in accordance with the
+44  THE  GREAT I very nature of philosophy to boast of its dogmatical character,
+particularly in the field of pure reason, and to deck itself with the titles and
+ribands of mathematics."
+
+DIFFERENCES   OF  opinion  about  mathematics  represent,  for  the  most  part,
+philosophical controversy concerning the nature of science or the objects of its
+knowledge.  Mathematicians  who  engage  in  such controversy assume the role of
+philosophers in doing so, for mathematics itself is not concerned with questions
+of  this sort. But there are some questions about mathematics which seem to call
+for  a close study of the science itself and even for proficiency in its subject
+matter  and  operations.  They  are questions about the scope of mathematics and
+about the divisions of the science, in relation to one another and to its unity.
+On  these  issues, mathematicians disagree not only with philosophers, but among
+themselves and in their capacity as mathematicians.
+
+These  issues  usually  involve  different  interpretations  of  the  history of
+mathematics.  The  problem  is not one of the origin of mathematics. The ancient
+opinion,  found  in Herodotus, Plato, and Aristotle, that the mathematical arts,
+especially  geometry,  were  first  developed  by  the Egyptians, is of interest
+because  of  the  questions  it  raises about the circumstances of the origin of
+mathematics.  Herodotus  seems  to  suggest that geometry arose as an aid in the
+practice  of surveying land. "From this practice," he says, "geometry first came
+to  be  known  in  Egypt, whence it passed into Greece." Aristotle, on the other
+hand,  separating  from  the  useful  arts  those which "do not aim at utility,"
+thinks  the  latter  arose  "first  in  the places where men first began to have
+leisure.  That is why the mathematical arts were founded in Egypt, for there the
+priestly  caste  was  allowed  to  be  at  leisure."  The  Greek  development of
+mathematics very early distinguishes between the pure sciences of arithmetic and
+geometry  and  their  useful applications in the arts of measurement. The Greeks
+conceived  mathematics  as  essentially  speculative  rather  than  practical or
+productive.
+
+They  also  divorced  it  from empirical investigation of the sensible world. As
+arithmetic  is  concerned  with  numbers, not with numbered things, and geometry
+with  figures,  not with physical shapes, areas, or volumes, so Plato points out
+that  music and astronomy belong to the mathematical sciences when they deal not
+with  audible  harmonies  but  with  their  numerical  ratios,  not with visible
+celestial motions but with their geometrical configurations.
+
+Provoked  by  Glaucon's  interest  in  the  usefulness of the mathematical arts,
+Socrates  excludes  their utility as being of no interest to the philosopher. He
+recommends  arithmetic  and its sister disciplines only so far as these sciences
+entirely  ignore  the  world  of sensible things. The reason why the philosopher
+"who  has to rise out of the sea of change and lay hold of true being . . . must
+be an arithmetician," he explains, is that arithmetic can have "a very great and
+elevating  effect,"  when  it compels "the soul to reason about abstract number"
+and  rebels  "against  the  introduction of visible or tangible objects into the
+argument."  In the same way, only when it concerns itself with "knowledge of the
+eternal,"  not  with  measuring  earthly distances, will geometry "draw the soul
+towards  truth,  and  create the spirit of philosophy." The astronomer, like the
+geometer,  "should  employ  problems,  and  let  the  heavens alone, if he would
+approach the subject in the right way"; and, like the astronomer, the student of
+harmony  willwork  in vain, if he compares "the sounds and consonances which are
+heard  only"  and so fails to "reach the natural harmonies of number." About the
+non-empirical or non-experimental character of mathematics there has been little
+dispute.  It  is  seldom  suggested  that  the  growth of mathematical knowledge
+depends  upon  improvement  in  methods  of  observation. But on the relation of
+mathematics  to  physics,  which  raises  the  whole problem of pure and applied
+mathematics,  or  of  mathematical and experimental physics, there has been much
+controversy,  especially in modern times. Bacon, for example, adopts the ancient
+division  of mathematics into pure and mixed, the former "wholly abstracted from
+matter  and  physical  axioms."  Though  he  regards  mathematics  as  a  useful
+instrument  in  physics "the investigation of nature" being "best conducted when
+mathematics  are applied to physics" he also insists upon the primacy of physics
+and CHAPTER 52: MATHEMA upon its essentially experimental character. Physics has
+been corrupted, he says, by logic and by mathematics when these seek to dominate
+instead  of  to  serve it. "It is a strange fatality that mathematics and logic,
+which  ought to be but handmaids to physics, should boast their certainty before
+it, and even exercise dominion against it." The certainty and clarity which Hume
+is  willing  to  attribute to mathematics cannot, in his opinion, be extended to
+mathematical  physics.  "The  most  perfect  philosophy of the natural kind," he
+thinks,  "only  staves off our ignorance a little longer. Nor is geometry, . . .
+when  taken  into the assistance of natural philosophy, ever able to remedy this
+defect,  or  lead us into the knowledge of ultimate causes, by all that accuracy
+of  reasoning  for  which  it  is so of mixed mathejustly celebrated. Every part
+matics,"  Hume  continues,  "proceeds  upon the assumption that certain laws are
+established  by  nature in her operations; and abstract reasonings are employed,
+either  to  assist  experience  in  the discovery of these laws, or to determine
+their  influence  in  particular  instances,  where  it depends upon any precise
+degree  of  distance  or quantity," When mixed with physics, mathematics remains
+subordinate  at  best an aid in the formulation and the discovery of the laws of
+nature.  A  different  view  seems  to  be taken by the great mathematicians and
+physicists  of  the  ijth  century.  Galileo, Descartes, and Newton tend to make
+mathematical analysis an integral part of physics. As the structure of the world
+is  mathematical, so, too7 must the science of nature be mathematical. Geometry,
+says  Descartes,  is  "tlie  science  which furnishes a general knowledge of the
+measurement  of  all  bodies."  If  we  retain  the  ancient distinction between
+geometry and mechanics, it can only be in terms of the assumption, "confirmed by
+the  usage" of these names, that "geometry is precise and exact, while mechanics
+is  not."  In  the preface to his Mathematical Principles of Natural Philosophy,
+Newton  also  says  that  "geometry  is  founded  in mechanical practice, and is
+nothing  but  that  part  of  universal  mechanics which accurately proposes and
+demonstrates the art of measuring." What is called "rational mechanics" must not
+be  confused TICS 45 with the manual arts of measurement which are imperfect and
+inexact;  and  it  is  therefore wrong to distinguish geometry from mechanics as
+that  which  is  perfectly  accurate  from that which is less so. "But since the
+manual  arts  are  chiefly  employed  in  the  moving of bodies, it happens that
+geometry  is  commonly  referred  to  their  magnitude,  and  mechanics to their
+motion."  Newton  himself  does  not  abide  by  this distinction. His aim is to
+subject  all  the  phenomena  of  nature  "to  the  laws  of mathematics" and to
+cultivate  mathematics as far as it relates to natural philosophy. "I offer this
+work  as  the  mathematical  principles  of  philosophy, for the whole burden of
+philosophy  consists  in  this  from the phenomena of motions to investigate the
+forces  of  nature and from these forces to demonstrate the other phenomena." He
+regrets  that he has not been able to deduce all the phenomena of nature "by the
+same  kind  of reasoning from mechanical principles." Fourier goes even further.
+"Mathematical   analysis,"   he  says,  is  "as  extensive  as  nature  itself."
+Mathematical  analysis  has  "necessary  relationswith  sensible  phenomena." In
+laying  hold  "of  the laws of these phenomena," mathematics "interprets them by
+the  same  language  as if to attest the unity and simplicity of the plan of the
+universe,  and to make still more evident that unchangeable order which presides
+over  all  natural  causes." This much had been said or implied by Descartes and
+Newton.  But  in  addition  to  all  this,  Fourier,  from his own experience in
+developing a mathematical theory of heat, comes to the conclusion that "profound
+study  of  nature  is  the  most  fertile  source  of mathematical discoveries."
+Mathematics  itself  benefits  from  its  alliance with physics; it increases in
+analytical power and in the generality of its formulations as physical inquiries
+extend  the  range  of phenomena to be analyzed and formulated. THE RELATIONS OF
+mathematics  to  physics are considered in the chapters on ASTRONOMY, MECHANICS,
+and  PHYSICS.  Mathematical physics must be examined in the light of the opinion
+that  mathematics  and  physics  are  separate  sciences, distinct in object and
+method.  Furthermore,  whereas  some  of  the major contributions to mathematics
+appear in the great books of 46 physics or natural philosophy (e.g., Archimedes,
+Kepler,  Newton,  Fourier),  even  more  fundamental formulations of the science
+occur  in  great books devoted exclusively to mathematics: Euclid's Elements (on
+geometry),  Apollonius'  treatise On Conic Sections, Nicomachus' Introduction to
+Arithmetic,  Descartes'  Geometry,  and  Pascal's  mathematical  papers.  Others
+belonging  to this latter group are listed in the Additional Readings. The great
+modern   advances  in  mathematics  are  exemplified  by  the  works  of  Gauss,
+Lobachevski,  Hamilton, Riemann, Boole, Dedekind, Peano, Frege, Cantor, Hilbert.
+It  would  be  both natural and reasonable to inquire about the relation between
+the  great  works  of  mathematics  included  in  this set and the equally great
+treatises  or monographs, listed in the Additional Readings, which represent for
+the  most  part  the  contributions  of  the  igth  century. But since the major
+question which immediately confronts us in such an inquiry concerns the relation
+of  modern  to  ancient  mathematics, we can examine the problem in terms of the
+works  included  in  this  set,  for  they represent both the continuity and the
+discontinuity  in  the tradition of mathematical science. Galileo and Newton are
+disciples  of  Euclid  and  Archimedes;  Fourier  is  a  disciple  of Newton and
+Descartes.  But  Descartes  is  the  great  innovator.  He  seems  to  be  quite
+self-conscious  of his radical departure from the ancients and from the state of
+mathematics  as  he  found  it  in  his  own day. Yet the truth and power of his
+mathematical  discoveries  seem  so  evident  to  him  that  he cannot doubt the
+ancients must have had some inkling of it.
+
+"I am quite ready to believe," he writes, "that the greater minds of former ages
+had  some knowledge of it, nature even conducting them to it. We have sufficient
+evidence  that  the  ancient  Geometricians made use of a certain analysis which
+they  extended to the resolution of all problems, though they grudged the secret
+to  posterity.  At  the  present  day  also  there  flourishes a certain kind of
+Arithmetic,  called Algebra, which designs to effect, when dealing with numbers,
+what  the  ancients  achieved  in  the matter of figures. These two methods," he
+claims,  "are  nothing  else  than  the spontaneous fruit sprung from the inborn
+principles  of  the  discipline here in question," Descartes does not regard his
+success  as  consisting in the advance of mathematical truth through discoveries
+based  upon  principles or conclusions already established. Nor would he even be
+satisfied  to  say  that  his  use  of algebra in developing analytical geometry
+created a new branch of mathematics. Rather, in his own view, it tended to unify
+all  existing  branches  and  to  form a single universal method of analysis. In
+effect,  it  revolutionized  the  whole  character  of  mathematics and laid the
+foundation  for  the characteristically modern development of that science since
+his  day.  "To  speak  freely,"  he  writes,  "I  am convinced that it is a more
+powerful  instrument  of knowledge than any other that has been bequeathed to us
+by  human  agency,  as being the source of all others." One need not quite agree
+with  Bertrand  Russell  that pure mathematics was not discovered until the iplh
+century,  in  order  to perceive that the discoveries made in that century carry
+out  the  spirit  of the Cartesian revolution. If one understands the difference
+between  the  universal  mathematics  of  Descartes and the separate sciences of
+arithmetic  and  geometry  as  developed by the ancients; if one understands the
+difference  between  the  theory  of  equations  in  Descartes and the theory of
+proportions  in  Euclid;  if  one understands how algebraic symbolism, replacing
+numbers by letters, frees both arithmetic and geometry from definite quantities,
+then the profound discontinuity between modern and ancient mathematics begins to
+be  discernible. There are other differences contributing to that discontinuity,
+such as the modern treatment of the infinite, the invention of the calculus, and
+the  theory  of  functions.  But  what is of prime importance for the purpose of
+understanding  the  nature  of mathematics, its objects, and its methods, is the
+perception  of  the  discontinuity  in any one or another of its manifestations.
+Here  is a fundamental disagreement about the nature of mathematics which is not
+an  issue  between  philosophers  disputing  the  definition of the science, but
+rather  an issue made by the actual work of mathematicians in ancient and modern
+times.  In  his Battle of the Booty ancient and modern Swift sees only the great
+poets  and  philosophers  of  the  two  epochs  set  against one CHAPTER 52: MAT
+another.  The  battle  between  the  ancient and the modern books of mathematics
+might  be  as  dramatically  represented.  In  such  affairs  there is a natural
+tendency  to prejudge the issue in favor of the modern contender. That prejudice
+has  reason  on  its side in certain fields of knowledge where the perfection of
+new  instruments  and  the  discovery  of new facts work to the advantage of the
+latecomer.  But  it  is  questionable whether in this dispute over the nature of
+mathematics the same advantage prevails. When the issue is fairly explored by an
+examination  of  the  differences  between the great masterpieces of ancient and
+modern mathematics, it may be found impossible to say that truth liesmore on one
+side  than  on the other, or that one conception of mathematics is more fruitful
+than  another,  because  the  two  versions  of  the  science  may  seem  to  be
+incommensurable in their aims, methods, and standards of accomplishment.
+
+ONE  EXAMPLE  WILL  illustrate  this  incommensurability.  The ancient notion of
+number,  as  may  be  seen in Nicomachus' Introduction to Arithmetic, limits the
+variety  of numbers. A number always numbers a number of tilings, even though we
+can  deal  with  the  number itself apart from any set of numbered things. It is
+always  a  positive  and  integral  quantity which, excepting unity itself, "the
+natural  starting point of all numbers," contains a multitude of discrete units.
+Numbers  are  classified  according  to the way in which they are constituted of
+parts  and according to the constitution of these parts. The primary division of
+numbers  is  into  even and odd. "The even is that which can be divided into two
+equal  parts without a unit intervening in the middle; and the odd is that which
+cannot  be divided into two equal parts because of the aforesaid intervention of
+a  unit." The even numbers are capable of subdivision into the even- times-even,
+the  odd-  times-even,  and  the even- times-odd; and the odd into the prime and
+incomposite,  the  secondary  and composite, and the number which, in itself, is
+secondary   and   composite,  but  relatively  is  prime  and  incomposite.  The
+peculiarities of these types of number are explained in the chapter on QUANTITY.
+There   are  still  further  classifica-  HEMATICS  47  tions  of  numbers  into
+superabundant,  deficient,  and perfect; and of the parts of numbers in relation
+to the numbers of which they are parts. Finally, numbers are considered in terms
+of  their  geometrical  properties, to be observed when their units are disposed
+discretely  in spatial patterns, and in one, two, or three dimensions. There are
+linear,  plane,  and  solid numbers, and among plane numbers, for example, there
+are triangular, square, pentagonal, hexagonal numbers, and so on. The arithmetic
+operations  of addition, subtraction, multiplication, and division are performed
+in  the  production of numbers or in the resolution of numbers into their parts.
+But  though  any  two  numbers  can be added together or multiplied, the inverse
+operations  cannot  always  be  performed. A greater number cannot be subtracted
+from  a  less,  for  subtraction  consists  in taking a part from the whole, and
+leaving  a  positive  remainder. Since division is the decomposition of a number
+into  its  parts, a number cannot be divided by one greater than itself, for the
+greater cannot be a part of the less. In short, in Nicomachus' theory of numbers
+what  later  came  to  be  treated as negative numbers and fractions can have no
+place.  Nicomachus  will  not  carry out arithmetical operations in all possible
+directions  without  regard  to the result obtained. He refuses to perform these
+operations  when  the  results  which  would be obtained do not have for him the
+requisite  mathematical  reality.  He  does not find it repugnant to reason that
+subtraction  and  division, unlike addition and multiplication, are not possible
+for  any  two  numbers;  as,  for  example,  subtracting a larger from a smaller
+number,  or  using  a divisor which does not go into the dividend evenly, and so
+leaves a fractional remainder. On the contrary, Nicomachus finds it repugnant to
+reason  to perform these operations in violation of their proper meaning, and to
+produce  thereby  results,  such as negative quantities and fractions, which are
+for him not numbers, i.e., which cannot number any real thing. Understanding the
+nature  of square numbers, Nicomachus would be able to understand a square root,
+but  he would not; see why the operation of extracting the square root should be
+48  THE  GREAT  appliedto  numbers  which  are not square. Hence another kind of
+modern  number, the irrational fraction which is generated by such operations as
+the extraction of the square of positive integers which are not perfect squares,
+would  never  appear  in  Nicomachus'  set  of  numbers; nor would the imaginary
+number,  which  is  the  result  of  applying  the  same  operation  to negative
+quantities.  When  the arithmetical operations are performed algebraically, with
+unknowns  as well as definite quantities, the solution of equations requires the
+employment  of  terms  which Nicomachus would not admit to be numbers negatives,
+fractions  (both  rational  and  irrational),  imaginaries, and complex numbers,
+which are partly real and partly imaginary. Descartes finds nothing repugnant in
+these  novel  quantities.  On the contrary, he would find it repugnant not to be
+able  to  perform the basic arithmetical operations without restriction. Algebra
+would be impossible, and with it the general method of analysis that proceeds in
+terms  of  the  purely  formal  structure  of  equations from which all definite
+quantities  have been excluded. It would also be impossible to do what Descartes
+thinks  essential  to the unity of mathematics, namely, to represent geometrical
+operations algebraically and to perform most algebraic operations geometrically.
+Geometrical  loci cannot be expressed by algebraic formulae or equations, unless
+there  are  as many numbers as there are points on a line. The number series for
+Nicomachus,  without fractions and irrationals, is neither dense nor continuous.
+There  are fewer numbers than there are points on a line. And without the use of
+zero, negative numbers, and fractions none of which would be regarded as numbers
+by  Nicomachus  it  would  be  impossible  for  Descartes  to construct a set of
+coordinates  for  the  geometrical  representation of equations, whereby all the
+points  in  a  plane  have  their  unique  numerical  equivalents. The Cartesian
+synthesis  of algebra and geometry, which in his view vastly increases the power
+of  each,  violates the ancient distinction between continuous and discontinuous
+quantitiesmagnitudes  (like  lines  and  planes)  and  multitudes  (or numbers).
+Euclid,  for  example, treats the irrational or the incommensurable IDEAS always
+as  a  relation  of magnitudes, never of multitudes, or numbers; for him certain
+geometrical  relationships  cannot  be  expressed  numerically.  Arithmetic  and
+geometry are not even coordinate, much less co-extensive sciences. Arithmetic is
+the  simpler, the more elementary science, and is presupposed by geometry. Other
+examples arising from the innovations of Descartes might be employed to show the
+chasm   between  the  arithmetic  and  geometry  of  the  ancients,  and  modern
+mathematics such as the treatment of infinite magnitudes and numbers, the theory
+of functions, and the method of the calculus. But the multiplication of examples
+does  not seem necessary to suggest that there may be no answer to the question,
+Is Descartes right, and Nicomachus and Euclid wrong? or to the question, Are the
+modern  innovations  improvements  or  corruptions  of the mathematical arts and
+sciences  ?  These  questions  are  not  like  questions concerning the truth or
+falsity  of  a  proposition  in  mathematics or the validity of a proof. A given
+theorem in Euclid must, in the light of his definitions, axioms, and postulates,
+be   either   true   or   false;  and  accordingly  Euclid's  demonstrations  or
+constructions  are  either  cogent  or  fallacious.  The  same  rules  apply  to
+Descartes.   But   whether  Euclid's  or  Descartes'  conception  of  the  whole
+mathematical  enterprise  is  right  seems to present a choice between disparate
+worlds,  a  choice  to be made by reference to principles and purposes which are
+themselves  not  mathematical. Modern mathematics may be much more useful in its
+physical  applications,  especially  in the analysis and calculation of variable
+notions or quantities. It may have a special elegance and simplicity, as well as
+greater  unity  and  even  systematic  rigor.  But  it  may  also purchase these
+qualities  at  the  expense  of  the  kind  of  intelligibility  which  seems to
+characterize  ancient mathematics as a result of the insistence that its objects
+have  an  immediately recognizable reality. Ancient mathematics never occasioned
+such an extreme remark as that made by Bertrand Russell about modern mathematics
+that  it  is "the science in which we never knoWj what we are talking about, nor
+whether  what  we  are  saying  is true.'* CHAPTER 52: MATHE THE QUESTION OF the
+reality of the objects of mathematics is in part a problem for the mathematician
+and  in  part  a question for the philosopher. The problem for the mathematician
+seems  to  be  one of establishing the existence of the objects he defines. This
+can  be illustrated by reference to Euclid 's Elements. The basic principles, as
+Euclid  expounds the science, seem to be threefold: definitions, postulates, and
+axioms  or  common  notions. The axioms are called "common notions" because they
+are  truths  common to other branches of mathematics as well as to geometry. The
+common  notions  are  called  "axioms"  because  their  truth  is supposed to be
+self-evident. In contrast, the postulates are peculiar to geometry, for they are
+written as rules of construction. They demand that certain operations be assumed
+possible,  such  as  the  drawing  of  a  straight  line  or  a  circle,  or the
+transposition  of  a  figure  from  one  portion  of  space  to  another without
+alteration  of its form or quantity. Euclid's definitions include the definition
+of  a  straight  line and a circle. His first two postulates, therefore, seem to
+ask us to assume that space is such that these defined geometrical objects exist
+in it as they are defined; or, in other words, that objects corresponding to the
+definitions  have  geometrical  reality.  But  there  are  many definitions of a
+triangle, of an equilateral triangle, of a parallelogram for which Euclid states
+no  postulate  demanding  that  we  assume the geometrical reality of the object
+defined.  Hence  before  he  undertakes  to  demonstrate the properties of these
+figures, he finds it necessary to prove that they can be constructed. Until they
+are  constructed,  and the construction demonstrated, the definitions state only
+possibilities  to  which no geometrical realities are tyown to correspond in the
+space  determined by Euclid's postulates. In his first constructions, Euclid can
+employ  only  the  definition  of  the  figure  itself,  his  axioms,  and those
+postulates  which permit him to use certain mechanical devices the straight edge
+and  the  compass, which are the mechanical equivalents of his postulates that a
+straight  line  can  be drawn between any two points and a circle described with
+any  radius  from  any  point  upon  a  plane.  When,  for example, in the first
+proposition  of Book I, Euclid thus demon- MATICS 49 strates the construction of
+an equilateral triangle, he has proved the geometrical existence of that figure,
+or,  in  other  words,  its  reality in the space of his postulates. A number of
+questions  can  be  asked  about this and many other similar demonstrations. The
+postulates  being  assumptions, their truth can be questioned and an effort made
+to  prove  or  disprove them. This type of questioning led to the development of
+the  non-Euclidean geometries. After centuries of trying unsuccessfully to prove
+Euclid's  postulate about parallel lines, geometers like Lobachevski and Riemann
+postulated  other  conditions  concerning  parallels,with  consequences  for the
+properties  of  other  geometrical  figures.  The interior angles of a Euclidean
+triangle,   for  example,  equal  the  sum  of  two  right  angles;  in  certain
+non-Euclidean  triangles,  they  add  up  to  more  or less than two rights. One
+interpretation of this situation is that the truth of conclusions in geometry is
+entirely  dependent  on  arbitrary  assumptions.  Another  is  that  the several
+variants of the parallel postulate indicate the selection of different spaces in
+which to construct figures; and under each set of spatial conditions postulated,
+there  is  only  one body of geometrical truths concerning the properties of the
+figures  therein  constructed. Another type of question concerns the logical, as
+opposed  to  the  geometrical,  conditions of geometrical proof. In his essay On
+Geometrical  Demonstration,  Pascal declares the geometric method to be the most
+perfect  available  to  men,  for  it  "consists  not  in defining or in proving
+everything, nor in defining or proving nothing, but in maintaining itself in the
+middleground  of  not defining things which are clear to all men and in defining
+all  others;  and  not  proving  everything known to men, but in proving all the
+other things." This method, it seems, is not restricted to the subject matter of
+geometry;  to  Descartes  and  Spinoza,  at least, it seems to be the method for
+demonstrating any theoretical truth. Descartes presents "arguments demonstrating
+the  existence  of  God  and  the distinction between soul and body, drawn up in
+geometrical  fashion";  and  as its title page indicates, the whole of Spinoza's
+Ethics  is  set  forth  "in geometrical order." It may be questioned whether the
+postulates  50  THE GREAT which Descartes adds to his definitions and axioms, or
+those  which  Spinoza  introduces  beginning  with  Proposition  13  of Book II,
+function  as  postulates  do in geometry, i.e., as rules of construction; it may
+similarly  be  questioned whether Spinoza is following the geometrical method in
+Book  I  where  he  proceeds without any postulates at all. But the more general
+question  concerns  the criteria for testing the consistency and the adequacy of
+the  primitive  propositions the definitions, axioms, postulateslaid down as the
+foundation for all that is to be demonstrated. The investigation of this problem
+calls for an examination of the whole process of proof, from which has developed
+the  modern  theory  of  mathematical logic that challenges the universality and
+adequacy of the traditional logic of Aristotle, and asserts that mathematics and
+logic are continuous with one 'another essentially the same discipline.
+
+THE  ISSUES  RAISED  by  mathematical  logic  or  the  logic  of mathematics are
+considered  in  the  chapters  on HYPOTHESIS, LOGIC, and REASONING. Here we must
+turn  finally  to  one  other  question  which is of interest principally to the
+philosopher   rather   than  the  mathematician.  It  concerns  the  objects  of
+mathematics.  It  is  a  question about their reality or mode of existence which
+cannot  be  answered  by  the  mathematical  proof  of a construction. When, for
+example,  Euclid  constructs  an  equilateral  triangle,  the figure established
+cannot be the one imperfectly drawn upon paper. The postulated permission to use
+a  ruler  and  compass  does  not  remove  the  imperfection of these mechanical
+instruments  or  the  inaccuracy  in  their  physical  use.  The  triangle whose
+properties  the  geometer  tries  to demonstrate must be perfect, as no actually
+drawn figure can be. The philosophical question, therefore, concerns the reality
+or existence of this ideal, perfect figure. The same question can be asked about
+pure numbers numbers apart from all numbered things.
+
+Are  the  objects  of mathematics purely intelligible beings existing apart from
+the  sensible  world  of material things ? Or are they ideal entities not in the
+sense  of existing outside the mind, but in the sense of being ideas in the mind
+itself rather than perceptible particulars?
+
+IDEAS As indicated in the chapters on BEING, FORM, and IDEA, Plato and Aristotle
+seem  to  answer  these questions differently. But there are further differences
+among  those  who  regard mathematical objects as having being only in the mind.
+Aristotle,  Aquinas,  Locke,  and  James,  for  example, think of the objects of
+mathematics  as  universals  formed by abstraction from the particulars of sense
+and  imagination.  "The  "  mathematical,  such  as numbers and figures, Aquinas
+writes,  "do  not  subsist  as  separate beings." Apart from numbered things and
+physical  configurations, numbers and figures "have a separate existence only in
+the  reason,  in so far as they are abstracted from motion and matter.'* Hobbes,
+Berkeley,  and  Hume,  on  the  other  hand,  deny  abstract  ideas or universal
+concepts.  "Let  any  man try to conceive a triangle in general," Hume declares,
+"which  is  neither  isosceles  nor  scalenum,  nor has any particular length or
+proportion  of  sides;  and  he  will  soon  perceive  the  absurdity of all the
+scholastic  notions with regard to abstraction and general ideas." Despite these
+differences,  there  seems to be general agreement in the tradition of the great
+books  that the truths of mathematics are rational rather than empirical; or, in
+the  language  of  Kant  and  James,  a priori rather than a posteriori. But the
+meaning  of  this  agreement  is  not the same for those who think that truth in
+mathematics  does  not  differ  from truth in other sciences and those who think
+that  mathematical  truths  stand  alone  precisely  because  they are not about
+matters  of  fact or real existence. Plato, for whom all science is knowledge of
+purely  intelligible  objects,  regards the mathematical sciences as inferior to
+dialectic  in  the knowledge of such objects "because they start from hypotheses
+and  do  not ascend to principles." The students of such sciences, Plato writes,
+"assume  the  odd and the even and the figures and three kinds of angles and the
+like  in  their  several  branches of science; these are their hypotheses, which
+they and everybody are supposed to know, and therefore they do not deign to give
+any  account  of  them either to themselves or others; but they begin with them,
+and  go  on  until  they  arrive  at  last, and in a consistent manner, at their
+conclusion."
+
+CHAPTER  52:  MATHEMATICS  For  Aristotle,  what differentiates mathematics from
+physics  and  metaphysics  is  the special character of its objects. Physics and
+metaphysics  both  deal  with substances as they exist outside the mind, whereas
+the  objects  of  mathematics  are abstractions. Though figures and numbers "are
+inseparable  in  fact"  from  material  substances, they are "separable from any
+particular  kind  of  body by an effort of abstraction." This does not deny, for
+example,  that  physical things have perceptible figures. It merely insists that
+the  geometer  does not treat figures as sensible, but as intelligible, that is,
+as abstracted from matter. Nevertheless, the truths of mathematics, no less than
+those  of  physics  and  metaphysics,  apply  to reality. All three sciences arc
+further  alike  in  demonstrating  their  conclusions  rationally rather than by
+experiment.  All  three  employ  induction  to  obtain  their principles, though
+metaphysics  alone  attains  to  the  first principles of all science. For Kant,
+"mathematical   cognition   is   cognition  by  means  of  the  construction  of
+conceptions."  To  explain  this  he  cites the example of the construction of a
+triangle.  "I  construct  a  triangle,  by  the presentation of the object which
+corresponds  to  this  conception, either by mere imagination pure intuition) or
+(in  upon  paper  (in  empirical  intuition);  in both cases completely a priori
+without borrowing the type of that figure from any experience. . . . We keep our
+eye  merely  on  the  act  of  the  construction  of  the conception, and pay no
+attention  to  the  various  modes of determining it, for example, its size, the
+length  of  its  sides,  the size of its angles." The a priori character of such
+intuitions,  on  which rests the a priori character of mathematical truths, does
+not  mean  that  mathematics  has  no  relevance  to  experience. Arithmetic and
+geometry are like physics, according to Kant; they are sciences of experience or
+nature  but  like  pure  (as  opposed  to  empirical) physics, they are a priori
+sciences.  Since  Kant  holds  that experience itself is constituted by a priori
+forms  of  perception, he can ascribe the validity which mathematics has for all
+possible  experience  to  the "a priori intuition of the pure forms of phenomena
+space  and  time."  Bertrand  Russell rejects this "Kantian view which [asserts]
+that  mathematical reasoning is not strictly formal, but always uses intuitions,
+51  i.e.,  the  a  priori knowledge of space and time. Thanks to the progress of
+Symbolic  Logic  .  . . this part of the Kantian philosophy," Russell holds, "is
+now  capable  of a final and irrevocable refutation." Leibnitz, before Kant, had
+advocated "the general doctrine that all mathematics is a deduction from logical
+principles,"  but,  according  to  Russell,  he  had failed to substantiate this
+insight,  partly  because  of  his "belief in the logical necessity of Euclidean
+geometry."  The same belief is, in Russell's opinion, the cause of Kant's error.
+"The  actual  propositions  of  Euclid  ... do not follow from the principles of
+logic  alone;  and  the  perception  of  this fact," he thinks, "led Kant to his
+innovations  in  the  theory of knowledge. But since the growth of non-Euclidean
+geometry, it has appeared that pure mathematics has no concern with the question
+whether  the  axioms  and  propositions  of Euclid hold of actual space or not."
+Russell  asserts  that "by the help of ten principles of deduction and ten other
+premises  of  a  general logical nature (e.g., 'implication is a relation'), all
+mathematics can be strictly and formally deduced." He regards "the fact that all
+Mathematics  is  Symbolic Logic" as "one of the greatest discoveries of our age;
+and  when  this  fact  has  been established, the remainder of the principles of
+Mathematics consists in the analysis of Symbolic Logic itself." Though this view
+of  mathematics  may  not  be  worked  out in detail except in such treatises as
+Russell's  Principles  of Mathematics and in the Principia Mathematlcak on which
+he collaborated with Whitehead, the conception of mathematics as a purely formal
+science,   analogous   to   (if  not  identical  with)  logic,  does  have  some
+anticipations  in the great books. For James, as for Locke and Hume, mathematics
+is  strictly  a  science of the relations between ideas, not of real existences.
+"As  regards  mathematical  judgments,"  James  writes,  "they are all 'rational
+propositions'  ...  for they express results of comparison and nothing more. The
+mathematical sciences deal with similarities and equalities exclusively, and not
+with  coexistences  and  sequences."  Both James and Locke, however, differ from
+Hume in thinking that there are sciences other than those of number and quantity
+which can demonstrate their conclusions with certitude.
+
+52  The  foregoing  discussion  indicates  some  of  ern  philosophers,  esp the
+differences  among  philosophers concerning and Kant, raise again the objects of
+mathematics, the conditions of quantities seem to fa its truth, and its relation
+to other sciences, the modern tenor of m These disagreements do not seem to take
+the  Though  the  reasons  th form of an opposition between ancient and from the
+same princip modern thought, like that between ancient and Aristotle appeal, and
+modern  mathematicians  concerning  the  appear  to  insist upon nature of their
+science.  The  two  oppositions do ligibility in the obj not run parallel to one
+another.  seems  to  have  been  sa  On  the contrary, the objections which mod-
+matical development i
+
+OUTLINE OF TOPICS
+
+1. The science of mathematics: its branches or divisions; the origin and development of
+mathematics
+   1a. The distinction of mathematics from physics and metaphysics: its relation to
+   logic
+   1b. The service    of mathematics to dialectic and philosophy:        its   place in liberal
+   education
+   1c. The certainty and exactitude of mathematical knowledge: the a priori founda-
+   tions of arithmetic and geometry
+   1d. The ideal of a universal      ma thesis: the unification of arithmetic and geometry
+
+2. The objects of mathematics: number, figure, extension, relation, order
+   2a. The apprehension of mathematical objects:         by intuition, abstraction, imagina-
+   2b. construction; the forms of lime and space
+   2c. The being of mathematical objects: their real, ideal, or mental existence
+   2d. Kinds      of quantity: continuous and discrete quantities; the problem of the
+   irrational
+   in mathematics: the model of mathematical thought
+
+3. Method
+   3a. The conditions
+   and character of demonstration in mathematics:                 the use of
+   definitions, postulates, axioms, hypotheses
+   3b. The role of construction:     bearing on proof, mathematical existence, and the
+   its
+   scope of mathematical inquiry
+   3c. Analysis and synthesis: function and variable
+   3d. Symbols and formulae: the attainment of generality
+   4.
+   Mathematical techniques
+   3e. The arithmetic and algebraic processes
+   3f. The operations of geometry
+   4<r.
+   The use of proportions and equations
+   40*.
+   The method of exhaustion: the theory of limits and the calculus
+   The applications of mathematics to physical phenomena: the utility of mathematics
+   3g. The art of measurement
+   3h. Mathematical physics: the mathematical structure of nature
+
+CROSS-REFERENCES  For:  The  relation of mathematics to other arts and sciences,
+/kASTRONOMY 2c; MECHANICS 3
+
+METAPHYSICS 3b; PHILOSOPHY 1b; PHYSICS 1b, 3; SCIENCE 5c.
+
+The  quality  of  necessity  in  mathematical truth, and for the theory of the a
+prior
+
+of arithmetic and geometry in the transcendental forms of space and time, s
+
+AND CONTINGENCY 4d; SENSE 1c; SPACE 43; TIME 6c.
+
+The controversy over the character and existence of the objects of mathematic
+
+?d(3); QUANTITY i; SPACE 5.
+
+The  discussion  of  the  mental  processes  by  which  mathematical objects are
+apprehen
+
+IDEA la, 2f-2g; KNOWLEDGE 63(3), 6c(4); MEMORY AND IMAGINATION la, 6c(2)-6d;
+
+SENSE 53; UNIVERSAL AND PARTICULAR 2b.
+
+The  consideration  of  the  specific  objects  of mathematical inquiry, such as
+number
+
+figures, ratios and proportions, continuous and discontinuous quantities, f
+
+quantities, see INFINITY 3a-3c; QUANTITY 1b-4c, 7; RELATION 1d, 53(3); SPAC
+
+The general theory of mathematical method or logic, see DEFINITION 6a; HYPOTH
+
+JUDGMENT 8b-8c; LOGIC 43; REASONING 6b; TRUTH 4c; and for the particular te
+
+of arithmetic, geometry, algebra, and calculus, see MECHANICS 3b-3d; QUANTI
+
+6b; RELATION 53(3); SPACE 3d.
+
+Other discussions of applied mathematics or mathematical physics, and of the
+
+urement, see ASTRONOMY 2c; MECHANICS 3; PHYSICS 3, 4d; QUANTITY 3d(i), 6-6a
+
+SCIENCE 5c.
+
+ADDITIONAL READINGS
+
+Listed below are works not included in Great Booty of the Western World, but
+
+idea and topics with which this chapter deals. These works are divided into
+
+I. Works by authors represented in this collection.
+
+II. Works by authors not represented in this collection.
+
+For the date, place, and other facts concerning the publication of the works
+
+the Bibliography of Additional Readings which follows the last chapter of Th
+
+J. S. MILL. A System
+
+*'
+
+.  An  Examination  AQUINAS. On the Trinity ofBoethius, QQ 5-6 Philosophy, CH 27
+HOBBES. Six Lessons to the Savilian Professors of
+
+Mathematics  NEWTON.  The  Method of Fluxions and Infinite Series R. BACON. Opus
+Majus, PAR
+
+.  Universal  Arithmetic  ORME.  Treatise on the Bre BERKELEY. A Defence of Free
+Thinking in Mathe- SUAREZ. Disputationes Met
+
+matics  XL  (3, 5-6), XLI (4), X KANT. Prolegomena to Any Future Metaphysic, par
+BARROW. Lectiones Mathema
+
+6-13  .  Thirteen  Geome HEGEL. The Phenomenology of Mind, INTRO LEIBNITZ. Early
+Mathemati
+
+61  551a-552a  f  Heat, 169a-b; 172a-173b; 3a 184a es in Electricity, 831b-c ers
+Karamazov,  BK v, , 126a-b; 348ab359a; 675b; ; i foundations ee NECESSITY s, see
+BEING ded, see s and inite and infinite E 3a-3C. ESIS 3; chniques TY 1b, role of
+meas-  , 6c; relevant to the two groups: cited, consult e Great Ideas. of Logic,
+BK  i,  CH 5 of Sir William Hamilton's " T iv adth of Forms aphysicae, iv (9), x
+(3), LVII (13) ticae trical Lectures cal Manuscripts
+
+62  SACCHLRI.  Euclides Vindicates ( Vindication ofEuclid) O. VhBLLN and LENNES.
+Introduction to Infinite VOLTAIRE. "Geometry," in A Philosophical Dic- Analysis
+
+tionary KLLIN. Famous Problems of Elementary Geometry EULER. Elements of Algebra
+Elementary Mathematics from an Advanced
+
+.
+
+CARNOT. Reflexions snr la metaphysique du calciil in- Standpoint
+
+finitesimal PoiThNfckRL Science and Hypothesis, PARI
+
+GAUSS. Vntersuchungen uber Cohere Anthmetik The Value of Science, PART i, cir i;
+PAR
+
+.
+
+SCHOPI NMAUhR. The World as Will and Idea, VOL 11, Science and Method, BK i, en
+2-3; BK n,
+
+.
+
+SUP,  en  1  3  C  \SSIRLR. Substance and Function, PARI i, en DE MORGAN. On the
+Study and Difficulties of Mathe- Sl'P \I
+
+matics  E.  V. IIuNTiNoroN. The Continuum, and Other Ty COMTE. The Philosophy of
+Mathematics of Serial Order
+
+The Positive Philosophy, BK i
+
+. The Fundamental Propositions of Algebr
+
+.
+
+LOBACIIEVSKI  Geometrical  Researches  on  the  Theory  J. \V. YOUNG Lectures on
+Fundamental Concepts
+
+of  Parallels  Algebra  and  Geometry  WIIEWELL. The Philosophy of the Inductive
+Sciences, JOUKDMN. The Nature of Mathematics
+
+VOL I, BK II, CH 11-12, 14 O. Vi BLI N and YOUNG. Projativc Geometry G. PLACOCK.
+A Treatise on Algebra B. RIJSSLIL. Pumiplt''; of Mathematics, en i B. PEIRCE. An
+Elementary Treatise on Curves, func- Philosophical E**ay*, en 3
+
+.
+
+tions, and Forces My*tiam and Logic, CH k-5
+
+.
+
+W.   R.   HAM  [LI  ON.  Lectures  on  Quaternions  Intfoductionto  Mathematical
+Philosophy,
+
+.
+
+RICMVNN.  Vbcr  die  Ilypothcsen  wclchc do Geometric N. R. (kA\ii'Bi L. What Is
+Scicmt'V* en 6-7
+
+i
+
+zu Grundc liegen (The Hypotheses of Geometry) MARI MN i . in Introduction to Ph
+
+BOOLE. A Treatise on Different tal Equations . Thta this, (Confirmations of a
+
+A Treatise on the Calculus of Finite Differences
+
+.  NIC  on Foundation of G comet t y and Indm tio DEDLKIND. E*saks on the Theory
+of  Numbers  \YiniriiLkn.  A  Treatise on Uwretuil Algebra CLIM-ORD. Preliminary
+Sketch of Bujuaicrrnons . An IntrodiKtion to Mathematics
+
+.On the Canonical Form and Dissection of a . Science and the Modem \Votld
+
+Ricrnann's  Surface  Ci.  N.  I.LNVIS. The Anatomy of Sucine, LSSAY i JLVONS. On
+Geometrical   Reasoning  IIiiHLRi  and  A(.KIRMAN.  Gmneknge  der  thcorctiLEWIS
+CARROLL.  Euclid  and His Modern Rivals schen Logil{ GIBBS. Collected Wor{s Burn
+\\  \\.  Poetr  y  and  Mathematics  C. S. PEIRCE. Collected Papers, VOL in, par
+553-5621, M. R. COHLN Reason and Nature, BK n, en
+
+609-645 A. E. TAkLOR. Philosophical Studies, en in
+
+FREGE.   Grundgesetze   der  Anthrnetuk  CJILSON.  The  Unity  of  Philosophical
+tiipcncnce  BURNSIDE.  Theory of Groups of Finite Order DEWEV. Logic, the Theory
+of  Imjmry,  en  20 CANTOR. Contributions to the Founding of the Theory C \KNAP.
+Foundation oflj)gic and Mathematics *
+
+of Transfmitc Numbers BLLL. The Development of Mathematics
+
+HILBERT.  The Foundations of Geometry G. II. HkRDV. A Course of Pure Mathematics
+PtANo.  Arithmetics  Pnncipia  .  A  Mathematician's  Apology  .  Formulatt e de
+rnathernatique K \SkER and NLWMkN. Mathematics and the Imag, Anthmelica generate
+e algebra elementarc ination
+
+BONOLA. Non-Euclidean Geometry G)URAM ,md ROBBINS. What It Mathematics'?
+
+E.  W.  HOBSON.  The  Theory  of  Functions  of  a  Real WEYL. The Philosophy of
+Mathematics and Natura Variable and the Theory of Fourier's Series Science
+
+simal
+
+11 T u en } 2 3; pes a of rn 18 ilosophy, p \R i 1 1
+
+( ]) Sage, vi n CH 2 -n
+
+i , CH 5 l

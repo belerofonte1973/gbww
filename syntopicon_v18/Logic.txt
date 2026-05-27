@@ -1,0 +1,597 @@
+Chapter 49:
+
+INTRODUCTION
+
+TN  this  set  of great books, the Organon of ArisJL totle, the Novum Organum of
+Bacon,  Descartes'  Discourse  on  Method  and his Rulesfor the Direction of the
+Mind,  and  Kant's Critique of Pure Reason indicate or discuss the nature, scope
+and  divisions of the discipline which has come * to be called logic." Though of
+all  the  works mentioned the Organon is perhaps the most extensive treatment of
+the  subject, Aristotle does not use the word "logic" to name the science or art
+of  which he seems to be the inventorcertainly the first systematic expounder in
+the tradition of western thought. Here as elsewhere Aristotle is indebted to his
+predecessors  for  providing  him with materials to develop or criticize: to the
+sophists  for  the  construction of arguments, for the formulation of methods of
+disputation,  and  for  the  discovery  of fallacies; to Plato for the theory of
+classification  and  definition,  for  the  root  notion  of the syllogism and a
+conception   of   proof  or  demonstration,  for  the  general  outlines  of  an
+intellectual  method to which Pkto gives the * name 'dialectic." As indicated in
+the  chapter  on  DIALECTIC, Aristotle uses Plato's name for the whole method of
+the  mind  in  the  pursuit of truth, in order to designate just one part of his
+method,  the part concerned with probability rather than truth. Yet in the Roman
+and  mediaeval  tradition,  the  words  klogic"  and "dialectic" come to be used
+interchangeably.  This is exemplified by the Stoic division of the sciences into
+physics,ethics,  and logic or dialectic, and by the mediaeval enumeration of the
+liberal  arts  of  the trivium as grammar, rhetoric, ancl logic or dialectic. So
+used,  these  names  designate  the  whole  range  of  discussion to be found in
+Aristotle's  Organon. In their opposition to Aristotelian or what they sometimes
+.call "scholastic" logic, modern inventors of new methods, like Bacon or Destend
+to restrict the meaning of logic. cartes, For them logic is little more than the
+doctrine  of  the  syllogism.  And  this  they  judge to be no part of genuinely
+fruitful method, or they hold it to be of use mainly as a critical instrument in
+disputation  rather than discovery. Their identification of logic with dialectic
+(like  their  association  of both with rhetoric) seems to have an intentionally
+invidious  significance.  But with Kant, who was influenced by the scholasticism
+of  Christian  Wolff,  "logic"  is  generally restored as the name for the whole
+range  of  materials  in Aristotle's Organon, of which dialectic again becomes a
+part.  In his own Introduction to Logic, Kant speaks of Aristotle as "the father
+of  Logic." Though "logic has not gained much in extent since Aristotle's time,"
+he  says, "there are two amongst more recent philosophers who have again brought
+general  logic  into  vogue, Leibnitz and Wolff." Since their day, and certainly
+since  Kant's,  as  be may seen from the tides listed under Additional Readings,
+"logic"  prevails as the name for treatises which discuss, in whole or part, the
+matters  treated in Aristotle's Organon. "Logic" is also used in modern times as
+the  name  for  an  inquiry  or  study  which  bears  little  resemblance to the
+discipline  expounded  in  Aristotle's Organon. What is called "modern logic" to
+distinguish  it from the traditional Aristotelian or scholastic logic, is purely
+a  science,  and in no sense an organon, methodology, instrument, or art. It doe
+not  restrict  itself to stating the laws of thought or formulating the rules of
+inference.  In the words of Josiah Royce, it is "the science of order" and it is
+applicable  -to  the  order  of  things  as  well  as  the  order of thought. So
+conceived,  the  science  of  logic  issometimes  regarded as having the kind of
+generality  which  is  traditionally assigned to 5 1036 THE GREAT I metaphysics;
+as,  for  example,  by  Bertrand  Russell in his essay, "Logic as the Essence of
+Philosophy."
+
+But  it is mathematics rather than metaphysics with which logic is identified by
+its  modern  exponents.  "Logistic  or  mathematical logic," writes Russell, "is
+mathematical  in two different senses: it is itself a branch of mathematics, and
+it is the logic which is specially applicable to other more traditional branches
+of  mathematics."  Since  Boole's  Laws of Thought, which, according to Russell,
+initiates  the  modern development of mathematical logic, "logic has become more
+mathematical and mathematics has become more logical. The consequence," he says,
+"is  that it has now become wholly impossible to draw a line between the two; in
+fact, the two are one."
+
+ARISTOTLE'S Organon stands to the tradition of logic as Euclid's Elements stands
+to  the  tradition  of geometry. In both cases the work of later minds may alter
+considerably  the  structure  and content of the discipline. In both cases there
+are modern departures from the earlier tradition.
+
+As  in  the  one  case  we  have  Descartes' analytical geometry and the various
+non-Euclidean  geometries,  so  in the other we have Kant's trrnscendental logic
+and  the  various non- Aristotelian logics. But all these innovations, even when
+they  might  be  described  as  anti-  Aristotelian  rather  than  simply as non
+Aristotelian,  bear  the  marks  of their traditional origin. Kant, for example,
+takes  pains  everywhere to indicate the parallelism between the formulations of
+his  transcendental  logic  and  those  of  Aristotle's  logic. Even the various
+systems  of  relational  and mathematical logic usually attempt to show that the
+Aristotelian   logic  of  subject  and  predicate,  of  particularand  universal
+propositions, and of syllogisms can be treated as a special case under their own
+formulations.  The  proposals of Bacon or Mill with respect to induction and the
+method  of  Descartes,  though  accompanied  in  each  case by a critique of the
+syllogism,  are  less  radical  departures,  for  they  do not apparently reject
+Aristotle's basic doctrines of predication and proof.
+
+Many  of  these issues in logical theory are dealt with in other chapters, e.g.,
+in  DIALECTIC,  IN-  DUCTION,  and HYPOTHESIS, in IDEA, JUDGMENT, and REASONING.
+Here  we are principally concerned with the conception of logic itself, not with
+the  detailed  content of the science as much as with its character as an art or
+science,  its  relation to other arts and sciences, its major divisions, and its
+leading  principles.  Though  such considerations are more explicitly treated by
+Kant  than  by  Aristotle,  the  formative  influence  of  the  Organon warrants
+examining  it first. THE PARTS OF LOGIC, as Aristotle conceives them, seem to be
+indicated  by  the  subject  matter  of  the  various  books  which comprise the
+collection  of  writings  assembled under the title of Organon. That title has a
+bearing  on  the  question  whether  logic  is  a  science  or an art and on its
+difference  from  other sciences and arts. The word "organon" has the meaning of
+instrument or method. That in turn suggests something to be used as rules of art
+are  used  as directions to be followed to produce a certain result. Aristotle's
+own differentiation of the speculative sciences, the practical sciences, and the
+arts  throws  light  on  this  view  of logic as an art. "The end of theoretical
+knowledge,"  he writes, "is truth, while that of practical knowledge is action."
+In  other  words,  the  theoretical,  or  speculative,  sciences differ from the
+practical  sciences  in  that  they are knowledge for its own sake as opposed to
+knowledge  for  an ulterior end. According as the ulterior end is the production
+or  "making"  of  something,  as  distinct  from human action or conduct, art is
+distinct  from  the other practical sciences. "Making and acting are different,"
+Aristotle  says;  "the  reasoned  state of capacity to act is different from the
+reasoned state of capacity to make. Hence, too, they are not included one in the
+other; for neither is acting making nor is making acting." Logic, then, if it is
+an  art, will be concerned with the "making" of something, with producing a work
+or  an effect. The way in which Aristotle himself refers to the Organon seems to
+confirm  this  view.  He  regards  it as a preparation for work in the theoretic
+sciences.  "Due  to a want of training in logic," he writes, some men attempt to
+discuss  the  criteria  of truth in mathematics or physics at the same time that
+they  are  considering the subject matter of these sciences. "They should CHAFER
+49:  know  these  things  already  when they come to a special study, and not be
+inquiring  into  them  while  they  are  listening to lectures on it." Logic, in
+Aristotle's*  view,  trains the mind in the ways of science. Its productive goal
+as  an  art  is  the making of science itself. For this reason, in the mediaeval
+period,  logic  comes  to  be  called  a  "speculative art" or, with grammar and
+rhetoric,  a liberal art. "Even in speculative matters," Aquinas says, "there is
+something by way of work, .., the making of a syllogism, or of a fitting speech,
+or the work of counting or measuring. Hence whatever habits are ordained to such
+works  of  the  speculative  reason  are,  by  a kind of comparison, called arts
+indeed,  but liberal arts, in order to distinguish them from those arts that are
+ordained  to  works  done  by  the body. . On the . . other hand, those sciences
+which  are  not ordained to any such work are called sciences absolutely and not
+arts."
+
+But  though  it  may  not  be  a  science, absolutely speaking, because it is an
+instrument  of  intellectual  work, logic, in addition to being an art, may also
+have  some  of the characteristics of a science. If it is a science, what is the
+object of its knowledge ?
+
+Aristotle's  division  of the speculative sciences, which he seems to present as
+exhaustive,  leaves  no  place  for logic. "There are three kinds of theoretical
+sciences,"  he  writes,  "physics, mathematics, theology" or metaphysics, as the
+last  came  to  be  called. Each of these sciences, furthermore, seems to have a
+distinctive  subject  matter which is some aspect of reality, such as change, or
+quantity,  or  being. But insofar as logic is concerned with the study of terms,
+propositions, and syllogisms, it deals with elements common to all sciences.
+
+This  suggests  that  whereas  reality  is the object of the other sciences, the
+object  of  logic as a science is science itself, or more generally the whole of
+discourse.  It  considers  the  elements  or  patterns  of discourse in a formal
+manner;  that  considers  them  apart  from their reference is, it to reality or
+their real significance as the terms, propositions, and syllogisms of particular
+subject  matters  or  sciences.  Because it separates the forms which discursive
+thought  takes  from  the  matter or content it may have, logic is traditionally
+called a "formal science."
+
+WHERE ARISTOTLE makes his object the elements of discourse (or thought expressed
+in  Ian  guage), later logicians treat the formal aspect of thought itself. They
+deal   with   concepts,   judgments,   and  reasoning  instead  of  with  terms,
+propositions, and syllogisms. This difference re" suits in a definition of logic
+as  the  science  of  thought;  the  basic formulations of logic are the laws of
+thought. Thus, for example, Kant says that logic "treats of nothing but the mere
+forms  of  thought,"  Its  limits "are definitely fixed by the fact that it is a
+science  which  has nothing to do but fully to exhibit and strictly to prove all
+formal  rules  of thought." The logical principles of identity, excluded middle,
+and  contradiction, as well as the principles of inference, are said to be "laws
+of  thought."  James  proposes  as the most "fundamental principle of inference"
+what he calls the "axiom of skipped intermediaries," which states that "slipping
+intermediary terms leaves relations the same." That "equals of equals are equal"
+is  a special application of this principle in the sphere of quantities. Because
+it applies to allsubject matters equally, James regards the principle as "on the
+whole  the  broadest  and deepest law of man's thought." In either conception of
+logic  as  a formal science, questions arise concerning the relation of logic to
+other  sciences.  For  Anstotle  the  question  is  about logic and metaphysics,
+because both seem to have an unrestricted scope. Metaphysics considers the being
+of  everything  which  is;  logic,  the  formal  components  of  discourse about
+anything.  Aristotle  says  of  philosophy  in  relation  to dialetic, that both
+"embrace  all  things"  but  that "dialectic is merely critical where philosophy
+claims  to know." The same comparison could apply to metaphysics and logic. Both
+"embrace  all  things"  but not from the same point of view. Aristotle also asks
+whether  it  belongs  to  metaphysics  as  well as to logic to inquire "into the
+truths  which are called axioms" especially those which are the first principles
+of all knowledge or demonstration, not merely the foundations of knowledge about
+some  limited  subject  matter.  "Since  these  truths clearly hold good for all
+things   qua   being,"  the  science  which  studies  being  qua  being  (*'.*.,
+metaphysics)  must  be  concerned with them. It also belongs to ' metaphysics as
+wcfl as to logic "to inquire into the principles of the syllogism."
+
+The  principles  of  identity, excluded middle, and contradiction belong to both
+sciences  to  the one as the most universal truths about existence, to the other
+as the basic rules of discourse or the laws of thought. This sharing of a common
+ground   does  not  seem  to  Aristotle  to  but  Bacon  charges  violate  their
+scparatcness;  *  him  with  having  'corrupted natural philosophy by logic." Of
+Aristotle's  physics,  he  says  that  it is built of "mere logical terms," and,
+Bacon  adds,  Aristotle  "remodelled the same subject in his metaphysics under a
+more  imposing  title."  Whereas  Aristotle  considers  the relation of logic to
+metaphysics,   Kant  considers  its  relation  to  psychology.  Both  logic  and
+psychology  arc concerned with thinking and knowing. Distinguishing between pure
+and  applied  logic, Kant says that pure logic "has nothing to do with empirical
+principles  and  borrows  nothing  from  psychology."  Applied  logic depends on
+psychology. In fact, says Kant in his Introduction to Logic, it is "a psychology
+in  which  we consider what is the usual process in our thought, not what is the
+right one." Applied logic ought not to be called logic at all, for "logic is the
+science  of  the  right  use  of the understanding and the reason generally, not
+subjectively, that is, not according to empirical (psychological) principles, as
+to how the understanding actually thinks, but objectively, that is, according to
+a  priori  principles, as to how it ought to think." fames also insists upon the
+distinction  between  psychology and logic. He even uses Kant's terms in calling
+logic an a priori and psychology an empirical science. What thepsychologistcalls
+"laws  of  thought,"  such as the laws of the association of ideas, describe the
+actual  flow  of  thought  and  connections  which  depend  upon  similarity and
+succession.  The  laws  of  logic,  in contrast, state reason's perceptionof the
+rational  structure  of  thought  itself  and the relations which must obtain if
+thought is to be rational.
+
+RETURNING  NOW to the indication of the parts of logic which may be found in the
+structure of the Organon we can see two orders in the books.
+
+The  first three books the Categories, On Interprctationyand the Prior Analytics
+deal  with  terms,  propositions,  and syllogisms: with the AS classification of
+terms and their relation to o another; with the classification of propositic and
+their  opposition  to  one  another;  with  t  analysis  of the various types of
+syllogisms  ai  the  formulation  of  the  'rules of valid inferem Terms are the
+elements  of  propositions;  ten  and  propositions arc the elements of the syll
+gism.  This seems to determine the order of t first three books. The first three
+books  as a whole stand ir certain order to the remaining books. Taki the latter
+as  a  group,  their  differentiation frc what precedes them seems to lie in the
+fact  th they deal with terms, propositions, and syll gisms, not abstracted from
+all  considerations  knowledge  and  truth  about reality, but rath with primary
+emphasis  upon  the  logic  of acti knowledge, or on the processes of knowing ai
+arguing  about  what  is  true  or  probable.  In  t  traditional development of
+Aristotelian  log  this division between the first three and the i maining books
+of  the  Organon  is  sometim  characterized  as a distinction between forrr and
+material logic. In the Posterior Analytics and the Topics Ar totle considers the
+discovery  and  establishme of either the true or the probable. He disti guishes
+between induction and syllogism (or re soning) as modes of learning and arguing.
+T  later  division of logic into deductive and indu tive sometimes confused with
+the distincti between formal and material logic does n seem to correspond to the
+difference  betwei  the  Prior  and  the Posterior Analytics. In the A vancement
+of'Learning, for example, Bacon c vides the art of judgment, "which treats oftTh
+nature of proof or demonstration," into th which concludes by induction and that
+whit  concludes  by  syllogism;  whereas Aristotle a pears to treat induction as
+that   upon   which   S)  logistic  demonstration  depends  for  its  prima  and
+indemonstrable  premises.  The  distinction  between  truth  and  probab ity, or
+between knowledge and opinion, do not affect the formal character of either indu
+tion  or  syllogism. A syllogism may be scientil (i.e., demonstratively certain)
+or  dialectical (/'. merely probable) according to the character i its premises.
+In  either case its formal structu remains the same. Similarly, the difference b
+tween  scientific  and dialectical induction a CHAPTER 49; LOQ pears only in its
+result *.*., whether it is knowledge Of opinion. The Posterior Analytics and the
+Topics  consider  the  employment of both syllogism and induction. The Posterior
+Analytics treats them in relation to the development and structure of scientific
+knowledge.  The  fopics discusses them in relation to the dialectical procedures
+of argument and discovery.
+
+The  last book of the Organon, which is concerned with exposing the fallacies in
+sophistical  proofs  or  refutations,  serves  to  protect  both  scientific and
+dialectical  reasoning  from  such  sophistry.  Unlike  the  philosopher  or the
+dialectician,  ,  the  sophist  does not aim at the truth. Sophistry misuses the
+weapons  of  logic  the  same  weapons used by the scientist or dialec tician to
+produce  a  counterfeit  of wisdom or, as Aristotle says, "a wisdom which exists
+only in semblance."
+
+Though  the  dialectician cannot claim to know, he does, nevertheless, deal with
+opinions critically and respects the canons of logic as much as the philosopher.
+
+The  art  of  logic  seems  to  have  three  main employments. To its use by the
+scientist and the dialectician, Aristotle adds its utilization by the orator for
+the  purposes  of  persuasion.  The  rhetorician  and  the dialectician are most
+closely  allied  because  both  deal  with  probabilities and disputable matters
+concerning  which  opposite conclusions can be drawn. "As in dialectic, there is
+induction  on  the  one  hand  and  syllogism.  .  .  on  the other, so it is in
+rhetoric." Aristotle says that "the enthymeme is a rhetorical syllogism, and the
+example  a  rhetorical  induction."  The foregoing suggests that a certain order
+obtains  between  two  of  the  three  arts  traditionally called the trwium The
+elements  and  principles  of  logic  are,  in  a  sense,  prior to the rules of
+rhetoric.  The art of rhetoric depends on and uses logic. The third art, that of
+grammar,  seems  to serve both logic and rhetoric. It serves the logician in his
+task  of forming terms and propositions out of words, phrases, and sentences. It
+serves  the  rhetorician  in his effort to make a forceful use of language. This
+conception  of the uses of grammar appears in Aristotle's Rhetoric style, and in
+the  opening  in, his consideration of books of the Organon in his discussion of
+univocal  and  equivocal  names,  the  parts  of  speech,  simple  and composite
+expressions, aad the different types o( sentences.
+
+IC  KANT  SEEMS TO diverge from Aristotle both with regard to the unity of logic
+and  with  regard  to the nature and relation of its parts. Formal or elementary
+logic,  Kant thinks, is not the same as an organon of the sciences. He explains,
+in  his Introduction to Logic, that an organon gives instruction as to "how some
+particular  branch of knowledge is to be attained , . An organon of the sciences
+is  therefore  not  a mere logic, since it presupposes the accurate knowledge of
+the objects and sources of the sciences. . . . Logic, on the contrary, being the
+general propaedeutic of every use of the understanding and of the reason, cannot
+meddle  with the sciences and anticipate their matter." Conceding that it may be
+called an organon so far as it serves,"not for the enlargement, but only for the
+criticism  and  correction  vi our knowledge," Kant insists that "logic is not a
+general  art  of discovery, nor an organon of truth; it is not an algebra by the
+help  of  which  hidden truths may be discovered." Aristotle, according to Kant,
+treats  the whole of his logic as an organon, dividing it into an analytical and
+a dialectical part. As Kant sees it,the dialectical part arises from a misuse of
+the  analytical  part. This occurs, he says in the Critique of Pure Reason, when
+general  or  elementary  logic (i.e., the analytic part) "which is meant to be a
+mere  canon  of  criticism,  is  employed as if it were an organon, for the real
+production of at least the semblance of objective assertions. . . . This general
+logic,"  says  Kant,  "which  assumes  the  semblance  of  an organon, is called
+dialectic."  Kant  here  seems  to  identify dialectic with what Aristotle calls
+sophistry.  He  says  of  dialectic that "different as are the significations ir
+which  the ancients use this name of a science 01 art, it is easy to gather from
+its  actual  employment that with' them it was nothing but a logic of semblance.
+It  was  a sophistic art of giving tc one's ignorance, nay, to one's intentional
+casuistry,  the  outward  appearance  of truth, by imi tatmg the accurate method
+which logic always requires." When logic is treated as an organon, it "is always
+an  illusive  logic,  that  is,  dialectical,  For as logic teaches nothing with
+regard to the contents of knowledge . .
+
+.any  attempt  a  tusink  it  as  an  organon in order to extend and enlarge our
+knowledge,  at  least  in  appearance,  can  end  in  nothing  but mere talk, by
+asserting  with  a  certain  plausibility any thing one likes, or, if one likes,
+denying it."
+
+Yet  Kant  himself  retains Analytic and Dialectic as the major divisions of his
+own transcendental logic, explaining that he employs the title of dialectic, not
+for  the  misuse  of logic, but rather to signify that portion of logic which is
+the  critique of "dialectical semblance" or sophistry. General or ordinary logic
+takes  no  account  of  the  content  of  knowledge  and  applies to all objects
+universally   because   "it   treats   of  the  form  of  thought  in  general,"
+Transcendental  logic  -  docs not entirely ignore the content of knowledge, but
+only  the  content  of that knowledge which is empirical in origin. If there are
+tranKtAdcntalor  a  priori  concepts which donot originate from experience, then
+there can be a science which treats "of that knowledge which belongs to the pure
+understanding,  and by which we may think objects entirely a priori" That is the
+science  Kant  calls "transcendental Logic." It deals, he writes, "with the laws
+of  the  understanding  and  reason  in  so  far  only as they refer a priori to
+objects."  That  part of it "which teaches the elements of the pure knowledge of
+the understanding, and the principles without which no object can be thought, is
+the  transcendental  Analytic."  The  second  part  of  it is the transcendental
+Dialectic  "a  critique  of  the  understanding  and reason with regard to their
+hyperphysical  employment,  in order thus to lay bare the false semblance of its
+groundless  pretensions  . . . serving as a protection of the pure understanding
+against all sophistical illusions."
+
+THE  ISSUE  between Kant and Aristotle cannot be understood if it is read simply
+as  a  dispute  about  the nature and divisions of logic. Their diverse views of
+logic  must  be  seen  against  the  larger  background  of  their philosophical
+differences  with  regard  to the nature of the mind, the nature of reality, the
+origin of knowledge, and the character of its objects. Controversies about logic
+(and  even  within  logic,  about  this or that theory of judgment or reasoning)
+usually  reflect  fundamental  issues  in psychology and metaphysics. The attack
+made  by some modern logicians, for example, against the subject-predicate logic
+of  Aristotle  cannot  be  separated  from  their  rejection  of his doctrine of
+substance  and accident in physics and metaphysics; even as their own relational
+logic   represents  a  different  view  of  the  structure  of  reality  or  the
+constituents  ot  experience.  On  the other hand, the criticism of Aristotelian
+logic  by  Bacon and Descartes seems to be motivated primarily by considerations
+of  method.  They do not have a different logic to propose, as do Kant and later
+symbolic  or  mathematical logicians. Rather for them logic itself by which they
+mean  Aristotle's  logic  and particularly his doctrine of the syllogism appears
+useless  for  the  purposes  of enlarging knowledge, discovering new truths, and
+developing  the sciences. Where Kant criticizes Aristotle for regarding logic as
+an  organon or method for acquiring knowledge, Bacon and Descartes complain that
+logic does not serve that purpose at all,and therefore a novum organum not a new
+logic,  but  a new method is needed. "The present system of logic is useless for
+the  discovery  of the sciences," Bacon writes. It "rather assists in confirming
+and  rendering inveterate the errors founded on vulgar notions than in searching
+after  truth,  and  is  therefore  more hurtful than useful." The syllogism, for
+example,  "is  unequal  to the subtlety of nature. . Our only hope is in genuine
+induction."  .  .  Induction is the key to an art of discovery, and the rules of
+induction  the  heart of a fruitful method of inquiry. The relation of induction
+to  demonstration  in  Aristotle's logic, and the difference between Aristotle's
+and Bacon's theories of induction, are discussed in the chapter on that subject.
+In  Bacon's  view, the Novum Organum departs radically from the old Organon. The
+new  can  be  substituted for the old in its entirety. It may be asked, he says,
+"whether we talk of perfecting natural philosophy alone according to our method,
+or the other sciences also, such as logic, ethics, politics." His answer is that
+"as  common logic, which regulates matters by syllogisms, is applied not only to
+natural,  but  also  to  every  other  science, so our inductive method likewise
+comprehends  them  all,"  Demonstration is opposed not only to induction, but to
+discovery.  Accordingly,  logic  conceived  as  concerned only with the rules of
+demonstration  is  opposed  to  other  methods which aim at directing scientific
+inquiry and research.
+
+CHAPTER  49:  LOGI  The basic contrast is between criticism and construction, or
+between  examining  what is offered as knowledge for its validity and developing
+techniques for adding new knowledge to old. In his Two New Sciences Galileo says
+that  logic  "teaches  us  how  to  test  the  conclusiveness of any argument or
+demonstration  already  discovered  and  completed" but not "to discover correct
+arguments   and  demonstrations."  It  does  not,  "as  regards  stimulation  to
+discovery,  compare  with  the  power  of  sharp  distinction  which  belongs to
+geometry." In the same vein Descartes says of logic that "the syllogisms and the
+great  part  of  the  other  teaching serve better in explaining to others . . .
+those things that one knows than in learning what is new. This made me feel that
+.  .  .  some  other method must be found." The four rules of the method he then
+states,  which  codify  the  steps  he  himself has taken to make discoveries in
+geometry  and  physics,  seem  to  him  a  general  procedure  for  insuring the
+advancement  of  all  fields  of learning. As his Rules for the Direction of the
+Mind  indicates, Descartes' method does not omit the intuition of principles and
+the deduction of conclusions therefrom the apparent equivalents of induction and
+demonstration  in  Aristotle's  Organon. But he explains why he has "omitted all
+the  precepts  of  the  dialecticians"  even though he is himself concerned with
+improving  "our  power  of  deducing  one  truth  from  another." Their style of
+argument,  he says, "contributes nothing at all to the discovery of the truth. .
+.  .  Itsonly possible use is to serve to explain at times more easily to others
+the  truths  we  have  already  ascertained; hence it should be transferred from
+Philosophy  to Rhetoric." Furthermore, the forms of the traditional syllogism do
+not  seem  able  to accommodate the connections in mathematical reasoning or the
+structure  of  mathematical  proof.  "Everyone  will  perceive  in  mathematical
+demonstrations,"  Locke  writes,  "that  the  knowledge  gained  thereby,  comes
+shortest  and  clearest  without  syllogisms."  Locke  identifies logic with the
+doctrine  of  the syllogism and, even more explicitly than Descartes, rejects it
+as an aid to reasoning.
+
+THE  QUESTION  whether  logic is itself a methodology, or includes rules for the
+discovery  as  C  well  as  the  demonstration of truth, is answered in terms of
+broader  and  narrower  conceptions  of the science or art. Those who regard the
+rules  of  logic  as  primarily a canon of criticism, which test the validity of
+intellectual work, look elsewhere for a method whose rules are productive rather
+than critical. The question then usually arises whether there is one methodology
+applicable  to  all  fields of inquiry, or as many distinct methods as there are
+different disciplines or subject matters. The difference between the traditional
+Aristotelianand  the  modern  mathematical  logic  suggests  that there may be a
+plurality  of  logics. The attempts made by the exponents of each to subsume the
+other  as  a  special  case  do  not  seem  to  be  entirely  successful. Though
+Aristotelian  logic  appears  to  give  a  satisfactory  account of the forms of
+judgment  and  reasoning in certain types of discourse, it cannot, m the opinion
+of  symbolic  logicians,  be  applied  to  mathematics. "Mathematics consists of
+deductions,  and  yet," according to Bertrand Russell, "the orthodox accounts of
+deduction  are largely or wholly inapplicable to existing mathematics." Symbolic
+logic, on the other hand, may succeed in formulating the relational structure of
+modern  mathematics,  but  it  does not, in the opinion of its critics, hold for
+metaphysicsat  least  not  the  sort  of  metaphysics which treats relation as a
+category  subordinate  to substance. The difference between the kind of thinking
+that  men  do  in  science  and  in law suggests another type of diversity among
+logics.  The  practical  or  moral  judgment  seems to involve a special type of
+predicate.  What  Aristotle  calls  the  "practical  syllogism" and what Aquinas
+describes  as  the  process of "determination"- quite distinct from deduction by
+which  positive  laws  are derived from natural law, seem to call for a logic of
+practical thinking, quite distinct from the logic of all the theoretic sciences.
+Using  the  word "logic" in its broadest sense, we must ask whether there is one
+logic  common  to  all  the  sciences; or a logic which fits mathematics but not
+physics or metaphysics, a logic appropriate to speculative philosophy but not to
+experimental  or  empirical  research,  a  logic  peculiar  to the nature of the
+practical  or  moral  sciences,  such  as ethics and politics, or to the work of
+jurisprudence.
+
+1042  There  is  evidence  in the great books that sci- Because of thei ences as
+different as mathematics and physics, about logic (and esp or as metaphysics and
+politics,  differ  in  their  scope  and  unity),  th  methods  of discovery and
+demonstration.  This  general  and  the  vari may mean that they differ in their
+logics as particular disciplin well. Yet it also appears to be the case that the
+tcr.  They  are also c principle of contradiction applies in all, that fal- ters
+devoted  to  the  lacious inference is detected by the same cntc- matters, e.g.,
+ASTRO  ria  in  all,  and to this extent all share a common MATICS, METAPHYSICS,
+logic.  Where alternative methods have been in the chapters on S proposed within
+a  single major field notably What is distinctive in the case of philosophy this
+may  reflect  dif-  is  discussed  in th fcrcnt conceptions of philosophy itself
+rather  type  of knowledge or than alternative routes to the same end. require a
+method of
+
+OUTLINE OF TOPICS
+1.
+Logic as a science: its scope and subject matter compared with psychology and meta-
+physics
+   0a. The axioms of logic: the laws of thought; the principles of reasoning
+   0b. Divisions of logic: deductive and inductive; formal and material; analytic and
+   dialectic; general and transcendental
+
+2. Transcendental logic:        the propaedeutic to all a priori cognition; the transcendental
+doctrine of method
+as an art: its place in education
+
+3. Logic
+   3a. The relation of logic
+   and grammar
+   3& The relation of logic and rhetoric
+
+4. Methodology:
+rules for the conduct of the mind in the processes of thinking, learning,
+inquiring, knowing
+   4a. Mathematical analysis and reasoning: the search for a universal method
+   4b. The heuristic principles of
+   research in experimental and empirical science
+   4c. The criteria of evidence
+   and inference in historical inquiry
+   4d. The diverse methods of speculative philosophy: the role of intuition, analysis,
+   dialectic, genetic or transcendental criticism
+   4e. The logic
+   of practical thinking: the methods of ethics, politics, and jurisprudence
+   4f. Theological argument: the roles of faith, reason, and authority
+
+5. Logic
+as an object of satire and criticism: sophistry and Icgic-chpppin,g
+
+ADDITIONAL READINGS
+
+Listed below arc works not included in Great B
+
+idea and topics with which this chapter deals.
+
+I. Works by authors represente
+
+H. Works by authors not represe
+
+For the date, place, and other facts concernin
+
+the Bibliography of Additional Readings which
+
+I.
+
+AQUINAS.  De  Fallacy's  HOBBES.  Concerning  Body, PART i, CH 6 SPINOZA. Of the
+Improvement  of  the  Understanding  LOCKE.  Conduct  of the Understanding KANT.
+Introduction  to  Logic,  i-it  HEGEL.  Science of Logic J. S. MILL. A System of
+Logic
+
+. An Examination of Sir William Hamilton's
+
+Philosophy, CH 20-23
+
+II.
+
+SEXTOS  EMPIRICUS.  Against  the Logicians PORPHYRY. Introduction to Aristotle s
+Predicaments
+
+BOETHIUS. In Isagogem Porphyri Commenta ABAILARD. Dialectica
+
+MAIMONIDES.  Treatise  on  Logic  JOHN  OF  SALISBURY. Metalogicon GILBERT DE LA
+PORREE.  Liber de Sex Principiis SUAREZ. Disputationes Metaphysicae, LIV JOHN op
+SAINT THOMAS. Cursus Philosophicus
+
+Thomisticus, Ars Logica, PROLOGUS; PART n, Q
+
+1-2
+
+ARNAULD. Logic or the Art of Thinking, PART iv MALEBRANCHE. Dela recherche de
+laverite, BK vi standing, BK IV, CH 2
+
+LEIBNITZ.  New  Essays Concerning Human UnderEULER. Letters to a German Princess
+COLERIDGE.  Treatise  on Method SCHOPENHAUER. The World as Will and Idea, VOL H,
+SUP, CH 9
+
+WHATELY. Elements of Logic W. HAMILTON. Lectures on Metaphysics and Logic, VOL H
+(1-4)
+
+DE MORGAN. Formal Logic BOOLE. Mathematical Analysis of Logic . An Investigation
+of the Laws of Thought
+
+SIGWART. Logic
+
+AS  ooty  ofthe  Western World, but relevant to the These works arc divided into
+two  groups: d in this collection. nted in this collection. g the publication of
+the  works  cited,  consult  follows the last chapter of The Great Ideas. LOTZE.
+Logic, BK I, INTRO, (10-13) JEVONS. Pure Logic
+
+. The Principles of Science
+
+.  Studies  in Deductive Logic BRADLEY. The Principles of Logic BOSANQUET. Logic
+C. S. PEIRCE. Collected Papers, VOL n, par 1-218;
+
+VOL in, par 154-251, 359-403; VOL iv, par 80-
+
+152; VOL vi, par 102-163, 185-237 VENN. Symbolic Logic
+
+Principles of Empirical or Inductive Logic
+
+.  BRUNETIERE.  An  Apology  for Rhetoric FRAZER. The Golden Bough, PART i, CH 3
+LEWIS CARROLL. Alice's Adventures in Wonderland
+
+.
+
+Through the Looting-Glass and What Alice
+
+Found There
+
+.
+
+Symbolic  Logic  COUTURAT. The Algebra oj Logic POINCARE. Science and Method, BK
+n, CH 3-5 WHITEHEAD and RUSSFLL. Prinapia Mathematica,
+
+(Introductions to first and second editions) B. RUSSELL. Principles of
+Mathematics, CH 2
+
+. Our Knowledge ofthe External World, n
+
+.
+
+Mysticism and Logic, CH i
+
+.Introduction   to  Mathematical  Philosophy,  CH  1  8  W.  E.  JOHNSON.  Logic
+WITTGENSTEIN. Tractatus Logico -Philosophicus MARITAIN. An Introduction to Logic
+BRIDGMAN.  The  Logic  of  Modern  Physics  GILSON.  The  Unity of Philosophical
+Experience,  CH  i  SANTAYANA.  The  Realm  of  Truth,  CH  3  DEWEY.  Essays in
+Experimental Logic
+
+.Reconstruction in Philosophy, CH 6
+
+. The Quest for Certainty, CH 9
+
+.
+
+Logic,  the  Theory of Inquiry, PART i WEISS. Reality, BK i, CH 7 BLANSHARD. The
+Nature  of Thought M. R. COHEN. A Preface to Logic, esp i, ix DEWEY and BENTLEY.
+Knowing and the Known

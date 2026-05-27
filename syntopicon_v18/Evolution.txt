@@ -1,0 +1,699 @@
+Chapter  14:  EVOLUTION INTRODUCTION 'TT'HIS chapter belongs to Darwin. Not that
+his  writings,  which  are  cited  under almost all headings, stand alone in the
+various  places  they  appear.  The  point is rather that many of the topics are
+dictated  by and draw their meaning from his thought, and that he figures in all
+the  major issues connected with the origin of species, the theory of evolution,
+and  the  place of man in the order of nature. With respect to the matters under
+consideration  in  this chapter, the other writers in the tradition of the great
+books  cannot  escape from being classified as coming before or after Darwin, or
+as  being  with  or  against  him.  Darwin's  influence  on later writers may be
+variously  estimated,  but it is plainly marked by their use of his language and
+their  reference  to  his  fundamental  notions. James Principles of Psychology,
+especially  in  its  chapters on instinct and emotion, views the behavior of men
+and animals and the phenomena of intelligence or mind in evolutionary terms. The
+writings  of  Freud  are  similarly  dominated by the genetic approach and by an
+appeal  to  man's animal ancestry in order to explain the inherited constitution
+of  his  psyche in conformity with the doctrine of evolution. Outside psychology
+the  concept  of  evolution  is  reflected  in  theories  of  progress  or  of a
+dialectical  development  in  history;  as,  for  example, in the dialectical or
+historical  materialism  of  Marx and Engels, which is set forth in the latter's
+Dialectics  of  Nature. An even more general of philosophy, which re-orientation
+stems  from  an  evolutionary way of thinking, is to be found in the writings of
+Bergson  and  Dewey,  such  as Creative Evolution and The Influence of Darwin on
+Philosophy. These, along with many of the specifically biological works ex cited
+in the list of Additional Readings, give some measure of the influence of Darwin
+not  only  on  philosophical thought, but also on the direction of research mall
+the  biological  sciences.  WITH REGARD TO Darwin's predecessors the question is
+not so much one of their influence upon him as of their anticipation, in one way
+or another, of his discoveries, his conceptions, and his theory. The observation
+made  in  antiquity concerning a hillside deposit of marine fossils is sometimes
+taken  as  implying  an  early recognition of the evolution of terrestrial life.
+More  apposite  perhaps  is the statement by Lucretius that "the new earth first
+put forth grass and bushes, and next gave birth to the races of mortal creatures
+springing  up many in number in many ways after divers fashions." Lucretius also
+speaks of strange monsters which nature did not permit to survive. "Nature set a
+ban  on  their  increase  and they could not reach the coveted flower of age nor
+find  food  nor  be united in marriage .. . And many races of living things must
+then  have  died  out  and been unable to beget and continue their breed." Those
+which  survived,  he  adds,  had  qualities  which "protected and preserved each
+particular   race."   Apparently   susceptible  to  similar  interpretation  are
+Aristotle's  statements  that  "nature  proceeds  little  by  little from things
+lifeless  to  animal life"; that "there is observed in plants a continuous scale
+of ascent toward the animal"; and that "throughout the entire animal scale there
+is  a  graduated  differentiation  in  amount  of  vitality  and in capacity for
+motion."  Augustine's commentary on the first chapter of Genesis seems even more
+explicitly  to  contemplate  the  successive  appearance of the various forms of
+life. Plants and animals did not actually ist when the world began. Though their
+causes were created by God and existed from the beginning, the actual production
+of  plants  and  animals  in  their  various  kinds is, as Aquinas tellsus while
+summarizing Augustine's view, "the work of propagation' not of creation.
+
+Like  Aristotle,  both Aquinas and Locke represent the world of living organisms
+as  a  graduated  scale  ascending  from less to more perfect forms of life. But
+where  Aquinas  tends  to conceive that graduated scale as a hierarchy involving
+essential  differences,  Locke  sees an almost perfect continuity involving only
+differences  in degree. "In all the visible world," he writes, "we see no chasms
+or  gaps."  To  illustrate  this, he points out that "there are fishes that have
+wings,  and  are not strangers to the airy region; and there are some birds that
+are  inhabitants  of  the  water,  whose blood is cold as fishes . . . There are
+animals  so  near  of  km  to  both birds and beasts that they are in the middle
+between both: amphibious animals link the terrestrial and aquatic together . . .
+and  the  animal  and vegetable kingdoms are so nearly joined, that, if you will
+take  the  lowest  of  one  and  the  highest of the other, there will scarce be
+perceived  any  great  difference  between  them: and so on, till we come to the
+lowest  and  the most inorganical parts of matter, we shall find everywhere that
+the  several  species  are  linked together, and differ but in almost insensible
+degrees."
+
+But  for  the  theory  of evolution the observation of a hierarchy in nature, or
+even of a continuity in which the species differ by "almost insensible degrees,"
+constitutes  only background. What the theory of evolution brings to the fore is
+the  notion  of  a  developmental or genetic relation among the various forms of
+life. Because it seems to contain this insight, the anticipation of Darwin to be
+found  in  Kant's  Critique  of  Judgement  is perhaps the most remarkable; even
+though, in a closely related passage in which Kant discusses epigenesis, he uses
+the  word  "evolution"  in a sense quite contrary to Darwin's conception. "It is
+praiseworthy,"  Kant writes, "to employ a comparative anatomy and go through the
+vast  creation  of organized beings in order to see if there is not discoverable
+in  it  some  trace  of  a  system,  and  indeed of a system following a genetic
+principle . . , When we consider the agreement of so many genera of animals in a
+certain  common  schema,  which  apparently  underlies not only the structure of
+their bones, but also the disposition of their remaining parts, and when we find
+here  the  wonderful  simplicity  of  the  original plan, which has been able to
+produce  such  an immense variety of species by the shortening of one member and
+the  lengthening of another, by the involution of this part and the evolution of
+that,  there  gleams  upon  the  mind  a  ray  of  hope, however faint, that the
+principle  of  the mechanism of nature, apart from which there can be no natural
+science  at  all, may yet enable us to arrive at some explanation in the case of
+organic  life.  This analogy of forms, which in all their differences seem to be
+produced  in  accordance with a common type, strengthens the suspicion that they
+have  an actual kinship due to descent from a common parent. This we might trace
+in  the  gradual  approximation  of  one animal species to another, from that in
+which  the  principle of ends seems best authenticated, namely from man, back to
+the  polyp,  and  from  this back even to mosses and lichens, and finally to the
+lowest  perceivable  stage  of nature." FINDING ANTICIPATIONS of Darwin involves
+judgments  much  more  subject to controversy than tracing his influences. It is
+questionable,  for  example,  whether  the  suggestive passages in Lucretius and
+Locke  bear  more than a superficial resemblance to Darwin's thought. The matter
+is  further  complicated  by  Darwin's  own  sense  of  his  divergence from and
+disagreement  with  his  predecessors  both immediate precursors like Buffon and
+Linnaeus  and  earlier  philosophers and theologians. Darwin tells us himself of
+his  quarrel  with  the  theologians.  His followers elaborate on the opposition
+between  his  conception  of  species and that of Aristotle, an opposition which
+Darwin  intimates by the great stress he lays on the difference between a static
+taxonomy  and a dynamic or genealogical classification of living things. We must
+therefore  try to locate the central points of Darwin's theory in order to judge
+comparable  views for their agreement or disagreement. As the title of his major
+work  indicates, it is not evolution as a grand scheme of biological, or cosmic,
+history,  but  the  origin  of species with which Darwin seems to be principally
+con-  CHAPTER  24:  EVOL ccrned. He is concerned with establishing the fact that
+new  species  do  originate in the course of time, against those who suppose the
+species  of living things to be fixed in number and immutable in type throughout
+the  ages.  He  is  concerned  with describing the circumstances under which new
+species  arise  and  other  forms  cease to have the status of species or become
+extinct.   He   is  concerned  with  formulating  the  various  factors  in  the
+differentiation  of  species,  and  with  showing, against those who think a new
+species  requires  a  special  act of creation, that the origin of species, like
+their  extinction,  isentirely a natural process which requires no factors other
+than  those  at  work  every  day in the death, and breeding of plants and life,
+animals. Only as a consequence of these primary considerations does he engage in
+speculations  about  the moving panorama of life on earth from its beginnings to
+its present and its future. Darwin looks upon the term "species" as "arbitrarily
+given,"  and  for  that  reason does not attempt any strict definition of it. He
+uses   it,   moreover,   like   his   predecessors   in   systematic  biological
+classification,  to signify "a set of individuals closely resembling each other"
+a class of plants or animals having certain common characteristics. Darwin would
+probably  agree with Locke's criticism of those who suppose that our definitions
+of  species  grasp the real essences or relate to the substantial forms inherent
+in  things.  As  indicated  in the chapter on DEFINITION, Locke insists that our
+notion  of a species expresses only what he calls the "nominal essence" a set of
+characteristics  we  attach  to  the name we give things of a sort when we group
+them  and  separate  them  in  our  classifications. "The boundaries of species,
+whereby  man  sorts  [things], are made by men," he writes; "the essences of the
+species, distinguished by different names, are ... of man's making."
+
+Species  is not the only term of classification. A genus, for example, is a more
+inclusive  group  than a species. Groups which differ specifically belong to the
+same  genus  if  their  difference  is  accompanied  by the possession of common
+traits. As species differ from one another within a generic group, so genera are
+in  turn  subclasses of more inclusive groupings, such as UTION phyla, families,
+and  orders.  But  there  are also smaller groupings within a species. There arc
+races   or   varieties  and  sub-varieties,  the  members  of  which  share  the
+characteristics  of  the  species but differ from one another in other respects.
+Ultimately,  of  course,  within  the  smallest class the systematist bothers to
+define, each individual differs from every other in the same group with whom, at
+the  same  time, it shares certain characteristics of the race, the species, the
+genus,  and  all  the  larger classes to which they belong. This general plan of
+botanical  or  zoological  classification does not seem to give species peculiar
+status  in the hierarchy of classes or groupings or to distinguish it from other
+classes  except as these are more or less inclusive than itself. Why then should
+attention  be  focused  on the origin of species, rather than of varieties or of
+genera  ?  One  part  of  the  answer  comes  from  the  facts  of generation or
+reproduction.  Offspring tend to differ from their parents, as well as from each
+other,  but  they  also  tend to resemble one another. "A given germ," Aristotle
+writes,  "does  not  give  rise  to any chance living being, nor spring from any
+chance  one;  but  each  germ springs from a definite parent and gives rise to a
+definite  progeny."  This  is  an  early  formulation of the insight that in the
+process  of reproduction, the law of like generating like always holds for those
+characteristics  which  identify  the species of ancestors and progeny. In other
+words, a species always breeds true; its members always generate organisms which
+can be classified as belonging to the same species, however much they vary among
+themselves  as  individuals  within  the  group. Furthermore, the sub-groups the
+races  or varieties of a species arc able to breed with one another, but diverse
+species  cannot  interbreed.  Organisms  different in species either cannot mate
+productively at all, or if crossbred, like the horse and the ass, they produce a
+sterile  hybrid  like the mule. In the hierarchy of classes, then, species would
+seem  to  be  distinguished  from  all smaller groupings by their stability from
+generation  to  generation.  If species arc thus self-perpetuating, they in turn
+give  stability  to all the larger groupings~-the getoera, phyla, families which
+remain  as  fixed  from generation to generation as the species which constitute
+them.  Hence the question of origin applies peculiarly to species rather than to
+varieties  or  to  genera,  On thesupposition stated, no origin of species would
+seem to be possible except by a special act of creation. Either all the existing
+species  of  organisms  have always existed from the beginning of life on earth;
+or, if in the course of ages new species have arisen, their appearance cannot be
+accounted for by natural generation. By the law of natural generation, offspring
+will always be of the same species as the parent organisms.
+
+Spontaneous  generation,  of  course,  remains a A new species of organism might
+possibility.  come  to be without being generated by other living organisms. But
+apart from the question of fact (/'.?., whether spontaneous generation ever does
+occur),  such  origin  of  a  form  of life seems to he outside the operation of
+natural  causes  and  to  imply  the  intervention  of  supernatural  power. The
+possibility  of  spontaneous  generation  was  entertained  in antiquity and the
+Middle  Ages,  and was even thought to be supported by observation, such as that
+of  maggots  emerging from putrefying matter. But modern science tends to affirm
+the biogenetic law that living organisms are generated only by living organisms.
+To  Kant,  the notion that "life could have sprung up from the nature of what is
+void of life," seems not only contrary to fact, but absurd or unreasonable. Yet,
+while  affirming  the  principle  that like produces like by insisting upon "the
+generation  of something organic from something else that is also organic," Kant
+docs not carry that principle to the point where it would make the generation of
+a new species impossible. "Within the class of organic beings," he writes, it is
+possible for one organism to generate another "differing specifically from it."
+
+AGAINST  THE  BACKGROUND of these various suppositions, Darwin is moved to a new
+insight  by  the  conjunction  of certain types of fact: the results of breeding
+under  domestication which exhibit the great range of variation within a species
+and  the  tendency of inbred AS varieties to breed true; his own observations of
+the  geographical  distribution  of species of flora and fauna, especially those
+separated  from  one  another  by  impassable barriers; the facts of comparative
+anatomy  and  embryology  which  reveal  affinities  in  organic  structure  and
+development  between  organisms  distinct  in species; and the geological record
+which indicates the great antiquity of life upon the earth, which gives evidence
+of  the  cataclysmic  changes  in the earth's surface (with consequences for the
+survival  of  life), and which above all contains the fossil remains of forms of
+life  now  extinct  but  not  dissimilar  from species alive in the present age.
+Briefly  stated,  Darwin's  insight  is  that  new species arise when, among the
+varieties of an existing species, certain intermediate forms become extinct, and
+the  other  circumstances are such that the surviving varieties, now become more
+sharply  separated  from  one another in type, are able to reproduce their kind,
+and,  in  the course of many generations of inbreeding, also tend to breed true.
+They  thus  perpetuate  their type until each in turn ceases to be a species and
+becomes  a  genus when its own extreme varieties, separated by the extinction of
+intermediates, become new species, as they themselves did at an earlier stage of
+history.  For the very same reason that Darwin says "a wellmarked variety may be
+called  an  incipient  species," a species may be called an incipient genus. The
+point  is  misundei stood if it is supposed that when new species originate from
+old,  both  the new and the old continue to survive as species. On the contrary,
+when  in  the  course  of  thousands  of  generations some of the varieties of a
+species achieve the status of species, the species from which they originated by
+variation  ceases  to  be  a  species and becomes a genus. "The only distinction
+between  species  and well-marked varieties," Darwin writes, "is that the latter
+are  known,  or  believed,  to be connected at the present day with intermediate
+gradations,  whereas  species  were  formerly  thus  connected  ...  It is quite
+possible  that  forms  now  generally  acknowledged  to  be merely Varieties may
+hereafter  be  thought worthy of specific names; and in this case scientific and
+CHAPTER  24:  EVOLUTIO  common  language will come into accordance. In short, we
+shall have to treat species in the same manner as those naturalists treat genera
+who  admit that genera are merely artificial combinations made for convenience .
+.  .  Our  classifications  will  come  to  be,  as  far as they can be so made,
+genealogies."
+
+The  origin  ofspecies  thus  seems  to  be  identical  with  the  extinction of
+intermediate varieties, combined with the survival of one or more of the extreme
+varieties.  These seem to be simply two ways of looking at the same thing. Still
+another  way of seeing the point may be achieved by supposing, contrary to fact,
+the  survival  of  all  the  varieties  ever  produced  through  the breeding of
+organisms.  "If  my  theory  be  true,"  Darwin writes, "numberless intermediate
+varieties,  linking  closely  together  allthe  species  of the same group, must
+assuredly  have  existed;  but  the very process of natural selection constantly
+tends,  as  has  been so often remarked, to exterminate the parent-forms and the
+intermediate links." If one were to suppose the simultaneous co-existence of all
+intermediate varieties in the present day, the groups now called "species" would
+be  continuously  connected  by slight differences among their members and would
+not,  therefore,  be  divided  into  distinct  species,  as they now are because
+certain  links  are  missing.  In  the  Critique of Pure Reason, Kant states the
+principle  of  continuity  in the following manner. "This principle," he writes,
+"indicates that all differences of species limit each other, and do not admit of
+transition  from one to another by a saltus, but only through smaller degrees of
+the  difference between the one species and the other. In one word, there are no
+species  or  sub-species  which  ...  are  the  nearest  possible to each other;
+intermediate  species  or  sub-species  being always possible, the difference of
+which  from  each  of  the former is always smaller than the difference existing
+between  these." But, Kant adds, "it is plain that this continuity of forms is a
+mere  idea, to which no adequate object can be discovered in experience," partly
+because  "the  species  in  nature  are  really divided and if the gradual . . .
+progression  through  their  affinity  were continuous, the intermediate members
+lying  be-  N  tween  two  given  species  must  be infinite in number, which is
+impossible."
+
+The   Russian  geneticist,  Theodore  Dobzhansky,  gives  an  interpretation  of
+continuity  in  nature  which differs from Kant's in that it follows and applies
+Darwin's conception of species and their origin. According to him, if we suppose
+the  extreme  case  of  all  possible  genetic  variations  being alive on earth
+together,  the result would be not an infinite number of species, but no species
+and  genera  at  The array of plants and animals would all. approach a perfectly
+continuous  series  in  which  there would only be individual differences. There
+would  be  no  specific  or  generic  groupings  of  the  sort  now  made in our
+classification  of  the  forms  of life. ON DARWIN'S conception of the origin of
+species its causes divide into two sets of factors: first, those which determine
+the  extinction  or  survival  of  organisms  and,  with  their  survival, their
+opportunities  for  mating  and  reproduction; second, those which determine the
+transmission  of characteristics from one generation to another and the vanation
+of offspring from their ancestors and from each other. Without genetic variation
+there  would  be  no range of differences within a group on which the factors of
+selection could operate. Without the inheritance of ancestral traits there would
+be  no  perpetuation  of  group characteristics in the organisms which manage to
+survive  and  reproduce.  For  Darwin  the operation of the first set of factors
+constitutes  the  process of natural selection.This may take place in many ways:
+through  geological catastrophes which make certain areas of the earth's surface
+uninhabitable  for  all  organisms,  or  for  those  types  which  cannot  adapt
+themselves  to  the radically changed environment; through the competition among
+organisms  for  the  limited food supply available in their habitat; through the
+struggle  for  existence  in  which organisms not only compete for food but also
+prey  upon  one  another;  through  the sexual selection which operates within a
+group  when some organisms are prevented 'by others from mating and reproducing;
+and  through  all the obstacles which isolate groups from interbreeding, in- 456
+eluding   geographical  and  physiological  inaccessibility.  The  struggle  for
+existence  is  not only a struggle to survive, but also a struggle to reproduce.
+Natural selection operates with respect to reproduction as well as survival.
+
+Whether  the  survival is of the fittest alone, or whether the multiplication of
+inferior  organisms  also  gives  evolution another direction, has been disputed
+since Darwin's day; but according to his theory, "natural selection works solely
+by and for the good of each being; all corporeal and mental endowments will tend
+to  progress  toward  perfection . Thus, from the . . war of nature, from famine
+and  death  .  .  . the production of the higher animals directly follows." With
+respect  to  the  factors  of  heredity  and  tremendous  advances  since Darwin
+variation,  in  the  experimental  science of genetics require revisions in this
+part of his theory of evolution.
+
+This  is  particularly  true  of  the  researches of Mendel, Bateson, and Morgan
+concerning  the ways in which genetic factors operate. But on one major point in
+the  theory  of  heredity  Darwin  holds  a view which later investigations have
+tended to confirm. Antedating Weismann, he nevertheless opposes Lamarck's theory
+of  the  inheritance of acquired characteristics. As William James expresses it,
+where  Lamarck  supposes  that  environmental  influences  cause  changes in the
+structure  or  functioning  of the organism which then become hereditary, Darwin
+regards  the  environment  merely  as a selective agency, acting upon variations
+produced entirely by causes operating in the breeding process. James thinks "the
+evidence for Mr.
+
+Darwin's  view  . . . quite convincing," [was] . . . even before it received the
+support of Weismann's theory, according to which it is "a priori impossible that
+any peculiarity acquired during the lifetime by the parent should be transmitted
+to the germ." The situation is not the same with regard to Darwin's views on the
+mechanism of heredity.
+
+Writing  before  Mendel's  classic experiments in hybridization, Darwin seems to
+suppose  a  blending  of  hereditary  factors;  whereas,  according  to  Mendel,
+inheritance  is  particulate.  Distinct  genetic  factors  combine  to produce a
+certain  somatic  result  without  losing  their  separate  identities. They can
+therefore  be  reassorted  and  enter  into new genetic combinations in the next
+generation.  Most  important  of all, Darwin thinks that new forms of life arise
+gradually as the result of a continuous accumulation of slight and imperceptible
+variations. The opposite view is now taken. The discovery of abrupt mutations in
+a  single  generation  discountenances  Darwin's  maxim  natura  nonfactt saltum
+"nature does nothing by jumps." These advances in genetics since Darwin's day do
+not  alter  the  main  outlines of his theory. The mechanisms of heredity may be
+much  more  complicated  than  Darwin  knew,  and  involve  much of which he was
+ignorant,  such  as mutation-rates, or the various types, causes, and effects of
+hybridization.   But  that  merely  leads  to  a  more  elaborate  or  different
+explanation  of genetic variation in offspring and the transmission of ancestral
+traits.  No  matter  how  these  are  explained, their occurrence is all that is
+needed  to permit new species to originate through natural processes of heredity
+and selection. "If Darwin were alive today," Julian Huxley writes, "the title of
+his  book  would  have  to be not the 'origin' but the 'Origins of Species.' For
+perhaps  the  most  salient  single fact that has emerged from recent studies is
+that  species  may  arise  in  a number of quite distinct ways." THE READER MUST
+judge for himself to what extent Darwin's theory of evolution was anticipated by
+those  \\ho,  like  Augustine,  affirm  the appearance of new species of life on
+earth at various stages in its history, or even by a writer like Kant, who seems
+to  possess  the germ of its insight. The critical test in every case is whether
+those  who affirm the occurrence of new species by natural processes rather than
+by  special creation, think of them as simply added to the organic forms already
+in  existence  without  any  change in the status as species of the pre-existing
+forms.  Those  who  think in this way do not have Darwin's idea of the origin of
+species;  for  in  conceiving  an  increase in the number of species as merely a
+matter of addition, they necessarily attribute stability to each species, new as
+well as old. By this test, not even Kant seems to be near the center of Darwin's
+hy-  CHAPTER  24:  EVOLUT pothcsis of the origin of species by the extinction of
+intermediate  varieties.  In  comparing Darwin with certain of his predecessors,
+notably Aristotle and Aquinas, it seems necessary to apply another kind of test.
+
+Here  the problem is not so much one of discovering affinities or disagreements,
+as  one  of  determining  whether  they  are  talking  about  the same thing and
+therefore,  when  they  appear  to  disagree,  whether the issue between them is
+genuine.  They do not seem to conceive a species in the same way. Certainly they
+use  the  word  differently.  This affects the way in which the whole problem of
+origins  is understood. The controversies concerning the fixity or mutability of
+species,  concerning  evolution  and  creation, and concerning the origin of man
+involve  genuine  issues  only if those who seem to disagree do not use the word
+"species"  in widely different senses. It is possible that certain forms of life
+do  not  originate  by  descent  from  a common ancestor and do not derive their
+status  as  quite distinct types from the mere absence of intermediate varieties
+varieties  which  once must have existed but are now extinct. If such forms were
+to be called "species," the word would have a different meaning from the meaning
+it  has  when  applied to types of pigeons, beetles, or rats. The first of these
+two  meanings  may express the philosophical conception of a living species as a
+class  of  organisms  having  the  same  essential  nature,  according  to which
+conception  there  never  could  have  been  intermediate  varieties. The second
+meaning  may  be  that  of  the  scientific  taxonomist in botany or zoology who
+constructs  a  system  of  classification,  genealogical  or  otherwise. On this
+meaning,  one  million and a half would be a conservative estimate of the number
+of  plant  and  animal  types  classified  by  the  systematist as "species." In
+contrast,  the  number  of  species,  in  the  philosophical  sense  of distinct
+essences,  would  be extremely small. Darwin, for example, says, "I cannot doubt
+that  the  theory  of  descent with modification embraces all the members of the
+same  great  class or kingdom. I believe that animals are descended from at most
+only  four  or  five progenitors, and plants from an equal or lesser ION number.
+Analogy  would  lead me one step farther, namely, to the belief that all animals
+and plants are descended from some one prototype. But analogy may be a deceitful
+guide."  the  theory  of  evolution,  he  It is immaterial to adds, whether this
+inference,  "chiefly  grounded  on  analogy  ... be accepted." The issue between
+Darwin  and  the  theologians  may  or  may  not  be  genuine  according  to the
+interpretation of this passage, and according to the possibility of a double use
+of  the  word  "species" for both the small number of progenitors from which all
+the extant types of plants and animals have evolved, and for a very large number
+of  those  extant  types. If the theologians use the word "species" in the first
+sense,  and Darwin in the second, they need not be in disagreement. The "view of
+life"  which  Darwin  attributes to certain eminent authorities, he himself does
+not  flatly  reject,  namely,  that  life,  "with  its several powers [has] been
+originally  breathed  by  the  Creator  into  a few forms or into one." Is there
+common  ground  here  in  the  admitted  possibility  that  life  may  have been
+originally  created in a small number of distinct forms and that these are to be
+regarded  as  species  in  one  conception,  though  not  in another? If so, the
+affirmation  of a certain fixity to species would apply only to a few primordial
+Concerning  forms  which  forms.  have  appeared  with  the passage of time, two
+questions   would   have  to  be  answered.  First,  are  they  species  in  the
+philosopher's sense of distinct and immutable essences, or species in the scheme
+of systematic biological classification? Second, is their first appearance at an
+historical  moment  due to a special act of creation, to spontaneous generation,
+or   to   evolution  from  already  existing  organic  forms  by  "descent  with
+modification"?  To join issue with Darwin, it would seem to be necessary for the
+person  answering  these  questions to use the word "species" in the biologist's
+sense and at the same time to account for the historical ongm of the new species
+by special creation or spontaneous generation. But in the tradition of the great
+books,  theologians  like  Augustine  and  Aquinas  do  not attribute to God any
+special  acts  of  creation  after the original production of the world, THE GRE
+except to explain the origin of individual human souls.
+
+"Nothing  entirely  new  was  afterwards  made by God," Aquinas writes, "but all
+things  subsequently  made  had in a sense been made . . . before in the work of
+the six days Some existed not only in matter, but also in their causes, as those
+individual creatures that are now generated existed in the first of their kind.
+
+Species  also  that  are  new, if any such appear, existed beforehand in various
+active  powers;  so  that  animals, and perhaps even new species of animals, are
+produced  by  putrefaction by the power which the stars and elements received at
+the  beginning.  Again,  animals  of  new  kinds  arise  occasionally  from  the
+connection  of  individuals  belonging  to different species, as the mule is the
+offspring  of  an  ass  and  a  mare,  but even these existed previously m their
+causes, in the work of the six days."
+
+WHETHER  OR  NOT the theologian's conception of an historical development of the
+forms of life conforms to the evolutionist's hypothesis, even though it does not
+offer  the  same  type of explanation, is a matter which the reader of the texts
+must  decide.  But  one  issue,  which  still remains to be discussed, can leave
+little doubt of a basic controversy between Darwin and some of his predecessors,
+especially  the theologians. It concerns the origin and nature of man. It can be
+stated m terms of two views of human nature. One is that man is a species in the
+philosophical  sense,  essentially and abruptly distinct from brute animals; the
+other,  that  man  is a species in the biologist's sense, and differs from other
+animals  only  by continuous variation. On the first view, either man would have
+to  be  created,  in body as well as soul; or if the human species has an origin
+which  in  part  or  whole  involves the operation of natural causes, it must be
+conceived as emerging from a lower form of The rational soul, Aquinas maintains,
+"canlife.  not  come  to  be  except by creation." But it is not only man's soul
+which,  according  to  Aquinas, "cannot be produced save immediately by God." He
+also  insists  that  "the  first formation of the human body could not be by the
+instrumentality  of any created power, but was im- AT IDEAS mediately from God,"
+He  does  not  reject  the  suggestion of Augustine that the human body may have
+preexisted  in other creatures as an effect preexists in its causes. But he adds
+the  qualification  that  it  preexists  in  its  causes only in the manner of a
+"passive  potentiality,"  so that "it can be produced out of pre-existing matter
+only by God." A Christian theologian like Aquinas might entertain the hypothesis
+of  emergent  evolution  as  applied  to  the  human organism, but only with the
+qualification  that  natural  causes  by  themselves  do  not  suffice  for  the
+production of man. On the second view, which is Darwin's, man and the anthropoid
+apes  have  descended  from a common ancestral form which is now extinct, as are
+also  many  of the intermediate varieties in the chain of development unless, as
+it  is  sometimes  thought,  certain  fossil  remains supply some of the missing
+Jinks. "The great break in the organic chain between man and his nearest allies,
+which  cannot  be  bridged over by any extinct or living species, has often been
+advanced,"  Darwin  admits,  "as  a  grave  objection  to the belief that man is
+descended  from  some  lower  form; but this objection," he continues, "will not
+appear of much weight to those who, from general reasons, believe in the general
+principle  of  evolution.  Breaks  often  occur in all parts of the series, some
+being  wide, sharp and defined, others less so m various degrees, as between the
+orang  and its nearest allies between the Tarsius and the other Lemundae between
+the  elephant,  and  in  a  more  striking manner between the Ornithorhynchus or
+Echidna,  and  all  other  mammals." Furthermore, Darwin insists, no one who has
+read Lyell's Antiquity of Man "will lay much stress ... on the absence of fossil
+remains";  for Lyell has shown "that in all the vertebrate classes the discovery
+of  fossil remains has been a very slow and fortuitous process. Nor should it be
+forgotten  that  those  regions  which  are  the  most  likely to afford remains
+connecting  man  with  some  extinct  ape-like  creature,  have  not as yet been
+searched  by  geologists." On either of these two conflicting views, the organic
+affinities  between  man  and the most highly developed mammals would be equally
+intelligible,  though  they  would  be  differently  interpreted  by Aquinas and
+Darwin. But ac- CHAPTER 24: EVOLUTI cording to the doctrine of man's creation by
+God, or even on the hypothesis of emergent evolution, there need not be strictly
+speaking,  there  cannot be a missing link between ape and man, for the emergent
+species  is  a  whole  step  upward in the scale of life. Man is thus not one of
+several  organic  types  which  have  become  species  through the extinction of
+intermediate  varieties,  and  hence  he  differs  from  other animals not in an
+accidental, but rather in an essential manner that is, he differs in kind rather
+than  degree.  This issue concerning human nature is discussed from other points
+of  view  in  the chapters on ANIMAL and MAN. Here the issue, stated in terms of
+man's  origin, seems to involve three possibilities: special creation, evolution
+by  descent  from  a  common  ancestor,  and emergent evolution. But these three
+possibilities  apply  not  only to man, but to the origin of every species which
+did  not  exist  at the first moment of life on earth. The hypothesis of special
+creation  does  not  seem  to  be  held  by the theologians, at least not in the
+tradition  of  the  great  books.  The  hypothesis  of emergent evolution raises
+questions  concerning the factors natural or supernaturalwhich must be operative
+to  cause the emergence of higher from lower forms of organic matter. Whether or
+not  Aristotle  and  Aquinas can supply an answer to these questions in terms of
+their theory of matter's
+
+OUTLINE OF TOPICS
+
+1. The classification of animals
+   1a. Comparison   of genealogical       classification   with other types of taxonomy: the
+   phylogenetic series
+   1b. The criteria for distinguishing races or varieties, species, genera, and all higher
+   taxonomic groupings
+
+2. Genetic variation in       the course of generations
+   2a. Comparison of variation under conditions of natural and artificial breeding
+   2b. Characteristicswhich are more and less variable genetically: their bearing on
+   the distinction of races, species, and genera
+
+3. The process of heredity
+   3a. The inheritance of acquired characteristics: the use and disuse of parts
+   PA01
+   3b. The inheritance and variability of instincts
+   3c. Interbreeding and crossbreeding: hybridism and sterility
+   3</.
+   Atavisms and reversions to ancestral type
+   3d. Marked and abrupt mutations
+   in a single generation as opposed to the continuous
+   accumulation of slight and imperceptible variations
+
+4. The problem of evolution: the origin of plant and animal species
+4<a.
+The question of ultimate origins: the creation of primordial life in one or many
+forms; the original generation of life from inorganic matter
+   4a. The fixity or the mutability of species
+   4?. The origin       of new forms of life: special creation, spontaneous generation, or
+   descent with modification from older forms
+   .
+   4*/.
+   The direction of evolution: progress and recession
+
+5. The theory of evolution: the origin of new species from a common ancestry
+   5a. The struggle for existence:
+   its causes   and consequences
+   (1) Natural selection: the survival of the fittest
+   (2) The extinction of intermediate varieties
+   (3) Difficulties with
+   the theory of natural selection: its limitations
+   5& Competition in mating: sexual selection
+   5b. The geographical and physiological factors in breeding: accessibility, fertility, and
+   sterility
+
+6. The facts of evolution: evidences bearing on the history of life on earth
+   6a. The geological record: the significance of fossil remains
+   6b. The geographical distribution of the forms of life in relation to the genealogy of
+   existing species
+   6c. Comparative anatomy and embryology: the meaning of rudimentary or vestigial
+   organs and functions
+
+7. The origin
+and development of man
+   7a. The doctrine of man's special creation: in body, in soul
+   7& The theory of the evolutionary origin of man from lower forms of animal life:
+   descent from an ancestor common to man and the anthropoids
+   (1) Anatomical, physiological,    and embryological evidences of an organic af-
+   finity between man and other mammalian forms of life
+   (2)   Falcon tological evidences: the missing link in man's ancestry
+   (3) Psychological evidences: the human mind in relation to animal intelligence
+   7b. Biological       evolution in the course of human generation: from prehistoric to
+   historic man
+
+CROSS-REFERENCES  For:  Other discussions of the classification of animals,
+see ANIMAL 2a-2c; LIFE AND DE
+
+and for the distinction between species and genera in relation to definiti
+
+tion, see DEFINITION la, 20, 2d; RELATION 53(4); SAME AND OTHER 33(1).
+
+Other considerations of the problem of heredity, see ANIMAL 10; FAMILY 6b; H
+
+Matters relevant to the origin of life, and of the major forms of life, see
+
+LIFE AND DEATH 2, 3a.
+
+Another treatment of the conflict of organisms in the struggle for existence
+
+3C '
+
+Matters relevant to the origin of man and to his affinity with other animals
+
+1c(2); MAN la-1c, 4b-4c, 8-8c; MIND 3a-3b; SOUL 2c(2)-2c(3).
+
+Evolution in relation to the idea of progress, see PROGRESS 2; and for matte
+
+and mental evolution in human history, see HISTORY 4b; MAN pc; MIND 3c; PR
+
+6; TIME 8a.
+
+ADDITIONAL READINGS
+
+Listed below arc works not included in Great Booty of the Western World, bu
+
+idea and topics with which this chapter deals. These works are divided into
+
+I. Works by authors represented in this collection.
+
+II. Works by authors not represented in this collecti
+
+For the date, place, and other facts concerning the publication of the work
+
+the Bibliography of Additional Readings which follows the last chapter of T
+
+E. HARTMANN. Philosoph
+
+*
+
+LEWES.  Problems  of Lif AUGUSTINE. DC Gcnesi ad Litteram ROMANES. Mental Evolut
+GOETHE. Metamorphose der Pflanzen S. BUTLER. Darwin Amon
+
+C. R. DARWIN. Foundations of the Origin of Species .
+
+Evolution, Old a
+
+A Posthumous Essay on Instinct
+
+. .
+
+Note-Books
+
+The Variation of Animals and Plants Under
+
+. C. S. PEIRCE. Collecte
+
+Domestication 287-317 ENGELS. Dialectics of Nature FRAZER. The Golden Bou
+
+WEI SM ANN. Studies in
+
+**
+
+.
+
+Essays  upon  H  LINNAEUS.  Systema  Naturae  Problems E. DARWIN. Zoonomia . The
+Germ-Plas  BUFFON. "Epochs of Nature," in Natural History T. H. HUXLEY. Man's Pl
+LAMARCK.  Zoological  Philosophy  .  Darwmiana  CUVIER.  The  Animal  Kingdom  .
+Evolution  and  CHAMBERS.  Vestiges  of  the  Natural  History ofCrea- Copt. The
+Primary Fact
+
+tion FISKE. Essays: Histori TENNYSON. Loclpley Hall VRILS. The Mutation Th
+
+In Memoriam
+
+.  DEWEY.  The  Influence  o  SPENCER.  Progress:  Its Law and Cause Title Essay
+WALLACE. Contributions to the Theory of Natural HOBHOUSE. Mind in Evol
+
+Selection Morals in Evoluti
+
+.
+
+LYELL. Principles BERGSON. Matter and Me
+
+of Geology
+
+. The Geological Evidences of the Antiquity of . Creative Evol
+
+Man  DRIESCH.  The  Science  a  MENDEL.  Experiments  in Plant Hybridization ism
+BAGEHOT. Physics and Politics POULTON. Essays on Evo
+
+ATH  ABIT  36.  ANIMAL 1b, 8a-8b; on and classifica, see OPPOSITION , see ANIMAL
+icrs  bearing  on  social  OGRESS 1b, t relevant to the two groups: on. s cited,
+consult  he  Great Ideas. y ofthe Unconscious, (c) x e and Mind ion tn Animals g
+the  Machines  nd New d Papers, VOL vi, par 13-17, gh, PART n, CH 7; PART vn the
+Theory  of  Descent eredity and Kindred Biological m ace in Nature Ethics ors of
+Organic  Evolution  cal  and  Literaryk  VOL it (9) eory f Darwin on Philosophy,
+ution on mory ution nd Philosophy of the Organlution
+
+CHAPTER 24: EVOLUTION GALTON. Natural Inheritance T. H. MORGAN. Evolution an
+
+.
+
+Essays in Eugenics The Physical Basis of
+
+.
+
+D. H. SCOTT. The Evolution of Plants The Theory of the Gen
+
+.
+
+BATESON. Problems of Genetics The Scientific Basis
+
+.
+
+HENDERSON.  The  Fitness  of  the  Environment  MARETT. Head, Heart and Ha D. W.
+THOMPSON.  On Growth and Form lution SHAW. Man and Superman DOBZHANSKY. Genetics
+and t
+
+.
+
+Back  to  Methuselah ADLER. Problemsfor Thomist C. L. MORGAN. Emergent Evolution
+MAYR.  Systematics  and  the  L.  T. MORE. The Dogma of Evolution Viewpoint of a
+Zoolog SMUTS. Holism and Evolution S. HUXLEY. Evolution,
+
+]. McDoucALL. Modern Materialism and Emergent .
+
+Evolutionary Et
+
+Evolution  B.  RUSSELL.  Religion and S H. G. WELLS, J. HUXLEY, and G. P, WELLS.
+Repro- Human Knowledge, Its
+
+.
+
+duction,  Genetics  and  the Development of Sex PART I, CH 4 M. R. COHEN. Reason
+and  Nature,  BK  n,  CH  3  KEITH. A New Theory of Hum d Genetics Heredity e of
+Evolution  nds  in Human Evohe Origin of Species s: The Problem ofSpecies Origin
+of  Speciesfrom  the ist the Modern Synthesis, CH 10 hics cience, CH 3 Scope and
+Limits, an Evolution

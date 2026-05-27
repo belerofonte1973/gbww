@@ -1,0 +1,717 @@
+INTRODUCTION
+
+word  "judgment"  has  a  range  of  meanTHE which ings includes three principal
+vanants  referring to a quality of the mind, (i) the mind, and (3) an act of the
+(2)  a  faculty  of  mind.  Of  these  three  meanings, it is the third which is
+extensively  considered  in  this  chapter; and it is this meaning of "judgment"
+which  many  writers  use  the  word  "proposition"  to  express. They sometimes
+substitute  the  one word entirely for the other; sometimes they use both words,
+not  as  strict synonyms, but to express distinct yet closely related aspects of
+the same fundamental phenomenon. The sense in which judgment is a quality of the
+mind  is  the  sense  in  which  we ordinarily speak of a person as having sound
+judgment  or  poor  judgment. "We credit the same people," Aristotle says, "with
+possessing judgment and having reached years of reason and with having practical
+wisdom  and  understanding."  To  be  "a  man  of  understanding  and of good or
+sympathetic  judgment,"  he  continues, is to be "able to judge about the things
+with which practical wisdom is concerned."
+
+The capacity to judge well concerning what is to be done is often connected with
+the  capacity  to  deliberate  about  the  advantages and disadvantages or other
+circumstances  relevant  to  the  action  in  question.  It  may  or  may not be
+accompanied  by  a  capacity  to  resolve  thought  into  action,  to carry into
+execution  the decision which judgment has formed. These three qualities of mind
+dehberateness, judgment, and decisiveness are conceived by Aristotle and Aquinas
+as  belonging  together as parts of the intellectual virtue they call "prudence"
+or  "practical  wisdom." The qualities may occur separately, but the prudent man
+will possess all three. This meaning of "judgment" is reserved for discussion in
+the  chapter  on PRUDENCE; and in the chapter on LAW will be found the consider-
+ation  of  the judgment which a court renders the judgment which is the decision
+of a judge when he applies the law to the particular case. In the legal sense of
+a  judicial  decision,  judgment reflects not so much the quality of the judge's
+mind  as  his duty and authority to dispose of the case and to have his decision
+executed  by  the  appropriate  officers  of  the law. The legal significance of
+judgment  is  not  primarily  psychological  or  logical; and, just as the moral
+consideration  of judgment falls under prudence, the legal consideration is also
+more appropriately developed in the context of other ideas. We are left with the
+meanings  which  belong  to  psychology, logic, and the theory of knowledge. The
+sense  in  which  "judgment"  designates  a  faculty  or  function of the mind a
+distinct sphere of mental operation is much more special than the sense in which
+"judgment"  or  "proposition"  signifies  a  particular  act  of the mind in the
+process  of  knowing  or  in the verbal expression of that process. Many authors
+discuss  the  kinds  of  judgment  which  the  mind  makes,  and  the  kinds  of
+propositions  it  forms  and asserts or denies, but only a few notably Locke and
+Kant  use the word "judgment" to name a mental faculty. Locke, for example, says
+that  "the  mind has two faculties conversant about truth and falsehood." One is
+the  faculty  of knowing; the other of judging. "The faculty which God has given
+man  to  supply  the  want  of  clear and certain knowledge, in cases where that
+cannot  be  had,  is  judgment:  whereby  the  mind takes its ideas to agree and
+disagree,  or,  which  is the same, any proposition to be true or false, without
+perceiving  a  demonstrative  evidence  in  the  proofs." The way in which Locke
+distinguishes  between  knowing  and  judging  and the fact that he relates this
+distinction  to  the  difference  be-  835  836  tween certainty and probability
+suggest  the  paralleldistinction  between knowledge and opinion. The faculty of
+judgment  for Locke is the equivalent of what other writers treat as the forming
+of opinions.
+
+Kant  also  makes  judgment  a  faculty.  Along  with  understanding and reason,
+judgment  is one of the three faculties of cognition. It has a distinct function
+of  its  own and is coordinate with the other two. As the laws of nature are the
+work  of  the understanding in the sphere of speculative reason; as the rules of
+the  moral law are the work of the reason in the practical sphere, wherein it is
+related to the faculty of desire; so the purposiveness of nature comes under the
+faculty  of  judgment  which operates in relation to the faculty of pleasure and
+pain. Kant divides all the faculties of the soul into "three which cannot be any
+further derived : from one common ground the faculty oftyowledge, the feeling of
+pleasure and pain and the faculty of desire" He sees each of the three cognitive
+functions  (of  understanding,  judgment,  and reason) as standing in a peculiar
+relation  to  these  three  primary faculties. The faculty of judgment functions
+with  respect  to  pleasure  and  pain,  which  is connected with the faculty of
+desire.  Yet  the  aesthetic  judgment of beauty and the theological judgment of
+purposiveness  in nature are of a speculative rather than a practical character.
+Because  of these two related facts, Kant holds that "the judgement in the order
+of  our  cognitive  faculties,  forms a mediating link between Understanding and
+Reason."
+
+Kant,  perhaps more than any other thinker, makes judgment both as a faculty and
+as an act one of the central terms in his philosophy.
+
+It  is  pivotal  in  each  of  the  three  critiques,  but it is the Critique of
+Judgement  which  serves to connect the Critique of Pure Reason and the Critique
+of  Practical  Reason.  "The  Understanding legislates a priori for nature as an
+object of sense for theoretical knowledge of it in a possible experience. Reason
+legislates a priori for freedom and its peculiar causality; as the supersensible
+in  the  subject,  for  an  unconditioned  practical knowledge. The realm of the
+natural  concept under one legislation, and that of the concept of freedom under
+the  other,  are  entirely removed from all mutual influence which AS they might
+have upon one another (each according to its fundamental laws) by the great gulf
+that  separates the supersensible from phenomena." It is the judgment, according
+to  Kant,  which  "furnishes the mediating concept between the concept of nature
+and that of freedom." KANT'S THEORY of the faculties of understanding, judgment,
+and  reason  is  so  complex  a doctrine that it cannot be readily compared with
+other  analyses  of  the capacities or functions of mind. His threefold division
+bears  a  superficial  perhaps only a verbal resemblance to Aquinas' division of
+mental  acts  into  conception,  judgment,  and reasoning. According to Aquinas,
+judgment is the second of the three acts of a single cognitive faculty variously
+called  "mind"  or  "intellect"  or  "reason."  This  faculty, he writes, "first
+apprehends  something  about a thing, such as its essence, and this is its first
+and  proper  object;  and  then  it  understands  the properties, accidents, and
+various  dispositions  affecting  the  essence.  Thus it necessarily relates one
+thing  with  another  by  composition  or division; and from one composition and
+division  it  necessarily proceeds to another, and this is reasoning." The first
+act  of the mind is conception, i.e., the simple apprehension of the essence and
+properties of a thing. Judgment, the second act, unites or separates concepts by
+affirming  or  denying one of another. As in the Kantian analysis, judgment is a
+kind  of  mediating link; for after the judgment is formed by what Aquinas calls
+the  "composition or division" of concepts, it in turn serves as the unit of the
+mind's  third  act,  which  is reasoning. Reasoning is the process of going from
+judgment  to judgment. The act of judgment is that act of the mind, and the only
+act,  which  can  have the quality of truth or falsity. "Truth," Aquinas writes,
+"resides m the intellect composing and dividing"; for when the intellect "judges
+that  a thing corresponds to the form which it apprehends about that thing, then
+it  first knows and expresses truth. ... In every proposition," the mind "either
+applies  to*  or  removes  from,  the  thing  signified by the subject some form
+signified by the predicate." Moreover, the judgment involves assertion or denial
+as  the  CHAPTER 41: JUD concept docs not. Whatever truth there is implicitly in
+concepts  must  be  explicated  in  judgments and the truth of the conclusion in
+reasoning  depends  upon  the truth of the judgments which are the premises. The
+judgment,  therefore,  is  the  basic unit of knowledge. On this last point Kant
+seems  to  be  in  agreement with earlier writers. It is possible, therefore, to
+compare   Kant's   classification   of   judgments   or  propositions  with  the
+classifications  of  Aristotle, Descartes, or Locke. But it is necessary, first,
+to  consider  the  relation  between judgment and proposition. After that we can
+examine  the  difference between theoretic and practical judgments. With respect
+to  the  theoretic judgment (or proposition), we shall be able to state opposite
+views of the nature of the judgment and diverse views of the formal structure of
+judgments,  their  material  content,  their  relation to one another and to the
+whole process of knowing.
+
+THE SENTENCE "all men are mortal" can be interpreted as expressing a judgment or
+a  proposition.  From certain points of view, the choice of interpretation makes
+no  difference;  for  example, it does not matter whether, in a consideration of
+"all  men are mortal" and "some men are not mortal," the comparison is expressed
+in  terms  of  universal  and particular, affirmative and negative, judgments or
+propositions,  or  whether  it is said that these are contradictory judgments or
+contradictory  propositions. The basic problems of logic seem to be conceived in
+the  same way by writers like Aristotle and Locke, who tend to use "proposition"
+in  place  of  "judgment," and by writers like Aquinas, Descartes, and Kant, who
+tend to use both words with some difference in meaning. What is the difference ?
+It is sometimes understood as a difference between an act of the mind, asserting
+or  denying, and the subject matter being asserted or denied. The proposition is
+that  which  may  be  either  asserted  or  denied  or ; m the third alternative
+stressed  by  Descartes,  the mind may suspend judgment and merely entertain the
+proposition.  It  may decline to judge it true or false, and so refuse to assert
+or  deny  it.  The  fact  that  the  proposition is itself either affirmative or
+negative  does  not  signify  its assertion or denial by a judgment of the GMENT
+mind,  for  an  affirmative  proposition  can  be  denied  and a negative can be
+affirmed.  Judgment adds to the proposition in question the mind's decision with
+respect  to  its  truth  or  falsity.  That  decision  may  be right or wrong. A
+proposition which is in fact true may be denied. The truth of the proposition is
+unaffected by the falsity of the judgment, or if the mind suspends judgment on a
+proposition  which  is true, the truth of the proposition has failed to elicit a
+judgment.  This  seems to confirm the separation between the proposition and the
+judgment.  Sometimes  the difference between the judgment and the proposition is
+found  in  the  difference  between  the mind's act of "composing" or "dividing"
+concepts and the formulation of that act in words. On this view, the proposition
+is  related  to the judgment as the term to the concept, as the physical to I he
+mental  word, as language to thought. In consequence, there is no separation for
+either  the  judgment  or  the proposition between that which can be asserted or
+denied  and  the  assertion  or  denial  of  it.  The affirmative judgment ts an
+assertion, the negative a denial; and the same holds for the affirmative and the
+negative  proposition.  But  on  either  theory of the difference, it is thought
+necessary  to  distinguish  between the sentence and the proposition, especially
+when  the  proposition  is  also regarded as a verbal formulation a statement of
+thought  in  words.  This  is  particularly important in a logical treatise like
+Aristotle's,  which  analyzes  terms,  propositionskand  syllogisms  rather than
+concepts, judgments, and reasonings.
+
+In   both   the  Categories,  which  deals  with  terms,  and  the  treatise  On
+Interpretation,  which deals with propositions, Aristotle differentiates between
+a  grammatical and a logical handling of the units of language. His distinction,
+for  example, between simple and composite expressions (words and phrases on the
+one  hand,  and  sentences  on the other) is related to, but it is not identical
+with,   his  distinction  between  terms  and  propositions.  Not  every  simple
+expression  can  be  used  as a term. For example, prepositions and conjunctions
+cannot  be  used  as terms, as nouns and verbs can be. Nor can every sentence be
+used  as  a  proposition.  "A  sentence  is  a  significant  portion of speech,"
+Aristotle  writes,  "some parts of which have an independent meaning, that is to
+say,  as  an  utterance,  though not as the expression of any positive judgment.
+Every  sentence  has  .  .  .  meaning,"  he  goes on, "by convention. Yet every
+sentence  is not a proposition; only such arc propositions as have in them truth
+or  falsity.  Thus a prayer is a sentence, but is neither true nor false. Let us
+therefore dismiss all other types of sentence but the proposition, for this last
+concerns  our  presentinquiry,  whereas  the investigation of the others belongs
+rather  to  the study of rhetoric or of poetry." It seems possible to relate the
+two  separate  distinctions  we  have been considering that between sentence and
+proposition and that between proposition and judgment. As the proposition can be
+regarded  as  a  sentence logically (rather than grammatically) construed, so it
+can also be regarded as the linguistic expression of a judgment of the mind. The
+proposition  thus  appears  to  be  a kind of middle ground between language and
+thought, for when a sentence is used for the purpose of stating a proposition it
+can  also  express a judgment. When a judgment is expressed in words, the verbal
+statement is also a proposition. The proposition is thus the logical aspect of a
+sentence  and  the verbal aspect of a judgment. A similar consideration of terms
+in relation to words and concepts occurs in the chapter on IDEA.
+
+WHAT  is  PERHAPS  the  most fundamental division in the sphere of judgments the
+separation  of  the  practical from the theoretic or speculativecan be initially
+explained  by  reference  to  the  forms  of language. Aristotle 's remark about
+sentences  and  propositions  tends  to  identify  propositions with declarative
+sentences.  Sentences  in  the  subjunctive  mood  state  prayers or wishes, not
+propositions. An interrogative sentence asks a question to which the answers may
+be  propositions,  or  they  may be hopes and deThe imperative sentence issues a
+comsires.  mand  to act in a certain way, whether the command is a direction for
+others  or  a decision for :nc's self. This last type of sentence represents the
+practical mood of thought as well as speech thought concerned with actions to be
+done  r  not  done, rather than with what does or does lot exist. The imperative
+sentence  is  not  the  only  kind of practical statement. It is merely the most
+terse and emphatic. It is also the expression of that type of practical judgment
+which  most  immediately  precedes action itself, or the execution of a command.
+There  are  other  sentences  which,  because they are apparently declarative in
+form,  conceal  their  imperative  mood.  Yet upon examination their essentially
+practical  rather than theoretic significance can be discovered. Sentences which
+contain the words "ought" or "should" are of this sort, e.g., "Men ought to seek
+the  truth,"  "You  should  work  for  peace,"  "I ought to make this clear." By
+omitting  "should"  or "ought," these sentences can be changed into the strictly
+declarative  mood of theoretic propositions, e.g., "Men do seek the truth," "You
+will  work  for peace," "I shall make this clear." They can also be made plainly
+imperative,  e.g., "Seek the truth," etc. The chief difference between the blunt
+form  of  the imperative and its indicative expression using "ought" or "should"
+is  that  the  latter indicates the person to whom the command is addressed. The
+contrast in significance between a declarative and an imperative statement does,
+therefore,   convey   the  distinction  between  a  theoretic  and  a  practical
+proposition or judgment. Kant's further division of practical judgments into the
+hypothetical  and  the  categorical  simply  differentiates commands or "oughts"
+which  involve  no  preamble  from  those  which propose that action be taken to
+achieve a certain end, or which base a direction to employ this or that means on
+the   supposition  that  a  certain  end  is  desired  or  sought.  Examples  of
+hypothetical  or conditional imperatives would be such judgments as "If you want
+to  be  happy,  seek  the  truth"  or "Seek the truth in order to be happy." The
+distinction  between  theoretic  and pracjudgments is currently made in terms of
+tical  the contrast between statements of fact and statements of value or, as in
+judicial  procedure,  between statements of fact and rules of law. A rule of law
+has the form of a general practical statement, usually a conditional rather than
+a categorical imperative; whereas the decision of a court applying the rule to a
+case is a particular practical judgment.
+
+CHAPTER 41 : Beginning with Francis Bacon, the distinction between the theoretic
+and  the  practical  is  also  made  in terms of the difference between the pure
+sciences  and their applications in technology. Technical judgments, prescribing
+the  way  to  make  something  or  produce  a  certain effect, are traditionally
+associated, under the head of the practical, with moral judgments concerning the
+good  to  be sought and the ways of seeking it. Both are prescriptive of conduct
+rather  than  descriptive  of  existence  or nature in the manner of theoretical
+statements.  Thinkers  like  Aristotle, Aquinas, and Kant, who divide science or
+philosophy   into  the  theoretical  disciplines  (e.g.,  physics,  mathematics,
+metaphysics)  and  the  practical or moral disciplines (e.g., ethics, economics,
+politics),  place  the  discussion  of  the  difference  between theoretical and
+practical  judgments  in  the  context  of  other distinctions; as, for example,
+between  the  speculative  and  the  practical  reason, or between theoretic and
+practical  knowledge;  or  in  the  context  of  considering  the kinds of truth
+appropriate  to each, and the modes of inference or demonstration in each. These
+related   distinctions  and  considerations  are  treated  in  the  chapters  on
+KNOWLEDGE,  MIND,  REASONING,  and  TRUTH. For the most part, however, the great
+books  in  the  tradition  of  logic itself do not give an analysis of practical
+judgments or reasoning in any way comparable to their treatment oi the theoretic
+forms  of thought and statement. The problems concerning propositions or logical
+judgments, now to be considered, apply only to the theoretic forms.
+
+Two BASIC ISSUES in the theory of propositions or judgments have their origin in
+the  tradition  of  the  great books, but for their explicit and fulldevelopment
+other  works  must  be  consultedthe  special  treatises on logic, of relatively
+recent  date,  listed  in  the  Additional Readings. One of these two issues has
+already  been  briefly  commented  on,  but  for  the  full  implications of the
+distinction  between  propositions  and judgments one must go to such writers as
+Hegel,  Bradley, Bosanquet, Cook Wilson, W. E. Johnson, and John Dewey, who make
+this distinction the crux of a controversy over the scope of formal logic.
+
+JUDGMENT  The  other basic issue lies in the opposition between what has come to
+be  called  "subjectpredicate  logic"  and  "relational logic." Here one side is
+fully represented by the Organon of Aristotle and by the later books which adopt
+the Aristotelian logic of predication. The other logical theory is intimated but
+not fully developed by such writers as Locke, Hume, Kant, and William James who,
+though   they  sometimes  employ  the  subject-predicate  formulation,  tend  to
+construct  the  unit  of  knowledge  the  proposition  or judgment as a relation
+between  ideas  or  concepts.  The  fact that Kant places substance and accident
+under  the  category  of relation can be taken as exemplifying this tendency, as
+can  Locke's  emphasis  on  the  connection  of,  and  agreement or disagreement
+between,  our  ideas.  Nevertheless, these are at most intimations of the theory
+that  the proposition is a relation of two or more terms, not the application of
+a  predicate  to a subject. As indicated in the chapter on LOGIC, the relational
+theory  does  not receive an adequate exposition until the modern development of
+symbolic  or  mathematical  logic, beginning with the writings of Boole, Jevons,
+and  Venn,  and  culminating in such works as the Pnnapia Mathematica of Russell
+and  Whitehead.  In  the  Aristotelian  logic,  simple propositions consist of a
+subject  and  a predicate what is being talked about and what is said of it. The
+copula  "is" is the sign of predication; it also signifies an affirmation of the
+unity  of  subject  and  1  predicate.  For  example, in "Socrates is a man' the
+predicate man is applied to the subject Socrates,and the unity of being Socrates
+and  being  a  man  is  affirmed.  All  the terms of discourse can be classified
+according   to  their  character  as  subjects  and  predicates;  so,  too,  can
+propositions  be  classified  by  reference to the type of subject- term and the
+type  of predicateterm which comprise them. The formal structure not only of the
+proposition,  but  also of the syllogism, is determined by the order of subjects
+and predicates. "When one term is predicated of another," Aristotle writes, "any
+term  which  is  predicable  of  the  predicate  will  also be predicable of its
+subject."  According  to the theory of the proposition as a relation of terms or
+of   classes,  predication  represents  merely  one  type  of  relationship  the
+membership  of  an  individual  in  a  class,  or  the inclusion of one class in
+another.  There  are  many  other types of relation which, it is held, cannot be
+reduced   to   class-  membership  or  class-inclusion;  as,  for  example,  the
+relationship  stated  by  the  proposition  "John hit James/' or the proposition
+"January comes before February." Propositions can be classified according to the
+number  of  terms involved in a single relationship, or by reference to the type
+of  relation  ivhich  organizes them, whether it is symmetri:al or asymmetrical,
+transitive  or  intransitive, reflexive or irreflexive. In this theory it is the
+:haracter  of  the  relationship,  not  the character )f the terms, which is the
+fundamental element n logical analysis, and this determines the formal structure
+of  inference  as  well as of proposilons. It has been claimed for each of these
+logical  heories  that  it  is  the  more general analysis and hat it is able to
+reduce the formulations of the pposite theory to its own terms or subsume hem as
+a  special  case.  Certainly it is verbally possible to convert all predications
+into   statencnts   of   relationship,   or   all   relational  statenents  into
+subject-predicate  propositions.  But his by itself does not seem to resolve the
+issue  o  the  satisfaction  of  either  theory;  each  side  ontends  that such
+reductions  violate  its fundanental principles. Stated in its most drastic brm,
+the unresolved question is whether there s one logic or two or perhaps more.
+
+VITHIN  THE  tradition  of  Aristotelian  logic,  here are divergent schemes for
+classifying  ropositions  or judgments. So far as the great cooks are concerned,
+this  can  be  best  illustrated  y  mentioning  Kant's  departures in analysis.
+Aristotle  distinguishes  between  simple  and omposite propositions, the former
+consisting  fa  single  subject and predicate, the latter 'compounded of several
+propositions."  For exmple, since the two predicates in the proposiion "This man
+is  good  and  a  shoemaker"  do  lot  form  a  unity,  the sentence expresses a
+conunction  of  two  simple  propositions:  "This man 5 good" and "This man is a
+shoemaker."  Other  ypes  of  compound  propositions are the hypohetical and the
+disjunctive, e.g., "If Socrates is man, Socrates is mortal," and "Either all men
+S  are  mortal  or  no men are mortal." Kant treats these distinctions under the
+head of relation. He calls the proposition which is a "relation of the predicate
+to  the  subject,  categorical"  and  he regards the hypothetical or disjunctive
+judgment  (based on relations of cause and effect or of the parts of a whole) as
+concerned  with  propositions  "in relation to each other." Aristotle classifies
+simple  propositions  by  reference  to their quantity and quality. In regard to
+quantity he distinguishes between the universal (e.g., "All men are mortal") and
+the  particular  (e.g.,  "Some men are mortal"). To these he adds the indefinite
+proposition which leaves the quantity (all or some) undetermined. Under the head
+of  quantity, Kant makes a threefold division according to unity, plurality, and
+totality.  He  adds the singular proposition "Socrates is mortal" to Aristotle's
+particular  and  universal. The difference between the singular on the one hand,
+and  the  particular  and the universal on the other, seems to be represented in
+Aristotle's  thought by the distinction between propositions about an individual
+subject  and  propositions about a universal subject. The quality of categorical
+propositions,  according to Aristotle, is either affirmative (i.e., positive) or
+negative, e.g., "All men are mortal" and "Some men arc not mortal." To these two
+Kant  adds  a  third  type  of  judgment  under the head of quality the infinite
+judgment  which  affirms  a  negative predicate of a subject, e.g., "The soul is
+non-mortal."  Though  Aristotle  recognizes the special character of a term like
+"non-mortal,"  since  it  is  both  negative and indefinite, he does not seem to
+think  that the use of such terms affects the quality of a proposition. Finally,
+Aristotle  divides  propositions according to whether they are simple assertions
+of  fact  or are assertions qualified by the notions of necessity or contingency
+(i.e.,  possibility).  Every proposition, he says, "states that something either
+is  or  must  be  or  may  be  the attribute of something else." The distinction
+between  the necessary and contingent modes of statement has come to be called a
+difference  in "modality," and statements which have one or another modality are
+called  "modal  propositions."  It  is  sometimes  thought that the Aristotelian
+classification   treats   only  necessary  and  contin-  CHAPTER  41  JUDG  gent
+propositions, with their Several opposites, as modal propositions, and separates
+the  simple  or pure assertion from them as non-modal. In contrast to this, Kant
+makes  a  threefold  division  of  judgments  under  the  head  of modality: the
+"problematical"  (i.e.,  the possible, what may be), the "assertoric" (i.e., the
+existent, what is), and the "apodictic" (i.e., the necessary, what must be).
+
+THE   CLASSIFICATION  of  the  types  of  judgment  or  proposition  is  usually
+preliminary   in  logical  analysis  to  a  consideration  of  their  order  and
+connection.  The  formal  pattern of what is traditionally called "the square of
+opposition" is determined by the quality and quantity of the simple propositions
+which  are  therein  related  as  contradictory, contrary, and sub-contrary. Two
+propositions are contradictory if they are opposite in both quality and quantity
+(e.g.,  "All  men are mortal" is contradicted by "Some men are not mortal"). Two
+universal propositions are contrary if one is affirmative and the other negative
+(e.g.,  "All  men  are  mortal"  is  contrary  to  "No  men are mortal"); and an
+affirmative  and a negative particular proposition are related as sub-contraries
+(e.g., "Some men are mortal" and "Some men are not mortal").
+
+The significance of these three basic relationships for the truth and falsity of
+the  opposed  propositions is discussed in the chapter on OPPOSITION; and in the
+chapter  on  NECESSITY  AND CONTINGENCY the special problems of opposition among
+modal  propositions  are  examined. Other than their opposition, the only formal
+relationship  of  propositions or judgments occurs in the structure of inference
+or  reasoning.  According  to  the  traditional analysis, the implication of one
+proposition  by  another  insofar  as  that is determined by the form of each is
+immediate inference. In contrast, the pattern of mediated inference or reasoning
+always  involves  at  least three propositions, ordered not only with respect to
+the  sequence  from  premises  to  conclusion,  but  also by the relation of the
+premises  to  one  another.  These  matters  are  discussed  in  the  chapter on
+REASONING.
+
+With  respect  to their origin, status, or import, judgments or propositions are
+subject  to  MENT further distinctions in type The certainty or probability with
+which  propositions  are  asserted  or  judgments  are made is connected by some
+writers  with  the distinction between knowledge and opinion, by others with the
+difference  between  science  and  dialectic,  and by others with the difference
+between  knowing  the  relation  of  ideas  and  knowing matters of fact or real
+existence.  Propositions  which  express  certain  knowledge  are,  furthermore,
+divided  by  some  analysts  into  those  which  are axiomatic, self-evident, or
+immediate  and  those  which are known only by mediated inference, reasoning, or
+demonstration,  not  by  intuition  or  induction. The former are also sometimes
+called  "principles,"  the  latter  "conclusions."  Locke's  distinction between
+"trifling"   and  "instructive"propositions,  like  Kant's  distinction  between
+"analytic"  and  "synthetic"  judgments,  is  made  in the general context of an
+examination  of how we learn or know. Trifling propositions, according to Locke,
+"are  universal  propositions which, though they be certainly true, yet they add
+no  light to our understanding; bring no increase to our knowledge," All "purely
+identical  propositions" are of this sort propositions such as "body is body" or
+"a  vacuum is a vacuum." Such propositions "teach nothing but what every one who
+is  capable  of  discourse knows without being told, viz., that the same term is
+the same term, and the same idea the same idea." They are all ; instances of the
+law  of  identity  or,  as  Locke expresses it, they are all "equivalent to this
+proposition,  viz.,  what  is,  is"  If the trifling proposition, the analytical
+judgment,  or what in our day is called a "tautology," goes beyond the statement
+of  an  identity  between  subject  and  predicate,  it goes no further than the
+explication  of  a  definition.  It  predicates,  Locke  says,  "a  part  of the
+definition  of the word defined,'* as, forexample, in the proposition "Lead is a
+metal."  Analytical  or  explicative  judgments,  Kant  says in the Prolegomena,
+"express  nothing in the predicate but what has already been actually thought in
+the  concept of the subject When . . . bodies are extended,' I have not amI say,
+'all  plified  in the least my concept of body, but have only analyzed it ... On
+the contrary, this judgment, 'All bodies have weight,' contains in its predicate
+something  not  actually thought in the general concept of body; it amplifies my
+knowledge,  by  adding  something  to  my  concept, and must therefore be called
+synthetical." For Locke not all axioms or self-evident propositions are trifling
+or tautological, for some go beyond statements of identity or the explication of
+definitions,  as,  for example, that the whole is greater than the part. Nor are
+they  all useless. Some which Locke distinguishes 'from the rest by calling them
+"maxims,"  are  of  u$e,  he  maintains,  "in  the  ordinary methods of teaching
+sciences  as  far  as they are advanced, but of little or none in advancing them
+further.
+
+They  are  of  use  in  disputes,  for the silencing of obstinate wranglers, and
+bringing  those  contests  to  some  conclusion."  For  Kant  there is a further
+division of judgments into the a posteriori and the a priori, according as their
+truth  is or is not grounded in the data of experience. The former are empirical
+in  origin,  the  latter  transcendental,  that is, they have a foundation which
+transcends  experience.  These  two  types of judgment express two corresponding
+types  of knowledge a priori knowledge by which Kant understands "not such as is
+independent  of this or that kind of experience, but such as is absolutely so of
+all  experience.  Opposed  to  this  is  empirical  knowledge,  or that which is
+possible only a posteriori, that is, through experience."
+
+In  Kant's  view, there is no problem about the truth of analytic judgments, for
+these  have  an  a  priori  foundation  in  the principle of contradiction. (The
+contradictory  of  an  analytic  judgment  is  always self-contradictory.)Nor do
+synthetic  judgments  which  are  empirical  or  a  posteriori raise any special
+difficulties.
+
+The  centralquestion  in  the  theory  of knowledge concerns the possibility and
+validity  of  synthetic  judgments  a  priori.  "If  I  go out of and beyond the
+conception  A,  in  order  to  recognize  another, B, as connected with it, what
+foundation  have  I  to  rest  on,"  Kant asks, "whereby to render the synthesis
+possible?  I  have  here no longer the advantage of looking out in the sphere of
+experience  for  what  I  want.  Let  us  take,  for  example,  the proposition,
+'everything  that  happens has a cause/ In the conception of something that hap-
+AS  pens,  I indeed think an existence which a certain time aiitecedes, and from
+this I can derive analytical judgments. But the conception of a cause lies quite
+outside  the  above  conception, and indicates something entirely different from
+'that  which happens,' and is consequently not contained in that conception. How
+then  am I able to assert concerning the general conception 'that which happens'
+-something  entirely  different  from  that  conception,  and  to  recognize the
+conception  of  cause  although not contained in it, yet as belonging to it, and
+even  necessarily  ?  What  is  here the unknown X, upon which the understanding
+rests  when  it  believes  it  has  found,  outside  the conception A, a foreign
+predicate B, which it nevertheless considers to be connected with it?" It is the
+discovery  and  solution  of  this  problem which Kant believes to be the signal
+contribution  of  his  transcendental  logic of the judgment. It may be wondered
+whether  this problem can be stated in terms other than those peculiar to Kant's
+analytical   vocabulary.   Other  writers  admit  that  propositions  which  are
+particular  and  contingent have "existential import." Their truth concerns real
+existences,  and  so  whether  they are true or not can and must be learned from
+experience.  These  are  like Kant's synthetic judgments a posteriori. Universal
+and  necessary  propositions,  on  the  other hand, are sometimes interpreted as
+having  no  existential  significance.  Instead  of being read as asserting that
+anything exists, they are taken simply as statements of the relation between our
+own  ideas.  These,  for  Locke  and  Hume,  are  like  Kant's a priori analytic
+judgments. What remains is to discover a parallel for Kant's synthetic judgments
+a  priori.  In terms other than Kant's, the most likely parallel seems to be the
+universal  and  necessary  proposition  conceived  as  a statement about reality
+rather  than  about  relations  in the realm of our own concepts. When universal
+propositions  are  so interpreted, two questions arise. How do we establish that
+the  subjects of such propositions really exist? What is the ultimate ground for
+the  truth  of  such  propositions,  the unlimited universality of which outruns
+experience? In these two questions we find a problem which is at least analogous
+to  Kant's problem of the possibility of synthetic judgments a priori CHAPTER 41
+: JUDGMENT
+
+OUTLINE OF TOPICS
+PACB
+1.
+Judgment as an act or faculty of the mind: its contrast with the act of conception or
+with the faculties of understanding and reason
+
+2. The division of judgments in terms of the distinction between the theoretic and the
+practical
+
+3. The analysis of practical or moral judgments: judgments of good and evil, means and
+ends; categorical and hypothetical imperatives
+
+4. The distinction between the aesthetic and the teleological judgment
+
+5. The nature of theoretic judgments
+   5a. The linguistic expression of judgments: sentences and propositions
+   5b. The judgment as a predication: the classification of subjects and predicates
+   5c. The judgment as relational: types of relation
+
+6. The division of theoretic judgments according to formal criteria
+   6a. The division of judgments according to quantity: universal, particular, singular,
+   and indefinite propositions
+   6& The division of judgments according to quality: positive, negative, and infinite
+   propositions
+   6b. The division      of judgments according to modality: necessary and contingent
+   propositions; problematic, assertonc, and apodictic judgments
+   6c. The classification of judgments by reference to relation: simple and composite
+   propositions; categorical, hypothetical, and disjunctive judgments
+
+7. The order and connection of judgments
+   7a. The formal opposition of judgments: the square of opposition
+   7& The conversion of propositions: the problem of immediate inference
+   7b. Reasoning as a sequence of judgments: the chain of reasoning
+
+8. The differentiation of judgments according to origin, ground, or import
+   8a. Self-evident and demonstrable propositions: immediate and mediated, intuitive
+   and reasoned judgments
+   8b. Analytic and synthetic judgments: trifling and instructive propositions
+   8c. A priori and a posteriori^ non-existential and existential judgments; the problem
+   of a priori synthetic judgments
+   8d. The division of judgments into the determinant and the reflective: judgments
+   as constitutive or as regulative
+
+9. Degrees of assent: certainty and probability
+
+10. The truth and falsity of judgments
+
+CROSS-REFERENCES  For: The comparison of judgment with other acts of the mind, s
+REASONING i ; and for the relation of judgment
+
+Discussions relevant to the distinction between theoreti
+
+KNOWLEDGE 6e(i); PHILOSOPHY 2a; PRUDENCE 2a; REASONI
+
+TRUTH  2c;  WISDOM  1b. Other considerations of practical or moral judgments, an
+dence, see GOOD AND EVIL 50-5k KNOWLEDGE 6e(2); PRUDEN
+
+the categorical imperative, see DUTY 5; NECESSITY AND
+
+Other treatments of language in relation to thought, see
+
+18]25a-b; CH 4-14 26a-36d passim, esp ci
+
+26b, CH 7 26d-27d, CH 9 28a-2 [17:1-4Th CH 14 35c-36d / Metaphysics, BK iv, ci
+
+b [ion 25-29] 531c; [1012b1-17] 531d-53
+
+a b CH 8 [ioi2 29- 22] 532 b-d; BK
+
+vi, CH
+
+b 550a,c, BK ix, CH 10 ft
+
+[io5i  34-  i8]  577  /  Soul,  BK  in,  CH  3  (427 b i5-25J 660a; ci 662d-663c
+ARISTOTLE:  Ethics, BK n, CH 7 [1107b27- 352d-353a; BK vi, CH 2 [1139b21-31] 38'
+388a;  CH 3 [1114-18] 388b LUCRETIUS. Nature of Things, BK iv [353-5 48d-51a esp
+[469-521]  50b-51a AUGUSTINE City of God, BK vm, CH 269b-c / Christian Doctrine,
+BK n, CH 31 651d-653b AQUINAS: Summa Theologica, PART i, Q 3 4, REP 2 16d-17c; Q
+13,  A  12  74c-75b;  Q  A 15, REP 3 89b-90b; Q 16, A 2 95c-96b; A ANS and REP 4
+99a-d, A 8, REP 3-4 99d-10 Q 17, AA 3-4 102d-104b, Q 58, A 4, REI 302d-303c, A 5
+303c-304c, Q 85, A i, RE 451c453c; A 5, REP 3 457d-458d, A 6 451 459c; Q 94, A 4
+505a  506a  AQUINAS  Summa  Theologica,  PARI i-ii, Q A 5, REP 3 39a-40a HOB BBS
+Leviathan,  PART i, 56b; 57c; 5 60a; 65b-c MONTAIGNE- Essays, 240c-242a, 259d-26
+271b-272c;  292a-d DLSCARTFS- Rules, xn 18b-25a passim Discourse, PART iv, 52a /
+Meditations,  in,  8 85c, iv 89a-93a esp 90b-91b / Objections c Replies, 124b-c;
+125b-126b;  Dhb  ix  13(  141a,  156d-158a,  168b-d;  215d-216c, 22 230d SPINOZA
+Ethics,  PART  n,  PROP  49  3910-39k  LOCKE  Human  Understanding, BK ir, CH xx
+243c-248b  passim, esp SECT 1-3 243c-24 SECT 19-26 247a-248b; BK in, CH vn, si-c
+283a-b,  BK  iv,  CH  v  329a-331b;  en  vi, SEC 331c-d; SECT 16 336d KANT: Pure
+Reason,  99a-100a,  108a-d;  193s  240b-243c  JAMES.  Psychology,  460a-469b esp
+462b-46  468b-469a;  508a;  638a-b;  879a-881a ee IDEA 2g, 53; KNOWLEDGE 6b(, to
+other  faculties  of  the  mind,  see Mi c and practical judgments, NG 5e-5e(i);
+THEOLOGY  *.  d  of  judgment  in  relation  to  pj  CE  53;  and for the theory
+CONTINGENCY 53(2). IDEA 43 LANGUAGE 7.
+
+;
+
+CHAPTER 41 :
+
+JUDGMENT
+
+For:  The theory of predication and the analysis of subjects and predicates, see
+IDEA 5
+
+AND PARTICULAR 5c.
+
+The relational theory of propositions v see RELATION 40.
+
+Other discussions bearing on the quantity, quality, and modality of proposit
+
+ITY 2b; NECESSITY AND CONTINGENCY 4e(i); UNIVERSAL AND PARTICULAR 5c-5d; a
+
+other considerations of the distinction between the categorical and the hy
+
+judgment and reasoning, see HYPOTHESIS 5; REASONING ab.
+
+Another treatment of the square of opposition, see OPPOSITION 1d(i)-1d(2).
+
+The relation of judgments to one anothet in immediate inference or in reason
+
+ING 43; RELATION 4b.
+
+The distinction between self-evident and demonstrable judgments, see INDUCTI
+
+EDGE 6c(2); PRINCIPLE 2b(2); and for other treatments of the a priori and
+
+#v EXPERIENCE 2d; KNOWLEDGE 6c(4); REASONING 53).
+
+A discussion relevant to the distinction between existential and non-existen
+
+see KNOWLEDGE 63(3).
+
+The problem of the truth and falsity of judgments, or their certainty and pr
+
+KNOWLEDGE 6d(i)-6d(2); OPINION 3a-3b; TRUTH 2e, 3b(2)~3c, ya.
+
+Another consideration of the aesthetic judgment, see BEAUTY 5; UNIVERSAL AND
+
+ADDITIONAL READINGS
+
+Listed below arc works not included in Great Booths of the Western World,
+
+idea and topics with which this chapter deals. These works are divided int
+
+I. Works by authors represented in this collection.
+
+II. Works by authors not represented in this collection
+
+For the date, place, and other facts concerning the publication of the wor
+
+the Bibliography of Additional Readings which follows the last chapter of
+
+SlGWART. LoglC, PART I
+
+AQUINAS. De Propositionibus Modalibus
+
+-
+
+JEVONS. Pure Logic, CH
+
+Studies in Deduct
+
+.
+
+HOBBES. Concerning Body, PART i, CH 3 KANT. Prolegomena to Any Future
+Mctaphysic, par -
+
+LOTZE. Logic, BK i, CH
+
+Outlines of Logic
+
+.
+
+BRADLEY. The Principle
+
+2-3  HEGEL.  Science of Logic, VOL n, SECT i, CH 2 Essays, n-in, vi J.S. MILL. A
+System of Logic, BK i, CH 4-6 J. N. KEYNES. Studies a
+
+PART II
+
+**
+
+BOSANQUET. Logic, VOL CICERO. Academics, n (xlvii) SEXTUS EMPIRICUS. Against the
+Logicians JOHN OF SALISBURY. Metalogtcon
+
+-VENN. Symbolic Logic,
+
+.
+
+Principles
+
+CH 8-10
+
+SuAREZ.  Disputationes Metaphysicae, vm-ix J. C. WILSON. Statement JOHN OF SAINT
+THOMAS. Cursus Philosophicus Tho WHITEHEAD and RUSSELL.
+
+misticus,  Ars Logica, PART i, QQ 5-7 PART i, SECT c, D; P ARNAULD. Logic or the
+Art of Thinking, PART n iv-v LEIBNITZ. New Essays Concerning Human Under- ROYCE.
+The Principles
+
+standing,  BK iv, CH 5 W. E. JOHNSON. Logic, T. REID. Essays on the Intellectual
+Powers  of  Man,  vi MARITAIN. An Introduct W. HAMILTON. Lectures on Metaphysics
+and Logtc, WHITEHEAD. Process and
+
+VOL  ii  (13-14)  DEWEY  et al. Studies i BOOLE. An Investigation of the Laws of
+Thought, CH
+
+J.
+
+21
+
+H. NEWMAN. An Essay in Aid of a Grammar of
+
+-
+
+DEWEY. Essays in Exper
+
+- Reconstruction in
+
+.
+
+Logic, the Theory
+
+.
+
+Assent  M.  R. COHEN. A Preface a; UNIVERSAI ions, see INFINnd foi pothetical ir
+ing,  see  REASON  ON  3;  KNOWL  the a posteriori tial judgments obability, set
+PARTICULAI but relevant to the o two groups: . ks cited, consult The Great Ideas
+-II  2,  7,  10,  12  ive Logic, CH 3-6 2 , i, CH 2 s of Logic, BK i; Tcrmina nd
+Exercises  in  Formal  Logic I, CH I-9 CH 6-8 of Empirical or Inductive LogU and
+Inference, PART n Pnncipia Mathematics ART n, SECT B, c, D, E; PAR of Logic PART
+i,  CH 1-5, 9-10 ion to Logic, CH 2 Reality, PART n, CH 9 n Logical Theory, i-iv
+imental Logic, n-vi, xn-xr Philosophy, CH 6 of Inquiry, CH 6-14 to Logic, n-in

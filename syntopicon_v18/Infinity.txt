@@ -1,0 +1,678 @@
+Chapter  40:  INFINITY  INTRODUCTIO  of  the persistent questions concerning ONE
+infinity  is  whether  we  can  know  or  comprehend  it. Another is whether the
+infinite  exists,  and  if so, to what kind of thing infinity belongs. It is not
+surprising,  therefore,  that  the  discussion  of infinity often borders on the
+unintelligible.
+
+The  idea  of  infinity,  like  the  idea  of eternity, lacks the support of the
+imagination  or  of  senseexperience.  The  fact  that  the  infinite  cannot be
+perceived  or  imagined seems sufficient to lead Hobbes and Berkeley to deny its
+reality. "Whatsoever we imagine is finite" writes Hobbes. "Therefore there is no
+idea,  or conception of anything we call infinite. . . . When we say anything is
+infinite,  we  signify only that we arc not ible to conceive the ends and bounds
+of  the  thing  named,  having  no  conception  of  the  thing,  but  of our own
+inability."
+
+On  similar grounds Berkeley rejects the possibility of infinite division. "If I
+cannot  per:eive innumerable parts in any infinite extension," he writes, "it is
+certain  that  they  are  lot  contained in it: but it is evident, that I rannot
+distinguish innumerable parts in any particular line, surface, or solid, which I
+either  Derceive  by  sense, or figure to myself in my mnd; wherefore I conclude
+that  they  are  not  :ontained in it." But for most of the great writers on the
+subcct,   the   impossibility  of  representing  infinity  md  eternity  to  the
+imagination  does  not  render  them  inconceivable  or meaningless. Yet it does
+iccount  for  the  difficulty  of  grasping  their "neanmg, a difficulty further
+increased  by  the  act  that,  whatever their meaning, infinity and ternity are
+indefinable.  To  define  the  infinite  vould  be  to limit even in thought the
+unimited.  The  notion  of  infinity  involves greater perplexities than that of
+eternity.  The  meaning  of  N eternity is weighted with the mystery of God, the
+world,  and  time.  All  these  affect  the  conception of infinity; but for the
+infinite  there  are  also  the  mysteries of number and of space, of matter and
+motion. In the sphere of quantity, or of things subject to quantity, infinity is
+itself the source of mystery, or at least the root of difficulty in analysis. It
+is the central term in the discussion of the continuous and the indivisible, the
+nature  of  series  and of limits. As INDICATED in the chapter on ETERNITY, that
+idea  in each of its applications seems to have one or the other of two meanings
+(i)  the  meaning in which it signifies infinite time, time without beginning or
+end,  and (2) the meaning in which it signifies the timelessness or immutability
+of  being. Both meanings are negative, so far as our understanding is concerned.
+Yet what is signified by the second is in itself something positive, at least in
+the  opinion  of  those  who  think that to be exempt from change entails having
+every  perfection or being lacking in nothing. This split in meaning also occurs
+in  the  idea  of  infinity.  As  applied  to being, the term infinite signifies
+something  positive,  even though our understanding of what is signified remains
+negative  or,  at  best,  analogical.  An  infinite  being is one which lacks no
+attribute that can belong to a being. This is the positive condition of absolute
+perfection.  The  infinite  here  still  means  the unlimited, but that which is
+unlimited  in  being has no defect. To lack deficiencies is to be perfect. It is
+in this sense that Spinoza defines God as "Being absolutely infinite, that is to
+say,  substance  consisting  of infinite attributes, each one of which expresses
+eternal and infinite essence." Like Spinoza, Aquinas maintains that "besides God
+nothing  can be infinite." But he CHAPTER 40: INFI distinguishes the absolute or
+positive  sense  in  which  God  alone is infinite from the sense of the word in
+which it can be said that "things other than God can be relatively infinite, but
+not  absolutely infinite." This other meaning, according to Aquinas, is not only
+relative  but  negative,  for  it  connotes  "something imperfect," It signifies
+indeterminacy or lack of perfection in being. What Aquinas calls the relative or
+potential  infinite,  he attributes to matter and to quantitiesto bodies, to the
+magnitudes  of  space  and  time,  and  to  number.  This  sense  of  "infinite"
+corresponds to that meaning of "eternal," according to which time consists of an
+endless  series  of  moments,  each  having  a predecessor, each a successor, no
+matter  how far one counts them back into the past or ahead into the future. But
+in the field of quantities other than time, the meanings of infinite and eternal
+part  company.  There is, of course, some parallelism between infinite space and
+infinite  time,  insofar as an infinite extension is one which does not begin at
+any  point  or end at any; but the consideration of space and number leads to an
+aspect  of  infinity which has no parallel in the consideration of eternity. "In
+sizes  or  numbers,"  Pascal  writes,  "nature  has set before man two marvelous
+infinities.  .  .  .  For,  from  the fact that they can always be increased, it
+follows  absolutely  that they can always be decreased. ... If we can multiply a
+number  up  to 100,000 times, say, we can also take a hundred thousandth part of
+it by dividing it by the same number we multiply it with, and thus every term of
+increase will become a term of division by changing the integer into a fraction.
+So   that   infinite   increase  includes  necessarily  infinite  division."  As
+endlessaddition  produces the infinitely large, so endless division produces the
+infinitesimal  or  the infinitely small. A trillion trillion is a finite number,
+because the addition of a single unit creates a larger number. The fact that the
+addition  of  another unit produces a different number indicates that a trillion
+trillion has a determinate size, which is the same as saying that it is a finite
+number.
+
+An  infinite  number  cannot  be increased by addition, for it is constituted in
+thought at NITY least as d number larger than the sum of any two finite numbers;
+which  is another way of saying that it is approached by carrying on the process
+of   addition   endlessly.   The   size  of  an  infinite  number  is  therefore
+indeterminate.  What  Galileo  points out about two infinite quantities seems to
+hold  for an infinite and a finite quantity. He asks us to consider the totality
+of  all integers (which is infinite) and the totality of their squares (which is
+also infinite). On the one hand, there appear to be as many squares as there are
+integers;  on the other hand, the totality of integers includes all the squares.
+Precisely  because  "the  number of squares is not less than the totality of all
+numbers,  nor  the  latter  greater  than the former," Galileo insists that "the
+attributes  'equal,'  'greater,'  and  'less' are not applicable to infinite,but
+only  to finite quantities." Nor does the sense in which one finite quantity can
+be  greater  or  less  than another that is, by a determinate difference between
+them  apply  in the comparison of a finite and an infinite quantity. The latter,
+being indeterminately large, is indeterminately larger than any finite quantity.
+These  remarks  apply  to  the  infinitely  small  as well. The infinitesimal is
+immeasurably  small  or indeterminately less than any finite fraction, no matter
+how  small, because its own size is indeterminate. The finite fraction, itself a
+product of division, can be divided again, but if an infinitesimal quantity were
+capable  of  further division, it would permit a smaller, and since that smaller
+quantity would be a determinate fraction of itself, the infinitesimal would have
+to  be  determinate  in  size.  Since  that is not so, the infinitesimal must be
+conceived  as the indivisible or as the limit approached by carrying on division
+endlessly. "Because the hypothesis of indivisibles seems somewhat harsh," Newton
+proposes  an  analysis  in  terms  of  what  he  calls  "nascent  and evanescent
+quantities," or quantities just beginning to be more than nothing or just at the
+point at which they vanish into nothing. "As there is a limit which the velocity
+at  the end of a motion may attain, but not exceed there . . . in all quantities
+and proportions is a like limit that begin or cease to be." Newton warns his 81S
+reader,  therefore, that if he "should happen to mention quantities as least, or
+evanescent,  or  ultimate," the reader is "not to suppose that quantities of any
+determinate  magnitude  are  meant,  but  such  as  are  conceived  to be always
+diminished without end."
+
+Later,   speaking  of  quantities  which  are  "variable  and  indetermmed,  and
+increasing  or  decreasing, as it were, by a continual motion or flux," he adds:
+"Take  care  not to look upon finite quantities as such." The method of fluxions
+provides  an  infinitesimal  calculus on the hypothesis of limits rather than of
+indivisibles.
+
+THROUGH   ALL  THESE  conceptions  of  infinitymetaphysical,  mathematical,  and
+physical  run  the  paired notions of the unlimited and of limits approached but
+not  attained. The finite is neither unlimited nor does it insensibly approach a
+limit. There are also the opposite notions of the perfect and the indeterminate.
+The  finite  is  neither,  for  it  is  determinate  without being a totality or
+complete.  Though  they  have a common thread of meaning, and though each raises
+similar  difficulties for the understanding, the conception of infinity in being
+or  power,  and  the  conception of infinite for infinitesimal) quantity require
+separate consideration. The same questions may be asked of each, questions about
+the  existence  of  the  infinite  and  about  our knowledge of it, but the same
+answers  will  not be given in each case. There are those who deny the existence
+of  an  actually  infinite  body  or an actually infinite number, yet affirm the
+infinite existence of God. There are those who declare the infinity of matter to
+be  intrinsically  unintelligible,  but  maintain  that God, Who is infinite, is
+intrinsically  the  most  intelligible  object.  They  add,  of course, that the
+infinite  being  of God cannot be comprehended by our finite intellects. On each
+of these points, an opposite view has been taken, but the dispute concerning the
+infinity  of God involves issues other than those which occur in the controversy
+over  the  infinite divisibility of matter or the infinity of space and time. It
+seems  advisable, therefore, to deal separately with the problems of infinity as
+they  arise  with  respect  to  different  objects or occur in different subject
+matters. THE CONCEPTION of God, in the words of Anselm, as a being "than which a
+greater  cannot be conceived" or, in the words of Kant, as an ens realissimum, a
+most  real being expresses the plenitude of the divine nature and existence. The
+mediaeval  thesis,  defended  by Descartes, that God's essence and existence are
+identical,  implies  that  neither is contracted or determined by the other. The
+still  earlier  notion  of  Aristotle,  repeated  by  Aquinas,  that God is pure
+actuality,  carries  with it the attributes of completeness or perfection, which
+are  the  positive  aspects  of immutability or incapacity for change. Spinoza's
+definition  of  substance  as that which exists, not only in itself, but through
+itself and by its very nature, entails the autonomy or utter independence of the
+divine  being.  These  are  so  many  different  ways  of stating that God is an
+infinite  being.  Both  Aquinas  and Spinoza make infinity the basis for proving
+that  there  can  be  only  one  God.  When  Spinoza argues that "a plurality of
+substances   possessing  the  same  nature  is  absurd,"  he  has  in  mind  the
+identification  of  infinite substance with God. "If many gods existed," Aquinas
+writes,  "they  would  necessarily  differ  from  each  other.  Something  would
+therefore  belong  to  one,  which did not belong to another. And if this were a
+privation,  one  of  them  would  not  be  absolutely  perfect; but if it were a
+perfection,  one  of them would be without it. So it is impossible for many gods
+to  exist"  that  is, of course, if infinity a property of the divine nature. is
+Aquinas  makes  this  condition  clear  when he goes on to say that "the ancient
+philosophers,  constrained  as  it  were  by  the  truth,  when they asserted an
+infinite  principle,  asserted likewise that there was only one such principle."
+But  while  it  is impossible for there to be two infinities of being, it is not
+impossible for there to be two, or more, infinite quantities. One explanation of
+this  difference seems to be the actuality or existence of an infinite being, in
+contrast  to  the  conceptual  character of the infinite objects of mathematics,
+which  are  sometimes called "potential infinites" because they are conceived as
+in  an  endless  process  of  becoming,  or as approaching a limit that is never
+reached.  When the physical existence of infinite quan- CHAPTER 40: IN titles is
+asserted,  as,  for example, a universe of infinite extent or an infinite number
+of  atoms,  the  uniqueness  of  these  actual  totalities  seems to follow. Two
+infinite worlds cannot co-exist, though the one world can be infinite in several
+distinct respectsin space or duration, or in the number of its constituents even
+as  the  infinity  of  God, according to Spinoza, involves "infinite attributes,
+each  one  of  which expresses eternal and infinite essence/' Spinoza's argument
+against  two  actual inseems to find confirmation in the posifinities tion taken
+by  Aquinas  that  God's  omnipotence  does  not  include the power to create an
+infinite  world.  God's  infinity,  as  we  have already noted, follows from the
+identity  of  God's  essence  and existence. Since a created being has existence
+added  to  its  essence,  Aquinas  asserts  that  "it is against the nature of a
+created  thing  to  be  absolutely  infinite. Therefore," he continues, "as God,
+although  He  has  infinite  power, cannot make a thing to be not made (for this
+would  imply that two contradictories are true at the same time), so likewise He
+cannot make anything to be absolutely infinite."
+
+On  this  view,  an  infinite  world cannot coexist with an infinite God, if, in
+their  separate  existence,  one  is  dependent  on  the other, as creature upon
+creator. The infinity of the world or of nature, in Spinoza's conception, is not
+separate  from the infinity of God, but consists in the infinity of two of God's
+attributesextension  and thought. In our time there has arisen the conception of
+a  finite  God  a  God  who,  while  the  most perfect being, yet is not without
+capacity  for  growth  or  change, a God who is eternal without being immutable.
+This  conception,  which  in  the light of traditional theology appears to be as
+self-contradictory  as  round squarek has arisen in response to the difficulties
+certain  critics  have  found  in the traditional doctrine of an infinite being.
+They  point  to  the  difficulty  of  understanding  how finite beings can exist
+separate   from,  yet  in  addition  to,  an  infinite  being;  they  also  cite
+difficulties  in the notions of infinite knowledge, infinite power, and infinite
+goodness.
+
+The infinity of the divine omniscience extends to the possible as well as to the
+actual.  But  the  possible includes things which are in- FINITY compatible with
+one  another, things which, in the language of Leibnitz, are not compatible. The
+mcompossiblc  would  thus  seem  to  be cmbraced in the infinite scope of divine
+thought  or  knowledge.  In  the  view  of  one theologian, Nicolas of Cusa, the
+mystery  of  God's  infinity  isbest  expressed  by  affirming  that  in God all
+contradictions  are  somehow  reconciled.  The  infinity  of God's power, or the
+divine omnipotence, also raises questions about the possible and the impossible.
+Is  nothing  impossible  to God or must it be said that there are certain things
+which  not  even God can do, such as reverse the order of time or create a world
+which  shall  be  as  infinite and perfect as himself? In the assertion that God
+cannot  do  the  impossible,  Aquinas  sees  no  limitation  on God's power. The
+impossible,  he writes, does not "come under the divine omnipotence, not because
+of  any  defect  in  the  power  of  God, but because it has not the nature of a
+feasible  or  possible  thing." For this reason, he claims, "it is better to say
+that such things cannot be done, than that God cannot do them." The inability to
+do  the undoable constitutes no violation of infinite power, even as the lack of
+nothing  does  not  deprive infinite being of anything. The infinite goodness of
+God   is   sometimes  set  against  the  fact  of  evil,  or  the  existence  of
+imperfections,  in  the  created world. This aspect of the problem of evil, like
+that  which concerns man's freedom to obey or disobey the divine will, cannot be
+separated  from the fundamental mystery of God's infinity in power and knowledge
+as  well  as  in  goodness. The problem is considered in the chapter on GOOD AND
+EVIL.  The  point  there  mentioned,  that  evil  is  essentially  non-being  or
+deprivation  of  being,  leads  to  one  solution of the problem. It accepts the
+finitude,  and  consequently  the  imperfection,  of  creatures  as  a necessary
+consequence  of  God's  infinity.  The  best  of  all  possible worlds cannot be
+infinitely  good. To MAN ALONE, among all admittedly finite things, has infinity
+been  attributed  and  even  made  a  distinctive  mark of his nature. Does this
+introduce  a  new  meaning of infinity, neither quantitative nor divine ? It has
+seldom if ever been questioned that man is finite in being and power. The limits
+of  human  capacity  for knowledge or achievement are a perennial theme in man's
+study of man.
+
+Yet  it is precisely with regard to capacity that certain writers have intimated
+man's infinity.
+
+Pascal,   for   example,   finds  the  apparent  contradictions  inhuman  nature
+intelligible  only when man is understood as yearning for or impelled toward the
+infinite.  "We burn with desire," he says, "to find solid ground and an ultimate
+sure foundation whereon to build a tower reaching to the Infinite. But our whole
+groundwork  cracks  and  the earth opens to abysses." In this fact lies both the
+grandeur  and  the misery of man. He aspires to the infinite, yet he is a finite
+being  dissatisfied  with his own finitude and frustrated by it. It is sometimes
+said that the touch of infinity in man with the suggestion that it is a touch of
+madness  consists  in  his  wanting  to  be God. Those who regard such desire as
+abnormal  or  perverse interpret it as a misdirection of man's natural desire to
+know  God  face  to  face  and  to  be filled with the love of God in the divine
+presence.  But,  according to the theory of natural desire, the tendency of each
+nature  is  somehow  proportionate to its capacity. If man's restless search for
+knowledge  and  happiness  can be quieted only by the possession of the infinite
+truth  and  goodness which is God, then man's intellect and will must somehow be
+as  infinite  in  nature as they are in tendency. Yet that is not an unqualified
+infinity,  for  the same theologians who teach that man naturally seeks God also
+hold  that man's finite intellect cannot comprehend the infinite being of God as
+God  knows Himself. Nor do they think that man's capacity for knowing and loving
+God can be fulfilled except in the beatific vision, which is a supernatural gift
+rather  than  a  natural achievement. These and related matters are discussed in
+the  chapters  on  DESIRE  and KNOWLEDGE. The great books speak of other objects
+than  God  as  objects  of  man's  infinite  desire. The appetite for money, for
+pleasure,  or for power seems to be an infinite craving which no finite quantity
+of these goods ever satisfies. Two comments are made upon this fact, which is so
+amply evidenced in the human record. One is that man's infinite lust for worldly
+goods  exprcsseeven as it conceals his natural desire for a truly infinite good.
+The other is that these worldly goods are AS seductive objects precisely because
+they are infinite.
+
+Here  the  word "infinite" is used, not in the sense which signifies perfection,
+but  in the quantitative sense which has the meaning of indetermination. Plato's
+division,  in  the Philebus, of goods into the finite and the infinite separates
+measured  and  definite goods from those which need some limitation in quantity.
+Socrates  exemplifies  the  distinction  by reference to the fact that "into the
+hotter  and the colder there enters a more and a less" and since "there is never
+any  end  of them . . . they must also be infinite." In contrast, "when definite
+quantity  is  once  admitted, there can be no longer a " 'hotter' or a 'colder.'
+Such  things, he says, "which do not admit of more or less" belong "in the class
+of  the  limited  or finite." Following the line of this example, Socrates later
+distinguishes  between infinite and finite pleasures, or pleasures without limit
+and those which have some intrinsic measure. "Pleasures which are in excess," he
+says,  "have  no  measure,  but  those which are not in excess have measure; the
+great,  the  excessive  ...  we  shall be right in referring to the class of the
+infinite, and of the more and less," and "the others we shall refer to the class
+which has measure." The fact that the goodness of wealth or of certain pleasures
+is  indeterminate  or  indefinite makes it necessary to determine or measure the
+amount  of  wealth it is good to possess, or the quantity of such pleasure it is
+good  to enjoy. As in the case of desire, so the human intellect is also said to
+be  infinite  in  the sense of reaching to an indefinite quantity. On the theory
+which  he holds that the intellect knows by means of universal concepts, Aquinas
+attributes  to  the  human  mind  "an  infinite  power;  for  it  apprehends the
+universal,  which  can  extend itself to an infinitude of singular things." Each
+universal  signifies what is common to an indefinitely large class of particular
+instances.  There  is  still  another sense in which the intellect is said to be
+infinite,  namely,  by  reason  of  itshaving  the potentiality to apprehend all
+knowable  things.  But  this  is  a  relative  infinity, as is the corresponding
+infinity  of  prime matter, which is conceived as the potentiality for taking on
+all forms. In both cases, the infinite is qualified by a restriction on the kind
+of  things  CHAPTER 40: INFINITY knowablc to the intellect and the type of forms
+receivable in matter. The infinity of prime matter matter totally devoid of form
+is  also  comparable  to the infinity of God in a contrast of extreme opposites:
+the  absolute  indeterminacy  of pure potentiality on the one hand, the absolute
+perfection of pure actuality on the other.
+
+THE  INFINITY  OF  matter  involves  different  considerations  when the problem
+concerns, not prime matter, but material things bodies. The question is twofold.
+Can there be a body of infinite magnitude? Is there an infinite number of bodies
+?  To both questions Aristotle gives the negative answer, while Spinoza seems to
+answer  the first, and Lucretius the second, affirmatively. may be qualified, of
+Spinoza's affirmation course, by his conception of infinite body as an attribute
+of  God.  But  there  is  no  qualification  on  Lucretius'  assertion that "the
+first-beginnings  of  things are infinite," unless it is his statement that "the
+first-beginnings  of  things  have different shapes, but the number of shapes is
+finite."  It  is  only the number of atoms which is infinite, not their variety.
+Aristotle  presents  many arguments against the existence of an infinite body or
+an  infinite  number  of things, all of which ultimately rest on his distinction
+between an actual and a potential infinite. It is not that infinity in magnitude
+or  multitude  is  impossible for he affirms the infinity of time and he insists
+upon  the  infinite  divisibility  of matter but rather that if an infinite body
+existed  its  infinity  would have to be actual. Its actuality would necessarily
+involve  certain  determinations, especially those of dimension and place, which
+would  be  inconsistent  with  the  indeterminacy  of the infinite. Similarly, a
+multitude of co-existing things unlike the moments of time which do not co-exist
+cannot be infinite, because their co-existence implies that they can be actually
+numbered, whereas their infinity implies that they are numberless. The potential
+infinite,  Aristotle  writes, "exhibits itself in different ways in time, in the
+generations  of man, and in the division of magnitudes. For generally," he says,
+"the  infinite has this mode of existence: one thing is always being taken after
+another,  and  each  thing that is taken is always finite, but always different"
+When  this  takes  place  in  the division of spatial magnitudes, "what is taken
+persists,  while  in  the  succession of times and of men, it takes place by the
+passing  away of these in such a way that the source of supply never gives out."
+The  opposition  between Lucretius and Aristotle with regard to the divisibility
+of  matter  is  discussed in the chapter on ELEMENT. The notions of infinity and
+continuity  are  differently  employed  on  the two sides of the argument. Where
+Aristotle  makes  the  continuity  of  matter  the  condition  of  its  infinite
+divisibility, Lucretius makes the atom's continuity its solidity or lack of void
+the  cause  of  its  indivisibility.  Where Aristotle asserts that at any moment
+there  can  be  only  a  finite  number  of  particles  in the world because the
+partition  of  matter  cannot  be infinitely carried out short of infinite time,
+Lucretius,  on the contrary, thinks that the division of matter into smaller and
+smaller  parts  finds an end in the atomic particles; and yet he also asserts an
+infinite  number  of  atoms. To contain an infinite number of atoms, an infinite
+space  is  required, according to Lucretius. This presents no greater difficulty
+for  him  than  an  infinite  time. Aristotle, on the other hand, differentiates
+between  space  and  time  with  respect  to  infinity.  Time can be potentially
+infinite  by  way  of  addition  because  "each  part  that  is  taken passes in
+succession  out  of existence." But though space may be infinitely divisible, it
+cannot  be  infinitely  extended,  for all its parts, unlike those of time, must
+co-exist.  It would therefore have to be an actually, rather than a potentiallyk
+infinite  quantity,  and  this  Aristotle  thinks is impossible. These and other
+conflicting  views  concerning  the  infinity of space and time appear in Kant's
+statement  of  the  first cosmological antinomy. His intention is not to resolve
+the issues, but to show that they cannot be resolved by proof or argument. To do
+this,  Kant  sets  up  what  seems  to  him  to  be  equally  strong  or equally
+inconclusive  arguments  for and against the infinity of space and time. Suppose
+it  be granted, Kant argues on the one hand, that "the world has no beginning in
+time."  Then it would follow that "up to every given moment in time, an eternity
+must have THE CJREAT IDEAS elapsed, and therewith passed away an infinite series
+of  successive  conditions  or  states  of  things in the world." But since "the
+infinity  of  a  series  consists  in the fact that it can never be completed by
+means  of  a  successive  synthesis,"  it  also "follows that an infinite series
+already elapsed is impossible, and that consequently a beginning of the world is
+a  necessary  condition  of  its existence." On the other hand, Kant argues with
+what  he  thinks  is  equal  force,  "let  it  be granted that [the world] has a
+beginning.  A  beginning,"  he explains, "is an existence which is preceded by a
+time  in  which  the  thing does not exist." Then, Kant continues, "on the above
+supposition,  it follows that there must have been a time in which the world did
+not  exist, that is, a void time. But in a void time, the origination of a thing
+is impossible; because no part of any such time contains a distinctive condition
+of  being in preference to that of non-being. . . . Consequently, many series of
+things  may  have  a  beginning in the world, but the world itself cannot have a
+beginning,  and  is, therefore, in relation to past time, infinite." With regard
+to  the  infinity  or  finitude of space, Kant proceeds similarly. If we suppose
+space  to  be  infinite,  then  "the  world  must  be an infinite given total of
+co-existent  things."  But  in  order  to  "cogitate  the world, which fills ail
+spaces,  as  a whole, the successive synthesis of the parts of an infinite world
+must  be  looked  upon  as  completed;  that is to say, an infinite time must be
+regarded  as having elapsed in the enumeration of all co-existing things." This,
+Kant  impossible,"  and  therefore  argues, "is "an infinite aggregate of actual
+things  cannot be considered as a given whole." Hence it follows that "the world
+is,  as  regards  extension in space, not infinite, but enclosed in limits." If,
+however, we suppose "that the world is finite and limited in space, it follows,"
+according to Kant, "that it must exist in a void space, which is not limited. We
+should,  therefore, meet not only with a relation of things in space, but also a
+relation  of  things to space" But the "relation of the world to a void space is
+merely  a  relation  to  no  object"  and "such a relation, and consequently the
+limitation  of  the world by void space, is nothing." It follows therefore, Kant
+concludes,  that  "the  world,  as regards space, is not limited; that is, it is
+infinite in re gard to extension."
+
+The  way  in which these opposite arguments nullify each other reveafc more than
+our  inability to prove or disprove the infinity of space and time. It shows, in
+Kant's  theory  of  human  knowledge,  that  we  are  "not  entitled to make any
+assertion  at all respecting the whole object of experience the world of sense."
+ONE  OTHER  PROBLEM  of  infinity  in the sphere of physics receives its initial
+formulation  in  one  of the great books in the part of the Dialogues Concerning
+the  Two  New  Sciences  where  Galileo  discusses the uniform acceleration of a
+freely  fallingbody.  The  body  which is said to accumulate equal increments of
+velocity  in  equal  intervals  of time is also said to start "from inOne of the
+perfinite  slowness,  i.e.,  from  rest."  sons in the dialogue challenges this,
+saying  that "as the instant of starting is more and more nearly approached, the
+body  moves  so  slowly  that,  if  it kept on moving at this rate, it would not
+traverse  a  mile in an hour, or in a day, or in a year, or in a thousand years;
+indeed, it would not traverse a span in an even greater time; a phenomenon which
+baffles  the  imagination,  while  our  senses show us that a heavy falling body
+suddenly  acquires great speed." What our senses seem to show us is corrected by
+an  experiment  which  refines  the  observation. But this still leaves a purely
+analytical  question.  Against the statement that the "velocity can be increased
+or  diminished  without limit," Simphcio points out in the dialogue that "if the
+number  of degrees of greater and greater slowness is limitless, they will never
+be  all  exhausted,"  and  therefore the body will never come to rest when it is
+slowing  down  or  be  able  to  start  to  move when it is at rest. "This would
+happen,"  Salviati  answers,  "if the moving body were to maintain its speed for
+any  length  of time at each degree of velocity, but it merely passes each point
+without  delaying  more  than  an instant, and since each time interval, however
+small,  may be divided into an infinite number of instants, these will always be
+sufficient to correspond to the infinite degrees of diminished velocity."
+
+The  problem  of the infinitesimal velocity provides another illustration of the
+difference  CHAPTER  40: I between infinity in the physical and the mathematical
+orders. Unlike parallel lines in Euclidean geometry, which are lines that remain
+equidistant  from  one another when both are prolonged to infinity, an asymptote
+is  a straight line which a curved line continuously approaches but never meets,
+even  when  both are infinitely extended. The distance between the curve and its
+asymptote  diminishes  to smaller and smaller intervals, but no matter how small
+they become, the two lines never coincide. The diminishing intervals between the
+curve  and  its asymptote are like the diminishing degrees of velocity in a body
+starting  from  or coming to rest. But we know that the body does begin or cease
+to  move,  and  so  there  is the mysterious jumping of the gap between rest and
+motion  in  the  physical  order, whereas in the mathematical order the limiting
+point can be forever approached and never reached.
+
+THERE  is  ONE  other context in which infinity is discussed in the great books.
+The  logicians  treat  certain  terms  and judgments as infinite. Aristotle, for
+example,   regards   the   negative  term  such  as  not-man  or  not-white  The
+mdefiniteness  of  as  indefinite. its signification may be seen when such terms
+are  used  as subjects of discourse. What is being talked about? The answer must
+be  given,  in  part  at  least, in positive terms: not-man represents the whole
+universe  leaving man out, or the totalityof everything except man. Thus, in its
+positive  signification,  the  negative term has a kind of infinity the infinite
+'totality of subjects diminished by one, the one that is negated.
+
+In his classification of judgments, Kant makes a threefold division of judgments
+according  to  quality:  the  affirmative,  the  negative, and the infinite. The
+infinite  judgment  involves  a  negative  in  its  construction,  but when that
+negative  is  given  an affirmative interpretation, the infinite significance of
+the proposition becomes apparent. An example will make this clear.
+
+The proposition this animal is-not white is negative; it simply denies a certain
+quality  of  a  certain  thing. But the proposition this animal is not- white is
+infinite,  for  it  affirms  the  negated term, and so places the subject in the
+infinite  class  or  totality  which  includes  everything  NFINITY except white
+things.  (The  position  of  the hyphen serves to indicate whether the statement
+shall  be construed negatively or affirmatively and infinitely.) The problems of
+definition  and  demonstration  are differently solved by logicians according to
+the  way  in  which  they  propose  to avoid infinite regressions in analysis or
+reasoning. There would be no end to the process of defining if every term had to
+be  defined  before  it  could  be used in the definition of another term. There
+would  be no beginning to the process of proof if, before a proposition could be
+used  as  a  premise  to  demonstrate  some  conclusion,  it  had  itself  to be
+demonstrated  as  a  conclusion from prior premises. In his essay On Geometrical
+Demonstration,  Pascal refers to the proposal of a plan for defining and proving
+everything.  "Certainly  this  method  would  be beautiful," he says, "but it is
+absolutely  impossible;  for  it  is  evident  that the first terms we wished to
+define  would  presuppose  others  for their explication, and that similarly the
+first  propositions  we wished to prove would suppose others that preceded them,
+and  it  is  thus  clear  we should never arrive at the first propositions." The
+chapter  on  DEFINITION  considers  the  character and choice of the indefinable
+terms by which an infinite regression is avoided in the elucidation of meanings.
+The  chapters  on  INDUCTION and PRINCIPLE consider the various sorts of primary
+propositionsaxioms,  postulates,  assumptions  by  which a similar regression is
+avoided  in the process of proof. The chapter on CAUSE deals with the problem of
+an infinite regression in causes and effects. Here it is appropriate to consider
+the  difference  between an infinite series of reasons and an infinite series of
+causes.  To  the  extent  that both are truly series the succession of one thing
+after  another  neither  seems  to be impossible, given infinite time. Those who
+deny  the  possibility  of  an  infinite  number  of  causes distinguish between
+essential  and  accidental  causes,  that is, between causes which must co-exist
+with  their  effects and causes which can precede their effects, and cease to be
+before  their  effects  occur. If there were an infinite time, there could be an
+infinite  series  of  accidental  causes. But it may be questioned whether, even
+granted  an  infinite  time,  the  relation  be-  conclusion cannot be twecn the
+premises  and  conclusion of reasoning its premises is known permits an infinite
+regression. If the truth of a may be vitiated by a
+
+OUTLINE OF TOPICS
+
+1. The general theory of infinity
+   1a. The definite and indefinite: the measured and the indeterminate
+   1b. The infinite in   being and quantity: the actual and potential infinite; the formal
+   and the material infinite
+
+2. Infinity in      the logical order
+   2a. The infinity of negative and indefinite terms
+   2b. The distinction between negative and infinite judgments
+   2c. Infinite regression in analysis and reasoning
+
+3. The
+infinite in quantity
+   3a. Number: the infinite of division and addition
+   3b. The infinite divisibility of continuous quantities: the infinitesimal; the method
+   of exhaustion and the theory of limits
+   3c. The infinity of asymptotes and parallels
+   3d. The infinite extent of space
+   3e. The infinite duration of time and motion
+
+4. The infinity of matter
+   4a. The infinite quantity or extent of matter: the      problem of an actually infinite
+   body
+   4b. The infinite divisibility of matter: the issue concerning atoms
+   4*-.
+   The infinite potentiality of matter: the conception of prime or formless matter
+   in the world
+
+5. Infinity
+   5a. The infinite number
+   of things and the infinite number of kinds
+   5b. The number of causes
+
+6. The finite and the infinite in the nature of     man
+   6a. The infinity of desire and will: the limits of human capacity
+   6b. The infinity of the intellect: man's knowledge of the infinite
+
+7. The infinity of God
+   7a. The infinite being or essence of God
+   7& The infinite power of God
+   7b. God's infinite goodness and love
+   7</.
+   God's infinite knowledge
+
+CROSS-REFERENCES
+
+For:  The  distinction  between  the  potential  and  actual  infi addition, see
+QUANTITY  7.  Other discussions of the infinity of space, time, and 13; ETERNITY
+2; SPACE 33; TIME 20; WORLD 43; and fo infinite time, see ETERNITY i TIME 2.
+
+;
+
+The  issue  concerning  the  existence  of atoms or the in MENT 5b; ONE AND MANY
+33(3).  The problem of an infinite regression in causes, see and for the related
+problem of infinite regression
+
+TION 1c; PRINCIPLE 3a(3); REASONING 5b(i).
+
+The treatment of the infinite and the infinitesimal i
+
+QUANTITY 2, 33, 30, 4c, 7.
+
+The special logical sense in which judgments are call
+
+The conception of the human intellect and of prime ma
+
+infinity, see MIND 2b.
+
+Another discussion of the finite and the infinite in
+
+'3-
+
+The special consideration of infinity in relation to
+
+the special consideration of the limits of human kn
+
+The problem of our knowledge of the infinite, see KNO
+
+The infinity of God, and of God's knowledge, power, a
+
+4e-4f, 50, 5f; GOOD AND EVIL 2; KNOWLEDGE 73; LIBER
+
+TRUTH 2d; WILL 4b; WORLD 33.
+
+ITY  833  [12]llld-112b;  xix  [22-99]  135b-136a;  xxi [73-i5] 139a-b 30 BACON:
+Advancement of Learning, 98d-99b 31 DESCARTES: Objections and Replies, 122a-b 31
+SPINOZA:  Ethics,  PART  i,  PROP  21 364a-c; PART n, PROP i 373d-374a; PROP 3-4
+374a-c 32 MILTON: Paradise Lost, BK n [188-193] 115b; BK m
+
+[56-134]  136b-138a; BK vn [109-130] 219b-220a; BK vm [412-436] 241a-b 35 LOCKE:
+Human  Understanding,  BK n, CH xv, SECT 12 165b-c; CH xvn, SECT i 167d-168a; CH
+xxm,  SECT  34-35  213a-c  passim;  BK in, CH vi, SECT 11-12 271b-272b passim 42
+KANT:  Practical  Reason, 303b-304a; 325d326a; 344a-348a; 351b-352c / Judgement,
+590b-d;  592a-c  nite,  and  the  infinite of division and motion, see ASTRONOMY
+8c(i); CHANGE r the conception of eternity as finite divisibility of matter, see
+ELECAUSE  1b,  7b;  CHANGE  14;  PRINCIPLE  1b; in definition and reasoning, see
+DEFINIn  mathematics, #v MATHEMATICS 4d; ed "infinite," see JUDGMENT 6b. tter as
+having  comparable types of relation to human nature, see MAN lod, human desire,
+see  DESIRE  7-73(3);  and for owledge, see KNOWLEDGE 53-53(6). WLEDGE 53(4). nd
+goodness, see BEING 7b(4); GOD TY 5d; MIND lof; NATURE 1b;
+
+834 ADDITIONAL READINGS
+
+Listed below arc works not included in Great Booty of
+
+idea and topics with which this chapter deals. These
+
+I. Works by authors represented
+
+II. Works by authors not represen
+
+For the date, place, and other facts concerning the p
+
+the Bibliography of Additional Readings which follows
+
+I.
+
+DESCARTES. The Principles of Philosophy, PART i,
+
+26-27 SPINOZA. Correspondence, xii
+
+NEWTON. The Method of Fluxions and Infinite
+
+Series BERKELEY. The Analyst
+
+. A Defence of Free Thinking in Mathematics HUME. A Treatise of Human Nature, BK
+i, PART 11,
+
+SECT i- n KANT. De Mundi Sensibihs (Inaugural Dissertation)
+
+Prolegomena to Any Future Metaphysic, par
+
+.
+
+50-54 HEGEL. Science of Logic, VOL i, BK i, SECT i, CH 2
+
+(B,C) SECT n, CH 2 (c)
+
+;
+
+W. JAMES. Some Problems of Philosophy, CH 10-11
+
+II.
+
+PROCLUS. The Elements of Theology, (j) ANSELM OF CANTERBURY. Monologium
+
+.
+
+Proslogium MAIMONIDES. The Guide for the Perplexed, PART i,
+
+CH73 DUNS SCOTUS. Opus Oxoniense, BK i, DIST 13
+
+.
+
+Reportata  Pansiensia  CRESCAS.  Or Adonai, PROPOSITIONS 1-3 NICOLAS OF CUSA. De
+Docta Ignorantia BRUNO. De I'mfinito, unwerso e mondi
+
+De Immenso et Innumerabilibus
+
+. DONNE. Lovers Infimtenesse SUAREZ. Disputationes Metaphysicae, xxvm, xxx
+
+(2), xxxv (3), XLI (5)
+
+S  the  Western World, but relevant to the works are divided into two groups. in
+this  collection  ted in this collection. ublication of the works cited, consult
+the last chapter of The Great Ideas. standing, BK n, CH 17 .
+
+LEIBNITZ. New Essays Concerning Human UnderCorrespondence with Clarke
+
+VOLTAIRE. "Infinity," in A Philosophical Dictionary The Ignorant Philosopher, CH
+1 8
+
+.  BOLZANO.  Paradoxien des Unendhchen WIILWELL. On the Philosophy of Discovery,
+CH  26  STALLO.  Concepts  and  Theories  of  Modern Physics, CH 13 BRADLEY. The
+Principles  of  Logic,  Terminal  Essays,  VI  FULLERTON.  The Conception of the
+Infinite,  and the Solution of the Mathematical Antinomies BOSANQUET. LoglC, VOL
+I,  CH 4 C. S. PEIRCE. Collected Papers, VOL vi, par 112-126 COUTURAT De I'tnfim
+mathematique  CANTOR.  Contributions to the Founding of the Theory of Transfmite
+Numbers  plementary  Essay  (4)  ROYCE.  The World and the Individual, SERIES i;
+SupPEANO.  Formulaire de mathematique E. W. HOBSON. The Theory of Functions of a
+Real Variable and the Theory of Fourier's Series POINCARE Science and Method, BK
+n, CH 3
+
+WHITEHEAD and RUSSELL. Pnncipia Mathematica, PART III, SECT C; PART V, SECT E B.
+RUSSELL.  Principles of Mathematics, CH 13, 17, 23, 37-43 . Our Knowledge of the
+External World, v-vn
+
+. Introduction to Mathematical Philosophy, CH 3, 9. '3
+
+SITTER. Kosmos (The Expanding Universe) WEYL. The Open World, LECT HI

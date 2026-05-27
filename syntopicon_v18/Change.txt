@@ -1,0 +1,627 @@
+Chapter 10:
+
+INTRODUCTION
+
+the  pre-Socratic  physicists and the FROM ancient philosophers to Darwin, Marx,
+and James and, in our own day, Dewey and Whitehead the fact of change has been a
+major  focus of speculative and scientific inquiry. Except by Parmenides and his
+school,  the  existence  of  change has never been denied. Nor can it be without
+rejecting  all  sense-perception  as  illusory,  which  is precisely what Zeno's
+paradoxes  seem  to do, according to one interpretation of them. But if argument
+cannot refute the testimony of the senses, neither can reasoning support it. The
+fact  of  change, because it is evident to the senses, does not need proof. That
+change  is,  is  evident,  but  what  change  is, is neither evident nor easy to
+define.  What  principles  or  factors  are  common to every sort of change, how
+change  or  becoming  is  related to permanence or being, what sort of existence
+belongs  to  mutable  things  and  to change itself these are questions to which
+answers  are  not obtainable merely by observation. Nor will simple observation,
+without  the  aid  of  experiment,  measurement,  and  mathematical calculation,
+discover the laws and properties of motion. The analysis of change or motion has
+been a problem for the philosophers of nature. They have been concerned with the
+definition  of change, its relation to being, the classification of the kinds of
+change.  The  measurement  of  motion,  on  the other hand, and the mathematical
+formulation  of its laws have occupied the experimental natural scientists. Both
+natural  philosophy  and  natural  science share a common subject matter, though
+they  approach  it  by  different methods and with different interests. Both are
+entitled  to  use  the  name  "physics" for their subject matter. The Greek word
+phiisis from which "physics" comes has, as its Latin equivalent, the word natura
+from  which  "nature"  comes.  In,  their  original significance, both words had
+reference  to  the  sensible  world  of  changing  things,  or to its underlying
+principle-  to the ultimate source of change. The physics of the philosopher and
+the physics of the empirical scientist are alike inquiries concerning the nature
+of  things,  not  in every respect but in regard to their change and motion. The
+conclusions of both inqumes have metaphysical implications for the nature of the
+physical  world  and  for  the  character of physical existence. The philosopher
+draws  these implications for being from the study of becoming. The scientist,in
+turn,  draws  upon  philosophical distinctions in order to define the objects of
+his  study.  Galileo,  for  example, in separating the problem of freely falling
+bodies  from  the  motion  of projectiles, employs the traditional philosophical
+distinction  between  natural and violent motion. The analysis of time and space
+(basic  variables in Newtonian mechanics), the distinction between discontinuous
+and  continuous  change,  and  the  problem  of the divisibility of a continuous
+motion  these  are  philosophical  considerations pre-supposed by the scientific
+measurement  of  motion. WE HAVE so FAR used the words "change" and "motion," as
+well  as  "becoming,"  as  if all three were interchangeable in meaning. That is
+somewhat  inaccurate,  even  for  the  ancients who regarded all kinds of change
+except  one as motions; it is much less accurate for the moderns who have tended
+to  restrict  the  meaning of "motion" to local motion or change of place. It is
+necessary, therefore, to examine briefly the kinds of change and to indicate the
+problems  which  arise  with  these  distinctions.  In  his  physical treatises,
+Aristotle  distinguishes  four  kinds  of  change. "When the change 193 194 from
+contrary  to contrary is in quantity" he writes, "it is 'growth and diminution';
+when  it  is  in  place,  it  is  'motion';  when  it  is  ... #i quality, it is
+'alteration'; but when nothing persists of which the resultant is a property (or
+an  'accident' in any sense of the term), it is 'coming to be,' and the converse
+change   is  'passing  "  away.'  Aristotle  also  uses  other  pairs  of  words
+"generation"  and "corruption," "becoming" and "perishing" to name the last kind
+of  change.  Of  the four kinds of change, only the last is not called "motion."
+But  in the context of saying that "becoming cannot be a motion," Aristotle also
+remarks  that  "every  motion  is  a  kind  of change." He does not restrict the
+meaning  of motion to change in place, which is usu'allycalled "local motion" or
+"locomotion."
+
+There are, then, according to Aristotle's vocabulary, three kinds of motion: (i)
+local  motion,  in  which  bodies  change from place to place; (2) alteration or
+qualitative  motion,  in  which bodies change with respect to such attributes as
+color,  texture,  or  temperature;  (3)  increase  and decrease, or quantitative
+motion,  in which bodies change in size. And, in addition, there is the one kind
+of  change  which  is not motion generation and corruption. This consists in the
+coming  to  be or passing away of a body which, while it has being, exists as an
+individual substance of a certain sort.
+
+Becoming  and  perishing  are most readily exemplified by the birth and death of
+living  things, but Aristotle also includes the transformation of water into ice
+or   vapor   as   examples   of   generation  and  corruption.  One  distinctive
+characteristic  of  generation and corruption, in Aristotle's conception of this
+type  of  change, istheir instantaneity. He thinks that the other three kinds of
+change  are continuous processes, taking time, whereas things come into being or
+pass  away instantaneously. Aristotle thus applies the word "motion" only to the
+continuous  changes  which  time  can  measure.  He  never says that time is the
+measure  of change, but only of motion. But the contrast between the one mode of
+change which is not motion and the three kinds of motion involves more than this
+difference  with  regard  to time and continuity. Aristotle's analysis considers
+the   subject   of  change  that  AS  which  undergoes  transformation  and  the
+starting-point  and  goal  of  motion.  "Every  motion," he says, "proceeds from
+something and to something, that which is directly in motion being distinct from
+that to which it is in motion and that from which it is in motion; for instance,
+we  may  take  the three things 'wood,' 'hot,' and 'cold,' of which the first is
+that  which is in motion, the second is that which to which the motion proceeds,
+and  the  third  is that from which it proceeds." In the alteration which occurs
+when  the wood changes quality, just as in the increase or decrease which occurs
+with  a  body's  change  in quantity and in the local motion which occurs with a
+body's change of place, that which changes persists throughout the change as the
+same  kind  of substance. The wood does not cease to be wood when it becomes hot
+or cold; the stone does not cease to be a stone when it rollsfrom here to there,
+or  the organism an animal of a certain kind when it grows in size. In all these
+cases,  "the  substratum"  that  which  is  the  subject of change "persists and
+changes  in  its own properties. . . . The body, although persisting as the same
+body, is now healthy and now ill; and the bronze is now spherical and at another
+time  angular,  and  yet  remains the same bronze." Because the substance of the
+changing  thing  remains the same while changing in its properties i.e., in such
+attributes  or  accidents  as  quality,  quantity, and placeAristotle groups the
+three kinds of motion together as accidental change. The changing thing does not
+come  to be or pass away absolutely, but only in a certain respect. In contrast,
+generation  and  corruption  involve  a change in the very substance of a thing.
+"When  nothing  perceptible  persists  in  its identity as a substratum, and the
+thing  changes  as a whole," then, according to Aristotle, "it is a coming-to-be
+of  one  substance,  and  the  passing-away  of  another."  In  such becoming or
+perishing,  it  is  matter  itself  rather  than  a body or a substance which is
+transformed.  Matter  takes on or loses the form of a certain kind of substance.
+For example, when the nutriment is assimilated to the form of a living body, the
+bread  or  corn  becomes  the flesh and blood of a man. When an animal dies, its
+body  decomposes  into  the  ele  CHAPTER  10:  CHANG mcnts of inorganic matter.
+Because  it  is  a  change  of substance itself, Aristotle calls the one kind of
+change  which  is  not  motion substantial change, and speaks of it as "a coming
+tobe  or passing-away simply"~-that is, not in a certain respect, but absolutely
+or "without qualification."
+
+These   distinctions  are  involved  in  a  long  tradition  of  discussion  and
+controversy.  They  cannot  be  affirmed  or denied without opposite sides being
+taken  on  the  fundamental issues concerning substance and accident, matter and
+form,  and  the  causes  of change or motion. The adoption or rejection of these
+distinctions  affects one's view of the difference between inorganic and organic
+change,  and  the difference between the motions of matter and the changes which
+take place in mind. The statement of certain problems is determined accordingly;
+as,  for  example,  the  problem  of  the  transmutation  of the elements, which
+persists  in  various  forms  from the physics of the ancients through mediaeval
+alchemy  and  the  beginnings  of  modern chemistry to present considerations of
+radioactivity and atomic fission.
+
+SINCE  THE  lyTH  CENTURY,  motion has been identified with local motion. "1 can
+conceive  no  other kind" of motion, Descartes writes, "and do not consider that
+we  ought  to  conceive  any  other  in  nature."  As it is expressed "in common
+parlance,"  motion,  he says, "is nothing more than the action by which any body
+passes  from  one place to another" This can hardly be taken to mean that change
+of  place  is the only observable type of change. That other kinds of change are
+observable  cannot  be  denied.  The  science  of  mechanics  or dynamics may be
+primarily  or  exclusively  concerned  with local motions, but other branches of
+natural science, certainly chemistry, deal with qualitative transformations; and
+the biological sciences study growth and decay, birth and death.
+
+The  emphasis  on  local  motion  as  the only kind of motion, while it does not
+exclude  apparent  changes  of  other  sorts,  does raise a question about their
+reality.  The  question  can  be put in several ways. Are the various apparently
+different kinds of change really distinct, or can they all be reduced to aspects
+of  one  underlying  E mode of change which is local motion? Even supposing that
+the kinds of change are not reducible to one another, is local motion primary in
+the  sense  that it is involved in all the others ? When mechanics dominates the
+physical  sciences (as has been so largely the case in modern times), there is a
+tendency to reduce all the observable diversity of change to various appearances
+of  local  motion.  Newton,  for  example,  explicitly  expresses this desire to
+formulate  all  natural phenomena in terms of the mechanics of moving particles.
+In  the  Preface  to  the  first  edition  of his Mathematical Principles, after
+recounting  his success in dealing with celestial phenomena, he says, "I wish we
+could  derive  the rest of the phenomena of Nature by the same kind of reasoning
+from  mechanical  principles,  for  I am induced by many reasons to suspect that
+they  may  all  depend  upon certain forces by which the particles of bodies, by
+some  causes hitherto unknown, are either mutually impelled towards one another,
+and cohere in regular figures, or are repelled and recede from one another." The
+notion  that  all  change  can be reduced to the results of local motion is not,
+however,  of  modern origin. Lucretius expounds the theory of the Greek atomists
+that  all  the  phenomena  of  change can be explained by reference to the local
+motion  of indivisible particles coming together and separating. Change of place
+is  the  only change which occurs on the level of the ultimate physical reality.
+The  atoms  neither come to be nor pass away, nor change in quality or size. But
+though  we find the notion in ancient atomism, it is only in modern physics that
+the emphasis upon local motion tends to exclude all other kinds of change. It is
+characteristic  of what James calls "the modern mechanicophysical philosophy" to
+begin  "by saying that the only facts are collocations and morions of primordial
+solids,  and  the only laws the changes 1 of motion which changes in collocation
+bring/ James quotes Helmholtz to the effect that "the ultimate goal of theoretic
+physics  is  to find the last unchanging causes of the processes of Nature." If,
+to  this  end,  "we  imagine  the  world  composed  of elements with unalterable
+qualities," then, Helmholtz continues, "the only changes that can remain in such
+a  world  are spatial changes, /., movements, and the only outer relations which
+can  modify  the  action  of the forces arc spatial too, or, in other words, the
+forces are motor forces dependent for their effect on spatial relations."
+
+In the history of physics, Aristotle represents the opposite view. No one of the
+four kinds of change which he distinguishes has for him greater physical reality
+than  the  others.  Just  as quality cannot be reduced to quantity, or cither of
+these  to  place, so in his judgment the motions associated with these terms arc
+irreducible  to one another. Yet Aristotle does assign to local motion a certain
+primacy.  "Motion  in its most general and primary sense," he writes, "is change
+of  place,  which  we call locomotion." He does not mean merely that this is the
+primary  sense  of  the  word, but rather that no other kind of motion can occur
+without local motion being somehow involved in the process. Showing how increase
+and  decrease  depends  on alteration, and how that in turn depends on change of
+place,  he says that "of the three kinds of motion ... it is this last, which we
+call locomotion, that must be primary."
+
+THE  SHIFT  IN  MEANING  of the word "motion" would not by itself mark a radical
+departure  in  the theory of change, but it is accompanied by a shift in thought
+which  has  the  most  radical  consequences.  At  the  same time that motion is
+identified with local motion, Descartes conceives motion as something completely
+actual  and  thoroughly intelligible. For the ancients, becoming of any sort had
+both less reality and less intelligibility than being.
+
+Aristotle  had  defined  motion as the actuality of that which is potential in a
+respect  in  which  potential  to  some  degree.  According  it is still to what
+Descartes  calls  its  strict  as opposed to its popular meaning, motion is "the
+transference  of  one  part  of  matter or one body from 1 the vicinity of those
+bodies  that are in immediate contact with it, and which we regard as in repose,
+into  the  vicinity  of others." This definitioncontrasted with the Aristotelian
+conception  which it generally supersedes in the subsequent tradition of natural
+science  is  as  revolutionary  as  the  Cartesian  analytical  geometry  is  by
+comparison with the Euclidean. Nor is it an unconnected fact that the analytical
+geometry  prepares  the  way  for  the  differential calculus that is, needed to
+measure variable motions, their velocities, and their accelerations. The central
+point  on  which  the  two  definitions  are opposed constitutes one of the most
+fundamental issues in the philosophy of nature. Does motion involve a transition
+from potential to actual existence, or only the substitution of one actual state
+for  another  only  a  "transportation,"  as  Descartes  says, from one place to
+another?  While  motion  is going on, the moving thing, according to Aristotle's
+definition,  must be partly potential and partly actual in the same respect. The
+leaf  turning  red,  while  it  is alteringk has not yet fully reddened. When it
+becomes as red as it can get, it can no longer change in that respect. Before it
+began  to  change,  it was actually green; andksince it could become red, it was
+potentially  red.  But  while  the change is in process, the potentiality of the
+leaf  to become red is being actualized. This actualization progresses until the
+change is completed. The same analysis would apply to a ball in motion. Until it
+comes  to  rest  in a given place, itspotentiality for being there is undergoing
+progressive  actualization.  In  short, motion involves some departure from pure
+potentiality in a given respect, and never complete attainment of full actuality
+in  that  same respect. When there is no departure from potentiality, motion has
+not  yet  begun;  when  the  attainment of actuality is complete, the motion has
+terminated. The Aristotelian definition of motion is the object of much ridicule
+in  the iyth century. Repeating the phrasing which had become traditional in the
+schools-  "the  actualization of what exists in potentiality, in so far as it is
+potential"  Descartes  asks:  "Now  who understands these words ? And who at the
+same  time  does  not  know  what  motion is? Will not everyone admit that those
+philosophers  have been trying to find a knot in a bulrush?" Locke also finds it
+meaningless.  "What  more exquisite jargon could the wit of man invent than this
+definition  .  . . which would puzzle any rational man to whom U was not already
+known  by  its famous absurdity, to guess what word it could ever be supposed to
+be  the  explication  of. If CHAPTER 10: Tully, asking a Dutchman what beweegmgc
+was,"  Locke  continues,  "should  have  received  this  explication  in his own
+language,  that  it  was  actus  entts  in  potcntia quatcnus in potential I ask
+whether  any  one  can  imagine  he  could  thereby  have  guessed what the word
+beweeginge  signified?"  Locke does not seem to be satisfied with any definition
+of  motion.  "The atomists, who define motion to be 'a passage from one place to
+another/ what do they more than put one synonymous word for another? For what is
+passage  other  than  motion ? . . . Nor will 'the successive application of the
+superficies  of  one  body  to  those of another,' which the Cartesians give us,
+prove  a much better definition of motion, when well examined." But though Locke
+rejects  the definition of the atomists and the Cartesians on formal grounds, he
+accepts their idea of motion as simply change of place; whereas he dismisses the
+Aristotelian  definition  as sheer absurdity and rejects the idea that motion or
+change  necessarily  involves a potentiality capable of progressive fulfillment.
+As we have already remarked, the omission of potentiality from the conception of
+motion is a theoretical shift of the deepest significance.
+
+It  occurs not only in Descartes' Principles of Philosophy and in the atomism of
+Hobbes  and Gassendi, but also in the mechanics of Galileo and Newton. According
+to  these  modern  philosophers and scientists, a moving body is always actually
+somewhere. occupies a different It place at every moment in a continuous motion.
+The  motion  can  be  described  as  the  successive  occupation  by the body of
+different  places  at different times. Though all the parts of the motion do not
+coexist,  the  moving  particle  is  completely  actual  throughout. It loses no
+reality  and gains none in the course of the motion, since the various positions
+the  body occupies lie totally outside its material nature. It would, of course,
+be  more  difficult to analyze alteration in color or biological growth in these
+terms,  but  itmust  be  remembered that efforts have been made to apply such an
+analysis through the reduction of all other modes of change to local motion. The
+principle  of inertia, first discerned by Galileo, is critically relevant to the
+issue  between  these  two  conceptions of motion. It is stated by Newton as the
+first  of his "axioms or laws of motion." "Every body," he writes, "continues in
+its  state of rest, or of uniform motion in a right line, unless it is compelled
+to  change  that state by forces impressed upon it." As applied to the motion of
+projectiles,  the  law  declares that they "continue in their motions, so far as
+they  are  not  retarded  by the resistance of air, or impelled downwards by the
+force  of gravity." In his experimental reasoning concerning the acceleration of
+bodies  moving  down  inclined  planes,  Galileo  argues  that  a body which has
+achieved  a  certain velocity on the descent would, if it then proceeded along a
+horizontal  plane,  continue  infinitely  at  the  same  velocity except for the
+retardation  of  air  resistance  and friction. "Any velocity once imparted to a
+moving  body," he maintains, "will be rigidly maintained as long as the external
+causes  of  acceleration  or  retardation  are  removed."  So  in  the  case  of
+projectiles,  they  would  retain the velocity and direction imparted to them by
+the  cannon,  were  it not for the factors of gravity and air resistance. Bodies
+actually  in  motion possess their motion in themselves as a complete actuality.
+They  need  no  causes acting on them to keep them in motion, but only to change
+their  direction  or  bring  them  to rest. The motion of projectiles presents a
+difficulty  for  the theory which describes all motion as a reduction of potency
+to act. "If everything that is in motion, with the exception of things that move
+themselves,  is  moved by something else, how is it," Aristotle asks, "that some
+things,  e.g.,  things  thrown, continue to be in motion when their movent is no
+longer in contact with them ?" This is a problem for Aristotle precisely because
+he  supposes  that the moving cause must act on the thing being moved throughout
+the  period  of  the motion. For the potentiality to be progressively reduced to
+actuality,  it  must be continuously acted upon. Aristotle's answer postulates a
+series  of  causes  so that contact can be maintained between the projectile and
+the  moving cause. "The original movent," he writes, "gives the power of being a
+movent  either  to  air  or to water or to something else of the kind, naturally
+adapted  for imparting and undergoing motion The motion begins to cease when the
+motive  force  pro- 198 duccd in one member of the consecutive scries is at each
+stage  less  than  that possessed by the preceding member, and it finally ceases
+when  one member no longer causes the next member to be a movent but only causes
+it  to  be  in motion." It follows that inertia must be denied by those who hold
+that  a  moving body always requires a mover; or even that a body cannot sustain
+itself  in  motion beyond a point proportionate to the quantity of the impressed
+force which originally set it in motion.
+
+FOR  THE ANCIENTS, the basic contrast between being and becoming (or between the
+permanent  and  the  changing)  is  a  contrast between the intelligible and the
+sensible.  This  is  most  sharply  expressed in Plato's distinction between the
+sensible  realm of material things and the intelligible realm of ideas. "What is
+that which always is and has no becoming," Timaeus asks; "and what is that which
+is  always  becoming  and  never is?" He answers his own question by saying that
+"that  which  is  apprehended  by  intelligence and reason is always in the same
+state;  but  that  which is conceived by opinion with the help of sensations and
+without  reason,  is  always  in  a process of becoming and perishing, and never
+really is."
+
+Even  though  Aristotle  differs  from  Plato  in  thinking  that change and the
+changing  can  be objects of scientific knowledge, he, too, holds becoming to be
+less  intelligible  than  being,  precisely  because change necessarily involves
+potentiality.  Yet becoming can be understood to the extent that we can discover
+the  principles  of  being the unchanging principles of its change. "In pursuing
+the  truth," Aristotle remarksand this applies to the truth about change as well
+as  everything  else "one must start from the things that are always in the same
+state  and  suffer no change." For Aristotle, change is intelligible through the
+three  elements  of permanence which are its principles: the enduring substratum
+of  (i)  change,  and the contraries (2) that to which, and (3) that from which,
+the  change  takes  place.  The  same  principles arc sometimes stated to be (i)
+matter,  (2)  form, and (3) privation; the matter or substratum being that which
+both  lacks  a  certain  form and has a definite potentiality for possessing it.
+Change occurs when AS the matter undergoes a transformation in which it comes to
+have  the  form  of  which it was deprived by the possession of a contrary form.
+Neither  of  the  contrary forms changes. Only the thing composite of matter and
+form  changes with respect to the forms of its matter. Hence these principles of
+change  are  themselves  unchanging. Change takes place through, not j, them. As
+constituents  of  the  changing  thing,  they  are the principles of its mutable
+being,  principles of its being as well as of its being mutable. The explanation
+of  change  by  reference  to  what  does  not  change seems to be common to all
+theories of becoming. Lucretius, as we have already seen, explains the coming to
+be  and  passing  away of all other things by the motions of atoms which neither
+come  to be nor pass away. The eternity of the atoms underlies the mutability of
+everything  else.  Yet the atoms are not completely immutable. They move forever
+through  the  void  which, according to Lucretius, is required for their motion.
+Their  local  motion is, moreover, an actual property of the atoms. For them, to
+be is to be tn motion. Here then, as in the Cartesian theory, no potentiality is
+involved, and motion is completely real and completely intelligible.
+
+THE  NOTIONS  OF  time and eternity are inseparable from the theory of change or
+motion.  As  the  chapters on TIME and SPACE indicate, local motion involves the
+dimensions  of  space  as  well  as time, but all change requires time, and time
+itself  is inconceivable apart from change or motion. Furthermore, as appears in
+the  chapters  on  TIME  and ETERNITY, the two fundamentally opposed meanings of
+eternity  differ  according  to  whether  they  imply endless change or absolute
+changelessness.  Eternity  is  sometimes identified with infinite time. It is in
+this  sense  that  Plato, in the Timaeus, refers to time as "the moving image of
+eternity"  and  implies  that  time, which belongs to the realm of ever-changing
+things,  resembles  the  eternal only through its perpetual endurance. The other
+sense  of  the eternal is also impliedthe sense in which eternity belongs to the
+realm of immutable being. The eternal in this sense, as Montaigne points out, is
+not merely that "which never had beginning nor never CHAPTER 10: C 11 shall have
+ending,  but  rather that "to which 1 time can bring no mutation.* There are two
+great  problems  which  use the word "eternity" in these opposite senses. One is
+the  problem  of  the eternity of motion: the question whether motion has or can
+have  either a beginning or an end. The other is the problem of the existence of
+eternal  objects  immutable  things  which  have their being apart from time and
+change.  The  two  problems  are  connected  in  ancient thought. Aristotle, for
+example,  argues  that  "it  is impossible that movement should either have come
+into  being  or cease to be, for it must always have existed." Since "nothing is
+moved at random, but there must always be something present to move it," a cause
+is  required  to  sustain  the  endless  motions  of  nature.  This cause, which
+Aristotle  calls "the prime mover," must be "something which moves without being
+moved,  being  eternal, substance, and actuality." Aristotle's theory of a prime
+mover sets up a hierarchy of causes to account for the different kinds of motion
+observable in the universe. The perfect circular motion of the heavens serves to
+mediate  between  the  prime mover which is totally unmoved and the less regular
+cycles  of  terrestrial  change.  The  "constant cycle" of movement in the stars
+differs  from  the irregular cycle "generation and destruction" on of earth. For
+the  first,  Aristotle asserts the necessity of "something which is always moved
+with  an unceasing motion, which is motion in a circle." He calls this motion of
+the  first  heavenly  sphere  "the simple spatial movement of the universe" as a
+whole.  Besides  this  "there  are  other spatial movements those of the planets
+which  are eternal" but are "always acting in different ways" and so are able to
+account  for  the  other  cycle  in nature the irregular cycle of generation and
+corruption.  In  addition,  a  kind  of  changelessness is attributed to all the
+celestial  bodies which Aristotle calls "eternal." Eternally in motion, they are
+also  eternally  in  being.  Though  not  immovable,  they  are  supposed  to be
+incorruptible  substances.They never begin to be and never perish. The theory of
+a  world  eternally  in motion is challenged by Jewish and Christian theologians
+HANGE who affirm, as an article of their religious faith, that "in the beginning
+God  created  heaven and earth." The world's motions, like its existence, have a
+beginning  in  the  act  of  creation.  Creation itself, Aquinas insists, is not
+change or motion of any sort, "except according to our way of understanding. For
+change  means  that  the  same  thing  should  be different now from what it was
+previously.  .  But  in creation, by which . . the whole substance of a thing is
+produced,  the  same  thing  can  be  taken  as  different  now and before, only
+according  to  our  way of understanding, so that a thing is understood as first
+not  existing at all, and afterwards as existing." Since creation is an absolute
+coming  to  be  from  non-being,  no  pre-existent  matter  is  acted upon as in
+generation,  in  artistic  production,  or  in  any  of the forms of motion. THE
+PHILOSOPHICAL  and  theological  issues concerning creation and change, eternity
+and  time,  are further discussed in the chapters on CAUSE, ETERNITY, and WORLD.
+Other  problems  arising  from  the  analysis of change must at least be briefly
+mentioned  here.  Though  less  radical than the difference between creation and
+change, the difference between the motions of inert or non-living things and the
+vital  activities of plants and animals any theory of change the question raises
+for whether the same principles apply to both. The rolling stone and the running
+animal  both  move  locally, but are both motions locomotion in the same sense ?
+Augmentation  occurs  both in the growth of a crystal and the growth of a plant,
+but  are both of them growing in the same sense ? In addition, there seems to be
+one  kind  of  change in living things which has no parallel in the movements of
+inert  bodies.  Animals  and  men learn. They acquire knowledge, form habits and
+change  them.  Can  change  of  mind be explained in the same terms as change in
+matter?  The issues raised by questions of this sort are more fully discussed in
+the  chapters  on ANIMAL, HABIT, and LIFE. Certain other issues must be entirely
+reserved  for discussion elsewhere. The special problems of local motion such as
+the  properties  of  rectilinear  and  circular  motion, the distinction between
+uniform  and  variable motion, and the uniform or variable accelera- 200 tion of
+the latter are problems which belong to the chapters on ASTRONOMY and MECHANICS.
+Change, furthermore, is a basic fact not only for the natural scientist, but for
+the  historian  the  natural  historian or the historian of man and society. The
+considerations  relevant  to  this  aspect  of  change  receive treatment in the
+chapters  on  EVOLUTION,  HISTORY,  and  PROGRESS.  Even  these ramifications of
+discussion do not exhaust the significance of change. The cyclical course of the
+emotions and the alternation of pleasure and pain have been thought inexplicable
+without reference to change of state in regard to desire and aversion the motion
+from want to satisfaction, or from possession to deprivation. Change is not only
+a  factor  in  the analysis of emotion, but it is also itself an object of man's
+emotional attitudes. It is both loved and hated, sought and avoided.
+
+According  to  Pascal,  man  tries desperately to avoid a state of rest. He does
+everything  he  can  to keep things in flux. "Our nature consists in motion," he
+writes; "complete rest is death. . . .
+
+OUTLINE OF TOPICS
+
+1. The nature and reality of change or motion
+
+2. The       unchanging principles of change
+   2a. The constituents of the changing thing
+   2b. The factor of opposites or contraries in change
+
+3. Cause and effect
+in motion: the relation of mover and moved, or action and
+passion
+
+4. Motion
+and rest: contrary motions
+
+5. The measure of motion
+   5a. Time or duration as the measure of motion
+   5b. The divisibility and continuity of motion
+
+6. The kinds of change
+   6a. The reducibility of all modes of motion to one kind of
+   change
+   6b. The primacy of local motion
+   6c. Comparison of
+   change in living and non-living things
+   6d. Comparison of the motions of matter with
+   changes in the Older of mind
+
+7. The analysis of local motion
+   7a. Space, place, and void
+   7b. Natural and violent motion
+   7c. Kinds of local motion
+   (1) Rectilinear and rotary or circular motion
+   (2)   Uniform or variable motion
+   (3) Absolute or relative motion
+   (4) Terrestrial and celestial motion
+   7d. The properties of variable motion: the laws of motion
+
+8. Change of size
+   8a. The increase and decrease of inanimate bodies
+   8b. Growth in living organisms
+
+9. Change of quality
+   9a. Physical and chemical change: compounds and mixtures
+   9b. Biological change: vital alterations
+
+10. Substantial change: generation and corruption
+   10a. Substantial change in the realm of bodies: the transmutation of the elements   211
+   10b. Plant, animal, and human reproduction
+   10c. The incorruptibility of atoms, the heavenly bodies, and spiritual substances
+
+11. The apprehension of change: by sense,    by reason
+
+12. Emotional aspects of change
+   12a. Rest and motion in relation to pleasure and pain
+   12b. The love and hatred of change
+
+13. The problem
+of the eternity of motion or change
+
+14. The theory of the prime
+mover: the order and hierarchy of movers and moved
+
+15. The immutable
+   15a. The immutability of the objects of thought: the realm of truth
+   15b. The unalterability of the decrees of fate
+   15c. The immutability of God
+
+CROSS-REFERENCES
+
+For:  The  broad  philosophical  context  of  the theory of change, see BEING 5;
+DESIRE i ;
+
+MATTER i-1b, 20.
+
+The distinction between the mutable and the immutable, #v ASTRONOMY 8a; BEI
+
+ELEMENT 53; ETERNITY 4-4d; FORM la; TRUTH 5.
+
+The issue concerning time and eternity in relation to change, see ASTRONOMY
+
+NITY i TIME 2, 2b; WORLD 43.
+
+;
+
+'
+
+A discussion relevant to the theory of the prime mover, see ANGEL 2a.
+
+The mathematical and experimental approach to the study of local motion and
+
+tion of its laws, see ASTRONOMY 8c-8c(3); MFCHANICS 5-52), 6c-6e; ONE AN
+
+33(2); QUANTITY 5c; SPACE 2a.
+
+The discussion of biological and psychological change, see ANIMAL 43, 60-7,
+
+DESIRE 2c-2d; EDUCATION 4, 5c, 6; EMOTION 1b, 2b; HABIT 4b; REASONING 1b;
+
+VlRTUL AND VlCE 40-4k
+
+Other discussions of the distinction between generation and other kinds of
+
+2a; FORM 1d(2); WORLD 4e(i); and for the problem of the transmutation of
+
+see ELEMENT }c.
+
+The theory of historical change in nature and society, see EVOLUTION 4d, 6a
+
+4b; PROGRESS la, 1c-2; TIME 8a.
+
+The consideration of economic, political, and cultural change, see CONSTITU
+
+8-8b; PROGRESS 3-4k 6-6b; REVOLUTION 2-2C, 4-4k WEALTH 12.
+
+The discussion of change or becoming as an object of knowledge, see BEING 8
+
+EDGE 6a(i); OPINION i.
+
+Other considerations of man's attitude toward change and mutability, see CU
+
+CONVENTION 8; PROGRESS 5; TIME 7.
+
+ADDITIONAL READINGS
+
+Listed below are works not included in Great Boofe of the Western World, b
+
+idea and topics with which this chapter deals. These works aie divided int
+
+I. Works bv authors represented in this collection.
+
+II. Works by authors not represented in this collect
+
+For the date, place, and other facts concerning the publication of the wor
+
+the Bibliography of Additional Readings which follows the last chapter of
+
+I.
+
+AQUINAS. De Principiis Naturae SEXTUS EMPIRICUS. Aga DESCARTES. The Principles
+of Philosophy, PART 11, CH 2, 5
+
+24-53  .Outlines  of  Pyr  HOBBES.  Concerning  Body,  PART  in, CH 15-16, 21-22
+CRESCAS.  Or  Adonai, P BERKELEY. Siris 17, 25 KANT. Metaphysical Foundations of
+Natural SUAREZ. Disputationes
+
+Science  xxx  (8-9),  LX (8), HEGEL. The Phenomenology of Mind, in JOHN OF SAINT
+THOMAS.
+
+Science of Logic, VOL i, BK i, SECT i, CH i(c)
+
+. misttcus, Philosoph
+
+.
+
+Logic, CH 7 22-24, PART ni QQ W. IAMBS. Some Problems of Philosophyk CH 9-10,
+LEIBNITZ. Discourse o
+
+12 .
+
+Monadology,
+
+FORM  i-1b;  NG 7b(3); D MANY 8b; CAUSE 2; TIME 7; 8c(i); ETERthe formulachange,
+see ART the elements, , 7c; HISTORY TION 7-73, a-8b; KNOWL- STOM AND ut relevant
+to  the  o  two  groups:  ion.  ks  cited, consult The Great Ideas. II. inst the
+Physicists,  BK n, rhonism, BK in, CH 1-20 ROPOSITIONS 4-9, 13-14, Metaphysicae,
+xvm (n), XLVI (3), XLVIII-L Cursus Philosophicus Thoia Naturalis, PART i, QQ 14,
+19, ~ I 2 10-12 n Metaphysics, xv-xxn par 10-18
+
+CHAPTER  10:  C  VOLTAIRE. "Motion," in A Philosophical Dictionary SCHOPENHAUER.
+The World as Will and Idea WHEWELL. The Philosophy of the Inductive Sciences,
+
+VOL i, BK ii, CH 13 HELMHOLTZ. Popular Lectures on Scientific Subjects,
+
+VII MAXWELL. Matter and Motion CLIFFORD. The Common Sense of the Exact Sciences,
+
+CH 5 LOTZE. Metaphysics, BK i, CH 4-5 BK n, CH 4
+
+; BRADLEY. Appearance and Reality, BK i, CH 5 CROCE. History, Its Theory and
+Practice BERGSON. Creative Evolution
+
+.The Creative Mind, CH 5
+
+HANGE  G.  N. LEWIS. The Anatomy of Science, ESSAY m-iv HEIDEGGER. Sftn und Zcit
+B. RUSSELL. Principles of Mathematics, CH
+
+54,
+56-59
+
+.The  Analysis  of  Matter,  CH  27, 33-34 EDDINGTON. The Nature of the Physical
+World, CH 5 DEWEV. Experience and Nature, CH 2
+
+. The Quest for Certainty, CH 2 WHITEHEAD. The Concept of Nature, CH 5
+
+.Process and Reality, PART n, CH 10 SANTA Y AN \. Scepticism and Animal Faith,
+CH 5
+
+.The Realm of Matter, CH 5-6 RIEZLER. Physics and Reality

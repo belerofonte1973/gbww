@@ -1,0 +1,673 @@
+Chapter  8i:  SAME  AND  OTHER  INTRODUCTION  '""THHE  problems  of identity and
+diversity  of  sameness  and  otherness, similarity and difference occur at that
+level  of philosophical thought which deals with being and with unity. Plotinus,
+for  example,  says that in addition to Being, Motion, and Rest, "we are obliged
+to  posit  the further two, Identity and Difference, so that we have in all five
+genera."
+
+In  Aristotle's conception, terms like 'being,' 'one,' and 'same' have a greater
+universality  than  the  terms  he  calls the highest genera, e.g., 'substance,'
+Quantity,'   'quality,'   'relation,'  and  so  forth.  These  latter  represent
+categories  or  classes  under  which certain things fall and others do not. Not
+everything  is  a  substance  or a quantity, but in Aristotle's opinion there is
+nothing of which it cannot be said that it is a being in some sense, that it has
+some  kind  of  unity, that it is identical with itself, and that, compared with
+anything  else  in  the  whole  universe, it is in certain respects the same, in
+others  different.  The  fundamental  relation  of  quantities with one another,
+namely,  equality, consists in their being the same. The fundamental relation of
+qualities consists in their being alike, or the same in spite of some difference
+in  degree  or intensity, e.g., a brighter and a darker red of the same hue. The
+notion  of relation itself seems to be as fundamental as that of sameness, since
+in comparisons one thing is said to be the same or different only in relation to
+something  else;  yet it also seems to be true that relations can be the same or
+similar,  for  the  essence  of  proportion or analogy lies in one thing's being
+related to a second as a third is to a fourth. The sameness of two relationships
+is the object of the comparison.
+
+Such  considerations are sometimes called "metaphysical" with an invidious tone.
+But  no  one,  not  even  those who would eliminate meta- physical discussion as
+indulging in "vicious abstractions" or as verging on the meaningless, can easily
+avoid  such  notions  as  identity and diversity. It is not merely that ordinary
+speech,  as  well as scientific discourse, must use such " ' words as "same" and
+"other"  almost  as  frequently  as the words "is" and not" or 'one" and "many."
+Those  who are critical of theorizing and who want to save discourse itself from
+becoming  "too  metaphysical"  are still obliged to give some account of what it
+means  for  things to be the same or different and of how we know when they are.
+Semantics  currently  has  vogue  as  a  critical  instrument  for  safeguarding
+discourse from ambiguity and nonsense and perhaps also for spotting metaphysical
+legerdemain. But semantics itself cannot go far in its own analysis of words and
+meanings without having to explain how the same word can have different meanings
+or  how  the  same meaning can be expressed by different words. It does not seem
+likely  that  an  adequate explanation could be developed without some theory of
+sameness  and  otherness.  THE  "SENSE OF SAMENESS," says William James, "is the
+very  keel  and  backbone of our thinking." He is here speaking "of the sense of
+sameness  from the point of view of the mind's structure alone, and not from the
+point  of  view  of  the  universe.  . . . Whether there be any real sameness in
+things  or  not, or whether the mind be true or false in its assumptions of it,"
+he  goes  on, the point remains that "the mind makes continual use of the notion
+of  sameness,  and if deprived of it, would have a different structure from what
+it  has.  . . . Without the psychological sense of identity, sameness might rain
+down  upon  us  from  the outer world forever and we be none the wiser. With the
+psychological  sense,  on  the  other  hand, the outer world might 665 666 be an
+unbroken flux, and yet we should perceive a repeated experience."
+
+James   distinguishes   three   principles  of  identity.  In  addition  to  the
+psychological  law  according to which we feel a later experience to be the same
+as  an  earlier  one,  he refers to the ontologicd principle which "asserts that
+every  real  thing  is  what  it  is,  that  a  is a, and b, b"\ and the logical
+principle which declares that "what is once true of the subject of a judgment is
+always  true of that subject." James seems to think that "the ontological law is
+a  tautological  truism,"  whereas  the logical and the psychological principles
+have  further  implications  not  immediately  obvious.  Locke appears to take a
+contrary view. He finds the identity of all ideas self-evident, while to him the
+real  identity  of  things  is  much  more  difficult to grasp. The principle of
+identity  and  its companion principle of contradiction are, according to Locke,
+expressed  in the propositions 'Whatsoever is, is* and 'It is impossible for the
+same  thing to be and not to be' "these two general propositions amounting to no
+more,  in  short,  but  this,  that  the  same  is the same, and the same is not
+different."  But,  Locke  adds,  "the  mind,  without  the  help of any proof or
+reflection  on  either  of these general propositions, perceives so clearly, and
+knows  so  certainly,  that 'the idea of white is the idea of white, and not the
+idea of blue,* and that 'the idea of white, when it is in the mind, is there and
+is  not  absent,'  that the consideration of these axioms can add nothing to the
+evidence  or  certainty  of  its knowledge. ... I appeal to everyone's own mind,
+whether  this  proposition  'A  circle  is  a  circle'  be not as self-evident a
+proposition  as  that consisting of more general terms 'Whatsoever is, is.'" But
+unlike  the comparing of an idea with itself, real identity, according to Locke,
+requires  us  to consider a thing "as existing at any determined time and place"
+and  to "compare it with itself existing at another time. . . . When, therefore,
+we demand whether anything be the same or no? it refers always to something that
+existed at such a time in such a place, .which, it was certain, at that instant,
+was  the  same  with  itself and no other; from whence it follows that one thing
+cannot  have two beginnings of existence, nor two things one beginning, it being
+impossible for two things of the same kind to be or exist in the same instant in
+the  very  same  place,  or  one  and the same thing, in different places. That,
+therefore,  that  had  one  beginning  is  the  same thing; and that which had a
+different  beginning in time and place from that, is not the same, but diverse."
+In  short, across a lapse of time a thing remains identical, in Locke's view, or
+maintains  its identity, if existence having made it "one particular thing under
+any  denomination, the same existence continued preserves it the same individual
+under  the same denomination." THIS UNDERSTANDING OF real identity Locke applies
+without difficulty to an atom of matter which, being at a given instant "what it
+is  and  nothing  else  ...  is  the  same  and  so must continue as long as its
+existence  is  continued; for so long it will be the same, and no other. In like
+manner, if two or more atoms be joined together into the same mass, every one of
+those atoms will be the same by the foregoing rule; and whilst they exist united
+together,  the  mass  consisting of the same atoms, must be the same mass or the
+same  body, let the parts be ever so differently jumbled. But," Locke continues,
+"if  one of these atoms be taken away, or one new one added, it is no longer the
+same  mass  or the same body." The problem of identity in living organisms Locke
+does  not  find  so  easy to solve. "In the state of living creatures," he says,
+"their  identity  depends  not on a mass of the same particles, but on something
+else.  For  in  them  the  variation  of  great parcels of matter alters not the
+identity; an oak growing from a plant to a great tree, and then lopped, is still
+the  same oak; and a colt grown up to a horse, sometimes fat, sometimes lean, is
+all the while the same horse, though in both these cases there may be a manifest
+change of the parts, so that truly they are not, either of them, the same masses
+of  matter."  The  problem  of  the real identity or continuity of living things
+through  time  and  change is, as we shall see presently, only a special case of
+the larger problem of whether anything at all remains identical for more than an
+instant  in  the  universal flux of things. But supposing that problem solved in
+favor  of  en-  CHAPTER  82:  SAME  A during substances, or things which somehow
+remain  continuously  the same while changing in this or that respect, the point
+of  Locke's observation about living things still holds, for their identity does
+not  seem  to lie in the continuity or permanence of the matter the particles of
+which they are composed.
+
+The familiar riddle about the pipe whether it isin any respect the same after it
+has  its broken bowl replaced by a new one, and then has a new stem added to the
+new  bowl  may  be  propounded  for  living  organisms. But in their case, Locke
+argues, a principle of identity can be found. A plant, he says, "continues to be
+the  same  plant  as  long  as it partakes of the same life, though that life be
+communicated to new particles of matter vitally united to the living plant, in a
+like  continued  organization conformable to that sort of plant." The principle,
+he  thinks,  applies  to  animals and men. "The case is not so much different in
+brutes  but  that anyone may hence see what makes an animal and continues it the
+same.
+
+Something  we  have  like  this in machines, and may serve to illustrate it. For
+example,  what  is  a watch? It plain it is nothing but a fit is organization or
+construction  of parts to a certain end, which, when a sufficient force is added
+to  it,  it is capable to attain. If we would suppose this machine one continued
+body,  all  whose  organized  parts were repaired, increased, or diminished by a
+constant  addition  or  separation of insensible parts, with one common life, we
+should  have  something  very  much  like the body of an animal. . . . This also
+shows  wherein  the  identity  of  the  same  man consists; m., in nothing but a
+participation  of  the  same  continued  life by constantly fleeing particles of
+matter, in succession, vitally united to the same organized body."
+
+IN THE CASE OF MAN, however, Locke thinks we must face the additional problem of
+personal  identity.  What  makes  a  man  the same person from moment to moment,
+sleeping  and  waking, remembering or not remembering his past? In what does the
+continuity  of  the  self  consist, on the identity of which, Locke insists, "is
+founded  all  the right and justice of reward and punishment" ? His answer seems
+to  be  that,  as a living organism is identical throughout one ND OTHER and the
+same  life, it is the continuity of the same consciousness which "makes a man be
+himself  to  himself"  and  establishes his personal identity. "Whatever has the
+consciousness of present and past actions," Locke writes, "is the same person to
+whom  they  both belong. That . . . with which the consciousness of this present
+thinking  thing can join itself, makes the same person, and is one self with it,
+and  with  nothing  else.  ... If the same Socrates, waking and sleeping, do not
+partake  of  the  same  consciousness, Socrates, waking and sleeping, is not the
+same  person.  And to punish Socrates waking for what sleeping Socrates thought,
+and  waking  Socrates  was  never  conscious  of, would be no more right than to
+punish  one twin for what his brother twin did, whereof he knew nothing, because
+their outsides were so like that they could not be distinguished." William James
+also  attributes  the sense of personal identity to continuity of consciousness,
+but  for him there still remains a problem of explaining that continuity. In the
+flow  of consciousness from moment to moment, "continuity," he thinks, "makes us
+unite  what  dissimilarity  might  otherwise separate; similarity makes us unite
+what  discontinuity  might hold apart. . . . The sense of our personal identity,
+then,  is  exactly  like  any  one  of  our  other perceptions of sameness among
+phenomena.  It  is  a  conclusion  grounded  either  on  the  resemblance  in  a
+fundamental  respect,  or  on  the  continuity before the mind, of the phenomena
+compared."  In  his  opinion,  "resemblance  among  the  pans  of a continuum of
+feelings  (especially  bodily  feelings)  experienced  along  with things widely
+different  in  all  other  regards,  thus  constitutes  the  real and verifiable
+'personal  identity  which  we feel. There is no other identity than this in the
+Stream'  of  subjective consciousness. ... Its parts differ, but under all their
+differences  they  are  knit  in  these  two ways; and if either way of knitting
+disappears,  the  sense of unity departs. If a man wakes up some fine day unable
+to  recall  any  of  his past experiences, so that he has to learn his biography
+afresh  .  .  .  hefeels and he says that he is a changed person. He disowns his
+former  me,  gives  himself a new name, identifies his present life with nothing
+from out of the older time. Such cases are not rare in mental pathology."
+
+In  the tradition of the great books, other solutions are offered to the problem
+of  personal identity. Kant thinks, for example, that a "transcendental unity of
+apperception"  is  necessary  to constitute "in all possible phenomena which may
+come  together  in  our  experience,  a  connection of all these representations
+according  to  laws. Unity of consciousness," he writes, "would be impossible if
+the  mind,  in  the knowledge of the manifold, could not become conscious of the
+identity  of  function  by  which  it  the  manifold synthetically in one unites
+knowledge.  Therefore,  the original and necessary consciousness of the identity
+of one's self is at the same time a consciousness of the equally necessary unity
+of  the  synthesis  of all phenomena according to concepts." Where Kant posits a
+transcendental  ego  to  account for the experienced identity of the self, other
+philosophers  who  hold  one  or  another  theory of the soul as an imperishable
+substance  or  an unchanging principle seem to find no special subtleties in the
+problem  of the identity of living organisms or persons. So far as such theories
+bear  upon  that  problem,  the  consideration of them belongs to the chapter on
+SOUL.  Here we arc concerned with the notions of same and other as they apply to
+everything  in  the  universe.  Hence  we  must face all the problems of how two
+things  can be the same, not merely the problem of self-sameness or the identity
+of a thing with itself.
+
+THE  WORD  "IDENTICAL" is sometimes used as a synonym for "same," as when we say
+that   two   things  are  identical  in  a  certain  respect.  But  without  the
+qualification  expressed  by  "in  a certain respect," it is seldom if ever said
+that two things are identical, for if they can be discriminated from one another
+in  any respect at all, they are two, not one, and therefore not identical. This
+seems to be the sense of Leibnitz's principle of the identity of indiscernibles,
+concurred  in  by all who understand identity as the self-sameness of that which
+is  one  in  number  and  existence.  A plurality of things involves a numerical
+diversity  each  of  the  many  being  an  other.  To  this extent at least, the
+traditional  discussion  of same and other tends to merge with matters discussed
+in  the  chapter  on  ONE  AND  MANY. For both Plato and Aristotle, the relation
+between these two pairs one and many and same and other seems to be much closer.
+In  the  comparison of two things, Aristotle appears to treat sameness as a kind
+of  oneness,  referring  to the various ways in which two things can be "one and
+the same." Of sameness, he says that "it is a unity of the being, either of more
+than  one thing or of one thing when it is treated as more than one"; and of the
+one  he  says that to it "belong ... the same and the like and the equal, and to
+plurality  belong  the other and the unlike and the unequal." The enumeration he
+gives  of  kinds  of unity seems to be paralleled by his enumeration of kinds of
+similitude.  As a thing may be one essentially or one by accident, so two things
+may  be  the  same  essentially or by accident. Aristotle's statement that "some
+things  are  one  in  number,  others  in  species,  others  in genus, others by
+analogy,"  finds  its counterpart in his " statement that 'different' is applied
+to  those which, though other, are the same in some respect, only not in number,
+but either in species or in genus or by analogy." As indicated in the chapter on
+RELATION, a distinction is traditionally made between relationships which really
+exist among things apart from the mind, and logical relationships which occur in
+thought alone. This distinction seems to separate self-sameness or identity from
+all  relations  of  similitude  which  obtain  between two things. "The relation
+signified  by the term the same" Aquinas says, "is a logical relation only if it
+is  taken  in  regard  to absolutely the same thing, because such a relation can
+exist  only  in  a  certain  order  observed  by  reason as regards the order of
+anything  to  itself. The case is otherwise, however, when things are called the
+same,  not numerically, but generically or specifically." Nevertheless, identity
+seems  to  underlie  all  other relations of sameness, for among things or ideas
+lacking  identity  no  comparisons  can  be made. Those who deny identity on the
+ground  that  everything is in flux, nullify all further discussion of sameness.
+The  theory  of  a universal flux, which Plato attributes to Heraclitus, permits
+nothing  ever  to  remain  stationary  or  the  CHAPTER 82: SAME AND same for an
+instant; and "the professed Heraclitean," Cratylus, went even further, according
+to Aristotle: he "criticized Heraclitus for saying that it is impossible to step
+twice  into  the  same  river; for he thought one could not do it even once." In
+saying  of  men  that  "they  are nothing but a bundle or collection ofdifferent
+perceptions, which succeed each other with an inconceivable rapidity, and are in
+a  perpetual  flux and movement," Hume does more than deny personal identity. He
+affirms  an  utter  diversity  "as  if  there were no manner of relation" at all
+between distinct perceptions, each of which is for him a distinct existence. The
+opposite point of view affirms things which have an enduring existence and which
+can,  as  Aristotle  says  of substances, undergo change in many respects "while
+remaining numerically one and the same."
+
+TIME  AND  CHANGE  raise  the question of how any one thing can be the same from
+moment  to moment. The question of how two things can be one and the same in any
+respect arises from the simple fact that, at the instant of comparison, they are
+two.  If  they  were  the  same only for the comparing mind, then their sameness
+would be a logical and not a real relationship. For two things to be the same in
+reality  seems  to  imply  that,  although  two  in number, they are one in some
+respect.  To  use  Hegel's  language, there is identity in diversity; or, in the
+language  of Aquinas, a real community exists, according to which some one thing
+is  common  to  two.  The problem of the sameness of two things can be stated in
+terms  of  the  significance  of  what Hobbes, Berkeley, and Hume call common or
+general  names.  Denying  that  such words as "man" or "tree" or "stone" express
+abstract or general ideas, they seem to say that common names like these signify
+what is common to two or more individuals whether things, perceptions, or ideas.
+Those  who,  like Aristotle, Aquinas, and Locke, take general or common names to
+signify abstract ideas, seem to say such ideas themselves signify that in two or
+more  things have something in reality common. Still another view is that, apart
+from  all  individual things, real universals exist as the objects of the mind's
+conceptions.
+
+OTHER  If  the  latter  alternative is chosen, then two individuals two men, for
+example  may  be  thought  alike only because both somehow resemble, as Plotinus
+suggests,  the  separate  archetype Man. What is common to the two men lies in a
+third  and  separate  reality,  of  which  Plotinus  says that it is "present in
+multiplicity,"  as  if  "in  multi-impression  .  .  .  from  one  seal." But as
+Parmenides observes, in Plato's dialogue of that name, if a separate idea of Man
+is  required  to  explain how two individuals are alike in being men, then still
+another  idea  is needed to account for the likeness between each individual man
+and  the  idea  Man.  On  the other hand, the view that the real sameness of two
+individuals,  or  the  reality  of the one kind to which both belong, resides in
+them  in their common possession of the same nature, quality, or other attribute
+seems  to  lead  to  the difficulty already intimated, namely, the difficulty of
+understanding  how  distinct existences can have anything in common how they can
+be  two in number and yet also one in nature. If John and fames are alike as men
+because  they share a common humanity, then can it be said that each has his own
+human  nature  ?  If  their  natures  and  properties are as individual as their
+existences, how can two things be really the same in any respect? Must not kinds
+or  universals  or  whatever  is supposed to be common to many and the source of
+their  samenessexist  only  in  the  general  meaning of words, or in the mind's
+abstract  concepts, or as separate archetypes? But, then, what truth is there in
+the  familiar  statement  that  two individual things are in some respect really
+alike  or  the same? THESE QUESTIONS indicate that the traditional discussion of
+the same and the other tends to involve not merely the theory of the one and the
+many,  but  also,  in certain issues at least, the problem of the individual and
+the  universal.  As  the  chapter on UNIVERSAL AND PARTICULAR shows, the several
+positions traditionally taken with regard to universals afford different answers
+to the problem of how any sameness between two or more things exists. The factor
+of similitude in knowledge (the nature of the likeness between image or idea and
+its  object)  and  the  function of similitude in love (the attrac- 670 tion, or
+repulsion,  of  like  by  like)  also  extend  the consideration of sameness and
+diversity  into  the  field  of  problems  dealt  with  in  other chapters. Here
+attention  must  be given to the meaning of sameness itself, as that is affected
+by  the  distinction  between  the  same  and the similar, by the enumeration of
+various  kinds  or degrees of likeness, and by the range of opposite meanings in
+the   notions   of  diversity  and  difference.  Discussing  discrimination  and
+comparison,  William  James,  for example, draws a sharp line between the simple
+and complex components of our experience. Simple impressions, he seems to think,
+are  either  absolutely alike or absolutely unlike. Here there can be no degrees
+of  resemblance  or  similarity.  "Two resembling things," he writes, "owe their
+resemblance  to  their  absolute  identity  in  respect  to  some  attribute  or
+attributes,  combined with the absolute non-identity of the rest of their being.
+This,  which  may be true of compound things, breaks down when we come to simple
+impressions."  The latter, apart from their numerical non-identity or otherness,
+are  either  the  same in quality or diverse. But compound things may be more or
+less  alike,  varying  in  degree  of  similarity or difference according to the
+number of simple respects in which they are or are not the same. "Similarity, in
+compounds,"  says  fames,  "is  partial  identity,"  and  he gives the following
+illustrations.  "The  moon  is  similar  to  a  gas-jet, it is also similar to a
+foot-ball;  but  a  gas-jet and a foot-ball are not similar to each other. . . .
+Moon and gas-jet are similar in respect of luminosity and nothing else; moon and
+foot-ball in respect of rotundity, and nothing else. Football and gas-jet are in
+no  respect  similar  that  is,  they  possess  no  common  point,  no identical
+attribute." Other writers seem to agree on this distinction between the same and
+the  similar,  the  diverse  and the different. The latter in both cases combine
+elements  of  sameness  and  diversity to give degrees of likeness. Aquinas, for
+example,  says  that "we seek for difference where we also find resemblance. For
+this  reason,  things  which  differ  must  in some way be composite, since they
+differ  in  some  respect  and in some respect they resemble each other. In this
+sense,  although  all  things  that  differ are diverse, yet all things that are
+diverse  do  not differ. . . . For simple things are diverse through themselves,
+and  do  not  differ  from  one  another by differences as their components. For
+instance,  a man and an ass differ by the difference of rational and irrational,
+but  we  cannot  say  that  these  again differ by some further difference." The
+specific difference between man and ass with respect to rationality, accompanied
+by their generic sameness with respect to animality, makes them similar. If they
+were  utterly  diverse,  i.e., the same in no respect, they would not be said to
+differ; just as if they were identical in all respects except number, they would
+not  be  called  similar.  "The other and the same," writes Aristotle, "are thus
+opposed.  But  difference  is  not the same as otherness. For the other and that
+which it is other than need not be other in some definite respect . but that . .
+which  is  different  is different from some particular thing in some particular
+respect,  so  that  there must be something identical by which they differ." But
+within  the  area of this agreement on fundamental terms, there seems to be some
+disagreement  about  whether  two  things can be utterly diverse. Since they are
+two,  they  cannot  be  the same in all respects certainly not in number but can
+they  be  totally incomparable? James appears to say Yes in his remark about the
+football  and  the gas jet having "no common point, no identical attribute." Yet
+he  also seems to hold that no two things are ever absolutely incomparable. They
+may not differ or be similar as the diverse species of the same genus, e.g., man
+and ass; but regarding them " " as 'thinkablcs' or 'existents,' he writes, "even
+the  smoke  of  a  cigarette and the worth of a dollar bill are comparable still
+more  so as perishables' or as 'enjoyables.'" The gas jet and the football would
+appear  to  be  comparable also as 'existents' or 'usables' or even, perhaps, as
+'bodies.'  The  question thus arises whether all things being somehow comparable
+they  are all the same in genus, as, for example, all three-dimensional material
+things  may  be  said to belong to the genus 'body' no matter how much else they
+differ  as  species  or  subordinate  kinds within this genus. Kant answers this
+question  by affirming a principle of ultimate homogeneous- CHAPTER 82: SAME AND
+OT ness. According to this principle, "there are no different original and first
+genera,  as  it  were  isolated  and  separated from each other, but all diverse
+genera  are  divisions  only  of  one  supreme  and general genus" Kant states a
+correlative  principle  of variety or specification, according * to which 'every
+genus  requires  species, and these again sub-species, and as none even of these
+sub-species  is  without  a sphere . . . reason in its utmost extension requires
+that no species or sub-species should in itself be considered as the lowest."
+
+Aristotle's  theory  of  species  and  genera  appears to be exactly opposite to
+Kant's  on  both  points. For Aristotle, there is no single all-embracing genus,
+but  rather a number of diverse yet supreme genera, such as substance, quantity,
+quality,  etc. There is a finite, not an infinite variety of species. The lowest
+species is further divisible only into kinds which differ, as individuals of the
+same  species do, in accidental, not essential respects, e.g., white man and red
+man differ in the same way as John and James do within the species 'man,' not as
+the species 'man' and 'ass' differ within the genus 'animal.' Furthermore, where
+Kant  insists  upon  a third principle of continuity, according to which between
+any  two  species  "there always remain possible intermediate species, differing
+from  the  first  and  the  second  by smaller degrees than those by which these
+differ  from  each  other,"  Aristotle  seems  to find no intermediates possible
+between  the contrary species of a single genus. The order of species is for him
+a  discontinuous  series  like the order of the whole numbers, between proximate
+members  of  which  no  fractions  are  admitted. Does Aristotle's position with
+respect  to  the  heterogeneity  of  an animal and the color blue the one in the
+genus  'substance,'  the  other  in  the  genus 'quality' mean that such things,
+absolutely diverse in genus, arc absolutely incomparable? His answer seems to be
+twofold.  In  one place he says that things which are diverse in genus may still
+be  the  same  by  analogy:  "things  that are one by analogy are not all one in
+genus."  In  another,  he gives us an example of analogical resemblance (between
+the soul and the hand): "As the hand is a tool of tools, so the mind is the form
+of forms and sense the form of sensible things."
+
+HER  If the example seems inappropriate on the ground that the soul and the hand
+are of the same genus, i.e., both substances or parts of the same substance man,
+it  may  be  necessary  to introduce the distinction between natural and logical
+genera.  According to this distinction, a material and a spiritual substance can
+both  be called "substances" as a matter of logical classification, but they are
+not  in  the  same  genus by their own natures. In this sense, Aquinas assigns a
+geometrical  solid  and  a  physical  body  to the same logical genus 'body' but
+regards them as of heterogeneous natures; and Descartes, calling an extended and
+a  thinking  substance  both  "substances,"  insists upon the utter diversity of
+their  natures.  An easier example, however, may not be too difficult to find. A
+man  and  a  number  belong  to  different  genera, according to Aristotle one a
+substance,  the  other a quantity. But the man can be related to his sons as the
+number  one is related to any other whole number. The relation which is the same
+in  both cases is that of priority, according to which the man and unity are the
+principles  or generators respectively of his sonsand other numbers. Here, then,
+we  see  two  heterogeneous  things  a  substance  and  a  quantity  which  are,
+nevertheless,  the  same  by  analogy,  each  standing  to  another  in the same
+relationship',  both,  therefore,  can  be  called  "principle"  or  "generator"
+analogically.  Aristotle's  other  indication  that a special mode of similitude
+obtains  between  heterogeneous things, occurs in all those passages in which he
+says  that  terms  like 'being' can be predicated of things in every category or
+genus.  Just  as  James  seems  to  think  that any two things may be comparable
+as'thinkables'or'existents,'  so Aristotle seems to hold that all things, though
+otherwise  heterogeneous, are at least alike in being, i.e., in having some mode
+of  existence. Yet the term 'being' cannot be equated with Kant's single supreme
+genus.  Though  Aristotle  agrees  with Kant that every genus must be capable of
+division  into  species,  he  does  not  think that 'being' can be so divided by
+specific  differences. Two POINTS MUST be observed concerning Aristotle's theory
+of the predication of a term like 'being' of everything in the universe.
+
+672  First,  he  repeatedly asserts that 'being is not said in the same sense of
+substances,  quantities,  qualities, and so forth. Hence when such heterogeneous
+things  are all called 'beings,' the implication cannot be that, as beings, they
+are  all  the same. The point seems to be that they are somehow at once both the
+same and diverse.
+
+As,  to  use an example from Aristotle's Physics, a tone and a taste can both be
+sharp,  though  the  sharpness  of  a tone is as diverse from the sharpness of a
+taste  as tone and taste are qualitatively diverse from each other; so a man and
+a  number  can  both  have  being, though their modes of being are as diverse as
+substance  is from quantity. If the word "similarity" were to be used to signify
+not  the combination of separable elements of sameness and diversity, but rather
+the  inseparable  fusion  of  the two to constitute a diversified sameness, then
+heterogeneous  things  should be called similar, not the same, in being. Second,
+Aristotle  does  not  identify  such similarity of heterogeneous things with the
+sameness  by  analogy  which  heterogeneous  things  can  have. 'Being' is not a
+relative term and therefore it cannot be predicated analogically, as 'principle'
+or  'generator'  can be. Terms which are predicated analogically, as 'principle'
+can be predicated of a father and the number one, may signify similarity (in the
+sense  of diversified sameness) rather than simple sameness in a single respect.
+The  relation  of  generation  which creates the analogical similitude between a
+father  and  the  number  one  seems  to  be  the same relation in the two cases
+(between  a  father and his sons, and between one and other numbers); it is not,
+however,  simply  the  same,  for  that relation is diversified according as the
+things  related  substances  in  the  one  case,  quantities  in  the  other are
+absolutely  diverse genus. But in Aristotle's in it does not follow that because
+some  ananalysis  alogical  predicates  signify  diversified  rather than simple
+sameness,  all do; or that because some instances of diversified sameness happen
+to  be  analogical  (i.e.,  sameness  in  a  relation), all are. The interest in
+Aristotle's  separation  of  these  two  points  lies  in  the fact that Aquinas
+combines  them  in a theory which states that, when being and other terms (which
+are  not  genera  and  yet are above all genera) are predicated of heterogeneous
+things,  they  must  be  predicated analogically of them. The existence which is
+found  in  all things, he says, "is common to all only according to some sort of
+analogy,"  not  "according  to  the same specific or generic formality." This is
+most  easily  seen  in  the  "likeness  of  creatures  to God," which is "solely
+according  to  analogy, inasmuch as God is essential being, whereas other things
+are  beings  by participation." Aristotle's statement that "things which are one
+by  analogy are not all one in genus," seems to be converted by Aquinas into the
+proposition  that  things  which are not one in genus, and yet are alike in some
+way,  are  all  one by analogy. For Aristotle, sameness by analogy may be either
+simple  sameness  or  diversified  sameness  (i.e., similarity); and diversified
+sameness may or may not be analogical, that is, it may be the kind of similarity
+which  two  heterogeneous  things have in respect to being or in respect to some
+relation  in  which  they stand to other things. For Aquinas, on the other hand,
+whenever  heterogeneous  things  are  the  same  in  any  single  respect, their
+diversified  sameness is always analogical', and whenever the similitude between
+two  things  is  truly  analogical,  then  it  is  always similarity, that is, a
+diversified,  not  a  simple  sameness. Likeness in being, according to Aquinas,
+affords  us the prime example of a similitude which is at once an analogical and
+a  diversified  sameness.  Aquinas applies his theory of the analogy of being to
+the  great  traditional issue, which puts all theories of similitude to the test
+the  question  of the resemblance between God and creatures, or between infinite
+and  finite  being.  Against  the  answer  first  given by Maimonides, and later
+expressed  by Spinoza when, of all comparisons between God and man, he says that
+"His  essence  could  resemble  ours  in . . . name"; and against those, nothing
+except in on the other hand, who think that whatever names apply to both God and
+creatures  (such as "being" or "good" or "one"), apply simply in the same sense,
+Aquinas seems to take the middle ground. The names which are properly applicable
+to  both  God and creatures, according to him, are said of them, not equivocally
+and  not  univocally,  but analogically. This threefold distinction of univocal,
+equiv-  CHAPTER  82: SAME AND OTHER ocal, and analogical names, especially as it
+utterly  diverse,  and  concerns the names of God, is discussed in the being. We
+can  say, chapter on SIGN AND SYMBOL. The theological ous that, with res problem
+of  the  similitude  between God and they have the kind o creatures confronts us
+with  three basic alterna- have when they belon tives in man's speculation about
+the  sameness  we can say, (3) that and diversity which exists among all things,
+sense  of a diversifi We can say, (i) that infinite and finite being are ilarity
+is or is not
+
+OUTLINE OF TOPICS
+PAGB
+
+1. The principle of identity: the relation of a thing to itself
+   1a. Oneness in number or being: numerical diversity or otherness
+   1b. The identity of the changing yet enduring individual: personal identity, the
+   continuity of self; the denial of identity in the realm of change
+
+2. The sameness of things numerically diverse
+   2a. The being of sameness or similitude: the reality of kinds or universals
+   2b. The relation between sameness and unity : sameness as a participation in the one
+   2c. The distinction       between sameness and similarity and their opposites, diversity
+   and difference: the composition of sameness and diversity; degrees of like-
+   ness and difference
+   2d. The distinction of things in terms of their diversities and differences: real and
+   logical distinctions
+   2e. The limits of otherness: the impossibility of utter diversity
+
+3. The modes of sameness and otherness or diversity
+   3a. Essential sameness or difference
+   and accidental sameness or difference
+   (1) Specific and generic sameness: natural and logical genera
+   (2) The otherness of species in a genus: the diversity of contraries
+   (3) Generic otherness or heterogeneity
+   3b. Relational sameness:
+   sameness by analogy or proportional similitude
+   3c. Sameness in quality, or likeness: variations in degree of the same quality
+   3</.
+   Sameness in quantity, or equality: kinds of equality
+
+4. Sameness
+and diversity in the order of knowledge
+4<z
+.   Likeness or sameness between knower and known knowledge as involving imi-
+:
+   4a. intentionality, or representation
+   4b. The role of differentiation in definition: the diversity
+   of differences
+   4c. Sameness and diversity
+   in          the meaning of words or the significance of terms:
+   the univocal and the equivocal
+
+5. The principle of likeness in love and friendship
+
+6. Similitude          between God and creatures: the degree and character of the similitude;
+traces or images of God in creatures
+
+CROSS-REFERENCES
+
+For: Other discussions of the principle of identity and of
+
+thought,  see BEING 2b, 7X5); CHANGE 2; LOGIC la 3a(3); RELATION la; and for the
+problems of per see SOUL 1d; STATE 3g.
+
+9 AQUINAS: Summa Theohgica, PART i, Q 3, A i, REP 1-5 14b-15b; A 2, REP 1-2
+15c-16a; A 3, REP 1-2 16a-d; A 5, REP 2 17c-18b; A 7, ANS and REP i 19a-c; Q 4,
+A 3 22b-23b; Q 6, A 2, ANS and REP 3 28d-29c; Q 8, A i, REP 3 34d35c; Q 13, AA
+2-6 63c-68c; Q 14, A 2, REP 3 76d-77d; A 6 80a-81c; Q 15, A 2, ANS 92a93b; Q 18,
+A 4 107d-108c; Q 26, A 4 151c152a,c; Q 27, A i, ANS 153b-154b; Q 44, AA 3-4
+240b-241d; Q 47, A i, ANS and REP 2-3 256a-257b; Q 50, A i, ANS 269b-270a; Q 55,
+A 3, REP 3 291a-d; Q 57, A 2, ANS and REP 2 295d-297a; Q 59, A i, CONTRARY
+306c-307b; Q 65, A 2, REP i 340b-341b; Q 72, A i, REP 3 368b-369d; Q 77, A 2,
+ANS and REP i 401b-d; Q 84, A 2, ANS and REP 3 442b-443c; Q 88, A 2, REP 4
+471c-472c; A 3, REP 3 472c-473a; Q 91, A 4, REP 1-2 487d-488c; Q 93 492a-501c; Q
+103, A 4, ANS 530d-531b; PART I-H, Q i, A 8 615a-c; Q 2, A 4, REP i 618a-d; A 5,
+REP 3 618d-619c 0 AQUINAS: Summa Theohgica, PART I-H, Q 55, A 2, REP 3 27a-d; Q
+no, A 4, ANS 350d351d; PART m, Q 4, A i, REP 2 730d-731d; PART III SUPPL, Q 69,
+A I, REP 2 885c-886c,* Q 92, A i, ANS and REP 7 I025C'1032b 1 DANTE: Divine
+Comedy, PARADISE, i [103-142] 116a; xm [52-84] 126a-b 5 MONTAIGNE: Essays, 238d
+107b-d; ii [112-148] 109a-b; vn [64-87] 115d7 SHAKESPEARE: Hamlet, ACT n, sc n
+[314-322] 43d 0 BACON: Advancement of Learning, 41b-d; 80b-81a 1 DESCARTES:
+Meditations, in, 88c-d; iv, 90b91b / Objections and Replies, 122a-b; 214a-d;
+228a-c 1 SPINOZA: Ethics, PART i, PROP 17, SCHOL 362c-363c 2 MILTON: Paradise
+Lost, BK n [345-353] 118b119a; BK iv [288-294] 158b; BK vn [150-173] 220b-221a;
+[519-528] 228b; BK xi [466-522] 309b-310b / Areopagitica, 384a 3 PASCAL:
+Pensees, 430-431, 246b-247b; 434- 435, 249b-251a; 537 265b; 555 270a 5 HUME:
+Human Understanding, SECT xi, DIV 113, 502c 6 HEGEL: Philosophy of Right,
+ADDITIONS, 90 271c; PART in, 306a-c; 310d 8 MELVILLE: Moby Dic{, 84b-85a 130b-d
+/ Philosophy of History, PART n, 270d2 DOSTOEVSKY: Brothers Karamazov, BK vi,
+153b-d its significance for being, change, and ; ONE AND MANY 2a; PRINCIPLE 1c,
+sonal identity and the identity of a state,
+
+CHAPTER 82: SAME AND OTH
+
+For: Other considerations of sameness or similarity, and of the pr
+
+universals, see FORM 2a; IDEA la, 6b; ONE
+
+2a-2C.
+
+Matters relevant to the analysis of essential and accid
+
+sameness, , and otherness in species or in genus, see
+
+1a(i); ONE AND MANY 3b(i); OPPOSITION 1c(a); RELATI
+
+PARTICULAR 5b.
+
+The nature of the similitude between heterogeneous thin
+
+such similitude, see BEING i; SIGN AND SYMBOL 3d; and
+
+univocal, equivocal, and analogical terms, see IDEA 4
+
+Another discussion of sameness by analogy or relational
+
+and for sameness in quality and quantity, see QUALITY
+
+Similitude in the relation of knower and known, of love
+
+ART 3; FORM 1d(i); KNOWLEDGE i, 4d; LOVE 43; NATURE 2
+
+The principle of similarity in the association of ideas
+
+2c; RELATION 4f; SENSE 3d(i).
+
+The theory of definition as constituted by the statemen
+
+TION 2b; NATURE 43; OPPOSITION 1c(2).
+
+The problem of the similitude between God and creatures
+
+cance of the names we apply to God, see GOD 3f, 6a-6b
+
+MANY 1b; SIGN AND SYMBOL 5f; WORLD 33-30.
+
+ADDITIONAL READINGS
+
+Listed below are works not included in Great Booty of
+
+idea and topics with which this chapter deals. These w
+
+I. Works by authors represented
+
+II. Works by authors not represen
+
+For the date, place, and other facts concerning the pu
+
+the Bibliography of Additional Readings which follows
+
+*
+
+AQUINAS. On Being and Essence, CH 2 DESCARTES. The Principles of Philosophy,
+PART i,
+
+60-65 HOBBES. Concerning Body, PART n, CH 11, 13 HUME. A Treatise of Human
+Nature, BK i, PART iv,
+
+SECT vi I. S. MILL. A System of Logic, BK HI, CH 20
+
+"
+
+CAJETAN. De Nominum Analogia SUAREZ. Disputationes Metaphysicae, iv-vi, xv (10),
+
+xxvin (3), xxx (10), xxxn (2), xxxin (2),
+
+(i), XLvn
+
+xxxiv, xxxix (3), XLIV (11), XLVI
+
+(n, 14-15, 17)
+
+. On the Various Kinds of Distinctions (Disputationes Metaphysicae, vn)
+
+JOHN  OF  SAINT  THOMAS. Cursus Philosophicus Thomisticus, ArsLogica, PARTII, Q2
+(3) JQ 13 (2-5); Q 14 (2-3)
+
+ER  oblem of the reality of kinds or AND MANY 1c; UNIVERSAL AND PARTICULAR ental
+sameness,  specific  and  generic  EVOLUTION  1b;  IDEA  43);  NATURE  ON 53(4);
+UNIVERSAL  AND gs, and for the problem of signifying for the related distinction
+between  k4);  SIGN  AND SYMBOL 3b-3d. sameness, see RELATION 1d, 53(3); 3C, 4c;
+QUANTITY  1b.  r and loved, and in imitation, see a; ONE AND MANY 4f. , see IDEA
+56;  MEMORY  AND  IMAGINATION t of genus and difference, see DEFINI, and for its
+bearing  on  the  signifi;  MAN  i la; NATURE 1b; ONE AND the Western World, but
+relevant  to  the  orks  are divided into two groups: in this collection. ted in
+this  collection.  blication of the works cited, consult the last chapter of The
+Great  Ideas.  standing,  BK  n,  CH  27  LEIBNITZ.  New Essays Concerning Human
+UnderVOLTAIRE. "Identity," in A Philosophical Dictionary WHEWELL. The Philosophy
+of  the  Inductive  Sciences, VOL i, BK vin JEVONS. The Substitution of Similars
+LOTZE.  Logic, BK i, CH 2 (A) BRADLEY. The Principles ofljogic, BK n, PART i, CH
+6;  Terminal Essays, iv BOSANQUET. Logic, VOL II, CH 3 . Science and Philosophy,
+2 ture, PART 11, APPENDIX 2
+
+GARRIGOU-LAGRANGE. God, His Existence and NaWHITEHEAD. The Concept of Nature, CH
+6 McTAGGART. The Nature of Existence, CH 7-10 SANTAYANA. The Realm of Matter, CH
+8-9 PENIDO. Le r6le de /' analogic en thSologie dogmatique MARITAIN. The Degrees
+of  Knowledge,  CH  4  .  A  Preface  to  Metaphysics,  LECT v B. RUSSELL. Human
+Knowledge, Its Scope and Limits, PART vi, CH 3
