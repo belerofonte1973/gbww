@@ -69,7 +69,7 @@ Use `--offset N` when a PDF has N unnumbered preliminary pages before the book's
 
 ### Single-column detection
 
-Some volumes (33 Pascal, 34 Newton/Huygens, 47 Goethe, 53 William James) use a single-column layout instead of the two-column standard. Without detection, their text blocks — centered at the midpoint — fall in the gutter and are discarded, losing 30–84% of the text.
+Nine volumes have ≥10% single-column pages and were re-extracted after the fix: 1 (Great Conversation), 13 (Virgil), 16 (Ptolemy/Copernicus/Kepler), 32 (Milton), 33 (Pascal), 34 (Newton/Huygens), 36 (Swift/Sterne), 47 (Goethe), 53 (William James). Without detection, their text blocks — centered at the midpoint — fall in the gutter and are discarded, losing 14–84% of the text.
 
 The fix (in `_is_single_column`): if >40% of a page's text blocks have their horizontal center within the gutter zone, the page is treated as single-column and all blocks are extracted into column `[Xa]` without splitting. Two-column pages produce `[Xa]` and `[Xb]` as usual.
 
