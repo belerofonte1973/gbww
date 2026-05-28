@@ -1,697 +1,1351 @@
-Chapter 37:
+CHAPTER: IDEA
 
-INTRODUCTION AS the topical analysis or outline in each JLk chapter indicates,
-the great ideas are not simple objects of thought. Each of the great ideas seems
-to have a complex interior structure an order of parts involving related
-meanings and diverse positions which, when they are opposed to one another,
-determine the basic issues in that area of thought.
+INTRODUCTION
 
-The great ideas are also the conceptions by which we think about things. They
-are the terms in which we state fundamental problems; they are the notions we
-employ in defining issues and discussing them. They represent the principal
-content of our thought. They are what we think as well as what we think about.
+f
+AS
+the
+topical
+analysis or outline
+in each
+jlV chapter indicates, the great ideas are not
+simple objects of thought. Each of the great
+ideas seems to have a complex interior structure
+—an order of parts involving related meanings
+and
+diverse
+positions
+which, when
+they
+are
+opposed
+to one another, determine
+the
+basic
+issues in that area of thought.
+The great ideas are also the conceptions by
+which we
+think about
+things. They
+are
+the
+terms in which we state fundamental problems;
+they
+are
+the
+notions we employ
+in defining
+issues and discussing them. They represent the
+principal
+content
+of our
+thought. They
+are
+what we think as well as what we think about.
+If,
+in addition
+to
+its
+objects and content,
+we wish to think about thought itself—its acts
+or processes—we shall find in the tradition of
+the
+great
+books
+a number of related
+terms
+which indicate the scope of such inquiry. Some
+of them are:
+idea, judgment, understanding,
+and reasoning; perception, memory, and imagination; sense and mind. Here we are concerned
+with one of these— the idea Idea. It is probably
+the most elementary of all these related terms,
+for according
+to different conceptions of the
+nature
+and
+origin
+of
+ideas,
+the
+analysis
+of
+thought and knowledge
+will
+vary.
+Different
+positions will be taken concerning the faculties
+by which men know, the acts and processes of
+thmking, and the fimits of human understanding.
+Does the word "idea," when it
+is used in the
+technical discourse of metaphysics or psychology,
+signify
+that which
+is known
+or understood ? Does it signify, not the object of thought,
+but the thought itself? Or both? Certainly in
+popular speech the word is used both ways, for
+men speak of understanding an idea and note
+differences in their understanding of the same
+idea; and they also say that ihey have diiTerent
+ideas about the same thing, meaning that they
+understand the same thing differently.
+The word "idea" has many other oppositions
+of meaning in its tremendous range of ambiguity.
+It
+is sometimes used
+exclusively
+for
+the
+eternal types in the divine mind or the intelligible
+forms
+that
+exist
+apart from
+material
+things which are
+their
+copies; sometimes
+for
+concepts in the human mind, abstracted from
+sense-experience; sometimes
+for
+the
+seeds of
+understanding which
+belong
+innately
+to
+the
+intellect and so do not need to be derived from
+sense. Sometimes "idea" means a sensation or a
+perception as well as an abstract thought, and
+then
+its connotation extends to almost every
+type of mental content; sometimes it
+is denied
+that there are any abstract or general ideas; and
+sometimes "idea" has the extremely restricted
+meaning of an image which
+is the memory of a
+sense-impression.
+Kant
+vigorously
+protests
+against what
+he
+thinks
+is a needless abuse of the term idea. "I
+beg those who really have philosophy at heart,"
+he writes, "to exert themselves to preserve to
+the expression
+idea
+its
+original
+signification."
+There
+is, he insists, "no want of words to denominate adequately every mode of representation without encroaching upon terms which are
+proper to others."
+Kant
+proposes
+a
+"graduated
+list"
+of such
+terms. He begins with perception^ which he divides into sensation and cognition, according as
+it
+is subjective or objective. A cognition, he
+then goes on,
+"is either an intuition or a conception,'' according as
+it has either an immediate or a mediate relation
+to
+its object. Dividing conceptions into the empirical and the
+pure, Kant finally reaches the term idea as one
+sub-division of pure conceptions.
+If the pure
+conception "has its origin in the understanding
+alone, and is not the conception of a pure sensuous image,"
+it
+is a notio or notion; and "a
+conception formed from notions, which transcends the possibiHty of experience, is an idea, or
+a conception of reason."
+According
+to Kant, anyone "who has
+accustomed himself to
+these
+distinctions,"
+will
+find it "quite intolerable to hear the representation of the color red called an idea." Tolerable
+or intolerable, the word "idea" has been used
+quite persistently with the very meaning that
+Kant abominates, as well as with a variety of
+others. The reader of the great books must be
+prepared for
+all
+these
+shifts in meaning and,
+with them, shifts in doctrine; for according to
+these
+differences
+in
+meaning,
+there
+are
+different analyses of the nature or being of ideas,
+different accounts of their origin or their coming
+to be
+in the human mind, and
+different
+classifications of ideas. These three questions
+what ideas are, how ideas are obtained, and of
+what sorts they are—are so connected that the
+answer given to one of them tends to circumscribe the answers which can be given to the
+other two.
+The unity of each chapter in this guide to the
+great
+books depends on some
+continuity of
+meaning
+in
+its
+central
+term, some common
+thread of meaning, however thin or tenuous,
+which
+unites and makes
+intelligible
+the
+discussions
+of various
+authors
+about
+the same
+thing. Without
+this, they would not move in
+the same universe of discourse at all. Nor could
+they even disagree with one another,
+if the
+words they used were utterly equivocal, as for
+example the word "pen"
+is equivocal when it
+designates a wri ting instrument and an enclosure
+for pigs.
+The
+extraordinary ambiguity of the word
+"idea" as it is used in the great books puts this
+principle to the test. Are Plato and Hume talking about the same thing at all, when the one
+discusses ideas as the only inteUigible
+reality
+and the other treats ideas as the images derived
+through memory from the original impressions
+of
+sense-experience?
+Is
+there
+any common
+ground between Aristotle and Berkeley— between the identification of human ideas with
+abstract or general conceptions, quite distinct
+from the perceptions or images of sense, and the
+identification of ideas with particular perceptions, accompanied by a denial of abstract or
+general notions ?
+Do writers like Locke or William James, for
+whom ideas of sensation and abstract ideas (or
+percepts and concepts) belong to the one faculty of understanding or to the single stream of
+consciousness, communicate with writers
+like
+Plotinus,
+Descartes, and
+Spinoza,
+for whom
+ideas belong to the intellect or to the thinking
+being, separate from matter and from sensations which are only bodily reactions? Or with
+writers like Aristotle and Aquinas, for whom
+there is a sharp distinction between the faculties
+of sense and intellect? Can Aristotle and Aquinas in turn explain the origin of concepts or intelligible species by reference to the intellect's
+power of abstracting them from experience or
+sensible
+species, and
+still
+carry on discussion
+with Plato, Augustine, and Descartes, who regard the intellect as in some way innately endowed with ideas, with the principles or seeds
+of understanding ?
+The foregoing is by no means an exhaustive
+inventory.
+It
+fails, for example,
+to ask about
+the
+sense
+in which
+the
+theologians speak of
+ideas in the mind of God and of the illumination of the angelic or the human intellect by
+ideas divinely infused. (What
+is the common
+thread of meaning between such discourse and
+that concerned with the formation of abstract
+concepts or with the revival of sense-impressions in images?)
+It
+fails also to question the
+meaning of idea in Kant's tripartite analysis of
+the faculties of intuition, judgment, and reasoning; or in Hegel's ultimate synthesis of all nature and history in the dialectical
+life of the
+Absolute
+Idea. (What do
+these meanings of
+"idea" have in common with the sense in which
+Freud distinguishes between conscious and unconscious ideas ?)
+The inventory
+is also incomplete in that
+it
+does not indicate
+the many divergent routes
+taken by authors who seem to share a common
+starting
+point. Even
+those who, on
+certain
+points, seem to talk the same language, appear
+to have no basis for communication on other
+points in the theory of ideas. But the questions
+which have been asked suffice for the purpose
+at
+hand.
+However
+great
+the
+ambiguity
+of
+"idea," it does not reach that Hmit of equivoca-
 
-If, in addition to its objects and content, we wish to think about thought
-itself its acts or processes we shall find in the tradition of the great books a
-number of related terms which indicate the scope of such inquiry. Some of them
-are: idea, judgment, understanding, and reasoning; perception, memory, and
-imagination; sense and mind. Here we are concerned with one of these the idea
-IDEA. It is probably the most elementary of all these related terms, for
-according to different conceptions of the nature and origin of ideas, the
-analysis of thought and knowledge will vary. Different positions will be taken
-concerning the faculties by which men know, the acts and processes of thinking,
-and the limits of human understanding.
-
-DOES THE WORD "idea/* when it is used in the technical discourse of metaphysics
-or psychology, signify that which is known or understood ? Does it signify, not
-the object of thought, but the thought itself? Or both? Certainly in popular
-speech the word is used both ways, for men speak of understanding an idea and
-note differences in their understanding of the same idea; and they also say that
-they have different ideas about the same thing, meaning that they understand the
-same thing differently. The word "idea" has many other oppositions of meaning in
-its tremendous range of ambiguity. It is sometimes used exclusively for the
-eternal types in the divine mind or the intelligibleforms that exist apart from
-material things which are their copies; sometimes for concepts in the human
-mind, abstracted from sense-experience; sometimes for the seeds of understanding
-which belong innately to the intellect and so do not need to be derived from
-sense. Sometimes "idea" means a sensation or a perception as well as an abstract
-thought, and then its connotation extends to almost every type of mental
-content; sometimes it is denied that there are any abstract or general ideas;
-and sometimes "idea" has the extremely restricted meaning of an image which is
-the memory of a sense-impression. Kant vigorously protests against what he
-thinks is a needless abuse of the term idea. "I beg those who really have
-philosophy at heart," he writes, "to exert themselves to preserve to the
-expression idea its original signification." There is, he insists, "no want of
-words to denominate adequately every mode of representation without encroaching
-upon terms which arc proper to others." Kant proposes a "graduated list" of such
-terms. He begins with perception, which he divides into sensation and cognition,
-according as it is subjective or objective. A cognition, he then goes on, "is
-either an intuition or a conception" according as it has either an immediate or
-a mediate relation to its object. Dividing conceptions into the empirical and
-the pure, Kant finally reaches the term idea as one sub-division of pure,
-conceptions. If the pure conception "has- its origin in the understanding 761
-762 alone, and is not the conception of a pure sensuous image," it is a notio or
-notion; and "a conception formed from notions, which transcends the possibility
-of experience, is an idea, or a conception of reason." According to Kant, anyone
-"who has accustomed himself to these distinctions," will find it "quite
-intolerable to hear the representation of the color red called an idea."
-Tolerable or intolerable, the word "idea" has been used quite persistently with
-the very meaning that Kant abominates, as well as with a variety of others. The
-reader of the great books must be prepared for all these shifts in meaning and,
-with them, shifts in doctrine; for according to these differences in meaning,
-there are different analyses of the nature or being of ideas, different accounts
-of their origin or their coming to be in the human mind, and different
-classifications of ideas. These three questions what ideas are, how ideas are
-obtained, and of what sorts they are are so connected that the answer given to
-one of them tends to circumscribe the answers which can be given to the other
-two.
-
-THE UNITY OF EACH chapter in this guide to the great books depends on some
-continuity of meaning in its central term, some common thread of meaning,
-however thin or tenuous, which unites and makes intelligible the discussions of
-various authors about the same thing. Without this, they would not move in the
-same universe of discourse at all. Nor could they even disagree with one
-another, if the words they used were utterly equivocal, as for example the word
-"pen" is equivocal when it designates a writing instrument and an enclosure for
-pigs. The extraordinary ambiguity of the word "idea" as it is used in the great
-books puts this principle to the test. Are Plato and Hume talking about the same
-thing at all, when the one discusses ideas as the only intelligible reality and
-the other treats ideas as the images derived through memory from the original
-impressions of sense-experience? Is there any common ground between Aristotle
-and Berkeley between the identification of human ideas with abstract or general
-conceptions, quite distinct from the perceptions or images of sense, and the S
-identification of ideas with particular perceptions, accompanied by a denial of
-abstract or general notions? Do writers like Locke or William fames, for whom
-ideas of sensation and abstract ideas (or percepts and concepts) belong to the
-one faculty of understanding or to the single stream of consciousness,
-communicate with writers like Plotinus, Descartes, and Spinoza, for whom ideas
-belong to the intellect or to the thinking being, separate from matter and from
-sensations which are only bodily reactions? Or with writers like Aristotle and
-Aquinas, for whom there is a sharp distinction between the faculties of sense
-and intellect? Can Aristotle and Aquinas in turn explain the origin of concepts
-or intelligible species by reference to the intellect's power of abstracting
-them from experience or sensible species, and still carry on discussion with
-Plato, Augustine, and Descartes, who regard the intellect as in some way
-innately endowed with ideas, with the principles or seeds of understanding? The
-foregoing is by no means an exhaustive inventory. It fails, for example, to ask
-about the sense in which the theologians speak of ideas in the mind of God and
-of the illumination of the angelic or the human intellect by ideas divinely
-infused. (What is the common thread of meaning between such discourse and that
-concerned with the formation of abstract concepts or with the revival of
-sense-impressions in images?) It fails also to question the meaning of idea in
-Kant's tripartite analysis of the faculties of intuition, judgment, and
-reasoning; or in Hegel's ultimate synthesis of all nature and history in the
-dialectical life of the Absolute Idea, (What do these meanings of "idea" have in
-common with the sense in which Freud distinguishes between conscious and
-unconscious ideas ?) The inventory is also incomplete in that it does not
-indicate the many divergent routes taken by authors who seem to share a common
-starting point. Even those who, on certain points, seem to talk the same
-language, appear to have no basis for communication on other points in the
-theory of ideas. But the questions which have been asked suffice for the purpose
-at hand. However great the ambiguity of "idea," it does not reach that limit of
-equivoca- CHAPTE tion which would destroy the universe of discourse. There is a
-slender thread of meaning which ties all the elements of the tradition
-togethernot in a unity of truth or agreement, but in an intelligible joining of
-issues.
-
-This unity can be seen in two ways. It appears first in the fact that any
-consideration of ideas whether as objects or contents of the mind involves a
-theory of knowledge. This much is common to all meanings of "idea."
-
-Those, like Plato and Berkeley, for whom ideas constitute a realm of
-intelligible or sensible being, make knowledge of reality consist in the
-apprehension or understanding of ideas.
-
-Those, like Aristotle and James, for whom ideas have no being except as
-perceptions or thoughts, make them the instruments whereby reality is known. On
-either view, knowledge involves a relationship between a knower and a known, or
-between a knowing faculty and a knowable entity; but on one view ideas are the
-reality which is known, and on the other they are the representations by which
-is known a reality that does not include ideas among its constituents. These two
-views do not exhaust the possibilities. Ideas are sometimes regarded both as
-objects of knowledge and as representations of reality. Some writers (as, for
-example, Plato) distinguish two orders of reality the sensible and the
-intelligible and two modes of apprehension sensing and understanding; and they
-use the word "idea" for both the intelligible object and the understanding of
-it. Locke, begging the reader's pardon for his frequent use of the word "idea,"
-says that it is the term "which serves best to stand for whatsoever is the
-object of the understanding when a man thinks." But Locke also distinguishes
-between knowledge of real existences through ideas "that the mind has of things
-as they are in themselves," and knowledge of the relations among our own ideas,
-which the mind "gets from their comparison with one another," For Hume, too,
-ideas as well as impressions are involved in our knowledge of matters of fact,
-but relations between ideas may also be objects of knowledge, as in "the
-sciences of geometry, algebra, and arithmetic." This double use of "idea" is
-sometimes accompanied, as in Aquinas, by an explicit ac- R 37: IDEA 73
-knowledgement and ordering of the two senses. For Aquinas, concepts are
-primarily the means of knowledge, not the objects of knowledge. A concept,
-Aquinas writes, "is not what is actually understood, but that by which the
-intellect understands" that by which something else is known. Secondarily,
-however, concepts become that which we know when we reflexively turn our
-attention to the contents of our own mind. Using the phrase "intelligible
-species" to signify concepts, Aquinas explains that "since the intellect
-reflects upon itself, by such reflection it understands not only its own act of
-intelligence but also the species by which it understands. Thus the intelligible
-species is that which is understood secondarily; but that which is primarily
-understood is the object, of which the species is the likeness." It is possible,
-therefore, to have ideas about things or ideas about ideas. In the vocabulary of
-this analysis by Aquinas, the ideas or concepts whereby real things are
-understood are sometimes called the "first intentions" of the mind. The ideas
-whereby we understand these ideas or first intentions are called the mind's
-"second intentions." An idea is always a mental intention, an awareness or
-representation, never an independent reality for the mind to know. Locke's
-differentiation between ideas of sensation and ideas of reflection seems to
-parallel the mediaeval distinction between first and second intentions; but
-whereas second intentions are ideas engaged in a reflexive understanding of
-ideas as objects to be understood, Locke's ideas of reflection comprise "the
-perception of the operations of our own mind within us, as it is employed about
-the ideas it has got." A closer parallel, perhaps, is to be found in Locke's
-distinction between our knowledge of reality or of real existences and our
-knowledge of the relations existing between our own ideas. THE SECOND WAY of
-seeing a connection among meanings of "idea" depends on recognizing what is
-common to contrary views. The word "pen" is utterly equivocal, as we have noted,
-when it names a writing instrument and an animal enclosure. Hence men cannot
-contradict one another no matter what opposite things they may say about pens in
-one sense and pens in the other. The two meanings of "pen" are not even
-connected by being opposed to one another. But all the meanings of "idea" do
-seem to be connected by opposition at least, so that writers who use the word in
-its different senses and have different theories of idea cannot avoid facing the
-issues raised by their conflicting analyses. The root of this opposition lies in
-the positive and negative views of the relation of ideas to sensations or, more
-generally, to sense and the sensible. Though there are different analyses of
-sensation, one or both of two points seems to be agreed upon: that sensations
-are particular perceptions and that sensations result from the impingement of
-physical stimuli upon the sense organs of a living body.
-
-Berkeley insists upon the first point while emphatically denying the second.
-Ideas or sensations are always particulars; but, he says, "the various
-sensations or ideas imprinted on the sense, however blended or combined together
-(that is, whatever objects they compose), cannot exist otherwise than in a mind
-perceiving them," and their cause is neither physical matter nor the perceiving
-mind, but "some other will or spirit that produces them." Others, like Lucretius
-and Hobbes, who regard sensations as particular perceptions, do not use the word
-"idea," as Berkeley does, for perceptions of external origin, but restrict it to
-inner productions of the mind itself in its acts of memory or imagination. The
-various theories of idea thus range from those which identify an idea with a
-sensation or perception or with the derivatives of sensation, to those which
-deny the identity or even any relationship between ideas and sensations or
+<;cther—not in a unity of truth or agreement,
+hut in an intelligible joining of issues.
+This unity can be seen in two ways.
+It appears first in the fact that any consideration of
+ideas—whether as
+objects or contents of the
+mind—involves a theory of knowledge. This
+much
+is common
+to
+all meanings of "idea."
+Those, hke Plato and Berkeley,
+for whom
+ideas constitute a realm of intelligible or sensible being, make knowledge of reality consist in
+the apprehension
+or understanding
+of
+ideas.
+Those, like Aristotle and James, for whom ideas
+have no being except as perceptions or thoughts,
+make them the instruments whereby reality
+is
+known. On either view, knowledge involves a
+relationship between a knower and a known, or
+between
+a knowing faculty and
+a knowable
+entity; but on one view ideas are the reaUty
+which is known, and on the other they are the
+representations by which
+is known
+a
+reality
+that does not include ideas among
+its constituents. These two views do not exhaust
+the
+possibilities.
+Ideas are sometimes regarded both as objects
+of knowledge and as representations of reality.
+Some writers
+(as,
+for example, Plato)
+distinguish two orders of reaHty— the sensible and
+the intelligible—and two modes of apprehension—sensing and understanding; and they use
+the word
+"idea" for both the intelligible object and the understanding of it. Locke, begging the reader's pardon for his frequent use of
+the word "idea," says that it is the term "which
+serves best to stand for whatsoever is the object
+of the understanding when a man thinks." But
+Locke also distinguishes between knowledge of
+real existences through ideas "that
+the mind
+has of things as they are in themselves," and
+knowledge
+of the
+relations among our own
+ideas, which the mind "gets from
+their comparison with one another."
+For Hume,
+too,
+ideas as well as impressions are involved in our
+knowledge of matters of fact, but relations between ideas may also be objects of knowledge,
+as in "the sciences of geometry, algebra, and
+arithmetic."
+This double use of "idea"
+is sometimes accompanied, as in Aquinas, by an explicit acknowledgement and ordering of the two senses.
+For Acjuinas, concepts are primarily the means
+of knowledge, not
+the objects of knowledge.
+A
+concept, Aquinas
+writes,
+"is not
+what
+is
+actually
+understood,
+but
+that
+by which
+the
+intellect understands"— that
+by which something
+else
+is
+known.
+Secondarily,
+however,
+concepts become
+that which we know when
+we
+reflexively
+turn our attention to the contents of our own mind. Using the phrase "intelligible
+species"
+to signify
+concepts,
+Acjuinas explains
+that
+"since
+the
+intellect
+reflects
+upon
+itself, by such
+reflection
+it understands
+not only its own act of intelligence but also the
+species by which
+it understands. Thus the intelligible
+species
+is
+that which
+is understood
+secondarily; but that which is primarily understood
+is the object, of which the species
+is the
+likeness."
+It
+is possible, therefore, to have ideas about
+things or ideas about ideas. In the vocabulary
+of this analysis by Aquinas,
+the ideas or concepts whereby
+real
+things are understood are
+sometimes called the
+"first intentions" of the
+mind. The ideas whereby we understand these
+ideas or
+first intentions are called
+the mind's
+"second intentions." An idea
+is always a mental intention, an awareness or representation,
+never an independent reality for the mind to
+know.
+Locke's differentiation between ideas of sensation and ideas of reflection seems to parallel
+the
+mediaeval
+distinction
+between
+first and
+second intentions; but whereas second intentions are
+ideas engaged
+in
+a
+reflexive understanding of ideas as objects to be understood,
+Locke's ideas of reflection comprise "the perception ofthe operations of our own mind within us, as
+it
+is employed about the ideas
+it has
+got." A closer parallel, perhaps,
+is to be found
+in Locke's distinction between our knowledge
+of reality or of real existences and our knowledge of the relations existing between our own
+ideas.
+The second way of seeing a connection among
+meanings
+of "idea" depends on
+recognizing
+what
+is common to contrary views.
+The word "pen"
+is utterly equivocal, as we
+have noted, when
+it names a writing instrument and an animal
+enclosure. Hence men
+I
+cannot contradict one another no matter what
+opposite things they may say about pens in one
+sense and pens in the other. The two meanings
+of "pen" are not even connected by being opposed to one another. But all the meanings of
+"idea" do seem to be connected by opposition
+at least, so that writers who use the word in its
+different senses and have different theories of
+idea cannot avoid facing the
+issues raised by
+their conflicting analyses.
+The root of this opposition lies in the positive
+and negative views of the relation of ideas to
+sensations— or, more generally, to sense and the
+sensible. Though there are different analyses of
+sensation, one or both of two points seems to be
+agreed upon: that sensations are particular perceptions and that sensations result from the impingement of physical stimuli upon the sense
+organs of a living body.
+Berkeley
+insists upon the
+first point while
+emphatically denying the second. Ideas or sensations are always particulars; but, he says, "the
+various sensations or ideas imprinted on the
+sense, however blended or combined together
+(that
+is, whatever objects they compose), cannot exist otherwise than in a mind perceiving
+them," and their cause is neither physical matter nor the perceiving mind, but "some other
+will or spirit that produces them." Others, like
+Lucretius and Hobbes, who regard sensations as
+particular perceptions, do not
+use
+the word
+"idea," as Berkeley does, for perceptions of external origin, but restrict it to inner productions
+of the mind itself in its acts of memory or imagination.
+The various theories of idea thus range from
+those which identify an idea with a sensation or
+perception or with the derivatives of sensation,
+to those which deny the identity or even any
+relationship between
+ideas and
+sensations or
 images of sense.
-
-THE FIRST POSITION is taken by writers who conceive mind or understanding, in
-men or animals, as the only faculty of knowledge. It performs all the functions
-of knowing and thinking. It is sensitive as well as reflective. It perceives and
-remembers as well as imagines and reasons.
-
-Within this group of writers there are differences. Berkeley, for example,
-thinks "the ob- jects of human knowledge" include "either ideas actually
-imprinted on the senses; or else such as are perceived by attending to the
-passions and operations of the mind ; or lastly ideas formed by the help of
-memory and imagination either compounding, dividing, or barely representing
-those originally perceived in the aforesaid ways." Hume, on the other hand,
-divides "all the perceptions of the mind into two classes or species, which are
-distinguished by their different degrees of force or vivacity. The less forcible
-and lively are commonly denominated Thoughts or Ideas. The other species want a
-name in our language and in most others . .Let us, therefore, use a little
-freedom and . call them Impressions." By this term, Hume explains, "I mean all
-our more lively perceptions, when we hear, or see, or feel, or love, or hate, or
-desire, or will." Another use of terms is represented by Locke, who
-distinguishes between ideas of sensation and reflection, simple and complex
-ideas, particularand general ideas, and uses the word "idea" both for the
-original elements of senseexperience and for all the derivatives produced by the
-mind's activity in reworking these given materials, whether by acts of memory,
-imaginative construction, or abstraction. Still another variation is to be found
-in William James. Despite the authority of Locke, he thinks that the " word
-'idea' has not domesticated itself in the language so as to cover bodily
-sensations." Accordingly, he restricts the word "idea" to concepts, and never
-uses it for sensations or perceptions. Nevertheless, like Locke, he does not
-think that the development of concept from percept needs the activity of a
-special faculty. Both concept and percept belong to the single "stream of
-thought" and are "states of consciousness." THE SECOND POSITION is taken by
-writers who in one way or another distinguish between sense and intellect and
-regard them as quite separate faculties of knowing. The one is supposed to
-perform the functions of perception, imagination, and memory; the other, the
-functions of thought conception, judgment, and reasoning, or if not these, then
-acts of intellectual vision or intuition. Here, too, there are differences
-within the group.
-
-CHAPTER 37
-
-Just as the extreme version of the first position is taken by those who identify
-ideas with perceptions, so here the opposite extreme consists in the denial of
-any connection between ideas and all the elements of sense-experience. The ideas
-in the divine mind or the ideas infused by God into the angelic intellects, have
-no origin in experience, nor any need for the perceptions, memories, or images
-of sense. They are not abstract ideas, that is, they are not con:epts abstracted
-from sense-materials. "Our intellect/' Aquinas writes, "abstracts the
-intelligible species from the individuating principles" the material conditions
-of sense ind imagination. "But the intelligible species in the divine
-intellect," he continues, "is immaterial, not by abstraction, but of itself,"
-The jivine ideas, Aquinas quotes Augustine as saying, "are certain original
-forms or permanent and immutable models of things which are contamed in the
-divine intelligence.*' Following Augustine's statement that "each thing was
-:reated by God according to the idea proper to it,"Aquinas restricts the word
-"idea" to the 'exemplars existing in the divine mind" and to the species of
-things with which God informs the angelic intellects. He uses the word "con:ept"
-where others speak of "ideas" in the luman mind. Descartes, on the other hand,
-endows the luman mind with not concepts abideas tracted from and dependent on
-sense, but in:uitive apprehensions which, since they cannot DC drawn in any way
-from sense-experience, nust be an innate property of the human mind, -ie does
-not, however, always use the word 'idea" in this strict sense. Some ideas, he
-says, 'appear to be innate, some adventitious, and others to be formed or
-invented by myself." The ideas called "adventitious" are those which ,eem to
-come from the outside, as when "I hear iome sound, or see the sun, or feel
-heat." Those vhich we form or invent ourselves are "contructions of the
-imagination." Only innate deas, in Descartes' view, are truly ideas in the cnse
-of being the elements of certain knowledge and the sources of intellectual
-intuition. 'By intuition," he says, "I understand, not the luctuating testimony
-of the senses, nor the nisleading judgment that proceeds from the lundering
-constructions of the imagination," : IDEA but "the undoubting conception of an
-unclouded and attentive mind" which "springs from the light of reason alone." As
-mind and body are separate substances for Descartes mind being conceived by him
-as a res cogitans or thinking substance, quite separate from a res cxtcnsa or
-the extended matter of a bodily substance so ideas and sensations are
-independent in origin and function. Like infused ideas in the angelic intellect,
-innate ideas in the human mind are not abstract, for they are not abstracted.
-But unlike the angelic intellect, the human mind, even when it employs innate
-ideas, is discursive or cogitative. It is never conceived as entirely free from
-the activities of judgment and reasoning, even when its power is also supposed
-to be intuitive that is, able to apprehend intelligible objects without analysis
-or without recourse to the representations of sense. The doctrine of innate
-ideas does not always go as far as this in separating intellectual knowledge or
-knowledge by means of ideas from sense-experience. In the theories of Plato and
-Augustine, for example, sense-experience serves to awaken the understanding to
-apprehend the intelligible objects for the intuition of which it is innately
-equipped. "To learn those things which do not come into us as images by the
-senses," Augustine writes, "but which we know within ourselves without images
-... is in reality only to take things that the memory already contains scattered
-and unarranged . . and by thinking . bring them together." Moreover, the memory
-contains, not only "images impressed upon it by the senses of the body, but also
-the notions of the very things themselves, which notions we never received by
-any avenue of the body." This process of learning by remembering appears to be
-similar to the process which Plato also calls "recollection" or "reminiscence."
-In the Meno Socrates demonstrates that a slaveboy, who thinks he knows no
-geometry, can be led simply by questioning to discover that he knew all the
-while the solution of a geometric problem. "There have always been true thoughts
-in him," Socrates tells Meno, thoughts "which only needed to be awakened into
-knowledge by putting questions to him/' Hence "his soul must always have
-possessed this knowledge." Learning, according to this doctrine of innate
-ideas,must therefore be described as an attempt "to recollect/' not "what you do
-not know," but "rather what you do not remember." Learning by recollection or
-reminiscence seems to be a process in which latent ideas (whether they are
-retained by the soul from a previous life or are part of the soul's endowment at
-its creation) become active either through the questioning of a teacher or
-through being awakened by the perceptions of the bodily senses. Though such
-bodily stimulation of thought implies a functional connection between body and
-soul, nevertheless both Plato and Augustine hold that ideas are independent in
-origin. They are not derived from sense, though their appearance may be
-occasioned by events in the world of sense.
-
-ONE OTHER VIEW still remains to be considered. It denies that ideas are innate
-in the human mind at the same time that it distinguishes between the intellect
-and the senses as separate faculties of knowing. Having to explain whence the
-intellect gets its ideas, writers like Aristotle and Aquinas attribute to the
-human intellect an abstractive power by which it draws "the intelligible
-species" from sensory images, which Aquinas calls "phantasms." The concepts by
-which "our intellect understands material things," we obtain "by abstracting the
-form from the individual matter which is represented by the phantasms."
-
-Through the universal concept thus abstracted, we are able, Aquinas holds, "to
-consider the nature of the species apart from its individual principles." It
-should be added here that abstractions are not vehicles of intuitive
-apprehension. Conception, which is the first act of the mind, yields knowledge
-only when concepts are used in subsequent acts of judgment and reasoning.
-Abstract or universal concepts are as different from the ideas which belong to
-intellects separate from bodies the divine or angelic intellects- as they are
-different from the particular perceptions or images of sense. They occupy an
-intermediate position between the two, just as, according to Aquinas, "the human
-intellect holds a middle place" between angelic intelli- gence and corporeal
-sense. On the one hand, the human intellect is for Aquinas an incorporeal power;
-on the other hand, it functions only in cooperation with the corporeal powers of
-sense and imagination. So the concepts which the human intellect forms, being
-universal, are immaterial; but they are also dependent, in origin and function,
-on the materials of sense. Not only are universal concepts abstracted from the
-phantasms, but for the intellect to understand physical things, "it must of
-necessity," Aquinas writes, "turn to the phantasms in order to perceive the
-universal nature existing in the individual." This theory of abstract ideas
-seems not far removed from the position of Locke, who distinguishes between
-particular and general ideas (which he calls "abstract") or that of William
-James, who distinguishes between universal concepts and sense-perceptions. Yet
-on one question the difference between them is radical, namely, whether
-particular sensations and universal ideas belong to the same faculty of mind or
-to the quite distinct faculties of sense and intellect. This difference seems to
-have considerable bearing on the way in which these writers explain the process
-of abstraction or generalization, with consequences for certain subtleties,
-acknowledged or ignored, in the analysis of the grades of abstraction.
-Nevertheless, the resemblance between the positions of Locke and Aquinas, or
-those of William James and Aristotle, each affirming in his own way that the
-mind contains nothing not rooted in the senses, serves to mediate between the
-more extreme positions. THE DISPUTE ABOUT innate ideas and the controversy over
-abstract ideas are issues in psychology inseparable from fundamental differences
-concerning the nature and operation of the faculty or faculties of knowing.
-There are other issues which concern the being or the truth of ideas. Here the
-first question is not whether ideas are objects of knowledge, but whether the
-existence of ideas is real or mental outside 'the mind or in it. One aspect of
-this controversy is considered in the chapter on FORM, viz., the argument
-between Aristbtle and Plato about' the being of CHAPTER the Ideas or Forms apart
-from both matter and mind. It is in the context of this argument that the
-traditional epithet "realism" gets one of its meanings, when it signifies the
-view that ideas or universals have an independent reality of their own. The
-various opponents of this view are not called "idealists." If they deny any
-existence to universal ideas outside the mind, they are usually called
-"conceptuahsts"; if they deny the presence of universals even in the mind, they
-are called "nominalists." These doctrines are more fully discussed in the
-chapters on SAME AND OTHER, UNIVERSAL AND PARTICULAR. The controversy about the
-being of ideas has another phase that has already been noted in this chapter;
-and it is in this connection that the epithet "idealism" gets one of its
-traditional meanings. The doctrine is not that ideas have real existence outside
-the mind. On the contrary, it is that the only realities are mental either minds
-or the ideas in them.
-
-Berkeley's famous proposition essc est percipi, to be is to be perceived seems
-intended to permit only one exception. The perceiving mind has being without
-being perceived, but nothing else has. Everything else which exists is an idea,
-a being of and in the mind. According to this doctrine (which takes different
-forms in Berkeley and in Hegel, for example), the phrase "idea of" is
-meaningless.
-
-Nothing exists of which an idea can be a representation. There is no meaning to
-the distinction between thing and idea. The real and the ideal are identical.
-Plato is sometimes called an "idealist" but not in this sense. He has never been
-interpreted as completely denying reality to the changing material things which
-imitate or copy the eternal ideas, the immutable archetypes or Forms.
-
-Applied to Plato or to Plotmus, "idealism" seems to signify the superior reality
-of ideal (as opposed to material or physical) existence. Just as "idealism" has
-these widely divergent meanings, so does "realism" when it designates, on the
-one hand, those who attribute independent reality to ideas and, on the other
-hand, those who affirm the existence of an order of real existences independent
-of the ideas which represent them in the mind.
-
-Writers who distinguish between things and ideas, or between the order of
-reality and the 37: IDEA mind's conception of it, face the problem of
-differentiating between these two modes of being. To say that ideas or concepts
-exist only in the mind is not to say that they do not exist at all, but only
-that they do not exist in the same way as things outside the mind. Does an
-entity in its real existence apart from knowledge have the same character that
-it has when, as an object known, it somehow belongs to the knowing mind ? Is
-there a kind of neutral essence which can assume both modes of existence real
-existence, independent of mind, and ideal existence, or existence in the mind,
-as an object conceived or known? Is an idea or concept in the mind nothing but
-the real thing objectified, or transformed into an object of knowledge; or is
-the real thing, the thing in itself, utterly different from the objects of
-experience or knowledge neither knowable nor capable of representation by
-concepts? These questions, relevant to the consideration of ideas as
-representations of reality, are, of course, also relevant to problems considered
-in the chapters on BEING, EXPERIENCE, and KNOWLEDGE. The issues indicated are
-there discussed. Intimately connected with them are questions about the truth of
-ideas. Can ideas or concepts be true or false in the sense in which truth and
-falsity are attributed to propositions or judgments? Under what conditions is an
-idea true? In what does its truth consist, and what are the signs or marks of
-its truth? These matters are discussed in the chapter on TRUTH. Here it is
-sufficient to point out that the traditional distinction between adequate and
-inadequate ideas, and the comparison of clear and distinct with obscure and
-confused ideas, are used to determine the criteria of truth. It may be the truth
-of a concept taken by itself or of the judgment into which several concepts
-enter. To the extent that ideas are regarded as representative, their truth (or
-the truth of the judgments they form) seems to consist in some mode of agreement
-or correspondence with the reality they represent, or, as Spinoza says, its idea
-turn. Within the conceptual or mental order itself, there is a further
-distinction between ideas which do not perform a representative function and
-those which do. The former are treated as fantasies, fictions, or chimeras; the
-latter are called, by contrast, "real ideas," or ideas having some reference to
-reality. The question of the reality of ideas takes precedence over the question
-of their truth, at least for those who regard the division into true and false
-as applicable only to representations. Yet the criteria of the distinction
-between the real and the imaginary are difficult to separate from the criteria
-of true and false. The separation is made most readily by those who use "idea"
-to mean memory image. They can test the reality of an idea by tracing it back to
-the impression from which it originated. Another sort of test is applied by
-those who measure the reality of abstract ideas by their fidelity to the
-sense-perceptions from which they were abstracted. another criterion, proStill
-posed by William James, is that of freedom from contradiction. An idea has truth
-and itsobject has reality if it "remains uncontradieted." The idea of a winged
-horse illustrates the point. "If I merely dream of a horse with wings," James
-writes, "my horse interferes with nothing else and has not to be contradicted
-But if with this horse I make an inroad into the world otherwise known, and say,
-for example, 'That is my old mare Maggie, having grown a pair of wings where she
-stands in her stall,' the whole case is altered; for now the horse and place are
-identified with a horse and place otherwise known, and what is known of the
-latter objects is incompatible with what is perceived with the former."
-
-THE CONSIDERATION of ideas or concepts belongs to logic as well as to psychology
-and metaphysics. The logician sometimes deals with conand with the judgments
-into cepts directly which they enter; sometimes he deals with them only as they
-find verbal expression in terms and propositions. The distinction between
-concepts and judgments (or between terms and propositions) is discussed in the
-chapter on JUDGMENT. There also we see that the classification of judgments or
-propositions depends in part on the acceptance or rejection of the notions of
-subject and predicate in the analysis of concepts or terms; and, if they are
-accepted, on the way in which AS terms are distinguished both as subjects and as
-predicates. This in turn depends upon certain traditional divisions which are
-applicable to terms, if not always to concepts, such as the familiar
-distinctions between concrete and abstract, and particular and universal, terms.
-When the concept, which is sometimes called the "mental word," is regarded as by
-its very nature abstract and universal, these distinctions are applicable only
-to the physical words which are terms. Concrete and particular terms are then
-treated as verbal expressions of sense-perceptions or images; abstract and
-universal terms, as verbal expressions of ideas or concepts. But when ideas are
-identified with sense-perceptions or images, and abstract concepts are denied,
-the existence of general names in ordinary discourse suffices for the
-distinction between particular and universal terms, even though the latter do
-not express any actual content of the mind. Unlike the foregoing, other
-divisions of terms, as, forexample, the distinction between the univocal and the
-analogical, or between species and genera, do not occur throughout the tradition
-of logic. They tend to be characteristic of the logic of Aristotle and its
-mediaeval development. Of these two distinctions, that between univocal and
-analogical terms or concepts appears explicitly, so far as this set of great
-books is concerned, only in the Summa Theologica. Nevertheless, Aquinas does
-have some background for his special theory of analogical terms in Aristotle's
-treatment of univocal and equivocal names, and in his separation of terms which
-predicate a sameness in species or genus from those which predicate a sameness
-by analogy. The analysis of these distinctions is undertaken in the chapters on
-SAME AND OTHER and SIGN AND SYMBOL.
-
-Other writers, in dealing with universal terms, recognize that they have
-different degrees of generality. They sometimes formulate this as an order of
-more and less inclusive classes. Sometimes they refer to the intension and
-extension, or connotation and denotation, of terms. The more general terms have
-a less restricted connotation and hence represent more extensive or inclusive
-classes. The more specific terms have a more determinate meaning and so also
-have a narrower denotation and represent CHAPTER less inclusive classes. What
-seems to be peculiar to Aristotle's analysis of species and genera is the
-setting of upper and lower limits to the hierarchy of universal terms, with a
-small number of irreducible categories (or summa genera) under which all species
-fall, and, at the other extreme, with a finite number of lowest (or infimae)
-species which are incapable of subsuming other species. The terms which fall
-under the lowest species must either be particulars or accidental classes.
-
-Those which seem to be predicable of the categories themselves, such as being or
-one, cannot be genera. These are the terms which Aristotle's mediaeval followers
-call "transcendental" and "analogical." Using the word "transcendental" in a
-different sense,Kant enumerates a set of concepts which bear some resemblance to
-Anstotle's summa genera, but which he treats as transcendental categories. The
-difference among concepts with respect to generality is of interest to the
-psychologist as well as the logician, for it raises the problem OUTLINE OF TO
-
-1 . Doctrines of idea la. Ideas, or relations between ideas, as obj
-
-as eternal forms
-
-i b. Ideas or conceptions as that by which
-
-ic. Ideas as the data of sense-experience
-
-id. Ideas as the pure concepts of reason: reg
-
-le. Ideas in the order of supra-human inte and archetypes; the modes of the d
-
-i/.
-
-Idea as the unity of determinate exist
-
-2. The origin or derivation of ideas in the human
-
-2a. The infusion of ideas: divine illuminatio
-
-ib. The innate endowment or retention of idea content or structure by sense, by
-
-2c. The acquirement of ideas by perception or
-
-rect objects of the understanding
-
-2d. Reflection as a source of ideas: the mind
-
-2e. The genesis of ideas by the recollection
-
-2/1 The production of ideas by the reworki
-
-tive construction of concepts or t
-
-37: IDEA of whether the more or the less general takes precedence in the order
-of learning. The order and relation of ideas is even more the common ground of
-both logic and psychology. Both, for example, deal with the position and
-sequence of terms or concepts in reasoning, though the logician aims to
-prescribe the forms which reasoning must take in order to be valid, whereas the
-psychologist tries to describe the steps by which thinking actually goes on.
-Only the logician, however, is concerned
-
-with the way in which terms arc ordered to one another as positive and negative,
-or as contraries; just as from Aristotle to Freud, only the psychologist deals
-with the association of ideas in the stream of thought by relationships of
-contiguity and succession, similarity and difference. According as the logical
-connection of ideas or their psychological association is made the primary fact,
-radically divergent interpretations are given of the nature of mind, the life of
-reason, and the process of thought. PICS PAGE ects of thought or knowledge: the
-ideas the mind thinks or knows or their residues ulative principles lligence or
-spirit: the eternal exemplars ivine mind ence and concept: the Absolute Idea
-mind n s: the activation of the mind's native memory, or by experience
-intuition: simple ideas or forms as di's consideration of its own acts or
-content of sense-impressions: the images of sense ng of the materials of sense:
-the imaginahe formation of complex from simple ideas 2g. The abstraction of
-ideas from sense-experience: the concept as the
-
-the mind; the grades of abstraction
-
-2h. The derivation of transcendental ideas from the three syllogisms of
-
-3. The division of ideas according to their objective reference
-
-30. Ideas about things distinguished from ideas about ideas: the distin
-
-first and second intentions
-
-3#. Adequate and inadequate ideas: clear and distinct ideas as c
-
-obscure and confused ideas
-
-3r.
-
-Real and fantastic or fictional ideas: negations and chimeras
-
-4. The logic of ideas
-
-40. The verbal expression of ideas or concepts: terms
-
-4k. The classification of terms: problems in the use of different kinds
-
-(1) Concrete and abstract terms
-
-(2) Particular and universal terms
-
-(3) Specific and generic terms: tnfimae species and summa gener
-
-(4) Univocal and analogical terms
-
-4k. The correlation, opposition,
-
-and order of terms
-
-5. Ideas
-
-or concepts in the process of thought
-
-50. Concept
-
-and judgment: the division of terms as subjects a
-
-subjects and predicates
-
-5k. The position
-
-and sequence of terms in reasoning
-
-5k. The dialectical employment
-
-of the ideas of reason
-
-$d. The order of concepts in the stages of learning: the more and the l
-
-5*. The association, comparison,
-
-and discrimination of ideas:
-
-or consciousness
-
-6. The being and truth of ideas
-
-6a. The distinction between real and intentional existence, between thi
-
-ideas as symbols, or intentions of the mind
-
-6b. The nature and being of ideas in relation to the nature and being o
-
-6c. The agreement between an idea and its object: the criterion o
-
-correspondence
-
-6d. Clarity and distinctness in ideas as criteria of their truth
-
-6. The criterion of genesis: the test of an idea's truth or mea
-
-its origin
-
-6f. The truth and falsity of simple apprehensions, sensations, or co
-
-trasted with the truth and falsity of judgments or assert first act of reason
-ction between ompared with of terms a nd predicates; kinds of ess general the
-stream of thought ng and idea: f the mind f adequacy in ning by reference to
-nceptions: conions
-
-CHAPTER 37: ID
-
-REFERENCES
-
-To find the passages cited, use the numbers in heavy
-
-numbers of the passages referred to. For example, in
-
-number 4 is the number of the volume in the set; the
-
-sage is m section d of page 12.
-
-PAGE SECTIONS: When the text is printed in one colu
-
-upper and lower halves of the page. For example, in 5
-
-begins m the upper half of page and ends in the l
-
-in two columns, the letters a and b refer to
-
-printed
-
-hand side of the page, the letters c and d to the upp
-
-the page. For example, in 7 PLATO- Symposium, 163b-16
-
-of the left-hand side of page and ends in the upp
-
-AUTHOR'S DIVISIONS: One or more of the mam division
-
-SECT) are sometimes included in the reference; line n
-
-tain cases; e.g., Iliad, BK n [265-283] 12d.
-
-BIBLE REFERENCES The references are to book, chapte
-
-:
-
-and Douay versions differ m title of books or in the
-
-James version is cited first and the Douay, indicated
-
-MENT: Nehemiah, 7-45 (D) // Esdras, 7:46.
-
-SYMBOLS: The abbreviation "esp" calls the reader's
-
-relevant parts of a whole reference; "passim" signifi
-
-tently rather than continuously in the work or passag
-
-For additional information concerning the style of th
-
-Reference Style; for general guidance m
-
-the use of The
+The riRST position
+is taken by writers who
+conceive mind
+or
+understanding,
+in men
+or
+animals,
+as the only faculty of knowledge.
+It
+performs
+all
+the
+functions
+of knowing and
+thinking. It
+is sensitive as well as reflective. It
+perceives and remembers as well as imagines
+and reasons.
+Within this group of WTiters there are differences. Berkeley, for example, thinks "the objects
+of human
+knowledge"
+include
+"either
+ideas actually imprinted on the senses; or else
+such as are perceived by attending to the passions and operations of the mind; or lastly ideas
+formed by the help of memory and imagination—either compounding, dividing, or barely
+representing those originally perceived in the
+aforesaid ways." Hume, on
+the other hand,
+divides "all the perceptions of the mind into
+two classes or species, which are distinguished
+by their different degrees of force or vivacity.
+The less forcible and lively are commonly denominated Thoughts or Ideas. The other species
+want a name in our language and in most others
+.
+.
+. Let us, therefore, use a little freedom and
+call them
+Impressions.'' By
+this term, Hume
+explains, "I mean all our more lively perceptions, when we hear, or see, or feel, or love, or
+hate, or desire, or will."
+Another use of terms is represented by Locke,
+who distinguishes between
+ideas of sensation
+and reflection, simple and complex ideas, particular and general
+ideas, and
+uses the word
+"idea" both for the original elements of senseexperience and for all the derivatives produced
+by the mind's activity in reworking these given
+materials, whether by acts of memory, imaginative construction, or abstraction.
+Still another
+variation
+is to be found in William James. Despite the authority of Locke, he thinks that the
+word " 'idea' has not domesticated itself in the
+language so as to cover bodily sensations." Accordingly, he restricts the word "idea" to concepts, and never uses
+it for sensations or perceptions. Nevertheless, like Locke, he does not
+think that the developm^ent of concept from
+percept needs the activity of a special faculty.
+Both concept and percept belong to the single
+"stream of thought" and are
+"states of consciousness."
+The second position is taken by writers who
+in one way
+or another
+distinguish between
+sense and
+intellect and regard them as quite
+separate faculties of knowing. The one
+is supposed to perform the functions of perception,
+imagination, and mxmory; the other, the functions of thought—conception, judgment, and
+reasoning, or if not these, then acts of intellectual vision or intuition. Here,
+too,
+there are
+differences within the group.
+
+Chapif.r
+Just as the extreme version of the first position
+is taken by those who identify ideas with
+perceptions, so here the opposite extreme consists in the denial of any connection between
+ideas and all the elements of sense-experience.
+The ideas in the divine mind, or the ideas infused by God into the angelic intellects, have
+no origin
+in experience, nor any need for the
+perceptions, memories, or images of sense. They
+are not abstract ideas, that
+is, they are not concepts abstracted from sense-materials.
+"Our intellect," Aquinas writes, "abstracts
+the intelligible species from the individuating
+principles"— the material conditions of sense
+and imagination. "But the intelligible species
+in
+the divine intellect," he continues, "is immaterial, not by abstraction, but of itself." The
+divine ideas, Aquinas quotes Augustine as saying, "are certain original forms or permanent
+and immutable models of things which are contained
+in the divine
+intelligence." Following
+Augustine's statement
+that
+"each
+thing was
+created by God according to the idea proper to
+it," Aquinas
+restricts the word "idea"
+to the
+"exemplars existing in the divine mind" and
+to the species of things with which God informs
+the angelic intellects. He uses the word "con-
+'
+cept" where others speak of "ideas"
+in
+the
+human mind.
+Descartes, on
+the other hand, endows
+the
+human
+mind
+with
+ideas—not
+concepts
+abstracted from and dependent on sense, but inj
+tuitive apprehensions which, since they cannot
+I be drawn
+in any way from sense-experience,
+1 must be an innate property of the human mind.
+I He does
+not, however, always use
+the word
+'
+"idea" in this strict sense. Some ideas, he says,
+I' "appear to be innate, some adventitious, and
+, others to be formed or invented by myself."
+;l The ideas called "adventitious" are those which
+j seem to come from the outside, as when "I hear
+some sound, or see the sun, or feel heat." Those
+I which we form or invent ourselves are "constructions of the
+imagination." Only
+innate
+ideas, in Descartes' view, are truly ideas in the
+j
+sense of being the elements of certain knowledge and the sources of intellectual intuition.
+"By intuition," he says, "I understand, not the
+fluctuating testimony of
+the
+senses,
+nor
+the
+misleading judgment
+that proceeds from
+the
+blundering constructions of the imagination,"
+37: IDFA
+
+Inn
+"the
+undoubting
+conception
+f)f nn
+unclouded and attentive mind" which
+"springs
+from the light of reason alone."
+As mind and
+bo(1y are separate substances
+for Descartes— mind
+being conceived by him
+as a
+res cogitans or thinking substance, quite
+separate from a res rxtensa or the extended matter of a
+bfxlily substance— so ideas and sensations are independent in origin and function.
+Like infused
+ideas in the angelic
+intellect,
+innate ideas in the human mind are not abstract,
+for
+they
+are
+not
+abstracted.
+But
+unlike
+the
+angelic intellect, the human mind, even when
+it employs innate ideas,
+is discursive or cogitative.
+It is never conceived as entirely free from
+the activities of judgment and reasoning, even
+when its power
+is also supposed to be intuitive
+— that
+is, able to apprehend intelligible objects
+without
+analysis or without
+recourse
+to
+the
+representations of sense.
+The doctrine of innate ideas does not always
+go as far as this in separating intellectual knowledge—or knowledge by means of ideas— from
+sense-experience. In the theories of Plato and
+Augustine, for example, sense-experience serves
+to awaken the understanding to apprehend the
+intelligible objects for the intuition of which
+it
+is innately equipped.
+"To learn those things which do not come
+into
+us
+as images by
+the
+senses," Augustine
+writes, "but which we know within ourselves
+without images ...
+is in
+reality only
+to take
+things that the memory already contains scattered
+and
+unarranged
+.
+.
+. and
+by
+thinking
+bring them together." Moreover, the memory
+contains, not only "images impressed upon
+it
+by the senses of the body, but also the notions
+of the very things themselves, which notions
+we never received by any avenue of the body."
+This process of learning by remembering appears to be similar to the process which Plato
+also calls "recollection" or "reminiscence." In
+the Meno Socrates demonstrates that a slaveboy, who thinks he knows no geometry, can be
+led simply by questioning to discover that he
+knew all the while the solution of a geometric
+problem. "There have always been true thoughts
+in him," Socrates tells Meno, thoughts "which
+only needed to be awakened into knowledge by
+putting
+questions
+to him." Hence
+"his
+soul
+must always have possessed
+this knowledge."
+
+l^e
+Learning, according to this doctrine of innate
+ideas, must
+therefore be described
+as an
+attempt "to
+recollect," not "what you do not
+know," but "rather what you do not remember."
+Learning
+by
+recollection
+or
+reminiscence
+seems
+to be
+a
+process
+in which
+latent
+ideas
+(whether they are retained by the soul from
+a previous life or are part of the soul's endowment
+at
+its
+creation)
+become
+active
+either
+through the questioning of a teacher or through
+being awakened
+by
+the
+perceptions
+of
+the
+bodily senses. Though such bodily stimulation
+of thought implies a functional connection between body and soul, nevertheless both Plato
+and Augustine hold that ideas are independent
+in
+origin. They
+are not derived from
+sense,
+though their appearance may be occasioned by
+events in the world of sense.
+One other view still remains to be considered.
+It denies that ideas are innate in the human
+mind at the same time that it distinguishes between the intellect and the senses as separate
+faculties of knowing. Having to explain whence
+the intellect gets its ideas, writers like Aristotle
+and Aquinas attribute to the human intellect
+an abstractive power by which
+it draws "the
+intelligible species" from sensory images, which
+Aquinas calls "phantasms."
+The concepts by which "our intellect understands
+material
+things," we
+obtain "by
+abstracting
+the form from the individual matter which
+is represented by the phantasms."
+Through the universal concept thus abstracted,
+we are able, Aquinas holds, "to consider the
+nature of the species apart from its individual
+principles."
+It should be added here that abstractions are not vehicles of intuitive apprehension. Conception, which
+is the first act of
+the mind, yields knowledge only when concepts
+are used in subsequent acts of judgment and
+reasoning.
+Abstract or universal concepts are as different
+from the ideas which belong to intellects separate from bodies— the divine or angelic intellects—as they are different from the particular
+perceptions or images of sense. They occupy an
+intermediate position between the two, just as,
+according
+to
+Aquinas,
+"the human
+intellect
+holds a middle place" between angelic intelligence and corporeal sense. On the one hand, the
+human intellect
+is for Aquinas an incorporeal
+power; on the other hand, it functions only in
+cooperation with the corporeal powers of sense
+and imagination. So
+the concepts which
+the
+human intellect forms, being universal, are immaterial; but they are also dependent, in origin
+and function, on the materials of sense. Not
+only are universal concepts abstracted from the
+phantasms, but for the intellect to understand
+physical things, "it must of necessity," Aquinas
+writes, "turn to the phantasms in order to perceive the universal nature existing in the
+individual."
+This theory of abstract ideas seems not far
+removed from the position of Locke, who distinguishes between particular and general ideas
+(which he calls "abstract") or that of William
+James, who
+distinguishes
+between
+universal
+concepts and
+sense-perceptions. Yet on one
+question the difference between them is radical,
+namely, whether particular sensations and universal ideas belong to the same faculty of mind
+or to the quite distinct faculties of sense and
+intellect.
+This difference seems
+to have considerable
+bearing on the way in which these writers explain the process of abstraction or generalization, with consequences for certain subtleties,
+acknowledged
+or ignored,
+in
+the
+analysis
+of
+the
+grades of abstraction.
+Nevertheless,
+the
+resemblance between
+the
+positions of Locke
+and Aquinas, or those of William James and
+Aristotle, each affirming in his own way that
+the mind contains nothing not rooted in the
+senses,
+serves
+to mediate between
+the more
+extreme positions.
+The dispute about innate ideas and the controversy over abstract ideas are issues in psychology inseparable from fundamental
+differences concerning the nature and operation of
+the faculty or faculties of knowing. There are
+other
+issues which concern
+the
+being or
+the
+truth of ideas. Here
+the
+first question
+is not
+whether ideas
+are objects of knowledge,
+but
+whether the existence of ideas is real or mental
+—outside the mind or in it.
+One aspect of this controversy is considered
+in the chapter on Form, viz., the argument between Aristotle and Plato about the being of
+
+the traditional epithet "reaHsm" gets one of its
+meanings, when
+it signifies the view that ideas
+or
+universals have an independent
+reahty of
+their own. The various opponents of this view
+are not called "idealists." If they deny any existence to universal ideas outside the mind, they are
+usually called "conccptualists";if they deny the
+presence of universals even in the mind, they are
+called "nominalists." These doctrines are more
+fully discussed
+in
+the chapters on Same and
+Other, Universal and Particular.
+The controversy about the being of ideas has
+another phase that has already been noted
+in
+this chapter; and
+it
+is in
+this connection that
+the epithet "idealism" gets one of its traditional
+meanings. The doctrine
+is not that ideas have
+real existence outside the mind. On the contrary,
+it
+is that the only realities are mental
+either minds or the ideas in them,
+Berkeley's famous proposition
+esse est perdpi, to be
+is to be perceived—seems intended
+to
+permit
+only one exception. The
+perceiving mind has being without being perceived,
+but nothing
+else
+has. Everything
+else which
+'exists is an idea, a being of and in the mind.
+According to this doctrine (which takes different forms
+in Berkeley and
+in Hegel,
+for example),
+the phrase
+"idea of
+is meaningless.
+Nothing exists of which an idea can be a representation. There
+is no meaning to the distinction between thing and idea. The real and the
+ideal are identical.
+Plato
+is sometimes called an "idealist" but
+not in this sense. He has never been interpreted
+as completely denying reaUty to the changing
+material things which imitate or copy the eternal ideas, the immutable archetypes or Forms.
+Apphed
+to Plato
+or
+to
+Plotinus,
+"ideaUsm"
+seems to signify the superior reality of ideal (as
+opposed to material or physical) existence. Just
+as "idealism" has these widely divergent meanings, so does "realism" when
+it designates, on
+the one hand, those who attribute independent
+reahty to ideas and, on the other hand, those
+who affirm
+the existence of an order of real
+existences
+independent
+of
+the
+ideas
+which
+represent them in the mind.
+Writers who distinguish between things and
+ideas, or between the order of reality and the
+37: IDEA
+
+mind's conception of
+it,
+face
+the problem of
+diHcrentiating Ixrtwccn these two mcxicsof Iking. To say that ideas or concepts exist only in
+the mind
+is not to say that they do not exist at
+all, but only that they do not exist
+in the same
+way as things outside the mind.
+Docs an
+entity
+in
+its
+real
+existence
+apart
+from knowledge have the same character that
+it has when, as an object known,
+it somehow
+belongs to the knowing mind?
+Is there a kind
+of neutral essence which can assume both modes
+of existence— real
+existence,
+independent
+of
+mind, and ideal existence, or existence
+in the
+mind, as an object conceived or known?
+Is an
+idea or concept in the mind nothing but the
+real thing objectified, or transformed into an
+object of knowledge; or
+is the
+real thing,
+the
+thing in itself, utterly different from the objects
+of experience or knowledge— neither knowable
+nor capable of representation by concepts?
+These
+questions,
+relevant
+to
+the
+consideration of ideas as representations of reality, are,
+of course, also relevant to problems considered
+in
+the chapters on Being, Experience, and
+Knowledge. The
+issues
+indicated
+are
+there
+discussed.
+Intimately connected with them are questions about
+the
+truth of ideas. Can
+ideas or
+concepts be true or false in the sense in which
+truth and falsity are attributed to propositions
+or judgments? Under what
+conditions
+is an
+idea true? In what does
+its truth consist, aixi
+what are the signs or marks of its truth ? These
+matters are discussed in the chapter on Truth.
+Here it is sufficient to point out that the traditional
+distinction
+between
+adequate and
+inadequate ideas, and the comparison of clear and
+distinct with obscure and confused
+ideas, are
+used to determine the criteria of truth. It may
+be the truth of a concept taken by itself or of
+the
+j udgmcnt into which several concepts enter.
+To the extent that ideas are regarded as representative, their truth (or the truth of the judgments
+they
+form)
+seems
+to
+consist
+in some
+mode of agreement or correspondence with the
+reahty they represent, or, as Spinoza says,
+its
+ideatum.
+Within
+the conceptual or mental order
+itself, there
+is a further distinction between ideas
+which do not perform a representative function
+and those which do. The former are treated as
+fantasies,
+fictions, or chimeras;
+the
+latter are
+called, by contrast, "real ideas," or ideas having
+some reference to reality. The question of the
+reality of ideas takes precedence over the question of their truth, at least for those who regard
+the division into true and
+false
+as applicable
+only to representations. Yet the criteria of the
+distinction between the real and the imaginary
+are difficult to separate from the criteria of true
+and false. The separation
+is made most readily
+by
+those who
+use
+"idea"
+to mean memory
+image. They can test the reality of an idea by
+tracing it back to the impression from which it
+originated.
+Another sort of test
+is applied by those who
+measure the reality of abstract ideas by their
+fidelity to the sense-perceptions from which they
+were abstracted.
+Still another
+criterion,
+proposed by William James,
+is
+that of freedom
+from
+contradiction. An
+idea
+has
+truth and
+its object has reality if it "remains uncontradicted." The idea of a winged horse illustrates
+the point.
+"If I merely dream of a horse with wings,"
+James writes, "my horse interferes with nothing
+else and has not to be contradicted.
+.
+.
+. But if
+with this horse I make an inroad into the world
+otherwise known, and say, for example, 'That
+is my old mare Maggie, having grown a pair of
+wings where she stands in her stall,' the whole
+case
+is altered; for now the horse and place are
+identified
+with
+a
+horse and
+place
+otherwise
+known, and what is known of the latter objects
+is incompatible with what is perceived with the
+former."
+The consideration of ideas or concepts belongs to logic as well as to psychology and metaphysics. The logician sometimes deals with concepts
+directly and with
+the judgments
+into
+which
+they
+enter;
+sometimes
+he
+deals with
+them only
+as
+they
+find verbal expression
+in
+terms and propositions.
+The distinction between concepts and judgments
+(or between terms and propositions)
+is
+discussed in the chapter on Judgment. There
+also we see that the classification of judgments
+or propositions depends in part on the acceptance or rejection of the notions of subject and
+predicate in the analysis of concepts or terms;
+and, if they are accepted, on the way in which
+terms are distinguished both as subjects and as
+predicates.
+This in turn depends upon certain traditional
+divisions which are applicable to terms,
+if not
+always to concepts, such as the familiar distinctions between concrete and abstract, and particular and universal, terms. When the concept,
+which
+is sometimes called the "mental word,"
+is regarded as by
+its very nature abstract and
+universal, these distinctions are applicable only
+to the physical words which are terms. Concrete and particular terms are then treated as
+verbal expressions of sense-perceptions or images;
+abstract and
+universal
+terms,
+as verbal
+expressions of ideas or concepts. But when ideas
+are identified v/ith sense-perceptions or images,
+and abstract concepts are denied, the existence
+of general names in ordinary discourse suffices
+for the distinction between particular and universal
+terms, even though
+the
+latter do not
+express any actual content of the mind.
+Unlike the foregoing, other divisions of terms,
+as,
+for example,
+the
+distinction between
+the
+univocal and the analogical, or between species
+and genera, do not occur throughout the tradition of logic. They tend to be characteristic of
+the logic of Aristotle and its mediaeval development. Of these two distinctions, that between
+univocal and analogical terms or concepts appears explicitly, so far as this set of great books
+is concerned, only
+in the Summa
+Theologica.
+Nevertheless, Aquinas does have some background for his special theory of analogical terms
+in Aristotle's treatment of univocal and equivocal names, and
+in
+his
+separation
+of
+terms
+which predicate a sameness in species or genus
+from those which predicate a sameness by analogy. The analysis of these distinctions is undertaken in the chapters on Same and Other and
+Sign and Symbol.
+Other
+writers,
+in
+dealing
+with
+universal
+terms, recognize that they have different degrees of generality. They sometimes formulate
+this as an order of more and less inclusive classes.
+Sometimes they refer to the intension and extension,
+or
+connotation
+and
+denotation,
+of
+terms. The more general terms have a less restricted connotation and hence represent more
+extensive or inclusive classes. The more specific
+terms have a more determinate meaning and so
+also have a narrower denotation and represent
+
+'69
+ic) Aristotle's analysis of species and
+<jenera
+is
+the setting of upper and
+lower
+limits
+to
+liie
+hierarchy of universal terms, with a small number of irreducible categories (or siimma genera)
+under which
+all species
+fall, and, at the other
+extreme,
+with
+a
+finite numlx^r of lowest
+(or
+/////m^f) species which are incapable of subsuming other species.
+The terms which fall under the lowest species
+must either be particulars or accidental classes.
+Those which seem to be predicable of the categories themselves, such as being or one^ cannot
+be genera. These are the terms which Aristotle's
+mediaeval followers call "transcendental" and
+"analogical." Using the word "transcendental"
+in a different sense, Kant enumerates a set of
+concepts which bear some resemblance to Aristotle's summa genera,
+but which he
+treats as
+transcendental categories.
+The difference among concepts with respect
+to generahty
+is of interest to the psychologist
+as well as the logician, for it raises the problem
+of whether the more or the
+less general takes
+precedence in the order of learning. The order
+and relation of ideas
+is even more the common
+ground of both logic and psychology. Both, for
+example, deal with the
+|Xisition and sequence
+of terms or concepts in reasoning, though the
+logician aims to prescribe the forms which
+reasoning must take in order lo
+Ixr valid, whereas
+the psychologist
+tries
+to describe the steps by
+which thinking actually gcx:s on.
+Only
+the
+logician,
+however,
+is
+concerned
+with
+the way
+in which
+terms are ordered
+to
+one another as positive and negative, or as contraries;
+just as from Aristotle to Freud, only
+the psychologist deals with
+the association of
+ideas in the stream of thought by relationships
+of
+contiguity and
+succession,
+similarity and
+difference.
+According
+as
+the
+logical
+connection of ideas or their psychological association
+is made
+the primary fact,
+radically divergent
+interpretations
+are
+given
+of
+the
+nature
+of
+mind,
+the
+life
+of reason, and
+the process of
+thought.
 
 OUTLINE OF TOPICS
 
@@ -706,7 +1360,7 @@ OUTLINE OF TOPICS
  i/.
  Idea as the unity of determinate existence and concept: the Absolute Idea
 
-2. The origin or derivation of ideas in the human mind
+2. The orig in or derivation of ideas in the human mind
  2a. The infusion of ideas: divine illumination
  2b. The innate endowment or retention of ideas: the activation of the mind's native
  content or structure by sense, by memory, or by experience
@@ -761,7 +1415,7 @@ or concepts in the process of thought
  correspondence
  6d. Clarity and distinctness in ideas as criteria of their truth
  6e. The criterion of genesis: the test of an idea's truth or meaning by reference to
- its origin
+ its orig in
  6f. The truth and falsity of simple apprehensions, sensations, or conceptions: con-
  trasted with the truth and falsity of judgments or assertions
 
@@ -881,7 +1535,7 @@ the Bibliography of Additional Readings which follow
 
 I.
 
-AQUINAS. On the Trinity ofBoethius, QQ 5-6
+AQUINAS. On the Trinity of Boethius, QQ 5-6
 
 Quaestiones Disputatae, De Verttate, Q 3
 
@@ -975,7 +1629,7 @@ Experimental Psychology of the Thought-Processes
 CASSIRER. Substance and Function, PART i, CH i HUSSERL Logische Untersuchungen .
 Ideas. General Introduction to Pure Phenomenology
 
-BRADLEY. The Principles ofLogic, BK n, PART n, CH I
+BRADLEY. The Principles of Logic, BK n, PART n, CH I
 
 Collected Essays, VOL 1(12) . Essays on Truth and Reality, CH 3 . DEWEY Essays
 in Experimental Logic, vii-vui The Quest for Certainty, CH 5-6 . WHITEHEAD.

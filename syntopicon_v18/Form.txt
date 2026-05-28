@@ -1,556 +1,1563 @@
-Chapter 2.8:
+CHAPTER: FORM
 
-INTRODUCTION * I HE great philosophical issues concerning form and matter have
-never been resolved.
+INTRODUCTION
 
-But the terms in which these issues were stated) from their first formulation in
-antiquity to the iyth or 1 8th centuries, have disappeared or at least do not
-have general currency in contemporary discourse. Kant is perhaps the last great
-philosopher to include these terms in his basic vocabulary. The conceptions of
-matter and form, he writes, "he at the foundation of all other reflection, so
-inseparably are they connected with every mode of exercising the understanding.
-The former denotes the determmable in general, the second its determination."
-The word "form" is no longer a pivotal term in the analysis of change or motion,
-nor in the distinction between being and becoming, nor in the consideration of
-the modes of being and the conditions of knowledge. The word "matter" is now
-used without reference to form, where earlier in the tradition all of its
-principal meanings involved "form" as a correlative or an opposite. Other words,
-such as "participation" and "imitation," have also fallen into disuse or lost
-the meanings which derived from their relation to form and matter. The problems
-which these words were used to state and discuss remain active in contemporary
-thought. There is, for instance, the problem of the universal and the
-particular, the al problem of the immutable and the mutable, the problem of the
-one and the many, or of same- Sp ness and diversity. These problems appear in ti
-the writings of William James and Bergson, me Dewey and Santayana, Whitehead and
-Russell. do Sometimes there is even a verbal approximation to the traditional
-formulation, as in White- be hcad's doctrine of "eternal objects" or in
-Santayana 's consideration of the "realm of essence" si and the "realm of
-matter." Whatever expres- en sions they use, these thinkers find themselves bu
-opposed on issues which represent part, if not the whole, of the great
-traditional controversy between Plato and Aristotle concerning form. THERE is A
-TENDENCY AMONG the historians of thought to use the names of Plato and Aristotle
-to symbolize a basic opposition in philosophical perspectives and methods, or
-even in what William fames calls "intellectual temperaments." Later writers are
-called "Platonists" or "Aristotelians" and doctrines or theories are classified
-as Platonic or Aristotelian. It almost seems to be assumed at times that these
-names exhaust the typical possibilities: that minds or theories must be one or
-the other, or some sort of mixture or confusion of the two. If this tendency is
-ever justified, it seems to be warranted with regard to the problems of form.
-Here, if anywhere, there may be poetic truth in Whitehead's remark that the
-history of western thought can be read as a series of footnotes to Plato; though
-perhaps the observation should be added that Aristotle, the first to comment on
-Plato, wrote many of the principal footnotes. In Plotmus the two strains seem to
-be intermingled. The issue between Plato and Aristotle concerning form dominates
-the great metaphysical and theological controversies of the later Middle Ages,
-and, with some terations in language and thought, it appears in the writings of
-Hobbes, Bacon, Descartes, inoza, and Locke, where it is partly a connuation of,
-and partly a reaction against, the diaeval versions of Platonic and Anstotelian
-ctrine. The most extreme reaction is, of course, to found in those who
-completely reject the term form or its equivalents as being without gnificance
-for the problems of motion, existce, or knowledge. Bacon retains the term, t
-radically changes its meaning. "None should CHAPTER 28: suppose from the great
-part assigned by us to forms," Bacon writes, "that we mean such forms as the
-meditations and thoughts of men have hitherto been accustomed to." He docs not
-mean either "the concrete forms" or "any abstract forms of ideas," but rather
-"the laws and regulations of simple action. . . The form of heat or form of
-light, therefore, means no more than the law of heat or the law of light." But
-Hobbes and Locke tend to reject the term itself especially when it occurs in the
-notion of substantial form as meaningless or misleading. "We arc told," says
-Hobbes, "there be in the world certain essences, separated from bodies, which
-they call abstract essencesk and substantial forms. . Being once fallen into
-this error of .". separated essences, [men] are thereby necessarily involved in
-many other absurdities that follow it. For seeing they will have these forms to
-be real, they arc obliged to assign them some place"'; which they cannot succeed
-in doing, according to Hobbes, "because they hold them incorporeal, without all
-dimension of quantity, and all men know that place is dimension, and not to be
-filled but by that which is corporeal." With regard to substantial form, Locke
-declares, "I confess I have no idea at all, but only of the sound 'form.'" Those
-"who have been taught . . . that it was those forms which made the distinction
-of substances into their true species and genera, were led yet further out of "
-the way by having their minds set upon fruitless inquiries after 'substantial
-forms' a subject which Locke regards as "wholly unintelligible." The general
-skepticism about this notion (or the distrust of its hollowness) in the lyth and
-i8th centuries is reflected in a bantering remark by Tristram Shandy's father.
-In a discussion of infant prodigies, he refers to some boy-wonders who "left off
-their substantial forms at nine years old, or sooner, and went on reasoning
-without them." Since form and matter are supposed to be correlative, the denial
-to form of meaning or reality leads to materialism, as in the case of Hobbes the
-affirmation of matter alone as a principle or cause. Materialists of one sort or
-another are the opponents of both Plato and Aristotle, and of Platonists and
-Aristotelians; That part of the controversy is discussed in the chapter on
-MATTER. Here we are concerned with the issues arising from different views of
-form and its relation to matter. THE POPULAR meaning of "form" affords an
-approach to the subtleties of the subject. As ordinarily used, "form" connotes
-figure or shape That connotation expresses one aspect of the technical
-significance of "form." A great variety of things, differing materially and in
-other respects, can have the same figure or shape. The same form can be embodied
-in an indefinite number of otherwise different individuals. But figures or
-shapes are sensible forms, forms perceptible to vision and touch. To identify
-form with figure or shape would put an improper limitation on the meaning of
-form. This is popularly recognized in the consideration of the form of a work of
-art the structure of an epic poem or a symphony which seems to be more a matter
-of understanding than of direct senseperception. Bertrand Russell's definition
-of the form of a proposition effectively illustrates the point involved. The
-form of a proposition, he says, is that which remains the same in a statement
-when everything else is changed. For example, these two statements have the same
-grammatical and logicalform: (i) John followed Jamesk and (2) Paul accompanied
-Peter. What might be called the matter or subject matter of the two statements
-is completely different, but both have the same form, as may an indefinite
-number of other statements. This illustration helps us to grasp the meaning of
-form, and the distinction between form and matter, or the formal and the
-material aspects of anything. It is thus that we understand the phrase "formal
-logic" to signify a study of the forms of thought or discourse, separated from
-the subject matter being thought about or discussed. Similarly, abstractionism
-or surrealism is a kind of formalism in painting which tries to separate visible
-patterns or structures from their representative significance or their reference
-to familiar objects. Kant's doctrine of space and time as transcendental forms
-of intuition exemplifies the meaning of form as pure order or structure divorced
-from sensuous content. "That which in the phenomenon corresponds to the
-sensation, I term its matter" he writes; "that which effects that -the content
-of the phenomenon can be arranged under certain relations, I call its form."
-Sometimes the consideration of form emphasizes not its separation from, but its
-union with matter. The form dwells in the thing, constituting its nature. The
-sensible or intelligible characteristics of thing result from a the various ways
-in which its matter has been formed.
+THE great philosophical issues concerning
+form and matter have never been resolved.
+But the terms in which these issues were stated,
+from their first formulation in antiquity to the
+17th or
+1 8th centuries, have disappeared or at
+least do not have general currency in contemporary discourse. Kant is perhaps the last great
+philosopher to include these terms in his basic
+vocabulary. The
+conceptions
+of matter and
+form, he writes,
+"lie at the foundation of all
+other reflection, so inseparably are they connected with every mode of exercising the understanding. The former denotes the determinable in general, the second
+its determination."
+The word "form" is no longer a pivotal term
+in the analysis of change or motion, nor in the
+distinction between being and becoming, nor
+in the consideration of the modes of being and
+the conditions of knowledge. The word "matter"
+is now used without
+reference
+to form,
+where earlier in the tradition all of its principal
+meanings involved "form" as a correlative or an
+opposite. Other words, such as "participation"
+and
+"imitation," have
+also
+fallen
+into disuse
+or lost the meanings which derived from their
+relation to form and matter.
+The problems which these words were used
+to state and discuss remain active in contemporary
+thought.
+There
+is,
+for
+instance,
+the
+problem of the universal and the particular, the
+problem of the immutable and the mutable, the
+problem of the one and the many, or of sameness and diversity. These problems appear in
+the
+writings of William James and
+Bergson,
+Dewey and Santayana, Whitehead and Russell.
+Sometimes there is even a verbal approximation
+to
+the
+traditional formulation,
+as
+in Whitehead's doctrine of "eternal objects" or in Santayana's consideration of the "realm of essence"
+and the "realm of matter." Whatever expressions they
+use,
+these thinkers find themselves
+opposed on issues which represent part,
+if not
+the whole, of the great traditional controversy
+between Plato and Aristotle concerning form.
+There is a tendency among the historians of
+thought to use the names of Plato and Aristotle
+to symbolize a basic opposition in philosophical
+perspectives and methods, or even in what William James
+calls "intellectual temperaments."
+Later writers are called "Platonists" or "Aristotelians" and doctrines or theories are classified
+as Platonic or Aristotelian.
+It almost seems to
+be assumed at times that these names exhaust
+the typical possibilities: that minds or theories
+must be one or the other, or some sort of mixture or confusion of the two.
+If this tendency is ever justified, it seems to
+be warranted with regard
+to the problems of
+form. Here, if anywhere, there may be poetic
+truth in Whitehead's remark that the history
+of western thought can be read as a
+series of
+footnotes to Plato; though perhaps the observation should be added
+that Aristotle,
+the
+first
+to
+comment on
+Plato,
+wrote
+many
+of
+the
+principal footnotes. In Plotinus the two strains
+seem
+to be intermingled. The
+issue between
+Plato and Aristotle concerning form dominates
+the great metaphysical and theological controversies of the later Middle Ages, and, with some
+alterations in language and thought,
+it appears
+in
+the writings of Hobbes, Bacon, Descartes,
+Spinoza, and Locke, where
+it
+is partly a continuation of, and partly a reaction against, the
+mediaeval versions of Platonic and Aristotelian
+doctrine.
+The most extreme reaction
+is, of course, to
+be found in those who completely reject the
+term form or its equivalents as being without
+significance for the problems of motion, existence, or knowledge. Bacon
+retains
+the
+term,
+but radically changes its meaning. "None should
 
-It is impossible to say more about the meankig of form without facing at once
-the great controversy between Plato and Aristotle and the difficulties which
-their theories confront.
+forms,"
+Bacon
+writes,
+"that we mean
+such
+forms as the meditations and thoughts of men
+have hitherto been accustomed
+to." He does
+not mean either *'the concrete forms" or "any
+abstract forms of ideas," but rather "the laws
+and regulations of simple action.
+.
+.
+. The form
+of heat or form of light,
+therefore, means no
+more than the law of heat or the law of light."
+But Hobbes and Locke tend to reject the term
+itself—especially when
+it occurs in the notion
+of
+substantial
+form—as
+meaningless
+or
+misleading.
+"We are told," says Hobbes, "there be in the
+world certain essences, separated from bodies,
+which they call abstract essences, and substantial
+forms.
+.
+.
+. Being once fallen into
+this error of
+separated essences, [men] are thereby necessarily
+involved in many other absurdities that follow
+it. For seeing they will have these forms to be
+real,
+they
+are
+obliged
+to
+assign
+them some
+place''; which
+they cannot succeed
+in doing,
+according to Hobbes, "because they hold them
+incorporeal, without all dimension of quantity,
+and all men know that place is dimension, and
+not to be filled but by that which is corporeal."
+With regard
+to substantial form, Locke declares, "I confess I have no idea at all, but only
+of the sound 'form.'" Those "who have been
+taught
+.
+.
+. that it was \host forms which made
+the
+distinction
+of substances
+into
+their
+true
+species and genera, were led yet further out of
+the way by having their minds set upon fruitless inquiries after 'substantial forms' "—a subject which Locke regards as "wholly unintelligible." The general skepticism about
+this notion
+(or the distrust of its hollowness) in the
+17th and
+1 8th centuries is reflected in a bantering remark by Tristram Shandy's father. In a
+discussion of infant prodigies, he refers to some
+boy-wonders who
+"left
+off
+their
+substantial
+forms at nine years old, or sooner, and went on
+reasoning without them."
+Since form and matter are supposed
+to be
+correlative, the denial to form of meaning or
+reality leads to materialism,
+as in the case of
+Hobbes— the affirmation of matter alone as a
+principle or cause. Materialists of one sort or
+another are the opponents of both Plato and
+Aristotle, and of Platonists and
+Aristotelians.
+That part of the controversy is discussed in the
+cliaptcr on Mattf.r. Here we are concerned
+with the
+issues arising from dilTercnt views of
+form and
+its relation to matter.
+The popular meaning of "form" affords an approach to the subtleties of the subject. As ordinarily used, "form" connotes figure or sliape.
+That connotation expresses one aspect of the
+technical significance of "form." A great variety
+of things, differing materially and in other respects, can have the same figure or shape. The
+same form can be embodied
+in an
+indefinite
+number of otherwise different individuals. But
+figures or shapes are sensible forms, forms perceptible to vision and touch. To identify form
+with figure or shape would put an improper
+limitation on the meaning of form. This is popularly recognized
+in
+the consideration of the
+form of a work of art— the structure of an epic
+poem or a symphony—which seems to be more
+a matter of understanding than of direct sense-perception.
+Bertrand Russell's definition of the form of
+a proposition
+effectively
+illustrates
+the point
+involved. The form of a proposition, he says,
+is that which remains the same in a statement
+when everything else is changed. For example,
+these two statements have the same grammatical and
+logical form:
+{i) John followed James,
+and (2) Paul accompanied Peter. What might be
+called the matter or subject matter of the two
+statements
+is completely
+different,
+but both
+have the same form, as may an indefinite number of other statements.
+This illustration helps us to grasp the meaning of form, and the distinction between form
+and
+matter,
+or
+the formal and
+the
+material
+aspects of anything.
+It
+is thus that we understand
+the phrase
+"formal
+logic"
+to signify
+a
+study of the forms of thought or discourse, separated from the subject matter being thought
+about or discussed. Similarly, abstractionism or
+surrealism
+is a kind of formalism in painting
+which tries to separate visible patterns or structures from their representative significance or
+their reference to familiar objects.
+Kant's doctrine of space and
+time as transcendental forms of intuition exemplifies
+the
+meaning of form as pure order or structure divorced from sensuous content. "That which in
+the phenomenon corresponds to the sensation,
+I term its matter^'' he writes; "that which effects
+that the content of the phenomenon can be
+arranged
+under
+certain
+relations,
+I
+call
+its
+form.''' Sometimes
+the
+consideration
+of form
+emphasizes
+not
+its
+separation
+from,
+but
+its
+union with matter. The form
+dwells
+in
+the
+thing, constituting
+its nature. The sensible or
+intelligible characteristics of a thing result from
+the various ways in which
+its matter has been
+formed.
+It is impossible to say more about the meaning of form without facing at once the great
+controversy between Plato and Aristotle and
+the difficulties which their theories confront.
+Plato does not deny that things— the sensible, material, changing things of experience
+have something like form. Nor does he deny
+that the ideas by which we understand the natures of things are like forms. Rather he asks us
+to consider that which they are liJ^.
+In the Phaedo—only one of the many dialogues in which the doctrine of forms
+is
+discussed—Socrates argues that "there
+is such a
+thing as equality, not of one piece of wood or
+stone with another, but that, over and above
+this, there
+is absolute equality." Socrates gets
+Simmias to admit that "we know the nature of
+this absolute essence," and then asks, "Whence
+did
+v/e obtain our knowledge.?"
+It could not
+have been obtained from the pieces of wood or
+stone, Socrates tries to show, because they "appear at one time equal, and
+at another time
+unequal," whereas the idea of equality is never
+the same as that of inequality. Hence he thinks
+"we must have known equality previously to
+the
+time
+when
+we
+first
+saw
+the
+material
+equals.
+.
+.
+. Before we began to see or hear or
+perceive
+in any way, we must
+have
+had
+a
+knowledge of absolute
+equality,
+or we could
+not have referred to that standard the equals
+which are derived from the senses." The equality which supplies
+the "standard" by which
+material equals are measured
+is the Form or
+Idea of equality.
+What is true in this one case Socrates thinks
+is true in ever)' other. Whether we consider
+the "essence of equality, beauty, or anything
+else,"
+Socrates
+holds,
+the
+"Ideas or essences,
+which in the dialectical process we define as
+.
+.
+.
+true
+existences
+.
+.
+.
+are each of them always
+what
+they
+are, having
+the same simple
+selfexistent and unchanging forms, not admitting
+of variation at all, or in any way or at any time.'*
+Apart from the perishable things of the sensible
+world, and apart from the ideas which are involved in our process of learning and thinking,
+there exist the Forms or the Ideas themselves—
+the immutable objects of our highest knowi-.
+edge.
+Because
+the same
+English words
+are employed in these quite distinct senses, it is useful
+to
+follow
+the convention of
+translators who
+capitahze
+the
+initial
+letter when "Form"
+or
+"Idea" refers to that which is separate from the
+characteristics of material things and from the
+ideas in our mind.The words "Form" and "Idea"
+are interchangeable, but the words "Idea" and
+"idea" are not. The latter refers to a notion in
+the human mind, by which it knows; whereas
+"Idea"—as Plato uses the word—signifies the
+object of knowledge,
+i.e. that which
+is known.
+These differences are further discussed in the
+chapter on Idea.
+By imitating the Forms, sensible things, according to Plato, have
+the
+characteristics we
+apprehend in them. The ideas we have when
+we apprehend the resemblance between sensible
+things and
+their Forms
+(which
+sensible
+things exhibit), would seem to be indirect apprehensions of the Forms themselves. When in
+the Republic Socrates discusses knowledge and
+opinion, he
+distinguishes them from one another according to a division of their objects
+the realm of intelligible being on the one hand,
+and
+the
+realm
+of sensible becoming on
+the
+other. The latter stands to the former as image
+or copy to reality, and Socrates finds this relationship repeating
+itself when he further
+divides each of the two parts. The realm of becoming divides into images or shadows and into
+that "of which
+this
+is only the resemblance,"
+namely, "the animals which we see, and everything that grows or is made." The realm of intelligible
+being
+he
+also
+subdivides
+into two
+parts, of which the first is as an image or reflection of the second, namely, the hypotheses we
+form in our minds and the Ideas or Forms themselves.
+From this
+it appears that just as we should
+regard the form of the thing as an imitation of,
+or participation in, the separate Form, so should
+iM
 
-PLATO DOES NOT deny that things the sensible, material, changing things of
-experience have something like form. Nor does he deny that the ideas by which we
-understand the natures of things are like forms. Rather he asks us to consider
-that which they are hfy. In the Phaedoonly one of the many dialogues in which
-the doctrine of forms is discussed Socrates argues that "there is such a thing
-as equality, not of one piece of wood or stone with another, but that, over and
-above this, there is absolute equality." Socrates gets Simmias to admit that "we
-know the nature of this absolute essence," and then asks, "Whence did we obtain
-our knowledge?" It could not have been obtained from the pieces of wood or
-stone, Socrates tries to show, because they "appear at one time equal, and at
-another time unequal," whereas the idea of equality is never the same as that of
-inequality. Hence he thinks "we must have known equality previously to the time
-when we first saw the material equals. Before we began to see or hear or . . .
-perceive in any way, we must have had a knowledge of absolute equality, or we
-could not have referred to that standard the equals which are derived from the
-senses." The equality which supplies the "standard" by which material equals are
-measured is the Form or Idea of equality. What is true in this one case Socrates
-thinks is true in every other. Whether we consider the "essence of equality,
-beauty, or anything Socrates holds, the "Ideas or essences, else,*' which in the
-dialectical process we define as ... tro existences ... are each of them always
-what they are, having the same simple selfexistent and unchanging forms, not
-admitting of variation at all, or in any way or at any time." Apart from the
-perishable things of the sensible world, and apart from the ideas which are
-involved in our process of learning and thinking, there exist the Forms or the
-Ideas themselves the immutable objects of our highest knowledge. Because the
-same English words are employed in these quite distinct senses, it is useful to
-follow the convention of translators who capitalize the initial letter when
-"Form" or "Idea" refers to that which is separate from the characteristics of
-material things and from the ideas in our mind. The words "Form" and "Idea" are
-interchangeable, but the words "Idea" and "idea" are not. The latter refers to a
-notion in the human mind, by which it knows; whereas "Idea" as Plato uses the
-word signifies the object of knowledge, i.e. that which is known. These
-differences are further discussed in the chapter on IDEA. By imitating the
-Forms, sensible things, according to Plato, have the characteristics we
-apprehend in them. The ideas we have when we apprehend the resemblance between
-sensible things and their Forms (which sensible things exhibit), would seem to
-be indirect apprehensions of the Forms themselves. When in the Republic Socrates
-discusses knowledge and opinion, he distinguishes them from one another
-according to a division of their objects the realm of intelligible being on the
-one hand, and the realm of sensible becoming on the other. The latter stands to
-the former as image or copy to reality, and Socrates finds this relationship
-repeating itself when he further divides each of the two parts. The realm of
-becoming divides into images or shadows and into that "of which this is only the
-resemblance," namely, "the animals which we see, and everything that grows or is
-made." The realm of intelligible being he also subdivides into two parts, of
-which the first is as an image or reflection of the second, namely, the
-hypotheses we form in our minds and the Ideas or Forms themselves. From this it
-appears that just as we should regard the form of the thing as an imitation of,
-or participation in, the separate Form, so should CHAPTER 28 we regard the idea
-we have (that is, our understanding of the thing) as an approximation of the
-Idea. The Ideas are outside the human mind even as the Forms arc separate from
-their sensible, material imitations. When we apprehend things by reason we know
-the Forms they imitate; when we apprehend them by our senses we know them as
-imitations, or as images of the Ideas.
+I
+we regard the idea we have (that
+is, our understanding of the thing) as an approximation of
+the Idea. The Ideas are outside the human mind
+even as the Forms are separate from their sensible, material imitations. When we apprehend
+things by reason we know the Forms they imitate; when we apprehend them by our senses
+we know them as imitations, or as images of the
+Ideas.
+The Platonic theory changes
+the ordinary
+meaning of the word
+"imitation." We
+ordinarily think of imitation as involving a relation
+of resemblance between two
+sensible
+things,
+both of which we are able to perceive; for example, v/e say that a child imitates his father's
+manner, or that a portrait resembles the person
+who posed
+for
+it. The
+painter, according
+to
+Socrates in the Republic,
+is not the only "creator of appearances." He compares the painter
+who pictures a bed with
+the carpenter who
+makes one.
+Like the bed in the painting, the bed made
+by the carpenter is not the real bed. It is not,
+says Socrates,
+the Idea "which, according
+to
+our view,
+is the essence of the bed." The carpenter "cannot make true existence, but only
+some semblance of existence." As the bed in
+^
+the picture is an imitation of the particular bed
+made by the carpenter, so the latter is an imitation of the Idea— the essential bed-ness which is
+the model or archetype of all particular beds.
+Shifting to another example, we can say that
+a statue, which resembles a particular man,
+is
+the imitation of an imitation, for the primary
+imitation
+lies in the resemblance between the
+particular man portrayed and the Form or Idea,
+Man.
+Just as the statue derives
+its distinctive
+character from the particular man
+it imitates,
+so that particular man, or any other, derives
+his manhood or humanity from Man.
+Just as
+the particular man imitates Man, so our idea
+of Man is also an imitation of that Idea. Knowledge, according to Plato, consists in the imitation of Ideas, even as sensible, material things
+have whatever being they have by imitation of
+the true beings, the Forms.
+Another name for the primary type of imitation is "participation." To participate in
+is to
+partake of. In the dialogue in which Plato has
+the young Socrates inquiring into the relation
+between sensible particulars and
+the
+Ideas or
+Forms, Parmenidcs
+tells him
+that
+"there are
+certain ideas oi which all other things partake,
+and from which they derive their names; that
+similars,
+for example, become similar, because
+they partake of similarity; and great things become great, because they partake of greatness;
+and that just and beautiful things become just
+and beautiful, because they partake of justice
+and beauty." The Forms or Ideas are, Parmenides
+suggests,
+"patterns
+fixed
+in
+nature, and
+other things are like them, and resemblances of
+them—what
+is meant by the participation of
+other things in the ideas,
+is really assimilation
+to them."
+The
+fact of particularity and
+multiplicity
+seems to be inseparable from the fact of participation. That
+in which
+the many particulars
+participate must, on the other hand, have universality and
+imity. The Forms or Ideas are
+universals in the sense that each is a one which
+is somehow capable of being
+in a many—by
+resemblance or participation. Parmenides asks
+Socrates whether he
+thinks
+that "the whole
+idea is one, and yet, being one, is in each one of
+the many." When Socrates unhesitatingly says
+Yes, Parmenides points out to him that we then
+confront the difficulty that "one and the same
+thing will exist as a whole at the same time in
+many separate individuals" and that "the ideas
+themselves will be divisible, and things which
+participate in them will have a part of them
+only and not the whole idea existing in each of
+them." Nor can we say,
+Socrates
+is made
+to
+realize,
+that "the one idea
+is
+really
+divisible
+and yet remains one."
+This difficulty concerning the relation of particulars to the Ideas they participate in,
+is discussed in the chapter on Universal and Particular.
+It
+is not
+the only
+difficulty which
+Plato himself finds in the theory of Ideas. Another concerns the individuality of each of the
+indefinite number of particulars which copy a
+single model
+or archetype. What makes
+the
+various copies of the same model different from
+one another?
+Plato meets this problem by adding a third
+principle. To the intelligible patterns or archetypes and their sensible imitations, he adds, in
+the Timaeus,
+the principle which
+is variously
+named, sometimes "the receptacle," sometimes
+"space," sometimes "matter." However named,
+it
+is the absolutely formless, for "that which
+is
+to receive all Forms should have no form.
+.
+.
+.
+The mother and receptacle of all visible and in
+any way sensible things ...
+is an invisible and
+formless being which receives all things and in
+some mysterious way partakes of the
+intelligible, and
+is most incomprehensible."
+It is this material or receiving principle which
+somehow accounts for the numerical plurality
+and
+the particularization of the many copies
+of the one absolute model. When a number of
+replicas of the same pattern are produced by
+impressing a die on a sheet of plastic material
+at different
+places,
+it
+is the difference
+in the
+material at the several places which accounts
+for the plurality and particularity of the replicas. Yet
+the one die
+is
+responsible
+for
+the
+character common to them all.
+The sensible things of any one sort are not
+only particular because the Form they imitate
+is somehow received
+in matter;
+they are also
+perishable because of that fact. The receptacle
+is the principle of generation or of change. It is,
+Timaeus says, "the natural recipient of all impressions," which
+is "stirred and informed by
+them, and appears different from time to time
+by reason of them, but the forms which enter
+into and go out of her are the likenesses of real
+existences modelled
+after
+their patterns
+in a
+wonderful and inexplicable manner."
+Matter, as Plato here suggests, is the mother
+of changing things, things which, between coming to be and passing away, are what they are
+because of the unchanging Forms. The Form
+which
+is received in matter for a time makes
+the changing thing an imitation, as the matter
+in which the Form is received makes the changing thing a participation.
+The admittedly mysterious partaking of the
+Forms by
+the formless
+receptacle
+constitutes
+the realm of becoming,
+in which
+being and
+non-being are mixed. But the Forms or Ideas
+themselves, existing apart from
+their sensible
+imitations, are "uncreated and indestructible,
+never
+receiving anything from without, nor
+going out to any other, but invisible and imperceptible by any sense." They constitute the
+realm of pure being. They are the intelligible
+reality.
+The criticism of the Forms or Ideas which
+we find in the writings of Aristotle is primarily
+directed against their separate existence. "Plato
+was not far wrong," Aristotle says, "when he
+said that there are as many Forms as there are
+kinds of natural object"; but he immediately
+adds the qualification: "if there are Forms distinct from the things of this earth."
+It
+is precisely
+that supposition which
+Aristotle
+challenges.
+Aristotle's criticism of Plato stems from his
+own notion of substance, and especially from
+his conception of sensible substances as composed of matter and form. He uses the word
+"substance" to signify that which exists in and
+of itself;
+or, in other words, that which exists
+separately from other things. Hence, when he
+says
+that,
+in addition
+to
+sensible substances,
+"Plato posited two kinds of substances— the
+Forms and the objects of mathematics," he
+is
+translating the affirmation that the Forms have
+being
+separately from
+the
+sensible
+world
+of
+changing things, into an assertion that they are
+substances.
+"Socrates did not make the universals or the
+definitions
+exist apart,"
+Aristotle
+writes; but
+referring to the Platonists, he says, ''they, however, gave them separate
+existence, and
+this
+was the kind of thing they called Ideas." What
+proof is there, he repeatedly asks, for the separate existence of the Forms, or universals, or
+the objects of mathematics.? "Of the various
+ways
+in which
+it
+is proved
+that
+the Forms
+exist," he declares, "none is convincing." Furthermore, he objects to the statement that "all
+other things come from the Forms"; for "to
+say that they are patterns and the other things
+share in them is to use empty words and poetical metaphors." There
+is the additional
+difficulty, he thinks, that "there will be several patterns of the same thing, and therefore several
+Forms; e.g., 'animal' and 'two-footed' and also
+'man himself will be Forms of man."
+Aristotle's
+denial
+of separate
+existence,
+or
+substantiality, to the Ideas or universals stands
+side by side with his affirmation of the place of
+forms in the being of substances and the role of
+universals in the order of knowledge. Furthermore, he limits his denial of the substantiafity
+of Ideas to those Forms which seem to be the
+archetypes or models of sensible
+things. Par-
 
-THE PLATONIC THEORY changes the ordinary meaning of the word "imitation." We
-ordinarily think of imitation as involving a relation of resemblance between two
-sensible things, both of which we are able to perceive; for example, we say that
-a child imitates his father's manner, or that a portrait resembles the person
-who posed for it. The painter, according to Socrates in the Republic, is not the
-only "creator of appearances." He compares the painter who pictures a bed with
-the carpenter who makes one. Like the bed in the painting, the bed made by the
-carpenter is not the real bed. It is not, says Socrates, the Idea "which,
-according to our view, is the essence of the bed." The carpenter "cannot make
-true existence, but only some semblance of existence." As the bed in the picture
-is an imitation of the particular bed made by the carpenter, so the latter is an
-imitation of the Idea the essential bed-ness which is the model or archetype of
-all particular beds. Shifting to another example, we can say that a statue,
-which resembles a particular man, is the imitation of an imitation, for the
-primary imitation lies in the resemblance between the particular man portrayed
-and the Form or Idea, Man. Just as the statue derives its distinctive character
-from the particular man it imitates, so that particular man, or any other,
-derives his manhood or humanity from Man. just as the particular man imitates
-Man, so our idea of Man is also an imitation of that Idea. Knowledge, according
-to Plato, consists in the imitation of Ideas, even as sensible, material things
-have whatever being they have by imitation of the true beings, the Forms.
-Another name for the primary type of imitation is "participation." To
-participate in is to partake- of. In the dialogue in which Plato has the young
-Socrates inquiring mto the relation ? FORM between sensible particulars and the
-Ideas or Forms, Parmcnides tells him that "there arc certain ideas of which all
-other things partake, and from which they derive their names; that similars, for
-example, become similar, because they partake of similarity; and great things
-become great, because they partake of greatness; and that just and beautiful
-things become just and beautiful, because they partake of justice and beauty."
-The Forms or Ideas arc, Parmenides suggests, "patterns fixed in nature, and
-other things are like them, and resemblances of them what is meant by the
-participation of other things in the ideas, is really assimilation to them." The
-fact of particularity and multiplicity seems to be inseparable from the fact of
-participation. That in which the many particulars participate must, on the other
-hand, have universality and unity. The Forms or Ideas are universals in the
-sense that each is a one which issomehow capable of being in a many by
-resemblance or participation. Parmenides asks Socrates whether he thinks that
-"the whole idea is one, and yet, being one, is in each one of the many." When
-Socrates unhesitatingly says Yes, Parmenides points out to him that we then
-confront the difficulty that "one and the same thing will exist as a whole at
-the same time in many separate individuals" and that "the ideas themselves will
-be divisible, and things which participate in them will have a part of them only
-and not the whole idea existing in each of them." Nor can we say, Socrates is
-made to realize, that "the one idea is really divisible and yet remains one."
-THIS DIFFICULTY concerning the relation of particulars to the Ideas they
-participate in, is discussed in the chapter on UNIVERSAL AND PARTICULAR. It is
-not the only difficulty which Plato himself finds in the theory of Ideas.
-Another concerns the individuality of each of the indefinite number of
-particulars which copy a single model or archetype. What makes the various
-copies of the same model different from one another ? Plato meets this problem
-by adding a third principle. To the intelligible patterns or archetypes and
-their sensible imitations, he adds, in the Timaeus, the principle which is
-variously named, sometimes "the receptacle," sometimes "space," sometimes
-"matter." However named, it is the absolutely formless, for "that which is to
-receive all Forms should have no form. . . . The mother and receptacle of all
-visible and in any way sensible things ... is an invisible and formless being
-which receives all things and in some mysterious way partakes of the
-intelligible, and is most incomprehensible." It is this material or receiving
-principle which somehow accounts for the numerical plurality and the
-particulanzation of the many copies of the one absolute model. When a number of
-replicas of thesame pattern are produced by impressing a die on a sheet of
-plastic material at different places, it is the difference in the material at
-the several places which accounts for the plurality and particularity of the
-replicas. Yet the one die is responsible for the character common to them all.
-The sensible things of any one sort are not only particular because the Form
-they imitate is somehow received in matter; they are also perishable because of
-that fact. The receptacle is the principle of generation or of change. It is,
-Timaeus says, "the natural recipient of all im"stirred and informed by
-pressions," which is them, and appears different from time to time by reason of
-them, but the forms which enter into and go out of her are the likenesses of
-real existences modelled after their patterns in a wonderful and inexplicable
-manner."
-
-Matter, as Plato here suggests, is the mother of changing things, things which,
-between coming to be and passing away, are what they are because of the
-unchanging Forms. The Form which is received in matter for a time makes the
-changing thing an imitationk as the matter in which the Form is received makes
-the changing thing a participation. The admittedly mysterious partaking of the
-Fo'rms by the formless receptacle constitutes the realm of becoming, in which
-being and nan- being arc mixed. But the Forms or Ideas themselves, existing
-apart from their sensible imitations, are "uncreated and indestructible, never
-receiving anything from without, nor going out to any other, but invisible and
-imperceptible by any sense/' They constitute the realm of pure being. They arc
-the intelligible reality.
-
-THE CRITICISM OF the Forms or Ideas which we find m the writings of Aristotle is
-primarily directed against their separate existence. "Plato was not far wrong,"
-Aristotle says, "when he said that there are as many Forms as there are kinds of
-natural object"; but he immediately adds the qualification: "if there are Forms
-distinct from the things of this earth." It is precisely that supposition which
-Aristotle challenges. Aristotle's criticism of Plato stems from his own notion
-of substance, and especially from his conception of sensible substances as
-composed of matter and form. He uses the word "substance" to signify that which
-exists in and of itself; or, in other words, that which exists separately from
-other things. Hence, when he says that, in addition to sensible substances,
-"Plato posited two kinds of substances the Forms and the objects of
-mathematics," he is translating the affirmation that the Forms have being
-separately from the sensible world of changing things, into an assertion that
-they are substances. "Socrates did not make the universals or the definitions
-exist apart," Aristotle writes; but referring to the Platonists, he says, "they,
-however, gave them separate existence, and this was the kind of thing they
-called Ideas." What proof is there, he repeatedly asks, for the separate
-existence of the Forms, or universals, or the objects of mathematics? "Of the
-various ways in which it is proved that the Forms exist," he declares, "none is
-convincing." Furthermore, he objects to the statement that "all other things
-come from the Forms"; for "to say that they are patterns and the other things
-share in them is to use empty words and poetical metaphors," There is the
-additional difficulty, he thinks, that "there will be several patterns of the
-same thing, and therefore several Forms; e.g., 'animal' and 'two-footed' and
-also 'man himself will be Forms of man." Aristotle's denial of separate
-existence, or substantiality, to the Ideas or universals stands side by side
-with his affirmation of the place of forms in the being of substances and the
-role of universals in the order of knowledge. Furthermore, he limits his denial
-of the substantiality of Ideas to those Forms which seem to be the archetypes or
-models of sensible things. Par- CHAPTER 28: ticular physical thingsfamiliar
-sensible substances, such as the stone, the tree, or the man are not, in his
-opinion, imitations of or participations in universal models which exist apart
-from these things. He leaves it an open question whether there are
-self-subsistent Forms or Ideas that is, purely intelligible substances which do
-not function as the models for sensible things to imitate. Stated positively,
-the Aristotelian theory consists in two affirmations. The first is that the
-characteristics of things are determined by "indwelling forms," which have their
-being not apart from but in the things themselves. To illustrate his meaning he
-turns to the realm of art. When we make a brass sphere, he writes, "we bring the
-form," which is a sphere, "into this particular matter," the brass, and "the
-result a brazen sphere." There is no "sphere is apart from the individual
-spheres," and no brass apart from the particular lumps of metal that are brass.
-"The 'form' means the 'such,' and is not a 'this' a definite thing," such as
-this individual brazen sphere. Aristotle analyzes natural things in the same
-manner. It is from "the indwelling form and the matter," he says, that "the
-concrete substance is derived." Men such as Callias or Socrates, for example,
-consist of "such and such a form in this flesh and in these bones," and "they
-are different in virtue of their matter (for that is different) but the same in
-form."
-
-The flesh and bones of Callias are not the flesh and bones of Socrates; but
-though different as individual men, they are the same as men because they have
-the same form. The second point is that our understanding of things involves the
-forms of things, but now somehow in the intellect rather than in the things
-themselves. In order to know things, Aristotle says, we must have within us
-"either the things themselves or their forms. The former alternative is of
-course impossible: it is not the stone which is present in the soul," he
-maintains, "but its form." The form in the thing is as individual as the thing
-itself. But in the mind, as the result of the intellect's power to abstract this
-form from its matter, the form becomes a universal; it is then called by
-Aristotle an "idea," "abstraction," or "concept." Forms arc umversals in the
-mind alone. If there were a form existing apart from both matter and mind, it
-would be neither an individual form nor an abstract universal.
-
-The indwelling forms, according to Aristotle, are not universals. Except for the
-possibility of Forms which dwell apart and bear no resemblance at all to
-sensible things, all forms are either in matter or, abstracted from matter, in
-the human mind. These are often called "material forms"because they are the
-forms which matter takes or can take, and which the mind abstracts from matter.
-Their being consists in informing or determining matter, just as the being of
-matter consists in the capacity to receive these forms and to be determined by
+Chapter
+ticular physical things— familiar sensible substances, such as the stone, the tree, or the man
+—are not, in his opinion, imitations of or participations in universal models which exist apart
+from these things. He leaves it an open question
+whether there are self-subsistent Forms or Ideas
+— that is, purely intelligible substances—which
+do not function as the models for sensible things
+to imitate.
+Stated
+positively,
+the
+Aristotelian
+theory
+consists in two affirmations. The first is that the
+characteristics of things are determined by "indwelling forms," which have
+their being not
+apart from but
+in
+the
+things themselves. To
+illustrate his meaning he turns to the realm of
+art. When we make a brass sphere, he writes,
+"we bring the form," which
+is a sphere, "into
+this particular matter," the brass, and "the result
+is a brazen sphere." There
+is no "sphere
+apart from
+the
+individual
+spheres," and no
+brass apart from the particular lumps of metal
+that are
+brass. "The 'form' means the
+*such,'
+and
+is not a
+'this'—a definite thing," such as
+this individual brazen sphere.
+Aristotle analyzes natural things in the same
+manner.
+It
+is from "the indwelling form and
+the matter," he says, that "the concrete substance is derived." Men such as Callias or Socrates,
+for example,
+consist of "such and such
+a form in
+this flesh and in these bones," and
+"they are
+different
+in virtue of their matter
+(for that
+is different) but the same in form."
+The flesh and bones of Callias are not the flesh
+and bones of Socrates; but though different as
+individual men, they are the same as men because they have the same form.
+The second point
+is that our understanding
+of things involves the forms of things, but now
+somehow
+in
+the
+intellect
+rather than
+in
+the
+things
+themselves.
+In order
+to know
+things,
+Aristotle says, we must have within us "either
+the
+things
+themselves
+or
+their
+forms.
+The
+former alternative
+is of course impossible:
+it
+is
+not the stone which
+is present in the soul," he
+maintains, "but its form."
+The form in the thing is as individual as the
+thing itself. But in the mind, as the result of the
+intellect's power to abstract this form from its
+matter, the form becomes a universal; it is then
+called by Aristotle an "idea," "abstraction," or
+"concept." Forms are universals in
+the mind
+28: FORM
+5Jl
+alone. If there were a form existing apart from
+both matter and mind,
+it would be neither an
+inchvidual form nor an abstract universal.
+The indwcHing forms, according to Aristotle,
+are not universals. I^xcept for the possibility of
+Forms which dwell apart and
+bear no resemblance at
+all to sensible
+things,
+all
+forms are
+either in matter or, abstracted from matter, in
+the human mind. These are often called "material forms" because they are the forms which
+matter takes or can take, and which the mind
+abstracts from matter. Their being consists in
+informing or determining matter,
+just
+as the
+being of matter consists in the capacity to receive
+these forms and
+to
+be determined
+by
 them.
+The foregoing helps to explain Aristotle's use
+of the word "composite" as a synonym for "substance" when he is considering particular sensible
+things. The independently
+existing,
+individual
+physical
+things
+which
+Aristotle
+calls
+"substances" are all composite of form and matter. He sometimes also
+calls form and matter
+"substances," but when he uses the word "substance"
+strictly and
+in
+its primary
+sense,
+he
+applies it only to the concrete individual. Form
+and matter are only principles or constituents
+of the concrete thing— the composite substance.
+The union of form and matter to constitute
+physical
+substances
+also
+explains
+the
+Aristotelian identification of form with actuality and
+of matter with potentiality; and the relation of
+form and matter to a third term in the analysis
+of change, namely, privation. As a physical thing
+changes, its matter gives up one form to take on
+another. Its matter thus represents its capacity
+or potentiality for form. Matter is the formable
+aspect
+of changing
+things. What
+things
+are
+actually at any moment is due to the forms they
+possess. But they may have the potentiaUty for
+acquiring other forms, with respect
+to which
+they are in privation.
+"The mutability of mutable things," Augustine writes, "is simply their capacity for all the
+forms
+into
+which
+mutable
+things
+can
+be
+changed." Change consists in a transformation
+of matter, which is another way of saying that it
+consists in the actualization of a thing's potentialities. The
+Aristotelian theory of form and
+matter
+is a theory of becoming as well as an
+analysis of the being of changing things. Illustrative applications of this theory will be found
+in the chapters on Art, Cause, and Change.
+Some forms are
+sensible. Some are shapes,
+some are qualities, some are quantities. But not
+all forms are perceptible by the senses;
+as, for
+example, the form which matter takes when a
+plant or animal
+is generated and which gives
+the generated
+thing
+its
+specific
+nature. This
+type of form came to be called a "substantial
+form" because
+it determines the kind of substance which the thing is. In contrast, the forms
+which determine the properties or attributes of
+a thing are called its "accidents" or "accidental
+forms." For example, size and shape, color and
+weight, are accidental forms of a man; whereas
+that by virtue of which
+this thing {having a
+certain size, shape, and color)
+is a man,
+is
+its
+substantial form.
+Aristotle's
+distinction
+between
+substantial
+and
+accidental
+form
+affects
+his
+analysis
+of
+change and his conception of matter. Generation and
+corruption
+are
+for him
+substantial
+change,
+change
+in
+which
+matter
+undergoes
+transformation with respect
+to
+its substantial
+form. The various types of motion—alteration,
+increase
+or
+decrease,
+and
+local motion—are
+changes which
+take
+place
+in
+enduring
+substances, and with
+respect
+to
+their accidental
+forms.
+The substratum of accidental change
+is not
+formless matter, but matter having a
+certain
+substantial form; whereas in the coming to be
+or passing away of substances, the substratum
+would seem
+to be
+a primary
+sort of matter,
+devoid of all form. As indicated in the chapter
+on Matter, this, according to Aristotle, is "the
+primary substratum of each thing, from which
+it comes to be without qualification, and which
+persists in the result." He tries to help us grasp
+prime matter by using an analogy. "As
+the
+bronze
+is to the statue, the wood to the bed,"
+he writes, "so is the underlying nature to substance"—matter
+absolutely
+formless
+to
+substantial form.
+Aristotle sometimes speaks of the substantial
+form as a first act or actuafity, and of accidental
+forms as second actualities. Accordingly he also
+distinguishes between a primary and secondary
+kind of matter— the one absolutely potential,
+and underlying substantial change;
+the other
+partly actualized and partly potential, and involved
+in
+accidental change. "Primary matter," Aquinas explains, "has substantial being
+through its form. ... But when once
+it exists
+under one form it
+is in potentiality to others."
+Perhaps one more distinction should be mentioned because of its significance for later discussions of form.
+Regarding
+living and nonliving
+things
+as
+essentially
+distinct,
+Aristotle
+differentiates between
+the forms constituting
+these two kinds of substances. As appears in the
+chapter on Soul, he uses the word "soul"
+to
+name
+the substantial form of plants, animals,
+and men.
+Both the Platonic
+theory
+of the
+separate
+Forms and the Aristotelian theory of the composition of form and matter
+raise
+difficulties
+which their authors consider and which become
+the subject of intense controversy among Platonists and Aristotelians in the Hellenistic and
+mediaeval periods.
+The Platonic theory faces a question which
+arises from supposing the existence of an eternal
+and immutable Form for every appearance in
+the sensible world of becoming. If the Idea and
+the individual
+are
+alike,
+then "some further
+idea of likeness will always be coming to light,"
+Parmenides says
+to Socrates; "and
+if that be
+like
+anything
+else,
+then
+another;
+and new
+ideas will be always arising, if the idea resembles
+that which partakes of it." Because of this difficulty
+with
+the
+doctrine
+of
+participation,
+Parmenides suggests that
+it may be necessary
+to conclude that "the Idea cannot be like the
+individual or the individual like the Idea." In
+addition, the relationships of the Forms to one
+another presents a difficulty.
+Is the relation of
+one Form
+to
+another,
+Parmenides
+asks,
+determined by the essence of each Form, or by
+the relationships among the sensible particulars
+that
+imitate
+the Forms
+in
+question?
+Either
+solution seems to be unsatisfactory because of
+the further difficulties which both
+raise.
+Yet, after propounding questions of this sort,
+and multiplying
+difficulties, Parmenides concludes by
+telling Socrates why
+the theory of
+Ideas cannot be given up. "If a man, fixing his
+attention on
+these and
+like
+difficulties,"
+he
+says, "does away with the Forms of things and
+will not admit that every individual thing has
 
-THE FOREGOING helps to explain Aristotle's use of the word "composite" as a
-synonym for "substance" when he is considering particular sensible things. The
-independently existing, individual physical things which Aristotle calls
-"substances" are all composite of form and matter. He sometimes also calls form
-and matter "substances," but when he uses the word "substance" strictly and in
-its primary sense, he applies it only to the concrete individual. Form and
-matter are only principles or constituents of the concrete thing the composite
-substance. The union of form and matter to constitute physical substances also
-explains the Aristotelian identification of form with actuality and of matter
-with potentiality; and the relation of form and matter to a third term in the
-analysis of change, namely, privation. As a physical thing changes, its matter
-gives up one form to take on another. Its matter thus represents its capacity or
-potentiality for form. Matter is thcformable aspect of changing things. What
-things are actually at any moment is due to the forms they possess. But they may
-have the potentiality for acquiring other forms, with respect to which they are
-in privation. 'The mutability of mutable things," Augustine writes, "is simply
-their capacity for all the forms into which mutable things can be changed."
-Change consists in a transformation of matter, which is another way of saying
-that it consists in the actualization of a thing's potenThe Aristotelian theory
-of form and tialities. matter is a theory of becoming as weli as art analysis of
-the being of changing things. Illustrative applications of this theory will be
-found in the chapters on ART, CAUSE, and CHANGE. Some forms arc sensible. Some
-are shapes, some are qualities, some are quantities. But not all forms are
-perceptible by the senses; as, for example, the form which matter takes when a
-plant or animal is generated and which gives the generated thing its specific
-nature. This type of form came to be called a "substantial form" because it
-determines the kind of substance which the thing is. In contrast, the forms
-which determine the properties or attributes of a thing are called its
-"accidents" or "accidental forms." For example, size and shape, color and
-weight, are accidental forms of a man; whereas that by virtue of which this
-thing (having a certain size, shape, and color) is a man, is its substantial
-form. Aristotle's distinction between substantial and accidental form affects
-his analysis of change and his conception of matter. Generation and corruption
-are for him substantial change, change in which matter undergoes transformation
-with respect to its substantial form. The various types of motion alteration,
-increase or decrease, and local motion -are changes which take place in enduring
-substances, and with respect to their accidental forms. The substratum of
-accidental change is not formless matter, but matter having a certain
-substantial form; whereas in the coming to be or passing away of substances, the
-substratum would seem to be a primary sort of matter, devoid of all form. As
-indicated in the chapter on MATTER, this, according to Aristotle, is "the
-primary substratum of each thing, from which it comes to be without
-qualification, and which persists in the result." He tries to help us grasp
-prime matter by using an analogy. "As the bronze is to the statue, the wood to
-the bed," he writes, "so is the underlying nature to substance" matter
-absolutely formless to substantial form. Aristotle sometimes speaks of the
-substantial form as a first act or actuality, and of accidental forms as second
-actualities. Accordingly he also distinguishes between a primary and secondary
-kind of matter the one absolutely potential, and underlying substantial change;
-the other S partly actualized and partly potential, and involved in accidental
-change, "Primary matter," Aquinas explains, "has substantial being through its
-form. ... But when once it exists under one form it is in potentiality to
-others."
-
-Perhaps one more distinction should be mentioned because of its significance for
-later discussions of form. Regarding living and nonliving things as essentially
-distinct, Aristotle differentiatesbetween the forms constituting these two kinds
-of substances. As appears in the chapter on SOUL, he uses the word "soul" to
-name the substantial form of plants, animals, and men. BOTH THE PLATONIC theory
-of the separate Forms and the Aristotelian theory of the composition of form and
-matter raise difficulties which their authors consider and which become the
-subject of intense controversy among Platonists and Aristotelians in the
-Hellenistic and mediaeval periods. The Platonic theory faces a question which
-arises from supposing the existence of an eternal and immutable Form for every
-appearance in the sensible world of becoming. If the Idea and the individual are
-alike, then "some further idea of likeness will always be coming to light,"
-Parmenides says to Socrates; "and if that be like anything else, then another;
-and new ideas will be always arising, if the idea resembles that which partakes
-of it." Because of this difficulty with the doctrine of participation,
-Parmenides suggests that it may be necessary to conclude that "the Idea cannot
-be like the individual or the individual like the Idea." In addition, the
-relationships of the Forms to one another presents a difficulty. Is the relation
-of one Form to another, Parmenides asks, determined by the essence of each Form,
-or by the relationships among the sensible particulars that imitate the Forms in
-question? Either solution seems to be unsatisfactory because of the further
-difficulties which both raise. Yet, after propounding questions of this sort,
-and multiplying difficulties, Parmenides concludes by telling Socrates why the
-theory of Ideas cannot be given up. "If a man, fixing his attention on these and
-like difficulties," he says, "does away with the Forms of things and will not
-admit that every individual thing has CHAPTER 28: F its own determinate Idea
-which is always one and the same, he will have nothing on which his mind can
-rest; and so he will utterly destroy the power of reasoning."
-
-The Aristotelian theory has difficulties of its own with respect to the ultimate
-character of matter apart from all forms. Completely formlessmatter would be
-pure potentiality and would therefore have no actual being. It would be
-completely unintelligible, since form is the principle of any thing's
-intelligibility. Nevertheless, something like formless matter seems to be
-involved in substantial change, in contrast to the substantially formed matter
-which is the substratum of accidental change. The problem of prime matter is
-related in later speculations to the problem of the number and order of the
-various forms which matter can take. The question is whether matter must have a
-substantial form before it can have any accidental form; and whether it can have
-a second substantial form in addition to a first, or is limited to having a
-single substantial form, all subsequent forms necessarily being accidental.
-Aquinas plainly argues in favor of the unity of substantial form. "Nothing is
-absolutely one," he maintains, "except by one form, by which a thing has being;
-because a thing has both being and unity from the same source, and therefore
-things which are denominated by various forms are not absolutely one; as, for
-instance, a white man. If, therefore," Aquinas continues, "man were living by
-one form, the vegetative soul, and animal by another form, the sensitive soul,
-and man by another form, the intellectual soul, it would follow that man is not
-absolutely one. ... We must, therefore, conclude," he says, "that the
-intellectual soul, the sensitive soul, and the nutritive soul are in man
-numerically one and the same soul." In other words, "of one thing there is but
-one substantial form." It is not only "impossible that there be in man another
-substantial form besides the intellectual soul," but there is also no need of
-any other, because "the intellectual soul contains virtually whatever belongs to
-the sensitive soul of brute animals and the nutritive soul of plants." The
-Aristotelian theory also has difficulties with respect to substantial forms as
-objects of ORM knowledge and definition. The definition which the mind
-formulates attempts to state the essence of the thing defined. The formulable
-essence of a thing would seem to be identical with its form. But Aristotle
-raises the question and his followers debate at length whether the essence of a
-composite substance is identical with its substantial form or includes its
-matter as well. Among his followers Aquinas maintains that, in defining the
-essence or species of a composite substance, the genus is used to signify the
-mat-* ter and the differentia the form. "Some held," he writes, "that the form
-alone belongs to the species, while the matter is part of the individual, and
-not of the species. This cannot be true, for to the nature of the species
-belongs what the definition signifies, and in natural things the definition does
-not signify the form only, but the form and the matter. Hence in natural things
-the matter is part of the species; not, indeed, signate matter, which is the
-prinbut common matter." ciple of individuation, He explains in another place
-that "matter is twofold; common and signate, or individual: common, such as
-flesh and bone; individual, such as this flesh and these bones." In forming the
-universal concept man, for example, the intellect abstractsthe notion of the
-species "from this flesh and these bones, which do not belong to the species as
-such, but to the individual. ... But the species of man cannot be abstracted by
-the intellect from flesh and bones" As will be seen in the chapters on ONE AND
-MANY and UNIVERSAL AND PARTICULAR, the Platonic and the Aristotelian theories of
-form are equally involved in the great problem of the universal and the
-individual. Even though they seem to be diametrically opposed on the existence
-of universals whether apart from or only in minds both Plato and Aristotle face
-the necessity of explaining individuality.What makes the particular that
-imitates a universal Form the unique individual it is? What makes the indwelling
-form of a composite substance an individual form, as unique as the individual
-substance of which it is the form? We have already noted that both Platonists
-and Aristotelians appeal to matter as somehow responsible for individuation or
-individuality, but that only raises further questions. The Platonists conceive
-matter as the receptacle of Forms, and so in itself absolutely formless. all
-How, then, can it cause the particulanzations which must be accounted for? Since
-prime matter, like the receptacle, is formless, the Aristotelians resort to what
-they call "signatc matter" or "individual matter" to explain the individuality
-of forms and substances; but it has been argued that this only begs the question
-rather than solves it.
-
-THE CORRELATIVE ttrms form and matter seem to occur in modern thought under the
-guise of certain equivalents; as, for example, the distinct substances which
-Descartes calls "thought" and "extension" res cogitans and res extensaor the
-infinite attributes of substance which Spinoza calls "mind" and "body." They
-appear more explicitly in Kant's analysis of knowledge, related a$ the a pnort
-and the a posteriori elements of experience. But it is in the great theological
-speculations of the Middle Ages that the most explicit and extended use of these
-terms is made, often with new interpretations placed on ancient theories.
-
-The doctrine of spiritual substances, for example, has a bearing on the theory
-of selfsubsistent Forms. The angels arc sometimes called"separate forms" by the
+the same, he
+will have nothing on which
+his mind can rest; and so he will utterly destroy
+the power of reasoning."
+The Aristotelian theory has difficulties of its
+own with respect to the ultimate character of
+matter apart from all forms. Completely formless matter would
+be
+pure
+potentiality
+and
+would therefore have no actual being. It would
+be completely unintelligible, since form
+is the
+principle of anything's
+intelligibility. Nevertheless, something like formless matter seems to
+be involved in substantial change,
+in contrast
+to the substantially formed matter which is the
+substratum of accidental change.
+The problem of prime matter
+is
+related
+in
+later speculations to the problem of thv; number
+and order of the various forms which matter
+can take. The question is whether matter must
+have a substantial form before
+it can have any
+accidental form; and whether
+it
+can have
+a
+second substantial form in addition to a first, or
+is limited to having a single substantial form,
+all
+subsequent
+forms
+necessarily
+being
+accidental.
+Aquinas plainly argues in favor of the unity
+of
+substantial
+form.
+"Nothing
+is
+absolutely
+one," he maintains, "except by one form, by
+which a thing has being; because a thing has
+both being and unity from the same
+source,
+and therefore things which are denominated by
+various forms are not absolutely one;
+as,
+for
+instance, a white man.
+If, therefore," Aquinas
+continues, "man were
+living by one form, the
+vegetative soul, and animal by another form,
+the sensitive soul, and man by another form,
+the intellectual soul,
+it would follow that man
+is not absolutely one.
+.
+.
+. We must, therefore,
+conclude," he says, "that the intellectual soul,
+the sensitive soul, and the nutritive soul are in
+man numerically one and
+the same soul."
+In
+other words, "of one thing there is but one substantial form."
+It
+is not only "impossible that
+there be in man another substantial form besides the intellectual soul," but there is also no
+need of any
+other,
+because
+"the
+intellectual
+soul contains virtually whatever belongs to the
+sensitive soul of brute animals and the nutritive
+soul of plants."
+The Aristotelian theory also has difficulties
+with respect to substantial forms as objects of
+knowledge and defniition. The defniiiion which
+the mind Jormulales attempts to state
+the
+essence of the thing dehned.
+the formulablc essence of a thing would seem to be identical with
+its form. But Aristotle
+raises the (jucstion and
+his lollowers debate at length whether the essence of a composite substance
+is identical with
+its substantial form or includes
+its matter as
+well.
+Among his followers Aquinas maintains that,
+in defming the essence or species of a composite
+substance, the genus
+is used to signify the matter and the differentia the form. "Some held,"
+he writes, "that the form alone belongs to the
+species, while the matter is part of the individual, and
+not of
+the
+species.
+This cannot
+be
+true,
+for to the nature of the species belongs
+what
+the
+definition
+signifies, and
+in
+natural
+things the definition does not signify the form
+only, but the form and the matter. Hence in
+natural things the matter is part of the species;
+not, indeed, signate matter, which
+is the principle of individuation, but common matter."
+He explains in another place
+that "matter
+is
+twofold; common and
+signate,
+or
+individual:
+common, such
+as
+flesh and
+bone;
+individual,
+such as this flesh and these bones." In forming
+the
+universal concept man,
+for example,
+the
+intellect
+abstracts
+the
+notion
+of
+the
+species
+"from this flesh and these bones, which do not
+belong to the species as such, but to the individual. ... But the species of man cannot be abstracted by the intellect horn flesh and bones.''
+As
+will
+be
+seen
+in
+the
+chapters on One
+AND Many and Universal and Particular,
+the
+Platonic and
+the
+Aristotelian
+theories of
+form are equally involved
+in
+the great problem of the universal and the individual. Even
+though they seem to be diametrically opposed
+on the existence of universals—whether apart
+from or only in minds—both Plato and Aristotle face the necessity of explaining individuality. What makes the particular that imitates
+a universal Form the unique individual
+it
+is.?
+What makes the indwelling form of a composite
+substance an individual form, as unique as the
+individual substance of which
+it
+is the form?
+We have already noted that both Platonists
+and Aristotelians appeal to matter as somehow
+responsible
+for individuation or individuality,
+but
+that
+only
+raises
+further
+questions. The
+Platonists conceive matter as the receptacle of
+all Forms, and so in itself absolutely formless.
+How, then, can
+it cause the particularizations
+which must
+be
+accounted
+for?
+Since prime
+matter,
+like
+the
+receptacle,
+is
+formless,
+the
+Aristotelians resort to what they
+call "signate
+matter" or "individual matter" to explain the
+individuality of forms and substances; but
+it
+has been argued that this only begs the question rather than solves
+it.
+The correlative terms form and matter seem
+to occur in modern thought under the guise of
+certain equivalents; as, for example, the distinct
+substances which Descartes calls "thought" and
+"extension"
+res
+cogitans and
+res
+extensa—or
+the
+infinite
+attributes
+of
+substance
+which
+Spinoza
+calls "mind" and "body." They appear more explicitly in Kant's analysis of knowledge, related as the a priori and the a posteriori
+elements of experience. But
+it
+is in the great
+theological
+speculations
+of
+the
+Middle
+Ages
+that
+the most
+explicit and extended
+use
+of
+these terms is made, often with new interpretations placed on ancient theories.
+The doctrine of spiritual substances, for example,
+has
+a
+bearing on
+the
+theory
+of
+selfsubsistent Forms. The
+angels
+are
+sometimes
+called
+"separate
+forms"
+by
+the
 theologians.
+They are conceived
+as immaterial substances,
+and hence as simple rather than composite. But
+though Plotinus identifies the order of purely
+intelHgible beings with the pure intelligences,
+the Christian theologian does no^identify the
+Platonic Ideas with the angels. He regards the
+angels as intelligences. They exist as pure forms,
+and therefore are intelligible as well as intellectual substances. But they are
+in no sense the
+archetypes or models which sensible things resemble.
+Nevertheless,
+Christian
+theology
+does
+include that aspect of the Platonic theory which
+looks upon the Ideas as the eternal models or
+patterns. But, as Aquinas points out, the separately
+existing Forms
+are
+replaced
+by what
+Augustine calls "the exemplars existing in the
+divine mind."
+Aquinas remarks on the fact that "whenever
+Augustine, who was imbued with the doctrines
+of the Platonists, found in their teaching anytliing consistent with faith, he adopted it; and
+those things which he found contrary to faith
+he amended." He
+then goes on
+to say
+that
+Augustine could not adopt, but had to amend,
+the teaching of the Platonists that "the forms
+of things subsist of themselves apart from matter." He did
+this, not by denying the
+ideas,
+"according to which all things are formed," but
+by denying that they could exist outside the
+divine mind. The divine ideas are the eternal
+exemplars and the eternal types
+types, Aquinas explains, insofar as they are the likenesses of
+things and so the principles of God's knowledge; exemplars insofar as they are "the principles of the making of things" in God's act of
+creation.
+The profound mystery of the
+creative act
+which projects the divine ideas into substantial
+or material being replaces the older problem of
+how
+physical
+things derive
+their natures by
+participation in the Forms. According to the
+Aristotelian
+theory,
+both
+natural
+generation
+and artistic production involve the transformation of a pre-existent matter. According to the
+Platonic
+myth
+of
+the
+world's
+origin,
+only
+changing things are created, neither the receptacle nor the Ideas. But the Christian dogma of
+creation excludes everything from eternity except God.
+Ideas
+are
+eternal only
+as
+inseparable from
+the divine mind. Being spiritual creatures, the
+angels, or self-subsistent forms, are not eternal.
+And in the world of corporeal creatures, matter as well as
+its forms must begin to be with
+the
+creation of things.
+Since matter and
+its
+forms cannot exist in separation from one another,
+the
+theologians hold
+that God cannot
+create them
+separately. God cannot
+be
+supposed,
+Augustine
+says,
+"first
+to
+have made
+formless matter, and after an interval of time,
+formed what He had first made formless; but,"
+he goes on, "as intelligible sounds are made by
+a speaker, wherein the sound issues not formless
+at
+first and afterwards receives a form, but
+is
+uttered already formed; so must God be understood to have made the world of formless matter,
+but contemporaneously
+to have
+created
+the world " God "concreates" form and matter,
+Augustine
+holds,
+"giving
+form
+to
+matter's
+formlessness without any interval of time."
+Defending Augustine's interpretation of the
+passage in Genesis which says that the earth.
 
-They are conceived as immaterial substances, and hence as simple rather than
-composite. But though Plotmus identifies the order of purely intelligible beings
-with the pure intelligences, the Christian theologian does not identify the
-Platonic Ideas with the angels. He regards the angels as intelligences. They
-exist as pure forms, and therefore are intelligible as well as intellectual
-substances. But ohcy are in no sense the archetypes or models which sensible
-things resemble. Nevertheless, Christiantheology does include that aspect of the
-Platonic theory which looks upon the Ideas as the eternal models or patterns.
-But, as Aquinas points out, the separately existing Forms are replaced by what
-Augustine calls "the exemplars existing in the divine mind."
-
-Aquinas remarks on the fact that "whenever Augustine, who was imbued with the
-doctrines of the Pktonists found in their teaching anything consistent with
-faith, he adopted it; and AS those things which he found contrary to faith he
-amended." He then goes on to say that, Augustine could not adopt, but had to
-amend, 1 the teaching of the Platomsts that "the forms of things subsist of
-themselves apart from matter." He did thisy not by denying the ideas,-
-"according to which all things arc formed," but by denying that they could exist
-outside thti divine mind. The divine ideas are the eternal exemplars and the
-eternal typestypes, Aquinas explains, insofar as they are the likenesses of
-things and so the principles of God's knowledge; exemplars insofar as they are
-"the principles of the making of things" in God's act of creation. The profound
-mystery of the creative act which projects the divine ideas into substantial or
-material being replaces the older problem of how physical things derive their
-natures by participation in the Forms. According to the Aristotelian theory,
-both natural generation and artistic production involve the transformation of a
-pre-existent matter. According to the Platonic myth of the world's origin, only
-changing things are created, neither the receptacle nor the Ideas. But the
-Christian dogma of creation excludes everything from eternity except God. Ideas
-are eternal only as inseparable from ' the divine mind. Being spiritual
-creatures, the angels, or self-subsistent forms, are not eternal.
-
-And in the world of corporeal creatures, matter as well as its forms must begin
-to be with the creation of things. Since matter ,and its forms cannot exist in
-separation from one another, the theologians hold that God cannot create them
-separately. God cannot be supposed, Augustine says, "first to have made formless
-matter, and after an interval of time, formed what He had first made formless;
-but," he goes on, "as intelligible sounds are made by a speaker, wherein the
-sound issues not formless at first and afterwards receives a. form, but is
-uttered already formed; so must God be understood to have made the world of
-formless matter, but contemporaneously to have created the world." God
-"concreates" form and matter, Augustine holds, "giving form, to matter's
-formlessness without any interVal of time." Defending Augustine's interpretation
-of the passage-in Genesis which says that the earth, CHAPTER 28: FORM which God
-in the beginning created, "was un- who, like Aquinas, adopt formed and void,"
-Aquinas argues that "if adapt it to supernatural formless matter preceded in
-duration, it already deal with the problems of existed; for this is implied by
-duration. ... To the mystery of the Incarn say, then, that matter preceded, but
-without person of the Trinity and form, is to say that being existed actually,
-yet substantiation in the Euc without actuality, which is a contradiction in
-Furthermore, A terms. . . . Hence we must assert that primary soul with the
-substantial matter was not created altogether formless." makes it difficult to
-con But neither, according to Aquinas, can the ence of the individual hu form of
-any material t;hing be created apart adaptation is require from its matter,
-"Forms and other non-sub chapters on IMMORTALITY a sistmg things, which are said
-to co-exist rather tian doctrine of personal than to exist," he declares, "ought
-to be called Aristotelian rendering by concreated rather than created things."
-soul as a form which is n Aristotle's theory of physical substances as Hence it
-is conceived as composite of form and matter raises certain ence when, with
-death and special difficulties for Christian theology. Those composite nature,
-it is s
+which God in the beginning created, "was unwho, Hke Aquinas, adopt
+his theory must also
+formed
+and
+void,"
+Aquinas
+argues
+that
+"if
+adapt
+it
+to supernatural conditions when they
+formless matter preceded in duration, it already
+deal with the problems of substance involved in
+existed; for this
+is implied by duration. ... To
+the mystery of the Incarnation of the second
+say, then, that matter preceded, but without
+person of the Trinity and the mystery of tranform,
+is to say that being existed actually, yet
+substantiation in the Fucharist.
+without actuality, which
+is a contradiction
+in
+Furthermore,
+Aristotle's
+identification
+of
+terms.
+.
+.
+. Hence we must assert that primary
+soul with the substantial form of a living thing
+matter was not created altogether formless."
+makes it difficult to conceive the separate existBut
+neither,
+according
+to
+Aquinas,
+can
+the
+ence of the individual human
+soul. Again an
+form of any material
+thing be created apart
+adaptation
+is
+required.
+As
+indicated
+in
+the
+from
+its matter. "Forms and other non-subchapters on Immortality and Soul, the Chrissisting things, which are said to co-exist rather
+tian doctrine of personal survival
+is given an
+than to exist," he declares, "ought to be called
+Aristotelian rendering by regarding the human
+concreated rather than created things."
+soul as a form which is not completely material.
+Aristotle's
+theor}^ of physical substances
+as
+Hence it
+is conceived as capable of self-subsistcomposite
+of form and matter
+raises
+certain
+ence when, with deathand thedissolution of the
+special difficulties for Christian theology. Those
+composite nature, it is separated from the body.
 
 OUTLINE OF TOPICS
 PAGB

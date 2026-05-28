@@ -1,550 +1,1034 @@
-Chapter & KNOWLEDG INTRODUCTI like being, is a term of lkNOWLEDGE, 1k
-comprehensive scope. Its comprehensiveness is, in a way, correlative with that
-of being. The only thing which cannot be an object of knowledge or opinion,
-which cannot be thought about in any way except negatively, is that which has no
-being of any sort in short, nothing. Not all things may be knowable to us, but
-even the skeptic who severely limits or completely doubts man's power to know is
-usually willing to admit thatbeyond things man's knowledge are in themselves
-knowable. Everyone except Berkeley would agree that the surfaces of bodies which
-we cannot see are not, for that reason, in themselves invisible. The
-consideration of knowledge extends, therefore, to all things knowable, to all
-kinds of knowers, to all the modes of knowledge, and all the methods of knowing.
-So extensive an array of topics exceeds the possibility of treatment in a single
-chapter and requires this chapter to be related to many others. The
-Cross-References which follow the References indicate the other chapters which
-deal with particulars we cannot consider here. For example, the nature of
-history, science, philosophy, and theology, and their distinction from one
-another, are treated in the chapters devoted to those subjects. So, too, the
-chapters on metaphysics, mathematics, physics, mechanics, and medicine deal with
-the characteristics and relations of these special sciences. The psychological
-factors in knowing the faculties of sense and mind, of memory and imagination,
-the nature of experience and reasoning also have their own chapters. Still other
-chapters deal with the logical elements of knowledge, such as idea and judgment,
-definition, hypothesis, principle, induction, and reasoning, logic and
-dialectic.
+CHAPTER: KNOWLEDGE
 
-E ON THE PROGRAM which Locke sets himself in his Essay Concerning Human
-Understanding is often taken to include the basic questions about knowledge. His
-purpose, he tells us, is "to inquire into the original, certainty, and extent of
-human knowledge, together with the grounds and degrees of belief, opinion, and
-assent." Two other matters, not explicitly mentioned by Locke in his opening
-pages, assume central importance in the fourth book of his essay. One is the
-question about the nature of knowledge itself. The other concerns the kinds of
-knowledge. It may be thought that certain questions are prior to these and all
-others. Is knowledge possible? Can we know anything? The man the skeptic
-challenges is one who thinks that knowledge is attainable and who may even claim
-to possess knowledge of some sort. But the issue between the skeptic and his
-adversaries cannot be simply formulated. Its formulation depends in part upon
-the meaning given knowledge and the various things with which it is sometimes
-contrasted, such as belief and opinion, or ignorance and error. It also depends
-in part on the meaning of truth and probability. It would seem, therefore, that
-some consideration of the nature of knowledge should precede the examination of
-the claims concerning knowledge which provoke skeptical denials. The theory of
-knowledge is a field of many disputes. Most of the major varieties of doctrine
-or analysis are represented in the tradition of the great books. But the fact
-that knowledge involves a relationship between a knower and a known seems to go
-unquestioned. William James expresses this insight, perhaps more dogmatically
-than some would allow, in the statement that knowledge "is a thoroughgoing
-dualism.
+INTRODUCTION
 
-It supposes two elements, mind knowing and thing known . Neither gets out of
-itself or . . into the other, neither in any way w the other, CHAPTER 43; KNOWL
-neither ma fas the other. They just stand face to face in a common world, and
-one simply knows, or is known unto, its counterpart," This remains true even
-when attention is turned to the special case of knowledge about knowledge or the
-knower knowing himself. The mind's examination of itself simply makes the mind
-an object to be known as well as a knower.
+KNOWLEDGE, like
+being,
+is
+a
+term of
+comprehensive scope.
+Its comprehensiveness is, in a way, correlative with that of being.
+The only thing which cannot be an object of
+knowledge
+or
+opinion,
+which
+cannot
+be
+thought about in any way except negatively, is
+that which has no being of any sort— in short,
+nothing.
+Not
+all things may be knowable to
+us, but even the skeptic who severely limits or
+completely doubts man's power to know is usually
+wilHng
+to
+admit
+that
+things
+beyond
+man's
+knowledge
+are
+in
+themselves
+knowable. Everyone except Berkeley would agree
+that
+the
+surfaces of bodies which we cannot
+see are not, for that reason, in themselves invisible.
+The
+consideration
+of knowledge
+extends,
+therefore, to all things knowable, to all kinds of
+knowers, to all the modes of knowledge, and all
+the methods of knowing. So extensive an array
+of topics exceeds the possibility of treatment in
+a single chapter and requires this chapter to be
+related to many others.
+The Cross-References which follow the References indicate the other chapters which deal
+with particulars we cannot consider here. For
+example, the nature of history, science, philosophy, and theology, and their distinction from
+one another,
+are
+treated
+in
+the chapters devoted to those subjects. So, too, the chapters on
+metaphysics, mathematics, physics, mechanics,
+and medicine deal with the characteristics and
+relations of these special sciences. The psychological
+factors
+in
+knowing— the
+faculties
+of
+sense and mind, of memory and imagination,
+the nature of experience and reasoning—also
+have
+their own chapters.
+Still other chapters
+deal with the
+logical elements of knowledge,
+such as idea and judgment, definition, hypothesis, principle, induction, and reasoning,
+logic
+and dialectic.
+The program which Locke sets himself in his
+Essay Co7icerning Human Understanding is often
+taken
+to
+include
+the
+basic
+questions
+about
+knowledge. His purpose, he
+tells us,
+is "to inquire into the original, certainty, and extent of
+human knowledge, together with the grounds
+and degrees of belief, opinion, and assent." Two
+other
+matters,
+not
+explicitly mentioned
+by
+Locke in his opening pages, assume central importance in the fourth book of his essay. One is
+the question about the nature of knowledge itself. The other concerns the kinds of knowledge.
+It may be thought that certain questions are
+prior to these and all others. Is knowledge possible? Can we know anything? The man the
+skeptic challenges is one who thinks that knowledge
+is attainable and who may even claim to
+possess knowledge of some sort. But the issue
+between the skeptic and his adversaries cannot
+be simply formulated. Its formulation depends
+in part upon the meaning given knowledge and
+the various things with which
+it
+is sometimes
+contrasted, such as belief and opinion, or ignorance and error. It also depends in part on the
+meaning of truth and probability. It would seem,
+therefore, that some consideration of the nature
+of knowledge should precede the examination
+of the claims concerning knowledge which provoke skeptical denials.
+The theory of knowledge
+is a field of many
+disputes. Most of the major varieties of doctrine or analysis are represented in the tradition
+of the great books. But the fact that knowledge
+involves a relationship between a knower and a
+known seems to go unquestioned. William James
+expresses this insight, perhaps more dogmatically than some would allow, in the statement
+that knowledge
+"is a thoroughgoing dualism..
+It supposes two elements, mind knowing and
+thing known
+.
+.
+. Neither gets out of itself or
+into the other, neither in any way is the other,
 
-This suggests a second point about the nature of knowledge which seems to be
-undisputed. If knowledge relates a knower to a known, then what is somehow
-possessed when a person claims to have knowledge, is the object known. It does
-not seem possible for anyone to say that he knows something without meaning that
-he has that thing in mind. "Some sort of signal," James writes, "must be given
-by the thing to the mind's brain, or the knowing will not occurwe find as a
-matter of fact that the mere existence of a thing outside the brain is not a
-sufficient cause for our knowing it : it must strike the brain in some way, as
-well as be there, to be known." What is not in any way present to or represented
-in the mind is not known in any of the various senses of the word "know." What
-the mind cannot reach to and somehow grasp cannot be known. The words which are
-common synonyms for knowing "apprehending" and "comprehending" convey this sense
-that knowledge somehow takes hold of and surrounds its object. That knowledge is
-a kind of possession occasions the comparisons which have been made between
-knowledge and love. The ancients observed that likeness and union are involved
-in both. Plato, for example, suggests in the Symposium that both the knower and
-the lover strive to become one with their object. "Love is also a philosopher,"
-Diotima tells Socrates, and, as "a lover of wisdom," the philosopher is also a
-lover. With regard to some objects, love and knowledge are almost inseparable.
-To know them is to love them. But this does not hold for all objects, nor does
-the inseparability of knowledge and love in certain cases prevent their
-analytical distinction in all. Like is known by like, but unlikes attract each
-other. Furthermore, according to one theory of knowledge, expounded by Aquinas,
-the knower is satisfied to possess an image of the thing to be known. This image
-EDGE provides the likeness through which knowledge occurs; and thus, Aquinas
-writes, "the idea of the thing understood is in the one who understands." The
-lover, on the other hand, is "inclined to the thing itself, as existing in
-itself." He seeks to be united with it directly. The nobility or baseness of the
-object known does not affect the knower as the character of the object loved
-affects the lover. This understanding of the difference between knowledge and
-love leads Aquinas to say that "to love God is better than to know God; but, on
-the contrary, to know corporeal things is better than to love them." The
-principle of likeness between knower and known does not go undisputed. On the
-contrary, the opposite views here form one of the basic issues about the nature
-of knowledge. The issue is whether the thing known is actually present to the
-knower, existing in the mind or consciousness exactly as it exists in itself; or
-whether the thing is represented in the mind by a likeness of itself, through
-which the mind knows it. In this view, the mode of existence of the thing
-outside the mind is different from the way in which its representative exists in
-the mind. Berkeley, at one extreme, identifies being and being known. "As to
-what is said of the absolute existence of unthinking things without any relation
-to their being perceived, that seems perfectly unintelligible," he writes.
-"Their esse is percipi, nor is it possible they should have any existence, out
-of the minds or thinking things which perceive them." At the other extreme are
-those like Kant for whom the thing in itself is unknowable precisely because
-there can be no resemblance between the phenomenal order of objects represented
-under the conditions of experience and the noumenal order of the unconditioned.
-"AH conceptions of things in themselves," he writes, "must be referred to
-intuitions, and with us men these can never be other than sensible, and hence
-can never enable us to know objects as things in themselves but only as
-appearances. . . . The unconditioned," he adds, "can never be found in this
-chain of appearances." In between these extremes there are those who agree that
-things exist apart from being known without ceasing to be knowable, but who
-nevertheless differ with respect to whether THE GREAT the thing exists in
-reality in the same way that it exists in the mind. The several forms of
-idealism and realism, distinguished in the chapter on IDEA, mark the range of
-traditional differences in the discussion of this difficult problem.
+I
 
-FOR ANY THEORY of what knowledge is there is a distinction between knowledge and
-ignorance between having or not having something in mind. Nor does anyone
-confuse ignorance and error. The mind in error claims to know that of which, in
-fact, it is ignorant. This, as Socrates points out in the Meno, makes it easier
-to teach a person aware of his ignorance than a person in error; for the latter,
-supposing himself to know, resists the teacher. Hence getting a person to
-acknowledge ignorance is often the indispensable first step in teaching. But
-though the difference between knowledge and ignorance and that between ignorance
-and error seems to be commonly understood, it does not follow that everybody
-similarly agrees upon the difference between knowledge and error. This much is
-agreed, that to know is to possess the truth about something, whereas to err is
-to be deceived by falsity mistaken for truth. The disagreement of the
-philosophers begins, however, when the meaning of truth and falsity is examined.
+neither inal^s the other. They just stand face to
+face in a common world, and one simply knows,
+or
+is known unto,
+its counterpart." This
+remains true even when attention is turned to the
+special case of knowledge about knowledge or
+the knower knowing himself. The mind's examination of itself simply makes the mind an
+object to be known as well as a knower.
+This suggests a second point about
+the nature of knowledge which seems
+to be undisputed. Ifknowledge relates a knower toa known,
+then what
+is somehow possessed when a person
+claims to have knowledge, is the object known.
+It does not seem possible for anyone to say that
+he knows something without meaning that he
+has that thing in mind. "Some sort of signal,"
+James writes, "must be given by the thing to
+the mind's brain, or the knowing will not occur—we find as a matter of fact that the mere
+existence of a thing outside the brain
+is not a
+sufficient cause for our knowing it
+: it must strike
+the brain in some way, as well as be there, to be
+known." What
+is not in any way present to or
+represented in the mind is not known in any of
+'
+the various senses of the word "know." What
+the mind cannot reach
+to and somehow grasp
+cannot be known. The words which are common synonyms for knowing— "apprehending"
+and "comprehending"—convey this sense that
+knowledge somehow takes hold of and surrounds
+its object.
+That knowledge
+is a kind of possession occasions the comparisons which have been made
+between knowledge and love. The ancients observed that likeness and union are involved in
+both. Plato, for example, suggests in the Sytnposium
+that both
+the knower and
+the
+lover
+strive to become one with their object. "Love
+is also a philosopher," Diotima
+tells Socrates,
+and, as "a lover of wisdom,"
+the philosopher
+is also a lover.
+With regard to some objects, love and knowledge are almost inseparable. To know them is to
+love them. But
+this does not hold for
+all objects, nor does the inseparability of knowledge
+and love in certain cases prevent their analytical distinction in all. Like is known by like, but
+unlikes
+attract each
+other. Furthermore,
+according to one theory of knowledge, expounded
+by Aquinas, the knower
+is satisfied
+to possess
+an image of the thing to be known. This image
+provides the likeness through which knowledge
+occurs; and thus, Aquinas writes, "the idea of
+the thing understood
+is in the one who understands." The lover, on the other hand,
+is "inclined to the thing itself, as existing in itself."
+He seeks to be united with it directly. The nobility or baseness of the object known does not
+affect the knower as the character of the object
+loved affects the lover. This understanding of
+the difference between knowledge and love leads
+Aquinas to say that "to love God is better than
+to know God; but, on the contrary, to know
+corporeal things
+is better than to love them."
+The principle of likeness between knower and
+known does not go undisputed. On the contrary, the opposite views here form one of the
+basic issues about the nature of knowledge. The
+issue
+is whether the
+thing known
+is actually
+present to the knower, existing in the mind or
+consciousness exactly
+as
+it
+exists
+in
+itself; or
+whether the thing
+is represented in the mind
+by a Ukeness of itself, through which the mind
+knows it. In this view, the mode of existence of
+the thing outside the mind is different from the
+way
+in which
+its representative
+exists
+in the
+mind.
+Berkeley, at one extreme, identifies being and
+being known. "As to what is said of the absolute
+existence of unthinking things without any relation to their being perceived, that seems perfectly unintelligible," he writes. "Their esse
+is
+percipi, nor
+is it possible they should have any
+existence, out of the minds or thinking things
+which perceive them."
+At the other extreme are those hke Kant for
+whom the
+thing
+in
+itself
+is unknowable precisely because there can be no resemblance between the phenomenal order of objects represented under the conditions of experience and
+the noumenal order of the unconditioned. "All
+conceptions of things in themselves," he writes,
+"must be referred
+to intuitions, and with us
+men these can never be other than sensible, and
+hence can never enable us to know objects as
+things in themselves but only as appearances.
+.
+.
+. The unconditioned," he adds, "can never
+be found in this chain of appearances."
+In between
+these extremes
+there are
+those
+who agree that
+things exist apart from being
+known without ceasing
+to be knowable, but
+who nevertheless differ with respect to whether
+the thing exists in reaUty in the same way that
+it exists in the mind. The several forms of idealism and reahsm, distinguished in the chapter on
+Idea, mark the range of traditional differences
+in the discussion of this difficult problem.
+For ant theory of what knowledge is there is
+a distinction between knowledge and ignorance
+—between having or not having something in
+mind. Nor does anyone confuse ignorance and
+error. The mind in error claims to know that of
+which, in fact,
+it
+is ignorant. This, as Socrates
+points out in the Meno, makes it easier to teach
+a person aware of his ignorance than a person in
+error; for the latter, supposing himself to know,
+resists the teacher. Hence getting a person to
+acknowledge ignorance
+is often the indispensable first step in teaching.
+But though the difference between knowledge and ignorance and that between ignorance
+and error seems to be commonly understood,
+it does not follow that everybody similarly agrees
+upon the difference between knowledge and error. This much
+is agreed,
+that
+to know
+is to
+possess the truth about something, whereas to
+err
+is to be deceived by
+falsity mistaken for
+truth. The disagreement of the philosophers begins, however, when the meaning of truth and
+falsity
+is examined.
+Truth is one thing for those who insist upon
+some similarity between the thing known and
+that by which it is known or represented in the
+mind.
+It
+is another for those who think that
+knowledge can be gained without the mediation
+of images or representations. In the
+first case,
+truth will consist in some kind of correspondence between what the mind thinks or understands and the reality
+it
+tries to know. In the
+other, truth will be equivalent to consistency
+among the mind's own ideas.
+The examination
+of
+this fundamental
+disagreement is reserved for the chapter on Truth.
+Here the identification of knowing with having
+the truth calls for the consideration of another
+distinction, first made by Plato. In his language,
+as in that of Aristotle and others, it is the difference between knowledge and opinion. Sometimes, as with Locke,
+a similar distinction
+is
+made
+in terms of knowledge and judgment;
+sometimes it is made in terms of knowledge and
+belief;
+sometimes
+in
+terms
+of adequate and
+inadequate, or certain and
+probable,
+knowledge.
+The difference between these opposites, unHke that between knowledge and error, is not a
+matter of truth and falsity. There is such a thing
+as "right opinion," according to Socrates, and
+it
+is "not
+less useful than knowledge." Considering the
+truth
+so
+far as
+it
+affects action,
+Socrates claims that the man with right opinion
+"will be just as good a guide
+if he thinks the
+truth, as he who knows the truth." The difference between right opinion and knowledge
+is
+here expressed by the contrast between the words
+"thinks" and "knows."
+It does not consist in
+the truth of the conclusion, but in the way that
+conclusion has been reached or
+is held by the
+mind.
+The trouble with right opinion as compared
+with knowledge, Socrates
+explains,
+is
+that
+it
+lacks stability and permanence. Right opinions
+are useful "while they abide with us
+.
+.
+. but
+they
+run away out of the human
+soul and
+do not remain
+long, and
+therefore
+they
+are
+not of much value until they are fastened by
+the
+tie of the cause"—or, in other words, until they are fixed in the mind by the reasons
+on
+which
+they
+are
+grounded. "When
+they
+are bound," Socrates declares, "they have the
+nature of knowledge and
+.
+.
+. they are abiding."
+At this point in his conversation with Meno,
+Socrates makes the unusual confession that "there
+are not many things which
+I profess to know,
+but this is most certainly one of them," namely,
+that "knowledge differs from true opinion." It
+may be that Socrates claims to know so
+little
+because he regards knowledge as involving so
+much more than simply having the
+truth,
+as
+the man of right opinion has it. In addition to
+having the truth, knowledge consists in seeing
+the reason why it
+is true.
+This criterion can be interpreted to mean that
+a proposition which
+is neither self-evident nor
+demonstrated
+expresses
+opinion
+rather
+than
+knowledge. Even when
+it happens to be true,
+the opinion is quaUfied by some degree of doubt
+or some estimate of probability and counterprobability. In contrast, when the mind has adequate grounds for its judgment, when it knows
+that
+it knows and why,
+it has the certainty of
+knowledge.
+I
 
-Truth is one thing for those who insist upon some similarity between the thing
-known and that by which it is known or represented in the mind. It is another
-for those who think that knowledge can be gained without the mediation of images
-or representations. In the first case, truth will consist in some kind of
-correspondence between what the mind thinks or understands and the reality it
-tries to know. In the other, truth will be equivalent to consistency among the
-mind's own ideas.
+For some writers, such as Plato, certitude
+is
+as inseparable from knowledge as truth
+is. To
+speak of "a
+false knowledge as well as a true"
+seems to him impossible; and "uncertain knowledge"
+is as self-contradictory a phrase as "false
+knowledge."
+Others use the word "knowledge" more loosely
+to
+cover
+both
+adequate
+and
+inadequate
+knowledge, the probable as well as the certain.
+They make a distinction within the sphere of
+knowledge that
+is equivalent to the distinction
+between knowledge and opinion.
+Spinoza,
+for
+example,
+distinguishes
+three
+kinds of knowledge. He groups the perception
+of individual things through the bodily senses,
+which he calls "knowledge from vague experience," with knowledge "from signs" which depends on ideas formed by the memory and imagination.
+"These
+two
+ways
+of
+looking
+at
+things," he writes, "I shall hereafter call knowledge of the first kind —opinion or imagination.
+'
+In contrast,
+that which
+is derived "from our
+possessing common notions and adequate ideas
+of the properties of things,
+' he
+calls "reason
+and knowledge of the second kind."
+'
+The third kind, which he calls "intuitive science,"
+is that sort of knowing which "advances
+from an adequate idea of certain attributes of
+God to the adequate knowledge of the essence
+of things." Knowledge of the second and third
+kinds, he maintains, "is necessarily true." That
+there can be falsity in the first kind, and only
+there, indicates that
+it
+is not genuinely knowledge at all, but what other writers would insist
+upon calling "opinion."
+The several meanings of the word
+"belief"
+are determined by these distinctions. Sometimes
+belief is associated with opinion, sometimes with
+knowledge, and sometimes
+it
+is regarded as an
+intermediate state of mind. But in any of these
+meanings belief stands in contrast to make-believe, and this contrast has a bearing on knowledge and opinion as well. To know or to opine
+puts the mind
+in some relation to the
+real or
+actual rather than the merely possible, and subjects it to the criteria of truth and falsity. The
+f^mciful or imaginary belongs to the realm of
+the possible
+(or even the impossible) and the
+mind
+in
+imagining
+is
+fancy-free— free
+from
+the
+restraints and
+restrictions
+of
+truth
+and
+reality.
+Skepticism
+in
+its most
+extreme form
+takes
+the position that there
+is nothing true or false.
+But even those who, like Montaigne, deny certitude with respect to everything except matters of religious faith, do not go this far.
+In
+his Apology for Raimond de Sebonde he
+concedes that
+if opinions are weighed as more
+or less probable, their truth or falsity is implied
+—at least as being the hmit which an increasing
+probability or improbability approaches. Referring to ancient skeptics of the Academic school,
+he comments on
+the
+fact
+that they acknowledged "some things to be more likely than others"—as, for example, that snow is white rather
+than
+black. The more extreme
+skeptics,
+the
+Pyrrhonians, he points out, were
+bolder and
+also more
+consistent. They refused
+to inchne
+toward one proposition more than toward another, for to do so, Montaigne declares,
+is to
+recognize "some more apparent truth
+in
+this
+than in that." How can men "suffer themselves,"
+he asks, "to incline to and be swayed by probabihty,
+if they know not the truth itself? How
+should they know the simihtude of that whereof
+they do not know the essence?"
+In this respect Montaigne's own skepticism
+tends to be of the more moderate variety, since,
+in the realm of action at least, he would admit
+the need for judgments of probability. But in
+all other respects, he takes a firm skeptical stand
+that nothing
+is self-evident, nothing has been
+proved. The contradictory of everything has
+been asserted or argued by someone. "Men can
+have no principles," he writes, "if not revealed
+to them by the Divinity; of all the rest, the beginning, the middle, and the end are nothing
+but dream and vapor
+Every human presupposition and every declaration has as much authority, one as another.
+.
+.
+. The persuasion of
+certainty is a certain testimony of folly and extreme uncertainty."
+The skeptical extreme
+is represented in the
+great books only through references to
+it for
+the purpose of refutation. Aristotle in the Metaphysics, for example, reports the position of those
+who say that all propositions are true or that all
+propositions are false, and who therefore deny
+the principle of contradiction and with
+it the
+distinction between
+true and
+false. But
+if all
+propositions
+are
+true,
+then
+the
+proposition
+"Some
+propositions are false"
+is
+also
+true;
+if
+all propositions are
+false, the proposition "All
+propositions are false"
+is also false. The skeptic
+may reply, of course, that he is not checked by
+arguments which try to make him contradict
+himself, for he does not mind contradicting himself. To this there
+is only one answer, which
+is
+not to argue with the skeptic any further.
+From the skeptic's point of view his position
+is irrefutable so long as he does not allow himself to accept any of the standards by which
+refutation can be effected. From his opponent's
+point of view complete skepticism is self-refuting because if the skeptic says anything definite
+at all, he appears to have some knowledge or at
+least to hold one opinion in preference to another. His only choice is to remain silent. If he
+insists upon making statements in defiance of
+self-contradiction, his opponent can do nothing
+but walk away.
+"It may seem a very extravagant attempt of
+the skeptics to destroy reason by argument and
+ratiocination," Hume writes, "yet
+this
+is the
+grand scope of all their enquiries and disputes."
+He has in mind the excessive skepticism, or Pyrrhonism, from which he
+tries to distinguish a
+mitigated and beneficial form of skepticism. Referring to Berkeley's arguments against the independent reality of matter or bodies, Hume
+says their effect
+is skeptical, despite Berkeley's
+professed intention to the contrary. That his
+arguments
+are
+skeptical
+"appears from
+this,
+that they admit ofno answer and produce no conviction. Their only effect is to cause that momentary amazement and
+irresolution and confusion, which
+is the result of skepticism."
+Here and elsewhere,
+as in his comment on
+Descartes' skeptical method of doubting everything which can be doubted, Hume does not
+seem to think that excessive skepticism is refutable or even false. But
+it
+is impractical. "The
+great subverter of Pyrrhonism or the excessive
+principles of skepticism," he says,
+"is action,
+and employment, and the occupations of life."
+Extreme skepticism becomes untenable in
+thought
+the moment thought must
+face
+the
+choices of life and take some responsibility for
+action.
+There
+is, however, "a more mitigated skepticism or academical philosophy which may be
+both durable and useful." This, according to
+Hume,
+consists
+in becoming
+"sensible of the
+strange infirmities of human understanding,"
+and consequently in "the limitation of our enquiries to such subjects as are best adapted to
+the narrow capacity of human understanding."
+His own view of the extent and certainty of
+human knowledge seems to him to exemplify
+such mitigated
+skepticism
+in
+operation. The
+only objects with respect to which demonstration is possible are quantity and number. Mathematics has the certitude of knowledge, but
+it
+deals only with
+relations between
+ideas,
+not
+with what Hume calls "matters of fact and existence." Such matters "are evidently incapable of demonstration." This
+is
+the sphere of
+"moral certainty," which
+is not a genuine certainty, but only a degree of probability
+sufficientfor action. Probabilities are the best that
+experimental reasoning or inquiry about matters of fact can achieve. If probability
+is characteristic
+of opinion
+rather
+than knowledge,
+then we can have nothing better than opinion
+concerning real existences.
+The diametrical opposite to the extreme of
+skepticism would have to be a dogmatism which
+placed no objects beyond the reach of human
+knowledge, which made no distinction between
+degrees of knowability and admitted equal certitude in all matters. Like excessive skepticism
+this extreme
+is not a position actually held in
+the great books. All the great thinkers who have
+considered
+the problem of human knowledge
+have set limits to man's capacity for knowledge.
+They have placed certain objects beyond man's
+power to apprehend at all, or have distinguished
+between those which he can apprehend in some
+inadequate
+fashion,
+but cannot comprehend.
+They have indicated other objects concerning
+which his grasp
+is adequate and certain.
+They all adopt a "mitigated skepticism"— to
+use Hume's phrase— if this can be taken to mean
+avoiding the extremes of saying that nothing is
+knowable at all and that everything is equally
+knowable. But they differ in the criteria they
+employ to set the limits of knowledge and to
+distinguish between the areas of certainty and
+probability. Consequently they differ in their
+determination
+of
+the
+knowability
+of certain
+types of objects, such as God or the
+infinite,
+substance or cause, matter or spirit, the real or
+the ideal, the self or the thing in
+itself.
 
-The examination of this fundamental disagreement is reserved for the chapter on
-TRUTH. Here the identification of knowing with having the truth calls for the
-consideration of another distinction, first made by Plato, In his language, as
-in that of Aristotle and others, it is the difference between knowledge and
-opinion. Sometimes, as with Locke, a similar distinction is made in terms of
-knowledge and judgment; sometimes it is made in terms of knowledge and belief;
-sometimes in terms of adequate and IDEAS inadequate, or certain and probable,
-knowledge. The difference between these opposites, unlike that between knowledge
-and error, is not a matter of truth and falsity. There is such a thing as "right
-opinion," according to Socrates, and it is "not less useful than knowledge."
-Considering the truth so far as it affects action, Socrates claims that the man
-with right opinion "will be just as good a guide if he thinks the truth, as he
-who knows the truth." The difference between right opinion and knowledge is here
-expressed by the contrast be t ween the words "thinks" and "knows." It does not
-consist in the truth of the conclusion, but in the way that conclusion has been
-reached or is held by the mind. The trouble with right opinion as compared with
-knowledge, Socrates explains, is that it lacks stability and permanence. Right
-opinions are useful "while they abide with us ... but they run away out of the
-human soul and do not remain long, and therefore they are not of much value
-until they are fastened by the tie of the cause" or, in other words, until they
-are fixed in the mind by the reasons on which they are grounded. "When they are
-bound," Socrates declares, "they have the nature of knowledge and . . . they are
-abiding." At this point in his conversation with Meno, Socrates makes the
-unusual confession that "there are not many things which I profess to know, but
-this is most certainly one of them," namely, that "knowledge differs from true
-opinion." It may be that Socrates claims to know so little because he regards
-knowledge as involving so much more than simply having the truth, as the man of
-right opinion has it. In addition to having the truth, knowledge consists in
-seeing the reason why it is true. This criterion can be interpreted to mean that
-a proposition which is neither self-evident nor demonstrated expresses opinion
-rather than knowledge. Even when it happens to be true, the opinion is qualified
-by some degree of doubt or some estimate of probability and counterprobability.
-In contrast, when the mind has adequate grounds for its judgment, when it knows
-that it knows and why, it has the certainty of knowledge.
-
-CHAPTER 43: KNO For some writers, such as Plato, certitude is as inseparable
-from knowledge as truth is. To speak of "a false knowledge as well as a true"
-seems to him impossible; and "uncertain knowledge" is as self-contradictory a
-phrase as "false knowledge."
-
-Others use the word "knowledge" more loosely to cover both adequate and
-inadequate knowledge, the probable as well as the certain.
-
-They make a distinction within the sphere of knowledge that is equivalent to the
-distinction between knowledge and opinion. Spinoza, for example, distinguishes
-three kinds of knowledge. He groups the perception of individual things through
-the bodily senses, which he calls "knowledge from vague experience," with
-knowledge "from signs" which depends on ideas formed by the memory and
-imagination. "These two ways of looking at things," he writes, "I shall
-hereafter call knowledge of the first kind opinion or imagination." In contrast,
-that which is derived "from our possessing common notions and adequate ideas of
-the properties of things," he calls "reason and knowledge of the second kind."
-
-The third kind, which he calls "intuitive science," is that sort of knowing
-which "advances from an adequate idea of certain attributes of God to the
-adequate knowledge of the essence of things." Knowledge of the second and third
-kinds, he maintains, "is necessarily true." That there can be falsity in the
-first kind, and only there, indicates that it is not genuinely knowledge at all,
-but what other writers would insist upon calling "opinion." The several meanings
-of the word "belief are determined by these distinctions. Sometimes belief is
-associated with opinion, sometimes with knowledge, and sometimes it is regarded
-as an intermediate state of mind. But in any of these meanings belief stands in
-contrast to make-believe, and this contrast has a bearing on knowledge and
-opinion as well. To know or to opine puts the mind in some relation to the real
-or actual rather than the merely possible, and subjects it to the criteria of
-truth and falsity. The fanciful or imaginary belongs to the realm of the
-possible (or even the impossible) and the mind in imagining fancy-freefree from
-is the restraints and restrictions of truth and reality.
-
-WLEDGE SKEPTICISM in its most extreme form takes the position that there is
-nothing true or false. But even those who, like Montaigne, deny certitude with
-respect to everything except matters of religious faith, do not go this far. In
-his Apology for Raimond de Scbondc he concedes that if opinions arc weighed as
-more or less probable, their truth or falsity is implied at least as being the
-limit which an increasing probability or improbability approaches. Referring to
-ancient skeptics of the Academic school, he comments on the fact that they
-acknowledged "some things to be more likely than others" as, for example, that
-snow is white rather than black. The more extreme skeptics, the Pyrrhonians, he
-points out, were bolder and also more consistent. They refused to incline toward
-one proposition more than toward another, for to do so, Montaigne declares, is
-to recognize "some more apparent truth in this than in that." How can men
-"suffer themselves," he asks, "to incline to and be swayed by probability, if
-they know not the truth itself? How should they know the similitude of that
-whereof they do not know the essence?" In this respect Montaigne's own
-skepticism tends to be of the more moderate variety, since, in the realm of
-action at least, he would admit the need for judgments of probability. But in
-all other respects, he takes a firm skeptical stand that nothing is
-self-evident, nothing has been proved. The contradictory of everything has been
-asserted or argued by someone, "Men can have no principles," he writes, "if not
-revealed to them by the Divinity; of all the rest, the beginning, the middle,
-and the end are nothing . . . but dream and vapor. Every human presupposition
-and every declaration has as much authority, one as another. . . . The
-persuasion of certainty is a certain testimony of folly and extreme
-uncertainty," The skeptical extreme is represented in the great books only
-through references to it for the purpose of refutation. Aristotle in the Meta
-physics, for example, reports the position of those who say that all
-propositions are true or that all propositions are false, and who therefore deny
-the principle of contradiction and with it the distinction between true and
-false. But if all propositions are true, then the proposition "Some propositions
-are false" is also true; if THE GREAT I ail propositions arc false, the
-proposition "All propositions are false" is also false. The skeptic may reply,
-of course, that he is not checked by arguments which try to make him contradict
-himself, for he does not mind contradicting himself. To this there is only one
-answer, which is not to argue with the skeptic any further. From the skeptic's
-point of view his position is irrefutable so long as he does not allow himself
-to accept any of the standards by which refutation can be effected. From his
-opponent's point of view complete skepticism is self-refuting because if the
-skeptic says anything definite at all, he appears to have some knowledge or at
-least to hold one opinion in preference to another. His only choice is to remain
-silent. If he insistsupon making statements in defiance of self-contradiction,
-his opponent can do nothing but walk away.
-
-"It may seem a very extravagant attempt of the skeptics to destroy reason by
-argument and ratiocination," Hume writes, "yet this is the of all their
-enquiries and disputes." grand scope He has in mind the excessive skepticism, or
-Pyrrhonism, from which he tries to distinguish a mitigated and beneficial form
-of skepticism. Referring to Berkeley's arguments against the independent reality
-of matter or bodies, Hume says their effect is skeptical, despite Berkeley's
-professed intention to the contrary. That his arguments are skeptical "appears
-from this, that they admit of no answer and produce no conviction. Their only
-effect is to cause that momentary amazement and irresolution and confusion,
-which is the result of skepticism." Here and elsewhere, as in his comment on
-Descartes' skeptical method of doubting everything which can be doubted, Hume
-does not seem to think that excessive skepticism is refutable or even false. But
-it is impractical. "The great subverter of Pyrrhonism or the excessive
-principles of skepticism," he says, "is action, and employment, and the
-occupations of life." Extreme skepticism becomes untenable in thought the moment
-thought must face the choices of life and take some responsibility for action.
-There is, however, "a more mitigated skepticism or academical philosophy which
-may be both durable and useful." This, according to Hume, consists in becoming
-"sensible of the strange infirmities of human understanding," and consequently
-in "the limitation of our enquiries to such subjects as are best adapted to the
-narrow capacity of human understanding." His own view of the extent and
-certainty of human knowledge seems to him to exemplify such mitigated skepticism
-in operation. The only objects with respect to which demonstration is possible
-are quantity and number. Mathematics has the certitude of knowledge, but it
-deals only with relations between ideas, not with what Hume calls "matters of
-fact and existence." Such matters "are evidently incapable of demonstration."
-This is the sphere of "moral certainty," which is not a genuine certainty, but
-only a degree of probability sufficient for action. Probabilities are the best
-that experimental reasoning or inquiry about matters of fact can achieve. If
-probability is charof opinion rather than knowledge, acteristic then we can have
-nothing better than opinion concerning real existences. THE DIAMETRICAL opposite
-to the extreme of skepticism would have to be a dogmatism which placed no
-objects beyond the reach of human knowledge, which made no distinction between
-degrees of knowabihty and admitted equal certitude in all matters. Like
-excessive skepticism this extreme is not a position actually held in the great
-books. All the great thinkers who have considered the problem of human knowledge
-have set limits to man's capacity for knowledge. They have placed certain
-objects beyond man's power to apprehend at all, or have distinguished between
-those which he can apprehend in some inadequate fashion, but cannot comprehend.
-They have indicated other objects concerning which his grasp is adequate and
-certain. They all adopt a "mitigated skepticism" to use Hume's phrase if this
-can be taken to mean avoiding the extremes of saying that nothing is knowable at
-all and that everything is equally knowable. But they differ in the criteria
-they employ to set the limits of knowledge and to distinguish between the areas
-of certainty and probability. Consequently they differ in their determination of
-the knowability of certain types of objects, such as God or the infinite,
-substance or cause, matter or spirit, the real or the ideal, the self or the
-thing in itself.
-
-CHAPTER 43: KNOWL For example, Plato and Aristotle agree that knowledge must be
-separated from opinion and even appeal to certain common principles in making
-that separation; but they do not define the scope of knowledge in the same way,
-as is indicated by their disagreement about the knowability of sensible things.
-Nor do Descartes and Locke, Bacon and Spinoza, Hume and Kant agree about the
-knowabihty of God or of the soul or about the conditions any object must meet in
-order to be knowable. All alike proceed from a desire to be critical. Each
-criticizes what other men have proposed as knowledge and each proposes a new
-method by which the pursuit of knowledge will be safeguarded from illusory hopes
-or endless controversy.
-
-In this last respect the moderns depart most radically from their mediaeval and
-ancient predecessors. At all times men have been interested in examining
-knowledge itself as well as in exercising their powers to know. But in the
-earlier phase of the tradition knowledge about knowledge does not seem to take
-precedence over all other inquiries or to be prerequisite to them. On the
-contrary, the ancients proceed as if the study of knowledge necessarily
-presupposed the existence of knowledge. With them the examination takes place
-because the mind is essentially reflexive rather than for reasons of
-selfcnticism. But beginning with Descartes' Discourse on the Method, in which a
-method of universal doubt is proposed to clear the ground before the foundations
-of the sciences can be laid, the consideration of knowing is put before any
+For example, Plato and Aristotle agree that
+knowledge must be separated from opinion and
+even appeal
+to certain common principles
+in
+making that separation; but they do not define
+the scope of knowledge in the same way, as
+is
+indicated by their disagreement about the knowability
+of sensible
+things. Nor do
+Descartes
+and
+Locke, Bacon and
+Spinoza, Hume and
+Kant agree about the knowability of God or of
+the
+soul or about
+the conditions any object
+must meet in order to be knowable. All alike
+proceed from a desire to be critical. Each criticizes what other men have proposed as knowledge and each proposes a new method by which
+the pursuit of knowledge will be safeguarded
+from illusory hopes or endless controversy.
+In this last respect the moderns depart most
+radically from their mediaeval and ancient predecessors. At all times men have been interested
+in examining knowledge itself as well as in exercising their powers to know. But in the earlier
+phase of the tradition knowledge about knowledge does not seem to take precedence over ail
+other inquiries or to be prerequisite to them.
+On the contrary, the ancients proceed as if the
+study of knowledge necessarily presupposed the
+existence of knowledge. With them the exammation takes place because the mind
+is essentially reflexive rather than for reasons of selfcriticism. But beginning with Descartes' Discourse on the Method, in which a method of uni-
+\ ersal doubt is proposed to clear the ground betore the foundations of the sciences can be laid,
+I he consideration of knowing is put before any
 attempt to know.
+Sometimes, as with Descartes and Bacon, the
+emphasis
+is upon a new method which will at
+last establish knowledge on a firm footing or ad-
+\ ance learning. Sometimes, as with Locke and
+Hume, attention is given first of all to the faculi\ of understanding itself.
+"If we can find out," says Locke, "how far
+the understanding can extend
+its views, how
+far
+it has faculties to attain certainty, and in
+what cases it can only judge and guess, we may
+learn to content ourselves with what
+is attainable by us in this state.
+.
+.
+. When we know our
+own strength, we shall the better know what to
+undertake with hopes of success; and when we
+have well surveyed the powers ofour own minds,
+and made some estimate of what we may expect
+from them, we shall not be inclined either to sit
+still, and not set our thoughts to work at all, in
+despair of knowing anything; nor, on the other
+side, question everything, and disclaim
+all
+knowledge, because some things are not to be
+understood."
+Hume also proposes that a study ofhuman understanding precede everything else, to "show
+from an exact analysis of its powers and capacity" what subjects
+it
+is or
+is not
+fitted
+to
+investigate. "There is a truth and falsehood in all
+propositions on
+this subject which
+lie not beyond
+the compass of human understanding."
+No one can doubt that a science of the mind
+or knowledge about knowing— is possible unless he entertains "such a skepticism as is entirely
+subversive of all speculations, and even action."
+Disagreeing with the principles of Locke and
+Hume, as well as with their conclusions, Kant
+does approve the priority they give to the question of the possibility of knowing certain objects. To proceed otherwise,
+as Kant charges
+most other philosophers with doing,
+is dogmatism. The use of the word "critique" in the title
+of Kant's three major works signifies his intention
+to construct a
+critical philosophy which
+does not presume that "it is possible to achieve
+anything in metaphysic without a previous criticism of pure reason." He does not object
+to
+what he calls "the dogmatical procedure of reason" in the development of science, but only
+after reason's self-criticism has determined just
+how far reason can go. For Kant, as for Bacon,
+dogmatism and skepticism are the opposite excesses which only a critical method can avoid.
+These two different approaches to the theory
+of knowledge seem to result in different conclusions concerning the nature and scope of human knowledge. Those who begin with the established sciences and merely inquire into their
+foundations and methods, appear to end with
+unqualified confidence in man's ability to know.
+Those who make the inquiry into the foundations and methods of science a necessary preparation for the development of the sciences, tend
+for the most part to set narrower boundaries to
+the area of valid knowledge. The two approaches
+also affect the w^ay in which the various kinds of
+knowledge are distinguished and compared.
+There are two sorts of comparison involved
+in the classification of kinds of knowledge. One
+is a comparison ofhuman knowledge with divine,
+or with angelic knowledge and the knowledge
+of brute animals. The other is a comparison of
+the parts or modes of human knowledge according to such criteria as the objects to be known,
+the faculties engaged in the process of knowing,
+and
+the manner of
+their operation. Though
+made separately, those two comparisons are seldom independent of one another. As the nature
+of man is conceived in relation to other beings,
+superior or inferior to himself, his faculties will
+be rated accordingly, and his power as a knower
+will suggest the methods or means available to
+him for knowing.
+Aquinas, for example, attributes to man the
+kind of knowledge appropriate to his station in
+the hierarchy of beings. Man is superior to the
+brutes because he has a faculty of reason in addition to the faculties of sense and imagination
+which he shares with them. Man is inferior to
+purely spiritual beings— the angels and God
+because, since he is corporeal, his intellect cannot function independently of his bodily senses
+and imagination. Unlike the angels and God, he
+is not a •purely intellectual being.
+Accordingly,
+the
+essential characteristics of
+human knowledge are,
+first,
+that
+it
+is always
+both
+sensitive and
+intellectual, never merely
+sense-perception as with the brutes or pure intellectual intuition as with the angels; second,
+that its appropriate object is the physical world
+ofsensible, material things, with respect to which
+the senses enable man to know the existence of
+individuals, while the intellect apprehends their
+universal natures; and, finally, that the way in
+which the human mind knows the natures of
+things is abstractive and discursive, for the intellect draws its concepts from sense and imagination and proceeds therefrom by means of j udgment and reasoning.
+This analysis denies innate
+ideas.
+It denies
+man's power to apprehend ideas intuitively or
+to use them intuitively in the apprehension of
+things. It can find no place for a distinction between a priori and a posteriori knowledge, since
+sense-perception and rational activity contribute elements to every act of knowing. It affirms
+that knowledge
+is primarily of real existence,
+not of the relations between ideas; but
+it does
+not limit human knowledge
+to the changing
+temporal things ofthe material universe. Though
+these are the objects man
+is able to know with
+greatest adequacy, he can also know something
+of the existence and nature of immaterial and
+eternal beings.
+Yet, according to Aquinas, even when man's
+knowledge rises above the realm of experienceable things,
+it
+is obtained by the same natural
+processes and involves the cooperation of the
+senses with reason. The theologian does, however,
+distinguish sharply between knowledge
+gained through man's own efforts and knowledge received through divine revelation. In addition to all knowledge acquired by the natural
+exercise of his faculties, man may be elevated
+by the supernatural gift of knowledge— the wisdom of a faith surpassing reason.
+The foregoing summary illustrates, in the case
+of one great doctrine, the connection between
+an analysis of the kinds of knowledge and
+a
+theory of the nature and faculties of man in relation to all other things. There
+is no point in
+this analysis which
+is not disputed by someone
+—by Plato or Augustine, Descartes, Spinoza,
+or Locke, by Hume, Kant, or William James.
+There are many points on which others agree
+not only Aristotle and Bacon, but even Augustine, Descartes, and Locke.
+These agreements or disagreements about the
+kinds ofknowledge , or the scope ofhuman knowledge,
+its faculties, and its methods, seldom occur or are intelligible except in the wider context of agreements and disagreements in theology and
+metaphysics,
+psychology and
+logic.
+Hence most of the matters considered under the
+heading "kinds of knowledge" receive special
+consideration
+in
+other
+chapters. The
+CrossReferences should enable the reader to examine
+the presuppositions or context of the materials
+assembled here.
+The cult of ignorance receives little or no attention in the tradition of the great books. Even
+those who, like Rousseau, glorify the innocence
+of the primitives, or who satirize the folly so
+often admixed with human wisdom and the foibles attending the advance of learning, do not
+seriously question
+the ancient saying that
+all
+men by nature desire to know. Nor is it generally doubted that knowledge
+is good; that
+its
+possession contributes to the happiness of men
 
-Sometimes, as with Descartes and Bacon, the emphasis is upon a new method which
-will at last establish knowledge on a firm footing or advance learning.
-Sometimes, as with Locke and Hume, attention is given first of all to the
-faculty of understanding itself. "If we can find out," says Locke, "how far the
-understanding can extend its views, how far it has faculties to attain
-certainty, and in what cases it can only judge and guess, we may learn to
-content ourselves with what is attainable by us in this state When we know our
-own strength, we shall the better know what to undertake with hopes of success;
-and when we have well surveyed the powers of our own minds, and made some
-estimate of what we may expect EDGE from them, we shall not be inclined either
-to sit and not set our thoughts to work at all, in still, despair of knowing
-anything; nor, on the other side, question everything, and disclaim all
-knowledge, because some things are not to be understood." Hume also proposes
-that a study of human understanding precede everything else, to "show from an
-exact analysis of its powers and capacity" what subjects it is or is not fitted
-to investigate. "There is a truth and falsehood in all propositions on this
-subject which he not beyond the compass of human understanding." No one can
-doubt that a science of the minder knowledge about knowing is possible unless he
-entertains "such a skepticism as is entirely subversive of all speculations, and
-even action.'* Disagreeing with the principles of Locke and Hume, as well as
-with their conclusions, Kant does approve the priority they give to the question
-of the possibility of knowing certain objects. To proceed otherwise, as Kant
-charges most other philosophers with doing, is dogmatism. The use of the word
-"critique" in the title of Kant's three major works signifies his intention to
-construct a critical philosophy which does not presume that "it is possible to
-achieve anything in metaphysic without a previous criticism of pure reason." He
-does not object to what he calls "the dogmatical procedure of reason" in the
-development of science, but only after reason's self-criticism has determined
-just how far reason can go. For Kant, as for Bacon, dogmatism and skepticism are
-the opposite excesses which only a critical method can avoid. THESE TWO
-different approaches to the theory of knowledge seem to result in different
-conclusions concerning the nature and scope of human knowledge. Those who begin
-with the established sciences and merely inquire into their foundations and
-methods, appear to end with unqualified confidence in man's ability to know.
-Those who make the inquiry into the foundations and methods of science a
-necessary preparation for the development of the sciences, tend for the most
-part to set narrower boundaries to the area of valid knowledge. The two
-approaches also affect the way in which the various kinds of knowledge are
-distinguished and compared. There are two sorts of comparison involved in the
-classification of kinds of knowledge. One comparison of human knowledge with
-divine, is a or with angelic knowledge and the knowledge of brute animals. The
-other is a comparison of the parts or modes of human knowledge according to such
-criteria as the objects to be known, the faculties engaged in the process of
-knowing, and the manner of their operation. Though made separately, those two
-comparisons are seldom independent of one another. As the nature of man is
-conceived in relation to other beings, superior or inferior to himself, his
-faculties will be rated accordingly, and his power as a knower will suggest the
-methods or means available to him for knowing. Aquinas, for example, attributes
-to man the kind of knowledge appropriate to his station in the hierarchy of
-beings. Man is superior to the brutes because he has a faculty of reason in
-addition to the faculties of sense and imagination which he shares with them.
-Man is inferior to purely spiritual beings the angels and God because, since he
-is corporeal, his intellect cannot function independently of his bodily senses
-and imagination. Unlike the angels and God, he is not a purely intellectual
-being. Accordingly, the essential characteristics of human knowledge are, first,
-that it is always both sensitive and intellectual, never merely sense-perception
-as with the brutes or pure intellectual intuition as with the angels; second,
-that its appropriate object is the physical world ofsensible, material things,
-with respect to which the senses enable man to know the existence of
-individuals, while the intellect apprehends their universal natures; and,
-finally, that the way in which the human mind knows the natures of things is
-abstractive and discursive, for the intellect draws its concepts from sense and
-imagination and proceeds therefrom by means of judgment and reasoning. This
-analysis denies innate ideas. It denies man's power to apprehend ideas
-intuitively or to use them intuitively in the apprehension of things. It can
-find no place for a distinction between a priori and a posteriori knowledge,
-since sense-perception and rational activity contribute elements to every act of
-knowing. It affirms that knowledge is primarily of real existence, not of the
-relations between ideas; but it does not limit human knowledge to the changing
-temporal things of the material universe. Though these arc the objects man is
-able to know with greatest adequacy, he can also know something of the existence
-and nature of immaterial and eternal beings. Yet, according to Aquinas, even
-when man's knowledge rises above the realm of experienceable things, it is
-obtained by the same natural processes and involves the cooperation of the
-senses with reason. The theologian does, however, distinguish sharply between
-knowledge gained through man's own efforts and knowledge received through divine
-revelation. In addition to all knowledge acquired by the natural exercise of his
-faculties, man may be elevated by the supernatural gift of knowledge the wisdom
-of a faith surpassing reason. The foregoing summary illustrates, in the case of
-one great doctrine, the connection between an analysis of the kinds of knowledge
-and a theory of the nature and faculties of man in relation to all other things.
-There is no point in this analysis which is not disputed by someone by Plato or
-Augustine, Descartes, Spinoza, or Locke, by Hume, Kant, or William James. There
-are many points on which others agree not only Aristotle and Bacon, but even
-Augustine, Descartes, and Locke. These agreements or disagreements about the
-kmdsof knowledge, or the scopeof human knowledge, its faculties, and its
-methods, seldom occur or are intelligible except in the wider context of
-agreements and disagreements in theology and metaphysics, psychology and logic.
-Hence most of the matters considered under the heading "kinds of knowledge"
-receive special consideration in other chapters. The CrossReferences should
-enable the reader to examine the presuppositions or context of the materials
-assembled here. THE CULT OF IGNORANCE receives little or no attention in the
-tradition of the great books. Even those who, like Rousseau, glorify the
-innocence of the primitives, or who satirize the folly so often admixed with
-human wisdom and the foibles attending the advance of learning, do not seriously
-question the ancient saying that all men by nature desire to know. Nor is it
-generally doubted that knowledge is good; that its possession contributes to the
-happiness of men CHAPTER 43: K and the welfare of the state; that its pursuit by
-the individual and its dissemination in a society should be facilitated by
-education, by the support and freedom of scholars and scientists, and by every
-device which can assist men in communicating what they know to one another. But
-knowledge is not valued by all for the same reason. That knowledge is useful to
-the productive artist, to the statesman, to the legislator, and to the
-individual in the conduct of his life, seems to be assumed in discussions of the
-applications of science in the various arts, in the consideration of statecraft,
-and in the analysis of virtue. In this last connection, the problem is not
-whether knowledge is morally useful, but whether knowledge of good and evil is
-identical with virtue so that sin and vice result from error or ignorance. If
-there is a negative opinion here, it consists in saying that knowledge is not
-enough. To know is not to do. Something more than knowledge is required for
-acting well.
-
-The more radical dispute about the value of knowledge concerns the goodness of
-knowledge for its own sake, without any regard to its technical or moral
-utility. Is the contemplation of the truth an ultimate end, or does the goodness
-of knowledge always consist in its power to effect results in the mastery of
-nature and the guidance of conduct ? The utility of knowledge is seldom denied
-by those who make speculative wisdom and theoretic science good in themselves,
-even the highest goods, quite apart from OUTLINE OF TOP any use to which they
-may be put. The con1. The nature of knowledge: the relation between the
-representative or intentional character 2. Man's natural desire and power to
-know 3. Principles of knowledge 4. Knowledge in relation to other states of mind
-40. Knowledge and truth: the differentiation 4k. Knowledge, belief, and opinion:
-their re 4r. The distinction between knowledge and fa 40*. Knowledge and love
-NOWLEDGE trary position, however, docs not admit the special value of
-contemplation or the separation of truth from utility. To those who say that
-"the contemplation of truth is more dignified and exalted than any utility or
-extent of effects," Francis Bacon replies that "truth and utility are perfectly
-identical, and the effects are more of value as pledges of truth than from the
-benefit they confer on men." How knowledge and action are related is one
-question; how knowledge itself is divided into the speculative and practical is
-quite another. Bacon, for example, insists upon the necessity of distinguishing
-the speculative and practical branchesof natural philosophy concerned with "the
-search after causes and the production of effects." Unlike Aristotle and Kant he
-does not use the word "practical" for the kind of knowledge which is contained
-in such sciences as ethics or politics, but only for the applied sciences or
-technology. Ethics and politics fall under what he calls "civil philosophy."
-Despite these differences in language, the way in which Bacon divides the whole
-sphere of knowledge closely resembles Aristotle's tripartite classification of
-the sciences as theoretic, productive (or technical), and practical (or moral);
-and, no less, a similar threefold division by Kant. But Kant and Aristotle (and,
-it should be added, Aquinas) give a more elaborate analysis of thesethree types
-of knowledge, especially with regard to the principles appropriate to each, the
-nature of the judgments and reasoning by which they are developed, and the
-character and criteria of their truth. ICS PAGE knower and known; the issue
-concerning of knowledge 890 891 892 of knowledge, error, and ignorance lation or
-distinction ncy or imagination 894 888 5. The extent or limits of human
-knowledge 50. The knowable, the unknowable, and the unknown: the knowability of
-objects (1) God as an object of knowledge (2) Matter and the immaterial as
-objects of knowledge (3) Cause and substance as objects of knowledge (4) The
-infinite and the individual as objects of knowledge (5) The past and the future
-as objects of knowledge (6) The self and the thing in itself as objects of
-knowledge 5& The distinction between what is more knowable in itself and what
-knowable to us y. Dogmatism, skepticism, and the critical attitude with respect
-to certainty, and finality of human knowledge $d. The method of universal doubt
-as prerequisite to knowledge: G as the assurance of the veracity of our
-faculties 5*. Knowledge about knowledge as the source of criteria for e
-knowledge 6. The kinds of knowledge 6a. The classification of knowledge
-according to diversity of objec (1) Being and becoming, the intelligible and the
-sensible, th the contingent, the eternal and the temporal, the imm material as
-objects of knowledge (2) Knowledge of natures or kinds distinguished from
-knowledge (3) Knowledge of matters of fact or real existence distinguishe edge
-of our ideas or of the relations between them (4) Knowledge in relation to the
-distinction between the p noumenal, the sensible and supra-sensible 6. The
-classification of knowledge according to the faculties involv (1) Sensitive
-knowledge: sense-perception as knowledge; judgmen tion and judgments of
-experience (2) Memory as knowledge (3) Rational or intellectual knowledge (4)
-Knowledge in relation to the faculties of understandin reason; and to the work
-of intuition, imagination, an 6c. The classification of knowledge according to
-the methods or mean (1) Vision, contemplation, or intuitive knowledge
-distinguished knowledge (2) The distinction between immediate and mediated
-judgments: i reasoning, principles and conclusions (3) The doctrine of knowledge
-as reminiscence: the distinction and acquired knowledge (4) The distinction
-between a priori and a posteriori know scendental, or speculative, and the
-empirical (5) The distinction between natural and supernatural knowledge based
-on sense or reason distinguished from knowledge through grace and inspiration
-PACE certain 896 897 898 is more the extent, od's goodness valuating claims to
-ts e necessary and aterial and the of individuals 901 902 d from knowlhenomenal
-and the ed in knowing 903 904 ts of percepg, judgment, and d understanding s of
-knowing from discursive nduction and between innate ledge: the tran: knowledge
-by faith or CHAPTER 43: KNOWLEDGE 6d. The classification of knowledge according
-to the degrees of ass (1) The distinction between certain and probable knowledge
-(2) The types of certainty and the degrees of probability (3) The distinction
-between adequate and inadequate, or perfec perfect knowledge 6V. The
-classification of knowledge according to the end or aim of (1) The distinction
-between theoretic and practical knowledge the sake of knowledge and for the sake
-of action or pr (2) The types of practical knowledge: the use of knowledge in in
-the direction of conduct; technical and moral knowl 7. Comparison of human with
-other kinds of knowledge ja. Human and divine knowledge 7k. Human and angelic
-knowledge jc. Knowledge in this life compared with knowledge in the state of
-knowledge hereafter yd. The knowledge of men and brutes 8. The use and value of
-knowledge 80. The technical use of knowledge in the sphere of production: the
-science in art 8. The moral use of knowledge and the moral value of knowledge
-(1) The knowledge of good and evil: the relation of knowledge t (2) Knowledge as
-a condition of voluntanness in conduct (3) Knowledge in relation to prudence and
-continence (4) The possession or pursuit of knowledge as a good or satis to
-pleasure and pain; its contribution to happiness 8c. The political use of
-knowledge: the knowledge requisite for t legislator, or citizen 9.
-
-The communication of knowledge 90. The means and methods of communicating
-knowledge 9k. The value of the dissemination of knowledge: freedom of discuss
-10. The growth of human knowledge: the history of man's progress and fa pursuit
-of knowledge PAGE ent 907 908 t and imthe knowing : knowing for oduction
-production and edge 909 910 innocence and 91 1 applications of o virtue and sin
-913 914 faction: its relation he statesman, 915 916 ion ilures in the REFERENCES
-To find the passages cited, use the numbers in heavy numbers of the passages
-referred to. For example, in number 4 is the number of the volume in the set;
-the sage is in section d of page 12.
-
-PAGE SECTIONS: When the text is printed in one col upper and lower halves of the
-page, For example, in 5 begins in the upper half of page and ends in the in two
-columns, the letters a and b refer to printed hand sideof the page, the letters
-c and d to the uppe the For example, in 7 PLATO: Symposium, 163b-16 page. of the
-left-hand side of page and ends in the upp AUTHOR'S DIVISIONS: One or more of
-the main divisi SECT) are sometimes included in the reference; line n tain
-cases; e.g., Iliad, BK n [265-283] 12d.
-
-BIBLE REFERENCES: The references are to book, chapte and Douay versions differ
-in title of books or in the James version is cited first and the Douay,
-indicated MENT: Nehemiah, 7:45 (D) // Esdras, 7:46.
-
-SYMBOLS: The abbreviation "esp" calls the reader's relevant parts of a whole
-reference, "passim" signifi tently rather than continuously in the work or
-passag For additional information concerning the style of the Reference Style;
-for general guidance in the use of Th
+and the welfare of the state; that its pursuit by
+the individual and
+its dissemination in a society should be facilitated by education, by the
+support and freedom of scholars and scientists,
+and by every device which can assist men in
+communicating what
+they know
+to one
+another.
+But knowledge
+is not valued by all for the
+same reason. That knowledge
+is useful to the
+productive artist, to the statesman, to the legislator, and to the individual in the conduct of
+his
+life, seems to be assumed in discussions of
+the applications of science in the various arts,
+in the consideration of statecraft, and
+in the
+analysis of virtue. In this last connection, the
+problem
+is not whether knowledge
+is morally
+useful, but whether knowledge of good and evil
+is identical with virtue so that sin and vice result from error or ignorance.
+If there is a negative opinion here, it consists
+in saying
+that knowledge
+is not enough. To
+know is not to do. Something more than knowledge
+is required for acting well.
+The more radical dispute about the value of
+knowledge concerns the goodness of knowledge
+for its own sake, without any regard to its technical or moral utility.
+Is the contemplation of
+the truth an ultimate end, or does the goodness
+of knowledge always consist in its power to effect
+results in the mastery of nature and the
+guidance of conduct ? The utility of knowledge
+is seldom denied by those who make speculative
+wisdom and
+theoretic
+science good
+in themselves, even the highest goods, quite apart from
+any use to which they may be put. The contrary
+position,
+however,
+does
+not admit
+the
+special value of contemplation or the separation
+of truth from
+utility. To those who say that
+"the contemplation of truth
+is more dignified
+and exalted than any
+utility or extent of effects," Francis Bacon
+replies that "truth and
+utility are perfectly identical, and
+the effects
+are more of value as pledges of truth than from
+the benefit they confer on men."
+How knowledge and action are related
+is one
+question; how knowledge itself is divided into
+the speculative and practical
+is quite another.
+Bacon, for example, insists upon the necessity
+of distinguishing the speculative and practical
+branches ofnatural philosophy—concerned with
+"the search after causes and the production of
+effects." Unlike Aristotle and Kant he does not
+use the word "practical" for the kind of knowledge which is contained in such sciences as ethics
+or politics, but only for the applied sciences or
+technology. Ethics and politics fall under what
+he calls "civil philosophy."
+Despite these differences in language, the way
+in which Bacon divides
+the whole sphere of
+knowledge closely resembles Aristotle's tripartite
+classification of the sciences as
+theoretic,
+productive
+(or technical), and practical (or
+moral); and, no less, a similar threefold division
+by Kant. But Kant and Aristotle (and, it should
+be added, Aquinas) give a more elaborate analysis of these three types of knowledge, especially
+with
+regard
+to
+the
+principles appropriate to
+each, the nature of the judgments and reasoning
+by which they are developed, and the character
+and criteria of their truth.
 
 OUTLINE OF TOPICS
 
@@ -565,7 +1049,7 @@ in relation to other states of mind
  PACE
 
 5. The extent or limits of human knowledge
- 5a. The knowable, the unknowable, and the unknown: the knowability of certain
+ 5a. The knowable, the unknowable, and the unknown: the knowability of certa in
  objects
  (1) God as an object of knowledge
  (2) Matter and the immaterial as objects of knowledge
@@ -615,7 +1099,7 @@ in relation to other states of mind
  based on sense or reason distinguished from knowledge by faith or
  through grace and inspiration
  6e. The classification of knowledge according to the degrees of assent
- (1) The distinction between certain and probable knowledge
+ (1) The distinction between certa in and probable knowledge
  (2) The types of certainty and the degrees of probability
  (3) The distinction between adequate and inadequate, or perfect and im-
  perfect knowledge
@@ -798,7 +1282,7 @@ W. JAMES. The Will to
 .On the Profit of Believing
 
 .On Faith in Things Unseen SEXTUS EMPIRICUS. Out AQUINAS. On the Trinity
-ofBoethius, QQ 5-6 SAADIA GAON. The Boo{
+of Boethius, QQ 5-6 SAADIA GAON. The Boo{
 
 .Summa Contra Gentiles, BK i, CH 48-71 INTRODUCTORY TREATI
 
@@ -823,7 +1307,7 @@ PETRARCH. On His Own I
 
 .
 
-Logic, CH 3-5 ALBO. The Bootkof Prin FARADAY. Observations on the Education
+Logic, CH 3-5 ALBO. The Bootk of Prin FARADAY. Observations on the Education
 ofthcjudg- iv, CH i
 
 ment SUAREZ. Disputationes J. S. MILL. An Examination of Sir William Hamil- xni
