@@ -2,1266 +2,158 @@ CHAPTER: DEFINITION
 
 INTRODUCTION
 
-DEFINITION
-has been variously defined
-in the tradition of the great books. These
-diverse conceptions of what a definition is raise
-many issues.
-At one extreme,
-writers Uke Hobbes look
-upon definition as nothing more than an
-attempt to say what a word means—how
-it has
-been or is being used. At the other, writers like
-Aquinas
-regard
-definition
-as
-that
-act of the
-mind by which it expresses the nature of a thing
-or formulates its essence.
-In one
-technical view
-associated with
-the
-name of Aristotle, to define is to state the genus
-and differentia by which the species of a thing
-is constituted. In another theory of definition
-advanced by Locke and others, any combination of traits which distinguishes one
-class or
-kind of thing from another defines the character common to all members of that class. In still
-another view, to be found in Spinoza, definition
-consists in giving the cause or genesis of a thing,
-in
-saying how
-the
-thing
-originated
-or
-was
-produced.
-Sometimes definition through causes employs
-the final rather than the efficient or productive
-cause, and characterizes the thing by the end it
-naturally serves. And sometimes, as with William James, definitions simply express the purposes or interests which we have in mind when
-we classify things to suit ourselves.
-In the tradition of the liberal arts of grammar, rhetoric, and logic, these various conceptions of definition are connected with controversies concerning the power and activity of
-the human mind,
-the relation of language
-to
-thought, the structure of science or, more generally, the nature of knowledge, and the constitution of reality, with particular reference to
-the existence of universals and individuals and
-their relation to one another.
-These connections appear in the thought of
-Aristotle and Spinoza, Hobbes and Locke, Aquinas and William James. Their views of the way
-in which definitions should be constructed or
-their conceptions of the function of definitions
-determine and
-reflect lines of agreement and
-opposition on many other matters. The use of
-definitions in the great works of mathematics
-and
-natural
-science—by
-Euclid,
-Descartes,
-Galileo,
-Newton,
-Lavoisier,
-and
-Darwin
-tends
-to
-exemplify now
-one, now
-another,
-theory of definition. Modern discussions of the
-nature of science and mathematics, especially
-discussions influenced by the development of
-mathematical
-logic—from Whewell, Mill, and
-Poincare to Whitehead, Russell, and Dewey
-focus critical attention on the nature and role
-of definitions.
-Many other chapters provide an illuminating
-context for topics discussed in
-this one, especially
-the chapters on Language and Logic,
-Idea, Principle and Reasoning, Philosophy
-and Science, and Truth. Though the
-issues
-concerning definition cannot be resolved apart
-from this larger context of controversy about
-the mind, reality, and knowledge, we can nevertheless formulate these issues in isolation. But
-in doing so we ought to bear in mind that they
-can be more readily understood in proportion
-as they are seen in the fight of other relevant
-considerations.
-There
-is,
-first of all, the question about the
-object
-of
-definition. What
-is
-being
-defined
-when men make or defend definitions?
-This
-question broadens into the problem of nominal
-as opposed to real definitions. That is a complex
-problem which raises a number of further questions. Are
-all definitions
-arbitrary, expressing
-the conventions of our speech or the particular
-purpose we have
-in mind when we
-classify
-things ? Or do some,
-if not
-all, definitions ex286
+Aristotle and Spinoza, Hobbes and Locke, Aquinas and William James. Their views of the way in which definitions should be constructed or their conceptions of the function of definitions determine and reflect lines of agreement and opposition on many other matters. The use of definitions in the great works of mathematics and natural science—by Euclid, Descartes,
 
-press the real natures of the things defined? Do
-they classify things according to natural kinds
-which have reality apart from our mind and
-its
-interests?
-These issues are in turn related to the issue
-concerning the limits of definition and its ultimate
-principles—whether
-all
-things,
-or only
-some, are definable, and whether the indefinable
-terms, without which
-definition
-is
-itself
-impossible, can be arbitrarily chosen or must
-always be terms of a certain sort. The sense in
-which definitions may be true or false and the
-sense in which they cannot be either, have a
-bearing on
-all these issues; and through them
-all run the divergent conceptions of how definitions can or should be constructed.
-When in the course of argument one man dismisses the opinion of another by saying, "That
-is
-just a matter of definition,"
-the usual implication
-is
-that
-the
-rejected opinion has no
-truth apart from the way in which
-the man
-who proposed
-it uses words. He may even be
-accused
-of begging
-the
-question,
-of framing
-definitions which
-implicitly contain
-the
-conclusion he subsequently draws from them.
-The underlying supposition here seems to be
-expressed by Pascal when, in his essay On Geometrical Demonstration, he asserts that "there is
-great freedom of definition and definitions are
-never subject to contradiction, for nothing
-is
-more permissible than to give whatever name
-we please to a thing we have clearly pointed
-out." He
-calls "true definitions"
-those which
-are
-"arbitrary, permissible, and geometrical."
-The only restriction he would place upon our
-freedom to make definitions
-is that "we must
-be careful not to take advantage of our freedom
-to impose names by gi^'ing the same name to
-two different things." And even
-this
-case, he
-claims,
-is permissible "if we avoid confusion by
-not extending the consequences of one to the
-other."
-If we are free to make whatever definitions
-we please,
-it would seem to follow that definitions cannot be matters of argument; and differences of opinion which
-result from
-differences in definition would seem to be irreconcilable by any appeal to reason or to fact.
-Such
-a
-conception
-of
-definition
-as
-verbal
-does not seem to prevent Hobbes from holding
-thatdefinitionsarefirstprinciplcs or foundations
-of science. "In Geometry (which
-is the only science that
-it hath pleased (jod hitherto to bestow on mankind), men begin," he writes, "at
-settling the signification of their words; which
-settling of significations, they call
-Definitions'^
-and place them in the beginning of their reckoning." This shows, Hobbes
-thinks, "how necessary it is for any man that aspires to true knowledge to examine
-the definitions of former authors; and either
-to correct them, where they
-are negligently set down; or to make them himself. For the errors of definitions multiply themselves, according
-as the reckoning proceeds."
-For Hobbes,
-then, definition
-is verbal; yet
-definitions can also be true or false, and on the
-truth of definitions depends the distinction between knowledge and opinion.
-"In
-the
-right
-definition of names," he says, "lies the first use
-of speech; which
-is the acquisition of science."
-Only when discourse "begins with the definitions of words" can
-it reach conclusions
-that
-have the character of knowledge. "If the
-first
-ground of such discourse be not definitions
-.
-.
-.
-then the end or conclusion
-is opinion."
-Hobbes accurately reports the nature of geometry when he says that in that science definitions serve as principles in reasoning or proof.
-The words "by definition" mark one of
-the
-steps in many Euclidean proofs. Descartes and
-Spinoza, proceeding
-in
-the geometrical manner, place definitions at the head of their works
-as ultimate principles to be used in validating
-their
-conclusions.
-But,
-unlike Hobbes,
-these
-writers do not seem to regard
-their definitions
-as merely verbal.
-Euclid goes
-further,
-as we
-shall presently
-see, and
-offers what amounts
-to proofs of his definitions, or at least of their
-geometrical reality. Aristotle and Aquinas certainly take the position not only that definitions
-are principles, but also that
-definitions themselves are capable of being demonstrated. But
-they complicate
-the matter by insisting that
-definitions are neither true nor false,
-since, as
+Galileo, Newton, Lavoisier, and Darwin tends to exemplify now one, now another, theory of definition. Modern discussions of the nature of science and mathematics, especially discussions influenced by the development of mathematical logic—from Whewell, Mill, and
+
+Poincare to Whitehead, Russell, and Dewey focus critical attention on the nature and role of definitions.
+
+Many other chapters provide an illuminating context for topics discussed in this one, especially the chapters on Language and Logic,
+
+Idea, Principle and Reasoning, Philosophy and Science, and Truth. Though the issues concerning definition cannot be resolved apart from this larger context of controversy about the mind, reality, and knowledge, we can nevertheless formulate these issues in isolation. But in doing so we ought to bear in mind that they can be more readily understood in proportion as they are seen in the fight of other relevant considerations.
+
+There is, first of all, the question about the object of definition. What is being defined when men make or defend definitions? This question broadens into the problem of nominal as opposed to real definitions. That is a complex problem which raises a number of further questions. Are all definitions arbitrary, expressing the conventions of our speech or the particular purpose we have in mind when we classify things ? Or do some, if not all, definitions express the real natures of the things defined? Do they classify things according to natural kinds which have reality apart from our mind and its interests?
+
+These issues are in turn related to the issue concerning the limits of definition and its ulti- mate principles—whether all things, or only some, are definable, and whether the indefinable terms, without which definition is itself impossible, can be arbitrarily chosen or must always be terms of a certain sort. The sense in which definitions may be true or false and the sense in which they cannot be either, have a bearing on all these issues; and through them all run the divergent conceptions of how definitions can or should be constructed. When in the course of argument one man dismisses the opinion of another by saying, "That is just a matter of definition," the usual implication is that the rejected opinion has no truth apart from the way in which the man who proposed it uses words. He may even be accused of begging the question, of framing definitions which implicitly contain the conclusion he subsequently draws from them.
+
+The underlying supposition here seems to be expressed by Pascal when, in his essay On Geometrical Demonstration, he asserts that "there is great freedom of definition and definitions are never subject to contradiction, for nothing is more permissible than to give whatever name we please to a thing we have clearly pointed out." He calls "true definitions" those which are "arbitrary, permissible, and geometrical." The only restriction he would place upon our freedom to make definitions is that "we must be careful not to take advantage of our freedom to impose names by gi^'ing the same name to two different things." And even this case, he claims, is permissible "if we avoid confusion by not extending the consequences of one to the other." If we are free to make whatever definitions we please, it would seem to follow that definitions cannot be matters of argument; and differences of opinion which result from differences in definition would seem to be irreconcilable by any appeal to reason or to fact.
+
+Such a conception of definition as verbal does not seem to prevent Hobbes from holding thatdefinitionsarefirstprinciplcs or foundations of science. "In Geometry (which is the only sci- ence that it hath pleased (jod hitherto to be- stow on mankind), men begin," he writes, "at settling the signification of their words; which settling of significations, they call Definitions'^ and place them in the beginning of their reckoning." This shows, Hobbes thinks, "how necessary it is for any man that aspires to true knowl- edge to examine the definitions of former authors; and either to correct them, where they are negligently set down; or to make them himself. For the errors of definitions multiply themselves, according as the reckoning proceeds." For Hobbes, then, definition is verbal; yet definitions can also be true or false, and on the truth of definitions depends the distinction be- tween knowledge and opinion. "In the right definition of names," he says, "lies the first use of speech; which is the acquisition of science." Only when discourse "begins with the definitions of words" can it reach conclusions that have the character of knowledge. "If the first ground of such discourse be not definitions . . . then the end or conclusion is opinion." Hobbes accurately reports the nature of ge- ometry when he says that in that science definitions serve as principles in reasoning or proof. The words "by definition" mark one of the steps in many Euclidean proofs. Descartes and
+
+Spinoza, proceeding in the geometrical manner, place definitions at the head of their works as ultimate principles to be used in validating their conclusions. But, unlike Hobbes, these writers do not seem to regard their definitions as merely verbal. Euclid goes further, as we shall presently see, and offers what amounts to proofs of his definitions, or at least of their geometrical reality. Aristotle and Aquinas certainly take the position not only that definitions are principles, but also that definitions themselves are capable of being demonstrated. But they complicate the matter by insisting that definitions are neither true nor false, since, as
+
 Aristotle says, they do not involve "the assertion of something concerning something."
-At least two questions seem to be involved in
-this familiar dispute about the arguability of
-definitions and their role in argumentation. To
-avoid confusion, they should be kept distinct.
-One
-is the question of the truth and falsity of
-definitions.
-It should be separated from, even
-though it is related to, the other question about
-whether
-all definitions are nominal,
-i.e., concerned
-only with
-assigning meanings
-to
-the
-words by which we name
-things. To understand what
-is involved in this second question,
-it may be helpful
-to consider the
-relation of
-words, thoughts, and
-things in the process of
-definition.
-A DICTIONARY
-IS supposcd
-to Contain definitions. It does in part—insofar as the meaning of
-any word
-is expressed
-in a phrase containing
-other words which are not synonyms for the
-word
-in question. The combined meanings of
-these other words determine
-the meaning of
-the word being defined.
-For
-example,
-one
-definition
-of
-the word
-"brother"
-is "a male
-relative, the son of the
-same parents or parent." Another
-is "a male
-member of a religious order." These two definitions give different meanings for the same word.
-The dictionary
-is here recording two ways in
-which, as a matter of historical fact, the word
-has been used.
-It has been and can be used in
-still other ways. No one of these definitions can
-be called "right" and the others "wrong."
-Dictionary definitions seem to be verbal and
-arbitrary in a number of ways. That the word
-"brother" should carry any of the meanings
-which the dictionary records
-is an accident of
-English usage. It
-is arbitrary that that particular sound or mark should be the name for a
-male relative who
-is the son of the same parents.
-It would be equally arbitrary to restrict
-the meaning of the word "brother" to any one
-of its definitions.
-Nothing about a word limits the number of
-distinct meanings with which it can be used. As
-Locke says, "every man has so inviolable a liberty
-to make words stand
-for what
-ideas he
-pleases,
-that no one hath the power to make
-others have the same ideas in their minds that
-he has, when they use the same words that he
-does." A word
-is thus a conventional sound or
-mark, which can be given any meaning convention assigns to
-it. When that meaning is expressed in other words, we have a \'erbal definition, and such definitions are certainly nominal
-in
-this sense— that they state the meaning of
-But are they merely nominal ? Are they entirely arbitrary ? That this word should be used
-to name this thing
-is arbitrary, but that when
-it
-is so used
-a
-certain
-definition
-also
-applies
-may not be arbitrary. Among the several verbal
-definitions of a word, the one which applies in
-any particular case will depend upon the character
-of the
-thing which
-the word
-is
-used
-to name.
-For example,
-if John and James are sons of
-the same parents, the name "brother" applies,
-but not with the same definition which
-is required for the application of the name to Mark
-and Matthew who,
-unrelated by
-blood,
-are
-members of the same monastic order. What the
-word "brother"
-is used to mean may be arbitrary, but when
-it
-is used now of John and
-James, and now
-of Mark and
-Matthew,
-it
-would be misapplied if it did not carry the appropriate definition. Which definition is appropriate in each case does not seem
-to be arbitrary, since
-that appropriateness depends not
-on our will but on the objective facts of the
-case— the actual relation of the persons called
-"brothers."
-Precisely because the w ord is used to name a
-thing, the definition of the word as so used does
-more than state the meaning of the word.
-It
-states something about
-the
-character of the
-thing named. Definitions remain merely verbal
-only so long as the words they define are not
-actually used to name or to signify things
-in
-some way. Whenever a thing is named or signified, the definition which gives the meaning
-of the word must also signify something about
-the nature of the thing.
-"In the natural order of ideas," writes Lavoisier,
-"the name of the
-class or genus
-is that
-which expresses a quality common
-to a great
-number of individuals; the name of the species,
-on the contrary, expresses a quality peculiar to
-certain individuals only. These distinctions are
-not, as some may imagine, merely metaphysical,
-but are established by Nature."
-Yet it may be said that the definition
-is
-still
-nominal, for
-it depends entirely on the meanings of the words which express it. For example,
-one definition of "brother" involves the meanings of such words as "male" and
-"relative,"
-"son,"
-"parent," and "same."
-If we were
-to
 
-these words up in a dictionary, the definitions ue found would involve the meanings
-of still other words, and so on
-in an endlessly
-circular
-fashion. Furthermore, we would
-find
-the account of certain words, such as "relative"
-and "same," somewhat unsatisfactory as definitions because the meaning of the defining \\ ords
-would immediately involve the meaning of the
-word to be defined. To say that "same" means
-"not other" or "not different" seems the same
-as saying "same" means "same." Yet we must
-know the meaning of "same," for otherwise we
-could not understand the meaning of "brother,"
-in
-the
-definition
-of which
-the word "same"
-appears.
-That some words seem
-to have indefinable
-meanings suggests
-that not
-all meanings
-are
-merely verbal or nominal, and that the meaning of every word cannot be found in the meanings of other words. In the Preface to his dictionary, Dr. Johnson observes that "as nothing
-can be proved but by supposing something intuitively known, and evident without proof, so
-nothing can be defined but by the use of words
-too plain to admit of definition." The circularity of the dictionars^ is thus avoided. When we
-trace meanings from one word to another, we
-finally come to words whose meanings we seem
-to understand immediately, or at least without
-reference to the meanings of other words.
-Just as the arbitrary' character of verbal definitions seems to be removed by the consideration of the things which words name or signify,
-so the purely nominal character of definitions
-seem to be removed by recourse to meanings
-which are understood without further verbal
-explanation—meanings which may
-in
-fact be
-incapable of such explanation.
-Not all writers agree with Dr. Johnson. All
-of them would admit that some words must be
-left undefined
-in order
-to define others,
-but
-which
-shall be used
-as indefinable and which
-shall be defined
-is,
-in the opinion of some, a
-matter of choice. It is not something which can
-be determined by
-the order
-intrinsic
-to our
-ideas or meanings. The issue between the mathematical logicians who think that w^e are free
-to choose our primitive or indefinable
-terms,
-and those who,
-like Aquinas,
-think that
-certain terms, such as being, same, one, and relaDEFINITION
+At least two questions seem to be involved in this familiar dispute about the arguability of definitions and their role in argumentation. To avoid confusion, they should be kept distinct. One is the question of the truth and falsity of definitions. It should be separated from, even though it is related to, the other question about whether all definitions are nominal, i.e., concerned only with assigning meanings to the words by which we name things. To understand what is involved in this second question, it may be helpful to consider the relation of words, thoughts, and things in the process of definition.
 
-tion, impose themselves upon our minds as principles, leaving us no choice,
-parallels the issue
-between the view that
-the principles of a
-science consist of postulates voluniarilv assumed
-and
-the view that
-they are axiomatic
-or
-unavoidable.
-Far from
-regarding such
-basic
-indefinable
-terms as clearest and most indisputable in meaning, Spinoza thinks that "these terms signify
-ideas in the highest degree confused." For him
-"the true definition of any one thing
-.
-.
-. expresses nothing but the nature of the thing defined." But to arrive at the true definition,
-it is
-necessary
-to discover the cause of the
-thing.
-For "every existing thing," he writes, "there is
-some certain cause by reason of which it exists."
-This cause "must either be contained
-in
-the
-nature itself and definition of the existing thing
-... or it must exist outside the thing." In the
-latter case,
-the definition of the thing always
-involves a statement of the external cause of its
-existence.
-Accordingly, Spinoza rejects the traditional
-type of Aristotelian definition as purely subjective—a matter of individual memor)' and
-imagination. "Those who have more frequently
-looked with admiration upon
-the
-stature
-of
-men," he writes, "by the name man will understand an animal of erect
-stature, while
-those
-who have
-been
-in
-the
-habit of fixing
-their
-thoughts on something else will form another
-common image of men, describing man, for instance, as an animal capable of laughter, a biped
-without
-feathers,
-a
-rational
-animal,
-and
-so
-on; each
-person forming universal images of
-things according to the temperament of his own
-body."
-However the issue between Spinoza and Aristotle
-is resolved, both seem to agree that more
-is involved in the process of definition than the
-statement of verbal equivalences. "We have a
-definition," Aristotle says, "not where we have
-a w'ord and formula identical in meaning (for in
-that case all formulae or sets of w ords would be
-definitions)." The formula which
-is expressed
-in a phrase or combination of words must state
-the nature or essence of a thing, not just the
-meaning of a word. "The formula ... in which
-the term itself is not present but its meaning is
-expressed, this," according to Aristotle, "is the
-formula of the essence of each thing" and, he
-adds, "there
-is an essence only of those things
-whose formula is a definition."
-Even
-supposing
-the
-truth
-of
-these
-statements, which Hobbes or Locke certainly would
-question,
-the problem of
-real
-as opposed
-to
-nominal
-definition
-requires
-further examination. To explore the matter further, let us take
-two of the most famous definitions to be found
-in the great books. Both are definitions of man
-— "featherless biped" and
-"rational animal."
-As we have seen, these definitions must remain
-purely nominal—only stating the meaning of
-the word "man"— until that word
-is used
-to
-name some kind of thing. If, however, we apply
-the word "man"
-to
-existing
-entities which
-combine the characteristics of having two legs
-and lacking feathers, then "featherless biped"
-defines, not the word "man," but a class of real,
-that
-is,
-existing
-things.
-In addition
-to being
-nominal, the definition
-is now also real in the
-sense that the class or kind which it determines
-has existing members.
-That animals exist may similarly be a fact of
-observation. But "animal"
-is only one of the
-two terms in the other nominal definition of
-"man."
-In order
-to make
-"rational animal"
-more than a nominal definition,
-it
-is necessary
-to verify the existence of animals which possess
-a
-certain
-characteristic,
-rationality,
-not
-possessed by all animals. If rationality in some degree belonged
-to
-all animals,
-then
-the word
-"man"
-(nominally
-defined by
-"rational
-animal")
-would
-be synonymous with "animal."
-But, unlike feathers, the presence or absence of
-which seems readily observable, the possession
-or lack of rationality
-is difficult to ascertain.
-Here we face two possibilities. One is that we
-can never be sure that some existing animals
-are and some are not rational. Then the definition "rational animal" will never become real.
-It will always remain merely nominal, the statement of a possible meaning for "man," but one
-which we cannot employ when we apply the
-word
-to name any existing thing. The other
-possibiUty is that we can infer the existence of a
-special
-class of animals
-(distinguished by
-the
-possession of reason) from such evident facts as
-the activities of reading and writing, activities
-not performed by all animals. Then, members
-of the class defined having been found to exist,
-"rational animal" becomes a real definition of
-the beings
-to which we also arbitrarily assign
-the name "man."
-The process of verification by which a nominal
-is converted into a
-real definition can be
-regarded as the demonstration of a definition.
-Strictly speaking, it is not the definition which
-is thereby proved. It is rather a proposition in
-which the subject of the definition is affirmed
-to exist, or in which a subject already known to
-exist
-is said
-to have a certain definition. For
-example,
-it
-is not the definition "rational animal"
-which
-is
-proved,
-but
-the
-proposition
-"there exists an animal which differs from other
-animals in being rational," or the proposition
-"the real being which we call 'man'
-is both an
-animal and rational, and he alone
-is rational."
+A DICTIONARY IS supposcd to Contain definitions. It does in part—insofar as the meaning of any word is expressed in a phrase containing other words which are not synonyms for the word in question. The combined meanings of these other words determine the meaning of the word being defined.
+
+For example, one definition of the word "brother" is "a male relative, the son of the same parents or parent." Another is "a male member of a religious order." These two definitions give different meanings for the same word. The dictionary is here recording two ways in which, as a matter of historical fact, the word has been used. It has been and can be used in still other ways. No one of these definitions can be called "right" and the others "wrong."
+
+Dictionary definitions seem to be verbal and arbitrary in a number of ways. That the word "brother" should carry any of the meanings which the dictionary records is an accident of
+
+English usage. It is arbitrary that that particular sound or mark should be the name for a male relative who is the son of the same parents. It would be equally arbitrary to restrict the meaning of the word "brother" to any one of its definitions.
+
+Nothing about a word limits the number of distinct meanings with which it can be used. As Locke says, "every man has so inviolable a liberty to make words stand for what ideas he pleases, that no one hath the power to make others have the same ideas in their minds that he has, when they use the same words that he does." A word is thus a conventional sound or mark, which can be given any meaning convention assigns to it. When that meaning is expressed in other words, we have a \'erbal definition, and such definitions are certainly nominal in this sense— that they state the meaning of
+
+But are they merely nominal ? Are they entirely arbitrary ? That this word should be used to name this thing is arbitrary, but that when it is so used a certain definition also applies may not be arbitrary. Among the several verbal definitions of a word, the one which applies in any particular case will depend upon the character of the thing which the word is used to name.
+
+For example, if John and James are sons of the same parents, the name "brother" applies, but not with the same definition which is required for the application of the name to Mark and Matthew who, unrelated by blood, are members of the same monastic order. What the word "brother" is used to mean may be arbitrary, but when it is used now of John and
+
+James, and now of Mark and Matthew, it would be misapplied if it did not carry the appropriate definition. Which definition is appropriate in each case does not seem to be arbitrary, since that appropriateness depends not on our will but on the objective facts of the case— the actual relation of the persons called "brothers."
+
+Precisely because the w ord is used to name a thing, the definition of the word as so used does more than state the meaning of the word. It states something about the character of the thing named. Definitions remain merely verbal only so long as the words they define are not actually used to name or to signify things in some way. Whenever a thing is named or signified, the definition which gives the meaning of the word must also signify something about the nature of the thing.
+
+"In the natural order of ideas," writes Lavoisier, "the name of the class or genus is that which expresses a quality common to a great number of individuals; the name of the species, on the contrary, expresses a quality peculiar to certain individuals only. These distinctions are not, as some may imagine, merely metaphysical, but are established by Nature."
+
+Yet it may be said that the definition is still nominal, for it depends entirely on the meanings of the words which express it. For example, one definition of "brother" involves the meanings of such words as "male" and "relative," "son," "parent," and "same." If we were to look these words up in a dictionary, the definitions ue found would involve the meanings of still other words, and so on in an endlessly circular fashion. Furthermore, we would find the account of certain words, such as "relative" and "same," somewhat unsatisfactory as definitions because the meaning of the defining \\ ords would immediately involve the meaning of the word to be defined. To say that "same" means "not other" or "not different" seems the same as saying "same" means "same." Yet we must know the meaning of "same," for otherwise we could not understand the meaning of "brother," in the definition of which the word "same" appears.
+
+That some words seem to have indefinable meanings suggests that not all meanings are merely verbal or nominal, and that the meaning of every word cannot be found in the meanings of other words. In the Preface to his dictionary, Dr. Johnson observes that "as nothing can be proved but by supposing something intuitively known, and evident without proof, so nothing can be defined but by the use of words too plain to admit of definition." The circularity of the dictionars^ is thus avoided. When we trace meanings from one word to another, we finally come to words whose meanings we seem to understand immediately, or at least without reference to the meanings of other words.
+
+Just as the arbitrary' character of verbal definitions seems to be removed by the consideration of the things which words name or signify, so the purely nominal character of definitions seem to be removed by recourse to meanings which are understood without further verbal explanation—meanings which may in fact be incapable of such explanation. Not all writers agree with Dr. Johnson. All of them would admit that some words must be left undefined in order to define others, but which shall be used as indefinable and which shall be defined is, in the opinion of some, a matter of choice. It is not something which can be determined by the order intrinsic to our ideas or meanings. The issue between the mathematical logicians who think that w^e are free to choose our primitive or indefinable terms, and those who, like Aquinas, think that certain terms, such as being, same, one, and relaDEFINITION 289 tion, impose themselves upon our minds as principles, leaving us no choice, parallels the issue between the view that the principles of a sci- ence consist of postulates voluniarilv assumed and the view that they are axiomatic or unavoidable.
+
+Far from regarding such basic indefinable terms as clearest and most indisputable in meaning, Spinoza thinks that "these terms signify ideas in the highest degree confused." For him "the true definition of any one thing . . . expresses nothing but the nature of the thing defined." But to arrive at the true definition, it is necessary to discover the cause of the thing. For "every existing thing," he writes, "there is some certain cause by reason of which it exists." This cause "must either be contained in the nature itself and definition of the existing thing
+
+... or it must exist outside the thing." In the latter case, the definition of the thing always involves a statement of the external cause of its existence.
+
+Accordingly, Spinoza rejects the traditional type of Aristotelian definition as purely subjective—a matter of individual memor)' and imagination. "Those who have more frequently looked with admiration upon the stature of men," he writes, "by the name man will understand an animal of erect stature, while those who have been in the habit of fixing their thoughts on something else will form another common image of men, describing man, for instance, as an animal capable of laughter, a biped without feathers, a rational animal, and so on; each person forming universal images of things according to the temperament of his own body."
+
+However the issue between Spinoza and Aristotle is resolved, both seem to agree that more is involved in the process of definition than the statement of verbal equivalences. "We have a definition," Aristotle says, "not where we have a w'ord and formula identical in meaning (for in that case all formulae or sets of w ords would be definitions)." The formula which is expressed in a phrase or combination of words must state the nature or essence of a thing, not just the meaning of a word. "The formula ... in which the term itself is not present but its meaning is expressed, this," according to Aristotle, "is the formula of the essence of each thing" and, he adds, "there is an essence only of those things whose formula is a definition."
+
+Even supposing the truth of these statements, which Hobbes or Locke certainly would question, the problem of real as opposed to nominal definition requires further examination. To explore the matter further, let us take two of the most famous definitions to be found in the great books. Both are definitions of man — "featherless biped" and "rational animal." As we have seen, these definitions must remain purely nominal—only stating the meaning of the word "man"— until that word is used to name some kind of thing. If, however, we apply the word "man" to existing entities which combine the characteristics of having two legs and lacking feathers, then "featherless biped" defines, not the word "man," but a class of real, that is, existing things. In addition to being nominal, the definition is now also real in the sense that the class or kind which it determines has existing members.
+
+That animals exist may similarly be a fact of observation. But "animal" is only one of the two terms in the other nominal definition of "man." In order to make "rational animal" more than a nominal definition, it is necessary to verify the existence of animals which possess a certain characteristic, rationality, not possessed by all animals. If rationality in some degree belonged to all animals, then the word "man" (nominally defined by "rational animal") would be synonymous with "animal."
+
+But, unlike feathers, the presence or absence of which seems readily observable, the possession or lack of rationality is difficult to ascertain. Here we face two possibilities. One is that we can never be sure that some existing animals are and some are not rational. Then the definition "rational animal" will never become real.
+
+It will always remain merely nominal, the state- ment of a possible meaning for "man," but one which we cannot employ when we apply the word to name any existing thing. The other possibiUty is that we can infer the existence of a special class of animals (distinguished by the possession of reason) from such evident facts as the activities of reading and writing, activities not performed by all animals. Then, members of the class defined having been found to exist, "rational animal" becomes a real definition of the beings to which we also arbitrarily assign the name "man."
+
+The process of verification by which a nominal is converted into a real definition can be regarded as the demonstration of a definition.
+
+Strictly speaking, it is not the definition which is thereby proved. It is rather a proposition in which the subject of the definition is affirmed to exist, or in which a subject already known to exist is said to have a certain definition. For example, it is not the definition "rational ani- mal" which is proved, but the proposition "there exists an animal which differs from other animals in being rational," or the proposition "the real being which we call 'man' is both an animal and rational, and he alone is rational."
+
 If these propositions cannot be proved, "rational animal" remains a purely nominal definition.
-That definitions are not as such either true or
-false
-is unaffected by the distinction between
-real and nominal definitions. The point
-is simply that a definition, which
-is always linguistically expressed by a phrase, never a sentence,
-neither affirms nor denies anything, and so cannot be either true or false. "Featherless biped"
-or "son of the same parents" makes no assertion
-about reality or existence.
-Yet there
-is a special sense in which definitions can be true or false, which does have a
-bearing on
-the
-distinction between
-real and
-nominal definitions. Pascal suggests three alternatives with regard
-to the truth or falsity of
-definitions.
-"If we
-find
-it
-impossible,"
-he
-writes,
-"it passes for
-false;
-if we demonstrate
-that it is true, it passes for a truth; and as long
-as
-it cannot be proved to be either possible or
-impossible,
-it
-is considered a fancy."
-According to Aquinas, there are two ways in
-which a definition can be
-false.
-In one way,
-when the
-intellect appUes "to one thing the
-definition proper to another; as that of a circle
-to a man. In another way, by composing a definition of parts which are mutually repugnant.
-A definition such as 'a four-footed rational animal' would be of this kind ... for such a statement as 'some rational animals are four-footed'
-is false in itself."
-But the truth or falsity of that statement can
-conceivably be argued, and therefore
-it
-is not
-so clear an example of a false definition as one
 
-which, in Pascal's terms, plainly represents an
-impossibility. Suppose someone offered "round
-square" as the nominal definition of "rectacycle." The phrase "round square"
-expresses a
-self-contradiction, and in consequence the definition
-is
-false.
-Its falsity
-is tantamount to the
-impossibility of there being any such figure as a
-rectacycle which has the definition proposed.
-The truth of a definition—which
-is nothing
-more than
-its freedom from self-contradiction
-— is equivalent to the possibility, as opposed to
-the impossibility, of the thing defined. To call
-the
-definition "son of the same
-parents"
-or
-"featherless biped" true is to say that the words
-defined— "brother" or "man"— signify possible
-existences. In short, only those nominal definitions which are true can ever become real, and
-they become
-real
-only when
-the
-possibility
-they signify is actually known to be realized in
-existence.
-The method of Euclid's Elements
-illustrates
-the foregoing points. Euclid defines certain geometrical figures, such as triangle, parallelogram,
-square. These definitions may appear to be free
-from contradiction, but
-that does not
-tell us
-whether they are more than nominal. The defined figures are possible, but
-the question
-is
-whether they exist in the space determined by
-Euclid's postulates.
-To show that they do exist, Euclid undertakes to construct them according to his postulates which permit him the use of a straight
-edge and a compass for purposes of construction. When in Proposition
-i Euclid proves that
-he can construct an equilateral triangle, he establishes the geometrical
-reality of the figure
-defined
-in Definition
-20. A geometrical construction
-is thus seen
-to be what
-is called an
-"existence proof." It converts a nominal into a
-real definition. Figures which cannot be constructed must be postulated;
-as, for example,
-the straight line and the circle. Postulates
-i and
-3 ask us to assume that a straight line can be
-drawn between any two points and that a circle
-can be described with any center and
-radius.
-These postulates give Definitions 4 and 15 their
-geometrical reality.
-Though the method of construction is peculiar to geometry, the relation of definitions to
-proofs or postulates of existence is the same for
-all sciences. Until a definition ceases to be nominal and becomes real,
-it cannot be used scientifically in the demonstration of other conclusions; to use a merely nominal definition in
-the
-proof begs the question.
-If the existence of the thing defined
-is either
-directly observable or self-evident, no proof or
-postulation of existence
-is required.
-In
-theology,
-for example,
-there are
-those who think
-that the existence of God
-is immediately seen
-in the definition of God. Descartes and Spinoza
-seem to be of this opinion.
-Descartes argues that "eternal existence"
-is
-necessarily included in the idea of God as "a
-supremely perfect Being." This
-is so evident,
-he
-declares,
-that
-"existence can no more
-be
-separated from the essence of God than can its
-having its three angles equal to two right angles
-be separated from the essence of a triangle, or
-the idea of a mountain from the idea of a valley." Concerning substance or God, Spinoza
-holds
-that, since
-it
-pertains
-to
-its nature
-to
-exist,
-"its
-definition
-must
-involve
-necessary
-existence, and consequently from its definition
-alone its existence must be concluded."
-On the other hand, there are those who think
-that the existence of God must be proved by
-inference from effect to cause. Supposing that a
-man
-understands
-the meaning
-of
-the word
-"God," Aquinas maintains that
-it
-"does not
-therefore follow that he understands that what
-the name signifies exists actually, but only that
-it exists mentally." Hence, he declares, it is necessary to prove the existence of God, "accepting as a middle term the meaning of the name,"
-but using an effect in "place of the definition of
-the cause in proving the cause's existence."
-The difference between these two positions
-might be summed up by saying that Descartes
-and Spinoza,
-like Anselm before them, think
-the definition of God is intrinsically real, whereas Aquinas thinks we must begin with a nominal definition of God, which becomes real only
-with proof of God's existence. For some confirmed
-atheists, any definition of God
-is not
-only nominal, but
-false— the definition of an
-impossible being, incapable of existing.
-There is still another issue about nominal and
-real definitions. The point involved
-is the one
-raised by Locke's discussion of nominal and real
-essences. It Is also raised by Aristotle's discrimination between
-essential and accidental
-unities,
-i.e., the difference between the unity signified by the phrase "featherless biped" and by
-the phrase "black man." Both phrases look like
-definitions. Each designates a possible
-class of
-individuals and sets up the conditions for membership in that class or exclusion from
-it.
-The distinction between them does not rest,
-according to Aristotle, on the criterion of existence. Both of the objects defined may exist, but
-whereas the first is truly a species, the second is
-only, in Aristotle's opinion, an accidental variety within the species 7nan. Man, being a species, can have a real essence, and so any definition of man—whether "featherless biped" or
-"rational animal"—can be a real definition, constituted by genus and differentia. But negro or
-aryan, not being a species, but only a race or
-variety, has no essence as such. The definitions
-— "black man"
-and
-"white man"— indicate
-this in that they are constituted by two terms
-which are related as substance and accident, not
-as genus and differentia.
-Though
-Aristotle
-distinguishes
-these
-two
-types of formulae
-as
-essential and accidental
-definitions rather than as real and nominal definitions, the one principle of distinction is closely related to the other, for only essential definitions can have
-real essences for their objects.
-Accidental definitions do little more than state
-the meanings of words, or express what Locke
-calls
-the
-"nominal
-essences"
-of
-things. He
-doubts that the definition of anything except a
-mathematical object can ever grasp the real essence of a
-thing. For him
-all
-definitions are
-nominal, which
-is equivalent to saying that we
-never define by means of the true genus and
-differentia, but always by accidental and external signs, or by stating the component parts of
-a complex whole.
-"Speaking of a man,
-or
-gold," Locke
-explains,
-"or any other
-species of natural substance, as supposed constituted by a precise and
-real essence which nature regularly imparts to
-every
-individual of
-that
-kind, whereby
-it
-is
-made to be of that species, we cannot be certain
-of the
-truth
-of any
-affirmation
-or
-negation
-made of it. For man or gold, taken in this sense,
-and used for species of things constituted by
-real essences, different from the complex idea
-in the mind of the speaker, stand for we know
-not what; and the extent of these species, with
-such boundaries, are so unknown and undetermined, that it
-is impossible with any certainty
-to affirm, that all men are rational, or that all
-gold
-is yellow."
-This
-issue has many
-ramifications.
-In one
-direction
-it leads into Aristotle's quarrel with
-Plato over the method of definition by division
-or dichotomy. In the Sophist and the Statesman,
-the search for definitions proceeds by the division of a class of things into two sub-classes, one
-of which
-is then further subdivided, and so on
-until a class is reached which has the characteristics of the object to be defined. The attempt
-to define a sophist, for example, starts with the
-notion that he
-is a man of art, and proceeds by
-dividing and subdividing the various kinds of
-art. At one point in the course of doing this, the
-Athenian Stranger summarizes the process to
-that point.
-"You and I," he says to Theaetetus, "have
-come to an understanding not only about the
-name of the angler's art, but about the definition of the thing
-itself. One half of all art was
-acquisitive— half of the acquisitive art was conquest or taking by force, half of this was hunting, and half of hunting was hunting animals,
-half of this was hunting water animals—of this
-again, the under half was fishing, half of fishing
-was striking; a part of striking was fishing with
-a barb, and one half of this again, being the
-kind which strikes with a hook and draws the
-fish from below upwards,
-is the art which we
-have been seeking, and which from the nature
-of the operation is denoted angling or drawing
-up
-.
-.
-. And now, following
-this pattern," he
-continues, "let us endeavor to find out what a
+That definitions are not as such either true or false is unaffected by the distinction between real and nominal definitions. The point is simply that a definition, which is always linguistically expressed by a phrase, never a sentence, neither affirms nor denies anything, and so cannot be either true or false. "Featherless biped" or "son of the same parents" makes no assertion about reality or existence.
+
+Yet there is a special sense in which definitions can be true or false, which does have a bearing on the distinction between real and nominal definitions. Pascal suggests three alternatives with regard to the truth or falsity of definitions. "If we find it impossible," he writes, "it passes for false; if we demonstrate that it is true, it passes for a truth; and as long as it cannot be proved to be either possible or impossible, it is considered a fancy."
+
+According to Aquinas, there are two ways in which a definition can be false. In one way, when the intellect appUes "to one thing the definition proper to another; as that of a circle to a man. In another way, by composing a definition of parts which are mutually repugnant. A definition such as 'a four-footed rational animal' would be of this kind ... for such a state- ment as 'some rational animals are four-footed' is false in itself."
+
+But the truth or falsity of that statement can conceivably be argued, and therefore it is not so clear an example of a false definition as one which, in Pascal's terms, plainly represents an impossibility. Suppose someone offered "round square" as the nominal definition of "rectacycle." The phrase "round square" expresses a self-contradiction, and in consequence the definition is false. Its falsity is tantamount to the impossibility of there being any such figure as a rectacycle which has the definition proposed. The truth of a definition—which is nothing more than its freedom from self-contradiction — is equivalent to the possibility, as opposed to the impossibility, of the thing defined. To call the definition "son of the same parents" or "featherless biped" true is to say that the words defined— "brother" or "man"— signify possible existences. In short, only those nominal definitions which are true can ever become real, and they become real only when the possibility they signify is actually known to be realized in existence. The method of Euclid's Elements illustrates the foregoing points. Euclid defines certain geometrical figures, such as triangle, parallelogram, square. These definitions may appear to be free from contradiction, but that does not tell us whether they are more than nominal. The defined figures are possible, but the question is whether they exist in the space determined by Euclid's postulates.
+
+To show that they do exist, Euclid undertakes to construct them according to his postulates which permit him the use of a straight edge and a compass for purposes of construction. When in Proposition i Euclid proves that he can construct an equilateral triangle, he establishes the geometrical reality of the figure defined in Definition 20. A geometrical construction is thus seen to be what is called an "existence proof." It converts a nominal into a real definition. Figures which cannot be constructed must be postulated; as, for example, the straight line and the circle. Postulates i and 3 ask us to assume that a straight line can be drawn between any two points and that a circle can be described with any center and radius. These postulates give Definitions 4 and 15 their geometrical reality.
+
+Though the method of construction is peculiar to geometry, the relation of definitions to proofs or postulates of existence is the same for all sciences. Until a definition ceases to be nominal and becomes real, it cannot be used scientifically in the demonstration of other conclusions; to use a merely nominal definition in the proof begs the question.
+
+If the existence of the thing defined is either directly observable or self-evident, no proof or postulation of existence is required. In theology, for example, there are those who think that the existence of God is immediately seen in the definition of God. Descartes and Spinoza seem to be of this opinion.
+
+Descartes argues that "eternal existence" is necessarily included in the idea of God as "a supremely perfect Being." This is so evident, he declares, that "existence can no more be separated from the essence of God than can its having its three angles equal to two right angles be separated from the essence of a triangle, or the idea of a mountain from the idea of a valley." Concerning substance or God, Spinoza holds that, since it pertains to its nature to exist, "its definition must involve necessary existence, and consequently from its definition alone its existence must be concluded."
+
+On the other hand, there are those who think that the existence of God must be proved by inference from effect to cause. Supposing that a man understands the meaning of the word "God," Aquinas maintains that it "does not therefore follow that he understands that what the name signifies exists actually, but only that it exists mentally." Hence, he declares, it is necessary to prove the existence of God, "accepting as a middle term the meaning of the name," but using an effect in "place of the definition of the cause in proving the cause's existence."
+
+The difference between these two positions might be summed up by saying that Descartes and Spinoza, like Anselm before them, think the definition of God is intrinsically real, whereas Aquinas thinks we must begin with a nominal definition of God, which becomes real only with proof of God's existence. For some confirmed atheists, any definition of God is not only nominal, but false— the definition of an impossible being, incapable of existing.
+
+There is still another issue about nominal and real definitions. The point involved is the one raised by Locke's discussion of nominal and real essences. It Is also raised by Aristotle's discrimination between essential and accidental unities, i.e., the difference between the unity signified by the phrase "featherless biped" and by the phrase "black man." Both phrases look like definitions. Each designates a possible class of individuals and sets up the conditions for membership in that class or exclusion from it. The distinction between them does not rest, according to Aristotle, on the criterion of existence. Both of the objects defined may exist, but whereas the first is truly a species, the second is only, in Aristotle's opinion, an accidental variety within the species 7nan. Man, being a species, can have a real essence, and so any definition of man—whether "featherless biped" or "rational animal"—can be a real definition, constituted by genus and differentia. But negro or aryan, not being a species, but only a race or variety, has no essence as such. The definitions — "black man" and "white man"— indicate this in that they are constituted by two terms which are related as substance and accident, not as genus and differentia.
+
+Though Aristotle distinguishes these two types of formulae as essential and accidental definitions rather than as real and nominal definitions, the one principle of distinction is closely related to the other, for only essential definitions can have real essences for their objects.
+
+Accidental definitions do little more than state the meanings of words, or express what Locke calls the "nominal essences" of things. He doubts that the definition of anything except a mathematical object can ever grasp the real essence of a thing. For him all definitions are nominal, which is equivalent to saying that we never define by means of the true genus and differentia, but always by accidental and external signs, or by stating the component parts of a complex whole.
+
+"Speaking of a man, or gold," Locke explains, "or any other species of natural substance, as supposed constituted by a precise and real essence which nature regularly imparts to every individual of that kind, whereby it is made to be of that species, we cannot be certain of the truth of any affirmation or negation made of it. For man or gold, taken in this sense, and used for species of things constituted by real essences, different from the complex idea in the mind of the speaker, stand for we know not what; and the extent of these species, with such boundaries, are so unknown and undeter- mined, that it is impossible with any certainty to affirm, that all men are rational, or that all gold is yellow."
+
+This issue has many ramifications. In one direction it leads into Aristotle's quarrel with
+
+Plato over the method of definition by division or dichotomy. In the Sophist and the Statesman, the search for definitions proceeds by the division of a class of things into two sub-classes, one of which is then further subdivided, and so on until a class is reached which has the characteristics of the object to be defined. The attempt to define a sophist, for example, starts with the notion that he is a man of art, and proceeds by dividing and subdividing the various kinds of art. At one point in the course of doing this, the Athenian Stranger summarizes the process to that point.
+
+"You and I," he says to Theaetetus, "have come to an understanding not only about the name of the angler's art, but about the definition of the thing itself. One half of all art was acquisitive— half of the acquisitive art was conquest or taking by force, half of this was hunting, and half of hunting was hunting animals, half of this was hunting water animals—of this again, the under half was fishing, half of fishing was striking; a part of striking was fishing with a barb, and one half of this again, being the kind which strikes with a hook and draws the fish from below upwards, is the art which we have been seeking, and which from the nature of the operation is denoted angling or drawing up . . . And now, following this pattern," he continues, "let us endeavor to find out what a
+
 Sophist is."
-The pattern as illustrated indicates that, in
-the course of division, one of the two classes
-is
-discarded while the other
-is subject to further
-subdivision.
-Aristotle's
-criticism of
-this
-procedure turns partly on the fact that the division
-is always dichotomous,
-or into two subclasses, and partly on the fact that the terms
-which Plato uses in a succession of subdivisions
-do not seem to have any systematic relation to
-one another. If the class of animals, for example,
-is divided into those with and those with-
 
-Chapti,r
-15:
-out
-feet,
-it makes a
-difTcrence, according
-to
-Aristotle, what terms are then used
-to differentiate footed animals into
-their proper subclasses.
-"It
-is necessary," he
-insists, "that the division be by the differentia ofthe differentia\ e.g.y
-'endowed with feet'
-is a differentia of 'animal';
-again the differentia of 'animal endowed with
-feet' must
-be of
-it qua endowed with
-feet.
-Therefore we must not say,
-if we are to speak
-rightly, that of that which is endowed with feet
-one part has feathers and one
-is featherless
-(if
-we do
-this we do
-it through incapacity); we
-must divide it only into cloven-footed and notcloven;
-for these are differentiae in
-the
-foot;
-cloven-footedness
-is a form of footed ness. And
-the
-process wants always
-to go on
-so
-till
-it
-reaches the species that contains no difference.
-And then there will be as many kinds of foot as
-there are differentiae, and the kinds of animals
-endowed with feet will be equal in number to
-the differentiae.
-If then
-this
-is so, clearly the
-last differentia will be the essence of the thing
-and
-its definition."
-As Aristotle quarrels with Plato's method of
-division, so William James takes issue with Aristotle's theory that a real essence is defined when
-the right differentia is properly chosen within a
-certain genus of
-things. He
-tends
-to
-follow
-Locke's
-notion
-that
-definitions
-indicate
-no
-more than the nominal essences of things, but
-he gives
-this theory a special twist by adding
-the notion that all our definitions merely group
-things according
-to
-the
-interest
-or
-purpose,
-whether
-theoretical or practical, which motivates our classification of them. This has come
-to
-be
-known
-as
-the
-pragmatic
-theory
-of
-definition.
-"My thinking," writes James,
-"is
-first and
-last and always for the sake of my doing." After
-pointing out that Locke "undermined the
-fallacy" of supposing that we can define the real
-essences of things, he goes on to say that "none
-of his successors, as far as I know, have radically
-escaped
-it, or seen that the only meaning of essence
-is teleological, and that classification and
-conception are purely teleological weapons of the
-mind. The essence of a thing
-is that one of its
-properties which
-is so importantfor my interests
-that
-in comparison with
-it
-I may neglect the
-rest.
-.
-.
-. The properties which are important
-DEFINITION
+The pattern as illustrated indicates that, in the course of division, one of the two classes is discarded while the other is subject to further subdivision. Aristotle's criticism of this procedure turns partly on the fact that the division is always dichotomous, or into two subclasses, and partly on the fact that the terms which Plato uses in a succession of subdivisions do not seem to have any systematic relation to one another. If the class of animals, for example, is divided into those with and those withChapti,r 15: out feet, it makes a difTcrence, according to Aristotle, what terms are then used to differentiate footed animals into their proper subclasses.
 
-vary from man to man and from hour to hour."
-In a footnote James adds: "A substance like
-oil has as many different essences as
-it has uses
-to different individuals." The
-classification
-of
-natural as well as artificial objects should therefore proceed according to the advice Mepiiistopheles gives to the student in Cjocthe's Faust.
-"You will have more success," he sa\s, "if you
-will learn to reduce
-all, and
-to classify each according to its use." But if this is so, then no one
-scheme of classification, more
-than any other,
-represents the real structure or order of nature.
-Nature indifferently submits to any and all divisions which we wish
-to make among existing
-things. Some
-classifications may be more
-significant than others, but only by reference
-to
-our interests, not because they represent reality
-more accurately or adequately. It does not matter, therefore, whether we define by genus and
-differentia, by other characteristics in combination, or by reference to origins or functions.
-Darwin's scheme
-of
-classification
-provides
-evidence relevant to this whole issue. As indicated in the chapters on Animal and EvoluTiox, Darwin thinks that his genealogical classification of plants and animals comes nearer to
-the natural system of living organisms than the
-classifications
-proposed
-by
-his
-predecessors.
-"The Natural System," he writes, "is a genealogical arrangement, with the acquired grades
-of difference, marked by the terms,
-varieties,
-species, genera, families, etc.; and we have
-to
-discover the lines of descent by the most permanent characters whatever they may be and
-of however
-slight
-vital importance." Henceforth, following his method, "systematists will
-have only to decide
-.
-.
-. whether any form be
-sufficiently
-constant and
-distinct from other
-forms,
-to be capable of definition; and
-if definable, whether the differences be sufficiently
-important to deserve a specific name."
-But Darwin's statement re-opens rather than
-resolves the great traditional questions. Are the
-various groupings made
-in
-classification
-divisions which the classifier finds useful to impose
-on nature, or do they represent
-lines of real
-distinction in the very nature of things.'^ If the
-latter
-is the case, either wholly or in part, are
-we able to do more than approximate real distinction by whatever method of definition we
-employ.? Can we discover
-real
-species,
-essen-
-tially distinct from one another, and can our
-mind to submit itself to the test of agreement
-definitions formulate the essence of each ?
-with reality. Definition helps man to ask nature
-or experience the only sort of question to which
-The search for definitions basically belongs to
-answers can be found.
-the activity of the human mind in all its scienThe search
-for definitions
-has, perhaps,
-its
-tific or dialectical efforts to clarify discourse, to
-most dramatic exemplification in the dialogues
-achieve precision of thought, to focus issues and
-of Plato. Socrates usually leads the conversation
-to resolve them.
-in quest of them; though
-it
-is only in certain
-Men have no other way of coming to terms
-dialogues, such
-as the Sophist and
-the
-Stateswith one another than by defining the words
-w^;2, that the making of definitions is practiced
-they use to express their concepts or meanings,
-in detail. Two other books in this set are largely
-They make terms out of words by endowing
-concerned with ways of reaching and defending
-words with exactness or precision of meaning,
-definitions—Aristotle's Topics (which should be
-Definition
-does
-this and makes
-possible
-the
-considered together with the opening chapters
-meeting of minds either in agreement or in disof his
-Parts of Animals) and
-Bacon's Novum
-pute. Definition also makes
-it possible for any
+"It is necessary," he insists, "that the division be by the differentia ofthe differentia\ e.g.y 'endowed with feet' is a differentia of 'animal'; again the differentia of 'animal endowed with feet' must be of it qua endowed with feet. Therefore we must not say, if we are to speak rightly, that of that which is endowed with feet one part has feathers and one is featherless (if we do this we do it through incapacity); we must divide it only into cloven-footed and notcloven; for these are differentiae in the foot; cloven-footedness is a form of footed ness. And the process wants always to go on so till it reaches the species that contains no difference. And then there will be as many kinds of foot as there are differentiae, and the kinds of animals endowed with feet will be equal in number to the differentiae. If then this is so, clearly the last differentia will be the essence of the thing and its definition." As Aristotle quarrels with Plato's method of division, so William James takes issue with Aristotle's theory that a real essence is defined when the right differentia is properly chosen within a certain genus of things. He tends to follow Locke's notion that definitions indicate no more than the nominal essences of things, but he gives this theory a special twist by adding the notion that all our definitions merely group things according to the interest or purpose, whether theoretical or practical, which motivates our classification of them. This has come to be known as the pragmatic theory of definition.
+
+"My thinking," writes James, "is first and last and always for the sake of my doing." After pointing out that Locke "undermined the fallacy" of supposing that we can define the real essences of things, he goes on to say that "none of his successors, as far as I know, have radically escaped it, or seen that the only meaning of essence is teleological, and that classification and conception are purely teleological weapons of the mind. The essence of a thing is that one of its properties which is so importantfor my interests that in comparison with it I may neglect the rest. . . . The properties which are important DEFINITION 293 vary from man to man and from hour to hour."
+
+In a footnote James adds: "A substance like oil has as many different essences as it has uses to different individuals." The classification of natural as well as artificial objects should therefore proceed according to the advice Mepiiistopheles gives to the student in Cjocthe's Faust. "You will have more success," he sa\s, "if you will learn to reduce all, and to classify each according to its use." But if this is so, then no one scheme of classification, more than any other, represents the real structure or order of nature. Nature indifferently submits to any and all divisions which we wish to make among existing things. Some classifications may be more significant than others, but only by reference to our interests, not because they represent reality more accurately or adequately. It does not matter, therefore, whether we define by genus and differentia, by other characteristics in combination, or by reference to origins or functions.
+
+Darwin's scheme of classification provides evidence relevant to this whole issue. As indicated in the chapters on Animal and EvoluTiox, Darwin thinks that his genealogical classification of plants and animals comes nearer to the natural system of living organisms than the classifications proposed by his predecessors. "The Natural System," he writes, "is a genealogical arrangement, with the acquired grades of difference, marked by the terms, varieties, species, genera, families, etc.; and we have to discover the lines of descent by the most per- manent characters whatever they may be and of however slight vital importance." Henceforth, following his method, "systematists will have only to decide . . . whether any form be sufficiently constant and distinct from other forms, to be capable of definition; and if definable, whether the differences be sufficiently important to deserve a specific name."
+
+But Darwin's statement re-opens rather than resolves the great traditional questions. Are the various groupings made in classification divisions which the classifier finds useful to impose on nature, or do they represent lines of real distinction in the very nature of things.'^ If the latter is the case, either wholly or in part, are we able to do more than approximate real distinction by whatever method of definition we employ.? Can we discover real species, essentially distinct from one another, and can our definitions formulate the essence of each ?
+
+The search for definitions basically belongs to the activity of the human mind in all its scientific or dialectical efforts to clarify discourse, to achieve precision of thought, to focus issues and to resolve them. Men have no other way of coming to terms with one another than by defining the words they use to express their concepts or meanings, They make terms out of words by endowing words with exactness or precision of meaning, this and makes Definition does possible the meeting of minds either in agreement or in dispute. Definition also makes it possible for any
+
+1. The theory of definition cerned with essence lb. The purpose of definition: the clarification of ideas ir. The limits of definition: the definable and the indefinable id. The unity of a definition in relation to the unity of the thing defined le. The truth and falsity of definitions
+
+2. The various methods of definition or classification
+
+2.a. The use of division or dichotomy in definition
+
+2b. Definition by genus and differentia: properties
+
+2c. Definition by accidental or extrinsic signs or by component parts
+
+2d. The appeal to genesis, origin, cause, or end in definition
+
+26. Definition by reference to purpose or interest
+
+3. The grammatical or verbal aspects of definition
+
+4. The search for definitions and the methods of defending them
+
+5. Definition and demonstration: definitions as principles and as conclusions
+
+6. The character of definitions in diverse disciplines
+
+6a. The formulation of definitions in physics, mathematics, and metaphysics
+
+6b. 1 he use of definition in speculative philosophy and empirical science
+
+6c. The role of definitions in practical or moral philosophy and the social sciences mind to submit itself to the test of agreement with reality. Definition helps man to ask nature or experience the only sort of question to which answers can be found.
+
+The search has, perhaps, for definitions its most dramatic exemplification in the dialogues of Plato. Socrates usually leads the conversation in quest of them; though is only in certain it dialogues, such as the Sophist and the States- w^;2, that the making of definitions is practiced in detail. Two other books in this set are largely concerned with ways of reaching and defending definitions—Aristotle's Topics (which should be considered together with the opening chapters Bacon's Novum Parts of Animals) and of his
+
 Organum.
 
 OUTLINE OF TOPICS

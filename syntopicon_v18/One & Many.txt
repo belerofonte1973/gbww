@@ -2,1129 +2,131 @@ CHAPTER: ONE & MANY
 
 INTRODUCTION
 
-IN
-Pragmatism and in his unfinished last work,
-Some Problems of Philosophy, William James
-uses the problem of the one and the many as one
-of the crucial
-tests of the philosophical mind.
-In his famous table of doctrines or "isms" he
-aligns monism with rationalism and idealism in
-the column headed "tender-minded," and
-in
-the other column, headed "tough-minded," he
-places their opposites—pluralism, empiricism,
-and materialism. But as his own theories show,
-"isms" like monism and pluralism tend to oversimplify the issues.
-Whoever emphasizes the oneness of the world,
-for example, may also acknowledge
-its manyness and recognize that
-it
-is somehow a pluriverse as well as a universe. Some, like Bradley,
-may qualify this view by regarding the unity as
-ultimate reality, the plurality as appearance or
-illusion. Whoever finds the multiplicity of things
-the primary fact may, nevertheless, find some
-unity
-in the order and connection of things.
-Some,
-like James himself, may
-insist that the
-connection is a loose concatenation of relatively
-independent parts of reality, rather than an interpenetration of each part with every other in
-the
-solid whole which James
-calls the "block
-universe."
-There may be another oversimplification in
-James' consideration of the problem of the one
-and the many. He seems to be concerned largely,
-if not exclusively, with the alternatives of the
-block and
-the concatenated universe
-as conceptions of the
-structure of
-reality.
-But,
-as
-some of the great books of antiquity make evident, that is only one of the problems of the one
-and the many. Perhaps
-it should be said, not
-that there are many problems of the one and
-the many, but that there is one problem having
-many aspects or applications, for in every statement of the problem there is at least this singleness of theme; that the one and the many are
-opposed,
-that the one
-is not a many and the
-many not a one. Yet even that does not seem to
-be quite accurate for, as Socrates
-tells Protarchus in the Philebus, it may also be said that the
-one
-is a many and the many a one. These are
-"wonderful propositions," he
-says, wonderful
-because "whoever affirms either is very open to
-attack."
-At this early moment in the recorded tradition of western thought, the dialogues of Plato,
-so thorough in their exploration of the problems
-of the one and many, make no claim to having
-discovered or invented them. They were ancient
-even
-then. They seem
-to hang
-in
-the very
-atmosphere of thought, usually befogging those
-who try to see the truth about anything else
-without
-first
-clearing away
-their
-obscurities.
-Socrates refers to "the common and acknowledged paradoxes of the one and the many
-.
-.
-.
-that everybody has by this time agreed to dismiss as childish and obvious and detrimental to
-the true course of thought." These aside, some
-genuine
-perplexities
-remain.
-Protarchus
-asks
-Socrates
-to
-instruct him about
-"those other
-marvels connected with
-this
-subject which,"
-as Socrates seems
-to have implied, "have not
-yet become common and acknowledged."
-Socrates begins by calling his attention, not
-to the unity of this man or this ox, but to the
-sense in which it is said that "man
-is one, or ox
-is one, or beauty one, or the good one."
-It
-is
-necessary
-to ask, he
-says,
-first, whether such
-unities
-exist;
-then, such
-unities being always
-the same, and admitting neither generation nor
-destruction, how each is itself alone, is not only
-one but this one; finally, how these unities can
-be conceived as dispersed and multiplied in the
-world of things which come
-to
-be and
-pass
-away. This last question seems to be the most
-difficult because
-it asks about the being of the
-same and one as it becomes in the one and many.
+opposed, that the one is not a many and the many not a one. Yet even that does not seem to be quite accurate for, as Socrates tells Protar- chus in the Philebus, it may also be said that the one is a many and the many a one. These are "wonderful propositions," he says, wonderful because "whoever affirms either is very open to attack."
 
-"this
-great and
-multifarious
-battle,
-in
-which such various points are at issue^-Socrates
-is also anxious to let Protarchus and the
-other youths know the intellectual perils which
-lie ahead for novices who enter upon
-this inquiry. "The one and many," he tells them, "become identified by thought
-.
-.
-. They run about
-together,
-in and out of every word which
-is
-uttered
-.
-.
-.
-This
-union
-of them
-will
-never
-cease, and
-is not now beginning, but
-is ... an
-everlasting
-quality
-of
-thought
-itself,
-which
-never grows old."
-That
-is why, he explains, "any young man,
-when he first tastes these subtleties, is delighted,
-and fancies that he has found a treasure of wisdom;
-in
-the
-first enthusiasm
-of
-his
-joy,
-he
-leaves no
-stone,
-or
-rather no
-thought,
-unturned, now rolling up the many into the one,
-and kneading them
-together, now unfolding
-and dividing them; he puzzles himself first and
-above
-all, and then he proceeds to puzzle his
-neighbors, whether they are older or younger or
-of
-his own
-age— that makes
-no
-difference;
-neither father nor mother does he
-spare; no
-human being who has ears
-is
-safe from him,
-hardly even
-his dog; and
-a
-barbarian would
-have no chance of escaping him,
-if an
-interpreter could only be found."
-Whether it
-is
-full of exasperating subtleties
-or is a treasure of true wisdom, the discussion of
-the one and the many—in itself and in relation
-to being and becoming, the intelligible and the
-sensible, the definite and the infinite, the same
-and
-other,
-universals and
-particulars, wholes
-and parts, the simple and the complex, the indivisible and
-the continuous— is a
-discussion
-which seems unavoidable to the ancients. In the
-dialogues of Plato and in Aristotle's
-treatises,
-especially his Metaphysics, the one and the many
-are connected with the
-basic terms of philosophical thought.
-For Plato, the distinction between the one
-and the many enters into the analysis of almost
-any object—such as pleasure or virtue or knowledge. Anything, viewed under the aspect of its
-being or- its becoming,
-its definite sameness or
-its
-indefinite otherness and
-variety, must be
-discussed both as a one and
-as a many. The
-motion of Plato's
-dialectic may be from the
-one to the many or from the many to the one
-or it may be on the level of the many as an intermediate stage through which analysis must
-go
-in proceeding from the infinite to the one.
-Those who pass at once from unity to infinity,
-says Socrates, do not recognize "the difference
-between the mere art of disputation and true
-dialectic."
-For Aristotle,
-first philosophy or metaphysics, concerned
-as
-it
-is with "being qua being
-and
-the attributes which belong
-to anything
-qua being," also investigates unity. Unity is the
-first property of being. The meanings of one or
-unity are as various as the meanings of 'to be.'
-If there
-is a difference between
-essential and
-accidental being,
-there
-is a parallel difference
-between essential and accidental unity. If natural and artificial things differ in substance or
-being, so too must they differ in unity. "Being
-and unity are the same," Aristotle says, "and
-are one thing in the sense that they are implied
-in one another as are principle and cause. " Unity
-is nothing apart from being, and nothing can be
-without being one in some sense of unity which
-is determined by the way in which the thing
-exists. Aristotle's analysis of any subject matter,
-proceeding as it does by reference to contraries,
-always appeals to the one and the many. "All
-contraries," he says, "are reducible to being and
-non-being and
-to unity and
-plurality,
-as
-for
-instance,
-rest belongs to unity and movement
-to plurality
-.
-.
-. And everything else is evidently
-reducible
-to unity and plurality.
-.
-.
-. For all
-things are either contraries or composed of contraries, and unity and plurality are the principles of all contrariety."
-The problems in whose analysis one and many
-seem to be involved recur in every period of
-western thought. The question,
-for example,
-whether there
-is an irreducible duality in the
-relation of knower and known, or whether, in
-the act of knowledge, knower and known are
-one,
-is discussed by Hobbes and William James
-as well as Plotinus and Aristotle. The question
-whether the state—which is a multitude somehow united for a common life—has, or should
-have, the same degree of unity as the family,
-is discussed by Locke and Hegel as well as Plato
-and Aristotle.
-The
-earlier
-controversy over
-the
-indivisibility of sovereignty becomes at a later stage the
-central issue of federal union, to which e pluribus unum is the solution offered by the Federalists.
-Questions concerning the simple and the
-complex,
-or wholes and
-parts,
-as
-objects of
-knowledge, or questions concerning the unity
-and divisibility of time, space, or matter, engage the attention of inquirers and analysts no
-less in modern than in ancient times.
-But
-there
-are
-certain problems which
-are
-treated with unusual speculative vigor by the
-ancients alone. Unlike the problems just mentioned, which deal with applications of the contrast
-between
-unity and
-multiplicity,
-these
-are questions about the One itself—what
-it
-is,
-whether
-it
-exists, whether
-it
-is identical with
-Being, whether
-it
-is
-itself a substance or the
-substance of all things.
-The sustained inquiry into such matters in
-antiquity seems to testify to the extraordinary
-power exerted upon ancient thought by Parmenides of Elea. The person called "the Eleatic
-Stranger"
-represents
-his
-theories in such dialogues of Plato as the Sophist and the Statesman.
-Parmenides, or his disciple Zeno,
-is probably
-the source of many of the paradoxes and riddles
-which Socrates, in the Philebus, dismisses as no
-longer worthy of serious attention. One whole
-dialogue, named Parmenides because of his part
-in the discussion, exhibits the Eleatic demonstration that
-'all is one.' It abounds in the subtleties of the various arguments which try to
-defend the reality of the many or try to reduce
-that position to absurdity.
-Questioned by Socrates concerning his paradoxes, Zeno says that his writings "were meant
-to protect the arguments of Parmenides against
-those who make fun of him and seek to show the
-many ridiculous and contradictory results which
-they suppose to follow from the affirmation of
-the one." When he addresses himself to
-the
-partisans of the many, Zeno says that he returns
-"their attack with interest by retorting upon
-them that their hypothesis of the being ofmany,
-if carried out, appears to be still more ridiculous
-than the hypothesis of the being of one."
-Aristotle
-also
-deals with
-the
-Eleatic arguments. In the Physics, he says first that inquiring about whether being is one, cannot contribute to the study of nature. He then adds that
-such
-inquiry anyway would be "like
-arguing
-against any other position maintained for the
-sake of argument ... or like refuting a merely
-contentious argument."
-This
-description,
-he
-says, "applies to the arguments both of Melissus
-and Parmenides:
-their premises are
-false and
-their conclusions do not follow
-.
-.
-. Accept one
-ridiculous proposition and the
-rest follows—
-a
-simple enough proceeding."
-Aristotle's
-treatment of Parmenides and Zeno in the Metaphysics seems to be no more sympathetic, though it
-tacitly
-admits
-the
-relevance
-of
-the
-Eleatic
-speculations to the study of being, if not to the
-study of change and the principles of nature.
+At this early moment in the recorded tradition of western thought, the dialogues of Plato, so thorough in their exploration of the problems of the one and many, make no claim to having discovered or invented them. They were ancient even then. They seem to hang in the very atmosphere of thought, usually befogging those who try to see the truth about anything else without first clearing away their obscurities.
+
+Socrates refers to "the common and acknowl- edged paradoxes of the one and the many . . . that everybody has by this time agreed to dismiss as childish and obvious and detrimental to the true course of thought." These aside, some genuine perplexities remain. Protarchus asks
+
+Socrates to instruct him about "those other marvels connected with this subject which," as Socrates seems to have implied, "have not yet become common and acknowledged."
+
+Socrates begins by calling his attention, not to the unity of this man or this ox, but to the sense in which it is said that "man is one, or ox is one, or beauty one, or the good one." It is necessary to ask, he says, first, whether such unities exist; then, such unities being always the same, and admitting neither generation nor destruction, how each is itself alone, is not only one but this one; finally, how these unities can be conceived as dispersed and multiplied in the world of things which come to be and pass away. This last question seems to be the most difficult because it asks about the being of the same and one as it becomes in the one and many.
+
+Protarchus is impatient to begin clearing up these problems. Willing to undertake what he calls "this great and multifarious battle, in which such various points are at issue^-Socrates is also anxious to let Protarchus and the other youths know the intellectual perils which lie ahead for novices who enter upon this inquiry. "The one and many," he tells them, "be- come identified by thought . . . They run about together, in and out of every word which is uttered . . . This union of them will never cease, and is not now beginning, but is ... an everlasting quality of thought itself, which never grows old." That is why, he explains, "any young man, when he first tastes these subtleties, is delighted, and fancies that he has found a treasure of wis- dom; in the first enthusiasm of his joy, he leaves no stone, or rather no thought, unturned, now rolling up the many into the one, and kneading them together, now unfolding and dividing them; he puzzles himself first and above all, and then he proceeds to puzzle his neighbors, whether they are older or younger or of his own age— that makes no difference; neither father nor mother does he spare; no human being who has ears is safe from him, hardly even his dog; and a barbarian would have no chance of escaping him, if an interpreter could only be found." Whether it is full of exasperating subtleties or is a treasure of true wisdom, the discussion of the one and the many—in itself and in relation to being and becoming, the intelligible and the sensible, the definite and the infinite, the same and other, universals and particulars, wholes and parts, the simple and the complex, the indivisible and the continuous— is a discussion which seems unavoidable to the ancients. In the dialogues of Plato and in Aristotle's treatises, especially his Metaphysics, the one and the many are connected with the basic terms of philosophical thought. For Plato, the distinction between the one and the many enters into the analysis of almost any object—such as pleasure or virtue or knowledge. Anything, viewed under the aspect of its being or- its becoming, its definite sameness or its indefinite otherness and variety, must be discussed both as a one and as a many. The motion of Plato's dialectic may be from the one to the many or from the many to the one or it may be on the level of the many as an intermediate stage through which analysis must go in proceeding from the infinite to the one. Those who pass at once from unity to infinity, says Socrates, do not recognize "the difference between the mere art of disputation and true dialectic."
+
+For Aristotle, first philosophy or metaphysics, concerned as it is with "being qua being and the attributes which belong to anything qua being," also investigates unity. Unity is the first property of being. The meanings of one or unity are as various as the meanings of 'to be.'
+
+If there is a difference between essential and accidental being, there is a parallel difference between essential and accidental unity. If natural and artificial things differ in substance or being, so too must they differ in unity. "Being and unity are the same," Aristotle says, "and are one thing in the sense that they are implied in one another as are principle and cause. " Unity is nothing apart from being, and nothing can be without being one in some sense of unity which is determined by the way in which the thing exists. Aristotle's analysis of any subject matter, proceeding as it does by reference to contraries, always appeals to the one and the many. "All contraries," he says, "are reducible to being and non-being and to unity and plurality, as for instance, rest belongs to unity and movement to plurality . . . And everything else is evidently reducible to unity and plurality. . . . For all things are either contraries or composed of contraries, and unity and plurality are the principles of all contrariety."
+
+The problems in whose analysis one and many seem to be involved recur in every period of western thought. The question, for example, whether there is an irreducible duality in the relation of knower and known, or whether, in the act of knowledge, knower and known are one, is discussed by Hobbes and William James as well as Plotinus and Aristotle. The question whether the state—which is a multitude some- how united for a common life—has, or should have, the same degree of unity as the family, is discussed by Locke and Hegel as well as Plato and Aristotle.
+
+The earlier controversy over the indivisibility of sovereignty becomes at a later stage the central issue of federal union, to which e pluribus unum is the solution offered by the Federalists. Questions concerning the simple and the complex, or wholes and parts, as objects of knowledge, or questions concerning the unity and divisibility of time, space, or matter, engage the attention of inquirers and analysts no less in modern than in ancient times.
+
+But there are certain problems which are treated with unusual speculative vigor by the ancients alone. Unlike the problems just mentioned, which deal with applications of the contrast between unity and multiplicity, these are questions about the One itself—what it is, whether it exists, whether it is identical with
+
+Being, whether it is itself a substance or the substance of all things.
+
+The sustained inquiry into such matters in antiquity seems to testify to the extraordinary power exerted upon ancient thought by Parmenides of Elea. The person called "the Eleatic
+
+Stranger" represents his theories in such dialogues of Plato as the Sophist and the Statesman.
+
+Parmenides, or his disciple Zeno, is probably the source of many of the paradoxes and riddles which Socrates, in the Philebus, dismisses as no longer worthy of serious attention. One whole dialogue, named Parmenides because of his part in the discussion, exhibits the Eleatic demonstration that 'all is one.' It abounds in the subtleties of the various arguments which try to defend the reality of the many or try to reduce that position to absurdity.
+
+Questioned by Socrates concerning his paradoxes, Zeno says that his writings "were meant to protect the arguments of Parmenides against those who make fun of him and seek to show the many ridiculous and contradictory results which they suppose to follow from the affirmation of the one." When he addresses himself to the partisans of the many, Zeno says that he returns "their attack with interest by retorting upon them that their hypothesis of the being ofmany, if carried out, appears to be still more ridiculous than the hypothesis of the being of one."
+
+Aristotle also deals with the Eleatic arguments. In the Physics, he says first that inquiring about whether being is one, cannot contribute to the study of nature. He then adds that such inquiry anyway would be "like arguing against any other position maintained for the sake of argument ... or like refuting a merely contentious argument." This description, he says, "applies to the arguments both of Melissus and Parmenides: their premises are false and their conclusions do not follow . . . Accept one ridiculous proposition and the rest follows— simple enough proceeding." Aristotle's treat- ment of Parmenides and Zeno in the Metaphysics seems to be no more sympathetic, though it tacitly admits the relevance of the Eleatic speculations to the study of being, if not to the study of change and the principles of nature.
+
 Nevertheless, many of the questions concerning the one and the many which both Plato and
-Aristotle deem worthy of discussion appear to
-have some connection with the perplexities propounded by Parmenides and his school.
-Those who do not deny either the unity of
-being or its multiplicity tend to make the primary fact about reality either its oneness or its
-manyness. This may seem at first to be of slight
-significance, but if the two views of the world
-which result from this difference are examined,
-it may be found that the disagreement on this
-single point changes the perspective on everything
-else.
-The
-philosophers
-who
-magnify
-either the one or the many behold universes
-more
-radically dissimilar than the same object
-looked
-at from opposite ends of a
-telescope.
-But that
-is not all. Almost every other fundamental conception—of God and man, of the
-mind and knowledge, of matter and motion, of
-cause and necessity—seems
-also to be altered.
-Spinoza, for example, criticizes those who attribute
-to
-finite
-things,
-of which
-there
-are
-necessarily many, the properties which belong
-to the infinite being, of which there can be only
-one. This man,
-this stone, or any comparable
-individual thing,
-is not a substance, having the
-power to exist in and of itself; it consists merely
-"of certain modifications of the attributes of
-God,"
-the
-one
-infinite
-substance
-in
-which
-everything else "both is and
-is conceived." According to Spinoza, those who suppose that the
-finite many are substances "have not observed
-a proper order of philosophic study."
-They begin with the objects of sense which
-have the least reality and come last to the di-
 
-vine nature, the infinite one, which "ought to
-be studied first because it
-is first in the order of
-knowledge and in the order of things
-.
-.
-. Hence
-it has come to pass," Spinoza continuesr
->iTrTat
-there was nothing of which men thought
-less
-than the divine nature while they have been
-studving natural objects, and when they afterwards applied themselves to think about God,
-there was nothing of which they could think
-less than those prior fictions upon which they
-had built their knowledge of natural things, for
-these fictions could in noway help to the knowledge of the divine nature."
-Starting with the definition of substance as
-that which
-exists
-in
-itself and
-is
-conceived
-through
-itself, and with the definition of God
-as
-absolutely
-infinite
-being,
-"that
-is
-to
-say,
-substance
-consisting
-of
-infinite
-attributes,"
-Spinoza undertakes to prove that there cannot
-be two or more
-substances having
-the same
-nature or attributes,
-that substance
-is
-necessarily
-infinite, and hence that
-it
-is impossible
-for more than one substance to exist. Since he
-regards it as axiomatic that "everything which
-is,
-is either in itself or in another," it follows for
-Spinoza
-that
-if anything at all exists, God (or
-substance) must necessarily exist—as that which
-alone exists in itself and as that in which everything else has its finite being as a mode or affection of the attributes of God.
-Certain other consequences seem to follow.
-The one
-infinite substance
-is indivisible:
-it
-is
-not a whole made up of parts which can have
-independent existence, as the parts of a quantitative whole seem
-able
-to
-exist when
-the
-quantity
-is
-divided.
-Furthermore,
-God,
-according to Spinoza, "is the immanent, and not
-the transitive, cause of all things." God causes
-them not as one thing acting on another when
-both are independent in existence, but rather as
-the being in which all things are. God is not present in the world, as other theologians seem to
-think, in the manner in which a cause exists in
-an
-effect
-that depends upon
-it.
-Rather
-the
-whole world is in God as an effect which can in
-no way be separated from the existence of the
-cause, any more than an aspect can be separated
-from that of which it
-is an aspect.
-For Spinoza, the unity and totality of being
-can be called "nature," as well as "infinite substance"
-or
-"God."
-His
-distinction
-between
-natura naturans and natura naturata, discussed
-in the chapter on Nature, seems to permit him
-to distinguish between the
-infinite or eternal
-and
-the
-finite or temporal— the one and the
-many—without implying a real separation between God and
-the world.
-Since God
-is immanent in the world, and since God not only
-exists necessarily but also acts from the necessity of His own nature, it follows (as is indicated
-in the chapter on Necessity and Contingency)
-that every finite and temporal aspect of nature
-is
-necessarily determined. Nothing
-is contingent. Nothing could be otherwise than
-it
-is.
-This examination of a doctrine in which the
-primacy of the one absorbs as well as subordinates the many, serves to exemplify the point
-that making the one primary
-is more than a
-matter of emphasis.
-It also shows that almost
-every fundamental question
-is affected. It presents a picture of what William James appears
-to mean when he speaks of the block universe,
-though
-he
-himself usually seems
-to have
-in
-mind Hegel's Absolute rather than Spinoza's
-God.
+Aristotle deem worthy of discussion appear to have some connection with the perplexities pro- pounded by Parmenides and his school.
+
+Those who do not deny either the unity of being or its multiplicity tend to make the pri- mary fact about reality either its oneness or its manyness. This may seem at first to be of slight significance, but if the two views of the world which result from this difference are examined, it may be found that the disagreement on this single point changes the perspective on everything else. The philosophers who magnify either the one or the many behold universes more radically dissimilar than the same object looked at from opposite ends of a telescope. But that is not all. Almost every other fundamental conception—of God and man, of the mind and knowledge, of matter and motion, of cause and necessity—seems also to be altered.
+
+Spinoza, for example, criticizes those who attribute to finite things, of which there are necessarily many, the properties which belong to the infinite being, of which there can be only one. This man, this stone, or any comparable individual thing, is not a substance, having the power to exist in and of itself; it consists merely "of certain modifications of the attributes of God," the one infinite substance in which everything else "both is and is conceived." According to Spinoza, those who suppose that the finite many are substances "have not observed a proper order of philosophic study."
+
+They begin with the objects of sense which have the least reality and come last to the divine nature, the infinite one, which "ought to be studied first because it is first in the order of knowledge and in the order of things . . . Hence >iTrTat it has come to pass," Spinoza continuesr there was nothing of which men thought less than the divine nature while they have been studving natural objects, and when they afterwards applied themselves to think about God, there was nothing of which they could think less than those prior fictions upon which they had built their knowledge of natural things, for these fictions could in noway help to the knowledge of the divine nature."
+
+Starting with the definition of substance as that which exists in itself and is conceived through itself, and with the definition of God as absolutely infinite being, "that is to say, substance consisting of infinite attributes," Spinoza undertakes to prove that there cannot be two or more substances having the same nature or attributes, that substance is necessarily infinite, and hence that it is impossible for more than one substance to exist. Since he regards it as axiomatic that "everything which is, is either in itself or in another," it follows for Spinoza that if anything at all exists, God (or substance) must necessarily exist—as that which alone exists in itself and as that in which everything else has its finite being as a mode or affection of the attributes of God. Certain other consequences seem to follow. The one infinite substance is indivisible: it is not a whole made up of parts which can have independent existence, as the parts of a quantitative whole seem able to exist when the quantity is divided. Furthermore, God, according to Spinoza, "is the immanent, and not the transitive, cause of all things." God causes them not as one thing acting on another when both are independent in existence, but rather as the being in which all things are. God is not present in the world, as other theologians seem to think, in the manner in which a cause exists in an effect that depends upon it. Rather the whole world is in God as an effect which can in no way be separated from the existence of the cause, any more than an aspect can be separated from that of which it is an aspect. For Spinoza, the unity and totality of being can be called "nature," as well as "infinite substance" or "God." His distinction between natura naturans and natura naturata, discussed in the chapter on Nature, seems to permit him to distinguish between the infinite or eternal and the finite or temporal— the one and the many—without implying a real separation between God and the world. Since God is im- manent in the world, and since God not only exists necessarily but also acts from the necessity of His own nature, it follows (as is indicated in the chapter on Necessity and Contingency) that every finite and temporal aspect of nature is necessarily determined. Nothing is contingent. Nothing could be otherwise than it is.
+
+This examination of a doctrine in which the primacy of the one absorbs as well as subordinates the many, serves to exemplify the point that making the one primary is more than a matter of emphasis. It also shows that almost every fundamental question is affected. It presents a picture of what William James appears to mean when he speaks of the block universe, though he himself usually seems to have in mind Hegel's Absolute rather than Spinoza's God.
+
 Aristotle advances a contrary doctrine. Like
-Spinoza
-he
-uses
-the
-term
-'substance.'
-Like
-Spinoza
-he
-defines
-substance
-as
-that which
-exists in itself, not as an accident (a quality, for
-example) which exists in another, e.g., the redness in the
-rose. But for him substance
-is not
-necessarily infinite, nor
-is it indivisible. A rose
-or a man
-is a substance. Every physical thing
-which has a natural unity
-is a substance.
-Each
-is a
-finite whole, or rather each
-is a
-whole in a number of different senses. Insofar as
-it has essential unity, it
-is a whole composed of
-matter and form which, according to Aristotle,
-are represented in the formulation of a definition by the genus and the differentia. Insofar as
-it is composed of matter, it also has the unity of
-a quantitative whole in virtue of which it moves
-as one thing or uniquely occupies a place. Since
-quantitative
-unity
-involves
-continuity,
-and
-continuity entails
-divisibility, a substance
-remains one only so long as it is not divided into
-its quantitative
-parts,
-just
-as
-it remains one
-essentially only so long as its matter and form
-are not separated.
-A substance is individual not because it is absolutely indivisible—as for Lucretius the atom
-is because it is simple rather than composite. Its
-individuality rather consists,
-first, in
-its being
-divided from other substances
-in such a way
-that
-it can perish without necessarily destroying them, or they can perish without destroying
-it; and, second,
-in
-the
-fact
-that, though
-divisible into parts,
-it
-is one whole when these
-parts remain undivided. Yet as one substance it
-has more unity than a mere collection of things.
-The difference between a man and a machine,
-according to Aristotle's differentiation between
-the unity of natural substances and of artificial
-things,
-is that a man
-is not composed of substances (though the parts of a living organism
-may come to exist as substances when
-it
-is decomposed or they are separated from it), whereas a machine, made up of separate pieces of
-metal,
-is nothing but a number of individual
-substances arranged in a certain way. The unity
-of man does not appear to be the same, therefore, when
-soul and body
-are conceived by
-Descartes
-as two substances and by Aristotle
-not as distinct substances but as form and matter which through their union constitute a single substance.
-Unity, in short, belongs essentially to the individual
-natural
-substance.
-Because each
-individual substance
-is necessarily a one among a
-many, Aristotle, unlike Spinoza, cannot affirm
-the unity of substance without also affirming a
-plurality of substances. Not itself a substance,
-but
-only
-an
-aggregation
-of
-substances,
-the
-world
-is primarily a many rather than a one.
-The unity
-it possesses derives from the order
-and connection of the substances which are its
-component parts; and that in turn largely derives from the way in which distinct substances
-causally interact.
-Since, according
-to
-Aristotle,
-causality
-includes contingency and chance, the causal interdependence of substances, with
-respect
-to
-their generation and
-their motions, does not
-lock them together into a solid block. To use
-James' imagery again, a vast plurality of individual substances, causally yet also contingently
-related, constitutes a loosely-knit world, a concatenated universe.
-The relation of the world as a whole to God
-does give it greater unity, if the supposition of a
-plurality
-of
-finite
-individual
-substances
-remains
-the fundamental
-feature of the world
-God creates. The Christian doctrine of creation
-may attribute to the world a greater unity than
-that possessed by any work of human art,
-in
-proportion as the infinitely greater wisdom of
-the divine plan orders the separate
-things of
-nature
-with
-an
-infinitely
-greater
-perfection
-than man can achieve
-in putting
-things
-together or in ordering them to his purpose. But
-if, according to the theologian, God in creating
-the world creates not one substance, but many
-substances, forming a single whole through the
-pattern of their connection with one another,
-then in a sense the world has
-less unity than
-each of its component substances.
-For
-Aquinas,
-one
-kind
-of substance may
-have greater unity than another. The immaterial
-has more
-than
-the
-material; and God
-more than any
-finite substance,
-since each of
-these
-is composed of matter and form, or essence and accidents, or at least of essence and
-existence, whereas the infinite being of God
-is
-absolutely simple. The divine nature is without
-matter,
-without
-accidents;
-its
-attributes
-are
-identical with
-its essence, and
-its essence with
-its existence.
-This cardinal point about the divine nature is
-crucial
-to the conception of God, and of the
-world's
-relation
-to God.
-In
-the formation of
-Christian theology, God's
-absolute simplicity
-seems
-to
-exclude
-all
-but
-one
-resolution
-of
-the issue concerning the Trinity. According to
-the position Augustine takes in criticizing the
-Arian heresy, the position which
-is expressed
-in the Nicene Creed, God
-is not a trinity of
-substances, but a trinity of persons—aspects of,
-or relations within, one substance. The plurality
-of things which constitutes the world puts the
-world
-entirely
-outside
-the
-divine
-substance.
-Immanent only
-as a
-cause,
-the simple being
-of God transcends the complex whole of the
-created world.
-This
-transcendence seems,
-furthermore,
-to
-imply for theologians like Augustine and Aquinas a fundamental duality in the realm of existence. God and the world are two, not one. Infinite being is absolutely prior to and independent
-of finite beings. The one can exist without the
-many. Though the many are said to participate
-in being, when they do exist, they do not enter
-into the being of the one, or share it in any way.
 
-the being of God, but even their mode of being
-is only analogical to the divine being.
-The doctrine
-that each
-thing
-has its-own
-being, and that, as Aquinas says, "being is common to all things only in an analogical sense,"
-seems to put diversity above unity in the structure of reality, and to leave the ultimate plurality of this world unaffected either by the fact
-that
-it was created as one or by the fact of its
-relation to a transcendent One.
-In the tradition of the great books, the problem of the one and the many
-is often stated
-without using the notion of substance
-as
-the
-pivotal term.
-It appears
-in Plato's consideration of being
-and becoming.
-It
-is sometimes present
-in
-his
-treatment of the relation between
-intelligible
-forms and
-sensible
-things— between
-the
-universal ideas and the particulars which resemble
-them
-through some manner of imitation
-or
-participation. It even runs through the discussion of the realm of ideas itself; for the idea of
-the one
-is one idea among many, and yet each
-of the many ideas
-is in some way one.
-The problem of the one and the many appears
-in Hume's consideration of the absolute
-distinctness of each unit of experience from every
-other, accompanied
-as
-it
-is by
-his skepticism
-concerning our ability to discover any connections which might tie these units together into a
-real unity.
-It appears in Kant's theory of the
-transcendental unity of apperception, which
-reduces the sensory manifold to a unity of order; and in Hegel's theory of the one Absolute
-Idea which contains within itself all the variety
-that becomes manifest as the Idea unfolds in the
-processes of nature or history.
-The
-substitution
-of one
-set
-of terms
-for
-another does not seem to alter the fundamental
-issue. Nor does
-it enable the mind
-to escape
-taking sides with those who give primacy to the
-one or to the many, except perhaps by trying
-to
-balance them
-as
-correlatives. Among
-the
-great books, however, the Enneads of Plotinus
-develops a theory of the One which, putting it
-above
-being and beyond knowing,
-seems
-to
-transfigure all the traditional terms of analysis.
-The One of Parmenides
-is, after all, Being;
-and this identification of Being with One raises
-a question of the reality of the many. But, according
-to Plotinus,
-"there
-exists a Principle
-which transcends Being; this is The One, whose
-nature we have sought to establish so far as such
-matters lend themselves
-to proof. Upon The
-One follows immediately the Principle, which is
-at once Being and
-the
-Intellectual-Principle.
-Third comes
-the
-Principle,
-Soul." These are
-what
-Plotinus
-calls
-the
-three
-hypotases. He
-finds some analogy for his trinity in a doctrine
-he ascribes to Plato's Parmenides, in which he
-finds
-a
-threefold
-distinction
-"between
-the
-Primal One, a strictly pure Unity, and a secondary One which
-is a One-Many, and a third
-which
-is a One-and-Many."
-The One, according
-to
-Plotinus,
-not only
-transcends being; it also transcends intelligence.
-Knowing or thinking requires an object. The
-relation of knower and known entails a duality
-which would
-fracture
-the utter simplicity of
-The One. Even the complete reflexivity of The
-One knowing only itself is excluded. The superessential is for Plotinus also the supra-cogitative.
-"What stands above Being stands above intellection," he says; "it is no weakness in it not to
-know itself, since as pure unity it contains nothing which it needs to explore." Multiplicity begins with the effort of the Intellectual-Principle
-to know
-the
-Transcendent.
-"It
-knows
-the
-Transcendent in
-its very essence but, with
-all
-its efforts to grasp that prior as pure unity,
-it
-goes forth amassing successive impressions, so
-that, to it, the object becomes multiple
-.
-.
-. The
-Intellectual-Principle
-is
-established
-in multiplicity."
-What is the All of which The One is not all,
-since
-the
-Intellectual-Principle and
-the
-Soul
-also belong to it? Plotinus answers that "The
-One is all things and no one of them. The source
-of all things
-is not all things ... It
-is precisely
-because there is nothing within the One that all
-things
-are from
-it."
-Everything
-else
-in
-the
-totality of which the Transcendent is the source
-emanates from it.
-"Seeking nothing, possessing nothing, lacking nothing," Plotinus declares, "The One
-is
-perfect and, in our metaphor, has overflowed,
-and its exuberance has produced the new: this
-product has turned again to
-its begetter and
-has filled and has become its contemplator and
-so an
-Intellectual-Principle ...
-It
-is simulta-
-neously Intellectual-Principle and Being; and,
-attaining resemblance in virtue of this vision, it
-repeats the act of the One in pouring forth a
-vast power. This second outflow
-is a Form or
-Idea representing
-the Divine
-Intellect
-as the
+Spinoza he uses the term 'substance.' Like
+
+Spinoza he defines substance as that which exists in itself, not as an accident (a quality, for example) which exists in another, e.g., the redness in the rose. But for him substance is not necessarily infinite, nor is it indivisible. A rose or a man is a substance. Every physical thing which has a natural unity is a substance. Each is a finite whole, or rather each is a whole in a number of different senses. Insofar as it has essential unity, it is a whole composed of matter and form which, according to Aristotle, are represented in the formulation of a definition by the genus and the differentia. Insofar as it is composed of matter, it also has the unity of a quantitative whole in virtue of which it moves as one thing or uniquely occupies a place. Since quantitative unity involves continuity, and continuity entails divisibility, a substance re- mains one only so long as it is not divided into its quantitative parts, just as it remains one essentially only so long as its matter and form are not separated.
+
+A substance is individual not because it is absolutely indivisible—as for Lucretius the atom is because it is simple rather than composite. Its individuality rather consists, first, in its being divided from other substances in such a way that it can perish without necessarily destroying them, or they can perish without destroying it; and, second, in the fact that, though divisible into parts, it is one whole when these parts remain undivided. Yet as one substance it has more unity than a mere collection of things.
+
+The difference between a man and a machine, according to Aristotle's differentiation between the unity of natural substances and of artificial things, is that a man is not composed of substances (though the parts of a living organism may come to exist as substances when it is de- composed or they are separated from it), whereas a machine, made up of separate pieces of metal, is nothing but a number of individual substances arranged in a certain way. The unity of man does not appear to be the same, therefore, when soul and body are conceived by
+
+Descartes as two substances and by Aristotle not as distinct substances but as form and matter which through their union constitute a single substance.
+
+Unity, in short, belongs essentially to the individual natural substance. Because each individual substance is necessarily a one among a many, Aristotle, unlike Spinoza, cannot affirm the unity of substance without also affirming a plurality of substances. Not itself a substance, but only an aggregation of substances, the world is primarily a many rather than a one. The unity it possesses derives from the order and connection of the substances which are its component parts; and that in turn largely derives from the way in which distinct substances causally interact.
+
+Since, according to Aristotle, causality includes contingency and chance, the causal interdependence of substances, with respect to their generation and their motions, does not lock them together into a solid block. To use
+
+James' imagery again, a vast plurality of individual substances, causally yet also contingently related, constitutes a loosely-knit world, a concatenated universe.
+
+The relation of the world as a whole to God does give it greater unity, if the supposition of a plurality of finite individual substances remains the fundamental feature of the world God creates. The Christian doctrine of creation may attribute to the world a greater unity than that possessed by any work of human art, in proportion as the infinitely greater wisdom of the divine plan orders the separate things of nature with an infinitely greater perfection than man can achieve in putting things to- gether or in ordering them to his purpose. But if, according to the theologian, God in creating the world creates not one substance, but many substances, forming a single whole through the pattern of their connection with one another, then in a sense the world has less unity than each of its component substances.
+
+For Aquinas, one kind of substance may have greater unity than another. The immaterial has more than the material; and God more than any finite substance, since each of these is composed of matter and form, or essence and accidents, or at least of essence and existence, whereas the infinite being of God is absolutely simple. The divine nature is without matter, without accidents; its attributes are identical with its essence, and its essence with its existence.
+
+This cardinal point about the divine nature is crucial to the conception of God, and of the world's relation to God. In the formation of
+
+Christian theology, God's absolute simplicity seems to exclude all but one resolution of the issue concerning the Trinity. According to the position Augustine takes in criticizing the
+
+Arian heresy, the position which is expressed in the Nicene Creed, God is not a trinity of substances, but a trinity of persons—aspects of, or relations within, one substance. The plurality of things which constitutes the world puts the world entirely outside the divine substance. Immanent only as a cause, the simple being of God transcends the complex whole of the created world.
+
+This transcendence seems, furthermore, to imply for theologians like Augustine and Aquinas a fundamental duality in the realm of existence. God and the world are two, not one. Infinite being is absolutely prior to and independent of finite beings. The one can exist without the many. Though the many are said to participate in being, when they do exist, they do not enter into the being of the one, or share it in any way. The being they have is not only separate from the being of God, but even their mode of being is only analogical to the divine being.
+
+The doctrine that each thing has its-own being, and that, as Aquinas says, "being is com- mon to all things only in an analogical sense," seems to put diversity above unity in the structure of reality, and to leave the ultimate plurality of this world unaffected either by the fact that it was created as one or by the fact of its relation to a transcendent One. In the tradition of the great books, the problem of the one and the many is often stated without using the notion of substance as the pivotal term.
+
+It appears in Plato's consideration of being and becoming. It is sometimes present in his treatment of the relation between intelligible forms and sensible things— between the universal ideas and the particulars which resemble them through some manner of imitation or participation. It even runs through the discussion of the realm of ideas itself; for the idea of the one is one idea among many, and yet each of the many ideas is in some way one. The problem of the one and the many appears in Hume's consideration of the absolute distinctness of each unit of experience from every other, accompanied as it is by his skepticism concerning our ability to discover any connections which might tie these units together into a real unity. It appears in Kant's theory of the transcendental unity of apperception, which reduces the sensory manifold to a unity of order; and in Hegel's theory of the one Absolute Idea which contains within itself all the variety that becomes manifest as the Idea unfolds in the processes of nature or history.
+
+The substitution of one set of terms for another does not seem to alter the fundamental issue. Nor does it enable the mind to escape taking sides with those who give primacy to the one or to the many, except perhaps by trying to balance them as correlatives. Among the great books, however, the Enneads of Plotinus develops a theory of the One which, putting it above being and beyond knowing, seems to transfigure all the traditional terms of analysis. The One of Parmenides is, after all, Being; and this identification of Being with One raises a question of the reality of the many. But, according to Plotinus, "there exists a Principle which transcends Being; this is The One, whose nature we have sought to establish so far as such matters lend themselves to proof. Upon The One follows immediately the Principle, which is at once Being and the Intellectual-Principle. Third comes the Principle, Soul." These are what Plotinus calls the three hypotases. He finds some analogy for his trinity in a doctrine he ascribes to Plato's Parmenides, in which he finds a threefold distinction "between the
+
+Primal One, a strictly pure Unity, and a sec- ondary One which is a One-Many, and a third which is a One-and-Many." The One, according to Plotinus, not only transcends being; it also transcends intelligence. Knowing or thinking requires an object. The relation of knower and known entails a duality which would fracture the utter simplicity of The One. Even the complete reflexivity of The One knowing only itself is excluded. The superessential is for Plotinus also the supra-cogitative.
+
+"What stands above Being stands above intellection," he says; "it is no weakness in it not to know itself, since as pure unity it contains nothing which it needs to explore." Multiplicity begins with the effort of the Intellectual-Principle to know the Transcendent. "It knows the
+
+Transcendent in its very essence but, with all its efforts to grasp that prior as pure unity, it goes forth amassing successive impressions, so that, to it, the object becomes multiple . . . The
+
+Intellectual-Principle is established in multiplicity."
+
+What is the All of which The One is not all, since the Intellectual-Principle and the Soul also belong to it? Plotinus answers that "The One is all things and no one of them. The source of all things is not all things ... It is precisely because there is nothing within the One that all things are from it." Everything else in the totality of which the Transcendent is the source emanates from it.
+
+"Seeking nothing, possessing nothing, lacking nothing," Plotinus declares, "The One is perfect and, in our metaphor, has overflowed, and its exuberance has produced the new: this product has turned again to its begetter and has filled and has become its contemplator and so an Intellectual-Principle ... It is simultaneously Intellectual-Principle and Being; and, attaining resemblance in virtue of this vision, it repeats the act of the One in pouring forth a vast power. This second outflow is a Form or
+
+Idea representing the Divine Intellect as the
+
 Divine Intellect represented its own prior, The
-One. This active power sprung from essences
-(from the Intellectual-Principle considered
-as
-Being)
-is Soul. Soul arises as the idea and act of
-the
-motionless
-Intellectual-Principle. ...
-It
-takes fullness by looking toward its source; but
-it generates
-its image by adopting another, a
-downward, movement. This image of Soul
-is
+
+One. This active power sprung from essences (from the Intellectual-Principle considered as
+
+Being) is Soul. Soul arises as the idea and act of the motionless Intellectual-Principle. ... It takes fullness by looking toward its source; but it generates its image by adopting another, a downward, movement. This image of Soul is
+
 Sense and Nature, the vegetal principle."
-Nothing,
-writes
-Plotinus,
-"is
-completely
-severed from
-its prior. Thus the human Soul
-appears to reach as far down as to the vegetal
-order." In these successive emanations "all that
-is not One
-is conserved by virtue of the One,
-and from the One derives its characteristic nature." Every thingexcept the One is a one-many.
-"If it had not attained such unity as is consistent
-with being made up of multiplicity, we could
-not
-affirm
-its
-existence." The Transcendent
-alone
-is
-"a
-really
-existent One,
-wholly and
-truly One, while
-its sequent, poured down in
-some way from the One, is all, a total which has
-participation in unity and whose every member
-is similarly all and one."
+
+Nothing, writes Plotinus, "is completely severed from its prior. Thus the human Soul appears to reach as far down as to the vegetal order." In these successive emanations "all that is not One is conserved by virtue of the One, and from the One derives its characteristic nature." Every thingexcept the One is a one-many.
+
+"If it had not attained such unity as is consistent with being made up of multiplicity, we could not affirm its existence." The Transcendent alone is "a really existent One, wholly and truly One, while its sequent, poured down in some way from the One, is all, a total which has participation in unity and whose every member is similarly all and one."
+
 If reason cannot fully grasp the Transcendent
-One, that may be because discursive reason
-is
-itself a thing of multiplicity. The unity of an
-all-embracing vision may be required to apprehend the ineffable unity of the Transcendent.
-But the mysteriousness of unity is not confined
-to
-the
-Transcendent
-One.
-It
-confronts
-the
-mathematician
-as well
-as
-the philosopher.
-It
-challenges Nicomachus and Euclid
-as well
-as
+
+One, that may be because discursive reason is
+
+God and the concrete universal
+
+2. The modes of unity: comparison of numerical, essential, and divine unity ia. Numerical unity or identity: the number one
+
+2b. The unity of the indivisible or the simple: the individual atom, the quality indivisible and the undivided itself a thing of multiplicity. The unity of an all-embracing vision may be required to appre- hend the ineffable unity of the Transcendent. But the mysteriousness of unity is not confined to the Transcendent One. It confronts the mathematician as well as the philosopher. It challenges Nicomachus and Euclid as well as
+
 Plotinus.
-"Unity," writes Nicomachus, "occupying the
-place and character of a point, will be the beginning of intervals and numbers, but is not itself an interval or a number." What, then,
-is
-unity or a unit in itself? Euclid answers with this
-definition: "A unit
-is that by virtue of which
-each of the things that exist is called one." Unity
-is not only the measure of existence, but also of
-numbers; for, according to Euclid, "a number is
-a multitude composed of units." In mathematics no less than in metaphysics or in theology the
-relation of unity
-to number seems
-to be the
-heart of the problem of the one and the many.
-"Number," according to Locke, "applies itself to men,
-angels,
-actions,
-thoughts; everything that either does exist, or can be imagined."
-Unity or one is, in his view, not only the simplest of all our ideas, but the most omnipresent.
-"Every object our senses are employed about;
-every idea in our understandings
-; every thought
-of our minds,
-brings
-this idea along with
-it.
-And therefore
-it
-is ... in
-its agreement to
-all
-other things, the most universal idea we have."
+
+"Unity," writes Nicomachus, "occupying the place and character of a point, will be the beginning of intervals and numbers, but is not itself an interval or a number." What, then, is unity or a unit in itself? Euclid answers with this definition: "A unit is that by virtue of which each of the things that exist is called one." Unity is not only the measure of existence, but also of numbers; for, according to Euclid, "a number is a multitude composed of units." In mathematics no less than in metaphysics or in theology the relation of unity to number seems to be the heart of the problem of the one and the many.
+
+"Number," according to Locke, "applies itself to men, angels, actions, thoughts; everything that either does exist, or can be imagined." Unity or one is, in his view, not only the simplest of all our ideas, but the most omnipresent. "Every object our senses are employed about; every idea in our understandings ; every thought of our minds, brings this idea along with it. And therefore it is ... in its agreement to all other things, the most universal idea we have."
 
 OUTLINE OF TOPICS
 

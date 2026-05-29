@@ -322,41 +322,157 @@ def fix_words(text):
     return text
 
 
+_HDR_RE = re.compile(
+    r"^(?:Chapter[\w.:\-]*|C[Hhu][Aa][Pp][Tt][A-Za-z.:']+|CHAPTIR|CHAPitR|CHAPTtK"
+    r"|CuAi?'?Ti?[-.:Rk]+|THE GREAT IDEAS)\s*\d*[:\s]*[A-Z &]*$"
+)
+_PAGENUM_RE = re.compile(r'^\d{2,4}$')
+
+
+def _is_header(text):
+    """Running headers: 'Chapter N: NAME 1119', '1120 THE GREAT IDEAS', 'B THE GREAT IDEAS'."""
+    t = re.sub(r'\s+', ' ', text).strip()
+    if re.match(r'^Chapter\s+\S+\s*:', t, re.I):
+        return True
+    # Short standalone running header (optional page-number / stray drop-cap around it)
+    if 'THE GREAT IDEAS' in t and len(t) <= 25:
+        return True
+    return False
+
+
 def extract_intro(doc, start_page_idx):
-    """Extract intro text from PDF, from INTRODUCTION until OUTLINE OF TOPICS."""
-    full_text = ""
-    for i in range(start_page_idx, min(start_page_idx + 24, len(doc))):
-        page_text = doc[i].get_text()
-        full_text += page_text + "\n"
-        if 'OUTLINE OF TOPICS' in page_text:
+    """Extract intro text using column-aware reading order + paragraph detection.
+
+    PyMuPDF keeps the correct reading order *within* a text block (so quotations
+    and insets stay intact), but on pages with short columns it sometimes merges a
+    left-column line and a right-column line at the same height into a single block
+    that spans both columns. So: keep each single-column block as one unit (joining
+    its lines in PyMuPDF's order), but split any block that spans both columns into
+    a left and a right piece. Units are then re-ordered per page as
+    left-column-first, then right-column, top-to-bottom.
+    """
+    units = []   # (page_idx, col, y0, x0, text)
+    for page_idx in range(start_page_idx, min(start_page_idx + 28, len(doc))):
+        page = doc[page_idx]
+        center = page.rect.width / 2
+        GAP = 25   # half-width of the dead zone around the spine
+        page_has_outline = 'OUTLINE OF TOPICS' in page.get_text()
+        for b in page.get_text('dict')['blocks']:
+            if b.get('type') != 0:
+                continue
+            bx0, by0, bx1, by1 = b['bbox']
+            block_lines = []
+            for ln in b['lines']:
+                lx0, ly0, lx1, ly1 = ln['bbox']
+                if ly0 < 0:           # margin / above-page noise
+                    continue
+                t = ''.join(s['text'] for s in ln['spans']).strip()
+                if t:
+                    block_lines.append((lx0, ly0, t))
+            if not block_lines:
+                continue
+            if bx0 < center - GAP and bx1 > center + GAP:
+                # Block spans both columns: split its lines by column.
+                left = [r for r in block_lines if r[0] < center]
+                right = [r for r in block_lines if r[0] >= center]
+                if left and right:
+                    for grp, col in ((left, 0), (right, 1)):
+                        grp.sort(key=lambda r: (round(r[1]), r[0]))
+                        text = ' '.join(r[2] for r in grp)
+                        units.append((page_idx, col, grp[0][1], grp[0][0], text))
+                    continue
+            col = 0 if (bx0 + bx1) / 2 < center else 1
+            text = ' '.join(r[2] for r in block_lines)
+            units.append((page_idx, col, by0, bx0, text))
+        if page_has_outline:
             break
 
-    # Find INTRODUCTION marker (possibly "INTRODUCTION\n" or "INTRODUCTION ")
-    m = re.search(r'INTRODUCTION\n', full_text)
-    if not m:
-        m = re.search(r'INTRODUCTION\s+', full_text)
-    if not m:
+    # Reading order: page, then column (left, right), then top-to-bottom.
+    units.sort(key=lambda r: (r[0], r[1], r[2]))
+
+    raw_blocks = []   # list of (x0, text)
+    found_intro = False
+    for page_idx, col, y0, x0, text in units:
+        clean = re.sub(r'\s+', ' ', text).strip()
+        # Strip a running header that got merged into a body block (page number
+        # adjacent to the phrase is the distinctive signature).
+        clean = re.sub(r'\b\d{2,4}\s+THE GREAT IDEAS\b', '', clean)
+        clean = re.sub(r'\bTHE GREAT IDEAS\s+\d{1,4}\b', '', clean)
+        clean = re.sub(r'\s{2,}', ' ', clean).strip()
+        if _is_header(clean):
+            continue
+        if not found_intro:
+            m = re.search(r'\bINTRODUCTION\b', clean)
+            if m:
+                found_intro = True
+                rest = clean[m.end():].strip()
+                if rest:
+                    raw_blocks.append((x0, rest))
+            continue
+        if 'OUTLINE OF TOPICS' in clean:
+            break
+        if len(clean) < 2:
+            continue
+        raw_blocks.append((x0, clean))
+
+    if not raw_blocks:
         return None
 
-    intro_text = full_text[m.end():]
+    # Determine left margins for left column (x < 160) and right column (x >= 160)
+    left_xs = [x for x, _ in raw_blocks if x < 160]
+    right_xs = [x for x, _ in raw_blocks if x >= 160 and x < 500]
+    left_margin = min(left_xs) if left_xs else 10
+    right_margin = min(right_xs) if right_xs else 209
+    INDENT = 6  # pixels of indentation = new paragraph
 
-    # Cut at OUTLINE OF TOPICS
-    outline_pos = intro_text.find('OUTLINE OF TOPICS')
-    if outline_pos != -1:
-        intro_text = intro_text[:outline_pos]
+    # Build paragraphs
+    paragraphs = []
+    cur_parts = []
 
-    # Clean up PDF extraction artifacts
-    intro_text = re.sub(r'(\w)-\n(\w)', r'\1\2', intro_text)       # dehyphenation
-    intro_text = re.sub(r'\nChapter[\s\w:.\-]+\n', '\n', intro_text)  # running headers
-    intro_text = re.sub(r'\nChai[»\w.:]+\s+\d+[:\s]+[A-Z &]+\n', '\n', intro_text)  # garbled headers
-    intro_text = re.sub(r'\nTHE GREAT IDEAS\n', '\n', intro_text)
-    intro_text = re.sub(r'^\d+\s*$', '', intro_text, flags=re.M)    # page numbers
-    intro_text = re.sub(r'\n\d{3,4}\s*\n', '\n', intro_text)        # standalone page numbers
-    intro_text = re.sub(r'\n[;»\s]{1,5}\n', '\n', intro_text)       # stray guillemets/punctuation
-    intro_text = re.sub(r'\n{3,}', '\n\n', intro_text)
-    intro_text = re.sub(r'[ \t]{2,}', ' ', intro_text)
+    def flush():
+        if cur_parts:
+            paragraphs.append(' '.join(cur_parts))
+            cur_parts.clear()
 
-    return intro_text.strip()
+    for x0, text in raw_blocks:
+        t = text.strip()
+        if not t:
+            continue
+
+        # Skip running headers, page numbers, THE GREAT IDEAS
+        clean_t = re.sub(r'\s+', ' ', t)
+        if _HDR_RE.match(clean_t):
+            continue
+        if _PAGENUM_RE.match(clean_t):
+            continue
+
+        # Determine if this block starts a new paragraph (indented)
+        col_margin = left_margin if x0 < 160 else right_margin
+        is_new_para = (x0 - col_margin) >= INDENT
+
+        # A block that starts lowercase (ignoring a leading quote mark) is a
+        # continuation, not a paragraph start, even if it looks indented.
+        first_char = t.lstrip('"\'“”‘’(')[:1]
+        if first_char and first_char.islower():
+            is_new_para = False
+
+        # Never split a hyphenated word across a (column/page) boundary
+        if cur_parts and cur_parts[-1].endswith('-'):
+            is_new_para = False
+
+        if is_new_para:
+            flush()
+
+        # Dehyphenate: if current paragraph ends with hyphen, join without space
+        if cur_parts and cur_parts[-1].endswith('-'):
+            cur_parts[-1] = cur_parts[-1][:-1] + t
+        else:
+            cur_parts.append(t)
+
+    flush()
+
+    intro_text = '\n\n'.join(paragraphs)
+    return intro_text.strip() if intro_text else None
 
 
 def process_file(txt_path, open_docs):

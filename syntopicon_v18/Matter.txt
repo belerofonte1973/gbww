@@ -2,1155 +2,147 @@ CHAPTER: MATTER
 
 INTRODUCTION
 
-AFTER we came out of the church,"
-says
-l\
-Boswell in his Life of Johnson, "we stood
-talking for some time together of Bishop Berkeley's
-ingenious
-sophistry
-to prove
-the
-nonexistence of matter, and that everything in the
-universe is merely ideal.
-I observed that though
-we are satisfied his doctrine is not true,
-it is impossible
-to refute
-it.
-I
-shall never forget
-the
-alacrity with which Johnson answered, striking
-his foot with mighty force against a large stone,
-till he rebounded from
-it,
-'I refute
-it thus."'
-But
-Berkeley's argument
-anticipated
-Dr.
-Johnson's style of refutation. "I do not argue,"
-he says, "against the existence of any one thing
-that we can apprehend either by sense or reflexion. That
-the
-things
-I see with my eyes and
-touch with my hands do exist,
-really
-exist,
-I
-make not
-the
-least question. The only
-thing
-whose existence I deny is that which philosophers
-call Matter or corporeal substance. And in doing this there
-is no damage done to the rest of
-mankind, who,
-I dare say, will never miss it."
-The
-rest of mankind
-does need
-to
-be
-instructed,
-however,
-that when
-they
-use
-the
-word
-"matter,"
-they speak of nothing. They
-may from careless habit suppose they are referring to the most obvious something there
-is in
-the world— the
-solid, massy, concrete stuff of
-which
-tangible, visible, movable, and moving
-things are made. Of them, Berkeley would ask
-how they know such stuff exists. It is not itself
-perceptible.
-We perceive a variety of qualities— colors,
-shapes, temperatures, textures, sizes, or extensions— but
-these, Berkeley argues, have
-their
-being in being perceived. Even if certain of these
-sensible qualities, sometimes called "primary,"
-such as figure, size, or weight, are supposed to
-belong
-to bodies when they are not actually
-being sensed, they are not matter, but only its
-properties. Matter itself is not sensible. Those
-who assert
-its existence postulate
-it as a substratum or support
-for
-the
-sensible
-qualities
-they perceive.
-The question,
-therefore,
-is whether such
-a
-substratum is a necessary or an unnecessary hypothesis. Berkeley does not deny the existence
-of beings which cannot be directly sensed. He
-affirms
-the
-existence
-of
-the human
-spirit or
-mind, of minds other than
-his own, and
-the
-spiritual being of God. These must be inferred
-to exist in order to explain the phenomena of
-our sensible experience and
-the experience of
-our own activities in thinking, imagining, willing.
-If, in addition, the existence of matter or a
-material substance were
-necessary
-to explain
-the phenomena, Berkeley would not object to
-affirming
-its existence by inference, even if it
-could in no way be directly perceived.
-His
-argument
-therefore
-involves,
-first,
-a
-denial of Locke's distinction between primary
-and secondary qualities. Supposing it to be generally agreed that colors, sounds, odors have no
-actual existence except in the perceiving mind,
-he denies that perceptible figure,
-size, or motion can exist otherwise. "It having been shown
-that none even of these can possibly exist otherwise than in a Spirit or Mind which perceives
-them,
-it
-follows
-that we have no longer any
-reason to suppose the being of Matter."
-Matter is not needed as a substratum or support for the qualities we perceive. This
-is the
-second
-main
-point
-in
-Berkeley's argument.
-"Though we give the materialists their external
-bodies, they by their own confession are never
-the nearer knowing how our ideas are produced
-since they own themselves unable to comprehend in what manner body can act upon spirit,
-or how it is possible it should imprint any idea
-in the mind. Hence
-it
-is evident that the production of ideas or sensations in our minds can
-be no reason why we should suppose Matter or
-corporeal
-substances,
-since
-that
-is
-acknowledged
-to remain equally inexplicable with or
-without this supposition."
-Berkeley's arguments against matter, which
-occupy the greater part of his Principles of Human Knowledge, may not have the same force
-when they are applied against different theories
-of matter. Berkeley seems to regard his attack
-on materialism as the refutation of an error at
-the root of skepticism, atheism, and irreligion.
-He also thinks materialism creates
-difficulties
-for the sciences. But are all affirmations of matter to be lumped together as materialism in the
-same sense} Are Aristotle, Plotinus, Descartes,
-Spinoza, and Locke
-materialists
-in
-the same
-sense as Lucretius, Hobbes, and perhaps Marx?
-Does it make no difference whether bodies are
-said to be the only real existences, or whether,
-in addition to bodies, immaterial substances or
-spiritual beings are also said to exist?
-Does
-it make no difference how matter
-is
-conceived—whether
-as
-a
-self-subsistent
-substance in its own right, capable of existing apart
-from any qualities except extension and motion
-which belong to its very essence, or merely as
-one factor in
-the constitution of bodies,
-the
-factor of potentiality which, as will be presently
-explained,
-has
-no
-existence
-apart
-from
-the
-forms which actualize it? Are skepticism, atheism, and
-irreligion
-to
-be
-associated
-with
-all
-affirmations of matter, in view of the fact that
-theologians like Augustine and Aquinas seem to
-think that a sound view of matter supports the
-truths
-of
-religion
-against
-the
-errors
-of
-the
-materialists ?
-There seem
-to
-be,
-in
-short,
-three
-distinct
-positions to which Berkeley's blanket denial of
-matter stands opposed. The diametrically opposite view seems to be the blanket denial of
-anything except bodies, or of anything which
-cannot be reduced to a property or function of
-matter. The atomism of Lucretius, discussed
-in the chapter on Element, may be taken as
-representative
-of
-this
-view,
-though
-Engels
-would insist that materialism can be dialectical
-rather than atomistic or mechanical.
-Between the two extremes, there appear to
-be two middle positions which are alike insofar
-as both affirm
-the immaterial
-as
-well
-as
-the
-material. Although they are alike in asserting
-the existence of spiritual substances, they may,
-of course, define the nature of these immaterial
-things
-differently,
-and
-differently
-interpret
-their relation to the realm of matter. But, as
-theories of matter,
-their principal
-difference
-consists in the way in which they conceive the
-being
-of
-bodies,
-material
-substances,
-or
-the
-bodily mode of substance.
-In the conceptions of Descartes and Locke,
-for example,
-it
-is matter which gives actuality
-to sensible bodies. We have "no other idea or
-notion of matter," Locke writes, "but something wherein
-those many
-sensible
-qualities,
-which affect our sense, do subsist." The entire
-substance of sensible bodies consists of matter.
-All their properties derive from the essence or
-nature of matter. But
-in
-the conceptions of
-Aristotle and Plotinus, bodies would not exist at
-all if they were composed only of matter, for
-matter is no more than a capacity for being, not
-something which by itself actually
-is. Sensible
-bodies derive their being and all their attributes
-from the forms which matter assumes when its
-potentialities are actualized. Matter totally devoid of form is not the nothing Berkeley calls it,
-but it is so near to nothing that Plotinus says it
-is "more plausibly called a non- being ... a bare
-aspiration towards substantial existence."
-These theories of matter or corporeal being
-seem to be
-as contrary
-to one another as
-together they are contrary to Berkeley's doctrine.
-Yet each
-of
-the
-two middle
-positions
-leans
-toward one of the opposite extremes.
-The conception of matter seems to be very
-much the same in the complete materialism of
-Lucretius and Hobbes and in the view of Descartes, Spinoza, and Locke. In the former, only
-bodies exist. In the latter, bodies do not comprise the whole of existence, but matter is the
-whole substance of bodies. The separation of
-body and mind, or matter and spirit, into distinct substances, or modes of substance, leaves
-matter the same kind of stuff that
-it
-is in a
-world which admits of no other reality. Atomism,
-furthermore, may
-be common
-to both
-theories, at
-least to the extent that
-it
-is held
-that the complex bodies we perceive are composed of minute and insensible particles. Unlike Lucretius, Locke may not insist upon the
-absolute indivisibility of the particles, or upon
-the eternity of the uncreated atoms of matter;
+AFTER we came out of the church," says l\ Boswell in his Life of Johnson, "we stood talking for some time together of Bishop Berkeley's ingenious sophistry to prove the nonexistence of matter, and that everything in the universe is merely ideal. I observed that though we are satisfied his doctrine is not true, it is impossible to refute it. I shall never forget the alacrity with which Johnson answered, striking his foot with mighty force against a large stone, till he rebounded from it, 'I refute it thus."' But Berkeley's argument anticipated Dr. Johnson's style of refutation. "I do not argue," he says, "against the existence of any one thing that we can apprehend either by sense or reflexion. That the things I see with my eyes and touch with my hands do exist, really exist, I make not the least question. The only thing whose existence I deny is that which philosophers call Matter or corporeal substance. And in doing this there is no damage done to the rest of mankind, who, I dare say, will never miss it." The rest of mankind does need to be instructed, however, that when they use the word "matter," they speak of nothing. They may from careless habit suppose they are referring to the most obvious something there is in the world— the solid, massy, concrete stuff of which tangible, visible, movable, and moving things are made. Of them, Berkeley would ask how they know such stuff exists. It is not itself perceptible.
 
-he,
-like Hobbes and Newton,
-carries the
-division of the familiar bodies of sense-experience down to parts which cannot be perceived
-and yet have, in a way, a more ultima te-reafity
-as units of matter than the complex bodies they
-constitute.
-"Had we senses acute enough to discern the
-minute
-particles of bodies, and
-the
-real constitution on which
-their sensible qualities depend," Locke
-writes,
-"I doubt not but
-that
-would produce quite different ideas in us; and
-that which
-is now
-the
-yellow color of gold,
-would
-then
-disappear, and
-instead
-of
-it we
-should see an admirable texture of parts, of a
-certain size and figure."
-At the other extreme, Berkeley's complete
-denial of matter has
-less in common with the
-view of Aristotle, Plotinus, Augustine, and Aquinas than the theory of Descartes, Spinoza, and
-Locke has with
-the materialism of Lucretius
-and Hobbes. They would appear
-to be
-close
-enough, for one seems to hold
-that matter
-is
-almost non-being and the other that matter
-is
-simply nothing at all. But where Berkeley denies any role to matter, Aristotle and those who
-take his view affirm matter to be an indispensable
-factor
-in
-the
-constitution
-of physical
-things. They do not question the reality of bodies or their existence apart from mind. On both
-of these points they are as opposed to Berkeley
-as they would
-be
-if they were complete
-materialists.
-Nevertheless
-they
-lean
-toward
-Berkeley rather than toward the other extreme
-in
-one
-respect.
-Where
-Berkeley
-denies
-the
-existence of matter, they deny its substantiality.
-Where Berkeley says matter has no being, they
-say
-it has the lowest grade of being—on the
-very verge of not being!
-In spite of all the differences noted, the idea
-of
-matter
-has
-a
-certain
-constant
-meaning
-throughout the tradition of the great books.
-It
-is generally associated with
-the
-idea of
-quantity, and especially the basic magnitudes,
-such as time, space, and mass. Sometimes it
-is
-said that the essence of matter itself is extension; sometimes that bodies—not matter itself
-—have the property of tridimensionality. But
-in either case that which is or has matter in it
-necessarily occupies space.
-The manner of that occupation is also generally agreed upon. Two bodies or two distinct
-quantities of matter cannot occupy the same
-place at the same time. A body may not be impenetrable in the sense of being indivisible, but
-so long as it remains the whole that it is, it offers
-resistance to other bodies tending to move into
-the place
-it occupies.
-There
-is another connection between matter
-and quantity. To those who ask what makes two
-otherwise identical things two in number—or
-what
-is involved in the merely numerical difference of things alike in every other respect—
-the usual answer is in terms of matter. Matter is
-traditionally spoken of as "the principle of individuation." Aquinas, for example, holds that
-angels, unlike physical substances, cannot differ
-from one another as do numerically distinct individuals.
-Because
-they are immaterial, they
-can differ only as do species or kinds. "Such
-things as agree in species," he writes, "but differ
-in number, agree in form, but are distinguished
-materially.
-If, therefore, the angels be not composed of matter and form,
-it follows that it
-is
-impossible for two angels to be of one species;
-just as
-it would be impossible for there to be
-several whitenesses apart, or several humanities,
-since whitenesses are not several, except in so
-far as they are in several substances."
-The way
-in which matter
-is
-related
-to
-individual differences can be exemplified in works
-of art. Two coins, stamped out of the same kind
-of matter by the impression of the same die,
-may differ in no other discernible respect than
-that
-they
-are two
-of
-the same
-kind.
-Their
-twoness seems to be somehow related to the fact
-that each consists of a distinct quantity of matter. But it may be asked how two units of matter have the distinction of being two while they
-differ in no other respect. One answer to this
-difficult question
-is that their distinction consists in their occupying different places. In the
-Platonic theory of the origin of many particulars all participating in the same form, diversity
-of place seems
-to play the role which matter
-plays for Aristotle and Aquinas.
-Plato's doctrine of the receptacle, which
-is
-discussed in the chapter on Form, is sometimes
-interpreted
-by
-conceiving
-the
-receptacle
-as
-space, and sometimes by conceiving it as matter. The receptacle,
-it is said in the Timaeus, is
-that which, "while receiving all things, never
-departs at all from her own nature and never
-in any way, or at any time, assumes a form like
-that of any of the things which enter into her."
-This, according to Plotinus, means that "its one
-form is an invincible formlessness."
-But Plotinus, who combines Plato's doctrine
-of the receptacle and the forms with Aristotle's
-theory of potentiality and actuality, holds that
-it is matter, not space, which is "the receptacle
-and
-nurse
-of
-all
-generation." He
-says
-that
-"recipient and nurse"
-is a
-better description
-of matter than
-the term "mother," for that
-term "is used by those who think of a mother as
-matter
-to
-the offspring, as a container only,
-giving nothing to them." In his own view, matter is more than space or mere receptivity. He is
-willing
-to admit
-the
-"parallel with motherhood" only to the extent that "matter is sterile,
-not female to full effect, female in receptivity
-only, not in pregnancy."
-Traditionally, the
-distinction between
-universal and particular is understood as a distinction between the intelligible and the sensible.
-This indicates another traditional meaning of
-matter or the material. The realm of sensible
-things
-is the realm of bodies. But the atoms
-which are the elementary bodies are also usually
-called
-"insensible
-particles of matter."
-This,
-however, can be interpreted to mean, not that
-a definite material mass or bulk
-is in itself absolutely
-intangible or imponderable, but
-that,
-because of the limitation in our senses, it is imperceptible
-to
-us. On
-this
-interpretation
-it
-would then seem possible to say that all bodily
-existence is sensible existence.
-But if we ask about the sensibility of matter
-itself,
-rather
-than
-of bodies
-large
-or
-small,
-questions
-arise
-which
-are more
-difficult
-to
-solve. On one theory of matter, matter devoid
-of form is as insensible as it is unintelligible, yet
-forms which are not material,
-that
-is, not in
-matter, are also insensible but not unintelligible. On the contrary, they are regarded as more
-perfectly
-intelligible
-than
-embodied
-forms.
-How, then, does matter which is itself insensible cause the forms which it assumes to become
-sensible when they are materialized?
-The theory of matter which does not regard
-it as a co-principle with form seems to be confronted with a different problem of sensibility.
-It
-is supposed that some of the qualities which
-we sense in bodies are actually in them whether
-we sense them or not—such properties as size,
-figure, weight, motion. Other sensible qualities,
-such as colors, odors, temperatures, or sounds,
-are supposed to be effects produced by the motions of material particles acting on the sensitive
-apparatus of animals. This distinction between
-what Locke calls "primary and secondary qualities"—found also in Lucretius and Descartes
-is more
-fully
-considered
-in
-the
-chapters on
-Quality and Sense, but here it calls attention
-to the problem ofhow matter, devoid of certain
-sensible qualities, causes these qualities to arise.
-For Lucretius the peculiar difficulty of the
-problem seems to lie in the fact that the sensitive animal is itself nothing but a material system. All
-its powers and acts are conceived as
-functions of matter in motion. How, then, does
-moving matter within the organism generate
-certain qualities which do not belong to moving
-matter outside the organism? For Locke the
-problem raises a difficulty of still another sort.
-Secondary
-qualities,
-such
-as
-colors,
-sounds,
-odors, exist only as sensations in the mind. In
-corporeal substances, or bodies, such qualities,
-he writes, "are nothing but the powers those
-substances have to produce several ideas in us
-by our senses; which ideas are not in the things
-themselves, otherwise than as anything is in its
-cause." Though they result from the impact of
-moving
-particles on
-the
-bodily
-sense-organs,
-they do not belong to the world of matter at all,
-but to the realm of spirit. How, then, do the
-motions
-of matter
-cause
-effects which
-exist
-only in the immaterial domain of mind ?
-These questions indicate some of the problems of matter as an object, condition, or cause
-of knowledge. They also show how the nature
-of the problem
-varies with
-different conceptions of matter, both in itself and in its relation
-to mind. There are still other problems which
-confront those theories of mind which separate
-reason or intellect from the sensitive faculty.
-In such
-theories the consideration of matter's relation to mind goes beyond the question
-of the origin of sensations.
-It takes sensations
-and images as somehow the functions of living
-matter— the
-acts of the
-various sense-organs
-and the brain. But sensations and images, because they are acts of corporeal organs, have the
+We perceive a variety of qualities— colors, shapes, temperatures, textures, sizes, or extensions— but these, Berkeley argues, have their being in being perceived. Even if certain of these sensible qualities, sometimes called "primary," such as figure, size, or weight, are supposed to belong to bodies when they are not actually being sensed, they are not matter, but only its properties. Matter itself is not sensible. Those who assert its existence postulate it as a substratum or support for the sensible qualities they perceive.
 
-material. As matter is said to cause the individuality or numerical diversity of bodies, so
-is
-it
-said to make sensations and images "particular
-intentions of the mind"— that
-is,
-capable of
-representing only particular objects, not general kinds or classes. Hence such theories face the
-problem of the relation of sensations and images
-to the "universal intentions of the mind,"
-its
-general concepts or abstract ideas.
-One more traditional meaning of matter remains to be mentioned. The sciences of physics
-or mechanics are concerned with change or motion. They are not concerned with mutability
-in general, but with the kind of mutability that
-is
-manifested
-by
-material
-things.
-Material
-things are never conceived as immovable or unchangeable.
-The question whether matter itself is immutablehas differentmeaningsfordifTerent theories
-of matter. On
-the
-theory
-(discussed
-in
-the
-chapter on Change) that matter and form are
-together principles of change in changing substances,
-it
-is neither matter nor form but the
-substance composite of matter and form which
-changes. Those who think that the motions of
-the physical world are without beginning and
-end, attribute a similar eternity to matter and
-conceive
-it
-as
-imperishable. The
-theologians
-who think that God can annihilate whatever
-He creates,do not hold that matteris indestructible, but
-they nevertheless attribute everlasting endurance to matter in God's plan. Aquinas,
-for example,
-in
-his
-treatise on the end of the
-world, describes the
-final conflagration which
-will purge the material universe but leave
-its
-matter in existence under the forms of the elements and
-the heavenly
-bodies. "The world
-will be renewed," he writes, "in such a way as
-to throw off all corruption and remain forever
-at rest." Hence nothing can be "the subject of
-that renewal, unless it be a subject of incorruption," such as "the heavenly
-bodies, the
-elements, and man."
-On other theories of matter the fact that motion is regarded as an intrinsic property of bodies seems
-to be
-similarly
-consistent with
-the
-notion that matter itself is immutable or indestructible. This indestructibility may be conceived in terms of the absolute indivisibility of
-the atoms, as in Lucretius and Newton; or, as in
-Spinoza, it may be established by the uncreated
-and eternal nature of God. "By body," Spinoza
-writes, "I understand a mode which expresses in
-a certain and determinate manner the essence of
-God in so far as He
-is considered as the thing
-extended."
-In the modern development of the science of
-mechanics the law of the conservation of matter seems to be another expression of the same
-insight. "We may lay
-it down as an incontestable axiom," Lavoisier writes, "that in
-all the
-operations of art and nature, nothing is created;
-an equal quantity of matter exists both before
-and after the experiment." What appears to be
-the destruction of a body
-is merely the transformation of
-its matter into another physical
-condition, without loss of mass unless there is an
-equivalent gain
-in energy. The total quantity
-of matter and energy remains constant throughout all physical changes.
-But though change or motion seems to be inherent in the material world, the mutability of
-bodies, as well as the immutability of matter,
-seems to be differently conceived according to
-different conceptions of matter. The difference
-between the physics of Aristotle and the physics of Descartes can be expressed
-in terms of
-contrary
-definitions of motion,
-or divergent
-notions of causality, but neither of these differences
-is fully intelligible apart from the variance of these theories from one another on the
-nature of matter.
-When matter is an actual substance, whose essence
-is extension and whose chief property
-is
-local motion, the principles of physics are mechanical. The
-laws of mechanics, with
-time,
-space, and mass as their fundamental variables,
-seem
-to have a
-universality adequate for describing all natural phenomena. All changes in
-material things are either the local motions of
-bodies or the result of the local motions of their
-parts. Motions are determined in their magnitude and direction by the impressed force which
-one body exerts upon another and the resistance
-of that other. Motion
-is
-itself completely actual, as matter is; and the only type of cause to
-which physics need appeal is the efficient cause,
-that
-is,
-the push
-or
-pull of one body upon
-another.
-Physicists who share this conception of mat-
-ter may not agree, as Descartes and Newton do
-not,
-in
-their mechanical
-formulations. They
-may or may not be atomists. They may,
-like
-Lucretius, think that local motion
-is an absolutely
-intrinsic property of the eternal particles; or, like Descartes and Newton, they may
-think that God first imparted motion to matter
-at the world's creation. They may hold that all
-subsequent motions issue therefrom in a continuous chain of cause and
-effect. But when
-matter
-is the only factor in the constitution of
-bodies, and one body differs from another only
-in
-its quantitative determinations,
-the consequence for physical theory seems to be one or
-another sort of mechanical formulation.
-When matter is nothing more than a body's
-potentiality for change, and when neither what
-the body is nor how it changes can be explained
-by reference to its matter alone, physical theory
-seems to be constructed in other than mechanical terms. Its concepts and principles resemble
-those of biology.
-It finds natural tendencies or
-desires, and ends or final causes, in the motion
-of inert as well as animate bodies.
-Central to Aristotle's physics are his theory
-of the four causes, discussed in the chapter on
-Cause, and
-his
-theory of the four
-types of
-change, discussed
-in the chapter on Change.
-But even more fundamental
-is his definition of
-motion
-as
-the actualization of that which
-is
-potential in a respect in which
-it
-is potential.
-With motion so defined, the principles of physics must include the correlative factors of potentiality and
-actuality which
-Aristotle conceives in terms of matter and form.
-Remove matter
-entirely from
-a
-thing and,
-according to Aristotle, you remove its capacity
-for physical change. Remove form, and you remove its existence, for nothing can exist without being actual or determinate in certain
-respects. When
-a
-thing changes
-physically,
-it
-loses
-certain
-determinate
-characteristics and
-acquires others. The determinations it acquires
-it had previously lacked, yet
-all the while
-it
-must have had a capacity for acquiring them.
-The thing is "capable both of being and of not
-being," Aristotle says, "and this capacity," he
-goes on
-to say,
-"is the matter in each." The
-matter of an
-existing substance
-is
-thus conceived
-as
-that which
-has
-certain forms
-(the
-respects in which the substance
-is actually determinate), and lacks certain forms which it can
-assume (the respects in which the substance
-is
-both indeterminate and potential).
-As the chapter on Art indicates,
-Aristotle
-frequently uses artistic production to afford a
-simple illustration of his theory of matter and
-form as principles of change. When a man sets
-out to make a bed, he chooses material, such as
-wood, which can be shaped
-in a certain way.
-The same wood could have been made into a
-chair or a table. With respect to these various
-possible determinations in structure, the wood
-is itself indeterminate and determinable.
-Before the artist has worked on
-it productively, the wood
-is in a state of both privation
-and potentiality with regard to the form of a
-bed,
-a
-chair,
-or a
-table. The
-transformation
-which the artist effects consists in his actualizing
-certain
-potentialities
-in
-the
-material
-for
-forms or determinations which the material at
-the moment lacks. When the bed
-is made, the
-wood or matter which
-is now actually in the
-form of a bed may
-still have the potentiality
-for being remade into a chair or table.
-The wood, of course, remains actually wood
-throughout these
-artificial changes,
-as
-it does
-not when
-it suffers the natural change of combustion. This indicates that though the wood
-may be called matter or material by the artist,
-it
-is not matter, but a substance, a thing composite of matter and form; for when the wood is
-reduced to ashes by fire, the matter which had
-the form of wood assumes another form.
-In the analysis of accidental change, which
-artistic
-production
-illustrates,
-it
-suffices
-to
-treat a composite substance, like wood or iron
-or bronze, as the material principle. But in the
-analysis of substantial change, when matter itself changes from being one kind of matter to
-being another in the coming to be or perishing
-of composite substances, the material principle
-must be pure matter—matter totally devoid of
-form. Where
-a
-whole
-substance
-can
-be
-regarded as the matter or substratum of accidental
-change (in quality, quantity, or place) the substratum of substantial change, which Aristotle
-calls
-"generation
-and
-corruption,"
-must
-be
-matter in a condition of absolute indeterminacy
-and pure potentiality.
-Referring to this ultimate substratum as "the
+The question, therefore, is whether such a substratum is a necessary or an unnecessary hypothesis. Berkeley does not deny the existence of beings which cannot be directly sensed. He affirms the existence of the human spirit or mind, of minds other than his own, and the spiritual being of God. These must be inferred to exist in order to explain the phenomena of our sensible experience and the experience of our own activities in thinking, imagining, willing. If, in addition, the existence of matter or a material substance were necessary to explain the phenomena, Berkeley would not object to affirming its existence by inference, even if it could in no way be directly perceived.
 
-underlying nature," Aristotle says that it "is an
-object of scientific knowledge by analogy. For
-as the bronze
-is to the statue, the wood tojhe
-bed, so is the matter and the formless before receiving form to anything which has form, and
-so also
-is the underlying nature to substance,
-i.e., the actually existing."
-Aristotle's definition of matter as "the primary substratum of each thing, from which
-it
-comes to be without qualification, and which
-persists in the result" not only signifies an object which the physicist must apprehend analogically
-(i.e., by comparison with substantially
-formed matter like wood and bronze), but also
-indicates that matter, by definition, must be in
-itself
-both
-unintelligible
-and
-non-existent.
-What Aristotle calls "the primary substratum"
-is later called by Plotinus "primal matter," by
-Augustine "formless matter," and by Aquinas
-"prime matter." Since they all agree that that
-which
-is without form lacks
-all determination
-and actuality, they deny that it can have existence by
-itself or be an object of knowledge,
-either by sense or reason.
-Augustine and
-Aquinas
-go
-further. They
-deny even to God's omnipotence the power of
-creating matter without form. They speak of
-matter not as created, but as concreated, that
-is,
-united at the very instant of its creation with
-the forms it must assume in order to exist. God
-"made formless matter of absolutely nothing,
-and the form of the world from
-this formless
-matter," Augustine
-writes. Yet He
-"created
-both simultaneously, so that form came upon
-matter with no space of time intervening."
-In the tradition of Aristotle's physics and
-metaphysics, especially as developed by Aquinas,
-matter and form become
-basic
-analytic
-terms, often having a significance remote from
-their original meaning in the analysis of change.
-The conception of prime (or formless) matter
-as the substratum of substantial change leads to
-the designation of the formed matter underlying accidental change as "second matter." This,
-in turn,
-is called "signate matter" when, considered as the matter of an individual substance,
-it
-is viewed as having the limiting determinations of individuality.
-"Matter
-is twofold," Aquinas writes, "common, and signate or individual; common, such
-as flesh and bones; and individual, as this flesh
-and
-these
-bones." When
-the
-intellect forms
-concepts
-of different
-kinds
-of physical
-substances,
-it abstracts "from the individual sensible matter, but not from the common sensible
-matter."
-In defining
-the nature of man,
-for
-example, we abstract, Aquinas says, from "this
-flesh and these bones, which do not belong to
-the species as such, but to the individual"; but
-we do not abstract from the fact that man, consisting of body and soul,
-is a thing of flesh and
-bones.
-To say that man consists of body and soul
-is
-to indicate that common matter enters into the
-definition of man as a physical substance. But in
-distinction from definitions of this type, which
-are proper to physics, mathematical and metaphysical definitions carry the abstraction from
-matter
-still
-further.
-In mathematics, Aquinas
-declares, the intellect abstracts "not only from
-individual sensible matter, but also from common sensible matter." In conceiving numbers
-and figures, the intellect does not, however, abstract from matter entirely, but only from
-individual intelligible matter. The common intelligible matter which
-is represented by
-"substance
-as
-subject
-to
-quantity"
-underlies
-all
-mathematical
-notions.
-"But
-some
-things,"
-Aquinas
-maintains,
-"can
-be
-abstracted even
-from common intelligible matter, such as being,
-unity, potency, act and the like, all of which can
-exist without matter." Such abstraction characterizes the concepts of metaphysics. Aquinas
-thus
-differentiates
-the
-three
-speculative
-sciences of physics, mathematics, and metaphysics in terms of three grades of abstraction, each
-distinguished by the type of matter from which
-the concepts of the science are abstracted.
-With one exception physical matter
-is not
-said to be of different kinds when it exists under
-different
-forms. The one exception
-for both
-Aristotle and Aquinas
-is the matter of terrestrial and celestial bodies.
-Basing his inference on the observations available to him, Aristotle holds that the heavenly
-bodies are eternal— "not subject to increase or
-diminution, but unaging and unalterable and
-unmodified." Immutable
-in every other way,
-they
-are,
-however,
-subject
-to
-local
-motion.
-Since they are eternal, both their matter and
-their motion must be
-different from
-that of
-difference between celestial and terrestrial matperishable
-terrestrial
-bodies.
-"All
-things
-that
-ter or motion, and as the chapter on Astronchange have matter,"
-Aristotle
-writes,
-"but
-omy shows, by so doing he not only gives immatter of different sorts; of eternal things those
-petus to the Copernican system, but also paves
-which
-are not generable but are movable
-in
-the way for Newton to frame laws of motion
-space have matter—not matter for generation,
-applicable
-to matter everywhere
-in
-the unihowever,
-but
-for motion from one
-place
-to
-verse. Because
-their matter
-is the same,
-it
-is
-another." That motion from place to place
-is,
-possible, Kepler insists, to explain the motion of
-unlike
-terrestrial motion,
-circular;
-it
-has
-the
-the heavenly
-bodies by
-the same
-principles
-appropriate characteristic of endlessness.
-which account
-for
-the motion
-of bodies on
-Kepler
-challenges
-this
-theory of a
-radical
-earth.
+His argument therefore involves, first, a denial of Locke's distinction between primary and secondary qualities. Supposing it to be generally agreed that colors, sounds, odors have no actual existence except in the perceiving mind, he denies that perceptible figure, size, or motion can exist otherwise. "It having been shown that none even of these can possibly exist otherwise than in a Spirit or Mind which perceives them, it follows that we have no longer any reason to suppose the being of Matter."
+
+Matter is not needed as a substratum or support for the qualities we perceive. This is the second main point in Berkeley's argument. "Though we give the materialists their external bodies, they by their own confession are never the nearer knowing how our ideas are produced since they own themselves unable to compre- hend in what manner body can act upon spirit, or how it is possible it should imprint any idea in the mind. Hence it is evident that the production of ideas or sensations in our minds can be no reason why we should suppose Matter or corporeal substances, since that is acknowledged to remain equally inexplicable with or without this supposition."
+
+Berkeley's arguments against matter, which occupy the greater part of his Principles ofHu- man Knowledge, may not have the same force when they are applied against different theories of matter. Berkeley seems to regard his attack on materialism as the refutation of an error at the root of skepticism, atheism, and irreligion. He also thinks materialism creates difficulties for the sciences. But are all affirmations of matter to be lumped together as materialism in the same sense} Are Aristotle, Plotinus, Descartes,
+
+Spinoza, and Locke materialists in the same sense as Lucretius, Hobbes, and perhaps Marx? Does it make no difference whether bodies are said to be the only real existences, or whether, in addition to bodies, immaterial substances or spiritual beings are also said to exist?
+
+Does it make no difference how matter is conceived—whether as a self-subsistent substance in its own right, capable of existing apart from any qualities except extension and motion which belong to its very essence, or merely as one factor in the constitution of bodies, the factor of potentiality which, as will be presently explained, has no existence apart from the forms which actualize it? Are skepticism, atheism, and irreligion to be associated with all affirmations of matter, in view of the fact that theologians like Augustine and Aquinas seem to think that a sound view of matter supports the truths of religion against the errors of the materialists ?
+
+There seem to be, in short, three distinct positions to which Berkeley's blanket denial of matter stands opposed. The diametrically opposite view seems to be the blanket denial of anything except bodies, or of anything which cannot be reduced to a property or function of matter. The atomism of Lucretius, discussed in the chapter on Element, may be taken as representative of this view, though Engels would insist that materialism can be dialectical rather than atomistic or mechanical.
+
+Between the two extremes, there appear to be two middle positions which are alike insofar as both affirm the immaterial as well as the material. Although they are alike in asserting the existence of spiritual substances, they may, of course, define the nature of these immaterial things differently, and differently interpret their relation to the realm of matter. But, as theories of matter, their principal difference consists in the way in which they conceive the being of bodies, material substances, or the bodily mode of substance.
+
+In the conceptions of Descartes and Locke, for example, it is matter which gives actuality to sensible bodies. We have "no other idea or notion of matter," Locke writes, "but something wherein those many sensible qualities, which affect our sense, do subsist." The entire substance of sensible bodies consists of matter.
+
+All their properties derive from the essence or nature of matter. But in the conceptions of
+
+Aristotle and Plotinus, bodies would not exist at all if they were composed only of matter, for matter is no more than a capacity for being, not something which by itself actually is. Sensible bodies derive their being and all their attributes from the forms which matter assumes when its potentialities are actualized. Matter totally devoid of form is not the nothing Berkeley calls it, but it is so near to nothing that Plotinus says it is "more plausibly called a non- being ... a bare aspiration towards substantial existence."
+
+These theories of matter or corporeal being seem to be as contrary to one another as together they are contrary to Berkeley's doctrine. Yet each of the two middle positions leans toward one of the opposite extremes.
+
+The conception of matter seems to be very much the same in the complete materialism of
+
+Lucretius and Hobbes and in the view of Descartes, Spinoza, and Locke. In the former, only bodies exist. In the latter, bodies do not comprise the whole of existence, but matter is the whole substance of bodies. The separation of body and mind, or matter and spirit, into distinct substances, or modes of substance, leaves matter the same kind of stuff that it is in a world which admits of no other reality. Atomism, furthermore, may be common to both theories, at least to the extent that it is held that the complex bodies we perceive are composed of minute and insensible particles. Unlike Lucretius, Locke may not insist upon the absolute indivisibility of the particles, or upon the eternity of the uncreated atoms of matter; but he, like Hobbes and Newton, carries the division of the familiar bodies of sense-experience down to parts which cannot be perceived and yet have, in a way, a more ultima te-reafity as units of matter than the complex bodies they constitute.
+
+"Had we senses acute enough to discern the minute particles of bodies, and the real constitution on which their sensible qualities depend," Locke writes, "I doubt not but that would produce quite different ideas in us; and that which is now the yellow color of gold, would then disappear, and instead of it we should see an admirable texture of parts, of a certain size and figure."
+
+At the other extreme, Berkeley's complete denial of matter has less in common with the view of Aristotle, Plotinus, Augustine, and Aquinas than the theory of Descartes, Spinoza, and Locke has with the materialism of Lucretius and Hobbes. They would appear to be close enough, for one seems to hold that matter is almost non-being and the other that matter is simply nothing at all. But where Berkeley denies any role to matter, Aristotle and those who take his view affirm matter to be an indispensable factor in the constitution of physical things. They do not question the reality of bodies or their existence apart from mind. On both of these points they are as opposed to Berkeley as they would be if they were complete materialists. Nevertheless they lean toward Berkeley rather than toward the other extreme in one respect. Where Berkeley denies the existence of matter, they deny its substantiality. Where Berkeley says matter has no being, they say it has the lowest grade of being—on the very verge of not being! In spite of all the differences noted, the idea of matter has a certain constant meaning throughout the tradition of the great books.
+
+It is generally associated with the idea of quantity, and especially the basic magnitudes, such as time, space, and mass. Sometimes it is said that the essence of matter itself is extension; sometimes that bodies—not matter itself —have the property of tridimensionality. But in either case that which is or has matter in it necessarily occupies space.
+
+The manner of that occupation is also generally agreed upon. Two bodies or two distinct quantities of matter cannot occupy the same place at the same time. A body may not be impenetrable in the sense of being indivisible, but so long as it remains the whole that it is, it offers resistance to other bodies tending to move into the place it occupies. There is another connection between matter and quantity. To those who ask what makes two otherwise identical things two in number—or what is involved in the merely numerical difference of things alike in every other respect— the usual answer is in terms of matter. Matter is traditionally spoken of as "the principle of in- dividuation." Aquinas, for example, holds that angels, unlike physical substances, cannot differ from one another as do numerically distinct individuals. Because they are immaterial, they can differ only as do species or kinds. "Such things as agree in species," he writes, "but differ in number, agree in form, but are distinguished materially. If, therefore, the angels be not com- posed of matter and form, it follows that it is impossible for two angels to be of one species; just as it would be impossible for there to be several whitenesses apart, or several humanities, since whitenesses are not several, except in so far as they are in several substances."
+
+The way in which matter is related to individual differences can be exemplified in works of art. Two coins, stamped out of the same kind of matter by the impression of the same die, may differ in no other discernible respect than that they are two of the same kind. Their twoness seems to be somehow related to the fact that each consists of a distinct quantity of matter. But it may be asked how two units of matter have the distinction of being two while they differ in no other respect. One answer to this difficult question is that their distinction consists in their occupying different places. In the
+
+Platonic theory of the origin of many particulars all participating in the same form, diversity of place seems to play the role which matter plays for Aristotle and Aquinas.
+
+Plato's doctrine of the receptacle, which is discussed in the chapter on Form, is sometimes interpreted by conceiving the receptacle as space, and sometimes by conceiving it as matter. The receptacle, it is said in the Timaeus, is that which, "while receiving all things, never departs at all from her own nature and never in any way, or at any time, assumes a form like that of any of the things which enter into her."
+
+This, according to Plotinus, means that "its one form is an invincible formlessness."
+
+But Plotinus, who combines Plato's doctrine of the receptacle and the forms with Aristotle's theory of potentiality and actuality, holds that it is matter, not space, which is "the receptacle and nurse of all generation." He says that "recipient and nurse" is a better description of matter than the term "mother," for that term "is used by those who think of a mother as matter to the offspring, as a container only, giving nothing to them." In his own view, matter is more than space or mere receptivity. He is willing to admit the "parallel with mother- hood" only to the extent that "matter is sterile, not female to full effect, female in receptivity only, not in pregnancy."
+
+Traditionally, the distinction between universal and particular is understood as a distinction between the intelligible and the sensible.
+
+This indicates another traditional meaning of matter or the material. The realm of sensible things is the realm of bodies. But the atoms which are the elementary bodies are also usually called "insensible particles of matter." This, however, can be interpreted to mean, not that a definite material mass or bulk is in itself absolutely intangible or imponderable, but that, because of the limitation in our senses, it is imperceptible to us. On this interpretation it would then seem possible to say that all bodily existence is sensible existence.
+
+But if we ask about the sensibility of matter itself, rather than of bodies large or small, questions arise which are more difficult to solve. On one theory of matter, matter devoid of form is as insensible as it is unintelligible, yet forms which are not material, that is, not in matter, are also insensible but not unintelligible. On the contrary, they are regarded as more perfectly intelligible than embodied forms. How, then, does matter which is itself insensible cause the forms which it assumes to become sensible when they are materialized?
+
+The theory of matter which does not regard it as a co-principle with form seems to be confronted with a different problem of sensibility.
+
+It is supposed that some of the qualities which we sense in bodies are actually in them whether we sense them or not—such properties as size, figure, weight, motion. Other sensible qualities, such as colors, odors, temperatures, or sounds, are supposed to be effects produced by the motions of material particles acting on the sensitive apparatus of animals. This distinction between what Locke calls "primary and secondary qualities"—found also in Lucretius and Descartes is more fully considered in the chapters on Quality and Sense, but here it calls attention to the problem ofhow matter, devoid of certain sensible qualities, causes these qualities to arise.
+
+For Lucretius the peculiar difficulty of the problem seems to lie in the fact that the sensitive animal is itself nothing but a material sys- tem. All its powers and acts are conceived as functions of matter in motion. How, then, does moving matter within the organism generate certain qualities which do not belong to moving matter outside the organism? For Locke the problem raises a difficulty of still another sort. Secondary qualities, such as colors, sounds, odors, exist only as sensations in the mind. In corporeal substances, or bodies, such qualities, he writes, "are nothing but the powers those substances have to produce several ideas in us by our senses; which ideas are not in the things themselves, otherwise than as anything is in its cause." Though they result from the impact of moving particles on the bodily sense-organs, they do not belong to the world of matter at all, but to the realm of spirit. How, then, do the motions of matter cause effects which exist only in the immaterial domain of mind ?
+
+These questions indicate some of the problems of matter as an object, condition, or cause of knowledge. They also show how the nature of the problem varies with different conceptions of matter, both in itself and in its relation to mind. There are still other problems which confront those theories of mind which separate reason or intellect from the sensitive faculty.
+
+In such theories the consideration of matter's relation to mind goes beyond the question of the origin of sensations. It takes sensations and images as somehow the functions of living matter— the acts of the various sense-organs and the brain. But sensations and images, because they are acts of corporeal organs, have the same limitation which belongs to everything material. As matter is said to cause the individuality or numerical diversity of bodies, so is it said to make sensations and images "particular intentions of the mind"— that is, capable of representing only particular objects, not general kinds or classes. Hence such theories face the problem of the relation of sensations and images to the "universal intentions of the mind," its general concepts or abstract ideas. One more traditional meaning of matter remains to be mentioned. The sciences of physics or mechanics are concerned with change or motion. They are not concerned with mutability in general, but with the kind of mutability that is manifested by material things. Material things are never conceived as immovable or unchangeable.
+
+The question whether matter itself is immutablehas differentmeaningsfordifTerent theories of matter. On the theory (discussed in the chapter on Change) that matter and form are together principles of change in changing substances, it is neither matter nor form but the substance composite of matter and form which changes. Those who think that the motions of the physical world are without beginning and end, attribute a similar eternity to matter and conceive it as imperishable. The theologians who think that God can annihilate whatever He creates,do not hold that matteris indestructible, but they nevertheless attribute everlasting endurance to matter in God's plan. Aquinas, for example, in his treatise on the end of the world, describes the final conflagration which will purge the material universe but leave its matter in existence under the forms of the ele- ments and the heavenly bodies. "The world will be renewed," he writes, "in such a way as to throw off all corruption and remain forever at rest." Hence nothing can be "the subject of that renewal, unless it be a subject of incorruption," such as "the heavenly bodies, the elements, and man."
+
+On other theories of matter the fact that motion is regarded as an intrinsic property of bodies seems to be similarly consistent with the notion that matter itself is immutable or indestructible. This indestructibility may be conceived in terms of the absolute indivisibility of the atoms, as in Lucretius and Newton; or, as in
+
+Spinoza, it may be established by the uncreated and eternal nature of God. "By body," Spinoza writes, "I understand a mode which expresses in a certain and determinate manner the essence of God in so far as He is considered as the thing extended."
+
+In the modern development of the science of mechanics the law of the conservation of matter seems to be another expression of the same insight. "We may lay it down as an incontestable axiom," Lavoisier writes, "that in all the operations of art and nature, nothing is created; an equal quantity of matter exists both before and after the experiment." What appears to be the destruction of a body is merely the transformation of its matter into another physical condition, without loss of mass unless there is an equivalent gain in energy. The total quantity of matter and energy remains constant throughout all physical changes.
+
+But though change or motion seems to be inherent in the material world, the mutability of bodies, as well as the immutability of matter, seems to be differently conceived according to different conceptions of matter. The difference between the physics of Aristotle and the physics of Descartes can be expressed in terms of contrary definitions of motion, or divergent notions of causality, but neither of these differences is fully intelligible apart from the variance of these theories from one another on the nature of matter.
+
+When matter is an actual substance, whose essence is extension and whose chief property is local motion, the principles of physics are mechanical. The laws of mechanics, with time, space, and mass as their fundamental variables, seem to have a universality adequate for describing all natural phenomena. All changes in material things are either the local motions of bodies or the result of the local motions of their parts. Motions are determined in their magnitude and direction by the impressed force which one body exerts upon another and the resistance of that other. Motion is itself completely actual, as matter is; and the only type of cause to which physics need appeal is the efficient cause, that is, the push or pull of one body upon another.
+
+Physicists who share this conception of matter may not agree, as Descartes and Newton do not, in their mechanical formulations. They may or may not be atomists. They may, like
+
+Lucretius, think that local motion is an absolutely intrinsic property of the eternal particles; or, like Descartes and Newton, they may think that God first imparted motion to matter at the world's creation. They may hold that all subsequent motions issue therefrom in a continuous chain of cause and effect. But when matter is the only factor in the constitution of bodies, and one body differs from another only in its quantitative determinations, the consequence for physical theory seems to be one or another sort of mechanical formulation.
+
+When matter is nothing more than a body's potentiality for change, and when neither what the body is nor how it changes can be explained by reference to its matter alone, physical theory seems to be constructed in other than mechanical terms. Its concepts and principles resemble those of biology. It finds natural tendencies or desires, and ends or final causes, in the motion of inert as well as animate bodies.
+
+Central to Aristotle's physics are his theory of the four causes, discussed in the chapter on Cause, and his theory of the four types of change, discussed in the chapter on Change. But even more fundamental is his definition of motion as the actualization of that which is potential in a respect in which it is potential. With motion so defined, the principles of physics must include the correlative factors of potentiality and actuality which Aristotle conceives in terms of matter and form.
+
+Remove matter entirely from a thing and, according to Aristotle, you remove its capacity for physical change. Remove form, and you re- move its existence, for nothing can exist without being actual or determinate in certain respects. When a thing changes physically, it loses certain determinate characteristics and acquires others. The determinations it acquires it had previously lacked, yet all the while it must have had a capacity for acquiring them. The thing is "capable both of being and of not being," Aristotle says, "and this capacity," he goes on to say, "is the matter in each." The matter of an existing substance is thus conceived as that which has certain forms (the respects in which the substance is actually determinate), and lacks certain forms which it can assume (the respects in which the substance is both indeterminate and potential).
+
+As the chapter on Art indicates, Aristotle frequently uses artistic production to afford a simple illustration of his theory of matter and form as principles of change. When a man sets out to make a bed, he chooses material, such as wood, which can be shaped in a certain way. The same wood could have been made into a chair or a table. With respect to these various possible determinations in structure, the wood is itself indeterminate and determinable.
+
+Before the artist has worked on it productively, the wood is in a state of both privation and potentiality with regard to the form of a bed, a chair, or a table. The transformation which the artist effects consists in his actualizing certain potentialities in the material for forms or determinations which the material at the moment lacks. When the bed is made, the wood or matter which is now actually in the form of a bed may still have the potentiality for being remade into a chair or table.
+
+The wood, of course, remains actually wood throughout these artificial changes, as it does not when it suffers the natural change of combustion. This indicates that though the wood may be called matter or material by the artist, it is not matter, but a substance, a thing composite of matter and form; for when the wood is reduced to ashes by fire, the matter which had the form of wood assumes another form.
+
+In the analysis of accidental change, which artistic production illustrates, it suffices to treat a composite substance, like wood or iron or bronze, as the material principle. But in the analysis of substantial change, when matter itself changes from being one kind of matter to being another in the coming to be or perishing of composite substances, the material principle must be pure matter—matter totally devoid of form. Where a whole substance can be regarded as the matter or substratum of accidental change (in quality, quantity, or place) the substratum of substantial change, which Aristotle calls "generation and corruption," must be matter in a condition of absolute indeterminacy and pure potentiality.
+
+Referring to this ultimate substratum as "the underlying nature," Aristotle says that it "is an object of scientific knowledge by analogy. For as the bronze is to the statue, the wood tojhe bed, so is the matter and the formless before receiving form to anything which has form, and so also is the underlying nature to substance, i.e., the actually existing." Aristotle's definition of matter as "the pri- mary substratum of each thing, from which it comes to be without qualification, and which persists in the result" not only signifies an object which the physicist must apprehend analogically (i.e., by comparison with substantially formed matter like wood and bronze), but also indicates that matter, by definition, must be in itself both unintelligible and non-existent. What Aristotle calls "the primary substratum" is later called by Plotinus "primal matter," by Augustine "formless matter," and by Aquinas "prime matter." Since they all agree that that which is without form lacks all determination and actuality, they deny that it can have existence by itself or be an object of knowledge, either by sense or reason.
+
+Augustine and Aquinas go further. They deny even to God's omnipotence the power of creating matter without form. They speak of matter not as created, but as concreated, that is, united at the very instant of its creation with the forms it must assume in order to exist. God "made formless matter of absolutely nothing, and the form of the world from this formless matter," Augustine writes. Yet He "created both simultaneously, so that form came upon matter with no space of time intervening." In the tradition of Aristotle's physics and metaphysics, especially as developed by Aquinas, matter and form become basic analytic terms, often having a significance remote from their original meaning in the analysis of change. The conception of prime (or formless) matter as the substratum of substantial change leads to the designation of the formed matter underlying accidental change as "second matter." This, in turn, is called "signate matter" when, considered as the matter of an individual substance, it is viewed as having the limiting determinations of individuality.
+
+"Matter is twofold," Aquinas writes, "common, and signate or individual; common, such as flesh and bones; and individual, as this flesh and these bones." When the intellect forms concepts of different kinds of physical substances, it abstracts "from the individual sensible matter, but not from the common sensible matter." In defining the nature of man, for example, we abstract, Aquinas says, from "this flesh and these bones, which do not belong to the species as such, but to the individual"; but we do not abstract from the fact that man, consisting of body and soul, is a thing of flesh and bones.
+
+To say that man consists of body and soul is to indicate that common matter enters into the definition of man as a physical substance. But in distinction from definitions of this type, which are proper to physics, mathematical and metaphysical definitions carry the abstraction from matter still further. In mathematics, Aquinas declares, the intellect abstracts "not only from individual sensible matter, but also from com- mon sensible matter." In conceiving numbers and figures, the intellect does not, however, abstract from matter entirely, but only from individual intelligible matter. The common intelligible matter which is represented by "substance as subject to quantity" underlies all mathematical notions. "But some things," Aquinas maintains, "can be abstracted even from common intelligible matter, such as being, unity, potency, act and the like, all of which can exist without matter." Such abstraction characterizes the concepts of metaphysics. Aquinas thus differentiates the three speculative sciences of physics, mathematics, and metaphysics in terms of three grades of abstraction, each distinguished by the type of matter from which the concepts of the science are abstracted.
+
+With one exception physical matter is not said to be of different kinds when it exists under different forms. The one exception for both
+
+Aristotle and Aquinas is the matter of terrestrial and celestial bodies.
+
+Basing his inference on the observations available to him, Aristotle holds that the heavenly bodies are eternal— "not subject to increase or diminution, but unaging and unalterable and unmodified." Immutable in every other way, they are, however, subject to local motion.
+
+Since they are eternal, both their matter and their motion must be different from that of
+
+"All things that perishable terrestrial bodies. change have matter," "but Aristotle writes, matter of different sorts; of eternal things those which are not generable but are movable in space have matter—not matter for generation, for motion from one however, but place to another." That motion from place to place is, unlike terrestrial motion, has the circular; it appropriate characteristic of endlessness. Kepler theory of a challenges this radical i. The conception of matter as a principle of change and as one constituent of the being of changing things: the receptacle or substratum form; participation and the receptacle terrestrial and celestial motion mon matter; sensible and intelligible matter
+
+2. The conception of matter as extension, as a bodily substance, or as a mode of substance: atoms and compound bodies
+
+2a. The properties of matter: hypotheses concerning its constitution
+
+2b. The motions of matter or bodies
+
+2c. Matter as the support of sensible qualities
+
+2d. The diremption of body and mind, or matter and spirit
+
+3. The existence of matter
+
+30. Matter as the sole existent: materialism, atomism
+
+3b. Matter as the most imperfect grade of being or reality y. Matter as a fiction of the mind
+
+3^. The relation of God to matter: the creation of matter and its motions
+
+4. Matter as an object or condition of knowledge
+
+40. The knowability of matter: by sense, by reason grades of abstraction in physics, mathematics, and metaphysics
+
+4c. The material conditions of sensation, imagination, and memory acts of the mind
+
+5. Matter in relation to good and evil
+
+6. Criticisms of materialism and its consequences difference between celestial and terrestrial matter or motion, and as the chapter on Astron- omy shows, by so doing he not only gives im- petus to the Copernican system, but also paves the way for Newton to frame laws of motion applicable to matter everywhere the uni- in verse. Because their matter is the same, it is possible, Kepler insists, to explain the motion of bodies by the heavenly the same principles which account the motion of bodies on for earth.
 
 OUTLINE OF TOPICS
 PACE

@@ -2,1010 +2,147 @@ CHAPTER: OPPOSITION
 
 INTRODUCTION
 
-CERTAIN words in the vocabulary of common speech, used at almost every turn of
-discourse, indicate ideas so indispensable to human
-thought
-that
-they
-are
-often employed
-without analysis. The word "is"
-is one of these,
-signifying the idea of being or existence. The
-word "not" and the pair of words "either.
-.
-.
-.
-or" have the same character. Taken together,
-"not" and
-"either.
-.
-. .or" signify the idea of
-opposition. The quality of redness
-is not the
-same as the quality of hotness, yet this negative
-relation by itself does not make them opposite,
-for something can be red-hot. It is only when a
-thing can have either one quality or another, but
-not both, that the qualities are said
-to be opposed.
-Opposites
-are more
-than merely
-distinct; they exclude one another.
-Opposition seems
-to be as pervasive as the
-familiar words which signify
-it. Even if it were
-not
-itself one of the great
-ideas,
-it would be
-manifest
-in
-all
-the other
-basic notions which
-come in antithetical pairs,
-e.g., good and evil,
-life and death, war and peace,
-universal and
-particular,
-pleasure
-and
-pain,
-necessity
-and
-contingency, same and other, one and many,
-virtue and vice. Each of these notions seems to
-imply its opposite and to draw its meaning from
-the opposition. There are other terms in the list
-of great ideas which, though not paired in the
-same chapter, stand opposed
-to one another:
-art to nature, chance to fate, liberty to slavery,
-time to eternity, knowledge to opinion, matter
-to form, democracy to oligarchy and similarly
-other forms of government.
-Still other terms
-cannot be discussed without reference to their
-opposites, even though we have not explicitly
-listed them, such as being and non-being, truth
-and falsity, love and hate, justice and injustice,
-wealth and poverty.
-The enumeration might extend
-to include
-every fundamental notion, except for the
-inconvenience in certain cases of not having readily familiar names to designate the opposites. In
-some instances, moreover, the opposition seems
-to involve more than a pair of terms, as, for example,
-is the case with poetry, history, and science; or physics, mathematics, and metaphysics.
-In the
-tradition of the great books we not
-only
-find
-the
-opposition
-of
-one
-idea
-to
-another,
-but we
-also
-find
-opposite points of
-view, conflicting theories or doctrines,
-in the
-discussion of almost every basic topic under the
-heading of these ideas. We find the same word
-used with contrary meanings, the same proposition affirmed and denied. We find reasoning
-opposed
-to reasoning. The same conclusion
-is
-reached from apparently opposite principles, or
-opposite conclusions are drawn from premises
-apparently the same.
-But though opposition seems to be inherent
-in the realm of ideas and in the life of thought,
-the
-idea of opposition
-is not
-itself explicitly
-thought about in many of the great books. This
-does
-not mean
-that
-in
-the
-consideration
-of
-other matters the significance and consequences
-of opposition go unnoted. On the contrary, all
-the chapters dealing with the nature and conduct of man, or with the institutions and history of society, give evidence of the general
-recognition— by poets and historians, by scientists and philosophers— that opposition in the
-form of active conflict characterizes the phenomena. The fact of warring opposites not only
-enters into descriptions of the way things are,
-but also poses problems for psychologists, moralists, economists, and statesmen to solve.
-The study of nature, as well as of man and
-society,
-discovers
-opposition
-at
-the
-root
-of
-change. The physics of antiquity, for example,
-defines the elements or the bodily humours in
-terms of contrary qualities; according to Aristotle, contraries are among the ultimate prin323
-ciples of nature— the terms of change. The cosmology of Lucretius makes the conflict of opposites the principle of growth and decay
-in
-the universe. Destruction struggles against creativity;
-life against death. "The death-dealing
-motions,"
-the poet
-writes, "cannot keep
-the
-mastery always nor entomb existence for evermore, nor on the other hand can the birth and
-increase-giving motions of things preserve them
-always after they are born. Thus the war of
-first-beginnings waged from eternity
-is carried
-on with dubious issue: now here, now there, the
-life-bringing elements of things get the mastery
-and are overmastered in turn."
-Modern mechanics deals with action and reaction in the impact of bodies and the resolution of forces tending to produce opposite results. The
-theory
-of evolution
-pictures
-the
-world of living organisms
-as engaged
-in
-the
-struggle for survival, organism competing with
-organism or against an adverse environment for
-the means of subsistence or reproduction.
-These indications of the prevalence of conflict in the realm of thought itself, or as a fundamental conception in man's thinking about
-nature and society, do not alter the point that
-only in logic or metaphysics
-is opposition abstracted from
-special subject
-matters,
-to
-become itself the object of thought. Even so, not
-all of the great speculative works develop an
-explicit
-theory
-of opposition— classifying
-its
-types, analyzing its structure, formulating it as
-a universal principle of being, mind, or spirit.
-Four authors especially treat opposition as a
-primary theme, though not out of the context
-of such
-other
-notions
-as being,
-relation, one
-and many, same and
-other,
-or
-identity and
-difference. They are Plato, Aristotle, Kant, and
-Hegel. It should not be surprising that the same
-authors are the principal figures in the chapter
-on Dialectic. Their disagreement about
-the
-nature or meaning of dialectic has a
-parallel
-here in their conflicting theories of opposition.
-Socrates argues,
-in
-the
-Protagoras,
-for the
-unity
-of virtue by
-using
-the
-principle
-that
-"everything
-has one
-opposite and
-not more
-than one." If wisdom
-is the opposite of folly,
-and
-if it also appears that folly
-is opposed by
-temperance, then either wisdom and temperance are the same, or a thing may have more
-than one opposite. Protagoras reluctantly accepts the first alternative; he
-is apparently unwilling to re-open the question concerning the
-pairing of opposites. But
-the question
-is
-reopened by others.
-It
-is one of the great problems
-in
-the theory of opposition,
-relevant
-to
-the distinction of different kinds of opposites.
-The problem can most readily be stated
-in
-terms of the
-logical processes of division and
-definition. On
-the
-hypothesis
-that
-opposites
-always come in pairs, every class can be divided
-into two
-sub-classes which
-not
-only exclude
-each other, but also exhaust the membership of
-the divided class. Such division is called dichotomy. Many of the Platonic dialogues— notably the Sophist and
-the Statesman—exemplify
-the method of dichotomous division, used as a
-device for constructing definitions. The object
-to be defined, the character of the statesman or
-the sophist, is finally caught in the net of classification when,
-division
-after
-division having
-been made, two sub-classes are reached which
-leave no other possibilities open. The thing
-is
-either one or the other.
-In the Sophist a preliminary exercise is undertaken in the method of division as preparation
-for the use of this method to define the sophist.
+CERTAIN words in the vocabulary of common speech, used at almost every turn of discourse, indicate ideas so indispensable to hu- man thought that they are often employed without analysis. The word "is" is one of these, signifying the idea of being or existence. The word "not" and the pair of words "either. . . . or" have the same character. Taken together, "not" and "either. . . .or" signify the idea of opposition. The quality of redness is not the same as the quality of hotness, yet this negative relation by itself does not make them opposite, for something can be red-hot. It is only when a thing can have either one quality or another, but not both, that the qualities are said to be opposed. Opposites are more than merely distinct; they exclude one another.
+
+Opposition seems to be as pervasive as the familiar words which signify it. Even if it were not itself one of the great ideas, it would be manifest in all the other basic notions which come in antithetical pairs, e.g., good and evil, life and death, war and peace, universal and particular, pleasure and pain, necessity and contingency, same and other, one and many, virtue and vice. Each of these notions seems to imply its opposite and to draw its meaning from the opposition. There are other terms in the list of great ideas which, though not paired in the same chapter, stand opposed to one another: art to nature, chance to fate, liberty to slavery, time to eternity, knowledge to opinion, matter to form, democracy to oligarchy and similarly other forms of government. Still other terms cannot be discussed without reference to their opposites, even though we have not explicitly listed them, such as being and non-being, truth and falsity, love and hate, justice and injustice, wealth and poverty.
+
+The enumeration might extend to include every fundamental notion, except for the inconvenience in certain cases of not having readily familiar names to designate the opposites. In some instances, moreover, the opposition seems to involve more than a pair of terms, as, for example, is the case with poetry, history, and science; or physics, mathematics, and metaphysics.
+
+In the tradition of the great books we not only find the opposition of one idea to another, but we also find opposite points of view, conflicting theories or doctrines, in the discussion of almost every basic topic under the heading of these ideas. We find the same word used with contrary meanings, the same proposition affirmed and denied. We find reasoning opposed to reasoning. The same conclusion is reached from apparently opposite principles, or opposite conclusions are drawn from premises apparently the same.
+
+But though opposition seems to be inherent in the realm of ideas and in the life of thought, the idea of opposition is not itself explicitly thought about in many of the great books. This does not mean that in the consideration of other matters the significance and consequences of opposition go unnoted. On the contrary, all the chapters dealing with the nature and conduct of man, or with the institutions and history of society, give evidence of the general recognition— by poets and historians, by scientists and philosophers— that opposition in the form of active conflict characterizes the phe- nomena. The fact of warring opposites not only enters into descriptions of the way things are, but also poses problems for psychologists, moralists, economists, and statesmen to solve.
+
+The study of nature, as well as of man and society, discovers opposition at the root of change. The physics of antiquity, for example, defines the elements or the bodily humours in terms of contrary qualities; according to Aristotle, contraries are among the ultimate principles of nature— the terms of change. The cos- mology of Lucretius makes the conflict of opposites the principle of growth and decay in the universe. Destruction struggles against creativity; life against death. "The death-dealing motions," the poet writes, "cannot keep the mastery always nor entomb existence for evermore, nor on the other hand can the birth and increase-giving motions of things preserve them always after they are born. Thus the war of first-beginnings waged from eternity is carried on with dubious issue: now here, now there, the life-bringing elements of things get the mastery and are overmastered in turn."
+
+Modern mechanics deals with action and reaction in the impact of bodies and the resolution of forces tending to produce opposite results. The theory of evolution pictures the world of living organisms as engaged in the struggle for survival, organism competing with organism or against an adverse environment for the means of subsistence or reproduction.
+
+These indications of the prevalence of conflict in the realm of thought itself, or as a fundamental conception in man's thinking about nature and society, do not alter the point that only in logic or metaphysics is opposition abstracted from special subject matters, to be- come itself the object of thought. Even so, not all of the great speculative works develop an explicit theory of opposition— classifying its types, analyzing its structure, formulating it as a universal principle of being, mind, or spirit.
+
+Four authors especially treat opposition as a primary theme, though not out of the context of such other notions as being, relation, one and many, same and other, or identity and difference. They are Plato, Aristotle, Kant, and
+
+Hegel. It should not be surprising that the same authors are the principal figures in the chapter on Dialectic. Their disagreement about the nature or meaning of dialectic has a parallel here in their conflicting theories of opposition.
+
+Socrates argues, in the Protagoras, for the unity of virtue by using the principle that "everything has one opposite and not more than one." If wisdom is the opposite of folly, and if it also appears that folly is opposed by temperance, then either wisdom and temperance are the same, or a thing may have more than one opposite. Protagoras reluctantly ac- cepts the first alternative; he is apparently unwilling to re-open the question concerning the pairing of opposites. But the question is re- opened by others. It is one of the great prob- lems in the theory of opposition, relevant to the distinction of different kinds of opposites.
+
+The problem can most readily be stated in terms of the logical processes of division and definition. On the hypothesis that opposites always come in pairs, every class can be divided into two sub-classes which not only exclude each other, but also exhaust the membership of the divided class. Such division is called dichot- omy. Many of the Platonic dialogues— notably the Sophist and the Statesman—exemplify the method of dichotomous division, used as a device for constructing definitions. The object to be defined, the character of the statesman or the sophist, is finally caught in the net of classification when, division after division having been made, two sub-classes are reached which leave no other possibilities open. The thing is either one or the other.
+
+In the Sophist a preliminary exercise is undertaken in the method of division as preparation for the use of this method to define the sophist.
+
 It will serve us here as an example of dichotomy.
-All the arts are first divided into two kinds, the
-productive and
-the
-acquisitive;
-then
-the
-acquisitive arts are divided into those making voluntary exchanges and those which obtain goods
-by coercion; the coercive divides into fighting
-and hunting according
-to
-the
-alternatives of
-open or secret attack; hunting into the hunting
-of the lifeless and the living; hunting of the living into hunting of swimming or walking animals; the hunting of swimming animals into the
-hunting of winged animals and the hunting of
-water animals;
-the hunting of water animals
-into opposite methods
-of catching
-fish, with
-further sub-divisions made until the art of angling can be defined as an acquisitive art which,
-being coercive,
-is a form of hunting,
-distinguished from other forms of hunting by the
-character of its object—animals which swim in
-water rather than air—and by the method used
-to
-catch them—hooks
-or
-barbs
-rather
-than
-nets or baskets.
-Aristotle objects to this process of division as
-a way of defining things. "Some writers," he
 
-says, "propose
-to reach the definitions of the
-ultimate forms of animal
-life by bipartite division. But this method is often difficult, and often
-impracticable." For one thing,
-it tends toassociate
-or
-dissociate
-natural groups
-arbitrarily,
-e.g., the classification of birds with water animals, or of some birds with fish and some birds
-with land animals. "If such natural groups are
-not to be broken up, the method of dichotomy
-cannot be employed, for it necessarily involves
-such breaking up and dislocation."
-Aristotle also calls attention to the fact that
-the method of dichotomy often uses negative
-terms in order to make an exhaustive division
-into two and only two sub-classes. But the class
-which
-is formed by a negative characterization
-cannot be further sub-divided. "There can be
-no specific forms of a negation, of featherless
-for instance or of footless, as there are of feathered and of footed."
-It
-is impossible, Aristotle
-says,
-to "get at the ultimate specific forms of
-animal life by bifurcate division." He therefore
-proposes a method of defining by genus and difference, according to which it is possible in biological classification to sub-divide a genus into
-more than two species. To avoid sub-division
-into two and only two, that which differentiates
-each species from the others within
-the same
-genus must be some positive characteristic.
-As alternative methods of definition, dichotomous division and the differentiation of species within a genus are discussed in the chapter
-on Definition. Here we are concerned with
-the problem of the number of opposites produced by the exhaustive division of a class or
-kind. For example, how many species of color
-are there ? If the primary colors are more than
-two,
-it would appear that each primary color
-has more than one opposite, since the same object at the same time and in the same respect
-cannot be both red and yellow, red and green,
-green and yellow. But Aristotle seems to restrict
-the notion of contrariety to pairs of opposite
-qualities. "Red, yellow, and such colors, though
-qualities, have no contraries," he says. Whether
-or not he would have regarded them as contraries if he had been acquainted with the chromatic series of the spectrum, remains a conjecture.
-To find a single opposite for red,
-it
-is necessary to employ the negative term 'not-red.' But
-then another difficulty
-arises which
-Aristotle
-recognizes when he calls the negative term "indefinite" and which Kant
-discusses when he
-treats the infinity of the negative. The not-red
-includes more than other colors which are not
-red, such as green and yellow. It includes everything
-in
-the
-universe,
-colored
-or
-colorless,
-which
-is not red, e.g., happiness or atoms or poetry.
-Perfect dichotomy can be achieved by using
-positive and
-negative
-terms
-as
-opposites,
-or
-what Aristotle sometimes calls "contradictory
-terms"—such as man and not-man or just and
-not-just. But the class which
-is thus divided
-is
-absolutely
-indeterminate.
-It
-is
-the
-universe,
-everything, the infinite. It is necessary, furthermore, to distinguish between the opposition of
-'just' and 'not-just' and the opposition of 'just'
-and 'unjust.' The term 'unjust'
-is the contrary
-rather than the contradictory of 'just,' for these
-opposites apply only to men, or laws, or acts;
-only certain kinds of things are either just or
-unjust, and that
-is why it
-is said that contraries
-are always opposites within a genus or a definite
-kind. In contrast, 'not-just' is the contradictory
-rather than the contrary of 'just,' for these opposites apply
-to everything
-in
-the
-universe;
-everything is either the kind of thing to which
-just and unjust apply or it
-is the kind of thing
-to which neither of these terms apply, and so
-it
-is the not-just.
-In addition to separating contraries (both of
-which are positive terms) from contradictory
-opposites (one of which
-is a positive, the other
-a negative
-term),
-Aristotle
-distinguishes two
-sorts of contraries. On the one hand, such contraries as odd and even exhaustively divide a
-limited
-class
-(e.g.,
-integral numbers): on
-the
-other hand, such contraries as white and black
-represent the extremes of a continuous series of
-shades, in which any degree of grayness can be
-considered as the opposite of either extreme or
-of a darker or a lighter gray.
-There are still other kinds of opposite pairs,
-according to Aristotle, such as the terms 'double' and 'half,' which have the peculiarity of implying each other; or the terms 'blindness' and
-'sight,' which
-are
-opposite conditions of the
-same subject. In this last case, one of the opposites naturally belongs
-to a certain kind of
-thing, and the other represents a
-loss of that
-natural property or trait. It
-is therefore called
-a "privation."
-Considering these various modes of opposition, Aristotle proposes a fourfold classification
-of opposite
-terms:
-correlative
-opposites,
-like
-double and half; contrary opposites, like odd and
-even, white and black, just and unjust; the opposites of possession and privation, such as sight
-and blindness; the opposites of affirmation and
-negation, such as man and not-man, or just and
-not-just. He discusses the special characteristics
-of each type of opposition, but
-it
-is only contrariety which he thinks requires further subdivision.
-Even though both are always positive terms,
-some contraries, like odd and even, exhaust a
-definite class, just as positive and negative opposites exhaust the infinite. They admit of no
-intermediate terms and hence they differ from
-contraries like white and black. White and black
-are extreme limits of a continuous
-series and
-thus permit an indefinite number of intermediates which
-fall between them.
-Things which
-differ only in degree are like the sort of contraries which find
-their place in a continuous
-series. Things which differ in kind are like the
-sort of contraries between which no intermediates are possible.
-One of the great problems of classification,
-especially with respect to living organisms,
-is
-whether the diverse species which
-fall within
-a single genus differ in kind or only in degree.
-The answer would seem to depend on whether
-the several species are
-related by one or the
-other
-sort of contrariety. As
-the chapter on
-Evolution indicates, the basic meaning of the
-word "species" changes when the possibility of
-"intermediate forms"
-is rejected or admitted.
-When a class
-is divided by contraries without
-intermediates,
-the genus can have only two
-species, as for example, the division of animals
-into brutes and men. When a genus
-is divided
-into more than two sub-classes,
-(e.g., the division of vertebrates into fish, amphibians,
-reptiles, birds, and mammals), it would seem to follow that the species are like points in a continuous series and admit the possibility of intermediate types.
-According to Darwin's conception of species,
-their contrariety always tends to take the latter
-form. Aristotle, on the other hand, seems to use
-the word "species" in two distinct senses which
-correspond
-to the two kinds of contrariety—
-with and
-without
-intermediates. "A
-thing's
-difference from
-that from which
-it differs
-in
-species," he writes, "must be
-a contrariety."
-But though contrariety
-is always a "complete
-difference,"
-the
-fact
-that
-"contraries are
-socalled in several senses"
-leads him
-to observe
-that "their modes of completeness will answer
-to the various modes of contrariety which attach to the contraries."
-The logical opposition
-of propositions
-or
-judgments depends in part on the opposition of
-terms or concepts.
-If contrary things are said
-about the same subject of discourse
-(i.e., if the
-same number
-is called odd and even, or the
-same act
-is called cowardly and courageous, or
-the same animal is called a bird and a mammal),
-pairs of contrary statements are made, of which
-both cannot be true. But
-it does not seem to
-follow that one of the two statements must be
-true. Both can be false. In the examples given,
-the number may be a fraction and neither odd
-nor even; the act may be foolhardy and neither
-courageous nor cowardly; the animal may be a
-reptile and neither bird nor mammal.
-This characteristic of contrary statements
-the impossibility of their both being true combined with the possibility of their both being
-false—can also be found, according to Aristotle,
-in propositions which have
-the same subject
-and do not contain contrary terms as predicates. The propositions 'All men are white' and
-'No men are white' cannot both be true, but
-they can both be false. The contrariety of these
-two statements, which can be taken as typifying the opposition of all universal affirmations
-and
-negations, does not depend on contrary
-predicates, but on the opposed meanings of 'all
-are' and 'none
-is.'
-Keeping
-the
-terms
-constant
-and
-varying
-only the quality and quantity of the propositions,
-Aristotle formulates two other
-typical
-modes of opposition between
-pairs of statements. When both statements are particular or
-limited, but one
-is affirmative and the other
-negative, both cannot be false though both can
-be true, e.g., 'Some men are white' and 'Some
-men are not white.' This pair of opposites Aris-
+All the arts are first divided into two kinds, the productive and the acquisitive; then the acquisitive arts are divided into those making voluntary exchanges and those which obtain goods by coercion; the coercive divides into fighting and hunting according to the alternatives of open or secret attack; hunting into the hunting of the lifeless and the living; hunting of the living into hunting of swimming or walking animals; the hunting of swimming animals into the hunting of winged animals and the hunting of water animals; the hunting of water animals into opposite methods of catching fish, with further sub-divisions made until the art of angling can be defined as an acquisitive art which, being coercive, is a form of hunting, distinguished from other forms of hunting by the character of its object—animals which swim in water rather than air—and by the method used to catch them—hooks or barbs rather than nets or baskets.
 
-"sub-contraries." When one
-statement is universal and affirmative and the other
-is particular and negative—or when one
-is universal and negative,
-the other particular and
-affirmative— the two propositions are, accord
-ing to Aristotle, contradictory. Contradiction
-is the most complete type of opposition,
-for
-contradictory statements are opposite
-in both
-quality and quantity. Of a pair of contradictories, both cannot be true and both cannot be
-false. One must be true and
-the other
-false,
-e.g.,
-it must
-be
-true either
-that
-all men
-are
-white or that some men are not white.
-The
-formal scheme of opposite statements,
-traditionally known as "the square of opposition," appears to exhaust all possibilities.
-It indicates, moreover,
-that every statement may
-have two opposites, a contradictory and either
-a contrary or a sub-contrary; for example, 'All
-men are white'
-is contradicted by 'Some men
-are not white' and opposed in a merely contrary
-fashion by 'No men are white.' The latter
-is a
-weaker form of opposition since
-it permits the
-dilemma to be avoided by the truth of a third
-statement, that some men are white and some
-are not. The dilemma set up by a contradiction
-cannot be avoided in this way.
-The propositions 'God exists' and 'God does
-not exist,' or 'The world had a beginning' and
-'The world did not have a beginning,' constitute contradictions from which there seems to
-be no escape.
-It would seem to make a difference, therefore, in facing the great controversies
-in
-the
-tradition of western
-thought,
-to
-know whether the opposite views which men
-have taken on fundamental issues are genuine
-contradictions, requiring everyone to take sides,
-or whether they are merely contrary positions.
-In the latter alternative, the inconsistency of
-the
-theories prevents us from
-agreeing with
-both parties to the dispute, but
-it does not require us to agree with either, for contrary doctrines never exhaust the possibilities. Between
-such extreme
-positions,
-for example,
-as
-that
-everything is in flux and nothing changes, both
-of which cannot be true, the truth may
-lie in
-the doctrine that some elements of permanence
-are involved in all change; or it may be in the
-theory of a realm of becoming that lacks permanence and a realm of being that
-is free from
-change.
-One of the basic controversies in the tradition of the great books concerns opposition itself.
-Is the principle of contradiction the ultimate
-test of the truth of judgments and
-reasoning? Is the truth of indemonstrable propositions or axioms certified by the self-contradiction of their contradictories? For example,
-is
-the
-truth
-of
-the
-proposition
-'The
-whole
-is
-greater than the part' made necessary by the
-impossibility
-of
-the
-contradictory
-statement
-'The whole is not greater than the part,' on the
-theory that this latter statement
-is impossible
-because
-it
-is self-contradictory? And when a
-conclusion
-is
-demonstrated
-by
-propositions
-which seem to be necessarily true, must not the
-contradictory of this conclusion be false—or at
-least be incapable of demonstration by propositions which are also necessarily true?
-On both these questions Kant and Aristotle
-seem to be opposed. According to Aristotle, no
-truths are necessary or axiomatic unless their
-contradictories
-are
-self-contradictory.
-But
-Kant makes
-a distinction between
-analytical
-and synthetical propositions (discussed
-in the
-chapter on Judgment) and in terms of it he restricts the principle of contradiction to serving
-as a criterion of truth for analytical judgments
-alone. "In an analytical judgement," he writes,
-"whether negative or affirmative, its truth can
-always be tested by the principle of contradiction." But though we must admit, Kant continues, that "the principle of contradiction
-is
-the general and altogether sufficient principle
-of
-all
-analytical knowledge,
-beyond
-this
-its
-authority and utility, as a sufficient criterion of
-truth, must not be allowed to extend." In "the
-synthetical part of our knowledge, we must no
-doubt take great care never to offend against
-that inviolable principle, but we ought never
-to expect from
-it any help with regard to the
-truth of this kind of knowledge."
-The reason, Kant explains,
-is that "in forming an analytical judgement
-I remain within a
-given concept, while predicating something of
-it. If what I predicate is affirmative, I only predicate of that concept what is already contained
-in it; if it is negative, I only exclude from it the
-opposite of it." For example, if the meaning of
-the
-concept
-'whole'
-involves
-'being
-greater
-than a part,' self-contradiction results from denying that the whole
-is greater than a part.
-"In forming synthetical judgements, on the
-contrary,
-I have to go beyond a given concept,
-in order to bring something together with
-it,
-which
-is
-totally
-different from what
-is
-contained in
-it.
-Here," Kant declares, "we have
-neither the relation of identity nor of contradiction, and nothing in the judgement itself by
-which we can discover
-its truth or
-its
-falsehood"; for example, the judgment that everything which happens has a cause. The truth of
-such synthetical judgments, according to Kant,
-is as necessary and as a priori as the truth of analytical judgments, but the principle of contradiction does not provide their ground or validation.
-For Aristotle, in contrast, those propositions
-which do not derive necessity from the principle of contradiction belong
-to
-the sphere of
-opinion rather than
-to the domain of knowledge. They can be asserted
-as probable only,
-not as true or false. In the domain of knowledge,
-it
-is impossible to construct valid arguments for contradictory conclusions, for if one
-must be true and the other
-false, one can be
-validly demonstrated and the other cannot be
-demonstrated at all. But in the sphere of opinion, dialectical opposition
-is possible. Because
-the contradictory of
-a
-probable statement
-is
-itself also probable, probable arguments can be
-constructed on the opposite sides of every dialectical issue.
-For Kant dialectical issues do not consist in a
-conflict of opposed probabilities. Far from setting probable reasoning
-against
-probable
-reasoning, dialectical opposition consists in what
-appear
-to be demonstrations of contradictory
-propositions. For example, in that part of the
-Critique of Pure Reason devoted
-to the Transcendental Dialectic, Kant presents opposed arguments which
-look
-like demonstrations of
-contradictory propositions—such as the
-thesis
-that "the world has a beginning in time" and its
-antithesis that "the world has no beginning";
-or the
-thesis that "there
-exists an absolutely
-necessary being" and
-its antithesis that "there
-nowhere exists an absolutely necessary being."
-These are two of the four issues which Kant
-calls the "antinomies of a transcendental dialectic."
-Such issues, Aristotle would agree with Kant,
-do not belong to the sphere of opinion or probability. But Kant would not agree with Aristotle that such issues belong to the domain of
-science or certain knowledge. The problem of
-the world's beginning or eternity, for example,
-is one which Aristotle treats in his Physics and
-appears to think is solved by the demonstration
-that motion can have neither beginning nor
-end. The problem of the existence of a necessary being
-is one which Aristotle treats in his
-Metaphysics and which he also appears to think
-is capable of a demonstrative solution. For him,
-therefore, both are problems to which scientific
-answers can be given. But for Kant the demonstration of the antitheses, or contradictory propositions, in both cases
-is as cogent as the demonstrations of the
-theses; and
-therefore, since
-we know that both of a pair of contradictory
-propositions cannot be validly demonstrated,
-we must conclude that the arguments advanced
-are
-only
-counterfeit
-demonstrations,
-or
-as
-Kant
-says,
-"illusory." He
-calls these demonstrations "dialectical," and
-the issues they attempt
-to
-resolve "antinomies,"
-precisely
-because he thinks the reasoning goes beyond the
-limits
-of
-scientific
-thought
-and
-because
-he
-thinks the
-issues are problems reason cannot
-ever solve.
-With respect to conclusions affirming or denying matters beyond experience, the antinomies can be interpreted either as showing that
-contradictory arguments are equally sound or
-as showing
-that they are equally
-faulty. On
-either interpretation, Kant and Aristotle seem
-to be opposed on the applicability of the principle of contradiction to conflicting arguments
-and conclusions (except, of course, those which
-are merely probable).
-This difference between
-them accords with the difference in their conceptions of science and dialectic, and
-in their
-theories of the scope and conditions of valid
-knowledge.
-The opposition between Kant and Aristotle
-may not present the only alternatives. Hegel's
-theory of the dialectical process seems to offer a
-third. Where Aristotle appears to think that all
-contradictions must be resolved in favor of one
-of the opposites, and where Kant appears to
-think that some contradictions cannot be
-resolved at
-all, Hegel proposes the resolution of
-all
-contradictions,
-not by
-a
-choice between
+Aristotle objects to this process of division as a way of defining things. "Some writers," he says, "propose to reach the definitions of the ultimate forms of animal life by bipartite division. But this method is often difficult, and often impracticable." For one thing, it tends toassociate or dissociate natural groups arbitrarily, e.g., the classification of birds with water animals, or of some birds with fish and some birds with land animals. "If such natural groups are not to be broken up, the method of dichotomy cannot be employed, for it necessarily involves such breaking up and dislocation."
 
-them, but by a synthesis uniting the opposites
-and reconciling their differences.
-According to Aristotle, opposites exclude one
-another in existence as well as
-in though^—Athing cannot both exist and not exist at the same
-time; nor in any particular respect can it simultaneously both be and not be of a certain sort.
-Only with the passage of time and in the course
-of change can opposites be
-realized, when
-a
-thing passes from being to non-being, or gives
-up one attribute in order to assume its contrary.
-The difference for Aristotle between becoming and being (or between change and complete
-actuality) seems to be that the one includes and
-the other excludes opposites. Change cannot
-occur except as one opposite comes into existence while the other passes away. But opposites cannot co-exist with complete actuality.
-So far as reality consists of co-existent actualities,
-it
-is limited by the principle of contradiction—as a principle of being— to those which
-are not contradictory. All possibilities cannot,
-therefore,
-be
-simultaneously
-realized,
-for,
-as
-Leibnitz states the principle, all possibilities are
-not "compossible."
-According to Hegel, every finite phase of reality—everything except the Absolute Idea
-itself—has
-its contradictory, as real as
-itself, and
-co-existent with
-it. Contradictories imply one
-another and require each other, almost as correlative opposites do. Whatever
-is partial and
-incomplete presupposes something which
-is partial and incomplete in an opposite respect. The
-opposition between them can therefore be overcome by a synthesis which includes them both,
-and which complements each by uniting it with
-the other.
-For example, the category of being is opposed
-by
-non-being. These
-opposites both exclude
-and imply one another. They are in a sense even
-identical with one another, insofar as the notion
-of being contains the notion of non-being, and,
-conversely, the notion of non-being, the notion
-of being. Except for the Absolute, everything
-which is also is not, and everything which is not
-also is. The apparent contradiction involved in
-this simultaneous application of opposite categories to the same thing is overcome by a third
-category, becoming, which
-is the synthesis of
-being and non-being. Being and non-being are
-united in becoming.
-This reconciling of opposites, by their union
-in a more inclusive whole embracing both, typifies the Hegelian dialectic of thesis, antithesis,
-and synthesis. The motion repeats itself as the
-synthesis of one contradiction faces its own opposite and requires a higher synthesis to overcome the contradiction
-it has generated. Thus
-every opposition in reality or thought is a phase
-in the progressive realization of the Absolute,
-wherein all contradictions are resolved.
-In Hegel's Philosophy of History and
-in
-his
-theory of the development of the state in the
-Philosophy of Right, the dialectical process is exemplified at every stage of progress. The conflict of interdependent opposites—of opposite
-classes or forces in society, of opposite political
-institutions or principles— calls for a resolution
-which
-shall unite rather than exclude the opposites.
-Considering the division of labor, for example, Hegel writes: "When men are dependent
-on one another and reciprocally related in their
-work and the satisfaction of their needs, subjective
-self-seeking
-turns into
-a contribution
-to
-the satisfaction of the needs of everyone
-else.
-That
-is
-to say, by a dialectical advance, subjective
-self-seeking
-turns
-into
-the
-mediation
-of the
-particular through
-the
-universal, with
-the
-result
-that each man
-in earning, producing, and enjoying on his own account
-is eo ipso
-producing and earning
-for
-the enjoyment of
-everyone
-else." The
-opposition
-between
-the
-particular good of each individual and the universal good of all
-is thus overcome by that advance in social organization which
-is the division of labor.
-Each of the stages of world history is, according to Hegel, "the presence of a necessary moment in the Idea of the world mind." But the
-world mind
-itself is a synthesis, a resolution of
-the
-conflicting
-opposites—of the
-various
-national minds "which are wholly
-restricted on
-account of their particularity. Their deeds and
-destinies
-in
-their
-reciprocal
-relations
-to
-one
-another are the dialectic of the finitude of these
-minds, and out of it arises the universal mind,
-the mind of the world, free from all restrictions,
-producing itself as that which exercises its right
-—and its right
-is the highest right of all—over
-these finite minds in the 'history of the world
-which
-is the world's court of judgment.' "
+Aristotle also calls attention to the fact that the method of dichotomy often uses negative terms in order to make an exhaustive division into two and only two sub-classes. But the class which is formed by a negative characterization cannot be further sub-divided. "There can be no specific forms of a negation, of featherless for instance or of footless, as there are of feathered and of footed." It is impossible, Aristotle says, to "get at the ultimate specific forms of animal life by bifurcate division." He therefore proposes a method of defining by genus and difference, according to which it is possible in biological classification to sub-divide a genus into more than two species. To avoid sub-division into two and only two, that which differentiates each species from the others within the same genus must be some positive characteristic.
+
+As alternative methods of definition, dichot- omous division and the differentiation of species within a genus are discussed in the chapter on Definition. Here we are concerned with the problem of the number of opposites produced by the exhaustive division of a class or kind. For example, how many species of color are there ? If the primary colors are more than two, it would appear that each primary color has more than one opposite, since the same object at the same time and in the same respect cannot be both red and yellow, red and green, green and yellow. But Aristotle seems to restrict the notion of contrariety to pairs of opposite qualities. "Red, yellow, and such colors, though qualities, have no contraries," he says. Whether or not he would have regarded them as contraries if he had been acquainted with the chromatic series of the spectrum, remains a conjecture.
+
+To find a single opposite for red, it is necessary to employ the negative term 'not-red.' But then another difficulty arises which Aristotle recognizes when he calls the negative term "indefinite" and which Kant discusses when he treats the infinity of the negative. The not-red includes more than other colors which are not red, such as green and yellow. It includes everything in the universe, colored or colorless, which is not red, e.g., happiness or atoms or poetry.
+
+Perfect dichotomy can be achieved by using positive and negative terms as opposites, or what Aristotle sometimes calls "contradictory terms"—such as man and not-man or just and not-just. But the class which is thus divided is absolutely indeterminate. It is the universe, everything, the infinite. It is necessary, furthermore, to distinguish between the opposition of 'just' and 'not-just' and the opposition of 'just' and 'unjust.' The term 'unjust' is the contrary rather than the contradictory of 'just,' for these opposites apply only to men, or laws, or acts; only certain kinds of things are either just or unjust, and that is why it is said that contraries are always opposites within a genus or a definite kind. In contrast, 'not-just' is the contradictory rather than the contrary of 'just,' for these opposites apply to everything in the universe; everything is either the kind of thing to which just and unjust apply or it is the kind of thing to which neither of these terms apply, and so it is the not-just.
+
+In addition to separating contraries (both of which are positive terms) from contradictory opposites (one of which is a positive, the other a negative term), Aristotle distinguishes two sorts of contraries. On the one hand, such contraries as odd and even exhaustively divide a limited class (e.g., integral numbers): on the other hand, such contraries as white and black represent the extremes of a continuous series of shades, in which any degree of grayness can be considered as the opposite of either extreme or of a darker or a lighter gray.
+
+There are still other kinds of opposite pairs, according to Aristotle, such as the terms 'double' and 'half,' which have the peculiarity of implying each other; or the terms 'blindness' and 'sight,' which are opposite conditions of the same subject. In this last case, one of the opposites naturally belongs to a certain kind of thing, and the other represents a loss of that natural property or trait. It is therefore called a "privation."
+
+Considering these various modes of opposition, Aristotle proposes a fourfold classification of opposite terms: correlative opposites, like double and half; contrary opposites, like odd and even, white and black, just and unjust; the opposites of possession and privation, such as sight and blindness; the opposites of affirmation and negation, such as man and not-man, or just and not-just. He discusses the special characteristics of each type of opposition, but it is only contrariety which he thinks requires further subdivision.
+
+Even though both are always positive terms, some contraries, like odd and even, exhaust a definite class, just as positive and negative opposites exhaust the infinite. They admit of no intermediate terms and hence they differ from contraries like white and black. White and black are extreme limits of a continuous series and thus permit an indefinite number of intermediates which fall between them. Things which differ only in degree are like the sort of contraries which find their place in a continuous series. Things which differ in kind are like the sort of contraries between which no intermediates are possible.
+
+One of the great problems of classification, especially with respect to living organisms, is whether the diverse species which fall within a single genus differ in kind or only in degree. The answer would seem to depend on whether the several species are related by one or the other sort of contrariety. As the chapter on Evolution indicates, the basic meaning of the word "species" changes when the possibility of "intermediate forms" is rejected or admitted. When a class is divided by contraries without intermediates, the genus can have only two species, as for example, the division of animals into brutes and men. When a genus is divided into more than two sub-classes, (e.g., the division of vertebrates into fish, amphibians, reptiles, birds, and mammals), it would seem to follow that the species are like points in a continuous series and admit the possibility of intermediate types.
+
+According to Darwin's conception of species, their contrariety always tends to take the latter form. Aristotle, on the other hand, seems to use the word "species" in two distinct senses which correspond to the two kinds of contrariety— with and without intermediates. "A thing's difference from that from which it differs in species," he writes, "must be a contrariety." But though contrariety is always a "complete difference," the fact that "contraries are socalled in several senses" leads him to observe that "their modes of completeness will answer to the various modes of contrariety which attach to the contraries."
+
+The logical opposition of propositions or judgments depends in part on the opposition of terms or concepts. If contrary things are said about the same subject of discourse (i.e., if the same number is called odd and even, or the same act is called cowardly and courageous, or the same animal is called a bird and a mammal), pairs of contrary statements are made, of which both cannot be true. But it does not seem to follow that one of the two statements must be true. Both can be false. In the examples given, the number may be a fraction and neither odd nor even; the act may be foolhardy and neither courageous nor cowardly; the animal may be a reptile and neither bird nor mammal.
+
+This characteristic of contrary statements the impossibility of their both being true combined with the possibility of their both being false—can also be found, according to Aristotle, in propositions which have the same subject and do not contain contrary terms as predicates. The propositions 'All men are white' and 'No men are white' cannot both be true, but they can both be false. The contrariety of these two statements, which can be taken as typifying the opposition of all universal affirmations and negations, does not depend on contrary predicates, but on the opposed meanings of 'all are' and 'none is.' Keeping the terms constant and varying only the quality and quantity of the propositions, Aristotle formulates two other typical modes of opposition between pairs of statements. When both statements are particular or limited, but one is affirmative and the other negative, both cannot be false though both can be true, e.g., 'Some men are white' and 'Some men are not white.' This pair of opposites Aristotle calls "sub-contraries." When one statement is universal and affirmative and the other is particular and negative—or when one is universal and negative, the other particular and affirmative— the two propositions are, accord ing to Aristotle, contradictory. Contradiction is the most complete type of opposition, for contradictory statements are opposite in both quality and quantity. Of a pair of contradictories, both cannot be true and both cannot be false. One must be true and the other false, e.g., it must be true either that all men are white or that some men are not white.
+
+The formal scheme of opposite statements, traditionally known as "the square of opposition," appears to exhaust all possibilities. It indicates, moreover, that every statement may have two opposites, a contradictory and either a contrary or a sub-contrary; for example, 'All men are white' is contradicted by 'Some men are not white' and opposed in a merely contrary fashion by 'No men are white.' The latter is a weaker form of opposition since it permits the dilemma to be avoided by the truth of a third statement, that some men are white and some are not. The dilemma set up by a contradiction cannot be avoided in this way.
+
+The propositions 'God exists' and 'God does not exist,' or 'The world had a beginning' and
+
+'The world did not have a beginning,' constitute contradictions from which there seems to be no escape. It would seem to make a difference, therefore, in facing the great controversies in the tradition of western thought, to know whether the opposite views which men have taken on fundamental issues are genuine contradictions, requiring everyone to take sides, or whether they are merely contrary positions.
+
+In the latter alternative, the inconsistency of the theories prevents us from agreeing with both parties to the dispute, but it does not require us to agree with either, for contrary doctrines never exhaust the possibilities. Between such extreme positions, for example, as that everything is in flux and nothing changes, both of which cannot be true, the truth may lie in the doctrine that some elements of permanence are involved in all change; or it may be in the theory of a realm of becoming that lacks per- manence and a realm of being that is free from change.
+
+One of the basic controversies in the tradition of the great books concerns opposition itself. Is the principle of contradiction the ulti- mate test of the truth of judgments and reasoning? Is the truth of indemonstrable propositions or axioms certified by the self-contradiction of their contradictories? For example, is the truth of the proposition 'The whole is greater than the part' made necessary by the impossibility of the contradictory statement
+
+'The whole is not greater than the part,' on the theory that this latter statement is impossible because it is self-contradictory? And when a conclusion is demonstrated by propositions which seem to be necessarily true, must not the contradictory of this conclusion be false—or at least be incapable of demonstration by propositions which are also necessarily true?
+
+On both these questions Kant and Aristotle seem to be opposed. According to Aristotle, no truths are necessary or axiomatic unless their contradictories are self-contradictory. But Kant makes a distinction between analytical and synthetical propositions (discussed in the chapter on Judgment) and in terms of it he restricts the principle of contradiction to serving as a criterion of truth for analytical judgments alone. "In an analytical judgement," he writes, "whether negative or affirmative, its truth can always be tested by the principle of contradiction." But though we must admit, Kant continues, that "the principle of contradiction is the general and altogether sufficient principle of all analytical knowledge, beyond this its authority and utility, as a sufficient criterion of truth, must not be allowed to extend." In "the synthetical part of our knowledge, we must no doubt take great care never to offend against that inviolable principle, but we ought never to expect from it any help with regard to the truth of this kind of knowledge."
+
+The reason, Kant explains, is that "in forming an analytical judgement I remain within a given concept, while predicating something of it. If what I predicate is affirmative, I only predicate of that concept what is already contained in it; if it is negative, I only exclude from it the opposite of it." For example, if the meaning of the concept 'whole' involves 'being greater than a part,' self-contradiction results from de- nying that the whole is greater than a part.
+
+"In forming synthetical judgements, on the contrary, I have to go beyond a given concept, in order to bring something together with it, which is totally different from what is contained in it. Here," Kant declares, "we have neither the relation of identity nor of contradiction, and nothing in the judgement itself by which we can discover its truth or its falsehood"; for example, the judgment that everything which happens has a cause. The truth of such synthetical judgments, according to Kant, is as necessary and as a priori as the truth of analytical judgments, but the principle of contradiction does not provide their ground or validation.
+
+For Aristotle, in contrast, those propositions which do not derive necessity from the principle of contradiction belong to the sphere of opinion rather than to the domain of knowledge. They can be asserted as probable only, not as true or false. In the domain of knowledge, it is impossible to construct valid argu- ments for contradictory conclusions, for if one must be true and the other false, one can be validly demonstrated and the other cannot be demonstrated at all. But in the sphere of opinion, dialectical opposition is possible. Because the contradictory of a probable statement is itself also probable, probable arguments can be constructed on the opposite sides of every dialectical issue.
+
+For Kant dialectical issues do not consist in a conflict of opposed probabilities. Far from setting probable reasoning against probable reasoning, dialectical opposition consists in what appear to be demonstrations of contradictory propositions. For example, in that part of the
+
+Critique of Pure Reason devoted to the Transcendental Dialectic, Kant presents opposed ar- guments which look like demonstrations of contradictory propositions—such as the thesis that "the world has a beginning in time" and its antithesis that "the world has no beginning"; or the thesis that "there exists an absolutely necessary being" and its antithesis that "there nowhere exists an absolutely necessary being."
+
+These are two of the four issues which Kant calls the "antinomies of a transcendental dialectic."
+
+Such issues, Aristotle would agree with Kant, do not belong to the sphere of opinion or probability. But Kant would not agree with Aristotle that such issues belong to the domain of science or certain knowledge. The problem of the world's beginning or eternity, for example, is one which Aristotle treats in his Physics and appears to think is solved by the demonstration that motion can have neither beginning nor end. The problem of the existence of a necessary being is one which Aristotle treats in his
+
+Metaphysics and which he also appears to think is capable of a demonstrative solution. For him, therefore, both are problems to which scientific answers can be given. But for Kant the demonstration of the antitheses, or contradictory propositions, in both cases is as cogent as the demonstrations of the theses; and therefore, since we know that both of a pair of contradictory propositions cannot be validly demonstrated, we must conclude that the arguments advanced are only counterfeit demonstrations, or as Kant says, "illusory." He calls these demonstrations "dialectical," and the issues they at- tempt to resolve "antinomies," precisely because he thinks the reasoning goes beyond the limits of scientific thought and because he thinks the issues are problems reason cannot ever solve.
+
+With respect to conclusions affirming or denying matters beyond experience, the antinomies can be interpreted either as showing that contradictory arguments are equally sound or as showing that they are equally faulty. On either interpretation, Kant and Aristotle seem to be opposed on the applicability of the principle of contradiction to conflicting arguments and conclusions (except, of course, those which are merely probable). This difference between them accords with the difference in their conceptions of science and dialectic, and in their theories of the scope and conditions of valid knowledge.
+
+The opposition between Kant and Aristotle may not present the only alternatives. Hegel's theory of the dialectical process seems to offer a third. Where Aristotle appears to think that all contradictions must be resolved in favor of one of the opposites, and where Kant appears to think that some contradictions cannot be resolved at all, Hegel proposes the resolution of all contradictions, not by a choice between them, but by a synthesis uniting the opposites and reconciling their differences.
+
+According to Aristotle, opposites exclude one another in existence as well as in though^—Athing cannot both exist and not exist at the same time; nor in any particular respect can it simultaneously both be and not be of a certain sort. Only with the passage of time and in the course of change can opposites be realized, when a thing passes from being to non-being, or gives up one attribute in order to assume its contrary.
+
+The difference for Aristotle between becoming and being (or between change and complete actuality) seems to be that the one includes and the other excludes opposites. Change cannot occur except as one opposite comes into existence while the other passes away. But opposites cannot co-exist with complete actuality. So far as reality consists of co-existent actualities, it is limited by the principle of contradiction—as a principle of being— to those which are not contradictory. All possibilities cannot, therefore, be simultaneously realized, for, as Leibnitz states the principle, all possibilities are not "compossible."
+
+According to Hegel, every finite phase of reality—everything except the Absolute Idea itself—has its contradictory, as real as itself, and co-existent with it. Contradictories imply one another and require each other, almost as correlative opposites do. Whatever is partial and incomplete presupposes something which is partial and incomplete in an opposite respect. The opposition between them can therefore be over- come by a synthesis which includes them both, and which complements each by uniting it with the other. For example, the category of being is opposed by non-being. These opposites both exclude and imply one another. They are in a sense even identical with one another, insofar as the notion of being contains the notion of non-being, and, conversely, the notion of non-being, the notion of being. Except for the Absolute, everything which is also is not, and everything which is not also is. The apparent contradiction involved in this simultaneous application of opposite categories to the same thing is overcome by a third category, becoming, which is the synthesis of being and non-being. Being and non-being are united in becoming.
+
+This reconciling of opposites, by their union in a more inclusive whole embracing both, typifies the Hegelian dialectic of thesis, antithesis, and synthesis. The motion repeats itself as the synthesis of one contradiction faces its own opposite and requires a higher synthesis to over- come the contradiction it has generated. Thus every opposition in reality or thought is a phase in the progressive realization of the Absolute, wherein all contradictions are resolved.
+
+In Hegel's Philosophy of History and in his theory of the development of the state in the
+
+Philosophy of Right, the dialectical process is exemplified at every stage of progress. The conflict of interdependent opposites—of opposite classes or forces in society, of opposite political institutions or principles— calls for a resolution which shall unite rather than exclude the opposites.
+
+Considering the division of labor, for example, Hegel writes: "When men are dependent on one another and reciprocally related in their work and the satisfaction of their needs, subjective self-seeking turns into a contribution to the satisfaction of the needs of everyone else. That is to say, by a dialectical advance, subjective self-seeking turns into the mediation of the particular through the universal, with the result that each man in earning, producing, and enjoying on his own account is eo ipso producing and earning for the enjoyment of everyone else." The opposition between the particular good of each individual and the universal good of all is thus overcome by that advance in social organization which is the division of labor.
+
+Each of the stages of world history is, according to Hegel, "the presence of a necessary mo- ment in the Idea of the world mind." But the world mind itself is a synthesis, a resolution of the conflicting opposites—of the various national minds "which are wholly restricted on account of their particularity. Their deeds and destinies in their reciprocal relations to one another are the dialectic of the finitude of these minds, and out of it arises the universal mind, the mind of the world, free from all restrictions, producing itself as that which exercises its right —and its right is the highest right of all—over these finite minds in the 'history of the world which is the world's court of judgment.' "
+
+1, Opposition in logic with and without intermediates between extremes ic. The exclusiveness of opposites as a principle of logical division
+
+(1) Dichotomous division: positive and negative terms
+
+(2) Division of a genus by differentia: the contrariety of species id. The opposition of propositions or judgments
+
+(2) Modal opposition: the necessary and the contingent ie. Opposition in reasoning and proof: antinomies of a transcendental dialectic
+
+2. The metaphysical significance of opposition ia. Opposition as limiting coexistence: noncontradiction lectical triad of thesis, antithesis, and synthesis ic. Nonbeing as the opposite of being id. The opposition of good and evil in the world and in relation to God traries in the Absolute
+
+3. Opposition in the realm of physical nature
+
+3#. The contraries as principles of change ijb. Contrariety of quality in the theory of the elements or humours y. The opposition of motion and rest, and of contrary motions
+
+3d. The opposition of physical forces and y. The struggle for existence: the competition of species
+
+4. Opposition or conflict in the psychological and moral order
+
+40. The conflict of reason and the passions
+
+4^. Conflicting emotions, humours, instincts, or habits
+
+4<r. Conflict as the cause of repression and as a factor in neurotic disorders
+
+4^. The conflict of loves and loyalties, desires and duties
+
+\e. Conflict in human life: opposed types of men and modes of life
+
+5. Conflict in society and history
+
+5#. Competition in commerce and the rivalry of factions in politics ertyless, capital and labor, producers and consumers
+
+<yC. The inevitability of civil strife and war between states
+
+$d. Opposition or strife as a productive principle or source of progress
 
 OUTLINE OF TOPICS
 PAGB

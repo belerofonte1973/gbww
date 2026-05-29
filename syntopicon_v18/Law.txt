@@ -2,1119 +2,163 @@ CHAPTER: LAW
 
 INTRODUCTION
 
-THE notion of law
-is associated with a diversity of subject matters, and
-its meaning undergoes many variations as the discussion
-shifts from one context to another. The most
-radical difference separates the way in which
-natural scientists use the term law from the way
-in which it is used in the arts and in morals or
-politics.
-We ordinarily think of law as a rule—a command or a prohibition—which should be obeyed
-and can be disobeyed. Both
-alternatives are
-usually present. Though the duty or obligation
-which a law creates
-is one of obedience, there
-would be no moral significance to discharging
-this duty if the law could not be violated. But
-the laws of nature which the scientist
-tries to
-discover do not have this characteristic. They
-are inviolable. The so-called law of gravitation,
-for example, or Newton's three laws of motion,
-cannot be disobeyed.
-Scientists may disagree
-about the truth of any formulation of a natural
-law, but
-if the formulation
-is valid, then the
-general rule of behavior
-is supposed to obtain
-without exception; and if exceptions are found,
-they are not interpreted as instances of disobedience, but rather as cases to which the law does
-not apply.
-The rules of an art may be violated, either
-unwittingly
-or
-intentionally.
-For
-example,
-grammatical errors can be made by those ignorant of the rules or by those who wish to disregard them. The so-called "law of contradiction"
-in the art of logic seems to be like the rules of
-grammar or of any other art. Men certainly
-contradict themselves in spite of the rule which
-places the penalty of error on those who make
-contradictory statements.
-But according to another conception of the
-law of contradiction, which belongs to the science of metaphysics rather than to the art of
-logic, nothing can both be and not be at the
-same time in the same respect. This law of being, like the laws of motion,
-is regarded as inviolable by those who think it true. In this it
-has the aspect of a scientific or natural law. The
-law of contradiction,
-conceived
-as
-a
-rule of
-logic, may also be natural in the sense of not
-being man-made. In the opinion of certain philosophers, man does not invent either the metaphysical rule which all existences must observe
-or
-the
-logical
-rule which
-the human mind
-should always obey. He discovers both.
-There still remains that other class of rules to
-which the word "law"
-is most commonly applied. These are rules of moral action or social
-conduct which, like rules of art, are essentially
-violable. "Laws, in their most general signification," Montesquieu writes, "are the necessary
-relations arising from the nature of things. In
-this sense
-all beings have their laws." But he
-points out that law operates differently in the
-realm of physical nature and in the realm of intelligent beings like man. The latter, he says,
-"does not conform to [its laws] so exactly as the
-physical world. This is because, on the one hand,
-particular intelligent beings are of a finite nature, and consequently liable to error; and on
-the other, their nature requires them to be free
-agents." Hence, even the laws "of their own instituting, they frequently infringe."
-The profound division between laws ofnature
-and laws of human conduct thus seems to involve two points: (i) the former may apply to
-all things, the latter are addressed to man alone;
-(2) the former, being inviolable, state the necessities of behavior,
-the
-latter,
-precisely
-because they are violable, imply freedom in those
-to whom they are addressed.
-These two kinds of law have
-this much in
-common. Both the laws of nature discovered by
-the scientist and the rules of conduct instituted
-by the legislator are general rather than particu962
+THE notion of law is associated with a diversity of subject matters, and its meaning undergoes many variations as the discussion shifts from one context to another. The most radical difference separates the way in which natural scientists use the term law from the way in which it is used in the arts and in morals or politics.
 
-lar. Their generality has been made, in the tradition of jurisprudence, the basis for differentiating rules of law from particular decisions or
-decrees. On theological grounds, however, the
-I two kinds of law can be said to have a more significant characteristic in common.
-Aquinas conceives the laws of nature which
-the scientist discovers as laws implanted in the
-very nature of things at their creation by God.
-The laws which God implants in human nature
-do not differ in their eternal origin in the divine
-intellect and
-will, or in their manifestation of
-the divine government of the world. They differ only in that it is part of man's nature to be
-free and therefore able to disobey even the rules
-of his own nature. Thus both sorts of law are
-directions of behavior. Only if the laws which
-science discovers are not attributed
-to God,
-will they seem to be merely descriptive rather
-than prescriptive.
-In
-this chapter we
-shall be primarily concerned with law as a direction of human conduct or, as Kant would say, law in the sphere of
-freedom. But within the one meaning of law
-I w hich concerns us here, there are still many important distinctions of type. The division of law
-into divine and human, natural and positive,
-private and
-public,
-moral and
-political— to
-name only some of the traditional distinctions
-—determines the outlines of the diverse philosophies of law which the great books contain, and
-I underlies the great issues concerning the origin,
-j the properties, and the authority of law.
-I Different writers use different criteria to set
-, up their classification of the kinds of law. It
-is
-'; nevertheless possible to perceive certain paral-
-•
-lels in analysis and classification. The opposite
-' of natural law is sometimes called "human law,"
-i "positive
-law,"
-or "written law," sometimes
-"civil law" or "municipal law." Sometimes, as
-with Kant, for whom the analysis of law derives
-from an analysis of rights, the differentiation be-
-' tween natural and positive right is also expressed
-in terms of innate and acquired
-right, public
-and private right.
-Thus,
-for Kant,
-"natural
-right
-rests upon
-pure rational principles a priori', positive or statutory right is what proceeds from the will of a
-legislator.
-.
-.
-. Innate right
-is that right which
-belongs to everyone by nature, independent of
-all juridical acts of experience. Acquired right
-is that right which
-is founded upon such juridical acts." From natural or innate right develops
-"the system of those laws which require no external promulgation" and which therefore belong to the sphere of private right. Positive or
-civil rights are the acquired rights of men living
-in a state of civil society under "the system of
-those laws which require public promulgation"
-and which
-therefore belong
-to the sphere of
-public right. The source of differentiation here
-seems threefold: whether the right
-is inherent
-in human nature or acquired from the state;
-whether men are viewed as living in a state of
-nature or as living in a civil society; whether
-the laws do or do not need to be publicly promulgated.
-The distinction between the state of nature
-and the state of civil society
-is used by many
-other writers in differentiating between natural
-and positive (or civil) law, e.g., by Hobbes, Spinoza,
-Locke,
-Montesquieu,
-Rousseau. They
-also recognize that the law which governs men
-Hving in a state of nature is natural in the sense
-of being instinctive, or a rule of conduct which
-man's reason is innately competent to prescribe;
-whereas
-the
-civil law originates with
-specific
-acts of legislation by a political power, vested in
-a sovereign person, in a representative assembly,
-or in the whole body of the people.
-Dividing
-all laws into two kinds— "laws of
-nature and
-laws
-of the
-land"—Hegel
-holds
-that "the laws of nature are simply what they
-are and
-are
-valid
-as they
-are."
-In
-contrast,
-positive law is "valid in a particular state, and
-this legal authority
-is the guiding principle for
-the knowledge of right in
-this positive form,
-i.e., for the science of positive law." Our manner of knowing
-their content
-further distinguishes between
-these two kinds of law. "To
-know the law of nature," Hegel explains, "we
-must learn to know nature, since
-its laws are
-rigid, and
-it
-is only our ideas about them that
-can be false.
-.
-.
-. Knowledge of the laws of the
-land
-is in one way similar, but in another way
-not. These laws too we learn to know just as
-they exist
-.
-.
-. But the difference in the case of
-laws of the land
-is that they arouse the spirit
-of reflection, and their diversity at once draws
-attention
-to the
-fact that they are not absolute."
-This leads us to the heart of the distinction.
-The law of the land, or civil law,
-is "something
-posited, something originated by men."
-It
-is
-positive law in the sense that it must be posited
-(i.e., officially instituted) in order to exist. The
-civil law
-is not something discovered by examining man's nature.
-It
-is made, and must be
-externally promulgated so that those who are
-subject to
-it can learn
-its provisions.
-Anyone
-who will inquire can learn the natural law for
-himself; or he can be helped to discover it by
-a teacher who instructs him in
-this matter as
-he would instruct him in geometry, not
-as a
-lawyer informs clients concerning the prevailing laws of the state.
-Aquinas both subtracts from and adds to this
-analysis of the difference between natural and
-positive law. On the one hand, he does not appeal to the condition of man in a state of nature
-as contrasted with
-civil society. On the
-other hand, he
-finds the chief difference
-between the natural and the positive law in their
-originating sources. The one
-is made by God,
-the other by man. "The natural law," Aquinas
-writes, "is nothing else than the rational creature's participation in the eternal law."
-It
-is
-God's eternal law with respect to man as that is
-received and exists in human nature. It exists in
-man as the first principle of his practical reason
-and includes all the precepts which can be discovered by reasoning therefrom.
-Hence, for Aquinas as for Locke, the law of
-nature is not only the law of reason but the law
-of nature's God. But Aquinas distinguishes between the law of nature generally, or the eternal law, and the natural law in man. The latter
-is a moral law, both in the sense that it is a law
-governing free acts, and also in the sense that it
-directs man with regard to good and evil in the
-sphere of his private life, not merely with
-regard to the political common good.
-Natural and positive law are aUke in the very
-respects in which they differ. Both share in the
-nature of law which, according to Aquinas, "is
-nothing else than an ordinance of reason for the
-common good, made by him who has care of
-the community, and promulgated." Each has a
-maker, God or man; each proceeds in a certain
-way from the reason and will of its maker; each
-must be promulgated, though not in the same
-manner; and each is concerned with a common
-good—human happiness or the welfare of the
-state.
-The further additions which Aquinas makes
-consist of distinctions with
-respect
-to divine
-and human law. With respect to the divine law
-he
-distinguishes between God's eternal ordinances and His positive commandments. The
-eternal part of the divine law, as we have seen,
-is that which, at the moment of creation, "God
-imprints on the whole of nature" to instill in
-each created species "the principles of its proper
-actions."
-"If man were ordained
-to no other
-end than that which is proportionate to his natural faculties," Aquinas writes, "there would be
-no need for man to have any further direction
-.
-.
-. besides the natural law and the human law
-which is derived from it." But "man is ordained
-to the end of eternal happiness"; and since salvation
-is
-a
-supernatural end which
-exceeds
-^
-man's power to achieve without God's help, "it
-was necessary that
-.
-.
-. man should be directed
-to this end by a law given by God."
-God gave such a body of lav/ to man, not at
-creation, but at a certain moment in history. He
-did not implant it in his nature but promulgated
-it, in the manner appropriate to positive law,
-through
-verbal declaration— through His
-revealed word in the Old and
-the New Testaments,
-e.g., the Ten Commandments and the
-two precepts of charity.
-The human law Aquinas divides "into the
-law ofnations [or the ins gentium] and civil law.''
-The
-civil law
-is that which
-is instituted by a
-community for its own members. With regard
-to the ills gentium Aquinas follows the tradition
-of the Roman jurists. What he has in mind in
-using this term should, therefore, not be confused with what later writers, such as Grotius,
-treat as the ius inter gentes or international law.
-Yet applicable to both the law of nations and
-international law
-is the question whether such
-law belongs more properly to the sphere of natural or to the sphere of positive law.
-International law concerns the relations between autonomous states which, as Hegel points
-out, are "in a state of nature in relation to one
-another," since "the
-sovereignty of a state
-is
-the principle of its relations to others." Laws
-cannot be appfied to sovereign states with the
-coercive force of positive law. "It follows," says
+We ordinarily think of law as a rule—a com- mand or a prohibition—which should be obeyed and can be disobeyed. Both alternatives are usually present. Though the duty or obligation which a law creates is one of obedience, there would be no moral significance to discharging this duty if the law could not be violated. But the laws of nature which the scientist tries to discover do not have this characteristic. They are inviolable. The so-called law of gravitation, for example, or Newton's three laws of motion, cannot be disobeyed. Scientists may disagree about the truth of any formulation of a natural law, but if the formulation is valid, then the general rule of behavior is supposed to obtain without exception; and if exceptions are found, they are not interpreted as instances of disobedience, but rather as cases to which the law does not apply.
 
-Chaptkr 46: LAW
+The rules of an art may be violated, either unwittingly or intentionally. For example, grammatical errors can be made by those ignorant of the rules or by those who wish to disregard them. The so-called "law of contradiction" in the art of logic seems to be like the rules of grammar or of any other art. Men certainly contradict themselves in spite of the rule which places the penalty of error on those who make contradictory statements.
 
-I legel, "that if states disagree and their particular wills cannot be harmonized, the matter can
-only be settled by war." His statement that international law "does not go beyond an oughtto-be" separates it from positive law. On similar
-grounds Aquinas separates the ius gentium from
-positive
-law. He
-recognizes, as
-will
-presently
-appear, that
-it does not
-result from legislative
-enactment. Furthermore, he points out that
-it
-is discovered by reason and derives its rules by
-way of deduction from natural law. The law
-of nations is, therefore, not positively instituted.
-That
-the law of nations lacks some of the
-properties of civil law does not make
-it,
-for
+But according to another conception of the law of contradiction, which belongs to the science of metaphysics rather than to the art of logic, nothing can both be and not be at the same time in the same respect. This law of being, like the laws of motion, is regarded as inviolable by those who think it true. In this it has the aspect of a scientific or natural law. The law of contradiction, conceived as a rule of logic, may also be natural in the sense of not being man-made. In the opinion of certain philosophers, man does not invent either the metaphysical rule which all existences must observe or the logical rule which the human mind should always obey. He discovers both.
+
+There still remains that other class of rules to which the word "law" is most commonly applied. These are rules of moral action or social conduct which, like rules of art, are essentially violable. "Laws, in their most general signification," Montesquieu writes, "are the necessary relations arising from the nature of things. In this sense all beings have their laws." But he points out that law operates differently in the realm of physical nature and in the realm of intelligent beings like man. The latter, he says, "does not conform to [its laws] so exactly as the physical world. This is because, on the one hand, particular intelligent beings are of a finite nature, and consequently liable to error; and on the other, their nature requires them to be free agents." Hence, even the laws "of their own instituting, they frequently infringe."
+
+The profound division between laws ofnature and laws of human conduct thus seems to involve two points: (i) the former may apply to all things, the latter are addressed to man alone;
+
+(2) the former, being inviolable, state the necessities of behavior, the latter, precisely because they are violable, imply freedom in those to whom they are addressed.
+
+These two kinds of law have this much in common. Both the laws of nature discovered by the scientist and the rules of conduct instituted by the legislator are general rather than particular. Their generality has been made, in the tradition of jurisprudence, the basis for differentiating rules of law from particular decisions or decrees. On theological grounds, however, the I two kinds of law can be said to have a more significant characteristic in common.
+
+Aquinas conceives the laws of nature which the scientist discovers as laws implanted in the very nature of things at their creation by God. The laws which God implants in human nature do not differ in their eternal origin in the divine intellect and will, or in their manifestation of the divine government of the world. They differ only in that it is part of man's nature to be free and therefore able to disobey even the rules of his own nature. Thus both sorts of law are directions of behavior. Only if the laws which science discovers are not attributed to God, will they seem to be merely descriptive rather than prescriptive.
+
+In this chapter we shall be primarily concerned with law as a direction of human conduct or, as Kant would say, law in the sphere of freedom. But within the one meaning of law I w hich concerns us here, there are still many important distinctions of type. The division of law into divine and human, natural and positive, private and public, moral and political— to name only some of the traditional distinctions
+
+—determines the outlines of the diverse philosophies of law which the great books contain, and I underlies the great issues concerning the origin, j the properties, and the authority of law. I Different writers use different criteria to set , up their classification of the kinds of law. It is '; nevertheless possible to perceive certain paral• lels in analysis and classification. The opposite ' of natural law is sometimes called "human law," i "positive law," or "written law," sometimes "civil law" or "municipal law." Sometimes, as with Kant, for whom the analysis of law derives from an analysis of rights, the differentiation be' tween natural and positive right is also expressed in terms of innate and acquired right, public and private right.
+
+Thus, for Kant, "natural right rests upon pure rational principles a priori', positive or statutory right is what proceeds from the will of a legislator. . . . Innate right is that right which belongs to everyone by nature, independent of lute." all juridical acts of experience. Acquired right is that right which is founded upon such juridical acts." From natural or innate right develops "the system of those laws which require no external promulgation" and which therefore belong to the sphere of private right. Positive or civil rights are the acquired rights of men living in a state of civil society under "the system of those laws which require public promulgation" and which therefore belong to the sphere of public right. The source of differentiation here seems threefold: whether the right is inherent in human nature or acquired from the state; whether men are viewed as living in a state of nature or as living in a civil society; whether the laws do or do not need to be publicly promulgated.
+
+The distinction between the state of nature and the state of civil society is used by many other writers in differentiating between natural and positive (or civil) law, e.g., by Hobbes, Spinoza, Locke, Montesquieu, Rousseau. They also recognize that the law which governs men
+
+Hving in a state of nature is natural in the sense of being instinctive, or a rule of conduct which man's reason is innately competent to prescribe; whereas the civil law originates with specific acts of legislation by a political power, vested in a sovereign person, in a representative assembly, or in the whole body of the people.
+
+Dividing all laws into two kinds— "laws of nature and laws of the land"—Hegel holds that "the laws of nature are simply what they are and are valid as they are." In contrast, positive law is "valid in a particular state, and this legal authority is the guiding principle for the knowledge of right in this positive form, i.e., for the science of positive law." Our manner of knowing their content further distinguishes between these two kinds of law. "To know the law of nature," Hegel explains, "we must learn to know nature, since its laws are rigid, and it is only our ideas about them that can be false. . . . Knowledge of the laws of the land is in one way similar, but in another way not. These laws too we learn to know just as they exist . . . But the difference in the case of laws of the land is that they arouse the spirit of reflection, and their diversity at once draws attention to the fact that they are not absoThis leads us to the heart of the distinction. The law of the land, or civil law, is "something posited, something originated by men." It is positive law in the sense that it must be posited (i.e., officially instituted) in order to exist. The civil law is not something discovered by examining man's nature. It is made, and must be externally promulgated so that those who are subject to it can learn its provisions. Anyone who will inquire can learn the natural law for himself; or he can be helped to discover it by a teacher who instructs him in this matter as he would instruct him in geometry, not as a lawyer informs clients concerning the prevailing laws of the state.
+
+Aquinas both subtracts from and adds to this analysis of the difference between natural and positive law. On the one hand, he does not appeal to the condition of man in a state of nature as contrasted with civil society. On the other hand, he finds the chief difference between the natural and the positive law in their originating sources. The one is made by God, the other by man. "The natural law," Aquinas writes, "is nothing else than the rational creature's participation in the eternal law." It is
+
+God's eternal law with respect to man as that is received and exists in human nature. It exists in man as the first principle of his practical reason and includes all the precepts which can be discovered by reasoning therefrom.
+
+Hence, for Aquinas as for Locke, the law of nature is not only the law of reason but the law of nature's God. But Aquinas distinguishes between the law of nature generally, or the eternal law, and the natural law in man. The latter is a moral law, both in the sense that it is a law governing free acts, and also in the sense that it directs man with regard to good and evil in the sphere of his private life, not merely with regard to the political common good.
+
+Natural and positive law are aUke in the very respects in which they differ. Both share in the nature of law which, according to Aquinas, "is nothing else than an ordinance of reason for the common good, made by him who has care of the community, and promulgated." Each has a maker, God or man; each proceeds in a certain way from the reason and will of its maker; each must be promulgated, though not in the same manner; and each is concerned with a common good—human happiness or the welfare of the state.
+
+The further additions which Aquinas makes consist of distinctions with respect to divine and human law. With respect to the divine law he distinguishes between God's eternal ordinances and His positive commandments. The eternal part of the divine law, as we have seen, is that which, at the moment of creation, "God imprints on the whole of nature" to instill in each created species "the principles of its proper actions." "If man were ordained to no other end than that which is proportionate to his natural faculties," Aquinas writes, "there would be no need for man to have any further direction
+
+. . . besides the natural law and the human law which is derived from it." But "man is ordained to the end of eternal happiness"; and since salvation is a supernatural end which exceeds
+
+^ man's power to achieve without God's help, "it was necessary that . . . man should be directed to this end by a law given by God."
+
+God gave such a body of lav/ to man, not at creation, but at a certain moment in history. He did not implant it in his nature but promulgated it, in the manner appropriate to positive law, through verbal declaration— through His revealed word in the Old and the New Testaments, e.g., the Ten Commandments and the two precepts of charity.
+
+The human law Aquinas divides "into the law ofnations [or the ins gentium] and civil law.'' The civil law is that which is instituted by a community for its own members. With regard to the ills gentium Aquinas follows the tradition of the Roman jurists. What he has in mind in using this term should, therefore, not be confused with what later writers, such as Grotius, treat as the ius inter gentes or international law.
+
+Yet applicable to both the law of nations and international law is the question whether such law belongs more properly to the sphere of natural or to the sphere of positive law.
+
+International law concerns the relations between autonomous states which, as Hegel points out, are "in a state of nature in relation to one another," since "the sovereignty of a state is the principle of its relations to others." Laws cannot be appfied to sovereign states with the coercive force of positive law. "It follows," says
+
+I legel, "that if states disagree and their particular wills cannot be harmonized, the matter can only be settled by war." His statement that international law "does not go beyond an oughtto-be" separates it from positive law. On similar grounds Aquinas separates the ius gentium from positive law. He recognizes, as will presently appear, that it does not result from legislative enactment. Furthermore, he points out that it is discovered by reason and derives its rules by way of deduction from natural law. The law of nations is, therefore, not positively instituted.
+
+That the law of nations lacks some of the properties of civil law does not make it, for
+
 Aquinas, less essentially a body of law; but for
-Hegel it falls short of the essence of law, which
-consists in a determinate and universal rule of
-right posited by a sovereign will. The great legal positivists of the 19th century, such as Austin, go further and deny that anything
-is truly
-law except the positive enactments of a government which has the power to enforce its ordinances. The
-law^s of nature are laws only in a
-metaphorical sense.
-The Greeks also appear to regard law as primarily a creation of the
-state. Aristotle conceives political justice as "part natural, part legal— natural,
-that which everywhere has
-the
-same force and does not exist by people's thinking this or that; legal, that which
-is originally
-indifferent, but when it has been laid down
-is
-not indifferent." This tends to identify the legal aspect of justice with the conventional. The
-threefold division of law into civil law, law of
-nations, and natural law is not Greek but Roman in origin.
-Yet the Greeks do not hold that all law is of
-human institution or merely a matter of local
-convention. The fundamental opposition
-between the divine law and the man-made law of
-the state occurs frequently in the Greek tragedies, and with particular force in the Antigone
-of Sophocles. In burying her brother, Antigone
-violates the king's edict, but, in her view% not to
-have done so would have been to violate the
-* 'unwritten statutes of heaven" which, she declares, are "not of today or yesterday, but from
-all time, and no man knows when they were first
-put forth. Not through dread of any human
-pride," she says, "could I answer to the gods for
-breaking these.''
-Aristotle
-cites
-this
-passage from Sophocles
-when, in his Rhetoric, he advises the forensic orator (or trial lawyer) "to appeal to the universal
-law, and insist on its greater equity and justice,"
-//""the written law
-tells against our case." Under such circumstances, he thinks
-it
-is wise to
-"urge that the principles of equity are permanent and changeless, and that the universal law
-does not change either, for it
-is the law of nature, whereas written laws often do change."
-Under the opposite circumstances, that is, when
-"the written law supports our case," he prescribes an opposite course— to cite the laws of
-the state and to urge that they be upheld.
+
+Hegel it falls short of the essence of law, which consists in a determinate and universal rule of right posited by a sovereign will. The great legal positivists of the 19th century, such as Austin, go further and deny that anything is truly law except the positive enactments of a govern- ment which has the power to enforce its ordinances. The law^s of nature are laws only in a metaphorical sense.
+
+The Greeks also appear to regard law as primarily a creation of the state. Aristotle conceives political justice as "part natural, part legal— natural, that which everywhere has the same force and does not exist by people's thinking this or that; legal, that which is originally indifferent, but when it has been laid down is not indifferent." This tends to identify the legal aspect of justice with the conventional. The threefold division of law into civil law, law of nations, and natural law is not Greek but Ro- man in origin.
+
+Yet the Greeks do not hold that all law is of human institution or merely a matter of local convention. The fundamental opposition be- tween the divine law and the man-made law of the state occurs frequently in the Greek tragedies, and with particular force in the Antigone of Sophocles. In burying her brother, Antigone violates the king's edict, but, in her view% not to have done so would have been to violate the
+
+* 'unwritten statutes of heaven" which, she declares, are "not of today or yesterday, but from all time, and no man knows when they were first put forth. Not through dread of any human pride," she says, "could I answer to the gods for breaking these.''
+
+Aristotle cites this passage from Sophocles when, in his Rhetoric, he advises the forensic orator (or trial lawyer) "to appeal to the universal law, and insist on its greater equity and justice,"
+
+//""the written law tells against our case." Under such circumstances, he thinks it is wise to "urge that the principles of equity are permanent and changeless, and that the universal law does not change either, for it is the law of nature, whereas written laws often do change." Under the opposite circumstances, that is, when "the written law supports our case," he prescribes an opposite course— to cite the laws of the state and to urge that they be upheld.
+
 Though Aristotle here speaks of "the law of
-nature,
-' he seems to have in mind the notion of
-"a universal law," or a body of law that is common to all peoples. For the most part, he speaks
-of
-natural
-justice
-rather
-than
-natural
-law.
-Whether or not the two notions are equivalent,
-his
-principle of natural
-justice stands
-in
-the
-same relation to political enactments as, for later
-writers, the natural law stands to the positive
-law. Plato's conception of law as "a disposition
-of reason" which
-orders
-things according
-to
-their natures, even more explicitly recognizes
-that law neither depends upon nor derives
-its
-authority from
-the power of the
-state. The
-phrase "natural law" may be infrequent in the
-Greek books, but
-its meaning
-is not unrepresented in Greek thought.
-Other distinctions in kinds of law—written
-and unwritten, statutory and customary, constitutional law and the various particular bodies of law, such as the law of contracts, of crimes,
-or of torts—are for the most part subdivisions
-of positive law. The one exception, perhaps,
-is
-the unwritten law, which, when not identified
-with customary law, stands for the natural law
-or the law of reason. With respect to these parts
-of law, the chief problems concern constitutions
-and customs. The difference between a constitution as law and all other laws obtaining in a
-state is considered in the chapter on Constitution; and the legal force of custom, both in itselfand also in relation to legislative enactments,
-is discussed in the chapter on Custom.
-Here our major concern is with positive law
-as a whole, with its properties and defects, but
-above all with its relation to natural law. Some
-of the properties of positive law are agreed upon
-even by those who sharply disagree concerning
-its relation to natural law.
-It is generally agreed, for example, that a rule
-of positive law cannot be made by any man, but
-only by him who exercises the legislative authority and has the power to enforce the rule.
-Agreement also prevails concerning the mutability of positive law, though not all would go
-as far as Montaigne in holding that "there
-is
-nothing more subject
-to perpetual agitation
-than the laws." Yet
-it
-is generally recognized
-that the content of positive law continually undergoes change with the nullification or amendment of old rules and the addition of new ones,
-and that positive regulations on any particular
-matter may vary from state to state.
-No less common is the understanding of the
-indispensability of courts and judges. "Laws are
-a dead letter without courts to expound and define their true meaning and operation," Hamilton writes. Though rules of law, in distinction
-from decrees, are formulated to cover an indefinite number of like cases, the cases to which
-they must be applied by the judicial process are
-far from uniform. Courts and judges have the
-task of deciding whether the facts of the particular case bring that case under the specific
-provisions of the law. This is the field of judicial
-discretion and the battleground of litigants and
-lawyers.
-The propensities of men of law, on the bench
-and at the bar, to protract and complicate the
-procedures of a trial, to multiply and divide the
-issues, to separate themselves from laymen by a
-heavy curtain of language, have been satirically
-noted in the great diatribes against the legal profession, from Aristophanes to Chaucer, Rabelais, Montaigne, and Swift.
-Rabelais, for example, has Pantagruel undertake
-to
-arbitrate
-in
-the
-litigation
-between
-"Lord Kissbreech, plaintiff of one side, and
-.
-.
-.
-Lord Suckfist, defendant of the other, whose
-controversy was
-so high and
-difficult
-in law
-that the court of parliament could make nothing of it." Pantagruel conducts the proceedings in an unusual style. When the counsellors
-and
-attorneys
-"delivered
-into
-his hands
-the
-bags wherein were the writs and pancarts concerning that
-suit, which for bulk and weight
-were almost enough to load four great couillard
-or stoned
-asses,
-Pantagruel
-said unto
-them,
-Are the two lords, between whom this debate
-and process
-is, yet living?" Upon being
-told
-they are alive, "to what a devil, then, said he,
-serve
-so many
-paltry
-heaps and
-bundles of
-papers and
-copies which you give me?
-Is
-it
-not better to hear their controversy from their
-own mouths, whilst they are face to face before
-us, than to read these vile fopperies, which are
-nothing but trumperies, deceits, diabolical cozenages of Cepola,
-pernicious slights and subversions of equity."
-Furthermore, Pantagruel continues, "seeing
-the laws are excerpted out of the middle of
-moral
-and
-natural
-philosophy, how
-should
-these fools have understood
-it,
-that have, by
-G— , studied less in philosophy than my mule?
-In respect of human learning, and the knowledge of antiquities and history, they are truly
-laden with
-these
-faculties
-as
-a
-toad
-is with
-feathers. And yet of
-all
-this
-the laws are
-so
-full,
-that without
-it
-they cannot
-be understood.
-.
-.
-. Therefore,
-if you will that
-I make
-any meddling
-in
-this
-process,
-first,
-cause
-all
-these papers to be burned; secondly, make the
-two
-gentlemen come
-personally
-before
-me,
-and, afterwards, when I shall have heard them,
-I will
-tell you my opinion freely, without any
-feignedness or dissimulation whatsoever." The
-trial which Pantagruel then conducts, in which
-the two lords are forced to plead without benefit of counsel,
-is a choice and proper piece of
-litigation.
-The problems of casuistry, with which Pascal
-deals at length in his Provincial Lettersy2iiG. sometimes thought of as peculiar to the canon law,
-but
-casuistry,
-in
-the
-sense of distinguishing
-cases and examining them in relation to general
-rules, necessarily occurs in the judicial application of any body of law. The most difficult cases
-are those which may fall under the letter of a
-law but seem to be inconsistent with its spirit.
-The reverse also happens; cases fall outside the
-letter of the law but the purpose of the law
-seems to cover them. All such cases indicate an
-unavoidable defect in rules of law.
-The defect is unavoidable, Aristotle says. Law
-aims at universality "but about some things it
-is not possible to make a universal statement
-which shall be correct." To remedy this defect.
 
-means by the equitable— "a correction of the
-law where it is defective owing to its universalThe law which equity
-is called upon to correct may be a just rule, but that does not prevent its being unjustly applied. Equity prevents
-the
-injustice of misappUcation by dispensing
-justice in the particular case according to the
-spirit, not the letter, of the law. It is a kind of
-justice, Aristotle says; "not legal justice but a
-correction of legal justice
-.
-.
-. not better than
-absolute justice but better than the error which
-arises from the absoluteness of the rule."
-Those who share Aristotle's theory of equity
-acknowledge a standard of justice by which not
-only the law's application, but also the law itself, is to be measured. In his terms, natural justice provides this standard. The justice of laws
-made by the state is not only relative to the constitution of the state, but since the constitution
-itself can be more or less just, there
-is a standard of justice prior to and independent of the
-state— in this sense, natural.
-Essentially the same point
-is made by those
-who,
-like Montesquieu and Locke, appeal to
-the natural law, both as a measure of constitutions and as a criterion for distinguishing good
-from bad law. "Before laws were made," Montesquieu writes, "there were relations of possible
-justice. To say that there is nothing just or unjust but what
-is commanded or forbidden by
-positive laws,
-is the same as saying that before
-the describing of a circle all the radii were not
-equal."
-The law of nature, according to Locke, does
-not apply only to the conduct of men living in
-a state of nature. The law of nature which Locke
-describes as a rule "ofcommon reason and equity
-which is that measure God has set to the actions
-of men for their mutual security,"
-is not abolished when men enter into civil society. "The
-obligations of the law of nature cease not in society, but only in many cases are drawn closer,
-and have by human laws known penalties annexed
-to them, to enforce
-their observation.
-Thus the law of nature stands as an eternal rule
-to
-all men, legislators as well as others." The
-rules of positive law, writes Locke, must "be
-conformable to the law of nature,
-i.e.,
-to the
-will of God, of which that
-is the declaration."
-The municipal laws of any particular state "are
-only so far right as they are founded on the law
-of nature, by which they are to be regulated
-and interpreted."
-The
-position of Locke and Aquinas makes
-natural law the source as well as the standard of
-positive law. As a source, natural law gives rise
-to positive law in a way which, for Aquinas at
-least, differentiates it from the law of nations or
-the ius gentium.
-"Something may be derived from the natural
-law in two ways," he writes. "First, as a conclusion from premises; secondly, by way of determination of certain generalities. The first way,"
-he explains,
-"is like to that by which, in sciences, demonstrated conclusions are drawn from
-the principles; while the second mode is likened
-to that whereby, in the arts, general forms are
-particularized as to details: thus the craftsman
-needs to determine the general form of a house
-to some particular shape." Now "to the law of
-nations belong those things which are derived
-from the law of nature,
-as conclusions from
-premises, e.g., just buyings and sellings, and the
-like, without which men cannot live together,
-which is a point of the law of nature, since man
-is by nature a social animal.
-.
-.
-. But those things
-which are derived from the law of nature by
-way of particular determination, belong to the
-civil
-law, according
-as each
-state decides on
-what
-is best for itself."
-Aquinas
-exemplifies
-the determinations of
-positive law by pointing out that "the law of
-nature has it that the evildoer should be punished; but that he be punished in this way or
-that,
-is a determination of the law of nature,"
-which the positive law must institute. He might
-also have used as an example the fact that the
-universal prohibition of killing
-is a conclusion
-from
-the
-principle of natural law
-that
-''one
-should do
-harm
-to
-no
-man,''
-whereas
-the
-various kinds and degrees of murder are
-differently defined in different countries according
-to
-the determination of the
-natural law
-made by the positive law of homicide in each
-country.
-The rules of positive law cannot be arrived at
-deductively. They do not
-follow
-necessarily
-from principles. They are only determinations
-which particularize the precepts of natural law
-in a manner which fits the contingent circumstances
-of a
-particular
-society. Whatever
-is
-made determinate by positive law is something
-which the natural law leaves indeterminate because no point of justice or right
-is involved.
-Other determinations could have been made.
-An element of choice is involved in the making
-of positive laws. In addition to being formulated by the reason, they must be posited by
-the will of whoever has the authority to make
-laws.
-Rules of positive law are the work of reason
-to the extent that reason is called upon to propose
-various
-possible
-determinations
-of
-the
-natural law,
-e.g.^ one or another definition of
-murder
-in
-the
-first
-degree, one
-or another
-definition of the penalty for it. Since a definite
-rule of positive law cannot be instituted until a
-choice is made among the alternative possibiUties, the positive law cannot be solely the work
-of reason. Choice, according to Aquinas,
-is always an act of the will.
-Though he recognizes the role of choice, and
-hence of the will, in the enactment of positive
-law, Aquinas does not go to the other extreme
-of making the will the sole arbiter of what
-is
-law. The legality of the state's ordinances does
-not depend entirely on their being posited by
-the will of a sovereign authority. If a positive
-regulation is not derived from the natural law,
-it cannot be a just rule. Quoting Augustine's
-remark that "a law which is not just is a law in
-name only," Aquinas goes on to say: "Every
-human law has just so much of the nature of
-law as it is derived from the law of nature. But
-if in any point it departs from the law of nature,
-it is no longer a law but a perversion of law."
-An ordinance which had no other foundation
-than the will of a sovereign prince or government might have
-the coercive force of law,
-but
-it would lack the moral authority of law.
-It would
-bind men, not through conscience,
-but
-only
-through
-their
-fear
-of punishment
-for
-disobedience.
-"That
-force and
-tyranny
-may be an element in law," writes Hegel, "is
-accidental to law, and has nothing to do with
-its nature."
-A COMPLETELY Opposite view is taken by those
-who deny natural law or principles of innate
-right and natural justice. There is, in addition,
-a theory of natural law which leads to an opposite view of the legal and the just, though the
-opposition in this case is qualified to some extent.
-According to Hobbes, "civil and natural law
-are not different kinds, but different parts of
-law." The law of nature and the civil law, he
-says, "contain each other and are of equal extent." But he also says that "the laws of nature
-... are not properly laws, but quaUties that
-dispose men to peace and to obedience."
-Before the formation of a commonwealth, by
-the contract or covenant whereby men transfer
-the rights and liberties which they possess in a
-state of nature, the natural law directs men,
-first, to preserve their lives in the war "of every
-man against every man"; and second, to seek
-the security of peace by leaving the natural
-state of war to join with their fellow men in the
-order of a civil society. The nineteen precepts
-of natural law which Hobbes enumerates seem
-to set forth reason's recognition of the advantages of civil society over the state of nature
-and also reason's understanding of the conditions indispensable to a firm foundation of the
-commonwealth.
-These rules of reason "are the laws of nature,
-dictating peace, for a means of the conservation
-of men in multitudes, and which only concern
-the doctrine of civil society." But
-until the
-commonwealth exists, the laws of nature bind
-in conscience only, and they are therefore not
-effective in achieving their end, which is security. "When a commonwealth
-is settled, then
-they are actually laws and not before; as being
-then the commands of the commonwealth, and
-therefore also civil laws. For it is the sovereign
-power which obfiges men to obey them."
-The
-distinction between natural and
-civil
-law then becomes a distinction between unwritten and written rules; but the test ofwhether
-any rule is actually a law is the same, namely,
-whether
-it
-is adopted and
-enforced by
-the
-sovereign.
-"All laws, written and unwritten,
-have their authority and force from the will of
-the commonwealth," Hobbes writes.
-The difference between the Hobbesian theory
-and that of Locke or Aquinas reveals itself in its^
+' he seems to have in mind the notion of nature, "a universal law," or a body of law that is com- mon to all peoples. For the most part, he speaks of natural justice rather than natural law. Whether or not the two notions are equivalent, his principle of natural justice stands in the same relation to political enactments as, for later writers, the natural law stands to the positive law. Plato's conception of law as "a disposition of reason" which orders things according to their natures, even more explicitly recognizes that law neither depends upon nor derives its authority from the power of the state. The phrase "natural law" may be infrequent in the Greek books, but its meaning is not unrepresented in Greek thought.
 
-of the state? On the ground that they are unjust or tyrannical? By the criterion that they
-violate precepts of natural law or the positive
-commandments
-of God?
-Is
-the
-individual
-bound in conscience to obey every command of
-the civil law, because the civil law includes the
-natural
-law,
-interprets
-it,
-and
-gives
-it
-the
-authority and
-force of law; and
-because
-the
-natural law itself commands obedience to the
-civil law once a commonwealth has been instituted ? Or, on the contrary,
-is an individual in
-conscience
-free
-to disobey
-those
-positive enactments which lack the authority of law because they are not in conformity to the natural
-law or the divine law?
-To QUESTIONS OF THIS sott, and to the whole
-problem
-of the
-right
-of
-rebellion,
-different
-answers seem to be given in terms of different
-views of the nature of law, the sources of its
-authority, and its sanctions.
-At one extreme
-there
-is
-the doctrine
-that
-rebellion is never justified, that the security of
-peace, which the maintenance of law and order
-provides, is always better than the anarchy and
-war which result from
-rebellion. Hobbes, for
-example,
-holds
-that
-"nothing
-the
-sovereign
-representative can do
-to a
-subject, on what
-pretence
-soever,
-can
-properly
-be
-called
-injustice, or injury." The rebel would, therefore,
-always be a criminal, a man who takes the law
-into his own hands, and uses force to gain his
-ends. A man may be
-justified
-in using force,
-according to Hobbes, only to repel force used
-against him, and then only in defense of his life.
-So much the law of nature permits or requires.
-But it does not permit or require him to decide
-which laws enacted by
-his sovereign he
-shall
-obey or disobey.
-At the other extreme there is the doctrine of
-civil disobedience
-as expounded by Thoreau
-and, of course, Gandhi. Unjust laws, or laws
-which violate a man's conscience, may have the
-force of the state behind them. But they exert
-• no authority over him. The just man
-is called
-upon to break them and to submit gladly to the
-consequences of breaking them, by
-suffering
-whatever penalties may be attached
-to
-their
-breach. It is not enough for the individual citizen to satisfy his conscience by criticizing the
-government and joining with like-minded
-fellow citizens in an effort to get unjust laws abolished or reformed. He
-is obliged in conscience
-not to await help from others or to be patient in
-the use of gradual means. He
-is obliged to act
-alone and at once— by disobeying the unjust
-law.
-Kant seems to go this far when he interprets
-the precept "Do wrong to no one" as meaning
-"Do no wrong to anyone, even if thou shouldst
-be under the necessity, in observing this duty,
-to cease from all connection with others and to
-avoid
-all society." But he qualifies this somewhat by the precept: "Enter, if wrong cannot
-be avoided, into a society with others in which
-everyone may have secured to him what
-is his
-own."
-Another sort of qualification limits disobedience, rebellion, or secession from society—even
-v/hen the individual conscience recoils from the
-injustice or illegality of a civil ordinance. The
-principle,
-as stated by Aquinas, seems
-to be
-that
-the common good may,
-under
-certain
-circumstances,
-be
-better
-served
-by
-acquiescence than by disobedience. Unless what
-the
-law
-commands
-involves
-a
-transgression
-of
-God's commandments, an unjust law may be
-obeyed "in order to avoid scandal or disturbance."
-Even with regard to reforming law by legal
-means Aquinas recommends
-that
-the
-disadvantages resulting from the change of law be
-weighed against the advantages. The effectiveness of law depends upon the habits of obedience it forms and upon the customary behavior
-it
-establishes. "Consequently," Aquinas
-says,
-"when a law is changed, the binding power of
-law
-is diminished, in so far as custom
-is abolished." This harm to the common welfare may,
-of course, be compensated either by "the benefit conferred by the new enactment" or by the
-fact that "the existing law is clearly unjust, or
-its observance extremely harmful."
-Locke states the principle somewhat differently. So long as due process of law is available
-to remedy unjust ordinances or illegal acts, the
-individual
-is not justified in disobedience, for
-such action would "unhinge and overturn
-all
-polities, and, instead of government and order,
-leave nothing but anarchy and confusion." Nor
-is it effective for the individual to act alone in
-As
-the
-foregoing
-discussion
-indicates,
-the
-using force to resist tyranny or injustice. But if
-basic
-issues
-in
-the philosophy of law
-are
-inthese illegal acts have extended to the majority
-separable
-from
-questions
-about
-justice
-and
-of the people "and they are persuaded in their
-liberty,
-the
-rights of the individual and
-the
-consciences,
-that
-their
-laws, and with them
-authority of the state, the powers of governtheir estates, liberties, and lives are in danger,
-ment,
-and
-the
-fundamental
-alternatives
-of
-and perhaps, their religion too, how they will be
-crime and punishment, war and peace. These
-hindered from resisting illegal force used against
-matters are considered in the chapters approprithem, I cannot
-tell. This is an inconvenience, I
-ate to the terms mentioned above. More parconfess, that attends all governments." There is
-ticular
-consequences
-of
-the
-theory
-of
-law,
-no alternative then but rebellion— "properly a
-especially natural law, are found in such chapstate of war wherein
-the appeal
-lies only
-to
-ters as Revolution, Slavery, and Tyranny,
-heaven."
-Citizen, Constitution, and Wealth,
+Other distinctions in kinds of law—written and unwritten, statutory and customary, constitutional law and the various particular bodies of law, such as the law of contracts, of crimes, or of torts—are for the most part subdivisions of positive law. The one exception, perhaps, is the unwritten law, which, when not identified with customary law, stands for the natural law or the law of reason. With respect to these parts of law, the chief problems concern constitutions and customs. The difference between a constitution as law and all other laws obtaining in a state is considered in the chapter on Constitution; and the legal force of custom, both in itselfand also in relation to legislative enactments, is discussed in the chapter on Custom.
+
+Here our major concern is with positive law as a whole, with its properties and defects, but above all with its relation to natural law. Some of the properties of positive law are agreed upon even by those who sharply disagree concerning its relation to natural law.
+
+It is generally agreed, for example, that a rule of positive law cannot be made by any man, but only by him who exercises the legislative authority and has the power to enforce the rule. Agreement also prevails concerning the mutability of positive law, though not all would go as far as Montaigne in holding that "there is nothing more subject to perpetual agitation than the laws." Yet it is generally recognized that the content of positive law continually undergoes change with the nullification or amend- ment of old rules and the addition of new ones, and that positive regulations on any particular matter may vary from state to state.
+
+No less common is the understanding of the indispensability of courts and judges. "Laws are a dead letter without courts to expound and define their true meaning and operation," Hamilton writes. Though rules of law, in distinction from decrees, are formulated to cover an indefinite number of like cases, the cases to which they must be applied by the judicial process are far from uniform. Courts and judges have the task of deciding whether the facts of the particular case bring that case under the specific provisions of the law. This is the field of judicial discretion and the battleground of litigants and lawyers.
+
+The propensities of men of law, on the bench and at the bar, to protract and complicate the procedures of a trial, to multiply and divide the issues, to separate themselves from laymen by a heavy curtain of language, have been satirically noted in the great diatribes against the legal profession, from Aristophanes to Chaucer, Rabelais, Montaigne, and Swift.
+
+Rabelais, for example, has Pantagruel undertake to arbitrate in the litigation between "Lord Kissbreech, plaintiff of one side, and . . . Lord Suckfist, defendant of the other, whose controversy was so high and difficult in law that the court of parliament could make nothing of it." Pantagruel conducts the proceedings in an unusual style. When the counsellors and attorneys "delivered into his hands the bags wherein were the writs and pancarts concerning that suit, which for bulk and weight were almost enough to load four great couillard or stoned asses, Pantagruel said unto them, Are the two lords, between whom this debate and process is, yet living?" Upon being told they are alive, "to what a devil, then, said he, serve so many paltry heaps and bundles of papers and copies which you give me? Is it not better to hear their controversy from their own mouths, whilst they are face to face before us, than to read these vile fopperies, which are nothing but trumperies, deceits, diabolical coz- enages of Cepola, pernicious slights and subversions of equity."
+
+Furthermore, Pantagruel continues, "seeing the laws are excerpted out of the middle of moral and natural philosophy, how should these fools have understood it, that have, by G— , studied less in philosophy than my mule?
+
+In respect of human learning, and the knowl- edge of antiquities and history, they are truly laden with these faculties as a toad is with feathers. And yet of all this the laws are so full, that without it they cannot be understood. . . . Therefore, if you will that I make any meddling in this process, first, cause all these papers to be burned; secondly, make the two gentlemen come personally before me, and, afterwards, when I shall have heard them,
+
+I will tell you my opinion freely, without any feignedness or dissimulation whatsoever." The trial which Pantagruel then conducts, in which the two lords are forced to plead without benefit of counsel, is a choice and proper piece of litigation.
+
+The problems of casuistry, with which Pascal deals at length in his Provincial Lettersy2iiG. sometimes thought of as peculiar to the canon law, but casuistry, in the sense of distinguishing cases and examining them in relation to general rules, necessarily occurs in the judicial application of any body of law. The most difficult cases are those which may fall under the letter of a law but seem to be inconsistent with its spirit. The reverse also happens; cases fall outside the letter of the law but the purpose of the law seems to cover them. All such cases indicate an unavoidable defect in rules of law.
+
+The defect is unavoidable, Aristotle says. Law aims at universality "but about some things it is not possible to make a universal statement which shall be correct." To remedy this defect. the intention of the lawmaker should be consulted. The particular case should be treated as he would have treated it if he had had it in mind when he framed the general rule. Such handhng of the difficult case is what Aristotle means by the equitable— "a correction of the law where it is defective owing to its universalThe law which equity is called upon to correct may be a just rule, but that does not prevent its being unjustly applied. Equity prevents the injustice of misappUcation by dispensing justice in the particular case according to the spirit, not the letter, of the law. It is a kind of justice, Aristotle says; "not legal justice but a correction of legal justice . . . not better than absolute justice but better than the error which arises from the absoluteness of the rule."
+
+Those who share Aristotle's theory of equity acknowledge a standard of justice by which not only the law's application, but also the law itself, is to be measured. In his terms, natural justice provides this standard. The justice of laws made by the state is not only relative to the constitution of the state, but since the constitution itself can be more or less just, there is a standard of justice prior to and independent of the state— in this sense, natural.
+
+Essentially the same point is made by those who, like Montesquieu and Locke, appeal to the natural law, both as a measure of constitutions and as a criterion for distinguishing good from bad law. "Before laws were made," Montesquieu writes, "there were relations of possible justice. To say that there is nothing just or unjust but what is commanded or forbidden by positive laws, is the same as saying that before the describing of a circle all the radii were not equal."
+
+The law of nature, according to Locke, does not apply only to the conduct of men living in a state of nature. The law of nature which Locke describes as a rule "ofcommon reason and equity which is that measure God has set to the actions of men for their mutual security," is not abolished when men enter into civil society. "The obligations of the law of nature cease not in society, but only in many cases are drawn closer, and have by human laws known penalties an- nexed to them, to enforce their observation. Thus the law of nature stands as an eternal rule to all men, legislators as well as others." The rules of positive law, writes Locke, must "be conformable to the law of nature, i.e., to the will of God, of which that is the declaration." The municipal laws of any particular state "are only so far right as they are founded on the law of nature, by which they are to be regulated and interpreted."
+
+The position of Locke and Aquinas makes natural law the source as well as the standard of positive law. As a source, natural law gives rise to positive law in a way which, for Aquinas at least, differentiates it from the law of nations or the ius gentium.
+
+"Something may be derived from the natural law in two ways," he writes. "First, as a conclusion from premises; secondly, by way of determination of certain generalities. The first way," he explains, "is like to that by which, in sciences, demonstrated conclusions are drawn from the principles; while the second mode is likened to that whereby, in the arts, general forms are particularized as to details: thus the craftsman needs to determine the general form of a house to some particular shape." Now "to the law of nations belong those things which are derived from the law of nature, as conclusions from premises, e.g., just buyings and sellings, and the like, without which men cannot live together, which is a point of the law of nature, since man is by nature a social animal. . . . But those things which are derived from the law of nature by way of particular determination, belong to the civil law, according as each state decides on what is best for itself." Aquinas exemplifies the determinations of positive law by pointing out that "the law of nature has it that the evildoer should be punished; but that he be punished in this way or that, is a determination of the law of nature," which the positive law must institute. He might also have used as an example the fact that the universal prohibition of killing is a conclusion from the principle of natural law that ''one should do harm to no man,'' whereas the various kinds and degrees of murder are differently defined in different countries according to the determination of the natural law made by the positive law of homicide in each country.
+
+The rules of positive law cannot be arrived at deductively. They do not follow necessarily from principles. They are only determinations which particularize the precepts of natural law in a manner which fits the contingent circumstances of a particular society. Whatever is made determinate by positive law is something which the natural law leaves indeterminate because no point of justice or right is involved. Other determinations could have been made. An element of choice is involved in the making of positive laws. In addition to being formulated by the reason, they must be posited by the will of whoever has the authority to make laws.
+
+Rules of positive law are the work of reason to the extent that reason is called upon to propose various possible determinations of the natural law, e.g.^ one or another definition of murder in the first degree, one or another definition of the penalty for it. Since a definite rule of positive law cannot be instituted until a choice is made among the alternative possibiUties, the positive law cannot be solely the work of reason. Choice, according to Aquinas, is al- ways an act of the will.
+
+Though he recognizes the role of choice, and hence of the will, in the enactment of positive law, Aquinas does not go to the other extreme of making the will the sole arbiter of what is law. The legality of the state's ordinances does not depend entirely on their being posited by the will of a sovereign authority. If a positive regulation is not derived from the natural law, it cannot be a just rule. Quoting Augustine's remark that "a law which is not just is a law in name only," Aquinas goes on to say: "Every human law has just so much of the nature of law as it is derived from the law of nature. But if in any point it departs from the law of nature, it is no longer a law but a perversion of law."
+
+An ordinance which had no other foundation than the will of a sovereign prince or govern- ment might have the coercive force of law, but it would lack the moral authority of law.
+
+It would bind men, not through conscience, but only through their fear of punishment for disobedience. "That force and tyranny may be an element in law," writes Hegel, "is accidental to law, and has nothing to do with its nature."
+
+A COMPLETELY Opposite view is taken by those who deny natural law or principles of innate right and natural justice. There is, in addition, a theory of natural law which leads to an opposite view of the legal and the just, though the opposition in this case is qualified to some extent.
+
+According to Hobbes, "civil and natural law are not different kinds, but different parts of law." The law of nature and the civil law, he says, "contain each other and are of equal extent." But he also says that "the laws of nature
+
+... are not properly laws, but quaUties that dispose men to peace and to obedience."
+
+Before the formation of a commonwealth, by the contract or covenant whereby men transfer the rights and liberties which they possess in a state of nature, the natural law directs men, first, to preserve their lives in the war "of every man against every man"; and second, to seek the security of peace by leaving the natural state of war to join with their fellow men in the order of a civil society. The nineteen precepts of natural law which Hobbes enumerates seem to set forth reason's recognition of the advantages of civil society over the state of nature and also reason's understanding of the conditions indispensable to a firm foundation of the commonwealth.
+
+These rules of reason "are the laws of nature, dictating peace, for a means of the conservation of men in multitudes, and which only concern the doctrine of civil society." But until the commonwealth exists, the laws of nature bind in conscience only, and they are therefore not effective in achieving their end, which is security. "When a commonwealth is settled, then they are actually laws and not before; as being then the commands of the commonwealth, and therefore also civil laws. For it is the sovereign power which obfiges men to obey them."
+
+The distinction between natural and civil law then becomes a distinction between unwritten and written rules; but the test ofwhether any rule is actually a law is the same, namely, whether it is adopted and enforced by the sovereign. "All laws, written and unwritten, have their authority and force from the will of the commonwealth," Hobbes writes.
+
+The difference between the Hobbesian theory and that of Locke or Aquinas reveals itself in its^ consequences. Under what circumstances can a subject or citizen refuse obedience to the laws of the state? On the ground that they are unjust or tyrannical? By the criterion that they violate precepts of natural law or the positive commandments of God? Is the individual bound in conscience to obey every command of the civil law, because the civil law includes the law. natural law, interprets it, and gives it the authority and force of law; and because the natural law itself commands obedience to the civil law once a commonwealth has been instituted ? Or, on the contrary, is an individual in conscience free to disobey those positive enactments which lack the authority of law because they are not in conformity to the natural law or the divine law? To QUESTIONS OF THIS sott, and to the whole problem of the right of rebellion, different answers seem to be given in terms of different views of the nature of law, the sources of its authority, and its sanctions.
+
+At one extreme there is the doctrine that rebellion is never justified, that the security of peace, which the maintenance of law and order provides, is always better than the anarchy and war which result from rebellion. Hobbes, for example, holds that "nothing the sovereign representative can do to a subject, on what ance." pretence soever, can properly be called injustice, or injury." The rebel would, therefore, always be a criminal, a man who takes the law into his own hands, and uses force to gain his ends. A man may be justified in using force, according to Hobbes, only to repel force used against him, and then only in defense of his life. So much the law of nature permits or requires. But it does not permit or require him to decide which laws enacted by his sovereign he shall obey or disobey.
+
+At the other extreme there is the doctrine of civil disobedience as expounded by Thoreau and, of course, Gandhi. Unjust laws, or laws which violate a man's conscience, may have the force of the state behind them. But they exert • no authority over him. The just man is called upon to break them and to submit gladly to the consequences of breaking them, by suffering whatever penalties may be attached to their breach. It is not enough for the individual citizen to satisfy his conscience by criticizing the government and joining with like-minded fellow citizens in an effort to get unjust laws abolished or reformed. He is obliged in conscience not to await help from others or to be patient in the use of gradual means. He is obliged to act alone and at once— by disobeying the unjust
+
+Kant seems to go this far when he interprets the precept "Do wrong to no one" as meaning "Do no wrong to anyone, even if thou shouldst be under the necessity, in observing this duty, to cease from all connection with others and to avoid all society." But he qualifies this some- what by the precept: "Enter, if wrong cannot be avoided, into a society with others in which everyone may have secured to him what is his own."
+
+Another sort of qualification limits disobedience, rebellion, or secession from society—even v/hen the individual conscience recoils from the injustice or illegality of a civil ordinance. The principle, as stated by Aquinas, seems to be that the common good may, under certain circumstances, be better served by acquiescence than by disobedience. Unless what the law commands involves a transgression of God's commandments, an unjust law may be obeyed "in order to avoid scandal or disturbEven with regard to reforming law by legal means Aquinas recommends that the disadvantages resulting from the change of law be weighed against the advantages. The effectiveness of law depends upon the habits of obedience it forms and upon the customary behavior it establishes. "Consequently," Aquinas says, "when a law is changed, the binding power of law is diminished, in so far as custom is abolished." This harm to the common welfare may, of course, be compensated either by "the benefit conferred by the new enactment" or by the fact that "the existing law is clearly unjust, or its observance extremely harmful."
+
+Locke states the principle somewhat differently. So long as due process of law is available to remedy unjust ordinances or illegal acts, the individual is not justified in disobedience, for such action would "unhinge and overturn all polities, and, instead of government and order, leave nothing but anarchy and confusion." Nor is it effective for the individual to act alone in using force to resist tyranny or injustice. But if these illegal acts have extended to the majority of the people "and they are persuaded in their laws, and with them consciences, that their their estates, liberties, and lives are in danger, and perhaps, their religion too, how they will be hindered from resisting illegal force used against them, I cannot tell. This is an inconvenience, I confess, that attends all governments." There is no alternative then but rebellion— "properly a state of war wherein lies only the appeal heaven."
+
+1. The definition of law
+
+I a. The end of law: peace, order, and the common good lb. Law in relation to reason or will ic. The authority and power needed for making law rights
+
+3. The divine law of all creatures
+
+God and the New Testament (i) Law in the Old Testament: precepts of the Old Law of the New Law
+
+4. The natural law
+
+4^. The law of men living in a state of nature freedom; the objectification of the will
+
+4^. The natural law as underlying the precepts of virtue: precepts of divine law
+
+4^. The relation of natural law to natural rights and natural justice
+
+As the foregoing discussion the indicates, the philosophy of law basic issues in are infrom separable about questions and justice rights of the individual and liberty, the the authority of the state, the powers of government, and fundamental the alternatives of crime and punishment, war and peace. These matters are considered in the chapters appropri- ate to the terms mentioned above. More parconsequences ticular of the theory of law, especially natural law, are found in such chapters as Revolution, Slavery, and Tyranny, to Citizen, Constitution, and Wealth,
 
 OUTLINE OF TOPICS
 

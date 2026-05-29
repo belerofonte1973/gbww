@@ -2,1243 +2,147 @@ CHAPTER: QUALITY
 
 INTRODUCTION
 
-IT
-is sometimes supposed that the fundamental categories in terms of which men think
-they are describing reality or their experience
-merely reflect the conventions of their language.
-Substance
-and
-attribute—and among
-attributes, quality and quantity—happen to be fundamental categories
-in western thought,
-it
-is
-held, only because the group of languages which
-the western cultures use all have a grammatical
-structure
-that involves a distinction between
-noun and adjective and between different kinds
-of adjectives.
-It
-is said, for example, that Aristotle's enumeration of the categories
-is merely
-a verbal classification based on Greek grammar.
-When he says that the basic terms of discourse
-represent substances,
-qualities,
-quantities,
-relations, and so forth, he is recognizing the grammatical difference between such words as"man"
-and "white," or between "white" and "six feet
-tall" and "double." The lineaments of reality,
-the varieties of being, or the modes of experience are not, it is held, thereby finally described.
-In the tradition of the great books, another
-interpretation generally
-prevails.
-Even those
-who disagree in one way or another about the
-basic categories do not regard them as conventional or of linguistic origin. Kant, for example,
-disagrees with
-Aristotle's
-listing of the
-categories. He makes substance a mode of relation
-rather than coordinate with quality, quantity,
-and relation. He calls his categories "transcendental" to
-indicate that
-they are not drawn
-from experience and that, as a priori forms of
-thought, they determine the structure of
-all
-possible
-experience.
-Aristotle,
-on
-the
-other
-hand, draws his categories from experience. He
-thinks that they represent fundamental modes
-of being and that they are, therefore, the basic
-concepts in terms of which thought apprehends
-reality. Despite all these differences, Kant and
-Aristotle agree that the categories signify real
-not verbal—distinctions. Their agreement on
-this point seems
-to be shared even by
-those,
-like Hume, who question our ability to know
-whether substances exist; or those, like Berkeley, who question the validity of the distinction
-between quality and quantity.
-In one sense, no one questions the existence
-of qualities,
-as they do the existence of substances— the enduring things, material or otherwise, in which qualities are supposed to inhere.
-Everyone somehow acknowledges the hot and
-the cold, the light and the dark, the moist and
-the
-dry,
-the
-hard
-and
-the
-soft.
-But
-such
-acknowledgement does not preclude a number
-of basic questions about quality on which much
-disagreement exists.
-Are qualities attributes? Do they exist, that
-is, only as qualifiers, only as belonging to something else ? Or do they exist independently, in
-and of themselves? If qualities are attributes,
-do they belong to things quite apart from our
-experience of them, or do they belong to things
-only as experienced and have no separate reality ? Do things have in reality certain attributes
-that cause in us the experience of other traits
-which we then attribute to the things themselves ?
-Are all the attributes of things, whether in or
-apart from experience, to be conceived as qualities, and if so, are there different kinds of qualities? Or is quality only one kind of attribute,
-and if so, how
-is quality related to other kinds
-of attributes? Is quality, for example, distinct
-from quantity, dependent on quantity, reducible to quantity, affected by quantity ?
-These questions appear to be related in ways
-which make the issues they raise dependent on
-one another.
-If, in addition,
-their presuppositions and implications are observed,
-it will be
-seen that they cannot be fully discussed without
-entering into matters considered in other chap513
-ters, such as the notions of substance and accident in the chapter on Being; the theory of
-experience and the various accounts of sense-perception and the objects of sense in the chapters on Experience and Sense; and, of course,
-some of the principal topics considered in the
-closely related chapter on Quantity.
-Spinoza distinguishes between substance and
-mode
-as
-that which
-exists
-in
-itself and
-that
-which exists in another thing. He lays down as
-an axiom that "everything which is, is either in
-itself or in another." Whether or not qualities
-are modes of substance,
-it seems
-to be
-clear
-that Spinoza would not
-call them substances.
-The notion of qualities existing in themselves,
-and not as the qualities of'anything, seems to be
-self-contradictory. As Descartes points out, to
-assert
-"the
-existence
-of
-real
-accidents,"
-by
-which he means the existence of qualities or
-quantities apart from substances, is to deny the
-distinction
-between
-substance
-and
-accident.
-"Substance,"
-he
-writes,
-"can
-never
-be
-conceived after the fashion of accidents, nor can
-it
-derive
-its
-reality from
-them";
-whereas
-"no
-reality can be ascribed to [accidents], which
-is
-not taken from the idea of substance."
-Anyone who acknowledges
-the
-distinction
-between substance and accident also conceives
-qualities as accidents or attributes, i.e., as existing in the things they
-qualify. Spinoza, Descartes, Locke, and Aristotle do not conceive
-substance in the same way, nor do they all use
-the word "accident"
-to name the characteristics which inhere in substance. Locke, for example, uses the word "quality" with almost the
-same generality that Spinoza gives to the word
-"mode," or Descartes and Aristotle
-to "accident." And the word "substance" Locke uses
-in a sense that
-is nearer to Aristotle's meaning
-for the word "matter," when, in trying to conceive bare substance as the underlying "I know
-not what," Locke
-defines
-this substratum
-as
-that which supports qualities. Apart from
-its
-qualities, substance has no positive characteristics.
-Nevertheless, such differences in theory leave
-untouched the point ofagreement that qualities
-do not float freely—without any support— in
-either reality or experience. Even Berkeley's denial of matter, or of bodies existing apart from
-their being perceived, does not turn qualities
-into substances, for qualities as perceived are the
-qualities of bodies as perceived, and both
-together have their existence in the perceiver.
-The contrary view— that
-qualities
-exist
-in
-and of themselves—does not seem
-to receive
-clear or explicit expression in the tradition of
-the great books. It may be implied
-in the conception of experience which Hume develops
-more fully in the
-Treatise on Human
-Nature
-than in the Enquiry. There it seems to be supposed that each element of experience has the
-same reality as any other; that each stands by
-itself without any perceptible dependence upon
-any other; and that it has no existence beyond
-its momentary appearance. On this view no enduring substances exist. In addition,
-it is as appropriate
-to
-call
-the elements of experience
-"qualities" as
-it
-is to call them anything else.
-Experience can
-be
-described
-as nothing
-but
-qualities and
-relations—or as qualities related
-by succession and contiguity.
-The notion that experience is a continual flux
-in which nothing
-has
-a
-continuing
-identity
-from moment to moment, seems to be basic to
-any theory which denies substances and affirms
-the independent reality of qualities. The theory
-of
-qualities
-which
-Plato
-attributes
-to
-Heraclitus
-or
-his
-followers
-illustrates
-this.
-"Their first principle," Socrates tells Theaetetus, "is that all is motion, and upon this all the
-affections of which we were just now speaking
-are supposed to depend; there
-is nothing but
-motion, which has two forms, one active and
-the other passive, both in endless number; and
-out of the union and friction of them
-is generated a progeny endless in number, having two
-forms, sense and the object of sense."
-For example, "when the eye and the appropriate object meet together and give birth to
-whiteness and the sensation connatural with it
-.
-.
-. then, while the sight is flowing from the eye,
-whiteness proceeds from the object which combines in producing the color.
-.
-.
-. This is true of
-all sensible objects, hard, warm, and the like,
-which are similarly to be regarded not as having
-any absolute existence, but as being all of them
-generated by motion in their intercourse with
-one another ... for the agent has no existence
-until united with the patient, and the patient
-has no existence until united with the agent.
-.
-.
-.
+is sometimes supposed that the fundamenIT tal categories in terms of which men think they are describing reality or their experience merely reflect the conventions of their language. Substance and attribute—and among attributes, quality and quantity—happen to be fundamental categories in western thought, it is held, only because the group of languages which the western cultures use all have a grammatical structure that involves a distinction between noun and adjective and between different kinds of adjectives. It is said, for example, that Aristotle's enumeration of the categories is merely a verbal classification based on Greek grammar. When he says that the basic terms of discourse represent substances, qualities, quantities, relations, and so forth, he is recognizing the grammatical difference between such words as"man" and "white," or between "white" and "six feet tall" and "double." The lineaments of reality, the varieties of being, or the modes of experience are not, it is held, thereby finally described.
 
-these considerations,"
-Socrates
-says, "there arises a general reflection that there
-is no self-existent thing, but everything
-is becoming and in relation."
-^__—
-Socrates explains that, for those who assert a
-universal flux, qualities are not only the products of motion, but also are themselves in motion— "not even white continues to flow white,
-and whiteness itself is a flux or change which
-is
-passing into another color." There is no need to
-refute
-this doctrine, Socrates
-thinks,
-since
-it
-refutes itself by
-its unintelligibility or, worse,
-its inability to say anything definite in consequence of denying that words can have a constant meaning from moment to moment.
-Aristotle concurs in this attitude toward "the
-most extreme view of the professed Heracliteans," but goes on to remark that "not even at
-different times does one sense disagree about
-the quality, but only about that to which the
-quality belongs.
-I mean, for instance, that the
-same wine might seem, if either it or one's body
-changed, at one time sweet and at another time
-not sweet; but at least the sweet, such as
-it
-is
-when
-it
-exists,
-has never yet changed." The
-sweet thing may become sour, either in
-itself
-or
-to
-us,
-but sweetness
-itself never becomes
-sourness.
-That qualities do not change into one another,
-whereas
-substances undergoing
-alteration change from one quality to another, seems
-to Aristotle
-to distinguish quality from substance. "The most
-distinctive mark of substance," he writes, "appears to be that, while
-remaining numerically one and the same,
-it
-is
-capable of having contrary qualities.
-.
-.
-. Thus,
-one and the same color cannot be white and
-black.
-.
-.
-. But the same individual person
-is at
-one time white, at another black, at one time
-warm,
-at another cold, at one time good,
-at
-another bad." The qualities do not change, but
-the
-substance
-in
-changing,
-passes from one
-quality
-to
-its
-contrary.
-(The
-difference
-between change of quality, or alteration, and the
-other types of change which substances can undergo,
-is discussed in the chapter on Change.)
-Aristotle suggests another mark of distinction between substance and quality. One substance, he says, never stands to another as
-its
-contrary, in the way in which qualities are contrary to one another, like hot and cold, white
-and black, good and bad. A quality may have
-a correlative as well as a contrary, e.g., if knowledge
-is a quality of mind, the object known is
-its correlative, whereas ignorance of the object
-is the contrary of knowledge.
-In some
-cases,
-the contrary qualities may be the extremes or
-limits of a continuous series of intermediates,
-e.g., white and black with all the intermediate
-greys. In some cases, as with knowledge and ignorance, the contrary qualities have no intermediates.
-(Contrariety and
-correlation, most
-frequently exemplified
-by
-qualities,
-are considered in the chapter on Opposition.)
-Still another mark of distinction between
-substance and quality, according to Aristotle,
-is that qualities do and substances do not admit
-of variation
-in degree. "One man cannot be
-more man than another," he writes,
-"as that
-which
-is white may be more or less white than
-some other white object.
-.
-.
-. The same quality,
-moreover, is said to subsist in a thing in varying
-degrees at different times. A white body is said
-to be whiter at one time than it was before, or a
-warm body
-is said to be warmer or less warm
-than at some other time."
-This observation
-raises
-a number of questions. Does variation in the degree of a quality
-from time to time imply that qualities thenv
-selves undergo change,
-just
-as substances undergo change
-in quality ? Do they remain one
-and the same in kind while varying in degree?
-Is this change which qualities undergo as they
-increase or decrease
-in intensity,
-a change
-in
-quantity?
-Furthermore,
-does
-the
-fact
-that
-something white can become more or less white,
-mean that a quality can have a certain quantity
-even as a body can ? Aquinas suggests an answer
-by
-distinguishing between what he
-calls
-the
-"dimensive quantity" of bodies and the "virtual
-quantity" of qualities.
-Virtual quantity
-is the
-degree or intensity which non-quantitative attributes may
-possess—such
-personal
-qualities
-as virtues and habits, or such corporeal qualities
-as colors and textures.
-But this
-still seems to leave a very difficult
-question
-to
-be answered. How can
-qualities
-have the attribute of quantity without becoming substances? On the principle which both
-Aristotle and Aquinas accept— that accidents
-exist only in substances—how can one kind of
-accident (quantity) exist in another (quality) ?
-The view which William James holds, namely,
-that variation in intensity creates differences in
-color as much as variation in hue, would solve
-the problem,
-or
-rather
-it would
-dismiss
-the
-problem as not genuine by denying Aristotle's
-thesis that a color can remain the same while
-varying in degree.
-However handled, the problem is not peculiar
-to
-qualities.
-Actions
-and
-passions,
-Aristotle
-points out, also vary in degree. Nor are qualities distinguished from everything else in the
-world by having
-contraries.
-Correlatives can
-also have contraries, as can actions and passions.
-Furthermore, not
-all qualities have contraries.
-Not all admit of variation in degree. Shape, like
-triangular or square, which Aristotle regards as
-a kind of quality, cannot vary in this way. The
-square thing cannot become more or less square.
-In view of all this, Aristotle concludes that there
-is one characteristic alone which differentiates
-quality not only from substance, but also from
-everything else. Quality
-is the basis for saying
-that things are like or unlike, similar or dissimilar,
-as quantity
-is
-the
-basis
-for saying
-that
-things are equal or unequal.
-Other contrasts between quality and quantity, especially those bearing on the reduction
-of quality to quantity, are discussed in the chapter on Quantity. Here it may be illuminating
-to
-apply
-the
-foregoing
-distinction
-between
-quality
-and
-quantity
-to
-shapes
-or
-figures.
-Shape or figure
-is a curious mixture of quality
-and quantity.
-It
-is
-a quantified quality or
-a
-qualified quantity or, as Aquinas says, "a quality about quantity, since the nature of shape
-consists
-in
-fixing
-the bounds of magnitude."
-This seems to be evident in the fact that shapes,
-like
-quantities, do not admit of variation
-in
-degree. But it may also be seen in the fact that
-Euclid
-deals
-quite
-separately
-with problems
-concerning the equality of triangles and problems concerning their similarity.
-Except for the question of whether qualities subsist by themselves or are the attributes
-of substances, most of the problems of quality
-seem to concern its distinction from or relation
-to quantity. As we have seen, the question of
-the degree or amount of a quality involves the
-notion of quantity.
-Even more
-explicitly
-a
-problem of how qualities and quantities are related,
-is the question of the order of these two
-attributes. Can
-it be said
-that quantities are
-the more fundamental attributes of things and
-that they somehow precede or underlie qualities? Is it the reverse? Or are qualities prior in
-certain respects and quantities in other respects ?
-Aristotle's theory of the elements seems to
-give absolute primacy to quality in the realm
-of material things. The four elements of matter
-are characterized by combinations of two pairs
-of contrary qualities, the hot and the cold, the
-dry and
-the
-moist. On
-the other hand,
-the
-atomic
-theory of Lucretius appears
-to make
-quantities, such as size and weight, the primary
-properties of matter. Newton's enumeration of
-what he calls "the universal qualities of all bodies
-whatsoever,"
-including,
-of
-course,
-their
-"least particles," lists "extension, hardness, impenetrability,
-mobility, and
-inertia."
-As
-indicated in the chapter on Quantity, the very
-reason Newton gives for calling these qualities
-"universal" would seem to justify calling them
-"quantities" rather than qualities. In any case,
-Newton's view, like that of the ancient atomists, seems to be opposed to the theory of the
-elementary and contrary qualities.
-But Aristotle himself also appears to hold a
-view which makes quantity prior
-to quality.
-Considering the way in which the quality white
-is in a body, he says that it is in the body in virtue of the body's extended surface. If surface or
-extension
-is interpreted as a physical quantity,
-then it would seem to follow that this quantity
-underlies a body's possession of visible and perhaps other qualities. Aquinas, for example, says
-that "quantity
-is the proximate subject of the
-qualities that cause alteration,
-as surface
-is of
-color,"
-and,
-again,
-that "quantity
-is
-in substance before sensible qualities are."
-This
-last
-statement can
-be
-interpreted
-to
-mean that quantity is universally prior to quality among the attributes of substance. Or it can
-be understood to mean that quantity
-is prior
-only to sensible qualities and then only among
-the physical attributes of bodies. Which interpretation is chosen depends in part on whether
-all qualities are sensible.
-It would seem that all qualities are not sensible, according
-to Aristotle and Aquinas, and
-therefore quantity is not prior to every kind of
+In the tradition of the great books, another interpretation generally prevails. Even those who disagree in one way or another about the basic categories do not regard them as conventional or of linguistic origin. Kant, for example, disagrees with Aristotle's listing of the categories. He makes substance a mode of relation rather than coordinate with quality, quantity, and relation. He calls his categories "transcendental" to indicate that they are not drawn from experience and that, as a priori forms of thought, they determine the structure of all possible experience. Aristotle, on the other hand, draws his categories from experience. He thinks that they represent fundamental modes of being and that they are, therefore, the basic concepts in terms of which thought apprehends reality. Despite all these differences, Kant and Aristotle agree that the categories signify real not verbal—distinctions. Their agreement on this point seems to be shared even by those, like Hume, who question our ability to know whether substances exist; or those, like Berkeley, who question the validity of the distinction between quality and quantity.
 
-Natural qualities, Aquinas writes, "may be in
-the
-intellectual
-part or
-in
-the body and
-its
-powers." Certainly the qualities inherent in the
-intellectual part of man's nature are not sensible; nor are the first two of the four species of
-quality
-which
-both
-Aristotle
-and
-Aquinas
-enumerate.
-In their enumeration, human qualities— the
-habits or dispositions of a man, such as knowledge and
-virtue,
-or beauty and
-health—are
-the
-first sort. The powers or inborn capacities
-whereby men and other animals act to develop
-their
-natures
-are
-a
-second
-type
-of quality;
-e.g.,
-the power of sensitivity
-in animals,
-the
-power of rationality in men, are qualities proper
-to
-these species and are, therefore, sometimes
-called "properties." This second type of quality does not seem
-to
-be
-restricted
-to
-living
-things. Inanimate bodies also have, among their
-properties, certain fundamental powers of action or reaction. The third and fourth types of
-quality differ from the first two in that both are
-sensible,
-i.e., capable of affecting the senses directly and, therefore, sometimes called "affective qualities." Of these, the third type—shape
-or
-figure—has
-already
-been
-discussed.
-The
-fourth
-type— colors,
-sounds,
-textures,
-odors,
-tastes, and such thermal
-qualities
-as hot and
-cold—are, more than shape or figure, regarded
-as the principal affective or sensible qualities.
-The fact that Aristotle regards certain qualities, such as hot and cold, or hard and soft, as
-being dispositions or powers
-as well
-as being
-affective qualities, need not invalidate his fourfold classification. His classification of the same
-attribute under two distinct species of quality
-seems to imply that
-it can be considered from
-two points of view. The elementary qualities,
-for example, are affective or sensible qualities
-but they are also the active qualities or powers
-— the properties—of the elements.
-In view of this classification of qualities,
-it
-does not seem to be the case that quantities are
-prior to
-all the qualitative attributes of substance. On the conception of living things as
-composite of soul and body, the qualities which
-are vital powers are usually regarded as properties which the thing has in virtue of having a
-soul. They are certainly not founded upon the
-quantitative attributes of the organism's body.
-The moral and spiritual qualities of men seem
-to afford another example of qualities either
-prior to, or at least independent of, quantities.
-Even
-in the case of inanimate bodies,
-it may
-be that certain fundamental properties or powers are essentially qualitative rather than quantitative. The
-proposition
-that
-in
-substances,
-quantities are prior to qualities—or that qualities
-inhere
-in
-substances
-in
-virtue
-of
-their
-quantities—may apply only to
-sensible
-qualities,
-as, for example, colors in relation to surfaces.
-One of the great issues in the tradition of
-western
-thought
-concerns our perception
-or
-knowledge of qualities.
-If certain characteristics which are not directly sensible are
-to be
-called "qualities," then the problem of how we
-know such
-qualities does not
-differ from the
-problem of how we know anything
-else
-that
-cannot be apprehended by our senses. We may,
-for example, be able to infer such qualities as
-habits or powers from the sensible evidences of
-a thing's behavior, even as in turn we infer the
-thing's nature or essence from
-its proper qualities
-or
-properties.
-With
-regard
-to
-sensible
-qualities, the problem does not seem to be how
-we know them— for the fact that they are sensible means
-that
-they
-are knowable by
-the
-senses. The question
-is rather one of the mode
-of existence— the objectivity or subjectivity
-of the qualities sensed.
-Locke's famous distinction between primary
-and secondary qualities states the problem.
-It
-is
-preceded
-by
-his
-distinction
-between
-the
-qualities of things and the ideas in our minds.
-"A snow-ball," he writes, has "the power to produce in us the idea of white, cold, and round.
-The powers
-to produce
-those
-ideas
-in
-us,
-as
-they are in the snow-ball,
-I call qualities; and
-as
-they
-are
-sensations or perceptions
-in our
-understandings,
-I call them ideas; which ideas,
-if I speak of them sometimes as in the things
-themselves,
-I would
-be understood
-to mean
-those
-qualities in
-the objects which produce
-them in us."
-The primary
-qualities of bodies are
-those
-which are utterly inseparable from body—such
-as "sense constantly finds in every particle of
-matter which has bulk enough to be perceived,
-and the mind finds inseparable from every par-
-tide of matter, though less than to make itself
-singly perceived by our senses." Locke's enumeration of these "original or primary qualities
-of body, which we may observe
-to produce
-simple ideas in us, viz., solidity, extension, figure, motion or
-rest, and number," closely
-resembles Newton's list of the universal qualities
-of perceptible bodies and of their "least particles" or atoms.
-In contrast, the secondary qualities, such as
-colors, sounds,
-tastes, etc., are "nothing in the
-objects
-themselves,
-but
-powers
-to
-produce
-various sensations in us by their primary qualities,
-i.e.,
-by
-the
-bulk,
-figure,
-texture,
-and
-motion of
-their
-insensible
-parts.
-.
-.
-. From
-whence," Locke
-declares,
-"I
-think
-it
-is easy
-to draw
-this
-observation,
-that
-the
-ideas
-of
-primary qualities of bodies, are resemblances of
-them, and their patterns do really exist in the
-bodies themselves, but the ideas produced in us
-by
-these secondary
-qualities, have no resemblance of them at all. There is nothing like our
-ideas existing
-in the bodies themselves. They
-are
-in the bodies we denominate from them,
-only a power to produce those sensations in us:
-what is sweet, blue, or warm, in idea,
-is but the
-certain bulk, figure and motion of the insensible
-parts in the bodies which we call so."
-Locke thinks the sensation of pain confirms
-this insight. As the piece of steel which by
-its
-corporeal properties has the power to produce
-pain in
-us, does not
-itself have the quality of
-pain, so
-it does not have anything corresponding to the ideas of blueness or coldness which it
-produces in
-us, except the power to produce
-these ideas through the action of its primary
-qualities on our
-senses. Yet Locke maintains
-that all our simple ideas of quality— not only of
-primary, but also ofsecondary qualities— "agree
-with the reality of things." By agreement he does
-not mean resemblance in the sense of copying;
-and therefore he thinks he can, without inconsistency, deny any resemblance between sensations of color or taste and the secondary qualities of bodies, while saying that "if sugar produces
-in
-us
-the
-ideas we
-call
-whiteness and
-sweetness, we are sure there is a power in sugar
-to produce those ideas in our minds, or else they
-could not have been produced by it."
-Locke's point, however,
-is sometimes given
-exactly the opposite implication. Earlier thinkers who do not speak of primary and secondary
-qualities attribute
-to bodies only the characteristics which Locke
-calls primary, and give
-what he calls secondary qualities no reality at
-all, that
-is, no existence outside the mind. The
-secondary qualities are not qualities of things,
-but of sensations or images. Descartes, for example, says that nothing belongs "to the nature
-or essence of body except
-.
-.
-. length, breadth
-and
-depth, admitting
-of various shapes and
-various motions.
-.
-.
-. On the other hand, colors,
-odors, savours, and the rest of such things are
-merely sensations existing in my thought, and
-differing no less from bodies than pain differs
-from the shape and motion of the instrument
-which inflicts it."
-Hobbes similarly regards the various sensible
-qualities as feelings in us— the seemings or fancies of sense. All these "qualities called sensible
-are in the object that causes them, nothing but
-so many several motions of the matter.
-.
-.
-. The
-object
-is one thing, the fancy
-is another." One
-type of "absurd assertion,"
-in the opinion of
-Hobbes,
-consists in giving "the names of the
-accidents of bodies without us, to the accidents
-of our own bodies, as they do that say, the color
-is in the body, the sound is in the air, etc."
-The attributes or accidents which Descartes
-and Hobbes assign to bodies seem to be quantities rather than qualities. Accordingly, whereas Locke attributes both primary and secondary qualities to bodies, Hobbes and Descartes
-seem to be saying that bodies differ from one
-another only quantitatively, and that qualities
-or qualitative differences occur only in the realm
-of sense or thought. Expounding the atomism
-of Democritus and
-Epicurus,
-Lucretius
-appears to make precisely this point when he says
-that the first-beginnings or atoms are characterized only by size, weight, shape, and motion.
-"The bodies of matter," he writes, "have no
-color at all." They are bereft not only of color;
-"they are also sundered altogether from warmth
-and cold, and fiery heat, and are carried along
-barren of sound and devoid of taste." These
-qualities, caused by the blows of the atoms upon
-the sense-organs of animals, are the qualities of
-sensations, not of things.
-The criticism of this theory—whether in the
-formulation of Locke or in that of Descartes,
+In one sense, no one questions the existence of qualities, as they do the existence of substances— the enduring things, material or otherwise, in which qualities are supposed to inhere. Everyone somehow acknowledges the hot and the cold, the light and the dark, the moist and the dry, the hard and the soft. But such acknowledgement does not preclude a number of basic questions about quality on which much disagreement exists.
 
-Hobbes, and
-Lucretius—seems
-itself
-to
-take
-two
-forms.
-Aristotle,
-for
-example,
-criticizes
-Democritus and the atomists for treating perceptible qualities differently from perceptible
-quantities. According to his own theory of the
-objects
-of
-sense,
-some,
-like
-colors,
-sounds,
-odors, flavors—which Locke
-calls "secondary
-qualities" and the others simply "qualities"—
-are the proper objects of the special senses, such
-as
-sight,
-hearing,
-smell,
-taste.
-In contrast
-to
-these "proper sensibles," each exclusively perceived by one and only one sense, there are the
-"common
-sensibles," such
-as
-size and
-shape,
-number, movement and rest, which can be perceived commonly by several senses,
-e.g., shape
-is
-visible and
-tangible, motion
-is
-visible and
-audible. Such sensible attributes of body, which
-Locke
-calls "primary qualities,"
-Aristotle, no
-less than Hobbes or Lucretius, regards as quantities, not qualities. Reporting his view, Aquinas writes that "the common sensibles are
-all
-reducible to quantity."
-Aristotle's critical point seems to be that the
-atomists "reduce
-the proper
-to
-the common
-sensibles,
-as Democritus does with white and
-black; for he asserts that the latter is a mode of
-the rough and the former a mode of the smooth,
-while he reduces savours to the atomic figures."
-The
-atomists
-sometimes make
-the
-opposite
-error of representing "all objects of sense as objects of touch." But in either case they have no
-ground,
-in
-Aristotle's
-opinion,
-for giving
-to
-certain
-sensible
-attributes—whether
-these
-be
-tangible
-qualities
-or
-the commonly
-sensible
-quantities—an objective
-reality they deny to
-other
-sensible
-traits,
-like
-colors,
-sounds, and
-odors.
-Aristotle's theory of sensation and the sensible
-is discussed more fully in the chapter on
-Sense. According
-to
-it,
-the
-qualities, no
-less
-than the quantities, perceptible by sense have
-real
-or
-actual
-existence
-as
-the
-attributes
-of
-bodies. On this score Aristotle does not differentiate between
-qualities
-(the proper sensibles)
-and quantities (the common sensibles). Just as
-a body actually has the shape we perceive it to
-have, so it actually has the color we perceive it
-to have, on the supposition, of course, that our
-perception
-is
-accurate
-in
-both
-cases.
-If the
-senses are
-fallible at
-all, we are
-less prone
-to
-make errors, Aristotle thinks, in the field of the
-proper than of the common sensibles,
-e.g., the
-stick in water which looks bent to the eye feels
-straight to the hand.
-Precisely the opposite direction seems to be
-taken by Berkeley and Hume. Where Aristotle
-criticizes the atomists for treating quantities (or
-common sensibles)
-as
-objective, and qualities
-(or proper
-sensibles)
-as
-subjective,
-Berkeley
-criticizes Locke for treating primary and secondary qualities differently. Where
-Aristotle's
-own theory assigns the same reality to all objects of sense, granting them an actuality apart
-from perception, Berkeley makes the actuality
-of the primary as well as the secondary qualities
-dependent upon their being perceived.
-"Some
-there
-are,"
-writes
-Berkeley, "who
-make a distinction betwixt primary and secondary qualities. By the former they mean extension,
-figure, motion,
-rest,
-solidity or impenetrability and number; by the latter they denote
-all other
-sensible
-qualities,
-as
-colors,
-sounds,
-tastes and so forth. The ideas we have of these
-they acknowledge not
-to be the resemblances
-of
-anything
-existing
-without
-the
-mind
-or
-unperceived,
-but
-they
-will
-have
-our
-ideas
-of
-the
-primary
-qualities
-to
-be
-patterns
-or
-images of things which exist without the mind,
-in
-an
-unthinking
-substance which
-they
-call
+Are qualities attributes? Do they exist, that is, only as qualifiers, only as belonging to something else ? Or do they exist independently, in and of themselves? If qualities are attributes, do they belong to things quite apart from our experience of them, or do they belong to things only as experienced and have no separate reality ? Do things have in reality certain attributes that cause in us the experience of other traits which we then attribute to the things themselves ?
+
+Are all the attributes of things, whether in or apart from experience, to be conceived as qualities, and if so, are there different kinds of qualities? Or is quality only one kind of attribute, and if so, how is quality related to other kinds of attributes? Is quality, for example, distinct from quantity, dependent on quantity, reducible to quantity, affected by quantity ?
+
+These questions appear to be related in ways which make the issues they raise dependent on one another. If, in addition, their presuppositions and implications are observed, it will be seen that they cannot be fully discussed without entering into matters considered in other chapters, such as the notions of substance and accident in the chapter on Being; the theory of experience and the various accounts of sense-perception and the objects of sense in the chapters on Experience and Sense; and, of course, some of the principal topics considered in the closely related chapter on Quantity.
+
+Spinoza distinguishes between substance and mode as that which exists in itself and that which exists in another thing. He lays down as an axiom that "everything which is, is either in itself or in another." Whether or not qualities are modes of substance, it seems to be clear that Spinoza would not call them substances. The notion of qualities existing in themselves, and not as the qualities of'anything, seems to be self-contradictory. As Descartes points out, to assert "the existence of real accidents," by which he means the existence of qualities or quantities apart from substances, is to deny the distinction between substance and accident.
+
+"Substance," he writes, "can never be conceived after the fashion of accidents, nor can it derive its reality from them"; whereas "no reality can be ascribed to [accidents], which is not taken from the idea of substance."
+
+Anyone who acknowledges the distinction between substance and accident also conceives qualities as accidents or attributes, i.e., as existing in the things they qualify. Spinoza, Descartes, Locke, and Aristotle do not conceive substance in the same way, nor do they all use the word "accident" to name the characteristics which inhere in substance. Locke, for example, uses the word "quality" with almost the same generality that Spinoza gives to the word "mode," or Descartes and Aristotle to "accident." And the word "substance" Locke uses in a sense that is nearer to Aristotle's meaning for the word "matter," when, in trying to conceive bare substance as the underlying "I know not what," Locke defines this substratum as that which supports qualities. Apart from its qualities, substance has no positive characteristics.
+
+Nevertheless, such differences in theory leave untouched the point ofagreement that qualities do not float freely—without any support— in either reality or experience. Even Berkeley's denial of matter, or of bodies existing apart from their being perceived, does not turn qualities into substances, for qualities as perceived are the qualities of bodies as perceived, and both together have their existence in the perceiver.
+
+The contrary view— that qualities exist in and of themselves—does not seem to receive clear or explicit expression in the tradition of the great books. It may be implied in the conception of experience which Hume develops more fully in the Treatise on Human Nature than in the Enquiry. There it seems to be supposed that each element of experience has the same reality as any other; that each stands by itself without any perceptible dependence upon any other; and that it has no existence beyond its momentary appearance. On this view no en- during substances exist. In addition, it is as appropriate to call the elements of experience "qualities" as it is to call them anything else.
+
+Experience can be described as nothing but qualities and relations—or as qualities related by succession and contiguity.
+
+The notion that experience is a continual flux in which nothing has a continuing identity from moment to moment, seems to be basic to any theory which denies substances and affirms the independent reality of qualities. The theory of qualities which Plato attributes to
+
+Heraclitus or his followers illustrates this. "Their first principle," Socrates tells Theaetetus, "is that all is motion, and upon this all the affections of which we were just now speaking are supposed to depend; there is nothing but motion, which has two forms, one active and the other passive, both in endless number; and out of the union and friction of them is generated a progeny endless in number, having two forms, sense and the object of sense."
+
+For example, "when the eye and the appropriate object meet together and give birth to whiteness and the sensation connatural with it
+
+. . . then, while the sight is flowing from the eye, whiteness proceeds from the object which combines in producing the color. . . . This is true of all sensible objects, hard, warm, and the like, which are similarly to be regarded not as having any absolute existence, but as being all of them generated by motion in their intercourse with one another ... for the agent has no existence until united with the patient, and the patient has no existence until united with the agent. . . And from all these considerations," Socrates says, "there arises a general reflection that there is no self-existent thing, but everything is becoming and in relation." ^__—
+
+Socrates explains that, for those who assert a universal flux, qualities are not only the products of motion, but also are themselves in motion— "not even white continues to flow white, and whiteness itself is a flux or change which is passing into another color." There is no need to refute this doctrine, Socrates thinks, since it refutes itself by its unintelligibility or, worse, its inability to say anything definite in consequence of denying that words can have a constant meaning from moment to moment.
+
+Aristotle concurs in this attitude toward "the most extreme view of the professed Heracliteans," but goes on to remark that "not even at different times does one sense disagree about the quality, but only about that to which the quality belongs. I mean, for instance, that the same wine might seem, if either it or one's body changed, at one time sweet and at another time not sweet; but at least the sweet, such as it is when it exists, has never yet changed." The sweet thing may become sour, either in itself or to us, but sweetness itself never becomes sourness. That qualities do not change into one another, whereas substances undergoing alteration change from one quality to another, seems to Aristotle to distinguish quality from substance. "The most distinctive mark of substance," he writes, "appears to be that, while remaining numerically one and the same, it is capable of having contrary qualities. . . . Thus, one and the same color cannot be white and black. . . . But the same individual person is at one time white, at another black, at one time warm, at another cold, at one time good, at another bad." The qualities do not change, but the substance in changing, passes from one quality to its contrary. (The difference between change of quality, or alteration, and the other types of change which substances can undergo, is discussed in the chapter on Change.)
+
+Aristotle suggests another mark of distinction between substance and quality. One substance, he says, never stands to another as its contrary, in the way in which qualities are contrary to one another, like hot and cold, white and black, good and bad. A quality may have a correlative as well as a contrary, e.g., if knowledge is a quality of mind, the object known is its correlative, whereas ignorance of the object is the contrary of knowledge. In some cases, the contrary qualities may be the extremes or limits of a continuous series of intermediates, e.g., white and black with all the intermediate greys. In some cases, as with knowledge and ignorance, the contrary qualities have no intermediates. (Contrariety and correlation, most frequently exemplified by qualities, are considered in the chapter on Opposition.)
+
+Still another mark of distinction between substance and quality, according to Aristotle, is that qualities do and substances do not admit of variation in degree. "One man cannot be more man than another," he writes, "as that which is white may be more or less white than some other white object. . . . The same quality, moreover, is said to subsist in a thing in varying degrees at different times. A white body is said to be whiter at one time than it was before, or a warm body is said to be warmer or less warm than at some other time."
+
+This observation raises a number of questions. Does variation in the degree of a quality from time to time imply that qualities thenv selves undergo change, just as substances undergo change in quality ? Do they remain one and the same in kind while varying in degree?
+
+Is this change which qualities undergo as they increase or decrease in intensity, a change in quantity? Furthermore, does the fact that something white can become more or less white, mean that a quality can have a certain quantity even as a body can ? Aquinas suggests an answer by distinguishing between what he calls the "dimensive quantity" of bodies and the "virtual quantity" of qualities. Virtual quantity is the degree or intensity which non-quantitative attributes may possess—such personal qualities as virtues and habits, or such corporeal qualities as colors and textures.
+
+But this still seems to leave a very difficult question to be answered. How can qualities have the attribute of quantity without becoming substances? On the principle which both
+
+Aristotle and Aquinas accept— that accidents exist only in substances—how can one kind of accident (quantity) exist in another (quality) ? The view which William James holds, namely, that variation in intensity creates differences in color as much as variation in hue, would solve the problem, or rather it would dismiss the problem as not genuine by denying Aristotle's thesis that a color can remain the same while varying in degree.
+
+However handled, the problem is not peculiar to qualities. Actions and passions, Aristotle points out, also vary in degree. Nor are qualities distinguished from everything else in the world by having contraries. Correlatives can also have contraries, as can actions and passions.
+
+Furthermore, not all qualities have contraries. Not all admit of variation in degree. Shape, like triangular or square, which Aristotle regards as a kind of quality, cannot vary in this way. The square thing cannot become more or less square.
+
+In view of all this, Aristotle concludes that there is one characteristic alone which differentiates quality not only from substance, but also from everything else. Quality is the basis for saying that things are like or unlike, similar or dissimilar, as quantity is the basis for saying that things are equal or unequal.
+
+Other contrasts between quality and quantity, especially those bearing on the reduction of quality to quantity, are discussed in the chapter on Quantity. Here it may be illuminating to apply the foregoing distinction between quality and quantity to shapes or figures.
+
+Shape or figure is a curious mixture of quality and quantity. It is a quantified quality or a qualified quantity or, as Aquinas says, "a quality about quantity, since the nature of shape consists in fixing the bounds of magnitude."
+
+This seems to be evident in the fact that shapes, like quantities, do not admit of variation in degree. But it may also be seen in the fact that
+
+Euclid deals quite separately with problems concerning the equality of triangles and problems concerning their similarity.
+
+Except for the question of whether qualities subsist by themselves or are the attributes of substances, most of the problems of quality seem to concern its distinction from or relation to quantity. As we have seen, the question of the degree or amount of a quality involves the notion of quantity. Even more explicitly a problem of how qualities and quantities are related, is the question of the order of these two attributes. Can it be said that quantities are the more fundamental attributes of things and that they somehow precede or underlie qualities? Is it the reverse? Or are qualities prior in certain respects and quantities in other respects ?
+
+Aristotle's theory of the elements seems to give absolute primacy to quality in the realm of material things. The four elements of matter are characterized by combinations of two pairs of contrary qualities, the hot and the cold, the dry and the moist. On the other hand, the atomic theory of Lucretius appears to make quantities, such as size and weight, the primary properties of matter. Newton's enumeration of what he calls "the universal qualities of all bodies whatsoever," including, of course, their "least particles," lists "extension, hardness, impenetrability, mobility, and inertia." As indicated in the chapter on Quantity, the very reason Newton gives for calling these qualities "universal" would seem to justify calling them "quantities" rather than qualities. In any case, Newton's view, like that of the ancient atomists, seems to be opposed to the theory of the elementary and contrary qualities.
+
+But Aristotle himself also appears to hold a view which makes quantity prior to quality.
+
+Considering the way in which the quality white is in a body, he says that it is in the body in virtue of the body's extended surface. If surface or extension is interpreted as a physical quantity, then it would seem to follow that this quantity underlies a body's possession of visible and perhaps other qualities. Aquinas, for example, says that "quantity is the proximate subject of the qualities that cause alteration, as surface is of color," and, again, that "quantity is in substance before sensible qualities are."
+
+This last statement can be interpreted to mean that quantity is universally prior to quality among the attributes of substance. Or it can be understood to mean that quantity is prior only to sensible qualities and then only among the physical attributes of bodies. Which interpretation is chosen depends in part on whether all qualities are sensible.
+
+It would seem that all qualities are not sensible, according to Aristotle and Aquinas, and therefore quantity is not prior to every kind of quality among the accidents of substance.
+
+Natural qualities, Aquinas writes, "may be in the intellectual part or in the body and its powers." Certainly the qualities inherent in the intellectual part of man's nature are not sensible; nor are the first two of the four species of quality which both Aristotle and Aquinas enumerate.
+
+In their enumeration, human qualities— the habits or dispositions of a man, such as knowledge and virtue, or beauty and health—are the first sort. The powers or inborn capacities whereby men and other animals act to develop their natures are a second type of quality; e.g., the power of sensitivity in animals, the power of rationality in men, are qualities proper to these species and are, therefore, sometimes called "properties." This second type of quality does not seem to be restricted to living things. Inanimate bodies also have, among their properties, certain fundamental powers of action or reaction. The third and fourth types of quality differ from the first two in that both are sensible, i.e., capable of affecting the senses directly and, therefore, sometimes called "affective qualities." Of these, the third type—shape or figure—has already been discussed. The fourth type— colors, sounds, textures, odors, tastes, and such thermal qualities as hot and cold—are, more than shape or figure, regarded as the principal affective or sensible qualities.
+
+The fact that Aristotle regards certain qualities, such as hot and cold, or hard and soft, as being dispositions or powers as well as being affective qualities, need not invalidate his fourfold classification. His classification of the same attribute under two distinct species of quality seems to imply that it can be considered from two points of view. The elementary qualities, for example, are affective or sensible qualities but they are also the active qualities or powers — the properties—of the elements.
+
+In view of this classification of qualities, it does not seem to be the case that quantities are prior to all the qualitative attributes of substance. On the conception of living things as composite of soul and body, the qualities which are vital powers are usually regarded as properties which the thing has in virtue of having a soul. They are certainly not founded upon the quantitative attributes of the organism's body.
+
+The moral and spiritual qualities of men seem to afford another example of qualities either prior to, or at least independent of, quantities. Even in the case of inanimate bodies, it may be that certain fundamental properties or powers are essentially qualitative rather than quantitative. The proposition that in substances, quantities are prior to qualities—or that qualities inhere in substances in virtue of their quantities—may apply only to sensible qualities, as, for example, colors in relation to surfaces.
+
+One of the great issues in the tradition of western thought concerns our perception or knowledge of qualities. If certain characteristics which are not directly sensible are to be called "qualities," then the problem of how we know such qualities does not differ from the problem of how we know anything else that cannot be apprehended by our senses. We may, for example, be able to infer such qualities as habits or powers from the sensible evidences of a thing's behavior, even as in turn we infer the thing's nature or essence from its proper qualities or properties. With regard to sensible qualities, the problem does not seem to be how we know them— for the fact that they are sensible means that they are knowable by the senses. The question is rather one of the mode of existence— the objectivity or subjectivity of the qualities sensed.
+
+Locke's famous distinction between primary and secondary qualities states the problem. It is preceded by his distinction between the qualities of things and the ideas in our minds.
+
+"A snow-ball," he writes, has "the power to pro- duce in us the idea of white, cold, and round. The powers to produce those ideas in us, as they are in the snow-ball, I call qualities; and as they are sensations or perceptions in our understandings, I call them ideas; which ideas, if I speak of them sometimes as in the things themselves, I would be understood to mean those qualities in the objects which produce them in us."
+
+The primary qualities of bodies are those which are utterly inseparable from body—such as "sense constantly finds in every particle of matter which has bulk enough to be perceived, and the mind finds inseparable from every partide of matter, though less than to make itself singly perceived by our senses." Locke's enumeration of these "original or primary qualities of body, which we may observe to produce simple ideas in us, viz., solidity, extension, figure, motion or rest, and number," closely resembles Newton's list of the universal qualities of perceptible bodies and of their "least particles" or atoms.
+
+In contrast, the secondary qualities, such as colors, sounds, tastes, etc., are "nothing in the objects themselves, but powers to produce various sensations in us by their primary qualities, i.e., by the bulk, figure, texture, and motion of their insensible parts. . . . From whence," Locke declares, "I think it is easy to draw this observation, that the ideas of primary qualities of bodies, are resemblances of them, and their patterns do really exist in the bodies themselves, but the ideas produced in us by these secondary qualities, have no resemblance of them at all. There is nothing like our ideas existing in the bodies themselves. They are in the bodies we denominate from them, only a power to produce those sensations in us: what is sweet, blue, or warm, in idea, is but the certain bulk, figure and motion of the insensible parts in the bodies which we call so."
+
+Locke thinks the sensation of pain confirms this insight. As the piece of steel which by its corporeal properties has the power to produce pain in us, does not itself have the quality of pain, so it does not have anything corresponding to the ideas of blueness or coldness which it produces in us, except the power to produce these ideas through the action of its primary qualities on our senses. Yet Locke maintains that all our simple ideas of quality— not only of primary, but also ofsecondary qualities— "agree with the reality of things." By agreement he does not mean resemblance in the sense of copying; and therefore he thinks he can, without inconsistency, deny any resemblance between sensations of color or taste and the secondary qualities of bodies, while saying that "if sugar produces in us the ideas we call whiteness and sweetness, we are sure there is a power in sugar to produce those ideas in our minds, or else they could not have been produced by it."
+
+Locke's point, however, is sometimes given exactly the opposite implication. Earlier thinkers who do not speak of primary and secondary qualities attribute to bodies only the characteristics which Locke calls primary, and give what he calls secondary qualities no reality at all, that is, no existence outside the mind. The secondary qualities are not qualities of things, but of sensations or images. Descartes, for ex- ample, says that nothing belongs "to the nature or essence of body except . . . length, breadth and depth, admitting of various shapes and various motions. . . . On the other hand, colors, odors, savours, and the rest of such things are merely sensations existing in my thought, and differing no less from bodies than pain differs from the shape and motion of the instrument which inflicts it."
+
+Hobbes similarly regards the various sensible qualities as feelings in us— the seemings or fancies of sense. All these "qualities called sensible are in the object that causes them, nothing but so many several motions of the matter. . . . The object is one thing, the fancy is another." One type of "absurd assertion," in the opinion of Hobbes, consists in giving "the names of the accidents of bodies without us, to the accidents of our own bodies, as they do that say, the color is in the body, the sound is in the air, etc."
+
+The attributes or accidents which Descartes and Hobbes assign to bodies seem to be quantities rather than qualities. Accordingly, whereas Locke attributes both primary and secondary qualities to bodies, Hobbes and Descartes seem to be saying that bodies differ from one another only quantitatively, and that qualities or qualitative differences occur only in the realm of sense or thought. Expounding the atomism of Democritus and Epicurus, Lucretius appears to make precisely this point when he says that the first-beginnings or atoms are characterized only by size, weight, shape, and motion. "The bodies of matter," he writes, "have no color at all." They are bereft not only of color; "they are also sundered altogether from warmth and cold, and fiery heat, and are carried along barren of sound and devoid of taste." These qualities, caused by the blows of the atoms upon the sense-organs of animals, are the qualities of sensations, not of things.
+
+The criticism of this theory—whether in the formulation of Locke or in that of Descartes, Hobbes, and Lucretius—seems itself to take two forms. Aristotle, for example, criticizes Democritus and the atomists for treating perceptible qualities differently from perceptible quantities. According to his own theory of the objects of sense, some, like colors, sounds, odors, flavors—which Locke calls "secondary qualities" and the others simply "qualities"— are the proper objects of the special senses, such as sight, hearing, smell, taste. In contrast to these "proper sensibles," each exclusively perceived by one and only one sense, there are the "common sensibles," such as size and shape, number, movement and rest, which can be perceived commonly by several senses, e.g., shape is visible and tangible, motion is visible and audible. Such sensible attributes of body, which Locke calls "primary qualities," Aristotle, no less than Hobbes or Lucretius, regards as quantities, not qualities. Reporting his view, Aquinas writes that "the common sensibles are all reducible to quantity."
+
+Aristotle's critical point seems to be that the atomists "reduce the proper to the common sensibles, as Democritus does with white and black; for he asserts that the latter is a mode of the rough and the former a mode of the smooth, while he reduces savours to the atomic figures." The atomists sometimes make the opposite error of representing "all objects of sense as objects of touch." But in either case they have no ground, in Aristotle's opinion, for giving to certain sensible attributes—whether these be tangible qualities or the commonly sensible quantities—an objective reality they deny to other sensible traits, like colors, sounds, and odors.
+
+Aristotle's theory of sensation and the sensible is discussed more fully in the chapter on Sense. According to it, the qualities, no less than the quantities, perceptible by sense have real or actual existence as the attributes of bodies. On this score Aristotle does not differentiate between qualities (the proper sensibles) and quantities (the common sensibles). Just as a body actually has the shape we perceive it to have, so it actually has the color we perceive it to have, on the supposition, of course, that our perception is accurate in both cases. If the senses are fallible at all, we are less prone to make errors, Aristotle thinks, in the field of the proper than of the common sensibles, e.g., the stick in water which looks bent to the eye feels straight to the hand.
+
+Precisely the opposite direction seems to be taken by Berkeley and Hume. Where Aristotle criticizes the atomists for treating quantities (or common sensibles) as objective, and qualities (or proper sensibles) as subjective, Berkeley criticizes Locke for treating primary and sec- ondary qualities differently. Where Aristotle's own theory assigns the same reality to all objects of sense, granting them an actuality apart from perception, Berkeley makes the actuality of the primary as well as the secondary qualities dependent upon their being perceived.
+
+"Some there are," writes Berkeley, "who make a distinction betwixt primary and secondary qualities. By the former they mean extension, figure, motion, rest, solidity or impenetrability and number; by the latter they denote all other sensible qualities, as colors, sounds, tastes and so forth. The ideas we have of these they acknowledge not to be the resemblances of anything existing without the mind or unperceived, but they will have our ideas of the primary qualities to be patterns or images of things which exist without the mind, in an unthinking substance which they call
+
 Matter."
-Berkeley then argues that the so-called primary qualities are incapable of being separated,
-in reality or thought, from the secondary qualities, and that, therefore, the one like the other
-exists only in the mind. "In short,
-let anyone
-consider
-those arguments which
-are
-thought
-manifestly to prove that colors and tastes exist
-only in the mind, and he shall find they may
-with equal force be brought to prove the same
-thing of extension,
-figure, and motion." His
-own arguments, he thinks, "plainly show
-it to
-be impossible that any color or extension at all,
-or other
-sensible
-quality whatsoever,
-should
-exist
-in any unthinking subject without
-the
-mind, or
-in
-truth,
-that
-there should
-be any
-such thing as an outward object."
-Hume professes to adopt Berkeley's reasoning.
-"It
-is universally allowed by modern enquirers," he writes, "that all the sensible qualities of objects, such
-as hard,
-soft,
-hot,
-cold,
-white,
-black,
-etc., are merely secondary, and
-exist not
-in
-the
-objects
-themselves,
-but
-are
-we examine
-it accurately, we shall find
-to be
-perceptions of the mind, without any external
-unintelligible, and even absurd."
-archetype or model which
-they represent.
-If
-One fundamental point about sensible qualthis be allowed, with regard to secondary qualities may, however, remain unaffected by
-this
-ities, it must also follow with regard to the suplong and many-sided controversy. No one deposed primary qualities of extension and solidnies that sensible qualities are the elements of
-ity
-The idea of extension is entirely acquired
-human experience. That they are "the original,
-from the senses of sight and feeling; and
-if all
-innate, or a priori properties of our subjective
-the qualities, perceived by the senses, be in the
-nature," James declares, must
-be allowed by
-mind, not
-in the object,
-the same conclusion
-"all
-schools (however they otherwise
-differ),
-must reach the idea of extension.
-.
-.
-. Nothing
-.
-.
-. This
-is so on either of the two hypotheses
-can save us from this conclusion, but the assertwe may make concerning the
-relation of the
-ing that the ideas of those primary qualities are
-feelings
-to
-the
-realities
-at whose touch they
-attained by Abstraction, an opinion, which,
-if
-become alive."
+
+Berkeley then argues that the so-called pri- mary qualities are incapable of being separated, in reality or thought, from the secondary qualities, and that, therefore, the one like the other exists only in the mind. "In short, let anyone consider those arguments which are thought manifestly to prove that colors and tastes exist only in the mind, and he shall find they may with equal force be brought to prove the same thing of extension, figure, and motion." His own arguments, he thinks, "plainly show it to be impossible that any color or extension at all, or other sensible quality whatsoever, should exist in any unthinking subject without the mind, or in truth, that there should be any such thing as an outward object."
+
+Hume professes to adopt Berkeley's reasoning. "It is universally allowed by modern enquirers," he writes, "that all the sensible qualities of objects, such as hard, soft, hot, cold, white, black, etc., are merely secondary, and exist not themselves, but in the objects are perceptions of the mind, without any external archetype or model which they represent. If this be allowed, with regard to secondary qualities, it must also follow with regard to the supposed primary qualities of extension and solidThe idea of extension is entirely acquired ity from the senses of sight and feeling; and if all the qualities, perceived by the senses, be in the mind, not the same conclusion in the object, must reach the idea of extension. . Nothing . . can save us from this conclusion, but the asserting that the ideas of those primary qualities are attained by Abstraction, an opinion, which, if i. The nature and existence of qualities: the relation of quality to substance or matter; the transcendental categories of quality
+
+2. The kinds of quality and ia. Sensible nonsensible qualities: and affective qualities ib. Primary and secondary qualities: the mon sensibles
+
+3. Quality and quantity
+
+30. The distinction between quality and quantity: between secondary and primary qualities
+
+Tyb. Shape or figure as qualified quantity conditions of variation in quality
+
+4. The relation of qualities to one another
+
+4#. Qualities which imply correlatives
+
+4#. The contrariety of qualities: with or without intermediate degrees
+
+5. Change of quality: the analysis of alteration
+
+6. Qualities as objects of knowledge
+
+6a. Quality in relation to definition or abstraction
+
+6b. The perception of qualities secondary qualities we examine it accurately, we shall find to be unintelligible, and even absurd."
+
+One fundamental point about sensible qualities may, however, remain unaffected by this long and many-sided controversy. No one denies that sensible qualities are the elements of human experience. That they are "the original, innate, or a priori properties of our subjective nature," James declares, must be allowed by schools (however they otherwise "all differ), is so on either of the two hypotheses . This . . we may make concerning the relation of the at whose touch they feelings the to realities become alive."
 
 OUTLINE OF TOPICS
 PAGB
