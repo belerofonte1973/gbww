@@ -3,3 +3,5 @@ pdfs/
 *.log
 __pycache__/
 *.pyc
+*.bak
+gbww.db
