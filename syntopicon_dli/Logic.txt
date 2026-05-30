@@ -1,0 +1,1823 @@
+CHAPTER: Logic
+
+INTRODUCTION
+
+INTRODUCTION 
+
+I N this set of great books, the Organon of Aris- 
+totle, the Novum Organum of Bacon, Des- 
+cartes’ Discourse on Method his Rules for the 
+
+Direction of the Mind, and Kant’s Critique of 
+Pure Reason indicate or discuss the nature, scope 
+and divisions of the discipline which has come 
+to be called “logic.” Though of all the works 
+mentioned the Organon is perhaps the most ex- 
+tensive treatment of the subject, Aristotle does 
+not use the word “logic” to name the science or 
+art of which he seems to be the inventor — cer- 
+tainly the first systematic expounder— -in the 
+tradition of western thought. 
+
+Here as elsewhere Aristotle is indebted to his 
+predecessors for providing him with materials 
+to develop or criticize; to the sophists for the 
+construction of arguments, for the formulation 
+of methods of disputation, and for the discov- 
+ery of fallacies; to Plato for the theory of classi- 
+fication and definition, for the root notion of 
+the syllogism and a conception of proof or 
+demonstration, for the general outlines of an 
+intellectual method to which Plato gives the 
+name “dialectic.” 
+
+As indicated in the chapter on Dialectic, 
+Aristotle uses Plato’s name for the whole 
+method of the mind in the pursuit of truth, in 
+order to designate just one part of his method, 
+the part concerned with probability rather than 
+truth. Yet in the Roman and mediaeval tradi- 
+tion, the words “logic” and “dialectic’ come 
+to be used interchangeably. This is exemplified 
+by the Stoic division of the sciences into phys- 
+ics, ethics, and logic or dialectic, and by the 
+mediaeval enumeration of the liberal arts of the 
+trivium as grammar, rhetoric, and logic or dia- 
+lectic. So used, these names designate the svhole 
+range of discussion to be found in Aristotle s 
+Organon. 
+
+In their opposition to Aristotelian or what 
+they sometimes call “scholastic” logic, modern 
+
+inventors of new methods, like Bacon or Des- 
+cartes, tend to restrict the meaning of logic. 
+For them logic is little more than the doctrine 
+of the syllogism. And this they judge to be no 
+part of genuinely fruitful method, or they hold 
+it to be of use mainly as a critical instrument in 
+disputation rather than discovery. Their iden- 
+tification of logic with dialectic (like their as- 
+sociation of both with rhetoric) seems to have 
+an intentionally invidious significance. 
+
+But with Kant, who was influenced by the 
+scholasticism of Christian Wolff, “logic” is gen- 
+erally restored as the name for the whole range 
+of materials in Aristotle’s Organon, of which 
+dialectic again becomes a part. In his own Intro- 
+duction to Logic, Kant speaks of Aristotle as 
+“the father of Logic.” Though “logic has not 
+gained much in extent since Aristotle’s time,” 
+he says, “there are two amongst more recent 
+philosophers who have again brought general 
+logic into vogue, Leibnitz and Wolff.” Since 
+their day, and certainly since Kant’s, as may be 
+seen from the titles listed under Additional 
+Readings, “logic” prevails as the name for 
+treatises which discuss, in whole or parr, the 
+matters treated in Aristotle’s Organon. 
+
+“Logic” is also used in modern times as the 
+name for an inquiry or study which bears little 
+resemblance to the discipline expounded in 
+Aristotle’s Organon. What is called “modern 
+logic” to distinguish it from the traditional 
+Aristotelian or scholastic logic, is purely a sci- 
+ence, and in no sense an organon, methodology, 
+instrument, or art. It does not restrict itself to 
+stating the la^vs of thought or formulating the 
+rules of inference. In the words of Josiah Royce, 
+it is “the science of order” and it is applicable 
+to the order of things as well as the order of 
+thought. So conceived, the science of logic 
+is sometimes regarded as having the kind of 
+generality which is traditionally assigned to 
+
+1036 THE GREAT IDEAS 
+
+metaphysics; as, for example, by Bertrand 
+Russell in his essay, “Logic as the Essence of 
+Philosophy.” 
+
+But it is mathematics rather than metaphys- 
+ics with which logic is identified by its modern 
+exponents. “Logistic or mathematical logic,” 
+writes Russell, “is mathematical in mo differ- 
+ent senses: it is itself a branch of mathematics, 
+and it is the logic which is specially applicable 
+to other more traditional branches of mathe- 
+matics.” Since Boole’s Laws of Thought, 
+according to Russell, initiates the modern de- 
+velopment of mathematical logic, “logic has 
+become more mathematical and mathematics 
+has become more logical. The consequence,” 
+he says, “is that it has now become wholly im- 
+possible to draw a line bemeen the mo; in fact, 
+the mo are one.” 
+
+Aristotle’s Organon stands to the tradition of 
+logic as Euclid’s Elements st&nAs to the tradition 
+of geometry. In both cases the work of later 
+minds may alter considerably the structure and 
+content of the discipline. In both cases there arc 
+modern departures from the earlier tradition. 
+As in the one case we have Descartes’ analytical 
+geometry and the various non-Euclidean geom- 
+etries, so in the other we have Kant’s transcen- 
+dental logic and the various non-Aristotelian 
+logics. 
+
+But all these innovations, even when they 
+might be described as anti-Aristotelian rather 
+than simply as non-Aristotelian, bear the marks 
+of their traditional origin. Kant, for example, 
+takes pains everywhere to indicate the parallel- 
+ism between the formulations of his transcen- 
+dental logic and those of Aristotle’s logic. Even 
+the various systems of relational and mathe- 
+matical logic usually attempt to show that the 
+Aristotelian logic of subject and predicate, of 
+particular and universal propositions, and ofsyl- 
+logisms can be treated as a special case under 
+their own formulations. The proposals of Bacon 
+or Mill with respect to induction and the 
+method of Descartes, though accompanied in 
+each case by a critique of the syllogism, arc less 
+radical departures, for they do not apparently 
+reject Aristotle’s basic doctrines of predication 
+and proof. 
+
+Many of these issues inlogical theory arc dealt 
+with in other chapters, e.g., in Dialectic, In- 
+
+duction, and Hypothesis, in Idea, Judgment, 
+and Reasoning. Here we are principally con- 
+cerned with the conception of logic itself, not 
+with the detailed content of the science as much 
+as with its character as an art or science, its re- 
+lation to other arts and sciences, its major divi- 
+sions, and its leading principles. Though such 
+considerations are more explicitly treated by 
+Kant than by Aristotle, the formative influence 
+of the Organon warrants examining it first. 
+
+The parts of logic, as Aristotle conceives 
+them, seem to be indicated by the subject mat- 
+ter of the various books which comprise the col- 
+lection of writings assembled under the title of 
+Organon. That title has a bearing on the ques- 
+tion whether logic is a science or an art and on 
+its difference from other sciences and arts. The 
+word “organon” has the meaning of instrument 
+or method. That in turn suggests something to 
+be used as rules of art are used— as directions 
+to be followed to produce a certain result. 
+
+Aristotle’s own differentiation of the specu- 
+lative sciences, the practical sciences, and the 
+arts throws light on this view of logic as an art. 
+“The end of theoretical knowledge,” he writes, 
+“is truth, while that of practical knowledge is 
+action.” In other words, the theoretical, orspcc- 
+ulative, sciences differ from the practical sci- 
+ences in that they are knowledge for its own 
+sake as opposed to knowledge for an ulterior 
+end. According as the ulterior end is the pro- 
+duction or “making” of something, as distinct 
+from human action or conduct, art is distinct 
+from the other practical sciences. “Making and 
+acting are different,” Aristotle says; “the rea- 
+soned state of capacity to act is different from 
+the reasoned state of capacity to make. Hence, 
+too, they are not included one in the other; for 
+neither is acting making nor is making acting.” 
+Logic, then, if it is an art, will be concerned 
+with the “making” of something, with pro- 
+ducing a work or an effect. 
+
+The way in which Aristotle himself refers to 
+the Organon seems to confirm this view. He re- 
+gards it as a preparation for work in the theo- 
+retic sciences. “Due to a want of training in 
+logic,” he writes, some men attempt to discuss 
+the criteria of truth in mathematics or physics 
+at the same time that they arc considering the 
+subject matter of these sciences. “They should 
+
+■ Chapter 49: LOGIC 
+
+know these things already when they come to a 
+special study, and not be inquiring into them 
+while they are listening to lectures on it.” 
+Logic, in Aristotle’s view, trains the mind in 
+the ways of science. Its productive goal as an art 
+is the making of science itself. For this reason, 
+in the mediaeval period, logic comes to be called 
+a “speculative art” or, with grammar and rhet- 
+oric, a liberal art. 
+
+“Even in speculative matters,” Aquinas says, 
+“there is something by way of work, e.g., the 
+maldng of a syllogism, or of a fitting speech, or 
+the work of counting ormeasuring. Hence what- 
+ever habits are ordained to such works of the 
+speculative reason are, by a kind of comparison, 
+called arts indeed, but liberal arts, in order to 
+distinguish them from those arts that are or- 
+dained to works done by the body. On the 
+
+other hand, those sciences which are not or- 
+dained to any such work are called sciences ab- 
+solutely and not arts.” 
+
+But though it may not be a science, abso- 
+lutely speaking, because it is an instrument of in- 
+tellectual svork, logic, in addition to being an 
+art, may also have some of the characteristics of 
+a science. If it is a science, what is the object of 
+its knowledge? 
+
+Aristotle’s division of the speculative sci- 
+ences, which he seems to present as e.xhaustive, 
+leaves no place for logic. “There are three kinds 
+of theoretical sciences,” he writes, “physics, 
+mathematics, theology” or metaphysics, as the 
+last came to be called. Each of these sciences, 
+furthermore, seems to have a distinctive sub- 
+ject matter which is some aspect of reality, such 
+as change, or quantity, or being. But insofar as 
+logic is concerned with the study of terms, prop- 
+ositions, and syllogisms, it deals with elements 
+common to all sciences. 
+
+This suggests that whereas reality is the ob- 
+ject of the other sciences, the object of logic as 
+a science is science itself, or more generally the 
+whole of discourse. It considers the elements or 
+patterns of discourse in a formal manner; that 
+is, it considers them apart from their reference 
+to reality or their real significance as the terms, 
+propositions, and syllogisms of particular sub- 
+ject matters or sciences. Because it separates the 
+forms which discursive thought takes from the 
+matter or content it may have, logic is tradi- 
+tionally called a "formal science.” 
+
+Where Aristotle makes his object the ele- 
+ments of discourse (or thought expressed in lan- 
+guage), later logicians treat the formal aspect of 
+thought itself. They deal with concepts, judg- 
+ments, and reasoning instead of with terms, 
+propositions, and syllogisms. This difference re- 
+sults in a definition of logic as the science of 
+thought; the basic formulations of logic are the 
+laws of thought. Thus, for example, Kant says 
+that logic “treats of nothing but the mere forms 
+of thought.” Its limits “are definitely fixed by 
+the fact that it is a science which has nothing to 
+do but fully to exhibit and strictly to prove all 
+formal rules of thought.” 
+
+The logical principles of identity, excluded 
+middle, and contradiction, as well as the prin- 
+ciples of inference, are said to be “laws of 
+thought.” james proposes as the most “funda- 
+mental principle of inference” what he calls 
+the “axiom of skipped intermediaries,” which 
+states that “shipping intermediary terms leaves 
+relations the same." That "equals of equals are 
+equal” is a special application of this principle 
+in the sphere of quantities. Because it applies to 
+all subject matters equally, James regards the 
+principle as “on the whole the broadest and 
+deepest law of man’s thought.” 
+
+In either conception of logic as a formal sci- 
+ence, questions arise concerning the relation of 
+logic to other sciences. For Aristotle the ques- 
+tion is about logic and metaphysics, because 
+both seem to have an unrestricted scope. Meta- 
+physics considers the being of everything which 
+is; logic, the formal components of discourse 
+about anything. Aristotle says of philosophy in 
+relation to dialetic, that both “embrace all 
+things” but that “dialectic is merely critical 
+where philosophy claims to know.” The same 
+comparison could apply to metaphysics and 
+logic. Both “embrace all things” but not from 
+the same point of view. 
+
+Aristotle also asks whether it belongs to 
+metaphysics as well as to logic to inquire “into 
+the truths which are called axioms” — especially 
+those which are the first principles of all knowl- 
+edge or demonstration, not merely the founda- 
+tions of knowledge about some limited subject 
+matter. “Since these trutlis clearly hold good 
+for all things qua being,” the science which 
+studies being qua being (f.e., metaphysics) must 
+be concerned with them. It also belongs to 
+
+1038 THE GREAT IDEAS 
+
+metaphysics as well as to logic “to inquire into 
+the principles of the syllogism.” 
+
+The principles of identity, excluded middle, 
+and contradiction belong to both sciences — to 
+the one as the most universal truths about ex- 
+istence, to the other as the basic rules of dis- 
+course or the laws of thought. Tliis sharing of a 
+common ground does not seem to Aristotle to 
+violate their separateness; but Bacon charges 
+him with having “corrupted natural philosophy 
+by logic." Of Aristotle’s physics, he says that it 
+is built of “mere logical terms,” and. Bacon 
+adds, Aristotle “remodelled the same subject in 
+his metaphysics under a more imposing title.” 
+
+Whereas Aristotle considers the relation of 
+logic to metaphysics, Kant considers its relation 
+to psychology. Both logic and psychology are 
+concerned with thinking and knowing. Distin- 
+guishing benveen pure and applied logic, Kant 
+says that pure logic “has nothing to do with 
+empirical principles and borrows nothing from 
+psychology.” Applied logic depends on psy- 
+chology. In fact, says Kant in his Introduction to 
+Logic, it is “a psychology in which we consider 
+what is the usual process in our thought, not 
+what is the right one.” Applied logic ought not 
+to be called logic at all, for “logic is the science 
+of the right use of the understanding and the 
+reason generally, not subjectively, that is, not 
+according to empirical (psychological) princi- 
+ples, as to how the understanding actually 
+thinks, but objectively, that is, according to a 
+friori principles, as to how it ought to think.” 
+
+James also insists upon the distinction be- 
+twecnpsychology and logic. He even uses Kant’s 
+terms in calling logic an a priori and psychology 
+an empiricalscience. What the psychologistcalls 
+“laws of thought,” such as the laws of the asso- 
+ciation of ideas, describe the actual flow of 
+thought and connections which depend upon 
+similarity and succession. Tlie laws of logic, in 
+contrast, state reason's perception of the rational 
+structure of thought itself and the relations 
+which must obtain if thought is to be rational. 
+
+RaTurutiNc now to the indication of the parts 
+of logic which may be found in the structure of 
+the Organon, we can see two orders in the books. 
+The first three books— the Categories, On Inter- 
+pretation, and the Prior Analytics— with 
+terms, propositions, and syllogisms: with the 
+
+classification of terms and their relation to one 
+another; with the classification of propositions 
+and their opposition to one another; with the 
+analysis of the various types of syllogisms and 
+the formulation of the rules of valid inference. 
+Terms are the elements of propositions; terms 
+and propositions are the elements of the syllo- 
+gism. This seems to determine the order of the 
+first three books. 
+
+The first three books as a whole stand in a 
+certain order to the remaining books. Taking 
+the latter as a group, their differentiation from 
+what precedes them seems to lie in the fact that 
+they deal with terms, propositions, and syllo- 
+gisms, not abstracted from all considerations of 
+knowledge and truth about reality, but rather 
+with primary emphasis upon the logic of actual 
+knowledge, or on the processes of knowing and 
+arguing about what is true or probable. In the 
+traditional development of Aristotelian logic, 
+this division between the first three and the re- 
+maining books of the Organon is sometime! 
+characterized as a distinction between format 
+and material logic. 
+
+In t\K Posterior Analytics and the Top/rr Aris- 
+totle considers the discovery and establishment 
+of either the true or the probable. He distin- 
+guishes be tween inductionand syllogism (orrea- 
+soning) as modes of learning and arguing. The 
+later division of logic into deductive and induc- 
+tive — sometimes confused with the distinction 
+between formal and material logic— does not 
+seem to correspond to the difference between 
+the Prior o.nd the Posterior Analytics. In the Ad- 
+vancement of Learning, for example. Bacon di- 
+vides the art of judgment, “which treats of the 
+nature of proof or demonstration,” into that 
+which concludes by induction and that which 
+concludes by syllogism; svhereas Aristotle ap- 
+pears to treat induction as that upon which syl- 
+logistic demonstration depends for its primary 
+and indemonstrable premises. 
+
+The distinction between truth and probabil- 
+ity, or between knowledge and opinion, docs 
+not affect the formal character of either induc- 
+tion or syllogism. A syllogism may be scientific 
+{i.e., demonstratively certain) ordialcctical (i.e., 
+merely probable) according to the character of 
+its premises. In either case its formal structure 
+remains the same. Similarly', the difference be- 
+tween scientific and dialectical induction ap- 
+
+Chapter 49: LOGIC 1039 
+
+pears only in its result, i.e., whetHer it is knowl- 
+edge or opinion. T\\t fosterior Analytics znA the 
+Topics consider the employment of both syllo- 
+gism and induction. The Posterior Analytics 
+treats them in relation to the development and 
+structure of scientific knowledge. The Topics 
+discusses them in relation to the dialectical pro- 
+cedures of argument and discovery. 
+
+The last book of the Organon, which is con- 
+cerned with exposing the fallacies in sophistical 
+proofs or refutations, serves to protect both sci- 
+entific and dialectical reasoning from such soph- 
+istry, Unlike the philosopher or the dialectician, 
+the sophist does not aim at the truth. Sophistry 
+misuses the weapons of logic — the same weap- 
+ons used by the scientist or dialectician — to pro- 
+duce a counterfeit of wisdom or, as Aristotle 
+says, “a wisdom which exists only insemblance.” 
+Though the dialectician cannot claim to know, 
+he does, nevertheless, deal with opinions criti- 
+cally and respects the canons of logic as much as 
+the philosopher. 
+
+The art of logic seems to have three main em- 
+ployments. Toils use by the scientist and the 
+dialectician, Aristotle adds its utilization by the 
+ora tor for the purposes of persuasion. The rhet- 
+orician and the dialectician are most closely al- 
+lied because both deal with probabilities and 
+disputable matters concerning which opposite 
+conclusions can be drawn. “As in dialectic, there 
+is induction on the one hand and syllogism. . . 
+on the other, so it is in rhetoric.” Aristotle says 
+that “the enthymeme is a rhetorical syllogism, 
+and the example a rhetorical induction.” 
+
+The foregoing suggests that a certain order 
+obtains between two of the three arts tradition- 
+ally called the trivium. The elements and prin- 
+ciples of logic are, in a sense, prior to the rules 
+of rhetoric. The art of rhetoric depends on and 
+uses logic. The third art, that of grammar, seems 
+to serv'e both logic and rhetoric. It serves the 
+logician in his task of forming terms and propo- 
+sitions out of words, phrases, and sentences. It 
+sers'es the rhetorician in his effort to make a 
+forceful use of language. This conception of the 
+uses of grammar appears in Aristotle’s Rhetoric 
+in his consideration of style, and in the opening 
+books of the Organon in his discussion of univ- 
+ocal and equivocal names, the parts of speech, 
+simple and composite expressions, and the dif- 
+ferent types of sentences. 
+
+Kant seems to diverge from Aristotle both 
+with regard to the unity of logic and with re- 
+gard to the nature and relation of its parts.' 
+Formal or elementary logic, Kant thinks, is not 
+the same as an organon of the sciences. He ex- 
+plains, in his Introduction to Logic, that an or- 
+ganon gives instruction as to “how some partic- 
+ular branch of knowledge is to be attained. . . , 
+An organon of the sciences is therefore not a 
+mere logic, since it presupposes the accurate 
+knowledge of the objects and sources of the sci- 
+ences Logic, on the contrary, being the gen- 
+eral propaedeuticof every useof the understand- 
+ing and of the reason, cannot meddle with the 
+sciences and anticipate their matter.” Conced- 
+ing that it may be called an organon so far as it 
+serves, “not for the enlargement, but only for the 
+criticism and correction of our knowledge,” Kant 
+insists that “logic is not a general art of discov- 
+ery, nor an organon of truth ; it is not an algebra 
+by the help of which hidden truths may be dis- 
+covered.” 
+
+Aristotle, according to Kant, treats the whole 
+of his logic as an organon, dividing it into an 
+analytical and a dialectical part. As Kant sees 
+it, the dialectical part arises from a misuse of 
+the analytical part. This occurs, he says in the 
+Critique of Pure Reason, when general or ele- 
+mentary logic {i.e., the analytic part) “which is 
+meant to be a mere canon of criticism, is em- 
+ployed as if it were an organon, for the real pro- 
+duction of at least the semblance of objective 
+assertions. . . . This general logic,” says Kant, 
+“which assumes the semblance of an organon, is 
+called dialectic,” 
+
+Kant here seems to identify dialectic with 
+what Aristotle calls sophistry. He says of dialec- 
+tic that “different as are the significations in 
+which the ancients use this name of a science or 
+art, it is easy to gather from its actual employ- 
+ment that with them it was nothing but a logic 
+of semblance. It was a sophistic art of giving to 
+one’s ignorance, nay, to one’s intentional casu- 
+istry', the outward appearance of truth, by imi- 
+tating the accurate method which logic always 
+requires,” When logic is treated as an organon, 
+it “is always an illusive logic, that is, dialectical. 
+For as logic teaches nothing with regard to the 
+contents of knowledge . . .any attempt at using 
+it as an organon in order to extend and enlarge 
+our knowledge, at least in appearance, can end 
+
+1040 THE GREAT IDEAS 
+
+in nothing but mere talk, by asserting with a 
+certain plausibility anything one likes, or, if one 
+likes, denying it.” 
+
+YetKanthimself retains Analyticand Dialec- 
+tic as the major divisions of his own transcen- 
+dental logic, explaining that he employs the title 
+of dialectic, not for themisuseof logic, but rather 
+to signify that portion of logic which is the 
+critiqueof “dialectical semblance” or sophistry. 
+General or ordinary logic takes no account of 
+the content of knowledge and applies to all ob- 
+jects universally because “it treats of the form 
+of thought in general.” Transcendental logic 
+does not entirely ignore the content of knowl- 
+edge, but only the content of that knowledge 
+which is empirical in origin. If there are tran- 
+scendentalorapr/or; concepts which donot orig- 
+inate from experience, then there can be a sci- 
+ence which treats “of that knowledge which be- 
+longs to the pure understanding, and by which 
+we may think objects entirely a priori." 
+
+That is the science Kant calls “transcendental 
+Logic." It deals, he writes, “with the laws of the 
+understanding and reason in so far only as they 
+refer a priori to objects.” That part of it “which 
+teaches the elements of the pure knowledge of 
+the understanding, and the principles without 
+which no object can be thought, is the tran- 
+scendental Analytic.” The second part of it is 
+the transcendental Dialectic — “a critique of the 
+understanding and reason with regard to their 
+hyperphysical employment, in order thus to lay 
+bare the false semblance of its groundless pre- 
+tensions . . . serving as a protection of the pure 
+understanding against all sophistical illusions.” 
+
+The issue between Kant and Aristotle cannot 
+be understood if it is read simply as a dispute 
+about the nature and divisions of logic. Their 
+div'crse views of logic must be seen against the 
+larger background of their philosophical differ- 
+ences with regard to tlie nature of the mind, the 
+nature of reality, the origin of knowledge, and 
+the character ofits objects. Controversies about 
+logic (and even within logic, about this or that 
+thcorj'ofjudgmcnt or reasoning) usually reflect 
+fundamental issues in psychology and meta- 
+physics. The attack made by some modern lo- 
+gicians, for example, .against the subject-predi- 
+cate logic of Aristotle cannot be separated from 
+their rejection of his doctrine of substance and 
+
+accident in physics and metaphysics; even as 
+their own relational logic represents a different 
+view of the structure of reality or the constitu- 
+ents ot experience. 
+
+On the other hand, the criticism of Aristo- 
+telian logic by Bacon and Descartes seems to be 
+motivated primarily by considerations of meth- 
+od. They do not have a different logic to pro- 
+pose, as do Kant and later symbolic or mathe- 
+matical logicians. Rather for them logic itself— 
+by which they mean Aristotle’s logic and par- 
+ticularly his doctrine of the syllogism — appears 
+useless for the purposes of enlarging knowledge, 
+discovering new truths, and developing the 
+sciences. Where Kant criticizes Aristotle for re- 
+garding logic as an organon or method for ac- 
+quiring knowledge. Bacon and Descartes com- 
+plain that logic does not serve that purpose at 
+all, and therefore a novum organum—not a new 
+logic, but a new method — is needed. 
+
+“The present system of logic is useless for the 
+discovery of the sciences,” Bacon writes. It 
+“rather assists in confirming and rendering in- 
+veterate the errors founded on vulgar notions 
+than in searching after truth, and is therefore 
+more hurtful tlian useful.” The syllogism, for 
+example, “is unequal to the subtlety of nature. 
+. . . Our only hope is in genuine induction.” 
+Induction is the key to an art of discovery, and 
+the rules of induction the heart of a fruitful 
+method of inquiry. 
+
+The relation of induction to demonstration 
+in Aristotle’s logic, and the difference between 
+Aristotle’s and Bacon’s theories of induction, 
+are discussed in the chapter on that subject. In 
+Bacon’s view, the Novum Organum departs rad- 
+ically from the old Organon. The new can be 
+substituted for the old in its entirety. It may be 
+asked, he says, “whether we talk of perfecting 
+natural philosophy alone according toourmeth- 
+od, or the other sciences also, such as logic, eth- 
+ics, politics.” His answer is that “as common 
+logic, which regulates matters by syllogisms, is 
+applied not only to natural, but also to ever)' 
+other science, so our inductive method like- 
+wise comprehends them all.” 
+
+Demonstration is opposed not only to induc- 
+tion, but to discovery. Accordingly, logic con- 
+ceived as concerned only with the rules of dem- 
+onstration is opposed to other methods which 
+aim at directing scientific inquiry and research. 
+
+Chapter 49: LOGIC ' 1041 
+
+The basic contrast is between criticism and con- 
+struction, or between examining what is ofiered 
+as knowledge for its validity and developing 
+techniques foradding.nerv knowledge to old. In 
+his Two New Sciences Galileo says that logic 
+“teaches us how to test the conclusiveness of 
+any argument or demonstration already discov- 
+ered and completed” but not “to discover cor- 
+rect arguments and demonstrations.” It does 
+not, “as regards stimulation to discovery, com- 
+pare with the power of sharp distinction which 
+belongs to geometry.” 
+
+In the same vein Descartes says of logic that 
+“the syllogisms and the great part of the other 
+teaching serve better in explaining to others 
+those things that one knows . . . than in learn- 
+ing what is new. . . . This made me feel that 
+some other method must be found.” The four 
+rules of the method he then states, which codify 
+the steps he himself has taken to make discover- 
+ies in geometry and physics, seem to him a gen- 
+eral procedure for insuring the advancement of 
+all fields of learning. 
+
+As his Rules for the Direction of the Mind in- 
+dicates, Descartes’ method does not omit the 
+intuition of principles and the deduc tion of con- 
+clusions therefrom — the apparent equivalentsof 
+induction and demonstration in Aristotle’s Or- 
+ganon. But he explains why he has “omitted all 
+the precepts of the dialecticians” even though 
+he is himself concerned with improving “our 
+power of deducing one truth from another.” 
+Their style of argument, he says, “contributes 
+nothing at all to the discovery of the truth. . . . 
+Its only possible use is to serve to explain at 
+times more easily to others the truths we have 
+already ascertained; hence it should be trans- 
+ferred from Philosophy to Rhetoric.” 
+
+Furthermore, the forms of the traditional syl- 
+logism do not seem able to accommodate the 
+connections in mathematical reasoning or the 
+structure of mathematical proof. “Everyone 
+will perceive in mathematical demonstrations, 
+Lockewrites, “that the knowledge gained there- 
+by, comes shortest and clearest without syllo- 
+gisms.” Locke identifies logic with the doctrine 
+of the syllogism and, even more explicitly than 
+Descartes, rejects it as an aid to reasoning. 
+
+The question whether logic is itself a meth- 
+odology, or includes rules for the discovery as 
+
+well as the demonstration of truth, is answered 
+in- terms of broader and narrower conceptions 
+of the science or art. Those who regard the rules 
+of logic as primarily a canon of criticism, which 
+test the validity of intellectual work, look else- 
+where for a method whose rules are productive 
+rather than critical. The question then usually 
+arises whether there is one methodology appli- 
+cable to all fields of inquiry, or as many distinct 
+methods as there are different disciplines or sub- 
+ject matters. 
+
+The difference between the traditional Aris- 
+totelian and the modern mathematical logic 
+suggests that there may be a plurality of logics. 
+The attempts made by the exponents of each 
+to subsume the other as a special case do not 
+seem to be entirely successful. Though Aristo- 
+telian logic appears to give a satisfactory ac- 
+count of the forms of judgment and reasoning 
+in certain types of discourse, it cannot, in the 
+opinion of symbolic logicians, be applied to 
+mathematics. “Mathematics consists of deduc- 
+tions, and yet,” according to Bertrand Russell, 
+“theorthodox accounts of deduction are largely 
+or wholly inapplicable to existing mathemat- 
+ics.” Symbolic logic, on the other hand, may 
+succeed in formulating the relational structure 
+of modern mathematics, but it does not, in the 
+opinion of its critics, hold for metaphysics— at 
+least not the sort of metaphysics which treats 
+relation as a category subordinate to substance. 
+
+The difference between the kind of thinking 
+that men do in science and in law suggests 
+another type of diversity among logics. The 
+practical or moral judgment seems to involve a 
+special type of predicate. What Aristotle calls 
+the “practical syllogism” and what Aquinas 
+describes as the process of “determination” — 
+quite distinct from deduction— by which posi- 
+tive laws are derived from natural law, seem to 
+call for a logic of practical thinking, quite dis- 
+tinct from the logic of all the theoretic sciences. 
+
+Using the word “logic” in its broadest sense, 
+we must ask whether there is one logic common 
+to all the sciences; or a logic which fits mathe- 
+matics but not physics or metaphysics, a logic 
+appropriate to speculative philosophy but not 
+to experimental or empirical research, a logic 
+peculiar to the nature of the practical or moral 
+sciences, such as ethics and politics, or to the 
+work of jurisprudence. 
+
+1042 THE GREAT IDEAS 
+
+There is evidence in the great books that sci- 
+ences as different as mathematics and physics, 
+or as metaphysics and politics, differ in their 
+methods of discovery and demonstration. This 
+may mean that they differ in their logics as 
+well. Yet it also appears to be the case that the 
+principle of contradiction applies in all, that fal- 
+lacious inference is detected by the same crite- 
+ria in all, and to this extent all share a common 
+logic. Where alternative methods have been 
+proposed within a single major field — notably 
+in the case of philosophy — this may reflect dif- 
+ferent conceptions of philosophy itself rather 
+than alternative routes to the same end. 
+
+Because of their relevance to the basic issues 
+about logic (and especially those concerning its 
+scope and unity), the rules of methodology in 
+general and the various methods proposed for 
+particular disciplines are included in this chap- 
+ter. They are also considered, of course, in chap- 
+ters devoted to the special disciplines or subject 
+matters, e.g., Astronomy, History, Mathe- 
+matics, Metaphysics, Physics,Theology; and 
+in the chapters on Science and Philosophy. 
+What is distinctive about each of these methods 
+is discussed in those chapters in relation to the 
+type of knowledge or inquiry which seems to 
+require a method of its own.
+
+
+OUTLINE OF TOPICS 
+
+PACE 
+
+1. Logic as a science; its scope and subject matter compared with psychology and meta- 
+
+physics 1043 
+
+I a. The axioms of logic: the laws of thought; the principles of reasoning 
+
+lb. Divisions of logic: deductive and inductive; formal and material; analytic and 
+
+dialectic; general and transcendental 1044 
+
+2. Transcendental logic: the propaedeutic to all a priori cognition; the transcendental 
+
+doctrine of method 
+
+3. Logic as an art: its place in education 
+
+3a. The relation of logic and grammar 
+
+^b. The relation of logic and rhetoric 1045 
+
+4. Methodology: rules for the conduct of the mind in the processes of thinking, learning, 
+
+inquiring, knowing 
+
+4a. Mathematical analysis and reasoning: the search for a universal method 
+
+4b. The heuristic principles of research in experimental and empirical science 1046 
+
+4c. The criteria of evidence and inference in historical inquiry 1047 
+
+41f. The diverse methods of speculative philosophy: the role of intuition, analysis, 
+dialectic, genetic or transcendental criticism 
+
+4e. The logic of practical thinking: the methods of ethics, politics, and jurisprudence 1048 
+4/1 Theological argument: the roles of faith, reason, and authority 
+
+5. Logic as an object of satire and criticism: sophistry and logic-chopping 1049
+
+
+REFERENCES
+
+REFERENCES 
+
+ 
+
+1. Logic as a science: its scope and subject 
+matter compared with psychology and 
+metaphysics 
+
+7 Plato: Republic, bk vii, 397a-398c / Sophist, 
+S71a-c / Philebus, 634b-63Sa 
+
+8 Aristotle: Prior Analytics, bk i, ch i [24''io- 
+ii] 39a / Metaphysics, bk in, ch i [995*’6-ioJ 
+
+, 5Z4a; CH 2 [ 996 *’ 26 - 997 “i 5 ] 515b-d; bk iv, 
+
+CH 2 [ioo 4 '>i 5 - 26 ] S23d; ch 3-8 524b-S32d; 
+BK V, CH 7 [ioi 7 ‘" 22 - 28 ] 537d-538a; bk xt, 
+CH I [io 59 “ 23 - 26 ] 587a; ch 4-6 589d-592b 
+
+9 Aristotle: Rhetoric, bk i, ch i [i354“t“ii) 
+593a; ch 2 [i 358 ° 2 - 35 l 597d-598b 
+
+12 Epictetus: Discourses, bk i, ch 7 112b-113d; 
+ch 17 122d-124a 
+
+17 Plotinus: First Ennead, tr hi, ch 4 lla-c 
+
+18 Augustine: City of God, bk viii, ch 4 266d- 
+267c: CH 7 269c-d / Christian Doctrine, bk ii, 
+CH 31 65Id-652b 
+
+20 Aquinas: Summa Theologica, part i-n, Q 57, 
+A 3, REP 3 37b-38a; a 6, rep 3 40a-41a; Q 94, 
+A 2, ANS 221d-223a 
+
+23 Hobbes: Leviathan, part 1, 58a-b; 72a-d 
+
+28 Galileo: Two Neiv Sciences, second day, 
+190b-c 
+
+30 Bacon: Advancement of Learning, SSb-61d 
+esp S6c-58c, 59c-60c 
+
+31 Descartes: Rules, n, 2c-3b / Discourse, part 
+11 , 46c-d 
+
+33 Pascal: Geometrical Demonstration 430a- 
+446b esp 44Sa-446b 
+
+35 Locke: Human Understanding, bk iv, ch xxi 
+394d-395a,c 
+
+35 Berkeley: Human Knowledge, intro, sect 
+6 405d-406a 
+
+39 Smith: Wealth of Nations, bk v, 335d-336a 
+
+42 K.ant; Pure Reason, 5a-6d; 34a-37d; 59c; 
+210 b-c / Fund. Prin. Metaphysic of Morals, 
+253a-c; 2S4c-d / Judgement, 463a; 492c-d 
+
+46 Hegel: Philosophy of History, intro, 182d 
+
+53 James: Psychology, 524a; 867a; 872b-874a; 
+878a; 880b; 889a-b 
+
+la. The axioms of logic; the laws of thought; 
+the principles of reasoning 
+
+7 Plato: Euthydemus, 72d-73b / Republic, bk 
+IV, 3S0d-351b 
+
+8 Aristotle: Categories, ch 3 [i’’io-i 6 ] 5c-d; 
+ch 10 [i 3 '’i- 35 ] 19a-c / Prior Analytics, bk i, 
+CH 1-3 39a-40c / Posterior Analytics, bk i, 
+CH 1-2 97a-99a; ch ir 105d-106b / hletaphys- 
+ics, BK III, CH I [995*’6 -io] 514a; ch 2 [gg(i‘26- 
+997"i5] 515b-d; bk iv, ch 3-8 S24b-532d; 
+BK XI, CH I [io 59 ’’ 23 - 26 ] 587a; ch 4-6 589d- 
+592b 
+
+(1. Logic as a science: its scope and subject matter 
+compared with psychology and metaphysics, 
+la, 'The axioms of logic: the laws of thought; 
+the principles of reasoning.) 
+
+12 Epictetus: Discourses, bk i, ch 7 112b-113d 
+20 Aquinas: Summa Theohgica, part i-ii, q 94, 
+A 2 , ANS 221d-223a 
+
+23 Hobbes: Leviathan, part i, S4c-61a passim 
+35 Locke: Human Understanding, bk i, ch i 
+95b,d-103d passim, esp sect 4 96b, sect 16 
+99b-c, sect 20 lOOc-d; ch 11 , sect 1 103d- 
+104a; CH iii, sect 3 113a-b; bk iv, ch 1 , sect 
+4 307b-c; CH n, sect 8 311a; ch vii 337a- 
+344d; CH vni, sect 2-3 345a-346b 
+42 Kant: Pure Reason, 36b-37b; 39c-41c csp 
+40d-41c; 64d-65c; 109d-113b esp llOd-lllc; 
+115d-119aespll8a-c;156d-lS7b;174b-d:194b 
+/ Judgement, 492c-d; 542d-543a; 600d-601d 
+46 Hegel: Philosophy of History, part iv, 362b 
+53 James: Psychology, 299b [fn i]; 319b-320a; 
+360b-361a; 667b-668a; 868b-873a; 878a-879b 
+
+lb. Divisions of logic: deductive and inductive; 
+formal and material; analytic and dialec- 
+tic; general and transcendental 
+
+8 Aristotle: Prior Analytics, bk i, ch 30 63d- 
+64b; BK II, CH 23 90a-c / Posterior Analytics, 
+BK I, CH I [yi'^i-ii] 97a; ch 3 [72*’25-33] 99c: 
+CH 18 lllb-c; CH 31 120a-c; bk ii, ch 7 
+(92“34-*’i] 126b; ch 19 136a-137a,c / Topics, 
+BK I, ch t 143a-d; ch 12 148d; ch 18 (to8*’7- 
+12] 152d; BK viii, cii I [i 55*’29 -i 56“7 ] 211c- 
+212a; [i56‘’io-i8] 212c-d; ch 14 (i64”i2-i6] 
+222d / Physics, bk i, ch i 2S9a-b; bk viii, ch 
+I [ 252*20-‘’7] 335d-336b / Heavens, bk hi, ch 
+7 f3o6°6-i8j 397b-c / Metaphysics, bk vi, ch i 
+[io 25 '’i-i 6) S47b; bk xi, ch 7 [io64“4-9] 
+592b; bk xiii, ch 4 [io78’’i8-3o] 610b-c 
+
+9 Aristotle: Ethics, bk vi, ch 3 [ii39'’24-34l 
+388c / Rhetoric, bk i, ch 2 [i350''36^i7) 596a 
+
+30 Bacon: Advancement of Learning, 42a-c; 56a- 
+59a csp S7b-S8b; 59c-60a; 61d / Novum 
+Organum, pref 10Sa-106d; bk i I07a-136a,c 
+csp APii 11-26 107d-108d, API! 69 116a-b, 
+aph 103-106 127d-128c; bk ii, apii 10 140c-d 
+42 Kant: Pure Reason, Sb-c; 34a-37d 
+
+2. Transcendental logic; the propaedeutic to 
+
+all a priori cognition; the transcendental 
+doctrine of method 
+
+42 Kant: Pure Reason, Sb-c; lSc-16c; 23d; 34a- 
+48d csp 35b-36a, 39a-41c, 4Sb-47c; S9c-d; 
+lOlb-d; 113b-120c; 210a-2S0a,c csp 210a-c, 
+211c-2I8d, 233d-234b, 243c-248d / Fund. 
+Prin. Metaphysic of Morals, 253a-254d csp 
+253b, 254c-d 
+
+3. Logic ns an art: its place in education 
+
+7 Plato: Republic, bk vii, 397a-398c / Parmen- 
+ides, 491a-c / Statesman, S95a-d / Philebus, 
+633a-63Sa esp 634b-635a 
+
+li to la 
+
+8 Aristotle: Topics, bk i, ch 1-3 143a-144b; 
+BK VIII, CH 14 221d-223a,c / Sophistical Refit- 
+tations, ch 34 252c-253d / Metaphysics, bk ii, 
+CH 3 [994*’3i-995“i4] 513c; bk iv, ch 3 
+[ioo 5 *> 2 - 5 J S24c 
+
+9 ARisTOTLE:7?toor/c, bki, chi [i354»i-ii]S93a 
+
+12 Epictetus: Discourses, bk i, ch 7 112b-113d; 
+
+CH 17 122d-124a; bk ir, ch 25 174b-c 
+
+18 Augustine: Confessions, bk iv, par 30 26b-c 
+/ City of God, bk viii, ch 4 266d-267c; cii 7 
+269c-d / Christian Doctrine, bk ii,‘cii 31-37 
+651d-654b 
+
+20 Aquinas: Summa Theohgica, part i-ii, q 57, 
+A 3 , rep 3 37b-38a 
+
+24 Rabelais: Gargantua and Pantagmel, bk i, 
+18b-19a 
+
+25 Montaigne; Essays, 61b-c; 69d-77a passim; 
+448d-449a 
+
+28 Galileo; Two New Sciences, second dav, 
+190b-c 
+
+30 Bacon; Advancement of Learning, 31a-d / 
+Novum Organum, bk ii, aph 52 , 194c-195a 
+
+31 Descartes: Rules, iv, Sc; x 16d-l7a / Dis- 
+course, PART II, 46c-d 
+
+39 Smith: Wealth of Nations, bk v, 335d-336a 
+
+41 Gibbon: Decline and Fall, 299b 
+
+42 Kant: Pure Reason, 36d-37d; 223a'd 
+
+43 Mill; Liberty, 287d-288c 
+
+3<7. The relation of logic and grammar 
+
+7 Plato: Euthydemtts 65a-84a,c / Cratyitts 8Sa- 
+114a,c / Philebus, 6I2b-613a / Seventh Letter, 
+809a-811a 
+
+8 Aristotle: Categories, ch 1-4 5a-6a / Inter- 
+pretation, CH 4 [i 7 “i- 7 j 26b / Prior Analytics, 
+BK I, ch 34-41 66 b- 68 c / Posterior Analytics, 
+bk II, cii 13 [ 97 ’’ 38 - 39 ] 133c / Topics, bk i, 
+ch 15 149d-152a; ch 18 [io 8 “i 7 - 37 ] lS2b-d; 
+BK II, CH 3 154d-I55d; cH 9 [ii 4 “ 26 -’’i 4 j 
+160a-b; bk iv, ch 3 [i 24 ’'io-i 4 l 172 d; cii 4 
+Ii 24 '> 35 -i 25 '' 4 ] 173d; bk v, ch 2 [i 3 o*’ii-i 5 l 
+180d; CH 4 ii 33 ’’i 5 -i 34 “ 4 ] 184d-I85b; cii 7 
+[i 36 '’i 5-32] 188c-d; bk vi, ch i [i 39 ’’i 2 ]-ch 3 
+[l 4 l“ 22 ] 192b-194c; cH 10 202b-203a; cii 14 
+[i 5 i’’ 3 -ii) 206c; bk viii, ch 3 [i 58 '' 8 -i 7 ] 215 b; 
+CH 7 2l7c-d / Sophistical Refutations, cii i 
+[lOj^i-iS] 227b-c; cn 4 [i 65 ‘’ 24 -i 66 '’ 2 i) 228 b-, 
+229c; CH 10 [i 7 o'’ir- 4 i] 234d-235b; cii 13-14 
+238d-239d; cii 19-23 243d-247a; ch 31-32 
+250c-251c; cii 33 ti 82 ’’i 3 -i 7 ] 251d / Meta- 
+physics, BK IV, CH 4 S25a-S28b 
+
+18 Augustine: Confessions, bk xii, par 32-36 
+107a-108c; par 41-43 llOa-d; bk xiii, par 36 
+120 c-d / Christian Doctrine, bk i, cii 13 627d 
+
+23 Hobbes; Leviathan, part i, S4c-60c; 65c-d: 
+PART III, 172a: PART IV, 269b-c; 270a-c 
+
+24 Rabelais: Gargantua and Pantagmel, bk i, 
+18d 
+
+25 Montaigne; Essays, 253c-2S4a 
+
+30 Bacon; Advancement of Learning, 56b-66a csp 
+58c-S9a 
+
+31 Descartes: Rules, xiii, 26b-c / Discourse, 
+
+3p to ^a Chapter 49: LOGIC 1045 
+
+PART I, 43b; PART VI, 66 d / Objections and 
+Replies, 290c-d 
+
+31 Spinoza: Ethics, part ii, prop 47, schoi. 
+390c-391a 
+
+33 Pascal: Pensees, 22-23 175b; 392 239b-240a 
+35 Locke: Human Understanding, bk 11 , ch 
+XXXIII, SECT 19 2Slc-d; bk hi, ch hi, sect 
+10 , 2S6d-257a; ch vh 2S3a'284b esp sect 2 
+283b-c; bk iv, ch iv, sect 17 328d; ch v, 
+sect 1-3 329a-b; ch vi, sect 1-3 331b-d 
+35 Berkeley: Human Knowledge, intro, sect 
+19 410c; sect 52 422d'423a 
+38 Rousseau: Inequality, 339d-342c 
+42 Kant: Pure Reason, la-4a,c 
+
+45 Lavoisier: Elements of Chemistry, prep, la-c; 
+4a-Sd; 7c 
+
+46 Hegel: Philosophy of History, intro, 182b-c 
+49 Darwin: Origin of Species, 40c-d 
+
+51 Tolstoy: War and Peace, epilogue i, 672a'b 
+53 James : Psychology, 144a-b 
+
+ib. The relation of logic and rhetoric 
+
+5 Aristophanes: Clottds 488a-506d esp [882- 
+II 12] 499b'502b 
+
+7 Plato: Phaedrus, 131b-141a,c / Gorgias 252a- 
+294d / Philebus, 633a-635a esp 634b-635a 
+
+8 Aristotle: Interpretation, ch 4 (i7“i-7] 26b 
+
+9 Aristotle: Ethics, bk i, ch 3 [io94''i9-27] 
+339d-340a / Rhetoric, bk i, ch 1-2 S93a-598b; 
+CH 4 [1359^1-18] S99d; bk h, ch 22-26 643c- 
+6S3a,c 
+
+10 Galen: Natural Faculties, bk i, ch 16, 180d- 
+ISIa 
+
+18 Augustine: Christian Doctrine, bk ii, ch 36- 
+37 653d-654b; bk iv, ch 4 676d-677a 
+23 Hobbes; Leviathan, part i, S5a-b; 60d; 67c; 
+72a-d; part ii, 127d; 128d 
+
+30 Bacon: Advancement of Learning, 31a-d; 58c- 
+59a; 64a-b; 66c-67c 
+
+31 Descartes: Rules, 11 , 2 c; x, 16d-17a esp 17a 
+/ Discourse, part ii, 46c-d 
+
+33 Pascal: Pensees, 22-23 ^75b 
+35 Locke: Human Understanding, bk hi, ch x, 
+sect 34 299d-300a 
+
+4. Methodology: rules for the conduct of the 
+mind in the processes of thinking, learn- 
+ing, inquiring, knowing 
+
+7 Plato: Euthydemus 65a-84a,c / Parmenides, 
+491a-c / Philebus, 610d-613a 
+
+8 Aristotle: Prior Analytics, bk i, ck 30 63d- 
+64b / Topics, bk i, ch 14 149a-d; bk viii, ch 
+14 221d-223a,c / Metaphysics, bk ii, ch 3 
+513c-d; bk v, ch i [ioi3°i-3] S33a 
+
+9 Aristotle: Parts of Animals, bk i, ch i 161a- 
+16Sd / Ethics, bk i, ch 3 [i 094 ‘’i 2 - 27 ] 339d- 
+340a; bk ii, ch 2 [ii 04 '‘i 4 -i 5 ] 349c; bk vi, 
+ch 3 Iii39'’24-34] 388c; ch ii 392c-393b esp 
+[ii43“3t-'>6] 392d-393a 
+
+12 Epictetus: Discourses, bk ii, ch 12 151b- 
+152c; ch 25 174b-c 
+
+17 Plotinus: First Ennead, tr hi, ch 4 lla-c 
+
+23 Hobbes; Leviathan, part 1 , SSa-S 6 d; SSd-61a 
+
+25 Montaigne; Essays, 63d-66b; 240c-242a; 
+270a'271c; 446d-450a; 453c-454d 
+
+28 Galileo: Two New Sciences, second day, 
+190b-c 
+
+28 Harvey: On Animal Generation, 331a-337a 
+
+30 Bacon; Advancement of Learning, lla-17c esp 
+14c-15a, 16b-c; 33d-34b; 43d-44c; 47d-49b; 
+55b'61d esp S7d-58b; 64a-66a; 96d-97a / 
+Novum Organum, prep 105a-106d; bk i 107a- 
+136a, c esp aph 11-26 107d-108d, aph 39-69 
+109c-116b, APH 103-106 127d-128c; bk ii, 
+APH 27-32 157b-16Ib esp aph 32 161a-b 
+
+31 Descartes: Rules la-40a,c esp iii-vi, 4a'9b, 
+VII 10b-12a, X, 16d-17a, xii-xiii, 24d-27d, 
+XIV, 28fa-29b / Discourse 41a-67a,c esp part 
+I, 41d-42b, PART II, 45b-c, 46c-48b, part hi, 
+SOb-SIa, part iv, S2a / Objections and Replies, 
+237b'C: 267a-277a,c 
+
+33 Pascal; Pensees, 1-5 171a-173a / Geometrical 
+Demonstration 430a-446b passim 
+
+35 Locke; Human Understanding, intro, sect 
+4-7 94a-9Sc; bk i, ch hi, sect 24-26 120a- 
+121a, c; BK II, ch i, sect 10 123b-d; ch xi, 
+sect 15 146d-147a; bk hi, ch x, sect 34 
+299d-300a; bk iv, ch hi, sect 22 319c-320a; 
+SECT 30 323a-c; ch iv, sect 17 328d; ch 
+VII, sect II, 340c-341a; CH xil 3S8C'363b 
+passim, esp sect 7 360b'C, sect 14 362d- 
+363a; CH xvii, sect 19-22 379d'380b 
+
+35 Berkeley: Human Knowledge, intro, sect 
+21-25 411^4123,0 
+
+35 Hume; Human Understanding, sect ii, div 
+17 457a-b; sect vh, div 49 471c-d; sect viii, 
+DIV 75, 484c; sect xii, div 116, 503d-504a; 
+DIV 132 509a-d 
+
+42 Kant: Pure Reason, la-4a,c esp Ib-d, 3c'd; 
+lOlb-d; 133c-134d; 179d-182b; 218d-227a; 
+248d-250a,c / Fund. Prin. Metaphysic of 
+Morals, 253a'b / Practical Reason, 293c- 
+294b; 336d-337a,c / Pref. Metaphysical Ele- 
+ments of Ethics, 376c-d / Judgement, 551a- 
+5S2c; 575b-c 
+
+43 Mill; Liberty, 276c-d; 283d-284d 
+
+51 Tolstoy: War and Peace, epilogue ii, 690a-b 
+
+4a. Mathematical analysis and reasoning: the 
+search for a universal method 
+
+7 Plato: Republic, bk vi, 386d-387d/ Theaete- 
+/w, 514b-SlSd 
+
+8 Aristotle: Prior Analytics, bk i, ch 41 
+[ 49 '’ 32 - 5 o'' 3 ) 6 Sc / Posterior Analytics, bk i, 
+CH 7 103c-d; CH 10 104d-105d / Topics, bk 
+VI, CH 4 [i 4 i’' 3 - 22 ] 194d-195a; bk vh, ch 3 
+[i53 "6 -ii1 208a-b / Physics, bk h, ch 9 
+{ 200 * 15 - 29 ) 277c-d / Metaphysics, bk h, ch 3 
+513c-d; BK HI, CH 2 [ 996 * 22 - 36 ] 514d-515a; 
+bk VI, CH I [ 1026 * 7 - 32 ] S4Sa-c; bk vh, ch 10 
+[ 1036 * 2 - 13 ] 5S9b-c; BK IX, ch 9 [ 1051 * 22 - 34 ] 
+577b-c; bk xi, ch 3 [io 6 i“ 29 -*’ 3 ] 5S9c; ch 4 
+589d'590a; bk xhi, ch 2 [io 77 '’i]^H 3 
+[ 1078 * 32 ] 608d-609d 
+
+1046 THE GREAT IDEAS 4a to 4i 
+
+(4. Methodology: rules for the conduct of the mind 
+in the processes of thinking, learning, in- 
+quiring, knowing. 4a. Mathematical analy- 
+sis and reasoning: the search for a universal 
+methodi) 
+
+9 Aristotle: Ethics, bk iir, ch 3 [iii2*‘20-24] 
+358d; DK vn, ch S [ii5i“i5~i9l 402a 
+
+11 Archimedes: Method 569a-592a esp S69b- 
+570a 
+
+11 Nicomachus: Arithmetic, bk ii, 83Id-841c 
+
+16 Kepler: Harmonies of the World, 10125- 
+1014b 
+
+19 Aquinas :'5wiwaa Theologica, part i, q 85, 
+A 8, REP 2 460b-461b 
+
+23 Hobbes: Leviathan, part i, 56b; S8a-c; 59b-c 
+
+28 Galileo: Two New Sciences, second dat, 
+190b-c 
+
+30 Bacon: Advancement of Learning, 65b / 
+Novum Organum, bk i, aph 59 112b-c 
+
+31 Descartes: Rules la-40a,c esp 11 2a-3b, iv, 
+Sc-7d, VI 8a-10a, xii, 24d-2Sa, xiv-xvi 28a- 
+35c, xvHi-xxi 36b-40a,c / Discourse, part i, 
+43b-c; PART II, 46c-48b; part hi, 50d / 
+Objections and Replies, 128a-129a; 130a-133a,c 
+/ Geometry 295a-353b esp bk i, 295a-298b, 
+BK II, 304a-306a, 316a-317a, bk hi, 331b,3S3a 
+
+33 Pascal: Pensees, 1-5 171a-173a / Geometri- 
+cal Demonstration, 430a-434a; 442a-446b / 
+Arithmetical Triangle, 4Slb-4S2a; 4S8b-459b; 
+464a-466a 
+
+34 Newton: Principles, la-b; bk i, lemma i-ii 
+and scHOL 25a-32a esp lemma ii, schol, 31a- 
+32a; prop 31, schol 79a-81a; bk ii, lemma 
+2 168a-169b; bk hi, lemma 5 338b-339a 
+
+35 Locke: Human Understanding, bk ii, ch xvi, 
+sect 4 166a-b; bk iv, ch i, sect 9 308c-309b; 
+CH II, SECT 9-10 3Ilb-c; CH in, sect 18-20 
+317d-319c; sect 30 323a-c; cii iv, sect 6-9 
+32Sa-326b; ch vii, sect 11, 340c-341a; ch 
+XII, SECT 1-8 3S8c-360c passim; sect 14-15 
+362d-363b; cii xvii, sect ii 378b 
+
+'35 Berkeley: Human Knowledge, intro, sect 
+12 408a-b; sect 19 410c; sect 15-16 415d- 
+416a; sect 118-132 436b-439c passim 
+
+35 Hume: Human Understanding, sect iv, div 
+20 458a-b; sect vii, div 48 470d-471c; sect 
+XII, DIV 131 508d-S09a 
+
+36 Swirr: Gulliver, part hi, 109b-llla; 118b- 
+119a 
+
+42 Kant: Pure Reason, Sa-13d; lSc-16c; 17d-19a; 
+46a-b; 68a-69c; 2Ilc-212a; 215d-217a; 2I7c- 
+218d / Practical Reason, 302d-303b; 330d- 
+33Ia / Science of Right, 399a-b / Judgement, 
+497a-498d esp 498b-d; 551a-553c 
+
+43 Mill: Liberty, 2S3d-284a 
+
+45 Lavoisier: Elements of Chemistry, prep, 2b 
+
+45 Fourier; Theory of Heat, 172a-173b; 249a- 
+251b 
+
+51 Tolstoy: War and Peace, bk xi, 469a-d; 
+EPILOGUE II, 694d-69Sc 
+
+S3 James: Psychology, 17Sa-176a; 870a; 874a- 
+878a 
+
+4b. The heuristic principles of research in ex- 
+perimental and empirical science 
+
+8 Aristotle: Heavens, bk hi, ch 7 [3o6*i-iS| 
+397b-c / Generation and Corruption, bk i, 
+ch 2 [3i6''5-I4] 411c-d / Meteorology, bk i, 
+CH 7 [344”5'9l 450b 
+
+9 Aristotle: History of Animals, bk i, ch 6 
+[49i'‘5-26] 12c-13a / Parts of Animals, bk i, 
+CH 1 16Ia-165d esp [642"i4-'’4] 16Sb-d / Gen 
+eration of Animals, bk hi, ch id [76o’’2S-33 
+301d-302a 
+
+10 Hippocrates: Ancient Medicine, par 1-8 la 
+3b; par 20 7b-d 
+
+10 Galen: Natural Faculties, bk i, ch 13 173d 
+177a 
+
+16 Copernicus: Revolutions of the Heavenly 
+Spheres, 505a-S06a; 507a-508a 
+16 Kepler: Epitome, bk iv, 888b-890a; 907b- 
+908b 
+
+18 Augusttne: Confessions, bk v, pat 3-6 27c- 
+28c esp par 6 28c 
+
+19 Aquinas: Summa Theologica, part i, q 32, a 
+I, REP 2 175d-178a 
+
+25 Montaigne: Essays, 377a-d 
+28 Gilbert; Loadstone, prep, la-2a; bk i, 6a-7a 
+esp 6d-7a; bk ii, 27b-c 
+
+28 Galileo: Two New Sciences, first day, 131a- 
+138b; 148c-149c: lS7b-177a,c passim; third 
+DAY, 200a-d; 202d-203a; 207d-208c; 236d- 
+237a 
+
+28 Harvey: Motion of the Heart, 285c'd / Cir- 
+culation of the Blood, 322d-323d; 324c-d / 
+On Animal Generation, 331a-337a esp 331b- 
+333d, 335C-336C 
+
+30 Bacon: Advancement of Learning, 13d-14b: 
+15d; 34b; 42a-c; 56c-59c; 64d-6Sa t Novum 
+Organum I05a-195d esp pref 105a-106d, bk 
+I, APH 1-26 107a-108d, APii 50 mb, aph 70 
+I16b-H7a, APH 95 126b-c, aph 104-106 
+128a-c, BK II, APH 1-9 137a-140c, aph 52 
+194c-19Sd / New Atlantis, 210d-214d 
+
+31 Descartes: Discourse, part vi 6Qd-67a,c esp 
+6Id-62c, 66a-b / Meditations, iv, gOa-b / 
+Objections and Replies, 215a-b 
+
+33 Pascal: Vacuum, 355a-358b; 36Sb-371a pas- 
+sim / Great Experiment 382a-389b 
+
+34 Newton: Principles, la-2a; bk hi, rules 
+270a-27Ib; general schol, 371b-372a / 
+Optics, BK I, 379a; bk hi, S42a; S43a-b 
+
+34 Huygens: Light, prep, 5Slb-5S2a; cii i, 
+S53a-S54a 
+
+35 Locke: Human Understanding, bk iv, cii vi, 
+sect 13 335c-d; cii xii, sect 9-13 360d-362d 
+
+35 Hume: Human Understanding, sect hi, div 
+19, 458a; sect iv, div 23-27 459a-460d; 
+sect IX, DIV 82 487b-c 
+
+42 Kant: Pure Reason, 5a-13d esp Sc-6c; 210b-c; 
+2ISd-216d 
+
+45 Lavoisier; Elements of Chemistry, prep, Ic- 
+2b; 6d-7a,c; part i, I7a; 23c; part hi, 87b-c 
+45 Fourier: Theory of Heal, 169a-174n; 17Sb: 
+181b; 184a 
+
+^ctoAd Chapter 49: LOGIC 1047 
+
+45 Faraday: Researches in Electricity, 440b, d; 
+467a-b; 659a; 774d-77Sa 
+
+50 Marx: Capital, 6c 
+
+51 Tolstoy: War and Peace, epilogue ii, 
+690a'b: 694d-696d 
+
+53 James: Psychology, 3b-4a; 120a-129b passim; 
+348a'359a esp 3Sla-3S2a; 385a-b; 677b; 
+862a'865b; 882a-886a passim, esp 883a-884a 
+
+54 Freud: Narcissism, 400d-401a / Instincts, 
+412a'b / General Introduction, 463d; 483d' 
+48Sa esp 484d-485a / Beyond the Pleasure 
+Principle, 661c-662b / New Introductory Lec- 
+tures, 815a-b: 818c-819b; 874a-c; 879c; 88Ib-c 
+
+4c, The criteria of evidence and inference in 
+historical inquiry 
+
+6 Herodotus: History, bk i, 17b-c; dk ii, 49a' 
+S6b passim; 59a; 69b'd; 71a-73b; 76d; bk 
+
+III, 89c-d; 99b-c; bk v, 168b-c: bk vn, 
+254c-d; bk viii, 281d-282b 
+
+6 Thucydides: Peloponnesian War, bk i, 3S3d- 
+354b; BK II, 39Ic-d; bk vi, S23c'S24d passim; 
+
+BK VIII, S86b'd 
+
+14 Plutarch: Romulus lSa-30a,c passim, esp 
+ISa-lSd / Numa Pompilius, 49a-b / Themis- 
+tocles, 102a, c / Aristides, 262b,d-263c / Nicias, 
+423a-c 
+
+15 Tacitus: Annals, bk hi, 49C'd; bk iv, 66b-d 
+40 Gibbon; Decline and Fall, 96b, d; 232c; 296a 
+
+46 Hegel: Philosophy of History, intro, lS3a- 
+lS8a; 180c-183d; part hi, 285d-286a 
+
+51 Tolstoy: War and Peace, bk xiii, S63a-b; 
+
+EPILOGUE H 67Sa-696d 
+54 Freud: General Introduction, 4S0d-45Ia 
+
+4d. The diverse methods of speculative philos- 
+ophy: the role of intuition, analysis, 
+dialectic, genetic or transcendental criti- 
+cism 
+
+7 Plato: Protagoras, 50d-52d; 57a-c / Euthy- 
+demus 65a-84a,c / Phaedrus I15a-14Ia,c esp 
+131b-141a,c / Meno, 179d-183a / Republic, 
+BK vi-vii, 383d-398c / Parmenides, 491a-c / 
+Theaetetus, 5I4b-515d; 525d-526b / Sophist 
+55Ia-579d esp 552b-56Id, 571a-c / Statesman 
+580a-608d esp 595a-d / Philebus 609a-639a,c 
+esp 609a'617d / Seventh Letter, 809c-810d 
+
+8 Aristotle: Posterior Analytics 97a-137a,c / 
+Topics, bk I, CH I [ioo“ 25 -^ 2 i] 143a-b: bk 
+VIII, CH r [i 55 ’’t-i 6 ] 21Ia-b; ch 14 [i63*’S-i61 
+222a / Sophistical Refutations, ch 16 [ 175 “!- 
+12 ] 241a / Physics, bk 1 , ch i 2S9a-b; ch 2 
+[i 84 ‘’ 25 -i 85 “i 9 l 259c-260a; bk ii, ch 7-9 
+275b-278a,c / Heavens, bk ii, ch 13 [ 294 ‘’ 6 - 
+14 ] 386a; bk hi, ch 7 [ 3 o 6 “i-i 8 ] 397b-c / 
+Generation and Corruption, bk i, ch 2 [3i6“5- 
+14 ] 4Uc-d / Metaphysics, bk i, ch 3 ( 983 ® 
+24 ->' 6 ] SOlc-d; ch 9 l 992 ’’i 8 - 993 ” 2 ] Slla-b; 
+bk ii, ch I [993“30-’’t9) 511b,d'S12a; ch 3 
+5I3c-d; BK III, ch i [995''23-*’4l S13b,d; bk 
+
+IV, CH 2 S22b-524b esp (io04®25-3i] 523b-c; 
+ch 4 [ioo 5*’35 -ioo 6"28] S25a-c; ch 7 [1012® 
+
+17-34] 532a-b; CH 8 [ioi2®29-^8] 532b-c; 
+BK VI, ch I 547b,d-S4Sc; dk vii, ch 3 [1029” 
+34-'’i2] 5S2a; ch 17 (io4i“6-''ii] 565a-d; bk 
+vni, CH 4 [io44®33-'’2o] 569a-b; bk ix, ch 6 
+[io 48®35-’’9] 573d-574a; bk x, ch i [ 1052*’!- 
+15] 57Sd-S79a; bk xi, ch 3 589a-d; ch 5 
+590a'd; ch 6 [io 63 ®i 3 -i 6] 59Ib; ch 7 
+[io 63*’36 -io 64“9] S92b; bk xiii, ch i [ 1076® 
+10-16] 607a; ch 3 [i077''i7-i078“3i] 609a'd 
+/ Soul, BK I, ch I (402®I]-CH 2 [403*>23] 631a- 
+633a; bk ii, ch 2 i4i3“ii-i9] 643a'b; ch 3 
+{4i4‘’2o]-cH 4 [415®22] 644d-64Sc 
+9 Aristotle: Ethics, bk vi, ch 3 388b-c; ch 6 
+389d; ch 8 [ii42®i3-i9] 391b; ch ii 392c' 
+393b esp [ii 43®3 i-'> 6] 392d-393a 
+
+17 Plotinus; First Ennead, tr hi, ch 4-6 11a- 
+12b / Sixth Ennead, tr ii, ch 4 270c-271a 
+
+18 Augustine: City of God, bk viii, ch 2-8 
+265b-270d passim 
+
+19 Aquinas; Summa Thcologica, part 1, q i, 
+a 2, ANS and rep i 4a-c; q 2, a 2 lld-12c; 
+Q 33, A i, REP 2 175d-178a; part i-ii, q 18 
+693b,d-703a passim 
+
+23 Hobbes: Leviathan, part i, 56b-d; 60a-b; 
+65c-d; PART IV, 267a-c; 269b'C 
+
+24 Rabelais; Gargantita and Fantagruel, bk ii, 
+101b-106a 
+
+30 Bacon: Advancement of Learning, 16b-c; 
+42a-c; S6c-S9c; 61d 
+
+31 Descartes: Rh/w, ii-xiv, Id-ZVo { Discourse, 
+PART n, 46c-47b; part iv 51b-54b / Medita- 
+tions, 69a-71a,c; 72b,d; i 75a-77c; in, 82a'd 
+/ Objections and Replies, I19c-120c; ]26a-b; 
+128a-129a; postulate i-vii 130d'131c; I67c; 
+206c-207a; 237b-238b; 244a-b; 24Sd-246a: 
+267a-277a,c 
+
+31 Spinoza: Ethics, part n, prop 10, schol 
+376d-377a 
+
+33 Pascal: Geometrical Demonstration, 430a- 
+434a; 442a-443b 
+
+35 Locke: Human Understanding, 87d: intro 
+93a-95d; bk i, ch hi, sect 24-25 120a-d 
+35 Berkeley: Human Knowledge, intro, sect 
+21-25 411b-412a,c 
+
+35 Hume: Human Understanding, sect i, div 2 
+4Slb-c; Div 7-9 453c-4S5a; sect ii, div 17 
+4S7a'b; sect xii, div ii6, 503d-S04a; div 
+130 508c-d 
+
+38 Rousseau: Inequality, 339d; 341b-342b; 
+362a'd passim 
+
+42 Kant; Pure Reason, la-13d; 16a-c; lOOd- 
+112d; llSd-116a; 119a-b; 133c-134d: 184b-c; 
+ISSb-c; I93a'200c esp 193d-194b, I99a-c; 
+215d-216d: 218d-227a: 248d-250a,c / Fund. 
+Prin. Metaphysic of Morals, 253a-c: 2S4b-c: 
+263b-d; 264b-d esp 264d; 271a'c; 283d-2S4d 
+/ Practical Reason, 293c-294b esp 293d [fn 3]; 
+297a'C; 329d'330c; 335b-c; 336d-337a,c; 
+358a / Prif. Metaphysical Elements of Ethics, 
+365a-366a; 376c-d / Intro. Metaphysic of 
+Morals, 387a-388d / Judgement, S70b-572d 
+
+43 Federalist: number 31, 103c-104a 
+
+1048 THE GREAT IDEAS 4fw4/ 
+
+(4. Methodology; rules for the conduct of the mind 
+in the processes of thinking, learning, in- 
+quiring, knowing, ^d. The diverse methods 
+of speailative philosophy; the role of intui- 
+tion, analysis, dialectic, genetic or tran- 
+scendental criticism.) 
+
+43 Mill: Liberty, 287b-288c / Utilitarianism, 
+445a-447b 
+
+46 Hecll: 'Philosophy of 'Right, pref, la-c; 
+INTRO, par 2, 9d-10a; additions, 3 116a / 
+Philosophy of History, intro, 156c-lSSa 
+
+51 Tolstoy: War and Peace, epilogue ii, 690a-b 
+
+53 James; Psychology, 674a-67Sb esp 67Sb; 687a 
+
+54 Freud: Beyond the Pleasure Principle, 661c- 
+662b / New Introductory Lectures, 874c-875b 
+esp 875a 
+
+4e. The logic of practical thinking; the methods 
+of ethics, politics, and jurisprudence 
+
+5 Aristophanes; Wasps [799-1002] 517c-519d 
+
+9 Aristotle: Motion of Animals, ch 7 [701*5- 
+39] 236b-d / Ethics, bk i, ch 3 [i094'’i2-27] 
+33gd-340a; ch 4 340c; ch 7 
+
+[io98“25-‘>8] 343d-344a; bk ii, ch 2 349b- 
+350a esp [ii03'’27-ti04*9] 349b-c; ch 7 
+(1107*27-32] 3S2d-353a; bk hi, ch 3 358a- 
+3S9a; bk v, ch 10 [H37’’i2-3i] 385d-386a; 
+BK VI, ch I [ii38*’i6-34] 387a'b; ch 5 389a-c 
+passim; ch 8-9 390d-392b; ch ii 392c-393b 
+esp [1143*31-^6] 392d-393a; bk vii, ch 2-3 
+395c-398a; ch 8 [1151*15-19] 402a / Politics, 
+BK I, CH 1 [1252*18-24] 44Sb 
+
+19 Aquinas: Summa Theologica, part i, q 19, 
+A 5, ANS 112d-113c; A 7, ANS 114d-115d; q 8r, 
+A 3, ANS and REP 2 430c-431d: q 83, a i, ans 
+436d-438a; q 86, a 1, Rep 2 461c-462a; part 
+i-ii, QQ 13-15 672d-684a; q 44, a 2 808b-d 
+
+20 Aquinas; Summa Theologica, part i-ii, q 76, 
+A I, ANS Mla-c; q 77, a 2, rep 4 14Sd-147c; 
+Q 95, A 2 227c-22Sc; A 4 229b-230c 
+
+23 Hobbes; Leviathan, part j, 53a-54a; SSa-b; 
+60b-61a; 66c-68a; 78a-d; part ii, 112d; 
+129a-b; lS8c-d 
+
+26 Shakespeare; Merchant of Venice, act ii, 
+sc vii [1-75I 416a-417a; sc ix [19-72] 417d- 
+418b; ACT 111, sc II (73-139] 420d-421b 
+
+30 Bacon; Advancement of Learning, 57d-S8b; 
+79c-80a; 81d-82a; g4d-95b 
+
+31 Descartes; Discourse, part hi, 48b-S0b / 
+Objections and Replies, 126a'b 
+
+33 Pascal; Protincial Letters, 27a-80b; 90a-127a 
+
+35 Locke; Human Understanding, bk r, cii ii, 
+sect I I03d-104a; sect 4 104d-10Sa; bk hi, 
+cii XI, sect 15-18 303b-304b; bk iv, ch hi, 
+SECT 18-20 317d-319c; cii iv, sect 7-10 
+325b-326b: ch xii, sect 8 360c 
+
+35 Hume: Human Understanding, sect i, div 
+1-5 45In-4S3b passim; div 9, 4S4d-455a; 
+SECT XII, DIV 131-132 508d-S09d passim, esp 
+DIV 132, 509c-d 
+
+41 Gibbon; Decline and Pall, 7Sd-81c passim, 
+esp 76d-78b 
+
+42 Kant: Pure Reason, eOa-c; 149d-150a / 
+Fund. Prin. Metaphysic of Marals,2$Z^-2i>4iL\ 
+264b-d; 266b-c; 271a-c; 283d-284d / Practical 
+Reason, 291a-297c: 306d-307a; 307d-309b; 
+309d-310b; 319c-321b; 329a-331a / Pref. 
+Metaphysical Elements of Ethics 365a-379d / 
+Intro. Metaphysic of Morals, 3S8a-d; 3908; 
+393a / Science of Right, 397a-b; 398a-399c; 
+413d-414a; 416b-417a 
+
+43 Federalist: number 31, 103c-104a; num- 
+ber 85, 258d 
+
+43 Mill: Liberty, 284b-d / Utilitarianism, 44Sa- 
+447b; 456a-457b 
+
+46 Hegel: Philosophy of Right, intro, par 3 
+10a'12c; part hi, par 222-223 73b-d: par 225 
+73d-74a; par 229 7Sb; additions, 140 139b-c 
+
+So Marx: Capital, 6a-d; lOa-lld; 301d [fn 3] 
+
+50 Marx-Engels; Communist Manifesto, 430e- 
+433d passim, esp 431a-c 
+
+51 Tolstoy: War and Peace, epilogue ii, 680d- 
+681a; 683d'684a; 690a-b 
+
+53 James: Psychology, 887a-888a 
+
+4f. Theological argument: the roles of faith, 
+reason, and authority 
+
+18 Augustine: Confessions, bk i, par i la-b; bk 
+XU, par 32-36 107a-108c; par 41-43 llOa-d; 
+BK xiii, par 36 120c'd / City of God, bk vni, 
+ch 4-12 266d-273a ! Christian Doctrine, bk i, 
+CH 37 635b-c: BK n, ch 31 651d-6S2b; bk HI, 
+ch 28 66Sa 
+
+19 Aquinas: Summa Theologica, part i, q i 3a- 
+10c, ' Q 2, A 2 lld-12c; Q 12, A 12 60d-61c; Q 
+19, A 5, REP 2 112d-113c; Q 32, A 1 17Sd-178a; 
+A 4 180b-d; Q 46, A 2 253a-2SSa; Q 68, a i, 
+ANS 3S4a-355c; q 102, a i, ans and rep 4 
+S23d-52Sa; q 113, a 7, rep i S80b-S8Ia 
+
+20 Aqvihas: Summa TAeofogfea, part i-ii,Q 102, 
+A 2 271b-272a; part ii-ii, Q i, a 5, rep 2 
+383b-384b; q 2, a 10 399b-400b: part hi 
+suppL, Q 75, A 3, REP 2 938a-939d 
+
+21 Dante: Divine Comedy, paradise, xxiv 
+142d-144b 
+
+23 Hobbes: Leviathan, part i, 66a-c; 83b; part 
+II, 137b-c; 149c-d; 160b-c; 163a-b; part hi, 
+165a-c; 167a-b; 241c-242a 
+
+25 Montaigne: Essays, 98b-99a; 208b-209c; 
+212a-213a; 292c-294b 
+
+29 Cervantes: Don Quixote, part i, 122b-c 
+
+30 Bacon: Advancement of Learning, 12c-13c; 
+17b-c; 39d-40a: 41b-d; 95d-101b 
+
+31 Descartes: Discourse, part i, 43c / Medita- 
+tions, 69a-72d 
+
+32 Milton: Paradise Lost, bk xii [552-587] 331n- 
+332 b 
+
+33 Pascal: Provincial Letters, 163a-166a / 
+Pensees, 242-253 217b-220a; 265-290 22Ib- 
+22Sa: 557-567 272b-273b; 862-866 342b- 
+343b; 903 348a / Vacuum, 3SSb-356b 
+
+35 Locke: Human Understanding, bk iv, chxvii, 
+sect 24 380c-d; ch xsuii 380d-384b passim; 
+CH XIX, sect 14 387d-388a 
+
+35 Hume: Human Understanding, sect xi 497b- 
+
+5 Chapter 49 : LOGIC 1049 
+
+503c passim, esp Div 102 497b-d, div 104 
+498b-c, DIV 107 499c-500b; sect xii, div 
+132, 509c 
+
+40 Gibbon; Decline and Fall, 206a-b; 307a- 
+314a esp 308c-309a, 310b-312a, 313d-314a; 
+348c-d; 438b-442a; 670b-c 
+
+41 Gibbon: Decline and Fall, 134a-lSlc esp 136d- 
+140d, 143c-14Sd; 520b-521c 
+
+42 Kant: Pure Reason, 240b-243c / Practical 
+Reason, 348b-349b; 35ib-352c / Judgement, 
+588a-6I3a,c esp 588a'S92d, 593d-S96c, 603d- 
+607c 
+
+46 Hegel: Philosophy of History, intro, 158c- 
+160b; PART III, 308c-309d; part iv, 360c-361a 
+
+5. Logic as an object of satire and criticism; 
+sophistry and logic-chopping 
+
+5 Aristophanes; Clouds 488a-506d 
+7 Plato: Euthydemus 6Sa-84a,c / Republic, bk 
+vii, 400d-401a / Theaetetus, S2Sd-526b 
+
+12 Epictetus: Discourses, bk n, cm 21 166c- 
+167d; bk hi, ch 2 177c-178d; ch 2t 193d-195a 
+
+18 Augustine: Christian Doctrine, bk ii, ch 31 
+651d-652b; CH 37 653d'654b 
+
+23 Hobbes: Leviathan, part hi, 165b; part iv, 
+268d; 270d-272c 
+
+24 Rabelais: Gargantua and Pantagruel, bk i, 
+12d-13b; 18d: 22b-c; 23b-c: bk h, 73b-c; 
+79c; 101b-106a; bk hi, 150a; 182c; 187b-c; 
+197b-200d; bk iv, 273c-274b 
+
+25 Montaigne: Essays, 61b-c; 72b-77a passim; 
+255b-256a; 259d-263b; 448d-449a; S17b-519a 
+
+26 Shakespeare; Taming of the Shrew, act i, 
+SC II {1-44I 20Sb-c / Two Gentlemen of 
+Verona, act i, sc i [70-158] 230a-d / Julius 
+Caesar, act i, sc i [1-36] 568b, d 
+
+27 Shakespeare; All’s Well That Ends Well, 
+act I, sc HI [27-59] 145d-146a 
+
+30 Bacon: Advancement of Learning, S7d-S8b; 
+60a-61c; 66c-67c / Novum Organum, bk i, 
+APH 63 113d-114a 
+
+31 Descartes: Rules, x, 16d-17a / Discourse, 
+PART II, 46c-d 
+
+33 Pascal; Pensees, 393 240a 
+
+35 Locke: Human Understanding, bk hi, ch x, 
+sect 6-13 293a-294d; bk iv, ch vh, sect h, 
+34Ia-d; ch xvh, sect 4, 373a-c; sect 6, 
+376d-377a 
+
+36 Swift: Gulliver, part i, 15b-23a esp I9b-20a; 
+PART II, 56a-62a esp S8a-b 
+
+36 Sterne; Tristram Shandy, 227a-228a; 234b- 
+236b; 318b-321a; 329b-336a; 421b-422b 
+
+42 Kant: Pure Reason, 36d-37d; 109b-c; 120c- 
+121c; 133d; 157d; 221c-222b / Judgement, 
+607d-608c 
+
+47 Goethe: Faust, part i [1908-1945] 45b-46a 
+
+51 Tolstoy; War and Peace, bk vi, 238a-c; 
+242c-243b; bk ix, 361d-36Sc; epilogue i, 
+672a-b; epilogue ii, 683d'684a 
+
+53 James: Psychology, 23 Sb [fn 2]

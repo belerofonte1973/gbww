@@ -1,0 +1,2419 @@
+CHAPTER: Infinity
+
+INTRODUCTION
+
+INTRODUCTION 
+
+O NE of the persistent questions concerning 
+infinity is whether we can know or com- 
+prehend it. Another is whether the infinite 
+exists, and if so, to what kind of thing infinity 
+belongs. It is not surprising, therefore, that the 
+discussion of infinity often borders on the un- 
+intelligible. 
+
+The idea of infinity, like the idea of eternity, 
+lacks the support of the imagination or of sense- 
+experience. The fact that the infinite cannot be 
+perceived or imagined seems sufficient to lead 
+Hobbes and B erkeley to deny its reality. “What- 
+soever we imagine is finite,” writes Hobbes. 
+“Therefore there is no idea, or conception of 
+anything we call infinite . . . . When we say any- 
+thing is infinite, we signify only that we are not 
+able to conceive the ends and bounds of the 
+thing named, having no conception of the 
+thing, but of our own inability.” 
+
+On similar grounds Berkeley rejects the pos- 
+sibility of infinite division. “If I cannot per- 
+ceive innumerable parts in any infinite ex- 
+tension,” he writes, “it is certain that they are 
+not contained in it: but it is evident, that I 
+cannot distinguish innumerable parts in any 
+particular line, surface, or solid, which I either 
+perceive by sense, or figure to myself in my 
+mind; wherefore I conclude that they are not 
+contained in it.” 
+
+But for most of the great writers on the sub- 
+ject, the impossibility of representing infinity 
+and eternity to the imagination docs not render 
+them inconceivable or meaningless. Yet it does 
+account for the difficulty of grasping their 
+meaning, a difficulty furtlier increased by the 
+filet that, whatever their meaning, infinity and 
+eternity are indefinable. To define the infinite 
+would be to limit— even in thought— the un- 
+limited. 
+
+The notion of infinity involves greater per- 
+plexities than that of eternity. The meaning of 
+
+eternity is weighted with the mystery of God, 
+the world, and time. All these affect the concep- 
+tion of infinity; but for the infinite there are 
+also the mysteries of number and of space, of 
+matter and motion. In the sphere of quantity, 
+or of things subject to quantity, infinity is itself 
+the source of mystery, or at least the root of 
+difficulty in analysis. It is the central term in 
+the discussion of the continuous and the indi- 
+visible, the nature of series and of limits. 
+
+As INDICATED in the chapter on Eternity, 
+that idea in each of its applications seems to 
+have one or the other of nvo meanings— (i) 
+the meaning in which it signifies infinite time, 
+time without beginning or end, and (2) the 
+meaning in which it signifies the timelessness 
+or immutability of being. Both meanings are 
+negative, so far as our understanding is con- 
+cerned. Yet what is signified by the second is 
+in itself something positive, at least in the 
+opinion of those who think that to be exempt 
+from change entails having every perfection 
+or being lacking in nothing. 
+
+This split in meaning also occurs in the idea 
+of infinity. As applied to being, the term in- 
+finite signifies something positive, even though 
+our understanding of what is signified remains 
+negative or, at best, analogical. An infinite be- 
+ing is one which lacks no attribute that can 
+belong to a being. This is the positive condition 
+of absolute perfection. The infinite here still 
+means the unlimited, but that which is un- 
+limited in being has no defect. To lack defi- 
+ciencies is to be perfect. 
+
+It is in this sense that Spinoza defines God 
+as “Being absolutely infinite, that is to say, 
+substance consisting of infinite attributes, each 
+one of which expresses eternal and infinite es- 
+sence.” Like Spinoza, Aquinas maintains that 
+“besides God nothing can be infinite.” But he 
+
+Chapter 40 
+
+distinguishes the absolute or positive sense in 
+which God alone is infinite from the sense of 
+the word in which it can be said that “things 
+other than God can be relatively infinite, but 
+not absolutely infinite.” This other meaning, 
+according to Aquinas, is not only relative but 
+negative, for it connotes "something imper- 
+fect.” It signifies indeterminacy or lack of per- 
+fection in being. 
+
+What Aquinas calls the relative or potential 
+infinite, he attributes to matter and to quan- 
+tities — to bodies, to the magnitudes of space 
+and time, and to number. This sense of “in- 
+finite” corresponds to that meaning of “eter- 
+nal,” according to which time consists of an 
+endless series of moments, each having a pre- 
+decessor, each a successor, no matter how far 
+one counts them back into the past or ahead 
+into the future. 
+
+But in the field of quantities other than time, 
+the meanings of infinite and eternal part com- 
+pany. There is, of course, some parallelism be- 
+tween infinite space and infinite time, insofar 
+as an infinite extension is one which does not 
+begin at any point or end at any; but the con- 
+sideration of space and number leads to an as- 
+pect of infinity which has no parallel in the con- 
+sideration of eternity. 
+
+“In sizes or numbers,” Pascal writes, “nature 
+has set before man nvo marvelous infinities. . . . 
+For, from the fact that they can always be in- 
+creased, it follows absolutely that they can al- 
+ways be decreased. ... If we can multiply a 
+number up to 1 00,000 times, say, we can also 
+take a hundred thousandth part of it by di- 
+viding it by the same number we multiply it 
+with, and thus every term of increase will be- 
+come a term of division by changing the in- 
+teger into a fraction. So that infinite increase 
+includes necessarily infinite division.” As end- 
+less addition produces the infinitely large, so 
+endless division produces the infinitesimal or 
+the infinitely small. 
+
+A trillion trillion is a finite number, because 
+the addition of a single unit creates a larger 
+number. The fact that the addition of another 
+unit produces a different number indicates that 
+a trillion trillion has a determinate size, which 
+is the same as saying that it is a finite number. 
+An infinite number cannot be increased by ad- 
+dition, for it is constituted— in thought at 
+
+INFINITY 817 
+
+least— as a number larger than the sum of 
+any two finite numbers; which is another 
+way of saying that it is approached by carrying 
+on the process of addition endlessly. The size 
+of an infinite number is therefore indetermi- 
+nate. 
+
+What Galileo points out about two infinite 
+quantities seems to hold for an infinite and a 
+finite quantity. He asks us to consider the 
+totality of all integers (which is infinite) and 
+the totality of their squares (which is also in- 
+finite). On the one hand, there appear to be as 
+many squares as there are integers; on the 
+other hand, the totality of integers includes all 
+the squares. Precisely because “the number of 
+squares is not less than the totality of all num- 
+bers, nor the latter greater than the former,” 
+Galileo insists that “the attributes ‘equal,’ 
+‘greater,’ and ‘less’ are not applicable to in- 
+finite, but only to finite quantities.” Nor does 
+the sense in which one finite quantity can be 
+greater or less than another— that is, by a de- 
+terminate difference between them— apply in 
+the comparison of a finite and an infinite quan- 
+tity. The latter, being indeterminately large, 
+is indeterminately larger than any finite quan- 
+tity. 
+
+These remarks apply to the infinitely small 
+as well. The infinitesimal is immeasurably small 
+or indeterminately less than any finite fraction, 
+no matter how small, because its own size is 
+indeterminate. The finite fraction, itself a 
+product of division, can be divided again, but 
+if an infinitesimal quantity were capable of 
+further division, it would permit a smaller, 
+and since that smaller quantity would be a 
+determinate fraction of itself, the infinitesimal 
+would have to be determinate in size. Since that 
+is not so, the infinitesimal must be conceived 
+as the indivisible or as the limit approached by 
+carrying on division endlessly. 
+
+“Because the hypothesis of indivisibles seems 
+somewhat haish,” Newton proposes an analysis 
+in terms of what he calls “nascent and evanes- 
+cent quantities,” or quantities just beginning 
+to be more than nothing or just at the point 
+at which they vanish into nothing. “As there 
+is a limit which the velocity at the end of a 
+motion may attain, but not exceed . . . there 
+is a like limit in all quantities and proportions 
+that begin or cease to be.” Newton warns his 
+
+818 THE GREAT IDEAS 
+
+reader, therefore, that if he “should happen to 
+mention quantities as least, or evanescent, or 
+ultimate,” the reader is “not to suppose that 
+quantities of any determinate magnitude are 
+meant, but such as are conceived to be always 
+diminished without end.” 
+
+Later, speaking of quantities which are “var- 
+iable and indetermined, and increasing or de- 
+creasing, as it were, by a continual motion or 
+flux,” he adds: “Take care not to look upon fi- 
+nite quantities as such.” The method of fluxions 
+provides an infinitesimal calculus on the hy- 
+pothesis of hmits rather than of indivisibles. 
+
+Through all these conceptions of infinity — 
+metaphysical, mathematical, and physical — 
+run the paired notions of the unlimited and of 
+hmits approached but not attained. The finite 
+is neither unlimited nor does it insensibly ap- 
+proach a limit. There are also the opposite no- 
+tions of the perfect and the indeterminate. 
+The finite is neither, for it is determinate with- 
+out being a totality or complete. 
+
+Though they have a common thread of 
+meaning, and though each raises similar dif- 
+ficulties for the understanding, the conception 
+of infinity in being or power, and the concep- 
+tion of infinite (or infinitesimal) quantity re- 
+quire separate consideration. The same ques- 
+tions may be asked of each, questions about the 
+existence of the infinite and about our knowl- 
+edge of it, but the same answers will not be giv- 
+en in each case. There are those who deny the 
+existence of an actually infinite body or an 
+actually infinite number, yet affirm the infinite 
+existence of God. There are those who declare 
+the infinity of matter to be intrinsically unin- 
+telligible, but maintain that God, Who is in- 
+finite, is intrinsically the most intelligible ob- 
+ject. They add, of course, that the infinite being 
+of God cannot be comprehended by our finite 
+intellects. 
+
+On each of these points, an opposite view 
+has been taken, but the dispute concerning the 
+infinity of God involves issues other than those 
+which occur in the controversy over the infinite 
+divisibility of matter or the infinity of space 
+and time. It seems advisable, therefore, to deal 
+separately with the problems of infinity as they 
+arise with respect to different objects or occur 
+in different subject matters. 
+
+The conception of God, in the words of 
+Anselm, as a being “than which a greater can- 
+not be conceived” — or, in the words of Kiant, 
+as an ens realissimum, a most real being— e.x- 
+presses the plenitude of the divine nature and 
+existence. The mediaeval thesis, defended by 
+Descartes, that God’s essence and existence 
+are identical, implies that neither is contracted 
+or determined by the other. The still earlier 
+notion of Aristotle, repeated by Aquinas, that 
+God is pure actuality, carries with it the at- 
+tributes of completeness or perfection, which 
+are the positive aspects of immutability or in- 
+capacity for change. Spinoza’s definition of sub- 
+stance as that which exists, not only in itself, 
+but through itself and by its very nature, en- 
+tails the autonomy or utter independence of 
+the divine being. 
+
+These are so many different ways of stating 
+that God is an infinite being. Both Aquinas 
+and Spinoza make infinity the basis for proving 
+that there can be only one God. When Spinoza 
+argues that “a plurality of substances possessing 
+the same nature is absurd,” he has in mind the 
+identification of infinite substance with God. 
+“If many gods existed,” Aquinas writes, “they 
+would necessarily differ from each other. Some- 
+thing would therefore belong to one, which did 
+not belong to another. And if this were a priva- 
+tion, one of them would not be absolutely per- 
+fect; but if it were a perfection, one of them 
+would be without it. So it is impossible for 
+many gods to exist” — that is, of course, if 
+infinity is a property of the divine nature. 
+Aquinas makes this condition clear when be 
+goes on to say that “the ancient philosophers, 
+constrained as it were by the truth, when they 
+asserted an infinite principle, asserted likewise 
+that there was only one such principle.” 
+
+But while it is impossible for there to be tsvo 
+infinities of being, it is not impossible for there 
+to be two, or more, infinite quantities. One 
+explanation of this difference seems to be the 
+actuality or existence of an infinite being, in 
+contrast to the conceptual character of the in- 
+finite objects of mathematics, which are some- 
+times called “potential infinites” because they 
+arc conceived as in an endless process of be- 
+coming, or as approaching a limit that is never 
+reached. 
+
+When the physical existence of infinite quan- 
+
+Chapter 40: 
+
+tities is asserted, as, for example,' a universe of 
+infinite extent or an infinite number of atoms, 
+the uniqueness of these actual totalities seems 
+to follow. Two infinite worlds cannot co-exist, 
+though the one world can be infinite in several 
+distinct respects— in space or duration, or in 
+the number of its constituents— even as the 
+infinity of God, according to Spinoza, involves 
+“infinite attributes, each one of which expresses 
+eternal and infinite essence.” 
+
+Spinoza’s argument against two actual in- 
+finities seems to find confirmation in the posi- 
+tion taken by Aquinas that God’s omnipotence 
+does not include the power to create an infinite 
+world. God’s infinity, as we have already noted, 
+follows from the identity of God’s essence and 
+existence. Since a created being has existence 
+added to its essence, Aquinas asserts that “it is 
+against the nature of a created thing to be ab- 
+solutely infinite. Therefore,” he continues, “as 
+God, although He has infinite power, cannot 
+make a thing to be not made (for this would 
+imply that two contradictories are true at the 
+same time), so likewise He cannot make any- 
+thing to be absolutely infinite.” 
+
+On this view, an infinite world cannot co- 
+exist with an infinite God, if, in their separate 
+existence, one is dependent on the other, as 
+creature upon creator. The infinity of the 
+world or of nature, in Spinoza’s conception, 
+is not separate from the infinity of God, but 
+consists in the infinity of two of God’s attri- 
+butes — extension and thought. 
+
+In our time there has arisen the conception 
+of a finite God— a God who, while the most 
+perfect being, yet is not without capacity for 
+growth or change, a God who is eternal without 
+being immutable. This conception, which in 
+the light of traditional theology appears to be 
+as self-contradictory as round square, has arisen 
+in response to the difficulties certain critics 
+have found in the traditional doctrine of an 
+infinite being. They point to the difficulty of 
+understanding how finite beings can exist sep- 
+arate from, yet in addition to, an infinite being; 
+they also cite difficulties in the notions of in- 
+finite knowledge, infinite power, and infinite 
+goodness. 
+
+The infinity of the divine omniscience ex- 
+tends to the possible as well as to the actual. 
+But the possible includes things which are in- 
+
+INFINITY 819 
+
+compatible with one another, things which, in 
+the language of Leibnitz, are not compossible. 
+The incompossible would thus seem to be em- 
+braced in the infinite scope of divine thought 
+or knowledge. In the view of one theologian, 
+Nicolas of Cusa, the mystery of God’s infinity 
+is best expressed by affirming that in God all 
+contradictions are somehow reconciled. 
+
+The infinity of God’s pow'er, or the divine 
+omnipotence, also raises questions about the 
+possible and the impossible. Is nothing im- 
+possible to God or must it be said that there are 
+certain things which not even God can do, such 
+as reverse the order of time or create a world 
+which shall be as infinite and perfect as himself? 
+In the assertion that God cannot do the im- 
+possible, Aquinas sees no limitation on God’s 
+power. The impossible, he writes, does not 
+“come under the divine omnipotence, not be- 
+cause of any defect in the power of God, but 
+because it has not the nature of a feasible or 
+possible thing.” For this reason, he claims, “it 
+is better to say that such things cannot be done, 
+than that God cannot do them.” The inability 
+to do the undoabk constitutes no violation of 
+infinite power, even as the lack of nothing does 
+not deprive infinite being of anything. 
+
+The infinite goodness of God is sometimes 
+set against the fact of evil, or the existence of 
+imperfections, in the created world. This aspect 
+of the problem of evil, like that which con- 
+cerns man’s freedom to obey or disobey the 
+divine will, cannot be separated from the fun- 
+damental mystery of God’s infinity — in power 
+and knowledge as well as in goodness. The prob- 
+lem is considered in the chapter on Good and 
+Evil. The point there mentioned, that evil is 
+essentially non-being or deprivation of being, 
+leads to one solution of the problem. It accepts 
+the finitude, and consequently the imperfec- 
+tion, of creatures as a necessary consequence of 
+God’s infinity. The best of all possible worlds 
+cannot be infinitely good. 
+
+To MAN ALONE, among all admittedly finite 
+things, has infinity been attributed and even 
+made a distinctive mark of his nature. Does 
+this introduce a new meaning of infinity, nei- 
+ther quantitative nor divine? 
+
+It has seldom if ever been questioned that 
+man is finite in being and power. The limits of 
+
+820 THE GREAT IDEAS 
+
+human capacity for knowledge or achievement 
+are a perennial theme in man’s study of man. 
+Yet it is precisely with regard to capacity that 
+certain writers have intimated man’s infinity.' 
+
+Pascal, for example, finds the apparent con- 
+tradictions in human nature intelligible only 
+when man is understood as yearning for or im- 
+pelled toward the infinite. “We burn with de- 
+sire,” he says, “to find solid ground and an ul- 
+timate sure foundation whereon to build a 
+tower reaching to the Infinite. But our whole 
+groundwork cracks and the earth opens to 
+abysses.” In this fact lies both the grandeur 
+and the misery of man. He aspires to the in- 
+finite, yet he is a finite being dissatisfied with 
+his own finitude and frustrated by it. 
+
+It is sometimes said that the touch of infinity 
+in man — with the suggestion that it is a touch 
+of madness — consists in his wanting to be God. 
+Those who regard such desire as abnormal or 
+perverse interpret it as a misdirection of man’s 
+natural desire to know God face to face and to 
+be filled with the love of God in the divine 
+presence. But, according to the theory of nat- 
+ural desire, the tendency of each nature is 
+somehow proportionate to its capacity. If man’s 
+restless search for knowledge and happiness can 
+be quieted only by the possession ot the infinite 
+truth and goodness which is God, then man’s 
+intellect and will must somehow be asinfinite in 
+nature as they are in tendency. Yet that is not 
+an unqualified infinity, for the same theologians 
+who teach that man naturally seeks God also 
+hold that man’s finite intellect cannot compre- 
+hend the infinite being of God as God knows 
+Himself. Nor do they think that man’s capacity 
+for knowing and loving God can be fulfilled 
+except in the beatific vision, which is a super- 
+natural gift rather than a natural achievement. 
+
+These and related matters are discussed in 
+the chapters on Desire and Knowledge. The 
+great books speak of other objects than God as 
+objects of man’s infinite desire. The appetite 
+for money, for pleasure, or for power seems to 
+be an infinite craving which no finite quantity 
+of these goods ever satisfies. Two comments arc 
+made upon this fact, which is so amply evi- 
+denced in the human record. One is that man’s 
+infinite lust for worldly goods expresses even as 
+it conceals his natural desire for a truly infinite 
+good. The other is that these worldly goods are 
+
+seductive objects precisely because they arc 
+infinite. 
+
+Here the word “infinite” is used, not in the 
+sense which signifies perfection, but in the 
+quantitative sense which has the meaning of in- 
+determination. Plato’s division, in xht-Phtlehus, 
+of goods into the finite and the infinite sep- 
+arates measured and definite goods from those 
+which need some limitation in quantity. Socra- 
+tes exemplifies the distinction by reference to 
+the fact that “into the hotter and the colder 
+there enters a more and a less” and since “there 
+
+is never any end of them they must also be 
+
+infinite.” In contrast, “when definite quantity 
+is once admitted, there can be no longer a 
+‘hotter’ or a ‘colder.’ ” Such things, he says, 
+“which do not admit of more or less” belong 
+“in the class of the limited or finite.” 
+
+Following the line of this example, Socrates 
+later distinguishes between infinite and finite 
+pleasures, or pleasures without limit and those 
+which have some intrinsic measure. “Pleasures 
+which are in excess,” he says, “have no measure, 
+but those which are not in excess have measure; 
+the great, the excessive ... we shall be right in 
+referring to the class of the infinite, and of the 
+more and less,” and “the others we shall refer 
+to the class which has measure.” The fact that 
+the goodness of wealth or of certain pleasures is 
+indeterminate or indefinite makes it necessary 
+to determine or measure the amount of wealth 
+it is good to possess, or the quantity of such 
+pleasure it is good to enjoy. > 
+
+As in the case of desire, so the human intel- 
+lect is also said to be infinite in the sense of 
+reaching to an indefinite quantity. On the the- 
+ory which he holds that the intellect knows by 
+means of universal concepts, Aquinas attributes 
+to the human mind “an infinite power; for it 
+apprehends the universal, which can extend 
+itself to an infinitude of singular things.” Each 
+universal signifies what is common to an in- 
+definitely large class of particular instances. 
+
+There is still another sense in which the intel- 
+lect is said to be infinite, namely, by reason of 
+its having the potentiality to apprehend all 
+knowable things. But this is a relative infinity, 
+as is the corresponding infinity of prime matter, 
+which is conceived as the potentiality for taking 
+on all forms. In both cases, the infinite is quali' 
+fied by a restriction— on the kind of things 
+
+knowable to the intellect and the 'type of forms 
+receivable in matter. The infinity of prime 
+matter — matter totally devoid of form — is also 
+comparable to the infinity of God in a con- 
+trast of extreme opposites: the absolute in- 
+determinacy of pure potentiality on the one 
+hand, the absolute perfection of pure actuality 
+on the other. 
+
+The infinity of matter involves different con- 
+siderations when the problem concerns, nbt 
+prime matter, but material things—bodies. 
+The question is twofold. Can there be a body of 
+infinite magnitude ? Is there an infinite number 
+of bodies ? To both questions Aristotle gives the 
+negative answer, while Spinoza seems to answer 
+.the first, and Lucretius the second, affirma- 
+tively. 
+
+Spinoza’s affirmation may be qualified, of 
+course, by his conception of infinite body as an 
+attribute of God. But there is no qualification 
+on Lucretius’ assertion that “the first-begin- 
+nings of things are infinite,” unless it is his 
+statement that “the first-beginnings of things 
+have different shapes, but the number of shapes 
+is finite.” It is only the number of atoms which 
+is infinite, not their variety. 
+
+Aristotle presents many arguments against 
+the existence of an infinite body or an infinite 
+number of things, all of which ultimately rest 
+on his distinction between an actual and a po- 
+tential infinite. It is not that infinity in magni- 
+tude or multitude is impossible— -for he affirms 
+the infinity of time and he insists upon the in- 
+finite divisibility of matter— but rather that if 
+an infinite body existed its infinity would have 
+to be actual. Its actuality would necessarily 
+involve certain determinations, especially those 
+of dimension and place, which would be in- 
+consistent with the indeterminacy of the in- 
+finite. Similarly, a multitude of co-existing 
+things— unlike the moments of time which do 
+not co-exist— cannot be infinite, because their 
+co-existence implies that they can be actually 
+numbered, whereas their infinity implies that 
+they are numberless. 
+
+The potential infinite, Aristotle writes, “ex- 
+hibits itself in different ways— in time, in the 
+generations of man, and in the division of mag- 
+nitudes. For generally,” he says, “the infinite 
+has this mode of existence: one thing is always 
+
+being taken after another, and each thing that 
+is taken is always finite, but alwa 3 'S different.” 
+When this takes place in the division of spatial 
+magnitudes, “what is taken persists, while in 
+the succession of times and of men, it takes 
+place by the passing away of these in such a 
+way that the source of supply never gives out.” 
+
+' The opposition between Lucretius and Aris- 
+totle with regard to the divisibility of matter 
+is discussed in the chapter on Element. The 
+notions of infinity and continuity are different- 
+ly employed on the two sides of the argument. 
+Where Aristotle makes the continuity of matter 
+the condition of its infinite divisibility, Lu- 
+cretius makes the a tom’s continuity — i ts solidi ty 
+or lack of void— the cause of its indivisibility. 
+Where Aristotle asserts that at any moment 
+there can be only a finite number of particles 
+in the world because the partition of matter 
+cannot be infinitely carried out short of infinite 
+time, Lucretius, on the contrary, thinks that 
+the division of matter into smaller and smaller 
+parts finds an end in the atomic particles; and 
+yet he also asserts an infinite number of atoms. 
+
+To contain an infinite number of atoms, an 
+infinite space is required, according to Lucre- 
+tius. This presents no greater difficulty for him 
+than an infinite time. Aristotle, on the other 
+hand, differentiates between space and time 
+with respect to infinity. Time can be poten- 
+tially infinite by way of addition because “each 
+part that is taken passes in succession out of 
+existence.” But though space may be infinitely 
+divisible, it cannot be infinitely extended, for 
+all its parts, unlike those of time, must co-exist. 
+It would therefore have to be an actually, 
+rather than a potentially, infinite quantity, and 
+this Aristotle thinks is impossible. 
+
+These and other conflicting views concerning 
+the infinity of space and time appear in Kant’s 
+statement of the first cosmological antinomy. 
+His intention is not to resolve the issues, but 
+to show that they cannot be resolved by proof 
+or argument. To do this, Kant sets up what 
+seems to him to be equally strong — or equally 
+inconclusive — arguments for and against the 
+infinity of space and time. 
+
+Suppose it be granted, Kant argues on the 
+one hand, that “the world has no beginning in 
+time.” Then it would follow that “up to every 
+given moment in time, an eternity mUst liav-e 
+
+822 THE GREAT IDEAS 
+
+elapsed, and therewith passed away an infinite 
+series of successive conditions or states of things 
+in the world.” But since “the infinity of a series 
+consists in the fact that it can never be com- 
+pleted by means of a successive synthesis,” it 
+also “follows that an infinite series already 
+elapsed is impossible, and that consequently a 
+beginning of the world is a necessary condition 
+of its existence.” 
+
+On the other hand, Kant argues with what 
+he thinks is equal force, “let it be granted that 
+[the world] has a beginning. A beginning,” he 
+explains, “is an existence which is preceded by 
+a time in which the thing does not exist.” Then, 
+Kant continues, “on the above supposition, it 
+follows that there must have been a time in 
+which the world did not exist, that is, a void 
+time. But in a void time, the origination of a 
+thing is impossible; because no part of any such 
+time contains a distinctive condition of being 
+in preference to that of non-being. . . . Con- 
+sequently, many series of things may have a 
+beginning in the world, but the world itself 
+cannot have a beginning, and is, therefore, in 
+relation to past time, infinite.” 
+
+With regard to the infinity or finitude of 
+space, Kant proceeds similarly. If we suppose 
+space to be infinite, then “theworld must be an 
+infinite given total of co-existent things.” But 
+in order to “cogitate the world, which fills all 
+spaces, as a whole, the successive synthesis of 
+the parts of an infinite world must be looked 
+upon as completed; that is to say, an infinite 
+time must be regarded as having elapsed in the 
+enumeration of all co-existing things.” This, 
+Kant argues, “is impossible,” and therefore 
+“an infinite aggregate of actual things cannot 
+be considered as a given whole.” Hence it fol- 
+lows that “the world is, as regards extension in 
+space, not infinite, but enclosed in limits.” 
+
+If, however, we suppose “that the world is 
+finite and limited in space, it follows,” according 
+to Kant, “that it must exist in a void space, 
+which is not limited. We should, therefore, 
+meet not only with a relation of things in space, 
+but also a relation of things to space.” But the 
+“relation of the world to a void space is merely 
+a relation to no object” and “such a relation, 
+and consequently the limitation of the world by 
+void space, is nothing.” It follows, therefore, 
+Kant concludes, that “the world, as regards 
+
+space, is not limited; that is, it is infinite in re 
+gard to extension.” • ’ ' 
+
+The way in which these opposite arguments 
+nullify each other reveals more than our in- 
+ability to prove or disprove the infinity of space 
+and time. It shows, in Kant’s theory of human 
+knowledge, that we are “not entitled to make 
+any assertion at all respecting the whole ob- 
+ject of experience — the world of sense.” 
+
+One other problem of infinity in the sphere of 
+physics receives its initial formulation in one of 
+the great books— in the part of the Dialogues 
+Concerning the Two New Sciences where Galileo 
+discusses the uniform acceleration of a freely 
+falling body. The body which is said to ac- 
+cumulate equal increments of velocity in equal 
+intervals of time is also said to start “from in- 
+finite slowness, i.e., from rest.” One of the per- 
+sons in the dialogue challenges this, saying that 
+“as the instant of starting is more and more 
+nearly approached, the body moves so slowly 
+that, if it kept on moving at this rate, it would 
+not traverse a mile in an hour, or in a day, or in 
+a year, or in a thousand years; indeed, it would 
+not traverse a span in an even greater time; a 
+phenomenon which baffles the imagination, 
+while our senses show us that a heavy falling 
+body suddenly acquires great speed.” ' 
+
+What our senses seem to show us is corrected 
+by an experiment which refines the observa- 
+tion. But this still leaves a purely analytical 
+question. Against the statement that the “ve- 
+locity can be increased or diminished without 
+limit,” Simplicio points out in the dialogue 
+that “if the number of degrees of greater and 
+greater slowness is limitless, they will never be 
+all exhausted,” and therefore the body will 
+never come to rest when it is slowing down or 
+be able to start to move when it is at rest. 
+
+“This would happen,” Salviati answen, “if 
+the moving body were to maintain its speed for 
+any length of time at each degree of velocity, 
+but it merely passes each point without delay- 
+ing more than an instant, and since each time 
+interval, however small, may be divided into 
+an infinite number of instants, these will always 
+be sufficient to correspond to the infinite de- 
+grees of diminished velocity.” 
+
+The problem of the infinitesimal velocity 
+provides another illustration of the difference 
+
+Chapter 40: 
+
+between Infinity in the physical and the mathe- 
+matical orders. Unlike parallel lines in Euclid- 
+ean geometry, which are lines that remain 
+equidistant from one another when both are 
+prolonged to infinity, an asymptote is a straight 
+line which a curved line continuously approach- 
+es but never meets, even when both are in- ' 
+finitely extended. The distance between the 
+curve and its asymptote diminishes to smaller 
+and smaller intervals, but no matter how small 
+they become, the two lines never coincide. 
+The diminishing intervals between the curve 
+and its asymptote are like the diminishing de- 
+grees of velocity in a body starting from or 
+coming to rest. But we know that the body 
+does begin or cease to move, and so there is the 
+mysterious jumping of the gap between rest 
+and motion in the physical order, whereas in 
+the mathematical order the limiting point can 
+be forever approached and never reached. 
+
+There is one other context in which infinity 
+is discussed in the great books. 
+
+The logicians treat certain terms and judg- 
+ments as infinite. Aristotle, for example, re- 
+gards the negative term— such as not-man or 
+not-white—&% indefinite. The indefiniteness of 
+its signification may be seen when such terms 
+are used as subjects of discourse. What is being 
+talked about? The answer must be given, in 
+part at least, in positive terms; not-man repre- 
+sents the tvhole universe leaving man out, or the 
+totality of everything except man. Thus, in its 
+positive signification, the negative term has a 
+kind of infinity— the infinite totality of sub- 
+jects diminished by one, the one that is negated. 
+
+In his classification of judgments, Kant 
+makes a threefold division of judgments ac- 
+cording to quality: the affirmative, the nega- 
+tive, and the infinite. The infinite judgment 
+involves a negative in its construction, but 
+when that negative is given an affirmative in- 
+terpretation, the infinite significance of the 
+proposition becomes apparent. An c.xample 
+will make this clear. 
+
+The proposition this animal is-not white is 
+negative; it simply denies a certain quality of 
+a certain thing. But the proposition this animal 
+is not-white is infinite, for it affirms the negated 
+term, and so places the subject in the infinite 
+class or totality which includes everything 
+
+infinity 823 
+
+except white things. (The position of the hy- 
+phen serves to indicate whether the statement 
+shall be construed negatively or affirmatively 
+and infinitely.) 
+
+The problems of definition and demonstra- 
+tion are differently solved by logicians accord- 
+ing to the way in which they propose to avoid 
+infinite regressions in analysis or reasoning. 
+There would be no end to the process of de- 
+fining if every term had to be defined before it 
+could be used in the definition of another 
+term. There would be no beginning to the 
+process of proof if, before a proposition could 
+be used as a premise to demonstrate some con- 
+clusion, it had itself to be demonstrated as a 
+conclusion from prior premises. 
+
+In his essay On Geometrical Demonstration, 
+Pascal refers to the proposal of a plan for defining 
+and proving every thing. “Certainly this meth- 
+od would be beautiful,” he says, “but it is ab- 
+solutely impossible; for it is evident that the 
+first terms we wished to define would presup- 
+pose others for their explication, and that sim- 
+ilarly the first propositions we wished to prove 
+would suppose others that preceded them, and 
+it is thus clear we should never arrive at the 
+first propositions.” 
+
+The chapter on Definition considers the 
+character and choice of the indefinable terms by 
+which an infinite regression is avoided in the 
+elucidation of meanings. The chapters on In- 
+duction and Principle consider the various 
+sorts of primary propositions — axioms, postu- 
+lates, assumptions — by which a similar regression 
+is avoided in the process of proof. The chapter 
+on Cause deals with the problem of an infinite 
+regression in causes and effects. Here it is ap- 
+propriate to consider the difference between an 
+infinite series of reasons and an infinite series of 
+causes. 
+
+To the extent that both are truly series — the 
+succession of one thing after another — neither 
+seems to be impossible, given infinite time. Those 
+who deny the possibility of an infinite number 
+of causes distinguish between essential and 
+accidental causes, that is, between causes which 
+must co-exist with their effects and causes which 
+can precede their effects, and cease to be before 
+their effects occur. If there were an infinite 
+time, there could be an infinite scries of acci- 
+dental causes. But it may be questioned whether. 
+
+824 THE GREAT IDEAS 
+
+even granted an infinite time, the relation be- 
+tween the premises and conclusion of reasoning 
+permits an infinite regression. If the truth of a 
+
+conclusion cannot be known until the truth of 
+its premises is known, then the pursuit of truth 
+may be vitiated by a search ad infinkim.
+
+
+OUTLINE OF TOPICS 
+
+1. The general theory of infinity ‘ 825 
+
+ja. The definite and indefinite: the measured and the indeterminate 
+
+lb. The infinite in being and quantity: the actual and potential infinite; the formal 
+
+and the material infinite ' ‘ ' 826 
+
+I 
+
+2. Infinity in the logical order 
+
+2a. The infinity of negative and indefinite terms ' 
+
+2b. The distinction between negative and infinite judgments 
+
+2c. Infinite regression in analysis and reasoning 1 
+
+3. The infinite in quantity ^ , 827 
+
+3b. Number: the infinite of division and addition 
+
+J 
+
+3b. The infinite divisibility of continuous quantities: the infinitesimal; the method 
+of exhaustion and the theory of limits 
+
+3c. The infinity of asymptotes and parallels 
+
+3d. The infinite extent of space 828 
+
+y. The infinite duration of time and motion 
+
+4. The infinity of matter 
+
+/fa. The infinite quantity or extent of matter: the problem of an actually infinite 
+body 
+
+ijb. The infinite divisibility of matter: the issue concerning atoms 829 
+
+4c. The infinite potentiality of matter: the conception of prime or formless matter 
+
+I'l 
+
+5. Infinity in the world 
+
+5a. The infinite number of things and the infinite number of kinds 
+5b. The number of causes 
+
+6. The finite and the infinite in the nature of man 
+
+6a. The infinity of desire and will: the limits of human capacity 
+^b. The infinity of the intellect: man’s knowledge of the infinite 
+
+7. The infinity of God 
+
+7a. The infinite being or essence of God 
+'jb. The infinite power of God 
+7c. God’s infinite goodness' and love 
+7d. God’s infinite knowledge
+
+
+REFERENCES
+
+REFERENCES 
+
+ 
+
+1. The general theory of infinity 
+
+8 Aristotle; Physics, bk hi, ch 4-8 280c-286d 
+
+12 Lucretius: Nature of Things, bk 1 [951-11 13] 
+12d-14d 
+
+17 Plotinus: Sixth Ennead, tr vi, ch 2 311b-c; 
+CH 17-18, 3I9d-320d 
+
+19 Aquinas; Summa Theologica, part i, q 7 3Ia- 
+34c 
+
+20 Aquinas: Summa Theologica, part hi suppl, 
+Q 92, A i, REP 6,12 1025c-ld32b 
+
+28 Galileo; Two New Sciences, first day, I39c- 
+lS3a passim, esp 144b-14Sa 
+
+30 Bacon; Novum Organum, bk i, aph 48 llOd- 
+Hla 
+
+31 Descartes; Meditations, iii, 86b / Objections 
+and Replies, H2a-c; I23c-d 
+
+31 Spinoza; Ethics, part i, def 2 35Sa; def 6 
+35Sb; DEF 8 355c; prop 7-8 3S6c-3S7d 
+
+33 Pascal; Pensees, 72 181a-184b; 231-233, 
+213b-214a / Geometrical Demonstration, 434b- 
+439b 
+
+34 Newton: Principles, bk i, lemma r-ii and 
+
+scHOL 25a-32a 1 
+
+35 Locke: Human Understanding, bk ii, ch xvi, 
+sect 8-ch XVII, SECT 22 167c-174a 
+
+35 Berkeley: Human Knowledge, sect 123-132 
+437C-439C 
+
+35 Hume: Human Understanding, sect xii, div 
+124-125 506a-507a 
+
+42 Kant: Pure Reason, 24d; 26d; I30b-I49d esp 
+130b-133c, 136a-137a [thesis]; lS6b-157d 
+
+46 Hegel: Philosophy of Right, additio.ns, 17 
+119a 
+
+51 Tolstoy; War and Peace, epilogue ii, 693c- 
+694d 
+
+la. The definite and indefinite: the measured 
+and the indeterminate 
+
+7 Plato: Pannenides, S05c-506d; 510c-5Ila / 
+Philebus 609a-639a,c esp 615c-617d 
+
+8 Aristotle; Prior Analytics, bk i, ch 13 (32*’4- 
+23] 48b-d / Metaphysics, bk i, ch 5 (986“ 
+i2-'’2] 504b-c; ch 6 [gSy^ig-g88'‘i6] 505d- 
+S06b; CH 8 [989“30-’’2i] S07c-d; bk v, ch 30 
+547a-d; bk vii, ch 10 [io36“2-9] 559b-c; 
+bk IX, ch 7 [io49“i9-‘’i] S74d-575a; bk xiii, 
+CH 10 [io87"io-25] 619c 
+
+9 Aristotle; Ethics, bk ii, ch 6 [iio6'’28-35] 
+352b-c 
+
+11 Nicomachus: Arithmetic, bk i, 811d-812a; 
+826d-827a 
+
+16 Kepler: Hannonies of the World, J078a-b 
+
+17 Plotinus: First Ennead, tr viii, ch 3 28a-c / 
+Second Ennead, tr iv, ch 13-16 55b-57c / 
+Sixth Ennead, tr vi, ch 18, 320c-d 
+
+THE GREAT IDEAS to Ic 
+
+(l. The general theory of infinity, la. The definite 
+and indefinite: the measured and the in- 
+determinate!) 
+
+18 Augustine: Confessions, bk v, par 20 32d-33a 
+/ City of God, bk xii, ch 18 354b-d 
+
+19 Aquinas: Sitmma Theohgica, part i, q 48, 
+A I, REP 4 259b-260c; part i-ii, Q 1, a 4 612a- 
+613a; q 7, a 2, rep 2 652d-6S3c 
+
+31 Descartes: Objections and Replies, 112a-b 
+
+42 Kant: Pure Reason, 158a-159d; 196c-197a 
+
+46 Hegel: Philosophy of Right, additions, 6 
+117 a-b 
+
+lb. The infinite in being and quantity: the 
+aaual and potential infinite; the formal 
+and the material infinite 
+
+7 Plato: Parmenides, 495c-497c / Sophist, 571d- 
+573b 
+
+8 Aristotle; Physics, bk 1, ch 2 [i85''28-*’4l 
+260a-b; [iS^'^iy-ig] 260c; bk hi, ch 4-8 280c- 
+286d / Generation and Corruption, bk i, ch 3 
+[3i8"i3-24] 414c-d / Metaphysics, bk i, ch 5 
+[g87“i3-i9j 505b; bk ix, ch 6 [i048‘’9-i7] 
+574a; bk xi, ch 10 [io66"35-^22] 594d-595b; 
+bk xii, ch 7 [io73“3-i3] 603a-b 
+
+11 Nicomachus: Arithmetic, bk 1 , 812a 
+
+17 Plotinus: Sixth Ennead, tr vi, ch 17, 319d- 
+320a 
+
+18 Augustine; Confessions, bk vii, par 20-21 
+49d-50a 
+
+19 Aquinas; Summa Theohgica, part i, q 7 
+31a-34c; q 12 , a r, rep 2 50c-51c; q 14 , a i, 
+ANs 75d-76c; q 50, a 2, rep 4 270a-272a; q 54, 
+A 2, ANS 285d-286c; part i-n, q i, a 4, rep 
+2 612a-613a; q 2 , a 6, ans 619d-620d 
+
+20 Aquinas: Summa Theohgica, part hi, q 7, 
+A 12, REP I 754c-75Sc; q 10, a 3, rep 1-2 
+769d-771b; part hi suppl, q 92, a i, rep 12 
+1025c-1032b 
+
+28 Galileo: Two New Sciences, first day, 
+145b-146c; 150d-151c 
+
+31 Descartes: Meditations, hi, 86a-88d / Ob- 
+jections and Replies, 112b; def vih 130d 
+
+31 Spinoza: Ethics, part i, def 3,6 355b; prop 8, 
+DEMONST and schol I 356d; prop 9 357d; 
+prop 10, schol 358a-b; prop 13-14 359c- 
+360a; prop 15, schol-prop i 6 360b-362a; 
+prop 21-23 364a-36Sa; prop 28, demonst 
+365d-366a 
+
+33 Pascal: Pensees, 121 195a / Geometrical 
+Demonstration, 434b-439b 
+
+34 Newton: Principles, bk hi, general schol, 
+370 a- 371 a 
+
+35 Locke: Human Understanding, bk h, ch xhi, 
+SECT 4-6 I49b-d; cii xiv, sect 26-27 I60c- 
+161a; SECT 30 161c-d; ch xv, sect 2-4 162c- 
+163b; ch xvi, sect 8 167c; ch xvh 167d-174a 
+passim, csp sect 7 169b-c; ch xxix, sect 16 
+237b-238a 
+
+35 Berkeley: Human Knowledge, sect 123-132 
+437c-439c 
+
+35 Hume; Human Understanding, sect xn, div 
+124, 506b 
+
+42 Kant; Pure Reason, 124d-125b; 130b-133c; 
+I35a-137a,c; 160b-163a / Judgement, 498b- 
+501b 
+
+46 Hegel: Philosophy of Right, intro, par 22 
+I7c-d; PART 1, par 104 — part ii, par 105 39b- 
+40a; additions, 17 119a / Philosophy of 
+History, intro, 156d-160b; 165a-b 
+
+53 James: Psychology, 668a-669a 
+
+2. Infinity in the logical order 
+
+2a. The infinity of negative and indefinite terms 
+
+7 Plato: Sophist, 571d-573c / Philebus, 61Sc- 
+616c 
+
+8 htasTorisBi Interpretation, ch 2 [i6“3o-33] 25c; 
+CH 3 [i6’’ii-i6] 25d; cH 10 [i9’’5-n] 29d / 
+Prior Analytics, bk i, ch 46 70b'7ld 
+
+42 Kant; Pure Reason, 158a-159d 
+
+2b. The distinction between negative and in- 
+finite judgments 
+
+8 Aristotle: Categories, ch 10 [i2'’6-i5] 17d- 
+18a / Interpretation, ch 5 [i7“8-9] 26b; ch 6 
+26c-d; ch 10 29d-31c / Prior Analytics, bk i, 
+CH 3 i25'^i9-26] 40c; ch 46 70b-71d 
+
+35 Locke: Human Understanding, bk hi, ch vii, 
+SECT I 283a-b 
+
+42 Kant: Pure Reason, 40a-c; 210c-d 
+
+46 Hegel: Philosophy of Right, part i, par 53 
+2SC'd 
+
+2c. Infinite regression in analysis and reason- 
+ing 
+
+7 Plato: Parmenides, 489a-d/ Theaetetus, S42a- 
+544a esp 543d-544a 
+
+8 Aristotle; Posterior Analytics, bk i, ch 3 
+99b-I00a; ch 19-23 lllc-116a/ P/yr/a, bk i, 
+CH 4 [i 87’'7 -i 4] 262d; ch 6 [ifig^ii-ig] 264c / 
+Metaphysics, bk iv, ch 3 lioo5'’i5-34] 524d- 
+525a; ch 4 [ioo6“5-i2] 525a-b; ch 6 [ioii“3- 
+14] 530d; BK XI, ch 6 [io63''7-i2] 591d / 
+Soul, BK I, ch 3 [407“22-3o] 636d-637a 
+
+9 Aristotle: Etliics, bk i, cii 2 (io94''i8-22] 
+339b; BK HI, ch 3 [iii2*’33-iii3“3] 358d- 
+359a 
+
+12 Epictetus: Discourses, bk i, ch 17, 122d- 
+123a; bk h, ch 20, I64c-d 
+
+19 Aquinas: Summa Theohgica, part i, q 36 , a 
+3, REP 4 194c-195d; part i-h, q i, a 4 , rep 2 
+6I2a-613a 
+
+20 Aquinas: Summa Theohgica, part i-h, q 94, 
+A 2, ANS 221d-223a 
+
+25 Montaigne; Essays, 292c-d 
+
+30 Bacon: Novum Organum, bk i, aph 48 llOd- 
+Hla 
+
+31 Descartes; Objections and Replies, llla-d; 
+213c-d; 224b,d 
+
+33 Pascal: Geometrical Demonstration, 431b- 
+434a / Arithmetical Triangle, 451b-452a; 458b- 
+459b; 464a-466a 
+
+3 to 3c 
+
+35 Locke: Human Understanding, bk ji, ch xxi, 
+SECT 23 183b-d; sect 25 184a-b; bk in, ch iv, 
+SECT 5 260c 
+
+42 Kant; Pure Reason, llld-n2d; llSd-119a; 
+135a-173a esp lS8a-lS9d 
+
+S3 James: Psychology, 321b [fn i]: 52Sa-S26b- 
+
+3. The infinite in quantity 
+
+3 <t. Number; the infinite of division and addi- 
+tion 
+
+7 Plato: Parmenides, 495d-497b 
+
+8 Aristotle: Physics, bk hi, ch 4 [203’’22-24] 
+281c; [204"7-8] 282a; ch 5 [204*’6-9] 282c; 
+CH 6 [2 o 6 ’'i 5] 284b; [2o6’’3-207®i4] 284d-28Sc; 
+CH 7 [207“32-**i4) 285d-286a / Metaphysics, 
+BK XI, CH 10 [io 66*’23-26] S95b 
+
+11 Euclid: Elements, bk ix, prop 20 183b- 
+184a 
+
+11 Archimedes: Sand-Reckpner 520a-526b pas- 
+sim 
+
+11 Nicomachus: Arithmetic, bk i, 812a; bk ii, 
+829b 
+
+17 Plotinus: Sixth Ennead, tr vi, ch 2 311b-c; 
+CH 17, 319d-320a 
+
+18 Augustine: City of God, bk xn, ch 18 
+3S4b-d 
+
+19 Aquinas: Si/wwfl Theologica, part i, q 7 , a 3, 
+REP 3 32c-33c; a 4 33d-34c; part i-n, <31,44, 
+REP 2 612a-613a 
+
+20 Aquinas: Summa Theologica, part hi, q 7, 
+A 12, REP I 7S4c-7S5c; Q to, a 3 , rep 2 769<1- 
+771b 
+
+28 Galileo; Two New Sciences, first day, 
+144b-145a 
+
+31 Descartes: Objections and Replies, 112b 
+
+33 Pascal: Pensees, 121 19Sa; 233, 213b-214a / 
+Geometrical Demonstration, 434b-439b 
+
+35 Locke: Human Understanding, bk ii, ch xiv, 
+SECT 30 161c-d; CH XVI, sect 8 167c; ch xvii 
+167d-174a passim, esp sect 9 170a-b; ch 
+XXIX, SECT 16, 237b-d 
+
+35 Berkeley: Human Knowledge, sect 127 
+438c-d 
+
+42 Kant: Pure Reason, 136a-b / Judgement, 
+498b-d; 499d-S00a 
+
+36. The infinite divisibility of continuous 
+quantities: the infinitesimal; the method 
+of exhaustion and the theory of limits 
+
+8 Aristotle: Physics, bk hi, ch i [ 2 oo*’i 5-I9] 
+278a; ch 4 [203*’i5-i81 281c; ch 6 j2o6'‘8-'>33l 
+284b-285b; ch 7 285d-286c passim; bk v, 
+CH 3 [227''2i-34]308a-b; bk vi, ch i-2312b,d- 
+315d; CH 10 [240*'8-24 i'' 26] 324c-325b / 
+Heavens, bk 1, cii t [268"6-ii] 359a; ch 5 
+[27!’’8 -i 2] 362d / Generation and Corruption, 
+BK I, ch 2 [317*3-13)4126-4138 / Metaphysics, 
+BK III, CH 4 [looi’^y-igl 520b-c; bk v, ch 13 
+[1020*9-14] 541b; [1020*26-33] 541c 
+
+11 Euclid: Elements, bk v, dctinitions, 4 81a; 
+BK X, PROP I 191b-192a; bk xii, prop 2 
+
+339a-340b; prop 5 345b-346b; prop 10-12 
+3Slb-359a; prop i8 367a-368b 
+11 Archimedes: Sphere and Cylinder, bk i, 
+assumptions, 5 404b; prop 13-14 411a-414a; 
+
+.PROP 33-34 424b-427a; prop 42 431b-432b; 
+PROP 44 433a-b / Measurement of a Circle 
+447a-451b passim / Conoids and Spheroids, 
+PROP 4 459a-460b: prop 21-22 470a-471b; 
+PROP 25-30 473a-479b / Spirals, 484b; prop 
+18-20 492b-495b; prop 24-27 496b-S00a / 
+Equilibrium of Planes, bk i, prop 6-7 S03b- 
+504b; PROP 9 505a-b; prop 13 507a-S08b; 
+bk II, PROP 4 512b-513a / Quadrature of the 
+Parabola 527a-537b esp S27a-b, prop 16 
+S33b-534a, prop 24 S37a-b / Method 569a- 
+592a 
+
+11 Nicomachus: Arithmetic, bk i, 811d-812a 
+16 Kepler: Epitome, bk v, 973a-97Sa; 979b- 
+983b passim 
+
+19 Aquinas : Summa Theologica, part i, q 7, 
+A 3, REP 3 32c-33c; q 53, a i, ans and rep i 
+280d-282a; a 2, ans and rep 1 2S2a-283b 
+
+20 Aquinas : Summa Theologica, part iii suppl, 
+Q 84, A 3, contrary 985d-989b 
+
+28 Galileo: Two New Sciences, first day, 
+139c-153a passim; second day, 193b-194d; 
+third day, 201a-202a; 205b-d; 224b-c 
+31 Descartes: Objections and Replies, 112b 
+31 Spinoza: Ethics, part i, prop 15, schol, 
+361b-c 
+
+33 Pascal: Equilibrium of Liquids, 395a-b./ 
+Geometrical Demonstration, 434b-439b 
+
+34 Newton; Principles, bk 1, lemma i-ii and 
+SCHOL 2Sa-32a esp lemma i 25a, lemma 11, 
+SCHOL 30b-32a; prop 73, schol 133b-134a; 
+BK It, lemma 2 and schol 168a-170a / Optics, 
+BK III, 542b-543a 
+
+35 Locke: Human Understanding, bk ii, ch xv, 
+SECT 9 164b'd; ch xvi, sect 4 166a-b; ch 
+xvn, SECT 12 170d; sect 18 172c-d; ch xxix, 
+sect 16 237b-238a 
+
+35 Berkeley: Human Knowledge, sect 98 432a; 
+sect 123-132 437c-439c 
+
+35 Hu.me: Human Understanding, sect xir, div 
+124 506a-c 
+
+42 Kant: Pure Reason, 70c-d; 161d-163a 
+45 Fourier: Theory of Heat 169a-2Slb passim, 
+esp 172b, 177a 
+
+51 Tolstoy; War and Peace, bk xi, 469a-d; 
+epilogue II, 695b-c 
+
+Sc. The infinity of asymptotes and parallels 
+11 Euclid; Elements, bk 1, definitions, 23 2a; 
+postulates, 5 2a 
+
+11 Apollonius: Conics, bk 11, prop 14-15 691b- 
+692b; PROP 17 693b-694a 
+31 Descartes: Geometry, bk ii, 306b-307a 
+34 Newton: Principles, bk i, lemma 18, schol 
+S7a-b; lemma 22, 65b; prop 27, schol, 
+69b-70a 
+
+52 Dostoevsky: Brothers Karamazov, bk v, 
+120d-121c 
+
+(3. The infinite in quantity^) 
+
+Stf. The infinite extent of space 
+
+. 8 Aristotle: Physics, bk in, ch 5 [205*10- 
+
+• 206*8] 283b-284b; BK-iv, ch 5 [2i2’’li-2t] 
+
+292a / Heavens, bk i, ch 5-7 362c'367b / 
+Metaphysics, bk xi, ch 10 [io66’’22-io67'‘38] 
+59Sb.596a 
+
+12 Lucretius: Nature of Things, bk i [951-1113] 
+12d-14d esp [951-1007] 12d-13b; bk 11 [89-94] 
+16a-b; [294-307] 18d-19a; [1048-1066] 28b-c 
+
+18 Augustine: City of God, bk xi, ch 5 324d- 
+325c 
+
+19 Aquinas: Sumtna Theologica, part i, q 23, 
+
+j 'A 7, ANS 138d-140a; Q 46, a i, rep 8 250a- 
+
+252d; Q 66, a 4, rep 5 348d-349d 
+
+23 Hobbes: Leviathan, part i, 54b-c; part ii, 
+162b-c; PART IV, 271b ' 
+
+30 Bacon: Novum Organum, bk i, aph 48 llOd- 
+111a 
+
+31 Descartes: Objections and Replies, 112b 
+
+33 Pascal: Pensees, 121 195a; 205-206 211a / 
+Geometrical Demonstration, 434b-439b passim 
+
+34 Newton; Principles, definitions, schol, 8b- 
+11a / Optics, BK III, 542b-543a 
+
+35 Locke: Human Understanding, bk ii, ch xiii, 
+SECT 4 149b: sect 21 152d'153b: CH xiv, 
+SECT 26 160c-d; CH xv 162b-165c passim; 
+CH XVI, SECT 8 167c; ch xvii 167d-174a 
+passim, esp sect 3-4 168b-d, sect ii 170c 
+
+35 Berkeley: Human Knowledge, sect 117 436a 
+
+42 Kant: Pure Reason, 24c-d; 28d-29c: 135a- 
+137a, c; 152a-d; 160b-l63a / judgement, 501a-b 
+
+51 Tolstoy: War and Peace, epilogue ir, 693c- 
+694a 
+
+S3 James: Psychology, 631a 
+
+3 e. The infinite duration of time and motion 
+
+7 Plato: Phaedrus, 124b-c / Timaeus, 4S0c- 
+451a; 460c-d 
+
+8 Aristotle: Topics, bk i, cii ii [io4*’i3-r8] 
+148a-b / Physics, bkiii, 0117 [207*’2i-27] 286b; 
+CH 8 [208*20-23] 286d; bk iv, ch 13 [222*29- 
+32] 302b; BK VI, CH 2 [233*i3-’’i6] 31Sa-c; ch 
+10 [24i*26-*’2o] 325b-d; bk viii, ch 1-2 334a- 
+337b; CH 6 344b-346b passim; cii 8-9 348b- 
+353b / Heavens, bk i, ch 2 [269''2-io] 360c-d; 
+CH 3 [270*’i-24] 361c-362a; bk i, ch 9 [279*12]- 
+BK II, CH I [284*’6] 370b-376a passim; bk ii, 
+CH 6 379c-380c / Generation and Corruption, 
+BK II, CH lo-ii 437d-441a,c / Meteorology, 
+BK I, CH 14 [353*15-19] 459c / Metaphysics, 
+■BK IX, CII 8 [io5o'’2o-28] 576c-d; bk xi, ch 
+10 [1067*33-38] 596a; bk xii, cii 6 [io7i*’3]- 
+cn 7 [i072‘‘i4] 601b-602d; cH 7 [1073*5-11] 
+603b; CH 8 [1073*24-34] 603c 
+
+9 Aristotle: Motion of Animals, ch 6 [7o6*’29- 
+701*7] 236a-b 
+
+12 Lucretius: Nature of Things, bk i [215-264] 
+3d-4b; [483-634] 7a-8d; [988-1051] l3b-14a; 
+
+' BK II [80-141] 16a-d; [294-307] 18d-19a; 
+[569-580] 22b; [1048-1066] 28b-c; [1105-1147] 
+
+3d to Aa 
+
+29a-c; bk v [170-194] 63b-c; [376-379] 66a; 
+[416-431] 66c-d; [1204-1217] 76d-77a 
+
+12 Aurelius; Meditations, bk v, sect 13 271b; 
+SECT 23 272b': BK VI, SECT 15 275a-b; bk ix, 
+sect 28 293d-294a; bk x, sect 7 297b-c; 
+SECT 27 299d ' ' 
+
+16 Ptolemy: Almagest, ssk xiii, 429a-b 
+
+16 Kepler: Epitome', bk iv, 888b'-891a 
+
+17 Plotinus; Second Ennead, tr i, ch 1-5 ,35a- 
+37c / Third Ennead, tr vii ll9b-129a passim 
+/ Fourth Ennead, tr iv, ch 8 161d-162d 
+
+18 Augustine: Confessions, bk vit, par 21 49d- 
+50a; BK XI, par 12-17 92b-93c; par 40 98d- 
+99a / City of God, bk xi, ch 4-6 324a-325d; 
+BK XII, CH 12-20 349b-3S7a 
+
+19 Aquinas : Summa Theologica, part i, q 10, 
+a 2, REP 2 41d-42c; a 4, ans 43b-44b; a 5, 
+ANS 44b-45c; q 14, a 12, ans 85d-86d; Q 46 
+250a-255d; q 61, a 2 31Sc-316a; q 66, a 4 
+348d-349d; q 75, a i, rep i 378b-379c’ 
+
+20 Aquinas: Summa Theologica, part hi suppl, 
+Q 77, A 2, ANS and REP I 945a-946b; q 91,‘A 2 
+1017c-1020c 
+
+21 DaNte: Divine Comedy, paradise, i [73-Si] 
+
+107a ' 
+
+23 Hobbes: Leviathan, part i, SOa 
+
+25 Montaigne: Essays, 293d-294a 
+
+28 Galileo: Two New Sciences, tovrth day, 
+
+, 245b-d 
+
+30 Bacon: Novum Organum, bk i, aph 48 llOd- 
+111a; bk ii, aph 35, 163a-b,' aph 48, 186b-d 
+
+31 Descartes: Rules, xiii, 27b-c 
+
+33 Pascal: Pensees, 121 195a; 205-206 211a; 231- 
+
+232 213b / Geometrical Demonstration, 434b- 
+439b passim * • 
+
+34 Newton; Principles, def hi 5b; definitions, 
+SCHOL, 8b; LAW I 14a / Optics, bk hi, 540a- 
+541 b 
+
+35 Locke: Human Understanding, bk 11, ch xiv, 
+SECT 26-31 160c'162a; ch xv, sect 3-5 162d- 
+163c; SECT 11-12 165a-c; ch xvi, sect 8 
+167c; CH XVII 167d-174a passim, esp sect 5 
+168d-169a, sect 10 170b-c, sect 16 172a- 
+b; ch XXIX, SECT 15 237a; sect 16, 237d- 
+238a 
+
+36 Sterne: Tristram Shandy, 292a-293b 
+
+42 Kant: Pure Reason, 26d; 27b-c; 130b-133c; 
+135a-137a,c: 152c; 160b-161d 
+
+51 Tolstoy: War and Peace, epilogue ii, 693c- 
+694a 
+
+53 JaSies: Psychology, 882a 
+4. The infinity of matter 
+
+4a. The infinite quantity or extent of mat- 
+ter: the problem of an actually infinite 
+body 
+
+8 Aristotle: Physics, bk i, ch 4 [i87*’i4-22] 
+262d; bk hi, ch 4 [203'’i5-29] 281c-d; cii 5 
+[204*35-206*8] 282b-284b / Heavens, bk i, 
+CH 5-7 362c-367b / Metaphysics, bk xii, ch 7 
+[1073*3-13] 603a-b 
+
+45 io 5b Chapter 40; 
+
+12 hvcnv.riX}&:Nattire of Things, bk i [1008-1051] 
+13c-14a; [t094-xii3] 14c-d; bk it [47S-568J 
+21a-22b; [1048-1089] 28b-d 
+
+17 Plotinus; Second Ennead, tr iv, ch 7, 52 b-c 
+
+19 Aquinas : Summa Theologica, part i, q 7, a 3 
+32c-33c; q 47, a 3, rep 2 2S8c-259a 
+
+31 Spinoza: Ethics, part i, prop 13 359 cid; 
+PROP 14, coROL 2 360a; prop 15, schol 360b- 
+361d; PART II, PROP 2 374a 
+
+35 Locke: Human Understanding, bk 11, ch xiii, 
+SECT 21-22 152 d- 153 c; cH xxin, sect 27 
+211a-b 
+
+35 Berkeley: Human Knowledge, sect 47 421 c- 
+422 a 
+
+4b. The infinite divisibility of matter: the issue 
+concerning atoms 
+
+8 Aristotle: Physics, bk hi, ch 6-7 284b- 
+286c; BK VI, CH 4 316d-318a / Heavens, bk hi, 
+CH 6 [304''23-305'‘9] 396a-b; bk iv, ch 6 
+[3I3’'6-22] 40Sa,c / Generation and Corruption, 
+BK I, CH 2 [3I5*’25-3I7“i7] 41Ib-413a; ch 8 
+423b-425d; ch 9 [ 32 ^ 1 - 2 ^] 426a-c; ch io 
+
+■ ’ •[327*’34-328“i8I 427b-c / Metap/t)’sics, bk vii, 
+ch 13 [io39“2-ii] 562d; bk x, ch-i [io53“2i- 
+24] 579d / Sense and the Sensible, ch 6 [445‘'4- 
+446°2o| 683b-684c; ch 7 [449“2i-3o] 688d- 
+689a 
+
+12 Lucretius: Nature of Things, bk i (483-634J 
+7a-8d 
+
+16 Copernicus: Revolutions of the Heavenly 
+Spheres, bk i, S17a-b 
+
+17 Plotinus : Second Ennead, tr iv, ch 7 S2a-c 
+/ Fourth Ennead, tr n, ch 1 , 139d 
+
+19 Aquinas: Summa Theologica, part i, q 3, a 
+I, ans 14 b- 15 b; Q 7, a 3, rep 3 32 c- 33 c: a 4, 
+ANs and REP I 33 d- 34 c; q 50, a 2, ans 270 a- 
+272 a 
+
+28 Galileo: Two New Sciences, first day, 
+147d-148b 
+
+30 Bacon: Novum Organum, bk ii, aph 8 140b 
+
+31 Descartes: Objections and Replies, 112 b 
+
+34 Newton: Principles, bk hi, rule hi 270b- 
+271a / Optics, bk hi, S4ib 
+
+35 Locke: Human Understanding, bk ii, chxvii, 
+SECT 12 170d; ch xxiii, sect 31 212b-c; cH 
+XXIX, sect 16, 237b-d: bk iv, ch x, sect 10, 
+351d-3S2a 
+
+35 Berkeley: Human Knowledge, sect 47 421c- 
+422a 
+
+42 Kant; Pure Reason, lOOc-d; 131c; 137a-140c; 
+152a-d; 161d-163a 
+
+43 Federalist: number 31, 103d 
+
+45 Faraday: Researches in Electricity, 8S0b,d- 
+855 a,C' 
+
+4c. The infinite potentiality of matter: the con- 
+ception of prime or formless matter 
+
+7 Plato: Timaeus, 4S5c-458b 
+
+8 Aristotle: Physics, bk 1, ch 7 [i9i“7-i2j 
+266d; ch 9 [192*25-33] 268c / Generation 
+and Corruption, bk 11, ch 1 [328*’32-329* 
+
+INFINITY 829 
+
+24] 428b,d-429a; ch 5- [332*19-26] 432c-d 
+/ Soul, bk III, CH 5 [430*10- 7} 662c 
+
+17 Plotinus; Second Ennead, tr iv, ch 1-3 
+' SOa-d; ch 6 Sld-52a / Third Ennead, tr vr,‘ 
+
+cH 7-19 110d-119a , 
+
+18 Aucustine: Confessions, bk xii, par 3-6 99d- 
+100c; par 9, lOIc; par 14-16 102b'103a; par 22 
+104a-b; par 24-26 104c-10Sb; par 28-31 lOSc- 
+107a; par 40 109b-110a; bk xiii, par 48 124a 
+
+19 Aquinas: Summa Theologica, part i, q 7, a i, 
+ans and rep 2 31a-d; a 2, ans and rep 3 
+31d-32c; a 3, rep 4 32c-33c; a 4, ans 33d-34c; 
+O 66, aa 1-2 343d-347b 
+
+28 Harvey: On Animal Generation, 494 a-b 
+
+5. Infinity in the world 
+
+5i». The infinite number of things and the in- 
+finite number of kinds 
+
+7 Plato: Sophist, S73a-b' 
+
+8 ARisTOTi.T.:SophisticalR(futations,cni[i 6 f 3 - 
+13) 227b-c / Physics, bk i, ch 2 [i84''i5-24] 
+259b-c: ch 4 [187*25-188*18] 262b-263c; ch 6 
+[189*11-20] 264c; BK HI, CH 4 [203*’l5-29j 
+281 c-d / Metaphysics, bk i, ch 3 [984*11-17] 
+S02b; bk hi, ch 4 [999*24-29] S18a 
+
+9 Aristotle : Generation of Animals, bk t, ch i 
+[ 7i5'’2-i7] 255 c'd / Rhetoric, bk i, ch 2 
+fi356’’28-35] S96b-c 
+
+' 12 Lucretius: Nature of Things, bk 1 [joo8~ 
+1051] 13c-14a; bk 11 [478-568] 21a-22b; (1048- 
+1089] 28b-d 
+
+17 Plotinus; Sixth Ennead, tr i, ch i 2S2a-c 
+19 Aquinas; Summa Theologica, parti, q 7, a 4 
+33d-34c; Q23, a 7 138d-140a; q 46, a 2, rep 8 
+253a-255a; Q 50, a 3 272a-273b 
+31 Spinoza: Ethics, part i, prop 16 362a: prop 
+21-23 364a'365a 
+33 Pascal: Pensees, 12 1 19Sa 
+42 Kant: Pure Reason, 193a-200c esp 197b-198a 
+S3 James; Psychology, 873a-b , 
+
+5b. The number of causes 
+
+8 Aristotle: Physics, bk vh, ch i 326a-327b / 
+Generation and Corruption, bk ii, ch 1 1 [337''26- 
+29] 440 a / Metaphysics, bk ii, ch 2 512b- 
+5I3b; bk vii, ch 6 [io3i’’28-io32“4] 5S4d; 
+ch 8 (i033*’2-5] 556c / Soul, bk hi, ch 2 [425*' 
+11-17] 657d 
+
+19 Aquinas: Summa Theologica, part i, q 2, a 3, 
+ANS 12 c- 14 a; q 75, a i, rep i 378 b- 379 c; 
+PART r-ii, Q I, A 4, ANS and rep 2-3 612 a- 613 a 
+
+30 Bacon: Advancement of Learning, 43a-d / 
+Novum Organum, bk i, aph 48 llOd-llla 
+
+31 Descartes; Meditations, in, 87c-88a / Objec- 
+tions and Replies, llla-d; 213c-d 
+
+•31 Spinoza: Ethics, part i, appendix, 370 c- 371 b 
+42 Kant: Pure Reason, 130 b-I 33 c; I 40 b,dTl 43 a; 
+152 a- 153 a; 164 a- 17 Ia / judgement, 556 b-c; 
+577 c- 578 a 
+
+51 Tolstoy; War and Peace, epilogue ii, 693c- 
+694a 
+
+830 THE GREAT IDEAS 6 to 
+
+6. The finite and the infinite in the nature of 
+man 
+
+6 <i. The infinity of desire and will: the limits 
+of human capacity 
+
+Old Testament: Psalms, 42; 63— ( 23 ) Psalms, 
+41; 62 / Proverbs, 27:20 / Ecclesiastes, 4:7-8; 
+5:10-12; 6:y—{D) Ecclesiastes, 4:7-8; 5:9-11; 
+6:7 / Isaiah, 14:12-14— (D) Isaias, 14:12-14 / 
+Habahl{iil{, 2:5 — ( 23 ) Habacuc, 2:5 ' - 
+
+Apocrypha: Ecclesiasliais, 10:9; ii;io; 14:9; 
+23:16-17; 31:1-11— (23) OT, Ecclesiaticus, 
+10:10; ii:io; 14:9; 23:21-24; 31:1-11 / Bar- 
+uch, 3:16-19— (23) OT, Baruch, 3:16-19 
+
+New Testament: John, 4:13-14 / 2 Timothy, 6:10 
+
+5 Euripides: Phoenician Maidens [499-525] 
+382b-c 
+
+5 Aristophanes: Plutus [143-197] 630d-631b 
+
+7 Plato: Gorgias, 275d-277b / Republic, 
+BK viii, 412a / Philebus 609a-639a,c / Laws, 
+BK vni, 733b-d; bk ix, 751b-d 
+
+8 Aristotle: Metaphysics, bk 11, ch 2 
+16] S12d-513a 
+
+9 Aristotle: Ethics, bk i, ch 2 [i094“i8-22] 
+339b; BK in, ch 12 [iii9*’6-i2] 366c / Politics, 
+BK 1, CH 8 [i256'’26]-CH 9 [i258“i8] 450 c- 
+452b; BK II, CH 7 [i267®42-‘’5] 463b 
+
+12 Lucretius: Nature of Things, bk hi [59-93] 
+30d-31b; [931-977] 42a-c; [1003-1010] 43a; 
+[1076-1084] 44a: BK IV [1097-1120] S8c-d; 
+bkv [1405-1435] 79b-d; bk vi [1-34] 80a-c 
+
+12 Epictetus: Discourses, bk in, ch 9 I84c- 
+18Sd; bk IV, CH 4-5 22Sa-230b; ch 9 237d- 
+238d 
+
+14 Plutarch: Pyrrhus, 319b-321a / Caius Ma- 
+rius, 353d-354a,c / Pompey, 52Sa-b; S33a-c / 
+Caesar, 599b-c / Cicero, 706b-c 
+
+18 Augustine: Confessions, bk i, par 1-6 Ia-2c; 
+
+par 19 Sd; bk ii, par 2-4 9b-d; bk iv, par 
+15-19 23a-24b; bk vi, par 26 42d-43a; bk xi, 
+par 1-4 89b-90b; bk xn, par 10 101c ' 
+
+19 Aquinas: Summa Theologica, part i, q 63, 
+A 3 327b-328b; part i-ii, q i, a 4 612a-613a; 
+Q 2, A 1, REP 3 615d-616c; q 30, a 4 751c- 
+7S2b 
+
+20 Aquinas: Summa Theologica, part ii-h, q 
+27, A 6 524c-525c; Q iS, a 3 528d-529c 
+
+22 Chaucer: Troilus and Cressida, bk i, stanza 
+58-66 8b-9b / Wife of Bath’s Prologue (5953- 
+5960] 262a 
+
+23 Hobbes: Leviathan, part 1, 76c-d 
+
+25 Montaigne: Essays, 123d; 149b-d; 224d- 
+22Sa; 350d-354b; 429a-b; 489b-c; 503b-d 
+
+26 Shakespeare: Julius Caesar, act ii, sc 1 
+[10-34] 574c-d: ACT in, sc n 583c-586c 
+
+27 Shakespeare: Troilus and Cressida, act i, sc 
+in [109-124] 109 b: act in, sc n [65-107] 120 d- 
+121b / Macbeth, acti, sc v 288 a-d; sc vii 
+
+’ 289b-290b 
+
+31 Descartes; Meditations, iv 89a-93a passim, 
+esp 90b-91b 
+
+•33 Pascal: Pensees, 109 193b-194a; 125-183 
+195b-204b; 425 243b-244b 
+
+35 Locke: Human Understanding, bk n, ch xxi, 
+SECT 45 189b-d 
+
+36 Sterne; -Tmlrain Shandy, 236b-238a 
+
+39 Smith: Wealth of Nations, bk i, 71b-d 
+
+42 Kant: Fund. Prin. Metaphysic of Morals, 
+256c'257c / Practical Reason, 298d-300a / 
+Judgement, 584d-585c; 586d-587a 
+
+43 Mill: Utilitarianism, 462c-463a 
+
+46 Hegel: Philosophy of Right, intro, par 5-10 
+13a-15a; par 13-14 15c-16a; par 22-27170-186; 
+part I, par 35 21a-b; part n, par 105 40a; 
+additions, 6 117a-b; ii 118a; 17 119a; 22 
+120c-d; 26 121a-b; 118 136a-b 
+
+47 Goethe: Faust esp part i [3217-3250] 79a-b, 
+PART II [11,239-258] 273b-274a 
+
+50 Marx: Capital, 62a-b; 71d-72c; 292c-295a 
+
+51 Tolstoy: War and Peace, epilogue 1, 671d- 
+672a: epilogue ii, 692c-694d 
+
+54 Freud: Civilization and Its Discontents, 800d- 
+801a 
+
+6b. The infinity of the intellect: man’s knowl- 
+edge of the infinite 
+
+Old Testament: Exodus, 33:12-33 / Job, 11:7- 
+9; 26:14; 28; 36:26; 38-41 / Proverbs, 20:24; 
+zy.i ! Ecclesiastes, 3:11; 8:17; 11:5 
+
+Apocrypha: Wisdom of Solomon, 9:13-16— (D) 
+OT, Bool{ of Wisdom, 9:13-16 / Ecclesiasti- 
+cus, 1:2; 18:4-7— (D) OT, Ecclesiasticus, 1:2; 
+18:2-6 
+
+New Testament: John, 1:18 / Romans, 11:33-34 
+/ I Corinthians, 2:16 / I Timothy, 6:15-16 
+
+7 Plato: Philebus, 610d-613a 
+
+8 Aristotle: Physics, bk i, ch 4 [i87*’7-i4] 
+262d; CH 6 [iSp^ii-ip] 264c; bk 111, cii 6 
+[207“2i-3i] 285c-d / Metaphysics, bk h, ch 2 
+[994’’i7-3o] 513a-b; bk in, ch 4 [999“24-29] 
+518a; bk xn, ch 7 [io72’’i4-29] 602d-603a; 
+BK xni, CH 10 [io87"io-25] 619c / Soul, bk i, 
+CH 3 [407"22-3o] 636d-637a; bk in, ch 4 
+[429'*i9-28] 661c; ch 5 [43o''io-i7] 662c 
+
+9 Aristotle: RJietoric, bk 1, ch 2 [i356’’28-35] 
+596b-c 
+
+11 Nicomaciius: Arithmetic, bk i, 812a 
+
+16 Kepler: Harmonies of the World, 1080a 
+
+17 Plotinus: Sixth Enncad, tr vi, ch 3, 
+312a-b 
+
+18 Augustine: Confessions, bk v, par 20 32d- 
+33a; -bK vn, par 20-21 49d-50a; bk xn, par 
+3-6 99d-100c 
+
+19 Aquinas: Summa Theologica, part i, q i, a i 
+3b-4a; q 7, a 2, rep 2 31d-32c; qq 12-13 50b- 
+7Sb: Q 14, A I, ANS 75d-76c; a 12 85d-86d; 
+Q 28, A 4, REP 2 160c-161d; Q 32, A I 17Sd- 
+178a; q 54, a 2, ans 285d-286c; q 79, a 2, 
+ANS 414d-416a: q 86, a 2 462a-463a: Q 87, a 3, 
+REP 2 467b-468a; q 88, a 1, ans 469a-471c; 
+A 3 472c-473a; q 91, a 3, rep 2 486b-487d; 
+Q 94, A 1, ANS 501d-503a; part i-ii, q 2, a 6, 
+
+7 to 7fl 
+
+ANS 619d-620d; q 30, a 4, ans and rep 2 
+7Slc-7S2b 
+
+20 Aquinas: Summa Theohgica, part t-n, q 68 , 
+
+A 2, ANS 89c-90c; part ni, q 10,. a 3 769d- 
+771b: PART in suppi, q 92 102Sb-1037c esp 
+A I, ANS and REP 6,12 I025c-1032b ' 
+
+21 Dante; Divine Comedy, purgatory, m [37- 
+45] 56b; PARADISE, IV [ii5]-v [12J Hld-112b: 
+XIX [22-99] 13Sb-136a; xxi [;rj-i02] }39a-b 
+
+23 Hobbes: Leviathan, part i, 54b-c; part 11, 
+162c-d; PART IV, 262b 
+
+25 Montaigne: Essays, 238c-239b; 2Slc-257d 
+28 Harvey: On Animal Generation, 494a-b 
+31 Descartes: Meditations, 72a-b; in, 86b-87a; 
+IV 89a'93a passim / Objections and Replies, 
+112a-d: 121d'122b; 169a; 211c-d; 2l2c-2I3a; 
+213d-214a 
+
+31 Spinoza: Ethics, part i, prop 30 366c'd 
+33 Pascal: Pensees, 72 181a-184b; 231-233 213b- 
+216a / Geometrical Demonstration, 43Sa-b 
+35 Locke: Hitman Understanding, bk 11 , ch xiir, 
+sect 4 149b; CH xiv, sect 26-31 160c-162a: 
+CH XV, SECT 2-3 162c-d; sect 12 16Sb-c; ch 
+XVI, SECT 8 167c; ch xvii 167d-174a esp sect 
+15 171b-172a; ch xxii, sect 9 202c-203a; 
+CH xxni, SECT 31 212b-c; sect 33-37 212d- 
+214b passim; ch xxix, sect 15-16 237a-238a; 
+BK IV, CH X, SECT ip, 354b-c 
+35 Berkeley: Human Knowledge, intro, sect 
+2 405b 
+
+40 Gibbon: Decline and Fall, 308d 
+42 Kant: Practical Reason, 291a-292a / Judge- 
+ment, 49Sa-498b; 501a-b 
+
+46 Heoel; Philosophy of Right, intro, par 13-14 
+15c-16a; part hi, par 185 64b-d; par 358 113c 
+/ Philosophy of History, intro, I86a; part n, 
+270d-271c; 278a-c; part hi, 304c-306b 
+
+47 Goethe: Faust, part i [1810-1815] 43a; part 
+11 [11,441-452] 278b 
+
+51 Tolstoy: War and Peace, dk i, SOb-c; bk in, 
+156d; 162b'I64a,c; bk xv, 631a-c; epilogue 
+n, 693C'694d 
+
+S3 James: Psychology, 392a; 631a 
+7. The infinity of God 
+
+17 Plotinus ; Fourth Ennead, tr hi, ch 8, 146b-c: 
+TR IV, CH 9 162d-163a / Fifth Ennead, tr v, 
+ch io-ii 233b'234a / Sixth Ennead, tr v, ch 4 
+306d-307a 
+
+18 Augustine: Confessions, bk i, par 1-6 la-2c; 
+BK VI, par 4 36a'b; bk vh, par i 43b-c; par 7 
+4Sa-d: BK xHi, par 12 113b-d / City of God, 
+BK v, CH 9-10 213b-216c 
+
+19 Aquinas: Summa Theohgica, part i, q 7 
+31a-34c: Q 54, A 2, ANS 285d-286c: part i-n, 
+Q I, A 4 , REP i 612a'613a 
+
+21 Dante: Divine Comedy, purgatory, hi [37- 
+45] 56b; PARADISE, xxxHi 156b'157d 
+23 Hobbes: Leviathan, part i, 54b-c: part u, 
+162a-d 
+
+25 Montaigne.' Essays, 2Slc-257d 
+
+31 Descartes: Discourse, part iv, 52b-d / 
+Meditations, hi, 86a / Objections and Replies, 
+122a-b; 123c-d; def viii 130d 
+
+31 Spinoza: Ethics, part 1, def 6 355b; prop ro- 
+ll 358a-3S9b; prop 13 359c-d; prop 16 362a; 
+PART n, PROP 7 37Sa-c 
+
+32 Milton: Paradise Lost; bk hi [372-415] 143b- 
+144b; BK VIII [411-421] 241a ' 
+
+33 Pascal: Pensees, 231-233 213b-216a 
+
+34 NEWTOsi: Principles, bk hi, ceneral'schol, 
+370a-37Ia 
+
+35 Locke: Human Understanding, bk h, ch xvh, 
+sect 1 167d-168a; ch xxhi, sect 34-35 213a-c; 
+BK in, CH VI, SECT II-I2 271b-272b passim 
+
+40 Gibbon: Decline and Fall, 81b 
+
+41 Gibbon: Decline and Fall, 230a-b 
+
+42 Kant: Pure Reason, 188c: 192c-d / Practical 
+Reason, 344b-c / Judgement, S90b-d; S92a-c 
+
+51 Tolstoy: War and Peace, bk xv, 631a-c 
+
+7a. The infinite being or essence of God 
+Old Testament: Exodus, 3:14 /7 Kings, 8:27 — 
+{D) 111 Kings, 8:27 / Job, 11:7-9 / Psalms, 
+9:7; 45:6; 48:8-14; 102:12; 136; 139:7-10— 
+(Z>) Psalms, 9:8: 44:7: 47:9-15: 101:13; H5! 
+138:7-10 / Isaiah, 41:4; 43:10-11; 44:6; 48:12 
+~{D) Isaias, 41:4; 43:10-11; 44:6; 48:12 / 
+Daniel, 4:34— (D) Daniel, 4:31 
+New Testament: John, 8:58 
+
+18 Augustine: Confessions, bk i, par 10 3b-c; 
+BK VH, par 20-21 49d-50a; bk xm, par 4 
+111c / City of God, bk xii, ch 2 343C'd / 
+Christian Doctrine, bk i, ch 32 633c-d 
+
+19 Aquinas: Summa Theohgica, part i, q 7, aa 
+1-2 31a-32c; q 14, a i, ans 75d-76c; a 3 77d- 
+78b; Q 54, A 2, ANS 285d-286c; q 75, a 5, rep 
+4 382a-383b; q 79, a 2, ans 414d-416a; q 86, 
+A 2, REP I 462a'463a 
+
+20 Aquinas : Summa Theohgica, part hi, q 2, 
+A I, ANS 710a-711c; part hi suppl, q 92, a i, 
+rep 6,12 1025c-1032b 
+
+25 Montaigne: Essays, 293d-294a 
+31 Descartes: Discourse, part iv, 52a-d / 
+Meditations, 72a-b; iii, 86a / Objections and 
+Replies, 108b-114c passim 
+31 Spinoza: Ethics, part 1 3S5a-372d esp def i 
+3S5a, def 3,6 355b, axiom 1-2 355c-d, prop 
+1-17 355d-363c, prop 20-21 363d-364c, prop 
+23 364d-365a, prop 25 36Sb, prop 29-31 
+366b-367a; part ii, prop i 373d-374a 
+33 Pascal: Pensees, 469 256a 
+35 Locke: Human Understanding, bk ii, ch xv, 
+SECT 2-4 162c-163b; sect 12 16Sb-c; ch xvh, 
+sect I 167d-168a: sect 16-17 172a-c; sect 20 
+172d'173c; cn xxiii, sect 33-35 2I2d-2I3c; 
+bk hi, ch VI, sect 11-12 271b-272b 
+35 Berkeley: Human Knowledge, sect 117 
+436a 
+
+42 Kant: Pure Reason, 20Ib-c; 20Sa-b 
+46 Hegel: Philosophy of History; i.ntro, 156d' 
+160b; 165a-b; part hi, 305c-306c 
+
+832 THE GREAT IDEAS lb to 7d 
+
+(7/ The infinity of God .) 
+
+ih . The infinite power of God 
+
+Old Testament: Genesis, 18:14 / Exodus, 15:18 
+y Deuteronomy, 10:14; 32:39 / J Samuel, 2:6-8 
+—(D) 1 Kings, 2:6-8 / Job, 12:14-15; 38-41 / 
+
+, ' Psalms, 62:11; 114; 148— (D) Psalms, 61:12; 
+113:1-8; 148 / Isaiah, 40:22-31; 44:24-46:13 
+—(D) Isaias, 40:22-31; 44:24-46 :i2//e«w!M/j, 
+32:27— (D) Jeremias, 32:27 / Daniel, 4:34-35 
+— (D) Daniel, 4:31-32 
+
+.Apocrypha: Judith, 16:13-17 — (D) OT, Judith, 
+i6a5-2i / Rest of Esther, 13:9-11— (D) OT, 
+Esther, 13 :9-ii / Wisdom of Solomon, ii:ij-26; 
+12:12-18 — (D) OT, Boo\ of Wisdom, 11:18- 
+27; ] Ecclesiasticus, 18:1-7— (D) OT, 
+
+Ecclesiasticus, 18:1-6 / 11 Maccabees, 8:18 — 
+(D) OT, <ll Machabees, 8:18 
+
+New Testament: Matthew, 3:9; 19:26 / Mar\, 
+10:27 / 1:37 / Ret’elation, ig:6— (D) 
+
+Apocalypse, 19:6 
+
+8 Akistotli:-. Metaphysics, bk xii, ch 7 [io73“3- 
+11] 603 a-b 
+
+17 Plotinus : Fz/iA Ennead, tr v, ch 10 233b-c 
+
+18 Augustine: Confessions, bk i, par 12 4 a; bk 
+V, par 20 32 d- 33 a; bk vii, par 6-7 44 d- 45 d / 
+City of God, bk v, ch 10 215 c- 216 c; bk vii, 
+CH 30 261 b-d; bk xiv, ch 27 396 c- 397 a; bk 
+XXI, ch 5-8 S 63 d' 568 d 
+
+19 Aquinas: Summa Theologica, part i,/q 25, 
+AA 2-3 I 44 c- 147 a; Q 45, a 5, rep 3 24 Sc- 247 a; 
+Q 65, A 3, REP 3 341 c- 342 b; Q 92, a 2, rep 
+2 489 d- 490 c; part :-ii, q i, a 4, rep i 6123 - 
+613a 
+
+20 Aquinas: Summa Theologica, part i-ii, q 
+1 13, A 9 368 d- 369 c; part ii-ii, q 23, a 2, 
+REP 3 483 d- 484 d; part m, q lo, a 3, rep 3 
+769 d- 771 b 
+
+31 Descartes: Meditations, iii, 86a / Objections 
+and Replies, 229 c-d 
+
+31 Spinoza; Ethics, part i, def 3-6 355 b; def 8 
+355 c; PROP 1-8 355 d- 3 S 7 d; prop 11-17 3 S 8 b- 
+363 c; PROP 20-25 363 d' 365 b: prop 32-35 
+367 a- 369 a; appendix 369 b- 372 d; part ii, 
+PROP 3 374 a-c 
+
+32 Milton: Paradise Lost, bk 11 [119-225] 113b- 
+
+• 116 a; BK III [372-415] 143 b- 144 b / Samson 
+
+Agonistes [300-329] 346 a-b 
+
+. 33 Pascal: Pcnsees, 654 292 b 
+
+34 Newton: Principles, bk hi, general schol, 
+370 a 
+
+35 Locke: Human Understanding, bk 11, ch xv, 
+sect 12 165 b-c: ch XVII, sect 1 167 d- 168 a; 
+
+. ch xxih, sect 34-35 213a-c passim; bk hi, 
+CH.vt. sect 11-12 271b-272b passim 
+
+35 Berkeley: Hitman Knowledge, sect 152 
+443 c-d 
+
+36 Sterne: Tristram Shandy, 334a-b 
+
+37 Fielding: Tom Jones, 186c-d 
+
+;42 Kant: Pure Reason, 180b-c; 18Ib; 192c-d; 
+201b-cy Practical Reason, 352a-c / Judgement, 
+502d-S03a; 504b-d; 592a-c; 600d-601c 
+
+. 46 Hegel: Philosophy of History, intro, lS6d- 
+160b 
+
+51 Tolstoy: War and Peace, epilogue n, 684b-d 
+
+Tc . God]s infinite goodness and love 
+
+Old Testament: Isaiah, 43:1-4; 46:3-4; 49:14- 
+15; 63:8-9— (D) Isaias, 43:1-4; 46:3-4; 
+'1 49:14-15; 63:8-9 / Jeremiah, 31 esp 31:3— 
+
+< (D) Jeremias, 31 esp 31:3 
+
+Apocrypha: Wisdom of Solomon, 11:23^26; 
+
+16:20-29 — (^) diool{ of Wisdom, 11:24- 
+. 27; 16:20-29 . 
+
+New Testament; Matthew, 19:16-17 / John, 
+3:16; 13:31-17:26 / Romans, 8:35-39 / Gala- 
+tians, 2:20 / Ephesians, 3:14-21 / I John, 3:1 
+
+17 Plotinus: Fifth Ennead, tr v, ch lo-ii 233 b- 
+234 a 
+
+18 Augustine: Confessions, bk v, par 20 32d- 
+
+' 33a; bk xiu, par 2-5 llla-d / City of God, 
+
+BK XI, CH 10 327d-328d; bk >xii, ch 1-3 
+342b,d-344b 
+
+19 Aquinas: Summa Theologica, part 1, q 2, 
+A 3, REP I 12c-14a; q 4, a i 20d-21b; q 6, aa 
+
+I- 3 28 b- 30 b; q ii, a 3, ans 49 a-c; q 54, a 2, 
+ANs 285 d- 286 c; part i-n, q i, a 4, rep i 
+612 a- 613 a; q 5, a 2, rep 3 637 c- 638 a ' 
+
+20 Aquinas: Summa Theologica, part i-ii, q 64, 
+A 4, REP 3 69b-70a; part ii-n, q 23, a 2, rep 
+3 483d-484d; part hi, q i, a i 701d-703a 
+
+21 Dante: Divine Comedy, purgatory, xv 
+[40-81] 7 Sd- 76 a; paradise, xxix ' [127-145] 
+151 c-d ' 
+
+31 Descartes: Objections and Replies, 229c-d 
+
+31 Spinoza; Ethics, part v, prop 35-36 460d- 
+
+461c • ' 
+
+32 Milton: Paradise Lost, bk vii [139-173] 220a- 
+22Ia 
+
+' 33 Pascal; Pensees, 580 276b 
+35 Locke: Human Understanding, bk ii, ch 
+XVII, SECT 1 167d-168a; bk hi, ch vi, se'ct 
+
+II- 12 271b 272b passim . ’ 1 
+
+37 Fielding: Tom Jones, 186c-d 
+
+42 Kant: Fund. Prin. Metaphysic of Morals, 
+263 a-b / Practical Reason, 325 d- 326 a; 345 a-c; 
+351 b- 352 c / Judgement, S 92 a-c 
+44 Boswell: Johnson, 539 d- 540 a 
+
+52 Dostouxsym: Brothers Karamazov, bk h, 24a-c 
+
+Id . God’s infinite knowledge 
+
+Old Testament: I Samuel, 2:3— (D) I Kings, 
+23 / Job, 11:5-11; 34:21-25; 36:4; 37:16 / 
+Psalms, 94:7-12; 100:5; 117:2; 119:142,160; 
+139; 146:6; 147:5— (D) Psalmsi 93:7-12; 99:5; 
+116:2; 118:142,160;. 138; 145:6-7; 146:5 / 
+Proverbs, 15:3,11 / Isaiah, 29:15-16; 40:28— 
+(D) Isaias, 29:15-16; 40218 
+Apocrypha; Rest of Esther, 13:12— (D) OT, 
+Esther, 13:12 / Ecclesiasticus, 15:18-19: 16:17- 
+20; 17:15,17,19-20; 23:18-20; 39:19-21; 42:18- 
+21— (D) OT, Ecclesiasticus, 15:19-20; 16:16- 
+20; 17:13-17; 23:25-29; 39:24-25; 42:18-22 / 
+Susanna, 42-43— (D) OT, Daniel, 13:42-43 
+
+Id 
+
+Ne%v Testament; Romans, 11:33-36 / 7 Corin- 
+thians, 1:17-2:16 / Ephesians, 3:10 / Calossians, 
+2:2-3 / Hebrews, 4:13 / 7 John, 3:20 
+
+17 Plotinus: Ennead, tr 11, ch 21 279b- 
+
+280a 
+
+18 Augustine; Confessions, bk hi, par 10 15b-d; 
+BK V, par 5 28b-c / City of God, bk v, ch 9-10 
+213b-216c; bkxi, ch io,328c-d; ch 21 333a-d; 
+BK XII, ch 17-18 3S3a-354d / Christian Doc- 
+trine, BK I, ch 8 626c-627a 
+
+19 Aquinas: Summa Theologica, part i, q 14, 
+A r, ANS 7Sd-76c; a 3 77d-78b; a 12 8Sd-86d; 
+Q i6, A 5, ANS 97c-98b; q 18, a 4 107d-108c; 
+Q 54, A 2, ANS 285d-286c; q 79, a 2, ans 414d- 
+416a; part i-h, q 1, a 4, rep 1 612a-613a 
+
+21 Dante: Divine Comedy, paradise, iv [ii5]-v 
+
+[12] llld-112b; XIX [22-99] 13Sb-136a: xxi 
+[73-105I I39a-b 
+
+30^Bacon: Advancement of Learning, 98d-99b 
+'31 DescarVes: Objections and Replies, 122a-b 
+
+31 Spinoza: Ethics, part r, prop 21 364a-c; 
+part II, PROP I 373d-374a; prop 3-4 374a-c 
+
+32 Milton; Paradise Lost, bk ii [i88ri93] IlSb; 
+BK HI [56-134] 136b-138a; bk vii [109-130] 
+219b-220a; bk’vhi [412-436] 241a-b 
+
+35 Locke: Human Understanding, bk 11, ch xv, 
+SECT 12 165b-c; ch xvh, sect i 167d-168a; 
+CH xxiri, SECT 34-35 2l3a-c passim; bk iir, 
+CH VI, SECT 11-12 271b-272b passim 
+42 Kant: Practical Reason, 303b-304a; 325d- 
+326a; 344a'348a; 351b-352c / Judgement, 
+590b-d; 592a-c 
+
+Chapter ^ 0 ; JU^fFINITY 
+
+CROSS-BMFERENCES 
+
+For: The distinction between the potential and actual infinite, and the infinite of division and 
+addition, see Quantity 7. 
+
+Other discussions of the infinity of space, time, and motion, see Astronomy 8c(i); Change 
+13; Eternity 2; Space 3a; Time 2b; World 4a; and for the conception of eternity as 
+infinite time, see Eternity i ; Time 2. 
+
+The issue concerning the existence of atoms or the infinite divisibility of matter, see Ele- 
+ment 5b; One and Many 3a(3). 
+
+The problem of an infinite regression in causes, see Cause ib, 7b; Change 14; Principle ib; 
+and for the related problem of infinite regression in definition and reasoning, see Defini- 
+tion ic; Principle 33(3); Reasoning 5b(i). 
+
+The treatment of the infinite and the infinitesimal in mathematics, see Mathematics 4d; 
+Quantity 2, 3a, 3c, 4c, 7. 
+
+The special logical sense in which judgments are called “infinite," see Judgment 6 b. 
+
+The conception of the human intellect and of prime matter as having comparable types of 
+infinity, see Mind 2b. 
+
+Another discussion of the finite and the infinite in relation to human nature, see Man rod, 
+
+13- 
+
+The special consideration of infinity in relation to human desire, see Desire 7-73(3); and for 
+the special consideration of the limits of human knowledge, see Knowledge 53753(6). 
+The problem of our knowledge of the infinite, see Knowledge 53(4). 
+
+The infinity of God, and of God’s knowledge, power, and goodness, see Being 7b(4); God 
+4e-4f, 5c, 5f; Good and Estl 2; Knowledge 7a; Liberty 5d; Mind lof; Nature ib; 
+Truth 2d; Will 4b; World 3a. 
+
+ADDITION AL READINGS \ 
+
+Listed below are works not included in Great Boo\s of the Western World, but relevant to the 
+idea and topics with which this chapter deals. These works are divided into two groups: 
+
+I. Works by authors represented in this collection. 
+
+II. Works by authors hot represented in this collection. 
+
+For the date, place, and other facts concerning the publication of the works cited, consult 
+the Bibliography of Additional Readings which follows the last chapter of The Great Ideas. 
+
+I. 
+
+Descartes. The Principles of Philosophy, part i, 
+
+Spinoza. Correspondence, xii 
+Newton. The Method of Fluxions and Infinite 
+Series 
+
+Berkeley. The Analyst 
+
+. A Defence of Free Thin}(ing in Mathematics 
+
+Hume. A Treatise of Human Nature, bk i, part ii, 
+
+SECT I-II 
+
+Kant. De Mundi Sensibilis {Inaugural Dissertation) 
+. Prolegomena to Any Future Metaphysic, par 
+
+50-54 
+
+Hegel. Science of Logic, vol i, bk i, sect i, ch 2 
+(b,c); sect ii, ch 2 (c) 
+
+W. James. Some Problems of Philosophy, ch io-i i 
+
+II. 
+
+Proclus. The Elements of Theology, (j) 
+
+Ansel-m of Canterbury. Monologium 
+. Proslogium 
+
+Maimonides. The Guide for the Perplexed, part i, 
+ch 73 
+
+Duns Scotus. Opus Oxoniense, dk i, dist 13 
+
+. Reportata Parisiensia 
+
+Crescas. Or Adonai, propositio.ns 1-3 
+Nicolas of Cusa. De Docta Ignorant ia 
+Bruno. De I'infinito, universo e mondi 
+
+. De Immenso et Innumcrabilibus 
+
+Donne. Lovers Infinitenesse 
+
+Suarez. Disputationes Metaphysicae, xxviii, xxx 
+■ (2). XXXV (3), XLI (5) 
+
+Leibnitz. Neto Essays Concerning Human Under- 
+standing, BK II, CH 17 
+
+. Correspondence with Clarice 
+
+Voltaire. “Infinity,” in A Philosophical Dictionary 
+
+. The Ignorant Philosopher, ch 18 
+
+Bolzano. Paradoxien des Unendlichen 
+Whewell. On the Philosophy of Discovery, cii 26 
+Stallo. Concepts and Theories of Modern Physics, 
+CH 13 
+
+Bradley. The Principles of Logic, Terminal Essays, 
+
+VI 
+
+Fullerton. The Conception of the Infinite, and the 
+Solution of the Mathematical Antinomies 
+Bosanquet. Logic, vol i, ch 4 
+C. S. Peirce. Collected Papers, vol vi, par 112-126 
+CouTURAT. De I’infini mathematique 
+Cantor. Contributions to the Founding of the Theory 
+of Transfinite Numbers 
+
+Royce. The World and the Individual, series i; Sup- 
+plementary Essay (4) 
+
+Peano. Formulaire de mathematique 
+E. W. Hobso.n. The Theory of Functions of a Real 
+Variable and the Theory of Fourier's Series 
+Poincare. Science and Method, bk ii, ch 3 
+Whitehead and Russell. Principia Mathematica, 
+PART HI, sect C; part V, SECT E 
+
+B. Russell. Principles of Mathematics, ch 13, 17, 23, 
+
+37-43 
+
+. Our Knowledge of the External World, v-vti 
+
+. Introduction to Mathematical Philosophy, cii 3, 
+
+9. 13 
+
+Sitter. Kosmos (The Expanding Universe) 
+
+Weyl. The Open World, lect.hi 
+
+Chapter /\i:

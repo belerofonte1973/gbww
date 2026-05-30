@@ -1,0 +1,1591 @@
+CHAPTER: Physics
+
+INTRODUCTION
+
+PHYSICS 
+
+INTRODUCTION 
+
+C oncerning the subject matter of 
+physics, one thing seems to be tradition- 
+ally taken for granted. The object of its study 
+is the sensible world of changing things or mat- 
+ter in motion. When Plato, for example, con- 
+ceives astronomy as dealing not with the actual 
+and observable motions of the heavenly bodies, 
+but with the possible forms of the motions of 
+solids, he gives it the character of a mathemat- 
+ical rather than a physical science. He asso- 
+ciates it with geometry, as for a similar reason 
+he associates music — divorced from concern 
+with audible harmonies— with arithmetic. In 
+anyone’s view, if a science does not investigate 
+sensible realities, if it does not undertake to ac- 
+count for the motions of actual bodies, or, 
+stated most generally, if it has no concern with 
+the phenomena of change, then it does not have 
+the character of physical or natural science. 
+
+The early Greek physicists, the pre-Socratics, 
+to whom Plato and Aristotle refer, inaugurate 
+the study of change with speculations about 
+ultimate origins, the underlying principles or 
+causes of natural phenomena. Sometimes they 
+are called philosophers and sometimes scientists 
+— or, at least, precursors of empirical science. 
+But there seems to be no difference of opinion 
+about their title as physicists. Their undisputed 
+claim to this title derives, not from the method 
+they employ, but from the object they study — 
+change. In that primary meaning of the word 
+“nature” which comes from the Latin natura — 
+the equivalent of phiisis in Greek — they can 
+be called “naturalists” or “physicists” indif- 
+ferently. The realm of nature is the realm of 
+change. 
+
+It is for this reason that Aristotle, consider- 
+ing the theories of bis predecessors in the open- 
+ing chapters of his Physics, sets Parmenides 
+apart from all the rest. Parmenides’ affirmation 
+of the unity of being, which leads to his denial 
+
+of the reality of change or motion, cannot be 
+treated as a physical theory. On the contrary, 
+it is,according to Aristotle, a complete negation 
+of the subject matter of physics. No matter 
+what other points physicists may dispute 
+among themselves, they must all at least agree 
+in taking a stand against Parmenides. Aristotle 
+does not even seem to think that a book on 
+physics is the proper place to argue against Par- 
+menides. That argument belongs to another 
+part of philosophy. The reality of change 
+seems to him sufficiently evident to assure the 
+physicist that he has a subject matter to inves- 
+tigate. 
+
+The question whether the early physicists 
+were scientists or philosophers calls attention to 
+different methods of investigating natural phe- 
+nomena. Agreement on the subject matter of 
+physics may prevail, therefore, only in very 
+general terms. When, in a manner to accord 
+with the method employed, the object of phys- 
+ical inquiry is more specihcally defined, there 
+seem to be two physics, not one — a philosoph- 
+ical and a scientific physics, a philosophy of na- 
+ture and a natural science, or, to use Kant’s 
+phrasing, a rational or pure physics and an 
+empirical or experimental physics. 
+
+• Though Newton may call his work a philos- 
+ophy of nature, he also refers to it as an experi- 
+mental philosophy, in order to distinguish it 
+from the work of earlier natural philosophers 
+who did not perform experiments. The differ- 
+ence between the physics of Newton and that 
+of Aristotle seems, however, to involve more 
+than a divergence in method. The problems 
+which Newton and Aristotle try to solve indi- 
+cate a difference in subject matter as well. 
+Nevertheless, this difference falls within what, 
+in the most general terms, must be conceived 
+as the domain of physics. For all their differ- 
+
+364 THE GREAT IDEAS 
+
+ences, both are physicists, though both are not 
+philosophers or scientists in the same sense. 
+
+There are other sources of variation in the 
+definition of physics. The problem of the rela- 
+tion of physics to other disciplines — whether 
+these are other branches of philosophy or other 
+fields of empirical research — raises issues about 
+the object and scope of physics, j^ristotle. 
+Bacon, Descartes, and Kant, for example, do 
+not seem to have a common understanding of 
+the relation of physics to mathematics and 
+metaphysics. In consequence they conceive 
+physics itself differently. 
+
+On the level of empirical research, physics is 
+sometimes regarded as just one of the natural 
+sciences and sometimes’ as the whole group of 
+natural sciences. In the latter case it includes 
+such fields as astronomy, mechanics, optics, 
+acoustics, thermodynamics, magnetism, and 
+electricity; and sometimes chemistry, biology, 
+and even psychology are included under the 
+head of physical or natural sciences, contrasted 
+in the broadest terms to the social sciences. The 
+conception of physics obviously changes when 
+its scope is determined by a boundary line 
+which separates it from chemistry, or from 
+biology and psychology, or from the study of 
+society. 
+
+The separation of these other sciences from 
+physics does not necessarily imply a disconti- 
+nuity in nature or the natural sciences. The 
+biologist and the psychologist, for example, 
+consider the physical bases of life and the phys- 
+ical conditions or correlates of mental phe- 
+nomena. Hybrid sciences like biophysics and 
+psychophysics have developed. Even the study 
+of society draws upon physics to the extent 
+that the laws of matter in motion and consider- 
+ations of space and time must be appealed to 
+for an understanding of the physical founda- 
+tions of economic and political life. 
+
+Other chapters deal with specific physical 
+sciences, e.g., Astronomy and Mechanics. 
+The latter tries to cover the various branches 
+of mechanics and related fields of study, such 
+as dynamics, optics, the theory of heat, mag- 
+netism, and electricity; particularly so far as 
+these are represented in the work of Galileo, 
+Newton, Huygens, Gilbert, Fourier, and Fara- 
+day. The basic concepts of mechanics and its 
+
+branches or affiliates are also treated in that 
+chapter. Still other chapters deal with funda- 
+mental terms representing concepts or prob- 
+lems in the larger domain of physics, philo- 
+sophical or scientific, e.g., Cause, Change, 
+Element, Infinity, Matter, Principle, 
+Quantity, Space, and Time— -not to mention 
+Nature and World, terms which represent in 
+the most comprehensive way the reality stud- 
+ied by the physicist. 
+
+Our discussion here can therefore be re- 
+stricted to the problems raised in the great 
+books concerning the conception of physics, its 
+subject matter and method, its relation to other 
+sciences or other parts of philosophy. It will 
+lead to such questions as whether physics is su- 
+preme among the sciences studying reality or 
+the nature of things and, at the other extreme, 
+whether physics is at all possible as a science, 
+whether there can be scientific knowledge of 
+bodies in motion or of the whole realm of 
+change and becoming. ' 
+
+The problem of the distinction between 
+philosophical and scientific physics would ap- 
+pear to be only a special case of the distinction 
+between philosophy and science in general. But 
+it is more than that. It is the case which tests 
+the main distinction itself, since here both 
+philosopher and scientist claim to 'be expound- 
+ing the same subject matter or at least to be 
+dealing with the same general field' of phe- 
+nomena. 
+
+Mathematics and metaphysics bear on the 
+distinction between philosophy and science in 
+a different way. If, for example, we take ex- 
+perimentation or empirical research to be 
+characteristic of science in distinction from 
+philosophy, then mathematics would seem to 
+resemble philosophy rather than science. On 
+no understanding of the nature of mathe- 
+matical knowledge is mathematics ever divided 
+into two kinds which are capable of being de- 
+scribed as empirical and rational. The possibil- 
+ity of metaphysical knowledge may be chal- 
+lenged, but no one has ever proposed an experi- 
+mental metaphysics to challenge the meta- 
+physics of the philosophers. 
+
+But physics seems' to permit both an experi- 
+mental and a philosophical treatment. Whether 
+they are to be regarded as in conflict with one 
+another depends on whether they are attacking 
+
+Chapter 67: PHYSICS 365 
+
+the same problems by ditferent methods or 
+whether they represent something like a divi- 
+sion of labor. In the latter view; 'each would 
+deal, according to its method, with different 
+problems and tend to supplement father than 
+to exclude the other. Psychology is another 
+subject matter which seems to receive a dual 
+treatment-T^philosophical and experimental — 
+in the- tradition of the great, books. It 'raises 
+issues similar to those just mentioned. They 
+are considered in the chapter on Man. ■ " 
+
+As . the chapters on Philosophy and on 
+Science indicate, the discussion of their differ- 
+ence from and relation to one another is com- 
+plicated by the double use of 'both terms. The 
+word “science,” for example,' is used for both 
+the philosophical and the experimental sciences 
+throughout the greater part of the tradition. 
+Similarly, until quite recently, the name of 
+philosopher is taken by those who experiment 
+as well as by those who do not. 
+
+It is impossible, therefore, to speak without 
+confusion of a scientific and a philosophical 
+physics unless the verbal ambiguities are re- 
+solved by some convention, such as the under- 
+standing that when the context indicates that 
+the words “science” and “philosophy” are be- 
+ing used as opposites rather than as synonyms, 
+then “science” shall signify the experimental 
+and “philosophy” the non-experimental mode 
+of treatment. Beyond this, it is necessary to 
+proceed as if the chapters on Philosophy and 
+Science formed a background for some of the 
+matters to be discussed here. Otherwise the 
+consideration of natural philosophy and natural 
+science would tend to become a general dis- 
+cussion of philosophy and science. 
+
+The great books of experimental physics 
+seem to have three characteristics in common. 
+First, and most naturally, they insist upon ex- 
+perimentation as either the indispensable source 
+or the ultimate test of scientific formulations. 
+Second, they tend to rely upon mathematics as 
+much as upon experiment, both for the formu- 
+lation of nature’s laws and for the demonstra- 
+tion of the consequences or corollaries of the 
+primary laws. Third, though experiments and 
+observations multiply as science develops, they 
+seek to bring all the phenomena of nature un- 
+der the smallest number of generalizations, 
+
+which have the utmost simplicity in mathe- 
+matical statement; 
+
+Gn the second and third points, Newton’s 
+declarations seem to be most explicit. “Nature,” 
+he says, “is pleased with simplicity and affects 
+not the pomp of sup'erflous causes.” Accord- 
+ingly, Newton directs his efforts toward the 
+simplest statement of the laws of motion, and 
+these he seeks to give the universality, requisite 
+for covering every type of natural phenomenon. 
+At the opening of the third book of the Mathc' 
+matical Principles of Natural Philosophy, he ex- 
+plains that in the preceding books, he has 
+“laid down the principles of philosophy, prin- 
+ciples not philosophical but mathematical; 
+such, namely, as we may build our reasonings 
+upon in philosophical inquiries. These princi- 
+ples are the laws and conditions of certain mo- 
+tions, and powers or forces.” From these same 
+principles, he will now undertake to “demon- 
+strate the frame of the System of the World.” 
+
+In the Preface to the first edition of this 
+work, Newton describes the third book as one 
+in which he derives “from the celestial phe- 
+nomena the forces of gravity with which bodies 
+tend to the sun and the several planets. Then 
+from these forces, by other propositions which 
+are also mathematical,” he goes on, “I deduce 
+the motions of the planets, the comets, the moon, 
+the sea.” But he does not consider his work to 
+have attained the goal of physics — the compre- 
+hension of all natural phenomena by a few 
+simple mathematical formulae. 
+
+His confession of failure may also be read as 
+a prognostication of what an experimental 
+physics based on mathematical principles 
+might some day be able to achieve. “I wish we 
+could derive the rest of the phenomena of na- 
+ture by the same kind of reasoning,” he writes, 
+“for I am induced by many reasons to suspect 
+that they may all depend upon certain forces 
+by which the particles of bodies, by some causes 
+hitherto unknown, are either mutually im- 
+pelled towards one another, and cohere in 
+regular figures, or are repelled and recede from 
+one another.” Einstein’s unified field equations, 
+covering both gravitational phenomena on the 
+astronomical scale and the electrical attractions 
+and repulsions of sub-atomic particles, seem to 
+realize, or at least closely to approximate, the 
+ideal Newton has in mind. 
+
+366 the great IDEAS 
+
+Midway between Newton and Einstein, 
+Fourier also bears testimony to the ideal of 
+physics as a science at once simple in its prin- 
+ciples and universal in the scope of their appli- 
+cation. The successors of Newton and Galileo, 
+he writes, “have extended their theories and 
+given them an admirable perfection; they have 
+taught us that the most diverse phenomena are 
+subject to a small number of universal laws 
+which are reproduced in all the acts of nature. 
+It' is recognized that the same principles reg- 
+ulate all the movements of tlie stars, their form, 
+the inequalities of their courses, the equilibrium 
+and the oscillations of the seas, the harmonic 
+vibrations of air and sonorous bodies, the trans- 
+mission of light, capillary actions, the undula- 
+tions of fluids, in fine the most complex effects 
+of all natural forces. Thus has the thought of 
+Newton been confirmed,” he concludes, re- 
+ferring to Newton’s praise of geometry, whose 
+glory it is that the few mathematical principles 
+it provided for use in physics should have been 
+“able to produce so many things.” 
+
+On the experimental side, the great works 
+of physical science seem to contain diverse no- 
+tions of the purposes served by experimenta- 
+tion, accompanied by a fairly uniform recogni- 
+tion of the dependence of natural science upon 
+experiment. In the field of magnetism, for 
+example, Gilbert sets aside as unscientific all 
+those authors who “have written about amber 
+and Jet as attracting chaff . . . but with never a 
+proof from experiments. . . . These writers deal 
+only in words. . . . Such philosophy bears no 
+fruit.” The fruitfulness of experiments on the 
+vacuum, the equilibrium of fluids, and the 
+weight of air leads Pascal to conclude that the 
+secrets of nature remain hidden until “the 
+experiments which supply us with knowledge 
+about it” can be performed and multiplied. 
+
+“We ought never to search for truth but by 
+the natural road of experiment and observa- 
+tion, ” writes Lavoisier; and Faraday describes 
+himself as “an experimentalist” who feels 
+“bound to let experiment guide me into any 
+train of thought which it may justify.” The 
+science of electricity, he finds, “is in that state 
+in which every part of it requires experimental 
+investigation, not merely for the discovery of 
+new effects,” but ultimately for “the more ac- 
+
+curate determination of the first principles of 
+action of the most extraordinary and universal 
+power in nature.” 
+
+Methods of experimentation necessarily dif- 
+fer in different fields of physical research. 
+Newton’s optical experiments with mirrors and 
+prisms were adapted to the phenomena of light, 
+as Galileo’s experiment with the inclined plane, 
+Pascal’s experiment on the equilibrium of 
+fluids, or Faraday’s experiments with induction 
+coils were adapted to the phenomena of dynam- 
+ics, hydrostatics, and electricity. The materials 
+employed, the apparatus or instruments de- 
+vised, the factors controlled or isolated from 
+irrelevant circumstances, and the units of 
+measurement in which the results are recorded, 
+naturally vary with the phenomena under ob- 
+servation. Yet one thing is common to the 
+variety of experiments described in the great 
+books of physical science. They all involve the 
+construction of an artificial physical system 
+which permits more accurate and refined ob- 
+servation than does nature uncontrolled or un- 
+tampered with. 
+
+The student of nature must observe in any 
+case, no matter whether he is a philosopher or 
+a scientist. To say that philosophical physics is 
+non-experimental does not mean for Aristotle 
+that knowledge of nature is possible without 
+observation or induction from experience. But 
+the experimentalists insist upon the distinction 
+between the kind of observations which men 
+normally make in the course of every'day expe- 
+rience and the kind which involve the special 
+experience enjoyed only by those who observe 
+and, in addition, measure the results of spe- 
+cially contrived experiments. 
+
+This point of distinction seems to he strik- 
+ingly illustrated by a passage in Galileo’s Two 
+New Sciences. One of the persons in the dia- 
+logue, Simplicio, declares “everyday experi- 
+ence to show the propagation of light to be 
+instantaneous.” He explains that “when we see 
+a piece of artillery fired at a great distance, the 
+flash reaches our eyes without lapse of time; but 
+the sound reaches the ear only after a notice- 
+able interval.” Sagredo replies that this familiar 
+bit of experience permits him to infer only 
+that “sound, in reaching our ear, travels more 
+slowly than light.” It does not inform us, he 
+says, “whether the coming of light is instanta- 
+
+Chapter 67: PHYSICS 367 
+
+neous or whether, although extremely rapid, 
+it still occupies time.” The choice between 
+these alternatives could not be determined by 
+ordinary experience. An experiment had to be 
+constructed in order to measure the velocity of 
+light. • ^ 
+
+Recourse to experimentation to find by ob- 
+servation and measurement the answers which 
+ordinary experience fails to yield does not ex- 
+haust the uses of experiment. The great experi- 
+mental physicists indicate at least three distinct 
+uses to which experiments can be put in addi- 
+tion to a merely exploratory use for “the dis- 
+covery of new effects.” 
+
+In natural philosophy as in mathematics, 
+writes Newton, “the method of analysis ought 
+ever to precede the method of composition” or 
+synthesis. In physics, the method of analysis 
+“consists in making experiments and observa- 
+tions, and in drawing conclusions from them 
+by induction.” In contrast, the synthetic meth- 
+od begins with the principles assumed, there- 
+from “explaining the phenomena . . . and prov- 
+ing the explanations.” 
+
+Here experiments perform a probative rather 
+than an inductive function. As Huygens ob- 
+serves, proof in physics does not have the certi- 
+tude of mathematical demonstration, but it can 
+have an extremely high degree of probability 
+— “very often scarcely less than complete 
+proof” — as a result of the experimental con- 
+firmation of a conclusion deduced from the 
+assumed principles. This occurs “when things 
+which have been demonstrated by the prin- 
+ciples that have been assumed, correspond per- 
+fectly to the phenomena which experiment 
+has brought under observation, especially when 
+there are a great number of them.” A single 
+crucial experiment, so perfect in construction 
+that all relevant factors have been controlled, 
+makes unnecessary the multiplication of experi- 
+ments to establish the conclusion. 
+
+A third use of experiment is illustrated by 
+Galileo when he measures the velocity of a ball 
+rolling down an inclined plane, in order to de- 
+cide whether a certain mathematical definition 
+of uniformly accelerated motion describes the 
+acceleration “which one meets in nature in the 
+case of falling bodies,” The persons in the 
+dialogue seem to be satisfied with some mathe- 
+matical reasoning which shows that the velocity 
+
+increases with the units of time elapsed rather 
+than with the intervals of space traversed. But 
+when Simplicio asks for an experiment to show 
+that the mathematical conclusion has physical 
+reality, in the sense of describing observable 
+phenomena, Salviati replies that this request 
+“is a very reasonable one, for this is the custom 
+— and properly so — in those sciences where 
+mathematical demonstrations are applied to 
+natural phenomena”, and “where the principles 
+once established by well-chosen experiments 
+become the foundations of the entire super- 
+structure.” Here experiment does not confirm 
+conclusions. It establishes principles, not by 
+inductive generalization but by comparing 
+actual measurements with mathematical ex- 
+pectations. 
+
+Without experiment but not without induc- 
+tions from experience, without measurements 
+but not without recourse to observation, Aris- 
+totle’s Physics — and with it such physical 
+treatises as his works On the Heavens and On 
+Generation and Com//!*bn— represents a phi- 
+losophy of nature. In Aristotle’s meaning of the 
+term ‘science,’ these treatises expound sciences, 
+but they also constitute one part of philosophy, 
+to be distinguished from mathematics and from 
+what Aristotle regards as the first or highest 
+part of philosophy, i.e., the science of meta- 
+physics. 
+
+Aristotle’s tripartite division of the theoretic 
+sciences or speculative philosophy into physics, 
+mathematics, and metaphysics raises a question 
+concerning his numerous biological works, and 
+perhaps also his treatise On the Soul. Are these 
+to be classified as physical sciences or parts of 
+natural philosophy.? The fact that Aristotle 
+distinguishes between the forms and properties 
+of living and non-living matter does not seem 
+to affect the answer. By his criteria of physical 
+inquiry — namely, that it investigates what nei- 
+ther exists nor can be conceived apart from 
+matter and motion, and that it is concerned 
+with every type of change — all these works be- 
+long to the domain of physics. Accordingly 
+even such apparently psychological studies as 
+those dealing with sensation, memory, dreams, 
+justify the title under which they have been 
+traditionally grouped — Parva Naturalia, i.e., 
+short physical treatises. 
+
+368 the great IDEAS 
+
+For all these more specialized considerations 
+of natural phenomena the Physics seems to serve 
+as a general introduction, as well as being in its 
+own right an exposition of the most funda- 
+mental science in the sphere of natural philos- 
+ophy. It tries to define change and to state the 
+principles underlying every type of change. 
+It tries to classify the types of change, separat- 
+ing commg to be and passing away simply (or 
+generation and corruption), from coming to be 
+in a special respect (or change in quality, quan- 
+tity,' and place) which Aristotle usually calls 
+“motion” in distinction from “becoming” or 
+“generation.” It undertakes to analyze the 
+conditions or causes of change or motion, to 
+distinguish what happens by chance from what 
+happens of necessity, to discriminate between 
+natural and unnatural or violent motions, to 
+treat the relation of mover and moved, to deal 
+with the continuity and divisibility of motions, 
+to consider place and time as conditions or 
+aspects of motion, and to ask about the infinity 
+of body and of change, and about the eternity 
+of motion or the whole order of becoming, the 
+natural world of things in motion. 
+
+Aristotle’s physics thus seems to stand in 
+sharp contrast to the physics of the experi- 
+mentalists, not merely in method, but in the 
+questions it tries to answer and in the principles 
+to which it appeals. The effort to define change 
+in general and to state the principles and 
+causes operative in every type of change might 
+appear to correspond to the search for formulae 
+of maximum generality to cover all natural 
+phenomena. But where Newton and Fourier 
+hope thereby to reduce nature’s variety to the 
+simplest terms — a few laws of motion compre- 
+hending the whole framework of nature — 
+Aristotle tends on the contrary to insist upon 
+an irreducible variety of types of motion, kinds 
+of matter, and causes of change. 
+
+Furthermore, the principles to which Aris- 
+totle appeals are not mathematical. He criticizes 
+the discussion of becoming which takes place in 
+Plato’s Timaeus, on the ground that it tries to 
+substitute mathematical for physical terms in 
+the analysis of change. “Physical bodies contain 
+surfaces and volumes, lines and points,” he 
+writes, “and these are the subject matter of 
+mathematics”; but the mathematician is not 
+concerned with these things as the attributes of 
+
+physical bodies, but only as separated, in 
+thought at least, from matter "and motion. 
+There are sciences which represent mixtures of 
+mathematics and physics, such as optics and 
+harmonics; but the existence of these mixed 
+sciences— the equivalent of what is later called 
+“mathematical physics” — seems to Aristotle to 
+imply rather than deny the separation of purely 
+physical science from pure mathematics. 
+
+Where Newton (who<can be taken as the 
+exemplary author of a physics which is at once 
+mathematical and experimental) goes to math- 
+ematics for the principles of natural philosophy, 
+Aristotle seems to think that physics has its 
+own proper principles. If any deeper under- 
+standing of these principles is sought, it is not 
+to he found in mathematics, but in meta- 
+physics, or what Aristotle calls "the first 
+philosophy.” 
+
+For example, matter, form and privation, 
+are proposed by Aristotle as the basic physical 
+principles. In such terms he is able to state his 
+insight that all change involves a substratum (or 
+that which changes) and contraries (or that from 
+which and that to which the change occurs). 
+But the analysis of matter and form in terms of 
+potentiality and actuality as modes of being, 
+and the consideration of form and privation in 
+temis of being and non-being, belong to meta- 
+physics rather than physics. 
+
+Furthermore, Aristotle as a physicist deals 
+with bodies in motion and with the difference 
+between the generation of bodies and their al- 
+teration, increase and decrease, or change of 
+place. But he leaves to metaphysics — to the 
+books which come after the books on physics— 
+the discussion of physical bodies as substances 
+composite of matter and form, and the distinc- 
+tion of substance and accident which bears on 
+the difference between substantial and acci- 
+dental change (i.e., generation and corruption 
+as opposed to the change in quality, quantity, 
+or place). 
+
+Though for Aristotle physics is as separate 
+from metaphysics as it is from mathematics in 
+subject ''matter, physics depends i upon meta- 
+phy.Sics, as it does not upon mathematics, for 
+the establishment as well as the elucidation of 
+its principles. It is in this sense that metaphysics 
+is logically prior to physics. But there may also 
+be a' sense in which philosophical physics is 
+
+logically prior to experimental natural science. 
+To the extent that the experimentalist employs 
+physical as opposed to mathematical principles, 
+he may have to derive these from a philosophy 
+of nature. Galileo, for example, investigates the 
+properties of natural and violent motions in the 
+Third and Fourth Day. of his ■. Two New 
+Sciences- {i.e., the motions ,of freely falling 
+bodies and of , projectiles). The problem of 
+establishing the reality of this distinction and 
+of defining the natural and . the non-natural 
+types of motion seems to be a' matter of philo- 
+sophical analysis rather than of experimental 
+investigation. : 
+
+' i 
+
+Bacon and Kant appear to agree with Aris- 
+totle about the separation of physics from 
+mathematics. Rational (or pure, as opposed to 
+empirical) physics is, according to Kant, “en- 
+tirely separate from mathematics.” It is not to 
+be confused with “what is commonly called 
+physica generalis, which is mathematics rather 
+than a philosophy of nature.” Criticizing the 
+natural philosophy of the ancients because it is 
+corrupted by logic in the school of Aristotle and 
+by mathematics in the school of Plato, Bacon 
+says that mathematics should “terminate natu- 
+ral philosophy rather than generate or create it. 
+We may hope for better results,” he adds, “from 
+pure and unmixed natural philosophy.” 
+
+Bacon elsewhere observes that “the investi- 
+gation of nature is best conducted when mathe- 
+matics are applied to physics.” He does not 
+deny “the great use of mathematics in physics,” 
+but rather insists that mathematics be regarded 
+as “an appendage or auxiliary” of natural phi- 
+losophy, not its master. He is writing against 
+the mathematicians “who would have their 
+science preside over physics.” 
+
+But to whatever extent Aristotle, Bacon, 
+and Kant are in agreement concerning the re- 
+lation of physics and mathematics, their the- 
+ories of the scope and subject matter of physics 
+seem to be at variance. For Bacon, physics is 
+only one of the theoretic parts of natural phi-' 
+losophy; the other is metaphysics. Both are 
+sciences of nature or the physical world, though 
+one investigates material and efficient, the 
+other formal and final causes. Both studies, 
+moreover, can be conducted experimentally and 
+can yield practical fruits (in mechanics and 
+
+what .Bacon calls “magic”) through the pro- 
+duction of effects by the application of a knowl- 
+edge of causes. • : > , ■ 
+
+For Kant, the whole body of theoretical 
+knowledge which is rational and a priori, not 
+empirical and a posteriori, is ;the metaphysic of 
+nature, ■ of which one part is rational physics, 
+and the other rational psychology. “The meta- 
+physic of corporeal nature,” he writes, “is 
+called physic, ox, because it must contain the 
+principles of an a priori knowledge of nature 
+only, rational physic." Here physics and meta- 
+physics do not have distinct objects as they do 
+for Aristotle; nor does Kant’s conception of 
+physics as purely a priori knowledge of nature 
+seem to agree with Aristotle’s conception of 
+physics as inductive and empirical, if not exper- 
+imental. 
+
+These issues concerning the relation of 
+physics to mathematics and metaphysics have 
+significance for the experimental as well as the 
+philosophical study of nature. If, for example, 
+following the position taken by Hume, meta- 
+physical inquiry is dismissed as incapable of 
+yielding knowledge, and mathematical knowl- 
+edge is restricted to the realm of ideal entities, 
+then natural science, which for Hume consists 
+in experimental reasoning about matters of 
+fact, becomes the only knowledge of reality. 
+Even though Hume looks upon the conclusions 
+of experimental reasoning as at best probable, 
+it remains the case that questions about nature 
+.which cannot be answered by physics cannot 
+be answered scientifically. 
+
+The effect is the same as that achieved by 
+Hobbes, who makes physics the primary science 
+of reality on the ground that nothing exists 
+except bodies in motion. The assertion of the 
+primacy of physics, in short, may be due either 
+to the denial that immaterial objects can be 
+known by us, or to the denial that such objects 
+have any real existence. Of quite opposite 
+tenor is the view that only immaterial and 
+eternal things can be scientifically known, and 
+that the sensible world of things which come to 
+be, pass away, and are forever undergoing 
+change, belongs to the realm of probability 
+and opinion, not knowledge. 
+
+For Plato, mathematics and dialectic can be, 
+respectively, science and wisdom because they 
+study the intelligible reality of being in its im- 
+
+370 THE GREAT IDEAS 
+
+mutable forms. But the physicists who try to 
+give an account of becoming in all its changing 
+sensible appearances can do no better than 
+“adduce probabilities as likely as any others.” 
+On such matters, Timaeus says, “vve ought to 
+accept a tale which is probable and inquire no 
+further.” After discoursing at length of physi- 
+cal matters, Timaeus apologizes for the merely 
+conjectural character of his account of natural 
+phenomena, saying that “a man may some- 
+times set aside meditations about eternal things, 
+and for recreation turn to consider the truths 
+of becoming which are probable only; he will 
+thus gain a pleasure not to be repented of, and 
+secure for himselfa wise and moderate pastime.” 
+
+This view goes further than Hume’s in de- 
+preciating physics by contrasting its probabil- 
+
+ity with the certitude of mathematics. It praises 
+mathematics and dialectic, as Hume’s theory 
+does not, for something more than their certi- 
+tude— for their being knowledge of reality 
+rather than of appearances. 
+
+Furthermore, Hume, unlike Plato, does not 
+think the probability of physics detracts from 
+its utility, the sort of utility which Bacon mag- 
+nifies more eloquently than Hume— the inven- 
+tion of machines and the technical applications 
+of physics whereby man extends his dominion 
+over nature. In the traditional discussion of the 
+dignity and value of physics, Plato and Bacon 
+seem to represent attitudes as far apart as are 
+the theories of Aristotle and Newton in the 
+discussion of the subject matter and method 
+of physics.
+
+
+OUTLINE OF TOPICS 
+
+1. Physics as the general theory of becoming and the order of nature or change; philo- 
+
+sophical physics, the philosophy of nature, pure or rational physics 371 
+
+la. The relation of the philosophy of nature to metaphysics and dialectic 
+
+r^. The relation of the philosophy of nature to mathematics; mathematical method 
+
+and mathematical principles in natural philosophy 372 
+
+2. Experimental physics and the empirical natural sciences; the relation of experimental 
+
+and philosophical physics 
+
+3a. The derivation of definitions, distinctions, and principles from the philosophy 
+of nature; the metaphysics of the scientist 
+
+2b. The treatment of causes in philosophical and empirical physics; description and 
+
+explanation, theory and prediction 373 
+
+3. The role of mathematics in the natural sciences; observation and measurement in 
+
+relation to mathematical formulations 
+
+4. The experimental method in the study of nature 374 
+
+477. The distinction between simple observation and experimentation; the art of 
+creating ideal or isolated physical systems 
+
+Experimental discovery; inductive generalization from experiment; the role of 
+theory or hypothesis in experimentation 
+
+4c. Experimental testing and verification; the crucial experiment 
+
+4(f. Experimental measurement; the application of mathematical formulae 375 
+
+5. The utility of physics; the invention of machines; the techniques of engineering; the 
+
+mastery of nature 
+
+i> ^ ‘ 
+
+. KEFERENCES 
+
+To find the passages cited; use 'the numbers in heavy type, which are the volume and page 
+numbers of the passages referred to. For example, in 4 Homer: Iliad, bk ii [265-283] 12d, the 
+number 4 is the number of the volume -in the set; the number 12d indicates that the pas- 
+sage is in section d of page 12. , ' , 
+
+Page Sections: When the text is printed in one column, the letters a and b refer to the 
+upper and lower halvesofthepage-For example, in S3 Psychology, I16a-119b, the passage 
+
+begins in the upper half of page 116 and ends in the lower half of page 119. When the text is 
+printed in two columns, the letters a and b refer to the upper and lower halves of the left- 
+handsideof thepage, the letters c and d to the upper and lower halves of the right-hand side of 
+the page. For example, in 7 Plato: Symposium, 163b-164c, the passage begins m the lower half 
+of the left-hand side of page 163 and ends in the upper half of the right-hand side of page 164. 
+
+Author’s Divisions: One or more of the main divisions of a work (such as part, bk, ch, 
+sect) are sometimes included in the reference; line numbers, in brackets, are given in cer- 
+tain cases; e.g., Iliad, bk ii (265-283] I2d. ’ 
+
+' I 
+
+Bible
+
+
+REFERENCES
+
+References: The references are to book, chapter, and verse. When the King James 
+and Douay versions differ in title of books or in the numbering of chapters or verses, the King 
+James version is cited first and the Douay, indicated by a (D), follows; e.g.. Old Testa- 
+ment: Nehemiah, 7:45 — (D) II Esdras, 7:46. 
+
+Symbols: The abbreviation “esp" calls the reader’s attention to one or more especially 
+relevant parts of a whole reference; “passim” signifies that the topic is discussed intermit- 
+tently rather chan continuously in the works or passage cited. 
+
+For additional information 'concerning the style of the references, see the E.xplanation of 
+Reference Style; for general guidance in the use of T(ie Great Ideas, consult the Preface, 
+
+1. Physics as the general theory of becoming 
+■and the order of nature or change: 
+philosophical physics, the philosophy'of 
+nature, pure or rational physics 
+
+7 Plato: Republic, bk vn, 3gib-398c / Timaeus, 
+447a-477a,c 
+
+8 Aristotle: Physics, bk i, ch i 259a-b; ch 2 
+
+’ (i84>'25-i85'’i 9J 259c-260a; ch 9 fr92‘‘33-*’2j 
+
+268c-d; bk n, cH 2 270a'27ia; ch 7-9 275b- 
+278a,c; bk hi, ch i [20o'’i 2-24] 278a; ch 5 
+[204“34-*’3] 282b'c; bk iv, ch i [2o 8'‘27-33] 
+' 287a; bk viii, ch 3 1253“32-’’6] 337c / Heavens, 
+BK I, CH I [268’*i- 7] 3S9a; ch 5 [27i*’i-i8j 
+"362c-d; bk hi, ch i [zgS^ij-jo] 390a-b: ch 7 
+[3o6“i-i 8] 397b'C / Metaphysics, bk 1, ch 9 
+[992’'29-*’9] 510c-d; bk ii, ch 3 Ipps^iS-ao] 
+S13d; BK VI, ch I 547b,d-548c; bk vii, ch ii 
+[io37'‘io-i8rS60d; bk xi, ch 3 [io6i“29-’’i2j 
+589c-d; ch 4 589d-S90a; ch 7 S92b-593a / 
+Soul, BK I, CH I [403''25-'‘i9l 632b-d / Sense 
+and the Sensible, ch i [436‘'i 6-*’2] 673b / 
+Youth, Life, and Breathing, ch 27 [48o*’2i-3il 
+726d 
+
+'9 Aristotle; Parts of Animals,'' VR i, ch i 
+leia-ieSd esp [639'’32-64o'’io] 162a-b 
+16 Ptolemy; Almagest, bk i, Sa-6a 
+18 Augustine: City of God, bk viii, ch 2 265b- 
+
+266a; ch 4 266d - 267c ; ch 5-6, 268b-269c; 
+Bk XI, CH 25 336b-d 
+
+19 Aquinas: Summa Theologica, part i, q i, a i, 
+REP 2 3b-4a 
+
+23 Hobbes: Leviathan, part i, 7Ic-d; 72a-d; 
+Part iv, 271d 
+
+30 Bacon: Advancement of Learning, 33b - 34b ; 
+40a-c; 42c-43d 
+
+31 Descartes; Rules, xiv, 31c-d / Discourse, 
+PART VI, 61b-62c / Meditations, i, 76c / 
+Objections and Replies, 215a-b; 285b-d 
+
+35 Locke: Human Understanding, bk iv, ch xxi, 
+SECT 1-2 394d; sect 5 395c 
+35 Berkeley: Human Knowledge, sect 101-117 
+432c-436b 
+
+42 Kant: Pure Reason, 5a-13d esp 5d-6c; 18d- 
+I9a / Fund. Prin. Metaphysic of Morals, 
+253a-d; 271a-c / Judgement, 578a-b 
+53 James: Psychology, 882a-8S6a; 889a-890a 
+
+la . The relation of the philosophy of nature to 
+metaphysics and dialectic 
+
+7 Plato; Phaedo, 240d-242b / Republic, bk vi, 
+385c-388a; bk vii, 391b-398c 
+
+8 Aristotle: Physics, bk i, ch 2 [iS4'’2 5-185® 
+
+19] 259c-260a; ch 9 268c-d; bk ii, 
+
+Ch 2 [r94*’8-i5] 271a; ch 7 [tgS^zz-gi] 27Sb-c; 
+BK HI, ch 5 [204®34-’’3] 282b-c; bk vjh, ch i 
+
+THE GREAT IDEAS \b to la 
+
+51 Tolstoy: War and Peace, epilogue ii, 695 b-c 
+
+(1. Physics as the general theory of becoming and 
+the order of nature or change: philosophical 
+physics, the philosophy of nature, pure or 
+rational physics, la. The relation of the 
+philosopl:y of nature to metaphysics and 
+dialectic^) 
+
+[25o’’ii-25i’'8] 334a-c / Heavens, bk ni, ch i 
+[298’’i3-3o] 390a-b / Metaphysics, bk i, ch 8 
+[989’'2i-9go“8] 507d-508a; bk ii, ch 3 [995“ 
+15-20] 513d; BK VI, CH I 547b,d-548c; bk 
+VII, CH II [io37“io-i8] 560d; bk xi, ch 3 
+[io6i“29-'’i2l 589c-d; ch 4 '589d-590a: ch 7 
+592b-S93a; bk xii, ch i [io69''30-**2] 598b-c 
+/ Soul, bk I, CH I i403“25-*’i9] 632b-d 
+
+16 PTOLENry: Almagest, bk i, Sa-6a 
+
+19 Aquinas ; Summa Theologica, part i, q 85, 
+A I, REP 2 451c-453c 
+
+23 Hobbes; Leviathan, part i, 72a-d 
+
+30 Bacon: Advancement of Learning, 33b-34b; 
+42c-43d / Novum Organum, bk ii, aph i 
+137a; aph 9 140b-c 
+
+42 Kant: Pure Reason, 17d-19a / Fund. Prin. 
+Metaphystc of Morals, 2S3a-d / Practical 
+Reason, 351b-352c / judgement, 561c-S62a,c; 
+578a-b 
+
+51 Tolstoy: War and Peace, epilogue ii, 693d- 
+694d 
+
+S3 James: Psychology, 862a-866a; 884b-886a esp 
+886a 
+
+lb. The relation of the philosophy of nature to 
+mathematics: mathematical method and 
+mathematical principles in natural phi- 
+losophy 
+
+7 Plato: Republic, bk vii, 391b-398c / Timaetis, 
+449b-450b; 453b'454a; 4S8a-460b 
+
+8 Aristotle: Physics, bk ii, ch 2 270a-271a; 
+CH 9 [2oo''i5-29] 277c-d / Heavens, bk hi, 
+ch I [299“i-3oo“i9] 390b-391c / Metaphysics, 
+bk I, ch 9 [992‘'29-'’9] 510c-d; bk ii, ch 3 
+513c-d; BK VI, CH i S47b,d'548c; bk xi, ch 3 
+[io6i“29]-ch 4 [io6i*’33] 589c-590a; ch 7 
+S92b-593a; bk xii, ch 8 [io73*’i-i7] 603d- 
+604a; bk xiii, ch 3 609a-610a / Soul, bk i, 
+CH I [403'’io-ig] 632d 
+
+9 Aristotle: Parts of Animals, bk i, ch i [639*’ 
+6-12] 161c-d 
+
+11 Nicomachus; Arithmetic, bk i, 812b-d; 813d- 
+814a 
+
+19 Aquinas; Summa Theologica, part i, q i, a i, 
+REP 2 3b-4a; q 7, a 3, ans 32c-33c 
+
+23 Hobbes: Levtathan, part i, 72a-d; part iv, 
+268c-d 
+
+28 Galileo: Two New Sciences, first day, 
+133b; third day, 236d-237a; fourth day, 
+252a-b 
+
+31 Descartes: Rules, iv, 7a-c; xiv, 31c-d / 
+Objections and Replies, 169c-170a 
+
+34 Newton; Principles, la-2a; bk hi, 269a 
+
+42 Kant: Pure Reason, 5a-13d; 17d-19a; 211c- 
+218d 
+
+53 James: Psychology, 882a-883a 
+
+2. Experiniental physics and the empirical nat- 
+ural sciences: the relation of experi- 
+mental and philosophical physics, 
+
+7 Plato: Republic, bk vii, 391b-398c 
+
+8 Aristotle; Heavens, bk ii, ch 13 [293‘'i5-3i] 
+384d; bk III, CH 7 i3o6“3-i8] 397b'C / Gen- 
+eration and Corruption, bk i, ch 2 [516^5-1^] 
+411c-d 
+
+9 Aristotle: Parts of Animals, bk i, ch i 161a- 
+165d esp [639’'32-640 “io] 162a-b 
+
+28 Gilbert: Loadstone, pref, la-b; bk ii, 27b-c 
+
+28 Galileo: Two New Sciences, third day, 
+202d-203a: 214d 
+
+30 Bacon: Advancement of Learning, 16a-b; 30d- 
+
+31a; 33b-34b; 42a-43d; 46c-47c / Novum 
+Organum, pref 105a-106d; bk i, aph 15 
+108a; aph 51 111c; aph 54 lllc-d; aph 63-64 
+113d-114b; aph 66 114d-115c; aph So 120a-b; 
+APH 95- 126b-c; aph 107 128cJ aph 109 128d- 
+129c; BK II, APH i-io 137a-140d esp aph i 
+137a, APH 9 140b-c ! 
+
+31 Descartes: Discourse, part vi, 61d'62c 
+
+34 Newton: Principles, la-2a; bk hi, 269a; 
+RULE iii-iv 270b-271b; general schol, 
+371b-372a / Optics, bk hi, S42a-543b 
+
+35 Locke: Human Understanding, bk iv, ch hi, 
+sect 24-29 320c-323a esp sect 26 321b-c; 
+ch VI, SECT 13 33Sc-d; ch xii, sect 9-13 
+360d-362d passim, esp sect 10 361b-c 
+
+35 Berkeley: Human Knowledge, sect 59 424b 
+
+35 Hume: Human Understanding, sect iv, div 
+23-27 459a-460d esp div 26 460b-c; sect xii, 
+DIV 131-132 508d-509d ,, 
+
+39 Smith: Wealth of Nations, bk v, 336b-c 
+
+41 Gibbon: Decline and Pall, 299a 
+
+42 Kant: Pure Reason, 5a-13d esp 5c-6c; 17d- 
+19a / Fund. Prin. Metaphysic of Morals, 
+253a-d / Intro. Metaphysic of Morals, 387a-b 
+/ Judgement, 561c-S62a,c; S78a-b 
+
+45 Lavoisier : Elements of Chemistry, pref, lc-2d 
+
+,49 Darwin: Origin of Species, 239c 
+
+50 Marx: Capital, 6c 
+
+53 James: Psychology, xiiib-xiva; 883b 
+
+54 Freud: Narcissism, 400d-401a / General Intro- 
+duction, 54Sc-d / Inhibitions, Symptoms, and 
+Anxiety, 722a-b / New Introductory Lectures, 
+873d-87Sa esp 874d-875a 
+
+2a. The derivation of definitions, distinctions, 
+and principles from the philosophy of 
+nature: the metaphysics 6f the scientist 
+
+8 Aristotle: Heavens, bk hi, ch 7 [3o6“3-i8] 
+
+, 397b-c / Sense and the Sensible, ch i [ 436“ 
+j6-‘’i7] 673b-c / Youth, Life, and Breathing, 
+ch 27 [48 o'’ 2 i- 3 o] 726d 
+
+10 Hippocrates : Ancient Medicine, par 1-2 
+la-d 
+
+28 Gilbert: Loadstone, bk v, 104b-105d; bk vi, 
+„ 109a-b 
+
+2 b to 3 Chapter 67: 
+
+28 Gaeti-eo: Two New Sciences, first day, 
+
+• ' 135b-136b; third day, 197a-b; 200a-c 
+: : 33 Pascal; Vacuum, 366a-368b 
+34 Newton: Principles, bk hi, rule i-hi 270a- 
+271a; general schol, 369b-372a / Optics, 
+
+BK I, 409b: bktii, S40a;'S41b-542a 
+34 Huygens: Light, ch i, S53b'S54a 
+- 35 Berkeley: Human Knowledge, sect 102 
+432d-433a , ; ■ 
+
+42 Kant: Intro. Metaphysic of Morals, 387a'b 
+. 45 Lavoisier: Elements of Chemistry, part i, 
+36b; 4Ib-c 
+
+45 Fovmek: Theory of Heat, 1723. '■ 
+
+45 Faraday: Researches in Electricity, 582b-584a; 
+S95a; 67Qa; 673d; 824a-b; 837b-c: 839b-c 
+
+53 Psychology, viib-viiia; 69b-70a; 84a- 
+' H9b esp 89b-90a, 9Sa;:882a-886a; 889a-890a 
+
+54 Freud; Narcissism, 400c-401d / Instincts, 
+412a-b 
+
+2b. The treatment of causes in philosophical 
+and empirical physics: description and 
+explanation, theory and prediction 
+
+7 Plato: Phaedo, 240d-246c / Republic, bk 
+vi-VH, 383d-398c / Timaeus, 455a'b 
+
+8 Aristotle: Posterior Analytics 97a-137a,c 
+passim, esp bk i, ch 13 107c-108c, bk ii, ch 
+1-2 122b,d-123c, CH 9 128a'b, ch ii 128d- 
+129d, CH 16-18 134b-136a / Physics, bk ii, 
+
+CH 3 [i94'’i 6-23] 271a-b; ch 7-9 275b-278a,c; 
+
+BK IV, ch 4 [ 2 ti» 6 -ii] 290a / Metaphysics, bk 
+I, ch I [ 98 1 * 24 - 982 “! 1 499c-500b; ch 2 [ 982 * 
+28 - 30 ] SOOc; bk III, ch 2 [996“i8-‘’26] S14d- 
+515b; BK VI, ch i [io 25 *’t-i 8 ] S47b,d; bk vii, 
+
+CH 17 [i 04 i“io-*’ii] 565b-d; bk viii, ch 4 
+[io 44 ® 33 -'’ 2 o] 569a-b; bk xi, ch 7 [io 63 *’ 36 - 
+1064 * 9 ] 592b 
+
+9 Aristotle: Parts of Animals, bk i, ch i 
+
+[639*’io-642'’4] 161d-16Sd esp [ 642 * 1 - 30 ] 
+
+165a-c / Gait of Animals, ch i 243a'b / Gen- 
+eration of Animals, bk i, ch i [ 715 * 1 - 18 ] 255a- 
+b; bk IV, CH I [765*35-*’5]i 306c; bk v, ch i 
+[778‘>7 -io1 320d 
+
+10 Galen; Natural Faculties, bk i, ch 4 169a 
+' 12 Lucretius; Nature of Things, bk v [ 509 - 533 ] 
+67d'68a; bk vi [ 703 - 711 ] 89c-d 
+16 Copernicus: Revolutions of the Heavenly 
+Spheres, S05a-506a 
+
+16 Kepler: Epitome, bk iv, 959a-960a 
+19 Aquinas; Summa Theologica, part i, q 32, 
+
+A I, REP 2 175d-178a; q 57, a 3, ans 297b- 
+298a; q 86, a 4, ans 463d-464d 
+23 Hobbes: Leviathan, part i, 60a-b; part iv, 
+267a-b 
+
+28 Gilbert; Loadstone, bk i, 6a-7a; bk ii, 
+
+; 27b-c 
+
+28 Galileo: Two New Sciences, third day, 
+202d-203a; fourth day, 252a-b 
+28 Harvey: Circulation of the Blood, 319c / On 
+Animal Generation, 335c-336c; 393b-c; 425a 
+. 30 Bacon: Advancement of Learning, 42a'C; 
+43a-d; 45a-46a; 46c -47c' / Novum Organum, 
+
+PHYSICS 373 
+
+BK I, APH 48 llOd-llla; APH 99 127b-c; bk ii, 
+
+■' - APH 2 137b-c / New Atlantis, 210d ■ ■ 
+
+31 Descartes; Rules,- ix, 15b-d / Discourse, 
+PART VI, 61b-62c; 66 a-b / Meditations, iv, 
+90a-b / Objections and Replies, axiom i 
+131d; 21Sa-b 
+
+31 Spinoza: Ethics, part i, appendix 369b-372d 
+
+34 Newton: Principles, la- 2 a: def viii 7b-8a; 
+BK in, RULE i-ii 270a; general schol, 371b- 
+372a / Optics, bk hi, 542a; 543a-b 
+
+, 34 HoycENS: Light, ch i, 553b-554a 
+
+35 Locke: Human Understanding, bk iv, ch hi, 
+SECT 28-29. 322a-323a 
+
+35 Berkeley: Human Knowledge, sect 32 
+418d-419a; sect 50-53 422c-423a passim; 
+SECT 60-66 424b-426a passim; sect 101-109 
+432c-434b passim 
+
+35 Huaie; Human Understanding, sect i, div 9 
+4S4c-4S5a: sect iv, div 26 460b-c; sect vii, 
+div 57 , 47Sd-476b [£n 2 ]; div 60 , 477a; sect 
+VIII, div 67 480c-481a 
+
+42 Kant: Pure Reason, 46d'47c / Practical Rea- 
+son, 511d-514& / Judgement, 557c-558b; 564a- 
+c; S81a-582c 
+
+45 Lavoisier: Elements of Chemistry, part i, 
+9d-10b 
+
+45 Fourier: Theory of Heat, 169a; 183a-b 
+
+49 Darwin; Origin of Species, 239C'240d 
+
+51 Tolstoy: War and’ Peace, bk ix, 344a-b: 
+BK XI, 470a-c; bk xiii, 563a-b; epilogue 1, 
+650b-c; EPILOGUE ii, 694d-696d 
+
+53 James: Psychology, 69b-70a; S9b-90a: 742a-b: 
+745b; 882a-884b passim, esp 882b-883a, 884b; 
+885a'886a 
+
+54 Freud: General Introduction, 454b-c; 484a 
+
+3 , The role of mathematics in the natural 
+sciences; observation and measurement 
+in relation to mathematical formulations 
+8 Aristotle: Posterior Analytics, bk i, ch 9 
+[76*3-25] 104b-d; CH 13 [78*'3i-79*i6] lOSb-c 
+/ Physics, BK II, CH 2 [194*7-11] 270b'C; bk 
+vii, CH 5 333a'd / Metaphysics, bk xiii, ch 3 
+[1078*5-17] 609b-c 
+
+9' Aristotle: Gait of Animals, ch 9 247a-248a 
+
+11 Archimedes: Eqttilibrium of Planes S02a- 
+519b / Floating Bodies S38a-560b / Method 
+569a-S92a 
+
+14 Plutarch: Marcellus, 252a-2SSa 
+
+16 Kepler: Epitome, bk v, 964b-96Sa 
+
+18 Augustine: Confessions, bk v, par 3-6 27c- 
+28c / Christian Doctrine, bk ii, ch 29 , 6 Slb-c 
+
+19 Aquinas: Summa- Theologica, part i, q 32, 
+A I, REP 2 17Sd-178a; part i-h, q 35, a 8, 
+ANS 779c-780c 
+
+20 Aquinas: Summa Theologica, part ii-ii, q 9, 
+A 2 , REP 3 424b-42Sa 
+
+23 Hobbes; Leviathan, parti, 72a-d: 73b; part 
+IV, 268c-d 
+
+28 Galileo: Two New Sciences, first, day, 
+131b-132a;' 133b; fourth day, 24Sb-d; 
+2S2a-b 
+
+THE GREAT IDEAS 4 lo 4c 
+
+(3. Tie role of mathematics in the natural sci- 
+ettces; observation and measurement in^re- 
+lation to mathematical formulations.) 
+
+30 Bacon: Advancement of Learning, 46b c / 
+Novum Oiganum, bk i, apii 109, 129b; bk n, 
+APH 8 140b; APH 39, 170b-c 
+
+31 Descartes: Rules, iv, 7a-c; xiv, 31c-d / 
+Discourse, part i, 43b-c; part hi, SOd / 
+Objections and Replies, 169c-170a 
+
+34 Newton: Principles, la-2a; def >viii 7b 8a; 
+BK I, PROP 69, scHOL, 131a; BK III, 269a 
+
+34 Huygens: Light, pref, S51b-552a 
+
+35 Hume: Human Undei standing, sect iv, DIV27 
+460c-d 
+
+36 Swift: Gulliver, part hi, 94b-103a 
+
+41 Gibbon: Decline and Fall, 299b-c 
+
+42 Kant: Judgement, 551a-552a 
+
+45 Lavoisier: Elements of Chemistry, part i, 
+14a-c; 33b-36a; 41a-44d; part hi, 96b'103b 
+45 Fourier: Theory of Heat, 169a-b; 172a'173b; 
+
+175b; 177a; l82b-184a; 249a-b 
+45 Faraday: Researches in Electricity, 831b-c 
+
+50 Marx: Capital, 170a-c 
+
+51 Tolstoy: War and Peace, bk xi, 469a-d 
+
+53 James: Psychology, 126a-b; 348a-359a esp 
+351a-3S4a; 67Sb; 876a-b; 882a-884b 
+
+4. The experimental method in the study of 
+nature 
+
+4a. The distinction between simple observa- 
+tion and experimentation: the art of cre- 
+ating ideal or isolated physical systems 
+28 Galileo: Two New Sciences, first day, 
+148d-149c; 166d-167b 
+28 Harvey: Circulation of the Blood, 320b 
+50 Marx: Capital, 6c 
+
+53 James: Psychology, 126a-127b 
+
+54 Freud: New Introductory Lectures, 815a'C 
+
+4b. Experimental discovery: inductive generali- 
+zation from experiment; the role of 
+theory or hypothesis in experimentation 
+10 Hippocrates : Ancient Medicine, par 1-8 la-3b 
+28 Gilbert: Loadstone, pref, la-b; bk i,. 6a- 
+7a; BK II, 27c-28a 
+
+28 Galileo: Two New Sciences, first day, 
+131a-13Sb; 157b-171b passim; third day, 
+203d-205b; 207d-208a 
+
+28 Harvey: Motion of the Heart, 273c-d; 280c-d; 
+28Sc-d / On Animal Geneiation, 331b-333d; 
+336b-d; 383d; 4Slb-c ' ■ 
+
+30 Bacon: Advancement of Learning, 16a; 30d- 
+31a; 34b; 42a'c; 56c-59c / Novum Organum, 
+pr^f-bk 1 10Sa-136a,c esp bk i, aph 64 114b, 
+APH 70 116b-117a, APH 82 120d-121b, aph 
+99-100 127b-c; bk h, aph 11-14 140d-148d; 
+APH 36 164a-168d 
+
+31 Descartes: Discourse, part vi, 61d-62c 
+
+33 Pascal: Vacuum, 359a-365b /« Equilibrium 
+of Liquids 390a-403a passim 
+
+- 34 Newton: Principles, bk hi, 'rule hi-iv 270b- 
+271b;<GENERAL SCHOL, 371b-372a'/ Optics, 
+BK 1, 379a; 386b-404b; 424a-440a; 4S0a 4S3a; 
+' BK H, 457a-478b; bk ii-hi, 496a-S16a; bk hi, 
+543a-b 
+
+34 Huygens: Light, pref, 551b-552a 
+
+35 Locke; Human Understanding, bk hi, ch vi, 
+SECT 46-47 281d-282b; bk iv, ch xh, sect 
+9-13 360d-362d passim 
+
+42 Kant: IntrO.'Metaphysic of Morals, 387a-b 
+45 Lavoisier: Elements of Chemistry, pref, 2a-b; 
+PART I, 10d-12d; 17a-20d esp 17a; 22d-24a; 
+29d-33b 
+
+'45 Fourier: Theory of Heat, 172a; 17Sb; 184a 
+45 Faraday: Researches in Electricity, 26Sa-273a 
+esp 272c-273a; 277a-300a; 319b,d-330d; 
+347a 35Ic; 362d-366c; 371d-377d; 440b,d; 
+607a,c; 6S9a; 774d-775a; S51a-c 
+49 Darwin: Origin of Species, 136b-139a passim 
+53 James: Psychology, 126a-l27a; 265a-268a; 
+341a-344b; 348a-357b passim; 385a-b 
+
+4c. Experimental testing and verification: the 
+crucial experiment 
+
+10 Galen: Natural Faculties, bk i, ch 13 173d- 
+177a; bk hi, ch 2 199d-200a; ch 4 201b-202c; 
+ch 8 20Sa-207b 
+
+21 Dante: Divine'Comedy, paradise, li [46-105] 
+108b-d 
+
+28 Galileo: Two New Sciences, first day, 
+148c-149c; 166d-]68a; third day, 200a-b; 
+202d-203a; 203d-205b; 207d-208c 
+28 Harvey: Motion of the Heart, 268d-273c esp 
+268d, 273c; 286b-304a,c esp 286b-c, 295d- 
+296a / Circulation of the Blood, 311c-312c; 
+324c-d 
+
+30 Bacon: Novum Organum, bk h, aph 36 
+164a-168d 
+
+31 Descartes: ' DiVcoHrre, part vi, 61c-62c; 
+66a-b 
+
+33 Pascal: Vacuum, 368b-370a / Great Experi- 
+ment 382a-389b / Weight of Air, 404a-40Sb; 
+425a-429a 
+
+34 Newton: Principles, laws or motion, schol, 
+19b-22a; bk ii, 'general schol 211b-219a; 
+PROP 40, schol 239a-246b / Optics, bk i, 
+392a-396b; 408a-4l0b; 412a-416b; 453a- 
+455a; bk hi, 543a-b 
+
+34 Huygens; irg/if, pref, 551b-552a 
+
+35 Locke: Human Understanding, bk iv, ch 
+XII, SECT 13 362c-d 
+
+45 Lavoisier: Elements of Chemistry, pref, 2a-b; 
+
+PARTT,a7a-b; 32a-33a 
+45 Fourier: Theory of Heat, 181b; lS4a 
+45 Faraday: Researches in Electricity, 300b-316a; 
+334b-335c; 377d-3S3a; 385b-c; 388c-389d; 
+440b,d; 467a-b; 830b-832c i 
+
+49 Darwin: Origin of Species, 12b c; 149d-150a 
+' 53 James: Psychology, 865a; S82a-S84b ' 
+
+54 Freud: Interpretation of Dreams, 291d-292a / 
+Narcissism, 401a / New Introductory Lectures, 
+815a-b; 818c-819b 
+
+^dto 5 
+
+Ghapter 67 ,: PHYSICS 375 
+
+Ad. Experimental measurement: the application 
+of mathematical formulae . . . ; ^ 
+
+28 Gilhert: Loadstone, bk iv, 85c'89c; bk v, 
+92a-93b'. • ' ■ \ • 
+
+28 Galileo: ..Two AVw Sciences, , tirst day, 
+136d-137c esp 137b-c; 148d-149c: I64a-166c 
+esp 165c-166c; third day, 207d-208c " 
+
+28 Harvey: Motion of the Heart, 286c-288c 
+34 Newton: Principles, laws of motion, schol, 
+20a-22a; sic n, general schol 2Hb'-2I9a; 
+PROP 40, SCHOL 239a-246b 
+4S Lavoisier: .E/cwe/i/t o/" Chemistry^ part i,’ 
+
+. -Ma-c; 17a-20b: 22d-24a; 30a-32d; 33b-36a; 
+PART in, 87d-90a! 91a-9Sa; 96b-103b , . , 
+
+; 45 Fourier: Theory of Heat, 175b; 184b:185b > 
+45 Faraday: Researches in Electricity, 277d-279a: 
+316b-3I8c';,/366d-371d; 444a-45Ia; 46Sd- 
+467a, c; 768d-773d; 778b,d-793c 
+S3 James: Psychology, 56a-66a esp 61b-64a; 
+126a; 26Sa'268b; 341a-.344b; 348a-359a . 
+
+5. The utility of physics: the invention of ma« 
+chines; the techniques of engineering; 
+the mastery of nature ‘ 
+
+14 Plutarch: Marcellus, 2S2a-2SSa 
+28 Gilbert; Loadstone, bk hi, 7Sa-b; bk iv, 
+85c-89c; bk v, lOOc-lOld 
+
+28 Galileo: Two New Sciences, first day, 
+leOd-ieia; second day, 191b-193b 
+
+30 Bacon:’ Advancement of Learning, 34b / 
+Novum Organum, bk i, aph 81 120b-c: aph 
+
+■ ''I3'4 133c-d; APH ,129 134d'I3Sd; bk h, aph 
+
+' .39,' 170b-c; .APH, 44-51 I7Sd-194c / New At- 
+lantis, 210d'214d 
+
+31 Descartes; Discourse, part vi 60d-67a,c 
+
+' esp61b-c' 
+
+33 Pascal: Equilibrium of Liquids, 392b-393a 
+
+34 Newton; Optics, bk i, 412a-423b 
+
+3'5 Locke: Human Understanding, bk iv, ch 
+XH, SECT 11-12 361c-362c 
+
+36 Swift; Gulliver, part hi, 99b-I12a 
+
+39 Smith: Wealth of Nations, bk i, Sd-6a 
+
+40 Gibbon; Decline and Fall, 661c-663c 
+
+41 Gibbon: Decline and Fall, 291d-292c; SOOd- 
+5l0a,c 
+
+45 Lavoisier: Elements of Chemistry, part i, 
+26c-27a; 41a-44d; 45C'd 
+
+45 Fourier; Theory of Heat, 170a-I72a; IS4a; 
+213 b 
+
+45 Faraday: Researchesin Electricity, 390b; 433a- 
+440a, c 
+
+50 Marx: Capital, 170a-c: 180d-188c; 239c-d 
+
+50 Marx-Engels: Communist Manifesto, 421d 
+
+54 Freud; Civilization and Its Discontents, 777a; 
+778b-779a
+
+
+CROSS-REFERENCES 
+
+For: The general discussion of the distinction between philosophy and science, relevant to the 
+difference between a philosophical and an experimental physics, see Knowledge 60(4); 
+Philosophy ic; Science ic. 
+
+The relation of physics as a philosophy of nature to mathematics and to metaphysics, 
+see Mathematics la; Matter 4b; Metaphysics 3b; Nature 4b; Philosophy 2b; 
+Science 13(2). 
+
+The relation of mathematics to experimental physics, and for the nature of mathematical 
+physics, see Astronomy 2c; Mathematics 5b; Mechanics 3; Science 5c. 
+
+Other discussions relevant to the treatment of causes in philosophical and scientific physics, 
+see Astronomy 3a-'3b; Cause 5b; Science 4c; and for other treatments of problems or 
+concepts fundamental to physics, see Chance la-ib; Change 2-2b, 5a-5b, 6a-6b, ya-yd; 
+Element 3-3d, 5; Infinity 3d-3e, 4a-4b;. Matter i-ib, 2a~2b; Mechanics la-ic, 6a- 
+6e; Nature 3a-3c(3); Quantity 53-50; Space i-2c, 3b; Time i. 
+
+The logic of the experimental method in the study of nature, see Induction 5; Logic 4b; 
+Mechanics 2a; Reasoning 6c; and for the theory of experimentation and the use of 
+hypotheses and measurements, see Astronomy 2a-2b; Experience 53-50; Hypothesis 
+4-4d; Mathematics 5a; Mechanics 2b, 3a; Quantity 6-6c; Science 53-56, 5d-5e. 
+
+Other considerations of the utility of pEysics or natural science generally, see Knowledge 
+8a; Science ib(i). . , . 
+
+The various branches of physics, such as astronomy, statics, dynamics, optics, acoustics, 
+
+' hydrodynamics, magnetism, and electricity, see Astronomy Sa-pf; Mechanics ib, 5a- 
+5f(2), 6a-6e, ya, yb-yc, yd, ye. 
+
+Discussions relevant Eo the distinction 'between physics and biology or psychology, see 
+Animal 4a; Change 6c-6d, pa-pb, loa-iob; Life and Death 2; Mechanics 46-40; Mind 
+2e; and for the treatment of one aspect of psychophysics, see Sense 30(2).

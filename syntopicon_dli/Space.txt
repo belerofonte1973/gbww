@@ -1,0 +1,1683 @@
+CHAPTER: Space
+
+INTRODUCTION
+
+INTRODUCTION 
+
+O N the level of our everyday observations, 
+space and time seem to be the obvious, 
+the common, and the connected properties of 
+physical things. We distinguish things from one 
+another by their position in space, as we mark 
+happenings by the date of their occurrence. 
+The where and when of a thing is often used to 
+identify it, for it is generally agreed that two 
+bodies cannot occupy the same place at the 
+same time, and that at the same time two dis- 
+tinct places cannot be occupied by the same- 
+body. According to a theologian like Aquinas, 
+these limitations of space and time apply even 
+to bodiless things, j.e., to angels. 
+
+“An angel and a body are said to be in a 
+place,” he writes, “in quite a different sense.” 
+Whereas a body is in the place which contains 
+it, “an angel is said to be in a corporeal place by 
+application of the angelic power . . . not as be- 
+ing contained, but as somehow containing it.” 
+It follows, nevertheless, that at a given time an 
+angel “is not everywhere, nor in several places, 
+but in only one place.” Nor does the incorpo- 
+reality of angels permit more than one angel to 
+be at the same time in the same place. Accord- 
+ing to the manner in which an angel is at a 
+place — by the action of his power— “there can 
+be only one angel in one place,” Aquinas de- 
+clares, even as there can be only one body in 
+one place at a time. 
+
+Location or position in space, and spatial re- 
+lationships such as higher and lower, nearer and 
+farther, are so familiar and intelligible that they 
+provide terms of reference whereby men speak 
+metaphorically of the moral hierarchy and spirit- 
+ual distances. The whole of Dante’s Divine Com- 
+edy, for example, involves a spatial metaphor 
+which sets forth the gradations of sin and the 
+degrees of blessedness • in terms of places be- 
+neath the earth and in the heavens above. 
+
+As he mounts from sphere to sphere in Para- 
+
+dise, Dante meets Piccarda Donati in the’Heav- 
+en of the Moon; She explains to him that this 
+place “which appears so far down,” is assigned 
+to those who have violated their vows in some 
+particular. Dante wonders why she and the 
+others do not “desire a more exalted 'place, in 
+order to see more.” Piccarda replies: “Brother, 
+virtue of charity quiets our will, and makes us 
+wish only for that which we have, and quickens 
+not our thirst for aught else. ... So that as we 
+are, from seat to seat throughout this realm, to 
+all the realm is pleasing, as to the King who in- 
+wills us with His will; and His will is our peace.” 
+
+This speech of Piccarda’s makes it clear to 
+Dante “how everywhere in Heaven is Paradise, 
+even if the grace of the Supreme Good does 
+not there rain down in one measure.” These 
+different measures of beatitude in the diffusion 
+of God’s love and light are represented by the 
+celestial spheres from the earth-adjacent moon 
+to the Crystalline Heaven, the outermost 
+bound of the physical universe, of which Dante 
+says that it “has no other Where than in the 
+Divine Mind.” 
+
+When the whole expanse of physical space 
+or the boundary of the universe is considered, 
+Newton no less than Dante conceives the omni- 
+presence and eternity of God as that which 
+somehow encompasses all space and time. God 
+“is not duration or space,” Newton writes at 
+the end of the Principles, “but He endures and 
+is present . . . and by existing always and every- 
+where, He constitutes duration and space.” In 
+the concluding queries of the Optics, Newton 
+appears to think of infinite space as the Divine 
+Sensorium in which all things are at once pres-' 
+ent to God, who “being in all places is more 
+able by His will to move the bodies within His 
+boundless uniform sensorium, and thereby -to 
+form and reform the parts of the Universe, than 
+
+812 THE GREAT IDEAS 
+
+we are by our will to move the parts of our own 
+bodies.” 
+
+The physicist does not have to .turn theolo- 
+gian, however, to be confronted with the' 
+mysteries of space. Even without the mod- 
+ern complication of the relation of its three 
+dimensions to time as a fourth dimension, the • 
+physical concept of space raises difficulties for 
+analysis. , ' 
+
+In the tradition of western thought conflict- 
+ing definitions of space seem to result from a 
+fundamental difference in the object being de- 
+fined — whether it is an inseparable property of 
+bodies, perhaps even identical with unformed 
+matter, or a reality apart from the bodies which 
+move and have their being in it. Sometimes this 
+difference is signified by a difference between 
+the meaning of the word "place” or “exterv- 
+sion” and the meaning of "space.” It appears 
+also to be involved in the contrast between 
+filled space and empty space {i.e., the void or 
+vacuum); and it bears some relation to Aris- 
+totle’s distinction between space and place, 
+and to Newton’s distinction between absolute 
+and relative space. 
+
+The controversial character of space in physi- 
+cal theory may be appreciated in terms of these 
+oppositions in meaning, and the issues which 
+they raise. In addition, physical theory is con- 
+fronted with the problem of action-at-a-dis- 
+tance {i.e., action through a void or through an 
+ethereal medium), the problem of the infinity 
+of space (or the question of a bounded or un- 
+bounded universe), and the distinction be- 
+tween one physical space and the variety of 
+geometrical spaces. 
+
+Space, which at first seems easily apprehended 
+by sense and susceptible to measurement, be- 
+comes upon examination so subtle as to be al- 
+most a vanishing object. Reason finds it diffi- 
+cult to say precisely what spacers in itself, and 
+how it is related to matter and motion. Even 
+the familiar space of ordinary sense-perception 
+seems to have its puzzles. A psychologist like' 
+James is concerned with how the different fields 
+of touch, vision, and hearing coalesce to form 
+the single space of our experience; and in deal- 
+ing with the process by which we learn to per- . 
+ceive the spatial manifold of positions ‘and di- 
+rections, he cannot avoid the issue of innate as 
+opposed to acquired space-perception. ‘ 
+
+Plato’s theory of space is set forth in the 
+Timaeus as part of "the likely story” which 
+Timaeus tells, about the production and con- 
+stitution of the universe. The sensible things 
+which come into being and pass away are, ac- 
+cording to him, patterned after the eternal 
+— forms.-To the eternal patterns and -their copies 
+in the world of change, Timaeus finds it neces- 
+^ sary to add a third factor in order to account 
+for the physical elements and their generation. 
+This factor, he says, is “difficult to exjplain and 
+dimly seen. ... It is the receptacle, and in a 
+manner the nurse, of all generation.” In con- 
+trast to the elements which are perpetually 
+changing into and out of one another, th'e''re- 
+ceptacle “never departs from her own nature, 
+and never in any way assumes a form like that 
+of any of the things which entetdnto het.^, . . 
+The forms which enter into and go out of her 
+are the likenesses of real existences modelled 
+after their patterns in a wonderful and inex- 
+plicable manner.” i 
+
+Timaeus distinguishes the three principles as 
+that which comes to be and passes away in the 
+process of geheration, that in which the genera- 
+tion takes place, and that which the generated 
+thing resembles and which is its source. He’ 
+likens the receptacle or “receiving principle to 
+a mother, the source to a father', and. the inter- 
+mediate nature to a child,” and adds that “if 
+the model is to take every variety of form, then 
+the matter in which the model is fashioned will 
+not be duly prepared, unless itis'formless and 
+free from the impress of any of ^ those shapes 
+which it is hereafter to receive from without. 
+. . . Wherefore, that which is to receive all 
+forms should have no' form. . . . The mother 
+and receptacle of all created, visible, and in any 
+way sensible things, is not to be termed earth, 
+or air, or fire, or water, or any of their'com- 
+pounds, or any of the elements from! which 
+these are derived, but is an invisible and form- 
+less being which receives all things, and in some 
+mysterious way partakes of the intelligible, and 
+is most incomprehensible.” ' / 
+
+This third factor which Timaeus sometimes 
+calls “matter” as well as “receptacle,” he also 
+sometimes calls “space.” When matter land' 
+space are identified with each other under the 
+conception of a receptacle for the foims, they 
+have the characteristics of being' absolutely 
+
+formless and imperceptible to the i senses. .Nor 
+are they; as are the forms; genuinelyiintelligible 
+to reason. “The third nature, which is space, 
+and is eternal,’’ Timaeus says, ‘‘admits not of 
+destruction and provides a home for all created 
+things, and is apprehended without the help, of 
+sense, by a.kind of spurious reason, and is hardly 
+real; which we beholding, as in a dream, say of 
+all existence, that it must, of necessity be in some 
+place and occupy a space, but that which is 
+neither in heaven noron earth has no existence.” 
+
+The precise meaning of this conception of 
+space is difficult to determine. .Does it, -for 
+example, find an echoiin Plotinus’ , statement 
+that ‘[space is, a container, a container of body'; 
+it is thfeihome ofsuchnhings as consist of iso- 
+lated parts”? But he also says that space “in a 
+strict sense is unembodied and is not, itself, 
+body,” and that ‘‘body is not a void,” but 
+rather that ‘Ithe void must be that in which 
+body is placed,” seeming thereby to imply 'that 
+space is. essentially the void. The statement in 
+the Timaeus that “there can be no such thing 
+as . a vacuum,” may ;apply only to . the filled 
+space of the created heaven and earth. May it 
+not also be said that space is a void .when it is 
+identified with the formless matter of the re- 
+ceptacle prior to creation? 
+
+This raises further questions. Is the receptacle 
+space or matter ? And is the conception of space 
+in the Timaeus rightly interpreted by Aquinas, 
+in commenting on Augustine’s reading of “the 
+earth was void and empty” in Genesis 1 : 2 ? 
+Augustine holds that by the word “earth” in 
+this passage formless matter is to be under- 
+stood. Because of its formlessness, Aquinas 
+svrites, "the earth is said to be void and empty, 
+or invisible and shapeless^’ and, he adds, “that is 
+why Plato says matter is place.” 
+
+However these questions are answered, one 
+thing seems to be clear. Space, functioning as 
+receptacle, can be. identified only with matter 
+devoid of form, not with the matter of three- 
+dimensional bodies. The relation of space to 
+matter seems.to.be differently, conceived by 
+Descartes., Space is for him' not an antecedent 
+principle involved in the original production of 
+sensible things, but rather— ras the extension of 
+bodies — it is inseparable in existence from them. 
+It is a property which signifiesThe -essence of 
+
+material substances, as .'thinking signifies -the 
+essence of mind or soul. “By extension,” Des- 
+cartes, writes, .'“we understand whatever has 
+length, breadth, and depth, hot ; inquiring 
+whether it! be a' real body, or, merely space;” 
+Nevertheless, he goes oh to say that “by exten- 
+sion we do not here mean anything distinct 
+and separate from the extended object itself.” 
+
+Descartes considers the significance of three 
+statements: '"extension occupies place, body pos- 
+sesses extension,, and extension is not body.” The 
+first statement, he thinks, 'means no more than 
+'.'that .which is extended occupies place.” The 
+second statement seems to imply that “the mean- 
+ing of CAVenr/on is not identical with thatof^ody; 
+yet,” Descartes insists, “we do not construct two 
+distinct ideas in our imagination, one of body, 
+the other of extension, but merely a single image 
+ofextended'body ; and from the point of the view 
+of the thing it is exactly as if 1 had said: body is 
+extended, or better, the extended is extended.” 
+Finally, in the statement that extension is not 
+body, the word “extension,” according to Des- 
+cartes, expresses a purely abstract conception- 
+nothing which in itself has any sensible reality. 
+So far as its existence is concerned, the thing 
+conceived as extension cannot be separated 
+from body. Those who think othenvise, . Des- 
+cartes asserts, are involved in “the contradic- 
+tion of saying that the same thing is at the same 
+time body and not body.” 
+
+The point is' summarized in his Principles of 
+Philosophy by the statement that “the nature 
+of matter or of body in its universal aspect, does 
+hot consist in being hard, or heavy, or colored 
+. . but solely in the fact that it is a substance 
+extended in length, breadth, and depth.” But, 
+it may . be asked, are the dimensions of a body 
+the same as space? Descartes replies that “the 
+same extension which constitutes the nature of 
+a. body constitutes the nature of space . . , 'not 
+only that which. is full of body, but also of that 
+which is called a vacuum.” 
+
+If there were a vacuum, or empty space, ex- 
+tension might he separated from body. This 
+Descartes flatly denies, “As regards a vacuum 
+in the philosophic sense of the word, i.e., a 
+space in which there is no substance, it is evi- 
+dent that such cannot exist, because the exten- 
+sion of space or internal .place is not different 
+from that of body,” And even ‘‘when we take 
+
+814 THE GREAT IDEAS 
+
+this word vacuum iii.its ordinary sense,” Des- 
+cartes goes on, “we do not mean a place or 
+space in which there is absolutely nothing, but 
+only a place in which there are none of those 
+things which we expected. to find there.” 
+
+These points made in' the Principles confirm 
+the identification of three-dimensional space or 
+extension with body which appears in the Rules. 
+They seem to be further confirmed in the Dis- 
+course by the reference to “a continuous body, 
+or ' a space indefinitely extended in length, 
+height or depth” which is “the object of the 
+geometricians.” Descartes does not, however, 
+neglect the distinction between space as the ex- 
+tension of body, and place as the position one 
+body occupies in relation to another. According 
+to common usage, he says, the word “place” 
+signifies that “in virtue of which a body is said 
+to be here or there.” He objects to those who, 
+like Aristotle, mean by “place” the surround- 
+ing surface of a body. Local motion or change 
+of place is not, he argues, a change in the body’s 
+surrounding surface, but a change in its relative 
+position. 
+
+It is place rather than space which Aristotle 
+seeks to define, and place in the sense of the cir- 
+cumference of a body rather than its position 
+in space. He rejects the notion that place is the 
+extension of a magnitude, for that would, he 
+thinks, identify it with matter. Place belongs to 
+body, not as matter or a property of matter, but 
+as its boundary. It is, Aristotle writes, “the in- 
+nermost motionless boundary ... a kind of sur- 
+face and, as it were, a vessel, i.e., a container of 
+the thing.” This boundary is itself made at the 
+surface of a body by a surrounding body or 
+bodies. “If a body has another body outside it 
+and containing it,” Aristotle writes, “it is in 
+place, and if not, not.” 
+
+The consequences of this conception of place 
+are, first, a denial of space in the sense of void 
+or empty place, since place is always “coinci- 
+dent with the thing” contained or bounded; 
+second, a denial of any infinite place, since that 
+would presuppose an actually infinite body — to 
+Aristode, an impossibility; and third, the con- 
+clusion that the whole universe itsdf does not 
+have a place, for outside the outermost heaven 
+whicli bounds the world, there can be no con- 
+taining body by which the universe is bounded. 
+
+Aristotle explains that by “heaven” he means 
+“the extreme circumference of the whole”— a 
+whole “composed of all natural perceptible 
+body.” The two words which Einstein uses 
+when he discusses “the possibility of a ‘finite’ 
+and yet ‘unbounded’ universe” seem to apply 
+to Aristotle’s conception of the world — finite 
+in body or matter, yet unbounded, i.e., without 
+anything outside itself to determine or define 
+its boundary. 
+
+Aristotle’s view of the world seems to be 
+directly opposed to that of the ancient atomists. 
+For them, the whole of matter is discontinuous, 
+existing in indivisible units or atoms, each of 
+which is a plenum — that is, a unit of matter 
+absolutely continuous without void in it — but 
+between which there is void or empty space. 
+For Aristotle, the material world as a whole is a 
+plenum, i.e., continuous body without void. 
+Hence if by “space” is meant not place but 
+void — a bodyless interval between or within 
+bodies— there is no space. Aristotle considers 
+the arguments of Democritus that without void 
+local motion would be impossible, but he thinks 
+“there is no necessity for there being a void if 
+there is movement.” 
+
+Following Democritus, Lucretius gives an- 
+other reason for positing void or empty space. 
+As the indivisibility of the simple bodies or 
+atoms consists in their absolute solidity— their 
+lack of void — so the divisibility of composite 
+bodies derives from their being constituted by 
+both atoms and void. “Wherever space lies 
+empty, which we call the void,” Lucretius 
+writes, “body is not there; moreover wherever 
+body has its station, there is by no means empty 
+void. Therefore the first bodies are solid and 
+free from void. ... If there were nothing which 
+was empty and void, the whole would be solid; 
+unless . . . there were bodies determined, to fill 
+all the places that they held, the whole universe 
+would be but empty void space.” 
+
+For Aristotle, in contrast, the divisibility of 
+matter seems to depend upon its being contin- 
+uous. On his view, the composite body, consti- 
+tuted by atoms separated from one another by 
+void, is not divisible, but is already actually 
+divided; whereas the very thing which Lucre- 
+tius regards as indivisible because it is contin- 
+uous— the voidless atom— is for Aristotle di- 
+visible. To call an atom divisible is, of course, 
+
+Chapter 89: SPACE.' 
+
+.to deny that it is atomic or, in the language of 
+Lucretius, an uncuttable bit of “solid single- 
+ness.” 
+
+Thus diametrically opposite theories of space 
+and place seem to be connected with opposite 
+theories of matter or body. Space as the empty 
+interval or void between solid bodies goes along 
+with atomism, whereas place as “the boundary 
+of the containing body at which it is in contact 
+with the contained body” goes along with the 
+theory of the world as a material plenum. 
+
+The atomic theory and the plenum theory 
+are opposed in one other fundamental respect 
+concerning space. According to Aristotle, the 
+impossibility of an actually infinite body makes 
+the largest place finite. According to Lucretius, 
+the infinite number of atoms requires an infinite 
+space. Asking whether “the void that we have 
+discovered, or room or space ... is altogether 
+bounded or spreads out limitless and immeasur- 
+ably deep,” Lucretius answers that “the whole 
+universe is bounded in no direction.” His argu- 
+ment seems to be like Aristotle’s for an “un- 
+bounded universe.” Since there can be “nothing 
+outside the whole sum,” he writes, “it lacks 
+therefore bound or limit.” But where Aristotle’s 
+meaning seems to be that the universe has no 
+place, since all places are inside it, Lucretius 
+appears to mean that empty space extends in- 
+finitely in all directions. 
+
+Modern atomists like Newton and Locke 
+hold a theory of space which accords with the 
+view of matter existing in discontinuous units, 
+separated by intervals of emptiness. Newton’s 
+distinction, for example, between absolute and 
+relative space acknowledges a space that is rela- 
+tive to bodies, but also affirms an absolutely 
+independent space, which has being in separa- 
+tion from matter or bodies. “Absolute space, in 
+its own nature, without relation to anything 
+external,” he writes, “remains always similar 
+and immovable. Relative space is some movable 
+dimension or measure of the absolute spaces, 
+which our senses determine by its position to 
+bodies and which is commonly taken for im- 
+movable space.” As for place in distinction 
+from space, Newton holds that it is “a part of 
+space which a body takes up, and is according 
+to the space, either absolute or relative.” In 
+opposing Aristotle’s view, he adds that place is 
+
+“not the situation, nor the external surface of 
+the body. For the places of equal solids are al- 
+ways equal; but their surfaces, by reason of their 
+dissimilar figures, are often unequal.” 
+
+Locke also distinguishes between space and 
+place, the one consisting in “the relation of dis- 
+tance between any two bodies or points,” the 
+other in "the relation of distance betwixt any, 
+thing and any two or more points which are 
+considered as keeping the same distance one 
+with another and, so considered, as at rest.” 
+With this conception of place, he holds in ap- 
+parent agreement with Aristotle that “we can 
+have no idea of the place of the universe, though 
+we can of all the parts of it.” Yet he goes on to 
+say that what lies beyond the universe is “one 
+uniform space or expansion, wherein the mind 
+finds no variety or marks.” 
+
+This seems to indicate that Locke’s idea of 
+space, like that of Lucretius, conceives an in- 
+finite void. “Those who assert the impossibility 
+of space existing without matter must,” he 
+writes, “make body infinite.” Furthermore, 
+“those who dispute for or against a vacuum, do 
+thereby confess that they have distinct ideas of 
+vacuum and plenum, f.e., that they have an idea 
+of extension void of solidity, though they deny 
+its existence, or else they dispute about nothing 
+at ail. For they who so much alter the significa- 
+tion of words, as to call extension, body, and 
+consequently make the whole essence of body 
+to be nothing but pure extension, must talk 
+absurdly whenever they speak of vacuum, since 
+it is impossible for extension to.be without ex- 
+tension: for vacuum, whether we affirm or deny 
+it, signifies space without body, whose very 
+existence no one can deny to be possible who 
+will not make matter infinite, and take from 
+God a power to annihilate any particle of it.” 
+
+Precisely because he thinks no one can affirm 
+an infinite body, and because he conceives space 
+to be a void, distinct from bodies, Locke finds 
+it necessary to affirm the infinity of space. “I 
+would ask,” he says, “whether if God placed a 
+man at the extremity of corporeal beings, he 
+could not stretch his hand beyond his body. If 
+he could, then he would put his arm where there 
+was before space without body.” Furthermore, 
+if “it be impossible for any particle of matter to 
+move but into empty space, the same possi- 
+bility of a body’s moving into a void space, be- 
+
+816 THE GREAT IDEAS 
+
+yond the utmost bounds of body, as well as into 
+a void space interspersed amongst bodies, will 
+always remain clear and evident. . So that, 
+wherever the mind places itself by atiy thought; 
+either amongst or remote from all bodies, it can, 
+in this uniform idea of space, no where find any 
+bounds, any end; and so must necessarily con- 
+clude it . . to be actually infinite.” 
+
+II 
+
+It may seem paradoxical that pure space — 
+space existing without matter — is denied by one 
+who also denies the existence of matter. “When 
+I speak of pure or empty space,” Berkeley 
+writes, “it is not to be supposed that the word 
+‘space’ stands for an idea distinct from or con- 
+ceivable without body or motion.” What is 
+meant, he suggests, is merely that the resistance 
+one body gives to another in motion is absent 
+when space is relatively empty. But this is al- 
+ways relative. “In proportion as the resistance 
+is lesser or greater,” Berkeley says, “the space is 
+more or less pure.” There would be absolutely 
+pure space only if all bodies other than his own 
+were annihilated. “If that, too, were annihi- 
+lated,” Berkeley concludes, “then there could 
+be no motion, and consequently no Space.” 
+
+All these contradictions concerning space en- 
+ter into Kant’s statement of the first cosmologi- 
+cal antinomy, in which the thesis that the 
+world is limited with regard to space and the 
+antithesis that the world is infinite in space 
+seem to be equally susceptible to proof— and so 
+to disproof! Both alternatives violate our em- 
+pirical concepts. 
+
+If space “is infinite and unlimited,” Kant 
+writes, “it is too large for every possible empiri- 
+cal concept. If it is finite and limited, you have 
+a perfect right to ask what determines that 
+limit. Empty space is not an independent cor- 
+relate of things, and cannot be a final condition, 
+still less an empirical condition forming part of 
+possible experience — for how can there be ex- 
+perience of what is absolutely void? But in 
+order to produce an absolute totality in an 
+empirical synthesis, it is always requisite that 
+the unconditioned should be an empirical con- 
+cept. Thus it follows that a limited world would 
+be too small for your concept.” 
+
+Space itself, however, is for Kant "not an 
+empirical concept which has been derived from 
+external experience.” Rather it “is a necessary 
+
+representation a priori forming the verj' foun- 
+dation of all external intuitions” and, as Kant 
+explains in his Prolegomena, it establishes geome- 
+try as an « priori science. “Space is nothing but 
+the form' 'of all phenomena of the external 
+senses; it is the subjective condition of our sen- 
+sibility, without which no external intuition is 
+possible for us. . . . Nothing which is seen in 
+space is a thing by itself,” nor is “space a form 
+of things supposed to belong to them by them- 
+selves.” The external objects which we perceive 
+in space “are nothing but representations of 
+our senses, the form of which is space.” 
+
+So far as the experience of space is concerned, 
+William James seems to take an opposite view. 
+Time and space relations, he says, “are' im- 
+pressed from without” and “stamp copies of 
+themselves within.” To the Kantian theoiy that 
+space is “a quality produced out of the inward 
+resources of the mind, to envelope sensations 
+which, as given originally, are hot spatial,” 
+James replies that he can find “no introspective 
+experience of mentally producing or creating 
+space.” ' 
+
+He proposes two other alternatives: “eith'er 
+(i) there is no spatial quality of sensation at all, 
+and space is a mere symbol of succession; or ( 2 ) 
+there is an extensive quality given immediately in 
+certain particular sensations.” The second seems 
+to James best suited to explain the develop- 
+ment of our perceptions of space, and he does 
+not think it inconsistent with the a priori or 
+non-empirical character of geometry, whose 
+necessary truths refer to ideal objects, not to 
+experienced things in physical space. ' ' 
+
+The chapter on Mathematics considers the’ 
+relation of the postulates of diverse geometries 
+to the diversity' of Euclidean and non-Euclid- 
+6an spaces, such as that of the fiat plane, the 
+surface of a sphere, and the surface of a pseudo- 
+sphere. Just as different parallel postulates 'se- 
+lect different spaces for geometrical construc- 
+tion, so a postulate like Euclid’s concerning the 
+equality of all right angles seems to assume a 
+uniformity of space which permits'geometrical 
+figures to be transposed without alteration. “If 
+translation through space warped or magnified 
+forms,” James remarks,' “then the relations of 
+equality, etc., would always have to be ex- 
+pressed with a position-qualification added.” 
+
+Gh APTER 89;, SPACE 817 
+
+, •' Copfronted with;a variety of,purely..mathe-, 
+maticaj spaces, the physicist is concerned with’ 
+the. problem' ofiwhich geometry is, as. Einstein, 
+says, in ^‘‘Correspondence with a .‘real’, object,’-’: 
+or true of the real world. “According to the 
+general theory of relativity, the geometrical 
+properties of space are not independent/’ bEim i 
+stein writes, “but are determined by matter.” 
+It follows that our assumptions about the dis- 
+tribution, of matter determine the character of 
+the world’s' sjpace. ' • r' 
+
+On the assumption of a world “not inhabited 
+by matter everywhere,” in vvhose infinite space 
+“the average density of matter would necessa- 
+rily be nil” Einstein says we can. imagine, “a' 
+quasi-Euclidean universe” analogous to “a sur- 
+face which is irregularly curved in its individual 
+parts, but which nowhere departs appreciably 
+from a plane: something like the rippled sur- 
+face of a lake.” But if the “average density of 
+matter . . . differs from zero, however small’' 
+may be that difference, then the universe can- 
+not be quasi-Euclidean.” It would be spherical 
+(or elliptical) if the matter were uniformly dis- - 
+tributed; but- “since in reality the detailed dis- 
+tribution of matter is not uniform,” Einstein 
+concludes that “the real universe will deviate 
+in individual parts from the spherical, the 
+universe will be quasi-spherical. But it will 
+be necessarily finite.” 
+
+The nature of the actual space of the universe 
+thus seems to be related to the issue whether 
+physical as opposed to mathematical space is a 
+void or filled with matter. Defining a vacuum 
+as “a space empty of all bodies known to the 
+senses,” Pascal Insists that “there is as much 
+difference between nothingness and space, as 
+there is between empty space and a material 
+body,” so that “empty space occupies the 
+mean between matter and nothingness.” Tor- 
+ricelli’s e.vperiments seem to him complete 
+proof against 1 the' disciples of Aristotle,' for 
+they upset the belief that “nature abhors a 
+vacuum.” 
+
+Gilbert’s observations on magnetic influ- 
+ences, Newton’s observations on the transmis- 
+sion of light and heat as well as gravitational 
+pull, and Faraday’s on electrical phenomena, all 
+seem to admit the possibility of action at a dis- 
+tance, or through a vacuum. But the question 
+remains whether the so-called physical vacuum • 
+
+island absolute void, or merely' empty of “all 
+bodies known. to the. senses.” . 
+
+• ‘‘Is not the heat'of the warm room conveyed 
+through the vacuum” .'Hkwx.on asks,'“by the 
+vibrations of a much subtiler medium than air 
+which after the air was drawn out remained in 
+the vacuuml 'And is not this medium the same 
+with that medium by which light is refracted 
+and reflected, and by whose vibrations light 
+communicates heat to bodies? . . . And is not 
+■ this medium exceedingly more rare and subtile 
+than the air, and exceedingly more elastic and 
+active? And does it not readily pervade all 
+bodies? And is it not (by its elastic force) ex- 
+.panded through all the heavens?” 
+
+Huygens also refers to an ethereal matter as 
+, the medium for the propagation of light. “One 
+tvill see,” he writes, “that it is not the sanie that 
+serves for the propagation of sound.. . . It is not 
+the same air, but another kind of |matter in 
+‘ which light spreads; since if the air is removed 
+from the vessel, the light does not cease to 
+traverse it as before.” But this ethereal medi- 
+'um, without which bodies would act at a dis- 
+tance upon one another— gravitationally, mag- 
+netically, electrically— through an absolute 
+void, seems to have contrary properties. It is 
+not only “subtiler” than air, but, as Newton 
+suggests, it may be “denser than quick-silver or 
+g;old,” since “planets and comets, and all gross 
+bodies perform their motions more freely, and 
+with less resistance in this aethereal medium 
+than in any fluid, which fills all space adequately 
+withoutleaving any pores.” And, in still another 
+place, he asks: “What is there in places almost 
+enipty of matter, and whence is it that the Sun 
+and Planets gravitate towards one another, 
+without dense matter between them?” 
+
+Whatever may be thought of the ether as a 
+physical hypothesis, the problem still reniains 
+whether action can take place at a distance 
+through a void or must employ what Faraday 
+calls "physical lines of force” through filled 
+space. . Faraday thinks the evidences support 
+the latter alternative for both electricity and 
+rhaghetism. He quotes a letter from Nevvton to 
+Betitley to show that Newton was “an unhesi- 
+tating believer in physical lines of.gravitating 
+force.” 
+
+In that letter, posthumously discovered, New- 
+ton says: “That- gravity- should be innate, in- 
+
+818 THE GREAT IDEAS 
+
+herent and essential to matter, so that one body force may be conveyed from one to another, is 
+may act upon another at a distance through a to me so great an absurdity, that I believe no 
+vacuum, • without the nicdiation of anything man who has in philosophical matters a com- 
+else, by and through which their action and petentfacultyof thinking, can ever fall intoit.”
+
+
+OUTLINE OF TOPICS 
+
+1. Space, place, and matter ' 819 
+
+, I a. Space or extension as the epence or property of bodies: space, the receptacle, 
+and becoming 
+
+lb. Place as the envelope or container of bodies: place as a part of space or as relative 
+position in space 
+
+ic. The tridimensionality of bodies: the indeterminate dimensions of pure space or 
+
+prime matter 820 
+
+id. The exclusiveness of bodily occupation of space: impenetrability 
+
+2. Space, void, and motion 
+
+2a. The role of space or place in local motion: the theory of proper places; absolute 
+and relative space 
+
+2b. The issue of the void or vacuum 821 
+
+(1) The distinction between empty and filled space 
+
+(2) The indispensability of void or vacuum for motion and division: the absence 
+
+of void in atoms 
+
+(3) The denial of void or vacuum in favor of a plenum 
+
+2C. Space as a medium of physical action: the ether and action-at-a-distance; the 
+phenomena of gravitation, radiation, and electricity 
+
+3. Space, quantity, and relation 822 
+
+3«. The finitude or infinity of space: the continuity and divisibility of space 
+
+3b. The relation of physical and mathematical space: sensible and ideal space 
+
+y. Geometrical space, its kinds and properties: spatial relationships and configura- 
+tions 
+
+3d. The measurement of spaces, distances, and sizes: trigonometry; the use of paral- 
+lax 823 
+
+4. The knowledge of space and figures 
+
+4«. Space as the divine sensorium and space as a transcendental form of intuition: 
+the a priori foundations of geometry 
+
+4b. The controversy concerning innate and acquired space-perception 
+
+4c. The perception of space: differences between visual, auditory, and tactual space; 
+perspective and spatial illusions 
+
+5. The mode of existence of geometrical objects: their character as abstractions; their 
+
+relation to intelligible matter 
+
+6. The spiritual significance of place, position, and space 824 
+
+Chapter 89: SPACE 819 
+
+, , :
+
+
+REFERENCES
+
+REFERENCES 
+
+ 
+
+1. Space, place, and matter 
+
+la. Space or extension as the essence or prop- 
+erty of bodies: space, the receptacle, and 
+becoming 
+
+7 Plato: Timaeus, 455c-458b 
+
+8 Aristotle: Physics, bk i, ch 9 [i92''9-i4] 
+268a; bk iv, cii 2 [209'’5-2io"ii] 288b-d; ch 4 
+[2ii*’5-2i2“2] 290c-291a 
+
+17 Plotinus: Third Ennead, tr vi, ch 13 I14c- 
+115b; CH i9,H8c-119a 
+
+19 Aquinas: Summa Theologica, part i, q 66, 
+A i, REP I 343d-345c 
+
+23 Hobbes: Leviathan, part iv, 270d-271a . 
+
+31 Descartes: Rules, xiv, 29b-32a / Discourse, 
+PART IV, 52d-53a / Meditations, ii, 78c-d / Ob- 
+jections and Replies, def vii 130c-d; 135d- 
+136a; 154a 
+
+33 Pascal: Vacuum, 370a 
+
+35 Locke: Human Understanding, bk ii, ch xiii, 
+SECT 11-27 150d-154d; ch xv, sect 4, 162d- 
+163a; ch xvii, sect 20 172d-173c; bk hi, ch 
+VI, sect 5, 269b-c; sect 21 273c-d; ch x, 
+SECT 6, 293b . . 
+
+42 Kant: Pure Reason, 28b-33d 
+
+lb. Place as the envelope or container of bod- 
+ies: place as a part of space or as relative 
+position in space 
+
+8 Aristotle: Physics, bk iv, ch 1-5 287a-292c 
+esp CM 4 289d-291c / Heavens, bk i, ch 7 
+[275''5-i 2] 366d 
+
+17 Plotinus: Fourth Ennead, tr hi, ch 20, 
+152b-c / Sixth Ennead, tr i, cit 14 260b-c 
+
+19 Aquinas: Summa Theologica, part i, q 8, a 
+2, ANs and rep 3 35c-36b; q 50, a i, rep 3 
+269b-270a; Q 52 278d-280d; Q 53, A i, ans 
+280d-282a; q 66, a 4, rep 5 348d-349d 
+
+20 Aquinas: Summa Theologica, part hi suppl, 
+Q 83, A 2, ANS and REP 5 976c-978c; a- 3, rep 
+3-4 978c-980d; a 5, ans 981b-982c; q 84, a 
+2, REP I 984c-985d 
+
+23 Hobbes: Leviathan, part hi, 172b; part iv, 
+270d-271c 
+
+31 Descartes: Rules, xii, 23c-d; xiii, 26b-c / 
+Meditations, 11, 78c-d / Objections and Replies, 
+228c-229a . - 
+
+33 Pascal: Vacuum, 37Sa-376a 
+
+34 Newton: Principles, definitions, schol, 9a; 
+lOa-lla 
+
+35 Locke: Human Understanding, bk 11, ch iv. 
+
+THE GREAT IDEAS Ictola 
+
+(1. Space, place, and matter. Xb. Place as the en- 
+velope or container of bodies: place as a part 
+of space or as relative position in space.) ' 
+
+SECT 2 129c-d; sect 5 130d-131a; ch xhi, 
+SECT 7-to 149d'150d; ch xv, sect 5-8 163b- 
+I64b ’ , ' 
+
+35 Berkeley; Human Knowledge, sect in, 434c 
+42 Kant: Judgement, 6Ud'612a 
+S3 Jaubs: Psychology, 139a-140a; 626b 
+
+Ic. The tridimensionality of bodies: the inde- 
+terminate dimensions of pure space Or 
+prime matter 
+
+7 Plato: Timaeus, 45Sc-458b 
+
+8 Aristotle: Topics, bk vi, ch 5 [i42'=20-29] 
+196b / Physics, bk iv, ch 1 [209*5-7] 287 d / 
+Heavens, bk i, ch i SSQa-c / Metaphysics, bk 
+V, CH 6 [ioi6'>25-3i] 537 b; ch 13 [1020*7-14] 
+541 b; BK VH, CH3 [1029*11-19] 551 c-d 
+
+11 Nicomachus: Arithmetic, bk n, 832 c 
+
+PvOTraASE'. Second Ennead, tr in 5(la-57c esp 
+CH 7-9 S2a-53b, ch 15 56c-57a 
+IS Augustine; Confessions, bk xit, par 3-4 99d- 
+100a; par 15 102b-c 
+
+19 Aqvinas: Stimma Theologica, part i, q 3, a 2, 
+contrary 15c-16a; <3 66, a i, rep i 343d-345c 
+
+20 Aquinas; Stimma Theologica, part hi suppl, 
+Q 79, A I, REP 3 951b-953b; q 80, a 5, rep 3 
+963a-964b; q 83, a 2, ans 976c-978c; a 3, rep 
+1-2 978c-980d; a 5, ans 981b 982c 
+
+23 Hobbes; Leviathan, part iv, 269d 
+31 Descartes: Rules, xtv, 29b-c; 31d / Medita- 
+tions, V, 93b 
+
+31 Spinoza: Ethics, part i, prop 15 , schol, 360b 
+33 Pascal; Vacuum, 370a 
+35 Locke; Human Understanding, bk n, ch iv, 
+sect 5 130d-131a; ch xtv, sect 26 160c-d; 
+CH XV, sect 1-8 162b-164b passim; ch xvn 
+167d-174a passim 
+
+35 Berkeley; Human Knowledge, sect 117 436a 
+52 Dostoevsky: Brothers Karamazov, bk v, 
+121a-b 
+
+Xd. The exclusiveness of bodily occupation of 
+space: impenetrability 
+8 Aristotle: Physics, bk iv, ch i [209*5-7] 
+287d; ch 6 [2i3'’4-i2] 293a 
+17 Plotinus; Fourth Eimead, tr n, ch 1, 139d 
+
+19 Aquinas: Sunima Theologica, part i, q 8, a 2, 
+ANS 35 c- 36 b; q 52, a 3, rep i 280 a-d 
+
+20 Aquinas; Summa Theologica, part hi suppl, 
+q 83, AA 2-4 976 c' 981 b; a 5, ans and rep 2 
+981 b- 982 c; a 6, ans and rep 2 982 c- 983 b 
+
+23 Hobbes: Leviathan, part i, S4b-c; part iv, 
+271b-c 
+
+28 Galileo: Two New Sciences, first day, 153a; 
+156d-157b 
+
+30 Bacon: Afeiwim Organum, bk n, aph 36, 167b; 
+APH 48, 179d-180a 
+
+31 Descartes; Meditations, n, 78c-d ' 
+
+33 Pascal: PensSes, 512 262a / Vacuum, 370a 
+
+34 fJEWTON: Principles, bk hi, rule hi, 270b 
+
+35 Locke; Human Understanding, bk h, cii iv 
+l29b-131a; ch xv, sect ii 165a-b; bk iv, ch 
+
+• vH, sect 5 338b 
+
+45 pASLATiAr : Researches in Electricity, 854 c- 855 a,c 
+
+2. Space, void, and motion 
+
+2a. The role of space or place in local motion: 
+the theory of proper places; absolute and 
+relative space 
+
+7 Plato: Timaeus, 4S3c; 4S5c-458b; 460c-d / 
+Laws, BK X, 762b-c 
+
+8 Aristotle: Physics, bk hi, ch 5 [205*10- 
+2o6“8] 283b-284b; bk iv, ch i [2o8'‘i-24] 
+287a-c; ch 2 [210*2-4] 288d; ch 4 [211*4-6] 
+290a; [212*20-28] 291c; ch 5 [2i2''29-2i3*4] 
+292b; CH 8 [2i4'’i3-i8] 294b; [215*1-19] 
+294c-d; BK VI 312b,d-32Sd passim / Heavens, 
+bk I, ch 2 [268’’ii]-CH 3 [270*13] 3S9d-361b; 
+cH 7 r274'’3o-33] 366a; ch 7 [275'^3o]-ch 8 
+
+367a-369a; ch. 9 [278’’22-279,”8[ 
+370a-b; bk ii, gh 2 376b-377c; bk hi, ch 5 
+[304'’! 1-23] 395d-396a; ch 6 [305*22-28] 396c; 
+bk IV, CH I 399a-d; ch 3-5 401c-404d / Meta- 
+physics, BK V, CH 13 [1020*25-33] S41c; bk xi, 
+gh 10 [1067*8-33] 595c-596a / Soul, bk i, ch 3 
+[406*12-29] 635c-d 
+
+9 Aristotle: Ethics, bk x, ch 4 [ii 74 “i 9 -*’ 5 ] 
+428d 
+
+11 Hicomachus: Arithmetic, bk ii, 832c 
+
+12 Lvcrbtivs: Nature of Things, bk i [988-1007] 
+l 3 b; [1052-1082] 14 a'C; bk ii [184-250] 17 b- 
+l8b 
+
+16 Vtovemv. Almagest, bk i, lOb-llb 
+
+16 Copernicus: Revolutions of the Heavenly 
+Spheres, bk 1, 517b-518a; 519b-520b , 
+
+16 ICepler: Epitome, bk iv, 8SSb; 931b-932a 
+
+17 Plotinus: Third Ennead, tr vii, ch 8 , 123 d- 
+l24a 
+
+19 Aquinas: Summa Theologica, part 1 , q 53 
+280d-284d 
+
+20 Aquinas; Summa Theologica, part hi suppl, 
+Q 84, A 2, rep 1,4-5 984 c- 985 d; a 3, ans and 
+REP 2-3 985 d- 989 b 
+
+21 Dante: Divine Comedy, purgatory, xvhi 
+[22-33] 80 a; PARADISE, i [94-142] 107 b-d; iv 
+[73-87] lllb-c; xxiii [40-45] 141 d 
+
+23 Hobbes: Leviathan, part i, 50a; 61b; part 
+HI, 173a; part iv, 271a-b; 271d 
+
+28 Gilbert; Loadstone, bk vi, llOb-c 
+
+- 28 Galileo: Two New Sciences, first day, 162d; 
+l64a-c; third day-fourth day 197a-260a,c 
+esp THIRD day, 197b-d, 200b-c, 203a-b, 205b- 
+208c 
+
+30 Pacon; Novum Organum, bk 11, aph 35, 
+l 63 a-d; aph 36, 166 b-c; aph 45 I 76 a- 177 c; 
+APH 48 , 179 d- 180 d: 181 d ' 
+
+34 Newton; Principles, definitions-laws of 
+riotion 5 a- 24 a csp definitions, schol 8b- 
+l 3 a; bk i-ii 2Sa-267a passim, esp bk i, prop 
+J-17, schol 32 b- 50 a,'pROP 32-39 81a-88a 
+
+lb to 2c 
+
+y 35 Locke: Human Understanding ; bk ii, ch xnr, 
+SECT 7r 10 149d-lS0d; sect 27, lS4c; ch xv, 
+SECT, 5-78 163b-164b, 
+
+35 Berkeley: Human Knowledge, sect 110-117 
+
+, . 434b-436a ' 
+
+42 Kant: Pure Reason, 29c-d; 31d-32a; 55c-S6a; 
+84b-c; 13Sd [fn 2] 
+
+SI Tolstoy; War and Peace, bk xi; 469a-d 
+
+2 b. The issue of the void or vacuum 
+
+2 b(l) The distinction between empty and 
+filled space 
+
+8 Aristotle: Physics, bk iv, ch 1 [2o8'’25-26] 
+287c; :cH 6-9 292c-297c esp ch 7 {2i3’’3o- 
+2I4 ‘'i6] 293b-c / Heavens, bk i, ch 9 [279“i2- 
+i8] 370b-c; bk in, ch 2 [30i’>32-302“9l 393b 
+
+12 Lucretius: Nature of Things, bk 1 [329-369] 
+Sb-c; [418-448] 6b-c; [503-550] 7b-d 
+
+17 Plotinus: Fourth Eniiead, tr hi, ch 20, 152 c 
+
+19 Aquinas: Stimma Theologica, part i, q 46, a 
+i, REP 4 2 S 0 a- 252 d 
+
+20 Aquinas: Stimma Theologica, part hi soppl, 
+Q 83, a 2, ANS 976c-978c 
+
+31 Spinoza: Ethics, part i, prop 15, schol, 
+361 b-d 
+
+33 Pascal: Vacuum, 359b-361a; 363b'365b; 
+370a;373b-376a 
+
+35 Locke: Human Understanding, bk it, ch iv, 
+sect 2-5 129c-131a; ch xiii, sect 11-27 ISOd- 
+lS4d esp sect 21-27 152d-lS4d; ch xiv, sect 
+26 160c-d; CH XV, sect 1-4 162b-163b passim; 
+ch XVII, sect 4 168b-d; sect 20 172d-173c 
+
+35 Berkeley: Human Knowledge, sect 116-117 
+43Sd-436a 
+
+42 Kant: Pure Reason, 71b-72a; 84b-c; 135d 
+[fn 2]; lS2c-d 
+
+2 b{2) The indispensability of void or vacuum 
+for motion and division: the absence of 
+void in atoms 
+
+8 Aristotle: Physics, bk iv, ch 6 292c-293b; 
+ch 7 [2I4“i6]-ch 8 [216^26] 293d-295d / 
+Heavens, bk 1, ch 7 [275*’30-276''5j 367 a; 
+BK HI, ch 2 [30i'’32-302“9] 393b; bk iv, ch 2 
+[3 o 8’’29-3 Io“i 3] 400b-401c / Generation and 
+Corruption, bk i, ch 8 [325“24-'’ii]423d-424b 
+
+12 Lucretius; Nature of Things, bk 1 [329-397] 
+5b-6a; [418-448] 6b-c; [483-550] 7a'd: [988- 
+1007] 13b; [1052-1082] 14a-c; bk vi [998- 
+1041] 93c-94a 
+
+20 Aquinas ; Summa Theologica, part hi soppl, 
+Q 84, A 3, REP 2 985d-989b 
+
+28 Galileo: Two New Sciences, first day, I 38 b- 
+141d; 151c-153a; lS6d-160a passim 
+
+30 Bacon; Novum Organum, bk ii, aph 48, 187c 
+
+31 Spinoza: Ethics, part i, prop 15, schol, 
+361b-d 
+
+33 Pascal: Vacuum, 359a-381b / Weight of Air, 
+405b-415b 
+
+34 Newton: Principles, bk hi, prop 6, corol 
+iH-iv 281 b I Optics, bk hi, 541 b 
+
+35 Locke; Human Understanding, bk h, chxih, 
+■ " 'sect 23 153c-d; ch kvH, SECT 4 168b-d 
+"'45 Lavoisier: Elements of Chemistry, part i, 
+■' ’ ' 9 a-b ' , ' ■ 
+
+45 Faraday: Researches iti Electricity, 850b, d- 
+, ; 8S5a,c esp SSla-b > 
+
+26(3) The denial of void or vacuum in favor 
+of a plenum 
+
+' 7 Plato: Timaeus, 460c-d; 470d-471c 
+
+8 Aristotle: Physics, bk iv, ch 629 292 c- 
+297 c / Heavens, bk i, ch 9 [279*12-18] 370 'b-c; 
+BK HI, CH 2 [30i'’32-302*9] 393 b; ch 6 [305* 
+14-22] 396 b-c 
+
+10 Galen; Natural Faculties, bk h, ch 6, 188 c- 
+189 c 
+
+12 Lucretius: Nature of Things, bk i [370-383] 
+Sc-d 
+
+19 Aquinas: Summa Theologica, part i, q 46, 
+A i, REP 4 2S0a-252d; q 52, a 3, rep 2 280a-d 
+23 Hobbes: Leviathan, part hi, 172b; part iv, 
+269d 
+
+30 Bacon: Novum Organum, bk ii, aph 8 140 b; 
+aph 48, I 80 a; I 87 c 
+
+31 Descartes; Meditations, vi, lOOd 
+
+31 Spinoza; Ethics, part i, prop 15, schol, 
+361 b-d 
+
+33 Pascal: Vacuum, 376a'b; 379a-380a 
+35 Berkeley: Human Knowledge, sect 116-117 
+435d-436a 
+
+42 Kant: Pure Reason, 71 b' 72 a; 84 b-c; 135 d [fn 
+2] 
+
+45 Faraday: Researches in Electricity, 850b,d- 
+855a, c esp 8S4a-855a,c 
+
+2 c. Space as a medium of physical action: the 
+ether and action-at-a-distance; the phe- 
+nomena of gravitation, radiation, and 
+electricity 
+
+8 Aristotle: Physics, bk vni, ch 10 [266'’25- 
+267*20] 354b-d / Heavens, bk hi, ch 2 [301*’ 
+16-31] 393a-b / Soul, bk ii, ch 7 [4i8“37]-ch 8 
+[420*26] 649b-6Slc; bk hi, ch 12 [434*’22- 
+435*10) 667c-668a / Dreams, ch 2 [459*28-34] 
+703b 
+
+12 Lucretius: Nature of Things, bk 1 [440-448] 
+6c; BK VI [906-1041] 92 b- 94 a 
+■ 16 Kepler; Epitome, bk iv, 897 b' 905 a esp 900 b- 
+<■ 901 b; 906 a-b; 922 a-b; 934 b; bk v, 965 a-b 
+19 Aquinas: Summa Theologica, part i, q 8, a 
+I, REP 3 34 d- 3 Sc 
+
+28 Gilbert: Loadstone, bk ii, 26d-40b esp 30a- 
+32c; 43a-c; 4Sd'47b; Sla-c; 54d-S5c; bk v, 
+102d-104b; BK VI, 112d 
+
+28 Galileo: Two New Sciences, third day, 202d 
+
+30 Bacon: Novum Organum, bk it, aph 36, 
+' 167 b-c; APH 37 168 d- 169 c; aph 45 176 a- 177 c; 
+
+APH 48, 183a-c; 186a 
+
+31 Descartes: Rules, ix, ISc 
+33 Pascal: Vacuum, 366a-367a 
+
+'34 Newton: Principles, dep v-vin 6a-8a; bk i, 
+PROP 69, schol 130 b- 131 a; bk in, general 
+
+THE GREAT 
+
+(2, Space, void, and motion. Zc. Space as a me- 
+dium of physical action; the ether and ac- 
+tion-at-a-distance; the phenomena of gravi- 
+tation, radiation, and electricity.) 
+scHOL, 371b-372a / Optics, bk hi, 516a-b; 
+520a-522b esp S21a-b; 525b-529a; 531b- 
+542a passim, esp 531b 
+
+34 Huygens; Light, ch i, 553b-560b 
+
+35 Berkeley: Human Knowledge, sect loa-ioS 
+432d-434a passim 
+
+35 Hume; Human Understanding, sect vn, mv 
+57, 475d [fn a] 
+
+36 Swift; Gulliver, part hi, 118b-119a 
+42 Kant: Pure Reason, 8d [fn a); 227b 
+45 Lavoisier: Elements of Chemistry, parti, 9b-c 
+45 Faraday; Researches in Electricity, 441a-442b; 
+
+451a-454a: 463d-465d; 513d-514c; 521a-524a; 
+528c-532a; 604b-c; 631b-c; 648b-d; 685d- 
+686c; 816b,d-819a,c; 819a-d: 824a-b; 832a-c; 
+840c-842c; 855a, c 
+
+51 Toes toy; IVar and Peace, epilogue h, 687d; 
+
+69Sc 
+
+3. Space, quantity, and relation 
+
+3/J. The finitude or infinity of space; the con- 
+tinuity and divisibility of space 
+
+8 Aristotle; Categories, ch 6 [5“6-23] 9b-c / 
+Physics, BK in, ch 5 [205“io-ao6“8] 283b-284b; 
+
+BK IV, CH 5 [ara^'ii-ai] 292a / Heavens, bk i, 
+
+CH 9 i279®i2-‘’4j 370b-d / Metaphysics, bk v, 
+
+CH 13 [i020'‘25-33l 541c; bk xi, ch 10 [1067*8- 
+33] 595c-596a 
+
+11 Archimedes; Sand-Reckpner 520a-526b pas- 
+sim 
+
+12 Lucretius; Nature of Things, bk i [951-1007) 
+12d-13b; bk h [89-94] 16a-b; [1048-1063] 
+28b-c; BK VI [647-652] 89a 
+
+16 Ptolemy: Almagest, bk i, 10b 
+16 Copernicus; Revolutions of the Heavenly 
+Spheres, bk i, 516a-517b 
+16 Kfpler: Epitome, bk iv, 882a-886b 
+
+18 Augustine; City of God, bk xi, ch 5 324d- 
+325c 
+
+19 Aquinas; Summa Theologica, part i, q 8, a 
+4, REP 3 37c-38c; q 46, a i, rep 8 2S0a-252d; 
+
+Q 52, A I 278d-279b; q 53, a 1, ans and rep i 
+280d-282a; a 2, ans and rep i 282a-283b 
+
+20 Aquinas: Summa Theologica, part hi suppl, 
+
+Q 84, A 3, contrary 985d-989b 
+
+23 Hobbes: Leviathan, part i, 54b-c; 61b: part 
+11, 162b; part iv, 271b 
+
+30 Bacon; Novum Organum, bk i, aph 48 llOd- 
+111a 
+
+31 Descartes: Objections and Replies, 112b 
+' 33 Pascal: Pensees, 121 19Sa; 205-206 211a / 
+
+Geometrical Demonstration, 434b-439b 
+
+34 Newton: Principles, deeinitions, schol, 8b- 
+11a / Optics, BK HI, 543a 
+
+35 Locke: Human Understanding, bk h, ch xiii, 
+sect 4 149b; sect 21 152d-153b; ch xiv, 
+
+IDEAS 3 to 3f 
+
+SECT 26 160c-d; ch xv, sect 1-8 162b-164b 
+passim; ch xvi, sect 8 167c; ch xvii 167d- 
+I74a passim, esp sect 3-4 168b-d; sbcT n 
+170c 
+
+35 Berkeley; Human Knowledge, sect 117 
+436a 
+
+42 Kant; Pure Reason, 24c-d; 28b-29c; 135a- 
+I37a,c; 152a-d; 160b-163a esp 162b / Judge- 
+ment, 501a-b 
+
+51 Tolstoy; War and Peace, epilogue* h, 693 c- 
+694 a passim 
+
+53 James: Psychology, 631a 
+
+54 Freud: Geneial Introduction, 562c-d 
+
+3A The relation of physical and mathematical 
+space: sensible and ideal space 
+8 Aristotle: Physics, bk iv, ch i [209*5-7] 
+2S7d; ch 8 [2i6'’2-ii] 296a-b / Metaphysics, 
+bk xiv, ch 5 [1092*18-21] 625a 
+
+20 Aquinas ; Summa Theologica, part hi suppl, 
+Q 83, A 2, ANS 976c-978c; a 3, rep 1-2 978c- 
+980d 
+
+31 Descartes: Rules, xiv 28a-33b / Discourse, 
+PART IV, S2d-53a / Objections and Replies, 
+169c-170a 
+
+33 Pascal; Vacuum, 370a; 373a'374a 
+
+34 Newton: Principles, definitions, schol 8b- 
+13a esp 8b-9a, 12a-b 
+
+35 Locke: Human Understanding, bk ii, ch iv, 
+SECT 5 130d-131a; ch xiv, sect 26 160c-d; 
+CH XV, sect 1-8 162b-164b passim 
+
+35 Berkeley: Human Knowledge, sect 110-117 
+434b-436a; sect 124-128 437d-438d 
+
+42 Kant: Pure Reason, 24a-26b; 161d-163a'' / 
+Judgement, 574b-575a 
+
+53 James: Psychology, 877b 
+
+3c. Geometrical space, its kinds and proper- 
+ties: spatial relationships and configura- 
+tions 
+
+8 Aristotle; Categories, ch 6 [5*1-23] 9b-c / 
+Heavens, bk i, ch i 359a-c / Metaphysics, bk 
+V, CH 6 [ioi6‘’25-3i] 537b 
+
+11 Euclid; Elements, bk i, definitions, 1-2,5 
+la; 14 lb; postulates esp 5 2a; common 
+notions, 4 2a; prop 4 4a-b; prop 8 6b-7a; 
+PROP 16 lOb-lla; prop 26 16a-17b; prop 29 
+18b-19a; bk x, prop i 191b-192a; bk xi, 
+definitions, I 301a 
+
+11 Archimedes: Sphere and Cylinder, bk i, as- 
+sumptions esp 5 404b / Spirals, 484b / 
+Quadrature of the Parabola, 527b 
+
+11 Nicomachus: Arithmetic, bk ii, 832b-d 
+
+16 Kepler: Epitome, bk iv, 865a-b 
+
+17 Plotinus: Sixth Ennead, tr hi, ch 13-14 
+287d-289a 
+
+19 Aquinas: Summa Theologica, part 1, Q 85, 
+A S, REP 2 460b'461b 
+
+31 Descartes : Rules, xiv 28a-33b esp 30d-32a 
+/ Discourse, part iv, 52d-53a / Meditations, 
+v, 93a-d; vi, 96b-d / Objections and Replies, 
+217a-c; 228c-220a 
+
+id to 5 
+
+3S Locke: Human Understanding, bk ii, ch xiii, 
+•SECT 5-6 149h-d 
+
+35 Berkeley: Human Knowledge, sect i 23-132 
+437C-439C 
+
+35 Hume: Human Understanding, sect xii, div 
+124-125 506a-507a passim 
+
+42 Kant: Pure Reason, 24a-26b 
+
+52 Dostoevsky: Brothers Karamazov, bk v, 
+121a-b 
+
+53 James: Psychology', SS0b-551b [fn r-2}; 876b- 
+878a esp 877b 
+
+3rf. The measurement of spaces, distances, and 
+sizes: trigonometry; the use, of parallax 
+
+16 Ptolemy: Almagest, bk v, 165a-176a; bk ix, 
+270a-b 
+
+16 Copernicus: Revolutions of the Heavenly 
+Spheres, bk i, 516a'b; 521b-S29a; bk iv, 705a- 
+714b 
+
+16 Kepler: Epitome, bk iv, 861a-863b; 868b- 
+887a / Harmonies of the World, 1016b-1018a 
+
+30 Bacon tNovrm Orgamm, bk 1 , aph log, 129b; 
+BK II, aph 39, 170b-c; aph 45 176a-mc 
+
+31 Descartes: Rules, xiv, 31b-33b 
+
+34 Newton: Principles, bk hi, lemma 4 333a- 
+,337b 
+
+41 Gibbon: Decline and Fall, 299b-c 
+
+53 James: Psychology, 551a-b; 673b 
+
+4. The knowledge of space and figures 
+
+4a, Space as the divine sensorium and space 
+as a transcendental form of intuition: 
+the a priori foundations of geometry 
+
+34 Newton: Principles, bk hi, general schol, 
+370a-371a / Optics, dk hi, 529a; 542a-S43a 
+
+42 Kant: Pure Reason, lOa-c; 17d-18d; 23a-26b; 
+31b'd; 46a-c; 55c-56a; 62a-d: 68a-69c; S6b-c; 
+87b-c; 94b-95a; 99a-101b; HOa; I31a-c; 13Sd 
+[fn 2j; 136c-137c [antithesis]; 153c-155a; 186d- 
+187a; 211c-218d esp 2Uc-2I2a, 213d-215a / 
+Practical Reason, 307d-30ab; 312c-313d / 
+Judgement, 47Ib-c; 5Sla-S53c; S74b-S7Sa 
+
+S3 James: Psychology, 629a-631a; S74a; 876b- 
+878a 
+
+4h. The controversy concerning innate and 
+acquired space-perception 
+
+42 Kant: Pure Reason, 23a-24a; 2Sc-26a; 31d- 
+32c / Practical Reason, 307d-308b 
+
+53 James: Psychology, 474a-47Sa; 627a-635a esp 
+628b-631a, 633a-635a: 8S2b-853a: 860b-861a 
+
+4c. The perception of space: differences be- 
+tween visual, auditory, and tactual space; 
+perspective and spatial illusions 
+8 Aristotle: Sense and the Sensible, ch 6 
+[445'’4-!8j 683b-d / Memory and Reminis- 
+cence, CH 2 [452'’7 -i 8] 694b-c 
+
+12 Lucretius: Nature of Things, bk h [308-332] 
+19a-b; bk iv [230-255] 47b-c; [269-291] 47d- 
+48a; [353-452] 48d-50a 
+
+17 Plotinus: Second Ennead, tr vih 64c-65c 
+
+35 Locke: Human Understanding, ait ir, ch xiii, 
+
+SECT 2 149a; sect 5 149b-c 
+
+35 Berkeley; Human Knowledge, sect 42-44 
+420c-421a 
+
+53 James: Psychology, 3ISb; 400a; 406b: 4I0a-b; 
+471b-479a esp 474a-477b; 540a-63Sa esp 
+541a, S48b-S52a, 560a-S75a, 627a-635a 
+
+5. The mode of existence of geometrical ob- 
+jects: their character as abstraaions; 
+their relation to intelligible matter 
+
+7 Plato: Republic, bk vi, 387b-c; bk vn, 394b-c 
+/ Philebus, 636b-c / Seventh Letter, 809c-810b 
+
+8 Aristotle: Posterior Analytics, bk i, cH '13 
+(79“6- io ] 108c; ch i 8 [8 i ‘*40-''5] lllb-c / 
+Topics, BK VI, CH 6 [i43’’ii-33j 197b-c / 
+Physics, BK H, CH 2 Ii93’',23-i94“n] 270a-c; 
+BK HI, ch 5 [204‘‘i7-i9] 282a-b; bk iv, ch i 
+(2o8*’i 9-24] 287b-c / Heavens, bk hi, ch i 
+( 299“i-i7] 390b-c / Metaphysics, bk i, ch 6 
+
+505d; ch 8 508a; ch 
+
+9 [99i''9-99a’’i8] 509d-511a; bk hi, ch 1 
+[995^13-18] 514a; [996°i3-i5] 514c; ch 2 
+[997’>i2-998“i9] 516b-d: ch 5 [iooi^26]-ch 6 
+[ioo2*’25] 520c-52Ic; bk vn, ch 2 [i028*’i8-28] 
+5Sla-b; ch 10 [io35*’32-i036''i2) S59b-c; ch 
+11 [io36‘>32-io37“4] 560b-c; bk xi, ch 2 
+[io6o'‘36-’’i9] 588c-d; ch 3 [io6i’’29-‘'4] 589c; 
+bk XU, ch I [1069*30-37] S98b; bk xiii, ch 
+1-3 607a'610a; ch 6 [io8o'’23-3o] 6l2c; cii 9 
+616d-618c; bk xiv, ch 3 622d-623d passim; 
+CH 5 [1092*18-21] 625a; ch 6 
+626d / Soul, BK III, ch 7 [43i'’i3-i9] 664b 
+
+9 Aristotle: Motion of Animals, ch i (698''24- 
+'’ij 233b-c / Ethics, bk vi, ch 8 [1 142*16-19] 
+391b 
+
+11 Nicomachus; Arithmetic, bk r, 8na-812a 
+
+18 Augustine: Confessions, bk x, par 19 76a-b 
+
+19 Aquinas: Summa Theologica, part i, q 5, a 
+3, rep 4 25a-d; q ii, a 3, rep 2 49a-c; q 44, 
+A I, rep 3 238b-239a; q 85, a i, rep 2 451c- 
+453c 
+
+20 Aquinas; Summa Theologica, part hi suppl, 
+0 83, a 2, ANs 976c-978c; a 3, rep 2 978c-980d 
+
+31 Descartes; Rules, xiv 28a-33b esp 30d-32a 
+/ Discourse, part iv, S2d-53a / Meditations, 
+i, 76b-c; V, 93a-d; v-vi, 96a-d / Objections 
+and Replies, 169c-170a; 217a-d; 218c; 228c- 
+229a 
+
+35 Locke: Human Understanding, bk h, ch xni, 
+SECT 5-6 149b'd; bk hi, ch hi, sect 19 2S9c- 
+260a; bk iv, ch iv, sect 5-8 324d-325c 
+
+35 Berkeley; Human Knowledge, intro, sect 
+12-16 408a-409d; sect 12-16 415b-416a; sect 
+123-128 437c-438d esp sect 125-126 438a-c 
+
+35 Hume; Human Understanding, sect iv, div 20 
+4SSa-b; sect xh, div 122 50Sc-d; div 124-125 
+506a-S07a esp div 125, S07b [fn i] 
+
+42 Kant: Pure Reason, 16a-c; 17d-18d; 24d'25b; 
+31b-d; 35b-36a; 46a-c; S5c; 62a-d; 68a'69c; 
+86b-c; 87b-c; 91c-d; 94b-9Sa; 211c-2I3c; 
+
+THE GREAT IDEAS . 6 
+
+(5. The inode of existence of geometrical objects; 
+their character as abstractions; their rela- 
+, tion to intelligible matter.) 
+
+217c-d / Practical Reason, 312c-d / Judgement, 
+551a-552c 
+
+53 James: Psychology, 876b-878a; 880b-881a 
+
+6. The spiritual significance of place, position, 
+and space 
+
+7 Plato: Tmaeus, 455 b-c 
+
+8 Aristotle; Heavens, bk i, ch 3 [27o'^i-i2] 
+361c-d: BK U, CH I 375b,d-376a; ch 13 
+[293“i5-''i5] 384d-38Sa 
+
+16 Copernicus: Revolutions of the Heavenly 
+Spheres, bk i, S20b; 526a-528a 
+
+16 Kepler; Epitome, bk iv, 8S3b-854a; 857b- 
+860b; 915b-916a / Harmonies of the World, 
+1080b-1085b 
+
+18 Augustine: Confessions, bk vii, par 20-21 
+49d-50a 
+
+19 Aquinas; Summa Theologica, Part i, q 3, a 
+I, REP 5 14b-15b; q 8, a i, rep 3 34d-35c; q 
+61, A 4 316d-317c; q 66, a 3 347b'348d; q 102 
+S23d-527a,c 
+
+20 Aquinas: Summa Theologica, part in suppl, 
+Q 84, A 2, REP 5 984c-985d 
+
+21 Dante; Divine Comedy, hell, v [1-15] 7a; 
+VI I77-87] 9a-b; ix [16-33] 12b-c; purgatory, 
+IV [1-96] S7c-58c; xviii [22-33] 80a-b; xx 
+[i24]-xxi (72] 84c-85d; paradise, i [64-142] 
+106d-107d; in [34-90] 109d-110b; iv [28-48] 
+111a; xxvni 148d-150b; xxx-xxxn 151d- 
+156a 
+
+32 Milton: Paradise Lost, bk 11 [850-1009] 129b- 
+I33a; bkiii [523-539] 146b-147a; bkviii [114- 
+130] 234b-235a 
+
+33 Pascal; Pensees, 194, 207b; 205-206 2113 ' 
+
+42 Kant: Practical Reason, 360d-361d 
+
+46 Hegel: Philosophy of History, intro, 
+186c-d 
+
+54 Freud: General Introduction, S62c-d
+
+
+CROSS-REFERENCES 
+
+For: Other discussions of the theory of the receptacle, see Form id(i); Matter i; World 4b. 
+Other discussions of extension as a property of bodies, see Being 7b(4) ; Form 2d ; Matter 2a. 
+Other discussions of the doctrine of prime matter, see Being 70(3); Change 2a; Form 20(3); 
+
+Infinity 4c; Matter la. ' ! 
+
+The role of space or place in local motion, see Change 7a; Relation 6a. 
+
+Discussions bearing on the measurement of space, see Mathematics 5a; Mechanics 3a; 
+Quantity 6b-6c. 
+
+Matters relevant to space as a transcendental form of intuition and to the related problem of 
+the foundations of geometry, see Form ic; Mathematics ic; Memory and Imagination 
+6c(2); Mind ie(i), 4d(3); Time 6c; and for other discussions bearing on space-perception, 
+see Quality 2b; Sense 30(3). 
+
+The problem of the mode of being which is possessed by the objects of geometry, see Being 
+7d(3); Idea 2g; Mathematics 2a-2b; Matter ic. 
+
+The issue concerning a void or vacuum, and for the related problem of action-at-a-distance, 
+see Astronomy 3b; Change 7a; Element 5c; Mechanics 56, 66(2). 
+
+Other considerations of the infinity or continuity of space, see Infinity 3d; Mathematics 
+2c; One and Many 33(4); Quantity 2, 5a; and for discussions of astronomical space 
+and the size of the universe, see Astronomy 5,-90; World 6a, 7. 
+
+The analysis of geometrical space, spatial relationships and configurations, see Quality 3b; 
+Quantity 3-3e (2) . 
+
+The relation of spiritual being or action to place or space, see Angel 3!; Astronomy 6; 
+God 7g; Immortality 5g; Soul 30, 46(3).

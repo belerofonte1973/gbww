@@ -1,0 +1,2092 @@
+CHAPTER: Definition
+
+INTRODUCTION
+
+INTRODUCTION 
+
+D efinition has been variously defined 
+in the tradition of the great books. These 
+diverse conceptions of what a definition is raise 
+many issues. 
+
+At one extreme, writers like Hobbes look 
+upon definition as nothing more than an at- 
+tempt to say what a word means — how it has 
+been or is being used. At the other, writers like 
+Aquinas regard definition as that act of the 
+mind by which it expresses the nature of a thing 
+or formulates its essence. 
+
+In one technical view associated with the 
+name of Aristotle, to define is to state the genus 
+and differentia by which the species of a thing 
+is constituted. In another theory of definition 
+advanced by Locke and others, any combina- 
+tion of traits which distinguishes one class or 
+kind of thing from another defines the charac- 
+ter common to all members of that class. In still 
+another view, to be found in Spinoza, definition 
+consists in giving the cause or genesis of a thing, 
+in saying how the thing originated or was 
+produced. 
+
+Sometimes definition through causes employs 
+the final rather than the efficient or productive 
+cause, and characterizes the thing by the end it 
+naturally serves. And sometimes, as with Wil- 
+liam James, definitions simply express the pur- 
+poses or interests which we have in mind when 
+we classify things to suit ourselves. 
+
+In the tradition of the liberal arts of gram- 
+mar, rhetoric, and logic, these various concep- 
+tions of definition are connected with contro- 
+versies concerning the power and activity of 
+the human mind, the relation of language to 
+thought, the structure of science or, more gen- 
+erally, the nature of knowledge, and the con- 
+stitution of reality, with particular reference to 
+the existence of universals and individuals and 
+their relation to one another. 
+
+These connections appear in the thought of 
+
+Aristotle and Spinoza, Hobbes and Locke, Aqui- 
+nas and William James. Their views of the way 
+in which definitions should be constructed or 
+their conceptions of the function of definitions 
+determine and reflect lines of agreement and 
+opposition on many other matters. The use of 
+definitions in the great works of mathematics 
+and natural science — by Euclid, Descartes, 
+Galileo, Newton, Lavoisier, and Danvin— 
+tends to exemplify now one, now another, 
+theory of definition. Modern discussions of the 
+nature of science and mathematics, especially 
+discussions influenced by the development of 
+mathematical logic — from Whewell, Mill, and 
+Poincare to Whitehead, Russell, and Dewey— 
+focus critical attention on the nature and role 
+of definitions. 
+
+Many other chapters provide an illuminating 
+context for topics discussed in this one, espe- 
+cially the chapters on Language and Logic, 
+Idea, Principle and Reasoning, Philosophy 
+and Science, and Truth. Though the issues 
+concerning definition cannot be resolved apart 
+from this larger context of controversy about 
+the mind, reality, and knowledge, we can nev- 
+ertheless formulate these issues in isolation. But 
+in doing so we ought to bear in mind that diey 
+can be more readily understood in proportion 
+as they are seen in the light of other relevant 
+considerations. 
+
+There is, first of all, the question about the 
+object of definition. What is being defined 
+when men make or defend definitions? This 
+question broadens into the problem of nominal 
+as opposed to real definitions. That is a complex 
+problem which raises a number of further ques- 
+tions. Are all definitions arbitrary, expressing 
+the conventions of our speech or the particular 
+purpose we have in mind when we classify 
+things? Or do some, if not all, definitions ex- 
+
+Chapter 15: DEFINITION 287 
+
+press the real natures of the things defined ? Do 
+they classify things according to natural kinds 
+which have reality apart from our mind and its 
+interests? 
+
+These issues are in turn related to the issue 
+concerning the limits of definition and its ulti- 
+mate principles — whether all things, or only 
+some, are definable, and whether the indefin- 
+able terms, without which definition is itself 
+impossible, can be arbitrarily chosen or must 
+always be terms of a certain sort. The sense in 
+which definitions may be true or false and the 
+sense in which they cannot be either, have a 
+bearing on all these issues; and through them 
+all run the divergent conceptions of how defini- 
+tions can or should be constructed. 
+
+When in the course of argument one man dis- 
+misses the opinion of another by saying, “That 
+is just a matter of definition,” the usual im- 
+plication is that the rejected opinion has no 
+truth apart from the way in which the man 
+who proposed it uses words. He may even be 
+accused of begging the question, of framing 
+definitions which implicitly contain the con- 
+clusion he subsequently draws from them. 
+
+The underlying supposition here seems to be 
+expressed by Pascal when, in his essay On Geo- 
+metrical Demonstration, he asserts that “there is 
+great freedom of definition and definitions are 
+never subject to contradiction, for nothing is 
+more permissible than to give whatever name 
+we please to a thing we have clearly pointed 
+out.” He calls “true definitions” those which 
+are “arbitrary, permissible, and geometrical.” 
+The only restriction he would place upon our 
+freedom to make definitions is that “we must 
+be careful not to take advantage of our freedom 
+to impose names by giving the same name to 
+two different things.” And even this case, he 
+claims, is permissible “if we avoid confusion by 
+not extending the consequences of one to the 
+other.” 
+
+If we are free to make whatever definitions 
+we please, it would seem to follow that defini- 
+tions cannot be matters of argument; and dif- 
+ferences of opinion which result from differ- 
+ences in definition would seem to be irrecon- 
+cilable by any appeal to reason or to fact. 
+
+Such a conception of definition as verbal 
+does not seem to prevent Hobbes from holding 
+
+that definitionsarefirstprinciples or foundations 
+of science. “In Geometry (which is the only sci- 
+ence that it hath pleased God hitherto to be- 
+stow on mankind), men begin,” he writes, “at 
+settling the signification of their words; which 
+settling of significations, they call Definitions', 
+and place them in the beginning of their reckon- 
+ing.” This shows, Hobbes thinks, “how neces- 
+sary it is for any man that aspires to true knowl- 
+edge to examine the definitions of former au- 
+thors; and either to correct them, where they 
+are negligently set down; or to make them him- 
+self. For the errors of definitions multiply them- 
+selves, according as the reckoning proceeds.” 
+
+For Hobbes, then, definition is verbal; yet 
+definitions can also be true or false, and on the 
+truth of definitions depends the distinction be- 
+tween knowledge and opinion. “In the right 
+definition of names,” he says, “lies the first use 
+of speech; which is the acquisition of science.” 
+Only when discourse “begins with the defini- 
+tions of words” can it reach conclusions that 
+have the character of knowledge. “If the first 
+ground of such discourse be not definitions . . . 
+then the end or conclusion is opinion.” 
+
+Hobbes accurately reports the nature of ge- 
+ometry when he says that in that science defini- 
+tions serve as principles in reasoning or proof. 
+The words “by definition” mark one of the 
+steps in many Euclidean proofs. Descartes and 
+Spinoza, proceeding in the geometrical man- 
+ner, place definitions at the head of their works 
+as ultimate principles to be used in validating 
+their conclusions. But, unlike Hobbes, these 
+writers do not seem to regard their definitions 
+as merely verbal. Euclid goes further, as we 
+shall presently see, and offers what amounts 
+to proofs of his definitions, or at least of their 
+geometrical reality. Aristotle and Aquinas cer- 
+tainly take the position not only that definitions 
+are principles, but also that definitions them- 
+selves are capable of being demonstrated. But 
+they complicate the matter by insisting that 
+definitions are neither true nor false, since, as 
+Aristotle says, they do not involve “the asser- 
+tion of something concerning something.” 
+
+At least two questions seem to be involved in 
+this familiar dispute about the arguability of 
+definitions and their role in argumentation. To 
+avoid confusion, they should be kept distinct. 
+One is the question of the truth and falsity of 
+
+288 ' the GREAT' ideas 
+
+definitions.' It should be separated from, even 
+though it is related to, the other question-about 
+whether all definitions are nominal, i.e., con- 
+cerned only with assigning meanings to the 
+words by which we name things. To under- 
+stand what is involved in this second question, 
+it may be helpful to consider the relation of 
+words, thoughts, and things in the process of 
+definition. 
+
+f f 
+
+A DICTIONARY IS supposed to contain defini- 
+tions. It does in part— insofar as the meaning of 
+any Word is expressed in a phrase containing 
+other words which are not synonyms for the 
+word in question. The combined meanings of 
+these other words determine the meaning of 
+the word being defined. 
+
+For example, one definition of the word 
+“brother” is “a male relative, the son of the 
+same parents or parent.” Another is “a male 
+member of a religious order.” These two defini- 
+tions give different meanings for the same word. 
+The dictionary is here recording two ways in 
+which, as a matter of historical fact, the word 
+has been used. It has been and can be used in 
+still other ways. No one of these definitions can 
+be called “right" and the others “wrong.” 
+
+Dictionary definitions seem to be verbal and 
+arbitrary in a number of ways. That the word 
+“brother” should carry any of the meanings 
+which the dictionary records is an accident of 
+English usage. It is arbitrary that that partic- 
+ular sound or mark should be the name for a 
+male relative who is the son of the same par- 
+ents. It would be equally arbitrary to restrict 
+the meaning of the word “brother” to any one 
+of its definitions. > 
+
+Nothing about a word limits the number of 
+distinct meanings with which it can be used. As 
+Locke says, “every man has so inviolable a lib- 
+erty to make words stand for what ideas he 
+pleases, that no one hath the power to make 
+others have the same ideas in their minds that 
+he has, when they use the same words that he 
+does.” A word is thus a conventional sound or 
+mark, which can be given any meaning con- 
+vention assigns to it. When that meaning is ex- 
+pressed in other words, we have a verbal defini- 
+tion, and such definitions are certainly nominal 
+in this sense— that they state the meaning of 
+a name. , 
+
+' But are they nierely nominal? Are they en- 
+tirely arbitrary? That this word should be used 
+to name this thing is arbitrary, but that when 
+it is so used a certain definition also applies 
+may no't be arbitrary. Among the several verbal 
+definitions of a word, the one'which applies in 
+any (particular case will' depend upon the char- 
+acter of the thing which the word is used 
+to name. ' 
+
+For example, if John and James are sons of 
+the same parents, the name “brother” applies, 
+but not with the same definition which is re- 
+quired for the application of the name to Mark 
+and Matthew who, unrelated by blood, are 
+members of the same monastic order. What the 
+word “brother” is used to mean may be arbi- 
+trary, but when it is used now of John and 
+James,! and now of Mark and Matthew, it 
+would be misapplied if it did not carry the ap- 
+propriate definition. Which definition is appro- 
+priate in each case does not seem to be arbi- 
+trary, since that appropriateness depends not 
+on our will but on the objective facts of the 
+case — the actual relation of the persons called 
+“brothers.” 
+
+Precisely because the word is used to name a 
+thing, the definition of the word as so wed does 
+more than state the meaning of the word. It 
+states something about the character of the 
+thing named. Definitions remain merely verbal 
+only so long as the words they^ define are not 
+actually used to name or to signify things in 
+some way. Whenever a thing is named or sig- 
+nified, the definition which gives the meaning 
+of the word must also signify something about 
+the nature of the thing. ' 
+
+“In the natural order of ideas,” writes Lavoi- 
+sier, “the name of the class or genus is that 
+which expresses a quality common to a gteat 
+number of individuals; the name of the species, 
+on the contrary, expresses a quality peculiar to 
+certain individuals only. These distinctions are 
+not, as some may imagine, merely metaphysical, 
+but are established by Nature.” ' 
+
+Yet it -may be said that the definition is still 
+norninal, for it depends entirely on the mean- 
+ings of the words which express it. For example, 
+one definition of ^‘brother” involves the mean- 
+ings of such words as “male” and “relative,” 
+“son,” “parent,”' and “same.” If we were to 
+
+Chapter 15: DEFINITION 289 
+
+t look these words up in a dictionary, the def- 
+t initions we found would involve the meanings 
+of still other words, and so on in an endlessly 
+: circular fashion. Furthermore,'we would find 
+
+'> the account of certain words, such as “relative” 
+
+and “same,” somewhat unsatisfactory as defini- 
+> tions because the meaning of the defining words 
+( would immediately involve the meSning of the 
+word to be defined. To say that “same” means 
+“not other’^ or “not different” seems the same 
+as saying “same” means “same.” Yet we must 
+know the meaning of “same,” for otherwise we 
+i could not understand the meaning of “brother,” 
+
+in the definition of which the word "same” 
+appears. 
+
+That some words seem to have indefinable 
+meanings suggests that not all meanings are 
+merely verbal or nomirial,' and that the mean-' 
+ing of every word cannot be found in the mean- 
+ings of other words. In the Preface to his dic- 
+tionary, Dr. Johnson observes that “as nothing 
+can be proved but by supposing something in- 
+tuitively known, and evident without proof, so 
+nothing can be defined but by the use of words 
+too plain to admit of definition.” The circular- 
+ity of the dictionary is thus avoided. When we 
+trace meanings from one word to another, we 
+finally come to words whose meanings we seem 
+to understand immediately, or at least without 
+reference to the meanings of other words. 
+
+Just as the arbitrary character of verbal def- 
+initions seems to be removed by the considera- 
+tion of the things which words name or signify, 
+so the purely nominal character of definitions 
+seem to be removed by recourse to meanings 
+which are understood without further verbal 
+explanation — meanings which may in fact be 
+incapable of such explanation. 
+
+Not all writers agree with Dr. Johnson. All 
+of them would admit that some words must be 
+left undefined in order to define others, but 
+which shall be used as indefinable and which 
+shall be defined is, in the opinion of some, a 
+matter of choice. It is not something which can 
+be determined by the order intrinsic to our 
+ideas or meanings. The issue between the math- 
+ematical logicians who think that we arc free 
+to choose our primitive or indefinable terms, 
+and those who, like Aquinas, think that cer- 
+tain terms, such as being, same, one, and rela- 
+
+tion, Impose themselves upon our minds as prin- 
+ciples, leaving us no choice, parallels the issue' 
+between the view that the principles of a sci- 
+ence consist of postulates voluntarily assumed 
+and the view that they are axiomatic or un- 
+avoidable. ‘ 
+
+Far from regarding such basic indefinable 
+terms as clearest and most indisputable in mean- 
+ing, Spinoza thinks that “these terms signify 
+ideas in the highest degree confused.” For him 
+“the true definition of any one thing ... ex- 
+presses nothing but the nature of the thing de- 
+fined.” 'But to arrive at the true definition,' it is 
+necessary to discover the cause of the thing. 
+For “every existing thing,” he writes,’ “there is 
+some certain cause by reason of which it exists.” 
+This cause “must either be contained in the 
+nature itself and definition of the existing thing 
+. . . or it must exist outside the thing.” In the 
+latter case, the definition of the thing always 
+involves a statement of the external cause of its 
+existence. 
+
+Accordingly, Spinoza rejects the traditional 
+type of Aristotelian definition as purely sub- 
+jective— a matter of individual memory and 
+imagination. "Those who have more frequently 
+looked with admiration upon the stature of 
+men,” he Writes, “by the name man will under- 
+stand an animdl of erect stature, while those 
+who have been in the habit of fixing their 
+thoughts on something else will form another 
+common image of men, describing man, for in- 
+stance, as an animal capable of laughter, a biped 
+without feathers, a rational animal, and so 
+on; each person forming universal images of 
+things according'to the temperament of his own 
+body.” 
+
+However the issue between Spinoza^and Aris- 
+totle is resolved, both seem to agree that more 
+is involved in the process of definition than the 
+statement of verbal equivalences. “We have a 
+definition,” Arlkotle says, “not where we have 
+a word and formula identical in meaning (for in 
+that case all formulae or sets of words would be 
+definitions).” The formula which is expressed 
+in a phrase ot combination of words must state 
+the nature or essence of a thing, not just the 
+meaning of a word. “The formula ... in which 
+the term itself is not present but its meaning is 
+expressed, this,” according to Aristotle, “is the 
+formula of the essence of each thing” and, he 
+
+290 THE GREAT IDEAS ’ 
+
+adds, “there is an essence only of those things 
+whose formula is a definition.” 
+
+Even supposing the truth of these state- 
+ments, which Hobbes or Locke certainly would 
+question, the problem of real as opposed to 
+nominal definition requires further examina- 
+tion. To explore the matter further, let us take 
+two of the most famous definitions to be found 
+in the great books. Both are definitions of man 
+— “featherless biped” and “rational animal.” 
+As we have seen, these definitions must remain 
+purely nominal — only stating the meaning of 
+the word “man” — until that word is used to 
+name some kind of thing. If, however, we apply 
+the word “man” to existing entities which 
+combine the characteristics of having two legs 
+and lacking feathers, then “featherless biped” 
+defines, not the word “man,” but a class of real, 
+that is, existing things. In addition to being 
+nominal, the definition is now also real in the 
+sense that the class or kind which it determines 
+has e.xisting members. 
+
+That animals exist may similarly be a fact of 
+observation. But “animal” is only one of the 
+two terms in the other nominal definition of 
+“man.” In order to make “rational animal” 
+more than a nominal definition, it is necessary 
+to verify the existence of animals which possess 
+a certain characteristic, rationality, not pos- 
+sessed by all animals. If rationality in some de- 
+gree belonged to all animals, then the word 
+“man” (nominally defined by “rational ani- 
+mal”) would be synonymous with “animal.” 
+But, unlike feathers, the presence or absence of 
+which seems readily observable, the possession 
+or lack of rationality is difficult to ascertain. 
+
+Here we face two possibilities. One is that we 
+can never be sure that some existing animals 
+are and some are not rational. Then the defini- 
+tion “rational animal” will never become real. 
+It will always remain merely nominal, the state- 
+ment of a possible meaning for “man,” but one 
+which we cannot employ when we apply the 
+word to name any existing thing. The other 
+possibility is that we can infer the existence of a 
+special class of animals (distinguished by the 
+possession of reason) from such evident facts as 
+the activities of reading and writing, activities 
+not performed by all animals. Then, members 
+of the class defined having been found to exist, 
+“rational animal” becomes a real definition of 
+
+the beings to which we also arbitrarily assign 
+the name “man.” 
+
+The process of verification by which a nom- 
+inal is converted into a real definition can be 
+regarded as the demonstration of a definition. 
+Strictly speaking, it is not the definition which 
+is thereby proved. It is rather a proposition in 
+which the subject of the definition is affirmed 
+to exist, or in which a subject already known to 
+exist is said, to have a certain definition. For 
+example, it is not the definition “rational ani- 
+mal” which is proved, but the proposition 
+“there exists an animal which differs from other 
+animals in being rational,” or the proposition 
+“the real being which we call ‘man’ is both an 
+animal and rational, and he alone is rational.” 
+If these propositions cannot be proved, “ration- 
+al animal” remains a purely nominal definition. 
+
+That definitions are not as such either true or 
+false is unaffected by the distinction between 
+real and nominal definitions. The point is sim- 
+ply that a definition, which is always linguisti- 
+cally expressed by a phrase, never a sentence, 
+neither affirms nor denies anything, and so can- 
+not be either true or false. “Featherless biped” 
+or “son of the same parents” makes no assertion 
+about reality or existence. 
+
+Yet there is a special sense in which defini- 
+tions can be true or false, which does have a 
+bearing on the distinction between real and 
+nominal definitions. Pascal suggests three alter- 
+natives with regard to the truth or falsity of 
+definitions. “If we find it impossible,” he 
+writes, “it passes for false; if we demonstrate 
+that it is true, it passes for a truth; and as long 
+as it cannot be proved to be either possible or 
+impossible, it is considered a fancy.” 
+
+According to Aquinas, there are two ways in 
+which a definition can be false. In one way, 
+when the intellect applies “to one thing the 
+definition proper to another; as that of a circle 
+to a man. In another way, by composing a def- 
+inition of parts which are mutually repugnant. 
+A definition such as ‘a four-footed rational ani- 
+mal’ would be of this kind ... for such a state- 
+ment as ‘some rational animals are four-footed’ 
+is false in itself.” 
+
+But the truth or falsity of that statement can 
+conceivably be argued, and therefore it is not 
+so clear an example of a false definition as one 
+
+Chapter 15 : DEFINITION 291 
+
+ivhich, in Pascal’s terms, plainly represents an 
+impossibility. Suppose someone offered "round 
+square’’ as the nominal definition of “rectacy- 
+cle.” The phrase “round square” expresses a 
+self-contradiction, and in consequence the defi- 
+nition is false. Its falsity is tantamount to the 
+impossibility of there being any such figure as a 
+rectacyde which has the definition proposed. 
+
+The truth of a definition— which is nothing 
+more than its freedom from self-contradiction 
+— is equivalent to the possibility, as opposed to 
+the impossibility, of the thing defined. To call 
+the definition “son of the same parents” or 
+“featherless biped” true is to say that the words 
+defined — “brother” or “man ” — signify possible 
+existences. In short, only those nominal defini- 
+tions which are true can ever become real, and 
+they become real only when the possibility 
+they signify is actually known to be realized in 
+existence. 
+
+The method of Euclid’s Elements illustrates 
+the foregoing points. Euclid defines certain geo- 
+metrical figures, such as triangle, parallelogram, 
+square. These definitions may appear to be free 
+from contradiction, but that does not tell us 
+whether they are more than nominal. The de- 
+fined figures are possible, but the question is 
+whether they exist in the space determined by 
+Euclid’s postulates. 
+
+To show that they do exist, Euclid under- 
+takes to construct them according to his postu- 
+lates which permit him the use of a straight 
+edge and a compass for purposes of construc- 
+tion. When in Proposition i Euclid proves that 
+he can construct an equilateral triangle, he es- 
+tablishes the geometrical reality of the figure 
+defined in Definition 20. A geometrical con- 
+struction is thus seen to be what is called an 
+“existence proof.” It converts a nominal into a 
+real definition. Figures which cannot be con- 
+structed must be postulated; as, for example, 
+the straight line and the circle. Postulates i and 
+3 ask us to assume that a straight line can be 
+drawn between any two points and that a circle 
+can be described with any center and radius. 
+These postulates give Definitions 4 and 15 their 
+geometrical reality. 
+
+Though the method of construction is pecu- 
+liar to geometry, the relation of definitions to 
+proofs or postulates of existence is the same for 
+
+all sciences. Until a definition ceases to be nom- 
+inal and becomes real, it cannot be used scien- 
+tifically in the demonstration of other conclu- 
+sions; to use a merely nominal definition in the 
+proof begs the question. 
+
+If the existence of the thing defined is either 
+directly observable or self-evident, no proof or 
+postulation of existence is required. In theol- 
+ogy, for example, there are those who think 
+that the existence of God is immediately seen 
+in the definition of God. Descartes and Spinoza 
+seem to be of this opinion. 
+
+Descartes argues that “eternal existence” is 
+necessarily included in the idea of God as “a 
+supremely perfect Being.” This is so evident, 
+he declares, that “existence can no more be 
+separated from the essence of God than can its 
+having its three angles equal to two right angles 
+be separated from the essence of a triangle, or 
+the idea of a mountain from the idea of a val- 
+ley.” Concerning substance or God, Spinoza 
+holds that, since it pertains to its nature to 
+exist, “its definition must involve necessary 
+existence, and consequently from its definition 
+alone its e.xistence must be concluded.” 
+
+On the other hand, there are those who think 
+that the existence of God must be proved by 
+inference from effect to cause. Supposing that a 
+man understands the meaning of the word 
+“God,” Aquinas maintains that it “does not 
+therefore follow that he understands that what 
+the name signifies exists actually, but only that 
+it exists mentally.” Hence, he declares, it is nec- 
+essary to prove the existence of God, “accept- 
+ing as a middle term the meaning of the name,” 
+but using an effect in “place of the definition of 
+the cause in proving the cause’s existence.” 
+
+The difference between these two positions 
+might be summed up by saying that Descartes 
+and Spinoza, like Anselm before them, think 
+the definition of God is intrinsically real, where- 
+as Aquinas thinks we must begin with a nom- 
+inal definition of God, which becomes real only 
+with proof of God’s existence. For some con- 
+firmed atheists, any definition of God is not 
+only nominal, but false — the definition of an 
+impossible being, incapable of existing. 
+
+There is still another issue about nominal and 
+real definitions. The point involved is the one 
+raised by Locke’s discussion of nominal and real 
+
+292 , ■ the , great IDEAS 
+
+essences. It is also raised by, Aristotle’s discrim- 
+ination between essential and accidental uni- 
+ties, i.e., the difference between the unity sig- 
+nified by the phrase “featherless biped” and by 
+the phrase “black man.” Both phrases look like 
+definitions. Each designates, a possible class of 
+individuals and sets up the conditions for mem- 
+bership in that class or exclusion from it. 
+
+The distinction between them does not rest, 
+according to Aristotle, on the criterion of exist- 
+ence. Both of the objects defined may exist, but 
+whereas the first is truly a species, the second is 
+only, in Aristotle’s opinion, an accidental vari- 
+ety within the species man. Man, being a spe- 
+cies, can have a real essence, and so any defini- 
+tion of man — whether “featherless biped” or 
+Vrational animal”— can be a real definition, con- 
+stituted by genus and differentia. But negro or 
+aryan, not being a species, but only a race or 
+variety, has no essence as such. The definitions 
+— “black man” and “white man” — indicate 
+this in that they are constituted by two terms 
+which are related as substance and accident, not 
+as genus and differentia. 
+
+Though Aristotle distinguishes these two 
+types of formulae as essential and accidental 
+definitions rather than as real and nominal defi- 
+nitions, the one principle of distinction is close- 
+ly related to the other, for only essential defini- 
+tions can have real essences for their objects. 
+Accidental definitions do little more than state 
+the meanings of words, or express what Locke 
+calls the “nominal essences” of things. He 
+doubts that the definition of anything except a 
+mathematical object can ever grasp the real es- 
+sence of a thing. For him all definitions are 
+nominal, which is equivalent to saying that we 
+never define by means of the, true genus and 
+differentia, but always by accidental and exter- 
+nal signs, or by stating the component parts of 
+a complex whole. 
+
+“Speaking of a man, or gold,” Locke ex- 
+plains, “or any other species of natural sub- 
+stance, as supposed constituted by a precise and 
+real essence which nature regularly imparts to 
+every individual of that kind, whereby it is 
+made to be of that species, we cannot be certain 
+of the truth of any affirmation or negation 
+made of it. For man or gold, taken in this sense, 
+and used for species of things constituted by 
+real essences, different from the complex idea 
+
+in the mind of the speaker, stand for we know 
+not what; and the extent of these species, with 
+such boundaries, are so unknown and undeter- 
+mined, that it is impossible with any cfertainty 
+to affirm, that, all men are rational, or. that all 
+gold is yellow.” ... 
+
+This issue jHAs many ramifications. In one 
+direction it 'leads into Aristotle’s quarrel with 
+Plato over the method of definition by division 
+or dichotomy. In the Sophia znA the Statesman, 
+the search for definitions proceeds, by the divi- 
+sion of a class of things into two sub-classes, one 
+of which is then further subdivided, and so on 
+until a class is reached which has the character- 
+istics of the object to be defined. The attempt 
+to define a sophist, for example, starts with the 
+notion that he is a man of art, and proceeds by 
+dividing and, subdividing the various kinds of 
+art. At one point in the course of doing this, the 
+Athenian Stranger summarizes the process to 
+that point. . , 
+
+“You and I,” he says to Theaetetus, “have 
+come to an understanding not only about the 
+name of the angler’s art, but about the defini- 
+tion of the thing itself. One half of all art was 
+acquisitive— half of the acquisitive art was con- 
+quest or taking by force, half of this was hunt- 
+ing, and half of hunting was hunting animals, 
+half of this was hunting water animals— of this 
+again, the under half was fishing, half of fishing 
+was striking; a part of striking was fishing with 
+a barb, and one half of this again, 'being the 
+kind which strikes with a hook and draws the 
+fish from below upwards, is the art which we 
+have been seeking, and which from the nature 
+of. the operation is denoted angling or drawing 
+up . . . And now, following this pattern,” he 
+continues, “let us endeavor to find out what a 
+Sophist is.” , 
+
+The pattern as illustrated indicates that, in 
+the course of division, one of the two classes is 
+discarded while the other is subject to further 
+subdivision. Aristotle’s criticism of this pro- 
+cedure turns partly on the fact that the divi- 
+sion is always dichotomous, or into two sub- 
+classes, and partly on the fact that the terms 
+which Plato uses in a succession of subdivisions 
+do not seem to have any systematic relation to 
+one another. If the class of animals, for exam- 
+ple, is divided into those with and those with- 
+
+Chapter 15: DEFINITION 293 
+
+out feet, it makes a difference, according to 
+Aristotle, what terms are then used to differ- 
+entiate footed animals into their proper sub- 
+classes. 
+
+“It is necessary,” he insists, “that the divi- 
+sion be by the differentia of the differeniia\ e.g„ 
+‘endowed with feet’ is a differentia of ‘animal’; 
+again the differentia of ‘animal endowed with 
+feet’ must be of it qua endowed with feet. 
+•Therefore we must not say, if we are to speak 
+rightly, that of that which is endowed with feet 
+one part has feathers and one is featherless (if 
+we do this we do it through incapacity); we 
+must divide it only into cloven-footed and not- 
+cloven; .for these are differentiae in the foot; 
+cloven-footedness is a form of footedness. And 
+the process wants always to go on so till it 
+reaches the species that contains no difference. 
+And then there will be as many kinds of foot as 
+there are differentiae, and the kinds of animals 
+endowed with feet will be equal in number to 
+the differentiae. If then this is so, clearly the 
+last differentia will be the essence of the thing 
+and its definition.” 
+
+As Aristotle quarrels with Plato’s method of 
+division, so William James takes issue with Aris- 
+totle’s theory that a real essence is defined when 
+the right differentia is properly chosen within a 
+certain genus of things. He tends to follow 
+Locke’s notion that definitions indicate no 
+more than the nominal essences of things, but 
+he gives this theory a special twist by adding 
+the notion that all our definitions merely group 
+things according to the interest or purpose, 
+whether theoretical or practical, which moti- 
+vates our classification of them. This has come 
+to be known as the pragmatic theory of 
+definition. 
+
+“My thinking,” writes James, “is first and 
+last and always for the sake of my doing.” After 
+pointing out that Locke “undermined the fal- 
+lacy” of supposing that we can define the real 
+essences of things, he goes on to say that “none 
+of his successors, as far as I know, have radically 
+escaped it, or seen that the only meaning of es- 
+sence is teleological, and that classification and 
+conception are purely teleological weapons of the 
+mind. The essence of a thing is that one of its 
+pvqperdes which is so important for my interests 
+that in comparison with it I may neglect the 
+rest. . . . The properties which are important 
+
+vary from man to man and from hour to hour.” 
+
+In a footnote James adds: “A substance like 
+oil has as many different essences as it has uses 
+to different individuals.” The classification of 
+natural as well as artificial objects should there- 
+fore proceed according, to the advice Mephis- 
+topheles gives to the student in Goethe’s Faust. 
+“You will have more success,”, he says, “if you 
+will learn to reduce all, and to classify each ac- 
+cording to its use.” But if this is so, then no one 
+scheme of classification, more than any other, 
+represents the real structure or order of nature. 
+Nature indifferently submits to any and all divi- 
+sions which %ve wish to make among existing 
+things. Some classifications may be more sig- 
+nificant than others, but only by reference to 
+our interests, not because they represent reality 
+more accurately or adequately. It does not mat- 
+ter, therefore, whether we define by genus and 
+differentia, by other characteristics in combina- 
+tion, or by refererice to origins or functions. 
+
+Daiavin’s scheme of classification provides 
+evidence relevant to this whole issue. As indi- 
+cated in the chapters on Animal and Evolu- 
+tion, Darwin thinks that his genealogical clas- 
+sification of plants and animals comes nearer to 
+the natural system of living organisms than the 
+classifications proposed by his predecessors. 
+“The Natural System,” he writes, “is a genea- 
+logical arrangement, with the acquired grades 
+of difference, marked by the terms, varieties, 
+species, genera, families, etc.; and we have to 
+discover the lines of descent by the most per- 
+manent characters whatever they may be and 
+of however slight vital importance.” Hence- 
+forth, following his method, “systematists will 
+have only to decide . . . whether any form be 
+sufficiently constant and distinct from other 
+forms, to be capable of definition; and if de- 
+finable, whether the differences be sufficiently 
+important to deserve a specific name.” 
+
+But Darwin’s statement re-opens rather than 
+resolves the great traditional questions. Are the 
+various groupings made in classification divi- 
+sions which the classifier finds useful to impose 
+on nature, or do they represent lines of real 
+distinction in the very nature of things ? If the 
+latter is the case, either wholly or in part, are 
+we able to do more than approximate real dis- 
+tinction by whatever method of definition we 
+employ? Can we discover real species, cssen- 
+
+294 THE GREAT IDEAS 
+
+tially distinct from one another, and can our 
+definitions formulate the essence of each ? 
+
+The search for definitions basically belongs to 
+the activity of the human mind in all its scien- 
+tific or dialectical efforts to clarify discourse, to 
+achieve precision of thought, to focus issues and 
+to resolve them. 
+
+Men have no other way of coming to terms 
+with one another than by defining the words 
+they use to express their concepts or meanings. 
+They make terms out of words by endowing 
+words with exactness or precision of meaning. 
+Definition does this and makes possible the 
+meeting of minds either in agreement or in dis- 
+pute. Definition also makes it possible for any 
+
+mind to submit itself to the test of agreement 
+with reality. Definition helps man to ask nature 
+or e,xperience the only sort of question to which 
+answers can be found. 
+
+The search for definitions has, perhaps, its 
+most dramatic exemplification in the dialogues 
+of Plato. Socrates usually leads the conversation 
+in quest of them; though it is only in certain 
+dialogues, such as the Sophist and the States- 
+man, that the making of definitions is practiced 
+in detail. Two other books in this set are largely 
+concerned with ways of reaching and defending 
+definitions — Aristotle’s Topics (which should be 
+considered together with the opening chapters 
+of his Parts of Animals) and Bacon’s Novum 
+Organiim.
+
+
+OUTLINE OF TOPICS 
+
+1. The theory of definition 295 
+
+la. The object of definition: definitions as arbitrary and nominal or real and con- 
+cerned with essence 
+
+I A The purpose of definition: the clarification of ideas 296 
+
+xc. The limits of definition: the definable and the indefinable 
+
+id. The unity of a definition in relation to the unity of the thing defined 297 
+
+le. The truth and falsity of definitions 
+
+2. The various methods of definition or classification 
+
+2a. The use of division or dichotomy in definition 
+2b. Definition by genus and differentia: properties 
+
+2C. Definition by accidental or extrinsic signs or by component parts 298 
+
+2d. The appeal to genesis, origin, cause, or end in definition 
+2e. Definition by reference to purpose or interest 
+
+3. The grammatical or verbal aspects of definition 299 
+
+4. The search for definitions and the methods of defending them 
+
+5. Definition and demonstration: definitions as principles and as conclusions 
+
+6. The character of definitions in diverse disciplines 300 
+
+6 a. The formulation of definitions in physics, mathematics, and metaphysics 
+
+6 b. The use of definition in speculative philosophy and empirical science 
+
+6 c. The role of definitions in practical or moral philosophy and the social sciences 301
+
+
+REFERENCES
+
+REFERENCES 
+
+ 
+
+1, The theory of definition 
+
+7 Plato: Meno, 174a-177d / Theaeietus, S44d- 
+54gd / Sophist S51a-S79d / Statesman 580a- 
+608d / Laws, bk x, 763c-d / Seventh Letter, 
+809c-810d 
+
+8 Aristotle: Posterior Analytics, bk 11, ck 3-10 
+123c-128d; ch 13 131b-133c / Topics, bk vi- 
+vii 192a-211a,c / Metaphysics, bk vii, ch 4-6 
+S52b-555a; ch 10-17 558a-566a,c; bk viii, 
+ch 2-3 566d-568d; ch 6 569d'570d 
+
+9 Aristotle: Parts of Animals, bk i, ck 2-4 
+I6Sd-168c 
+
+12 kvKTLiAvs: Meditations, bk hi, sect 11 262a-b 
+
+18 Augustine: Christian Doctrine, bk h, ch 35 
+653b-c 
+
+23 Hobbes: Leviathan, part i, S6b-d 
+
+30 Bacon: Novum Organum, bk ii 137a-195d esp 
+APH 17 149b-d, APH 22-51 153b-194c 
+
+31 Descartes: Rules, xii, 23c-24a 
+
+31 Spinoza: Ethics, part i, prop 8, schol 2 
+356d-3S7d; part ii, prop 40, schol i 387b- 
+388a 
+
+33 Pascal: Geometrical Demonstration, 430b- 
+434b; 442a-443b 
+
+35 Locke: Human Understanding, bk hi, ch 
+iH-vi 254d-283a passim 
+
+35 Hume; Human Understanding, sect vii, div 
+48-49 470d-471d 
+
+42 Kant: Pure Reason, 44c-4Sb; 215d-217a 
+
+44 Boswell; Johnson, 82a-c 
+
+53 James: Psychology, 314a-b; 668a-673b 
+
+la. The object of definition: definitions as ar- 
+bitrary and nominal or real and con- 
+cerned with essence 
+
+7 Plato: Cratylus, 104d-105b; 113a-114a,c / 
+Gorgias, 252d-253b / Republic, bk vi, 384a- 
+387d; BK IX, 426d'427b / Timaeus, 457b- 
+458b / Theaetetus, 514b-515c; 547c-549c / 
+Sophist, 551a-d / Philehus, 610d-613a / Laws, 
+BK X, 763c-d / Seventh Letter, 809a-8I0b 
+
+8 Aristotle: Categories, ch 5 [2“i9-3'’24] 6b- 
+8a / Posterior Analytics, bk i, ch 22 113b-llSb; 
+ch33[88’’30-89“i] 121b'C;BK ii, ch 3-10 123c- 
+128d; CH 13 131b-133c / Topics, bk i, ch 4 
+[ioi’’i 7-23] 144b-c; ch 5 [ioi'’37-io2°5] 
+144d: CH 8 [io3'’i-ii] 146d; ch 18 [io 8'‘38-’’9] 
+152d;[io8'’i9-32]lS3a,c;BK vi, chi[i 39''24-34] 
+192a; bk vi, ch 4-BK vii, ch 5 194c-211a,c 
+passim / Physics, bk ii, ch i [i93''30-'’i 9] 
+269c-270a / Generation and Corruption, bk i, 
+CH 2 [31^17-2^] 413b / Meteorology, bk iv, 
+CH 12 493d-494d / Metaphysics, bk i, ch 5 
+(986*’8-987'*i] 504c-505a; [gSy^ip-ay] SOSb: 
+CH 6 [987 ’’i-io] 505c; [987'’3o- 33] S06a; bk 
+11, CH 2 [994’’i 6-27] 513a-b; bk hi, ch 2 [996’’ 
+i2-2i'[515a-b; bk iv, ch 4 525a-528b; bk vi, 
+
+296 the great ideas la to Ic 
+
+(1, The theory of d^nitlon. la. The object of 
+definition; definitions as arbitrary and nom- 
+inal or real and concerned with essence.) 
+
+CH I [io25'’28-io26®6] 547d-S48a; bk vh, 
+CH I [io28=*3I-37] SSOd; ch 4-6 SS2b-55Sa; 
+CH 10-17 558a'S66a,c; bk viii, ch 2-3 S 66 d- 
+568d; CH 6 569d-570d-, bk x, ch i [ 1052 *’!- 
+15 ] 578d-579a; bk xi, ch 5 590a-d; bk 
+xni, CH 4 [io78'’i8-32] 610b-c / Soul, bk i, 
+CH I 631a-632d; bk hi, ch 6 [ 430 *’ 26 - 3 i] 
+663b-c , , 
+
+9 Aristotle: Parts of Animals, bk i, ch i 
+[64i'‘i4-3i] 163d-164a; ch 2-4 165d-168c 
+
+19 Aquinas: Summa Theologica, part i, q i, a 
+
+7 , REP I 7a-c; Q 2 , A I, REP 2 lOd-lld; a 2 , 
+REP 2 lld-I2c; Q 3 , A 3 , ANs 16a-d; a 5 , ans 
+17c-18b; Q 17 , A 3 I02d-103c; q 29 , a i, 
+REP 1,3-4 162a-163b; a 2, rEp 3 163b-164b; 
+Q 44 , a I, REP I 238b-239a; a 3 , rep 3 240b- 
+241a; Q 58 , a 5 303c'304c; q 75 , a 4 , ans 
+381b-382a; Q 85 , a 6 458d-459c; Q 116 , a r, 
+CONTRARY 592d-593d , 
+
+20 Aquinas: Summa Theologica, part ii-ii, q 4, 
+A I, ANS 402a-403d; part hi, q 2, a 2, ans 
+711d-712d; Q 60, a 4, rep 1 849c-8S0b 
+
+23 Hobbes : Leviathan, part i, 55b-c; 56b; 59c-d; 
+PART IV, 270a-c 
+
+25 Montaigne: Essays, 518d-519a 
+
+28 Galileo: Two New Sciences, first day, 142d- 
+143a 
+
+30 Bacon; Novum Organum, bk 11, aph 4 137 d- 
+138b 
+
+31 Descartes: Rules, xiii, 26b-c / Objections 
+and Replies, postulate iv 131a-b 
+
+31 Spinoza: Ethics, part 1, prop 8, schol 2 
+356d-357d; part ii, prop 40, schol 1 387b- 
+388a; part hi, prop 4 398d 
+- 33 Pascal: Vaauim, 372b-373b; 376b-377a / 
+Geometrical Demonstration, 430b-431bi 
+
+35 Locke: Human Understanding, bk ii, ch 
+XXXI, SECT 6-13 240d-243b; ch xxxii, 
+sect 18 246c-247a; sect 24 247c-d; bk hi, 
+,, ch III, SECT 11-20 257a-260a esp sect 18-20 
+259b-260a; ch v, sect 14 267b-c; ch vi 
+268b-283a; ch x, sect 17-21 295d-297b; ch 
+XI, SECT 15-24 303b-305d; bk iv, ch iv, 
+SECT H-17 326b-328d passim; ch vi, sect 
+
+, > 4-16 331d-336d passim; ch xii, sect 9 360d- 
+.361b 
+
+35 Berkeley: Human Knowledge, intro, sect 
+18 410a-c 
+
+42 Kant: Pure Reason, 179d-182b; 215d-216c / 
+Science of Right, 404d; 423d-424b 
+n 45 Lavoisier; Elements of Chemistry, part i, 
+lOa-b 
+
+46 Hegel: Philosophy of History, intro, 176c; 
+184d-185a 
+
+49 Darwin: Origin of Species, 27b-29a esp 29a 
+
+51 Tolstoy: War and Peace, epilogue ii, 
+694b-d 
+
+. S3 James: Psychology, 106a; 185a-b; 668a-671a; 
+882b-883a 
+
+lb. The purpose of definition: the clarification 
+
+of ideas 
+
+7 Plato: Phaedrus, 120a-b / Meno, 174a-179b / 
+Euthyphro, 193c / Sa'enth Letter, 809c-810b 
+
+8 Aristotle: Posterior Analytics, bk ii, ch 14 
+[98*1-2] 133c-d / Topics, BK 1, ch 18 [108' 
+17-37] 152b-d; bk vi, 'ch i [i39*’ii-i 5] 
+192b-c; ch 4 [141*26-32] 194c; bk viii, ch 3 
+[158*31-159*2] 214d-215c / Metaphysics, bk 
+IV, ch 4 525a-528b; bk xi, ch 5 590a-d / Sold, 
+BK I, CH I [402''i5-403“2] 631d-632a 
+
+9 Aristotle: Parts of Animals, bk ii, ch 2 
+[648’’i- 5] 172d / Rhetoric, bk ii, ch 23 [1398* 
+15-27] 646c 
+
+12 Aurelius: Meditations, bk hi, sect 11 262a-b 
+19 Aquinas: Summa Theologica, part i, q 85, 
+A 3 , REP 3 455b-4S7a 
+
+23 Hobbes: Leviathan, part i, 56b; 58d-59a; 
+part IV, 269b-c 
+
+28 Galileo: Two New Sciences, first day, 
+142d-143a 
+
+30 Bacon: Advancement of Learning, 60b-c; 
+
+61b-c / Novum Organum, bk i, aph 59 
+112b-c - , 
+
+31 Descartes: Rules, xii, 23c-24a; xiii, 26b-c 
+
+33 Pascal: Geometrical Demonstration, 430b- 
+
+434b passim ' 
+
+34 Newton: Principles, definitions, schol, 8b 
+
+35 Locke: Human Understanding, bk hi, ch iv, 
+
+SECT 6-14 260d-263a ' 
+
+35 Hume; Human Understanding, sect viii, 
+Div 62 478b-c; Div 74 484a-c 
+42 Kant: Pure Reason, 113b-c / Practical Reason, 
+293c-294b 
+
+44 Boswell: Johnson, 377d 
+
+45 Lavoisier: Elements of Chemistry, PREF,,4a- 
+5c; PARTI, lOa-b; 21a-22c 
+
+45 Faraday: Researches in Electricity, 361a'b 
+
+46 Hegel: Philosophy of Right, intro, par 2 
+
+. 9b-10a n 
+
+49 Darwin; Origin of Species, 207d-208a 
+51 Tolstoy: War and Peace, epilogue ii, 694b-d 
+53 James: Psychology, 314a-b; 669a-671a; 871a-b 
+
+l c. The limits of definition: the definable and 
+
+the indefinable . . 
+
+7 Plato: Republic, bk vi, 384a-388a / Theaete- 
+tus, 544c-547c / Seventh Letter, 809c-810b 
+
+8 Aristotle; Metaphysics, bk i, ch 9 '[992’’ 
+24-993*1] 511a-b; bk iii ch 2 [9g4'’i6-27] 
+
+• 513a-b; bk v, ch 3 [ioi4''3-i3] 534d; bk vii, 
+ch 4-5 552b'554a; ch io-iii558a-56la; ch 
+13 [1039*15-23] 563a; ch 15 i563c-564c; bk 
+VIII, CH 3, [io43’>23-33] 568b; bk x, ch 8-9 
+585b-586c r' 
+
+17 Plotinus: Fifth Ennead, tr v, ch 6 231 b-d 
+19 Aquinas: Summa Theologica, part i, Q a 
+7 , rep 1 7a-c; q 2, a 1 , rep 2 lOd-lld; a 2, 
+REP 2 lld-12c; Q 3, A 3, ANS 16a-d; a 5, ans 
+17c-18b; Q 29, A I, REP I 162a-163b; a 2, 
+REP, 3 163b-164b; q 44, a 3, rep 3 240b- 
+241a; q 85, a i, rep 2 451c-453c 
+
+Id to lb Chapter 15; DEFINITION 297 
+
+30 Bacon: Novum Organttm, bk i, aph 59 112b-c 
+
+31 Descartes; Rules, xir, 23c-24a 
+
+31 Spinoza; Ethics, part t, axiom 2 355d 
+33 Pascal: Geometrical Demdnstration, 431b- 
+434b; 442a-443b 
+
+3S Locke; Human Understanding, bk 11, ch n, 
+SECT I 127d-128a;'CH iv, sect 6 131a: ch 
+XX, sect I 176b-c; bk hi, ch iv, sect 4-17 
+
+’260b-263c; ch vi 268b-283a passim, esp 
+SECT 7-10 270b-271b; ch xi, sect 13-25 
+302d-306c 
+
+35 Hume; Human Understanding, sect vii, div 
+49 471c-d 
+
+42 Kant; Pure Reason, 29d-33d; S3b-54b; 
+179d-182b; 21Sd-216c / Judgement, 603a-604b 
+
+43 Federalist; number 37, 119b-120b 
+
+44 Boswell: Johnson, 82b 
+
+49 Darwin: Origin of Species, I Descent of 
+
+' Man, 346d-347b 
+
+51 Tolstoy: War andPeace, epilogue ii, 694b-d 
+53 James; Psychology, 314a 
+
+l d. The unity of a definition in relation to the 
+I unity of the thing defined 
+
+' 7 Plato; Laches, 32a-33a / Cratylus 85a-114a,c 
+esp 8Sa-89a, 104b-114a,c / Meno, 174a-179b 
+/ Theaetetus, S14b-SlSd / Sophist, 5S9a-c 
+'8 Aristocle: Posterior Analytics, bk ii, ch 6 
+[92“28-33] 126b; cH 10 [93'’28-94’'7] 12Sb-c; 
+CH 13 [97'’6-25] 133a-b / Topics, bk vi, ch 
+4 [i4i“ 26-'’2] 194C'd; ch 5 (i42'’3o-i43“r2j 
+196b'c; ch 13-14 204c-206d; bk vii, ch 3 
+[i53“6-22] 208a-b; [i54''3-iJ] 209b / Physics, 
+bk I, CH 3 [i86*>i4-3o] 261c-d / Metaphysics, 
+BK i, CH 5 [g86*’8-g87“i] S04c-S0Sa; bk v, ch 
+6 [ioi6“33-^ii] 536d-537a; bk vir, oh 4-6 
+5S2b-555a; ch 10-17 5S8a-566a,c; bk viii, 
+ch 2-3 566d-568d; ch 6 S69d-570d; bk x, 
+CH i [io 52"'28-37] S78d / Soul, bk ii, ch 3 
+[4i4*’20-4i5“i4] 644d-64Sb 
+30 Bacon; Namm Organum, bk ii, aph 35 162a- 
+164a 
+
+’ 35 Locke: Human Understanding, bk 11, ch 
+XXII, sect 4 201c-d; ch xxiii, sect 1-2 
+204a-c; bk hi, ch v, sect 4 264b; ch vi, 
+SECT 21 273c-d; sect 28-30 276a-277b 
+35 Berkeley: Human Knowledge, sect i 413a-b 
+53 James; Psychology, 503a-b 
+
+le. The truth and falsity of definitions 
+
+7 Plato: Cratylus 3 Sa-UAa,c esp SSa-SOa, 104b- 
+114a, c / Seventh Letter, 809C'810b 
+
+8 Aristotle; Topics, bk vi-vn 192a-21Ia,c 
+passim, esp bk vi, ch 4-14 194c-206d / Meta- 
+physics, BK V, ch 29 [io24*’27-38] S46d-S47a; 
+bk VI, CH 4 [i027’’i7-28] 5S0a,c; bk jx, ch 
+10 [io5i'>i8-33l 577d-578a / Soul, bk hi, ch 
+6 [43o°26-3o] 663b-c 
+
+19 Aquinas: Sumrna Theologica, part r, q 2, a 
+I, REP 2 lOd-lld; Q 17, A 3 102d-103c: q 58, 
+A 5 303c-304c; Q 85, A 6 4S8d-4S9c 
+23 Hobbes: Leviathan, parti, 56b-d 
+
+28 Galileo: Two New Sciences, third day, 
+200a-b 
+
+30 Bacon: Novtim'Organum, bk i, aph 59 112b- 
+c; BK II, APH 35 I62a-164a 
+
+31 Descartes: Rules, xiii, 26b-c 
+
+31 Spinoza; Ethics, part i, .prop 8, schol 2, 
+357b-d; part ii, prop 40, schol 1-2 387b- 
+388b 
+
+33 Pascal: Geometrical Demonstration, 430b- 
+431b 
+
+35 Locke: Human Understanding, bk ii, ch 
+XXXII 243 C' 248 b passim 
+
+42 Kant: Pure Reason, 179d-182b 
+
+43 Mill; Utilitarianism, 469a-b 
+
+44 Boswell: Johnson, 82a-c 
+
+46 Hegel: Philosophy of Right, intro, par 2 9b- 
+10a 
+
+53 James; Psychology, 669a-67Ia 
+
+2. The various methods of definition or classi- 
+fication 
+
+la. The use of division or dichotomy in defi- 
+nition 
+
+7 Plato; Phaedrus, 134a-c / Sophist, S52b-S61d; 
+577c-579d / Statesman 580a-608d / Philebus, 
+610d-613a 
+
+8 Aristotle; Prior Analytics, bk i, ch jr 
+64b-65a / Posterior Analytics, bk ii, ch 5 125b- 
+d; CH 13 [96'’25-97''6] 132a-133a / Topics, bk 
+VI, ch 6 [i43''ii-i44‘“4j 197b-c / Metaphysics, 
+BK VII, CH 12 [i037’'28-i038''35l 561c-S62a 
+
+9 Aristotle: Parts of Animals, bk i, ch 2-4 
+165d-168c 
+
+17 Plotinus: First Ennead, tr hi, ch 4 lla-c / 
+Sixth Ennead, tr hi, ch 8-10 285a-286d; cn 
+16-18 289c-291d 
+
+18 Augustine; Christian Doctrine, bk ii, ch 35 
+653b-c 
+
+2b. Definition by genus and differentia: proper- 
+ties 
+
+7 Plato: Theaetetus, S48c-549d 
+
+8 Aristotle: Categories, ch 3 [i*’i6-24] Sd; 
+CH 5 [2“ii-3*’24] 6a-8a; ch 13 [i4*’32-ig“8i 
+20c-d / Prior Analytics, bk 1, ch 27 [43'“25-44] 
+60c-d / Posterior Analytics, bk i, ch 22 ll3b- 
+115b; BK II, CH 13-14 131b-134a / Topics, bk 
+1, CH 4-9 I44b-147b; ch 18 [io8“38-*’g] 152d; 
+[io8’’i9-32] 153a,c; bk iv-vh 168b,d-2na,c 
+/ Physics, BK I, CH 3 [i86’'i4-34] 261c-262a / 
+Metaphysics, bk hi, ch i [995'’27-3i) 514b; 
+CH 3 517a-518a; bk v, ch 3 [ioi4*’3-i3] 534d; 
+ch 25 {io23*’22-25] 54Sc; ch 28 [i024''37-*’9J 
+546b-c; bk vii, ch 4 [io3o“7-i4] 552d; ch 
+12-14 561b-563c; bk viii, ch 3 [i043*’24-i044° 
+14] 568b-d; ch 6 S69d-570d; bk x, ch 8-9 
+585b-586c; bk xi, ch i [io59''2i-io6o''i] 
+587d-588a / Soul, bk i, ch i [402**i5-403'‘2i 
+631d-632a 
+
+9 Aristotle: History of Animals, bk i, ch i 
+[ 4 8 6“i 5-4 87*1] 7b-d / Parts of Animals, bk i. 
+
+298 THE GREAT IDEAS 2cto2e 
+
+(2. The various methods of definition or classfi- 
+cation. 2b. Definition by genus and difier- 
+entia; properties.) 
+
+CH 1 [64i“i4-3i]163d-164a;cH2-4 165d-168c/ 
+Ethics, DK II, CH 5 [ii05’’i9]-CH 6 [1107=9] 
+351b-3S2c 
+
+17 Plotinus: Sixth Ennead, tr m, ch i, 281a-b; 
+CH 8-10 285a-2S6d; ch 16-1S 289c-291d 
+
+19 Aquinas : Stmma Theologica, part i, q 3, a 
+4, REP I 16d-17c; A 5, ANS 17c-18b; Q 29, a i, 
+REP 3-4 162a-163b; q 50, a 2, rep i 270a- 
+272a; a 4, rep i 273b-274b; Q 66, a 2, rep 
+2 345d-347b; Q 75, a 3, rep i 380c-381b; 
+Q 76, A 3, ANS and REP 2,4 391a-393a; q 77, 
+A I, REP 7 399c-401b; Q 85, a 3 455b-4S7a; 
+Q 88, A 2, REP 4 471c-472c; part i-ii, q i, 
+A 3 611b-612a; q 18, aa 5-1 i 697a-703a pas- 
+sim, esp A 7 698c-699c; Q 23 723c-727a pas- 
+sim, esp A I 723c-724c; q 35, a 4 774d- 
+775d; A 8, ans and rep 3 779c-780c 
+
+20 Aquinas : Simma Theologica, part i-ii, Q 49, 
+AA 1-2 lb-4a; q 52, a i, ans and rep 2 
+15d-18a; q 53, a 2, rep 3 21a-d; q 54 22d- 
+2Sd passim; Q 55, a 4, ans and rep 1-2 
+28c-29d; qq 60-61 49d-S9d passim; q 71, a 
+6 llOb-lllb; Q 72 lllb-119b passim; q 95, 
+A 4, ans 229b-230c; part n-ii, q 4, a i 
+402a-403d; part hi, q 2, a i, ans 710a-711c 
+
+30 Bacon: Novum Organum, bk ii 137a-195d 
+passim, esp aph 20-52 150d-19Sd 
+
+31 Descartes: Objections and Replies, 154a-b 
+
+35 LopKE: Human Understanding, bk hi, ch hi 
+254d-260a passim, esp sect 6-io 2S5c-257a; 
+ch VI 268b-283a passim, esp sect 6 269d- 
+270a, sect 30-32 276d-278b 
+
+42 Kant: Pure Reason, 193a-200c; 215d-216c 
+
+45 Lavoisier: Elements of Chemistry, pref, 4a- 
+5c; PART I, 21d; 25c-d 
+
+46 Hegel: Philosophy of History, intro, 176c 
+
+48 Melville: Moby Dicp, 9Sa-b; 104a 
+
+49 Darwin: Origin of Species, 12c-I3a; 2Sd-29a 
+esp 28b-29a: 30d-31d; 207d-210b esp 207d- 
+208a / Descent of Man, 331b-332a: 346d- 
+347c 
+
+53 James: Psychology, 344b-345b; 669a-671a; 
+869a-871a esp 870a-871a 
+
+2c. Definition by accidental or extrinsic signs 
+or by component parts 
+
+8 Aristotle: Topics, bk vi, ch 6 [144=23-27] 
+197d; [i44’’3-i45*'33] 198a-199c; ch 13 [150=1]- 
+ch 14 [151=32] 204c-206a / Metaphysics, bk 
+VII, CH 12 [1038=8-30] 56Id-S62a 
+
+9 Aristotle: Politics, bk iv, ch 4 [i29o’’25-36] 
+489d-490a 
+
+19 Aquinas; Summa Theologica, part i, q 29, 
+A I, rep 3 162a-163b; q 77, a i, rep 7 399c- 
+401b; PART I-II, Q 35, A 8, ANS and rep 3 
+779c-780c 
+
+31 Spinoza: Ethics, part h, prop 40, schol 1-2, 
+387b-388a 
+
+35 Locke: Human Understanding, bk ii, ch 
+xxH, sect 3 201b-c; sect 9 202C'203a: ch 
+XXIII, sect 3-10 204c-206d; sect 14-18 
+208b-209a; sect 37 213d-214b; bk in, ch 
+HI, sect 10 256c-257a; ch iv, sect 12-14 
+262b-263a; ch vi 268b-283a passim, esp sect 
+2-3 268c-d, sect 29 276b-d; ch xi, sect 19- 
+22 304b - 305a ; sect 23 305d - 306c 
+
+35 Hume: Human Undei standing, sect vii, div 
+49 471c-d 
+
+45 Lavoisier: Elements of Chemistry, part i, 
+21a-22c; 25c-29d 
+
+48 Melville: Moby Dicl{, 95b-105b 
+
+49 Darwin: Origin of Species, 207a-210b esp 
+207a, 208b, 210b; 212d-215a / Descent of 
+Man, 332b-c 
+
+S3 James: Psychology, 503a-b; 742a-b 
+
+2d. The appeal to genesis, origin, cause, or 
+end in definition 
+
+7 Plato: Theaetetus, 544c-548d 
+
+8 Aristotle: Topics, bk vi, ch 5 [143=9-12] 
+196c; ch 6 [145=19-27] 198d-199a; [145=32- 
+*“20] 199a-b; ch 8 [i46'’9-i47=ii] 200c-201a; 
+CH 12 [ 149 ^ 31 - 39 ] 204 b-c / Meteorology, bk 
+IV, CH 12 493d-494d / Metaphysics, bk i, ch 3 
+[983=24-29] 501c; BK V, CH 28 [io24“29-‘’9] 
+S46b-c; BK VIII, ch 2 [1043=2-17] S67b c; 
+CH 4 [io44'^i2-i5] S69b; bk xh, ch 3 [1070* 
+21-24] 599c / Soul, BK I, CH i [403"25-’’7] 
+632b-c; bk ii, ch 2 [413=11-19] 643a-b 
+
+9 Aristotle: Politics, bk i, ch 1-2 44Sa-446d; 
+BK III, CH 9 [1280=25-1281=2] 477d-478c 
+
+19 Aquinas: Summa Theologica, part i, q 44, 
+A I, REP I 238b-239a; part i-ii, q i, a 3 
+611b-612a 
+
+20 Aquinas : Summa Theologica, part i-ii, q 55, 
+A 4 28c-29d 
+
+30 Bacon : Advancement of Learning, 43a-d / No- 
+vum Organum, bk i, aph 63 113d-114a 
+
+31 Spinoza: Ethics, part i, prop 8, schol 2 
+356d-357d; appendix 369b-372d 
+
+35 Locke: Human Understanding, bk hi, ch 
+IV, sect 10 261b-d; sect 16 263b-c; ch vi, 
+SECT 23 274b-c 
+
+42 Kant: Judgement, S74a-b; 579b-c 
+
+49 Darwin: Origin of Species, 207a-229a,c esp 
+207d-208a, 211b-c, 217d-218a, 228c-d; 238b- 
+239a / Descent of Man, 331b-333a esp 332b c; 
+337a-341d passim 
+
+S3 James : Psychology, 742a-b 
+
+2e, Definition by reference to purpose or in- 
+terest 
+
+31 Spinoza: Ethics, part i, appendix 369b-372d; 
+PART II, prop 40, schol I 387b-388a 
+
+35 Locke; Human Understanding, bk h, ch 
+xvHi, sect 7 174d-17Sa; ch xxii, sect 5-7 
+201d-202b; bk hi, ch v 263d-268a passim, 
+esp SECT 6 264c-265a; ch vi, sect 30 276d- 
+277b esp 277a-b 
+
+47 Goethe: Faust, part i [1942-1945] 46a 
+
+3 /£> 5 Chapter 15: DEFINITION 299 
+
+49 Darwin: Origin of Species, 27c-2ga passim, 
+esp 29a 
+
+Si Psychology, 184a-186a; 314a-b; 668a- 
+
+671a 
+
+3. The grammatical or verbal aspects of defini- 
+
+tion 
+
+7 Plato: Charmides, 6b-d / Cm/y/iw 85a'114a,c 
+/ Theaetetus, S44d-545b / Laws, bk x, 763c-d 
+/ Seventh Letter, S09c-810b 
+
+8 Aristotle: Categories, ch i 5a-b; ch 5 [3“ 
+32-*’9] 7c-d / Posterior Analytics, bk ii, ch 
+13 [97’’27-39] 133b-c; ch 14 [98“i3-23] I33d- 
+134a / Topics, bk i, ch 5 [ioi‘’37-i02®ii] 
+144d; CH 15 149d-152a; ch 18 [io8“i7-37] 
+152b-d; bk iv, ch 3 [i23“27-29] 171d; ch 6 
+[i 27’’5-6] 177a; bk vi, ch i [i39''i2-i 8] 192b- 
+c; CH 2-14 192c-206d passim, esp ch io-ii 
+202b-203d; bk vii 206b,d-211a,c passim; bk 
+viii, CH 3 [i 58''8-I59“2] 215b-c / Metaphysics, 
+BK IV, CH 4 525a-528b; ch 7 [ioi2“22-24] 
+532b; BK VII, ch 4-5 SS2b-554a; ch 15 
+[io4o“ 9-I4J 564a; bk x, ch i [io52*'i-i 5J 
+578d-579a; bk xi, ch 5 S90a-d / Soul, bk i, 
+ch I [402’’5-8] 631c-d 
+
+20 Aquinas: Summa Theologica, part ii-ii, q 
+4, A I, ANS 402a-403d 
+
+23 Hobbes: Leviathan, part i, S6b-57c; part 
+IV, 269b'C; 270a-c 
+
+31 Descartes: Rules, xii, 23c-24a; xiri, 26b-c 
+
+35 Locke: Human Understanding, bk ii, ch 
+XXII, sect 3-10 201b-203c passim; bk hi, ch 
+III, sect 10 256c-257a; ch iv, sect 6-7 260d; 
+CH v, sect 4 264b; sect io-ii 266b-d; ch vi, 
+sect 32 277c-278b 
+
+43 Federalist: number 37, 119b-120b 
+
+44 Boswell: Johnson, 82a-c 
+
+45 Lavoisier: Elements of Chemistry, pref, 4a- 
+5d; PART 1, 10a; 21a-22c; 25c-29d 
+
+45 Faraday: Researches in Electricity, 361a- 
+362c 
+
+S3 James: Psychology, 171b-172a 
+
+4. The search for definitions and the methods 
+
+of defending them 
+
+7 Plato: Charmides, 4a-13d / Laches, 31c-37c / 
+Meno 174a-190a,c esp 174a-179b / Republic, 
+BK i-iv 295a-356a esp bk iv, 346a-3SSa / The- 
+aetetus 512a-S50a,c / Sophist, 5S2b-579d / 
+Statesman 580a-608d 
+
+8 Aristotle: Posterior Analytics, bk ii, ch i-io 
+122b,d-128d; ch 13-14 131b-134a / Topics, bk 
+i-vii 143a-211a,c esp bk i, ch 4-9 144b-147b/ 
+Metaphysics, bk i, ch 5 [987“! 9-27] S05b; cii 
+6 [987 ‘>i-io] SOSc; [987’’3o- 33] S06a; bk ix, 
+CH 6 [i048“25-^g] S73c-S74a; bk xiii, ch 4 
+[io78*’r8-32] 610b-c / Soul, bk i 631a-641d 
+esp CK i 631a-632d; bk ii, ch i [4I2“i]-ch 4 
+[4i5‘*23l 642a-645c 
+
+9 Aristotle: Parts of Animals, bk i, ch 2-4 
+16Sd-168c 
+
+12 Aurelius: Meditations, bk hi, sect ii 262a-b 
+
+17 Plotinus: First Ennead, tr hi, ch 4 lla-c / 
+Fifth Ennead, tr v, ch 6 231 b-d / Sixth En- 
+nead, tr III, CH 6-10 284a-286d 
+
+19 Aquinas: Summa Theologica, part i, q 10, 
+A I 40d-41d; q 29, a i 162a-163b 
+
+20 Aquinas: Summa Theologica, part i-ii, q 49, 
+AA 1-2 lb-4a; q 55, a 4 28c-29d; q 7i,"a 6 
+llOb-lllb; Q 90 205a-208b: part ii-ii, q 4, 
+A i 402a-403d 
+
+25 Montaigne: Essays, 518d-519a 
+
+28 Galileo: Two New Sciences, third day, 
+, 200a-203d esp 200a-b 
+
+30 Bacon: Advancement of Learning, 61b-c / No- 
+vum Organum, bk i, aph 59 112b-c; aph 105 
+128b-c; BK II, APH 10-20 140c-153a; aph 24-25 
+154c-lS5d 
+
+31 Descartes : Rules, xii, 23c-24a 
+
+31 Spinoza: Ethics, part ii, prop 40, schol 1-2 
+387b-388b 
+
+35 Locke: Human Understanding, bk hi, ch xi, 
+SECT 24 305b-d 
+
+35 Hume: Human Understanding, sect vii 470d- 
+478a 
+
+38 Rousseau; Inequality, 330a-d 
+
+42 Kant: Pure Reason, 215d-216d / Practical 
+Reason, 293c-294b 
+
+43 Federalist: number 37, 119b-120b 
+
+49 Darwin: Origin of Species, 241d-242a 
+
+51 Tolstoy: War and Peace, epilogue ii, 
+683d-684c; 690b 
+
+5. Definition and demonstration: definitions as 
+principles and as conclusions 
+
+8 Aristotle: Prior Analytics, bk i, ch 31 64b- 
+65a; ch 43 68d / Posterior Analytics, bk i, ch 
+2 [72“i9-24J 98d; ch 8 [75'’2i-32] 104a; ch 
+10 [76*’35-77“4] 105c-d; ch 22 113b-115b; 
+ch 33 [88''3o-89“i] 121b-c; [89®i7-’'5] 121d- 
+122a,c; bk ii, ch 3-10 123c-128d / Topics, bk 
+vi, CH 4 [i4I“26-32] 194c; bk vii, ch 3 508a- 
+209b; CH 5 [i54“23-'’i3] 209d-210a; 
+
+23] 210d; BK VIII, CH 3 [i58“3i-i 59“2] 2I4d- 
+215c / Metaphysics, bk i, ch 9 [992’'30-993“i] 
+511b; BK III, CH 2 [996’'S-2 i] 515a-b; bk iv, 
+ch 4 525a-528b; ch 7 [ioi2''i8-24] 532a-b; 
+
+. CH 8 [ioi2'’5-8] 532c; bk xi, ch 5 590a-d; 
+BK XIII, CH 4 [io78'’i7-3o] 610b-c / Soul, 
+BK I, CH i [402'*io-23] 631b; [402'’i5-403'^i 
+631d-632a; ch 3 [407“22-3o] 636d-637a; ch 5 
+[409“3I-'>i 8J 639b-c; bk ii, ch 2 [413*11-19] 
+643a-b 
+
+9 Aristotle : Parts of Animals, bk i, ch i 
+[ 639'^7-642'>5] 161d-165c 
+
+17 Plotinus: Sixth Ennead, tr v, ch 2 306a-b 
+
+19 Aquinas: Summa Theologica, part i, q i, 
+A 7, rep I 7a-c; q 2, a i, rep 2 lOd-Hd; a 2, 
+REP 2 lld-12c; Q 3, A 5, ANS 17c-18b; q 17, 
+A 3, REP 1-2 102d-103c; q 58, a 5 303c-304c; 
+Q 85, A 6 458d-459c 
+
+23 Hobbes: Leviathan, part 1, 56b-60c; 6Sc-d 
+
+31 Descartes: Objections and Replies, 128c- 
+129a , 
+
+>THE GREAT IDEAS ^ 6/060 
+
+(5. Oyinition and demonstration; d^nitions as 
+principles and as conchtsionsi) 
+
+33 Pascal: Pensees, i 171a-172a / Geometrical 
+Demonstration, 430b-434b passim,'’ esp. 430b, 
+431b-432a; 442a-443b> ■ ' i L’ 
+
+, 35 Locke: Human Understanding, bk hi, ch ix, 
+
+. SECT 15-16 288d-2S9cr ch xi, ’sect 15-17 
+303b-304a; bk iv, ch hi, sect 20, 319b 
+35 Hume: Human Understanding, sect xh, div 
+13 1 508d'S09a ' • ’ 
+
+42 Kant: Pure Reason, 179d-182b; 211c-218d esp 
+21Sd-216d / Practical Reason, 293c-294b 
+46 Hegel iTAi'/o^op/ij of Right, intro, par 2 9b- 
+10a 
+
+51 Tolstoy: War and Peace, epilogue ii, 690b 
+54 Freud: Instincts, 412a-b 
+
+6. The character of definitions in diverse dis« 
+ciplines 
+
+6 a. The formulation of definitions in physics, 
+mathematics, and metaphysics 
+
+7 Plato: Seventh Letter, 809c-810b 
+
+8 Aristotle: Topics, bk vi, ch 4 [i4i“26-*’24) 
+194c-195a; bk vii, ch 3 [i53“6-n] 208a-b / 
+Physics, BK r, ch 9 [ig2“25-*’2] 268c-d; bk 
+II, CH 2 270a-271a; bk in, ch 1-2 278a-279c; 
+CH 6 [2o6‘’33-207“'i4] 285b-c; bk iv, ch 1-5 
+287a-292c; ch ii 298c'300a / Meteorology, 
+BK IV, CH 12 493d-494d / Metaphysics, bk iv, 
+ch’'4 S2Sa-528b: bk v, 'ch t-^k vi, ch i 
+S33a-S48c; bk ix, ch 6 [io48''25-*’9] 573c- 
+574a; bk xi, ch 5 S90a-d; ch 7 S92b-593a; 
+bk xui, ch 2 [i077*’i]-CH 3 [1078*32] 608d- 
+609d / Soul, bk I, ch i-bk ii, ch 3 631a-645b 
+esp BK I, CH I 631a-632d 
+
+9 Aristotle: Parts of Animals, bk i, ch 2-4 
+165d-168c / Ethics, bk i, ch 7 [iog8“20-*’8] 
+.343c-344a 
+
+11 Euclid: Elements, bk i, definitions la-2a 
+esp 1-2,4,10 la, 15 lb, 23 2a; bk ii, defini- 
+tions 30a; BK hi, definitions 41a-b esp 
+
+I 2-3 41a; bk IV, definitions 67a-b; bk v, 
+DEFiNiTiol^s 81a-82a esp 3-7 81a-b; bk vi, 
+definitions 99ar bk vii, definitions 127a- 
+128a esp 1-2 127a, 11-12,20 127b; bk x, def- 
+initions 1 191a-b esp 1,3 191a; definitions ii 
+
+. 229a; definitions hi 264b; bk xi, defini- 
+
+i TioNS 301a-302b esp 14 301b, 18,21 302a 
+
+II Archimedes: Sphere and Cylinder, bk i, def- 
+initions 404a / Conoids and Spheroids, 452a- 
+454a passim; definitions 455a-b 1 -Spirals, 
+definitions 490a / Equilibrium of Planes', 'bk 
+II, Slla / Sand-Rechpner, 524a-b / Quadrature 
+of the Parabola, def 534b-53Sa : 
+
+11 Apollonius: Conics, bk''1, first defini- 
+tions 604a-b esp 1 604a; second definitions 
+626a 
+
+11 Nicomachus: Arithmetic, bk i, 814b-c ' - 
+
+16 Kepler: Epitome, bk v, 986b-1004a passim 
+
+17 Plotinus: Sixth Ennead, tr lu, ch i, 281a-b 
+
+19 Aquinas': Suinma Theohgica, part i, q' i, 
+A 7, rep I 7a-c; q 2, a 2, rep 2 lld-12c; q 3, 
+•A 5, ANS 17c-18b; Q 10, A I 40d-41d; o^ap 
+A I 162a-163b; Q 75, a 4, ans 381b-382a; g 
+85, a I, REP 2 45ic-4S3p; a 8, rep 2 460b- 
+461b' ‘ ■ " ' ■ ‘ ' ' 
+
+23 Hobbes: Leviathan, part i, S6b; part iv, 
+
+' •'269b’-c.. -n-, , ,, 
+
+i> 28 Galileo: Two New Sciences; first day, 
+142d-143a; third day, 197b-c; 200a-203d 
+
+30 Bacon: Advancement of Learning, 43a-d " 
+
+" 31'Descartes: Rules, xii, 23c-24a 4x111, 26b-c/ 
+
+. 'Objections and Repliesi\28c-\2^a ' 
+
+31 Spinoza: Ethics, part i, appendix 369b- 
+
+, ' 372d; PART II, prop 40,'scHOL 1-2 387b-388b 
+
+33 Pascal: rl71a-172a/ Fiicrmm, 372b- 
+
+)373b; 376b-377a / Geometrical Demonstra- 
+tion, 430b-434b p&ssiifi, esp 430b-431b 
+
+34 Newton -.P rinciples, definitions 5a-13a / Op- 
+tics, BK i, 379a-380b 
+
+35 HvME-.Human Understanding,SEcT-ni,Div 
+
+49 470d-471d - . 
+
+42 Kant: Pure Reason, 15c-16c; 17d-19a; 68a- 
+69c; 215d-217a; 245c-248d 
+
+6 b. The use of definition in speculative philos- 
+ophy and empirical science 
+
+7 Plato: Theaetetus, S44c-549d / Statesman, 
+595b-c / Seventh Letter, 809c-810b 
+
+8 Aristotle: Posterior Analytics, bkii, ch 13-14 
+131b-134a / Soul, bk i 631a-’641d’esp ch i 
+631a-632d; bk ii, ch 1-3 642a-64Sb 
+
+9'Aristotle: Parts of Animals, bk i, ch 1-4 
+< 161a-168c passim J Politics,, ek iv,' ch 4 
+
+[i29o'’25-4o] 489d-490a'' 
+
+28 Gilbert: Loadstone, bk ii, 43c-44d 
+
+28 Galileo: Two New Sciences, third day, 
+200a-203d 
+
+30 Bacon: Novum Organum, bk i, jvph 63 113d- 
+
+114a; BK II, APH 10-20 140c-153a; aph 48 
+179d-188b V 
+
+31 Descartes: Rules, xii, 23c-24a; xiii, 26b-c 
+
+31 Spinoza: Ethics, part ii, prop 40, schol 1-2 
+
+387b-388b ■ t ’ - ' 
+
+33 Pascal: Vacuum, 372b'-373b; 376b-377a 
+
+34 Newton: Principles, definitions 5a-13ap0p- 
+tics, BK i, 379a-380b 'I ' - 
+
+35 Locke: Human Understanding, bk ii, ch 
+
+xxiii, s'ect 3-10 204c-206d; sect 14-18 208b- 
+209a; sect 37 213d-214b;'BKiii, chix, sect 
+15-17 288d-290a;.cH xi, sect 10 302b; Sect 
+19-25 304b:306c ' > ' . i ’ 'A'. 
+
+i35 Hume: Human Understanding,- sicT 11, div 
+i > i7,'457b,d [fn i]; sect vii, div 48-4$ 470d- 
+
+, 471d; SECT.viiI, DIV 74 484a-c • 
+
+42 Kant: Pure Reason, lSc-16c; i’21Sd-216d; 
+! i 243c-244c / Practical Reason; 293c-29tp3 / In- 
+• . tro. Metaphysic of Morals; 388a-c / Judgement, 
+
+603b-d - • 
+
+43 Federalist: number 37, 119b-120bi 
+
+45 Lavoisier: Elements of Chemistry, parti, 10a- 
+b; 21a-22c; 2Sc-29d ' ' - ’ 
+
+Sc Chapter 15 ; DEFINITION 301 
+
+45 Fourier; Theory of Heat, 184a-187b 
+
+45 Faraday: Researches in Electricity, SSla-d 
+
+46 Hegel; Philosophy of Right, intro, par 2 
+
+9b-10a " . . ‘ I 
+
+51 Tolstoy; War and Peace, epilogue ii, 690b; 
+694b-d ’ 
+
+53 James; Pt>'c/)o% 3;, 3b-4a; 869a-871a esp 870a- 
+871a 
+
+54 Freud; Naicissism, 400d-401a / Instincts, 
+412a-413b 
+
+6 c. The role of definitions in practical or moral ' 
+philosophy and the social sciences 
+
+7 Plato; Phaednis, 120a-c / Seventh Letter, 
+809c-810b 
+
+, 9 Aristotle; Ethics, bk t, ch i-bk ii, ch 6 
+339a-352d passim; bk x, ch i- 8 426a 434a / 
+Politics, BK I, CH 1-2 445a-446d; bk hi, ch 
+1-6 471b,d-476c; ch 9 (i28o°25-i28i®2] 477d- 
+478c 
+
+12 Aurelius ; Meditations, bk hi, sect i i 262a-b 
+
+18 Augustine; City of God, bk xix, ch 21-24 
+524b-528c esp ch 21 S24b-525a, ch 24 528b-c 
+
+20 Aquinas : Summa Theologica, part i-h, q 49 
+la-6a; q 55, a 4 28c-29d; q 71, a 6 110b- 
+
+'CROSS-KEFEKENCES 
+
+lllb; Q 90 20Sa-208b; part ii-ii, q 4, a 1 
+402a-403d 
+
+23 Hobbes; Leviathan, part i, 57d-58a 
+
+35 liocKc: Human Understanding, bk hi, ch xi, 
+sect 17 303d-304a; bk iv, ch hi, sect 20, 
+'' 319b 
+
+85 Hume; Human Understanding, sect vh, div 
+48-49 470d-471d 
+
+'38 Montesquieu: Spirit of Laws, bk n, 4a 
+
+38"Rousseau; Inequality, 330a-d 
+
+42 Kant: Fund. Prin. Metaphysic of Morals, 271a- 
+c; 280d-281a / Practical Reason, 297a-314d; 
+330d-331a / Intro. Metaphysic of Morals, 386b- 
+d; 390b,d-391a / Science of Right, 398c-3g9c 
+
+43 Federalist: NUMBER 37 , 119b-120b; number 
+39 125a-128b passim, esp 125b-c; number 42 , 
+337a-b 
+
+43 Mill: Utilitarianism, 469a-b 
+
+46 Hegel; Philosophy of Right, intro, par 2 9 b- 
+10a / Philosophy of History, tntro, 158a-162a 
+
+50 Marx: Capital, 6c-lld passim; J78d-179c 
+passim; 265a-266a: 267c-d 
+
+51 TolStoy: War and Peace, bk ix, 36Sa-b; 
+epilogue II, 683d-684a; 690b 
+
+S3 James: Psychology, 887a-888a 
+
+1i. 
+
+Vor: The linguistic aspects of definition and the general theory of the meaning of words, see 
+
+Language la; Sign and Symbol 4a. ’ 
+
+The logical aspects of definition, see Idea 4a. ‘ 
+
+Other discussions of the object of definition and the problem of essences or universals, see 
+Being 8c; Nature 4a; Universal and Particular 2a-2c. 
+f The. notions of genus and differentia, species and property, see Being 8d; Idea 4b(3); 
+Nature ia(i); Relation 53(4); Universal and Particular 5b. 
+
+Other considerations of indefinable terms, ke Infinity 2c; Principle 23(3); and for the 
+indefinability of individuals, see Universal and Particular 46. 
+
+The use of definitions as principles in reasoning or proof, and for the problem of demonstrat- 
+ing definitions, see Principle 23(2); Reasoning 5b(2). 
+
+The discussion of matters related to the truth or falsity of definitions, see Idea 6f; Truth 
+
+3b(i)- 
+
+The role of definitions in dialectic and science, and in the various sciences, see Dialectic 
+23(2), 2b(i); Mathematics 3a; Matter 4b; Metaphysics 2b; Philosophy 3b-3c; 
+Physics 2a; Science 4a. 
+
+ADDITIONAL READINGS 
+
+Listed below are works not included in Great Boo\s of the Western World, but relevant to the 
+idea and topics with which this chapter deals. These works are divided into two groups: 
+
+I. Works by authors represented in this collection. 
+
+II. Works by authors not represented in this collection. 
+
+For the date, place, and other facts concerning the publication of the works cited, consult 
+the Bibliography of Additional Readings w'hich follows the last chapter of The Great Ideas. 
+
+I. 
+
+Aquinas. On Being and Essence, ch 2-3 
+Hobbes. Concerning Body, part i, ch 2 
+Spinoza. Correspondence, ix 
+Locke. Conduct of the Understanding 
+Ka.nt. Introductson to Logic, vjji 
+Hegel. Science of Logic, vol i, bk ii, sect i, ch i 
+J. S. Mill. A System of Logic, bk 1, ch 7-8; bk 4, 
+CH 7-8 
+
+II. 
+
+Quintilian. Institutio Oratoria {Institutes of Ora- 
+tory), BK VII, CH 3 
+
+Sextus Empiricus. Outlines of Pyrrhonism, bk 
+
+II 
+
+John of Saint Thomas. Ctirsus Philosophicus Tho- 
+misticus, Ars Logica, part ii, qq 6-12 
+Arnauld. Logic or the Art of Thinking, part 1, 
+CH 12-14; part IV, CH 4-5 
+Leibnitz. New Essays Concerning Human Under- 
+standing, BK HI, ch 3 
+
+T. Reid. Essays on the Intellectual Powers of 
+Man, I 
+
+J. Mill. Analysis of the Phenomena of the Human 
+Mind, CH 8 
+
+W. Hamilton. Lectures on Metaphysics and Logic, 
+
+VOL H (24) 
+
+Whewell. The Philosophy of the Inductive Sciences, 
+
+VOL I, BK VIII 
+
+SiGWART. Logic,VK-RrC I, CH I, SECT 44; PART III, CHI, 
+SECT 74 
+
+Jevons. The Principles of Science, ch 30 
+
+. Studies in Deductwe Logic, ch 1-2, 7 
+
+Venn, Principles of Empirical or Inductive Logic, 
+ch 11-13 
+
+Poincare. Science and Method, bk ii, ch 2 
+Whitehead and Russell. Principia Mathematica, 
+intro, ch i, esp pp 11-19; PART I, SECT A, esp 
+
+PP 91-94 
+
+B. Russell. Principles of Mathematics, part 1 
+
+. Introduction to Mathematical Philosophy, ch 
+
+13, 16-17 
+
+Whitehead. An Enquiry Concerning the Principles of 
+Natural Knowledge, ch 8-13 
+
+. The Concept of Nature, ch 4 
+
+W. E. Johnson. Logic, part i, ch 7-8 
+Ogden and Richards. The Meaning of Meaning 
+Dubislav. Die Definition 
+Maritain. The Degrees of Knowledge, ch 3 
+Carnap. The Logical Syntax of Language, part i, 
+SECT 8; part II, sect 22; part III, sect 29 
+Dewey. Logic, the Theory of Inquiry, ch 13-141 
+16-18, 20. 
+
+Dewey and Bentley. Knowing and the Known, 
+CH 7 
+
+Chapter i6:

@@ -1,0 +1,2475 @@
+CHAPTER: Mathematics
+
+INTRODUCTION
+
+MATHEMATICS 
+
+INTRODUCTION 
+
+I T is nccessar)' for us to obsen'c the difference 
+between problems in mathematics and the 
+problem of the truth about mathematics. In 
+the case of any science— in physics, logic, or 
+metaphysics, as well as mathematics— it is one 
+thing to examine the discourses or treatises of 
+the scientists on the special subject matter of 
+their field, and quite another to examine dis- 
+cussions of the science itself, its scope, branches, 
+and unity, its objects, its methods and its reb- 
+tion to other disciplines. The chapter on 
+Quantity deals with the subject matter of 
+arithmetic, geometry, and other branches of 
+mathematics; here we arc primarily concerned 
+with the nature of mathematical science itself. 
+
+Sometimes reflections on the nature of a sci- 
+ence are expressed by experts in its subject mat- 
+ter who comment on the scientific enterprise in 
+which tliey arc engaged in prefaces or inter- 
+spersed remarks. Sometimes such reflections are 
+the commentary on a particular science by 
+those who may claim to speak with competence 
+on the processes of the human mind, the nature 
+of Imowlcdgc or of science in general, but who 
+claim no special competence in the particular 
+science under consideration. This is usually the 
+commentary of philosophers who may assert 
+their right to make all knowledge, as well as all 
+reality, their province. The same man may, of 
+course, be both a mathematician and a philoso- 
+pher; as, for c.xamplc, Plato, Descartes, Pascal. 
+
+In the case of mathematics, the disparity be- 
+tween discourse in and abotit the science could 
+hardly escape notice. Even if no preliminary 
+rule of caution were laid down, we should be 
+struck by the contrast between the agreement 
+mathematicians have been able to reach in the 
+solution of their problems and the disagreement 
+of the commentators on basic questions about 
+mathematics. To this there may be one signif- 
+icant exception. Mathematics is honored for 
+
+the precision of its concepts, the rigor of its 
+demonstrations, the certitude of its truth. 
+Even its detractors — like Swift or Berkeley— 
+concede the e.xactitude and brilliance of math- 
+ematics while questioning its utility; or they 
+admit its intellectual austerity while challeng- 
+ing some application of its method. Its “clear- 
+ness and certainty of demonstration,” Berkeley 
+writes, “is hardly anywhere else to be found.” 
+
+This general agreement about the quality of 
+mathematical thought may explain why in all 
+epochs mathematics has been looked upon as 
+the type of certain and exact knowledge. Some- 
+times it is taken as more than a model for other 
+sciences; it is regarded as the method of pure 
+science itself or as the universal science. Some- 
+times its excellences are thought to be qualified 
+by the limited or special character of its objects; 
+or it is contrasted with other disciplines which, 
+employing different methods, deal with more 
+fundamental matters no less scientifically. But 
+always the conclusions of mathematics serve to 
+exemplify rational truth; always the method of 
+mathematics represents the spirit of dispas- 
+sionate thought; always mathematical knowl- 
+edge symbolizes the power of the human mind 
+to rise above sensible particulars and contin- 
+gent events to universal and necessary rela- 
+tionships. 
+
+Mathematics means this not only to mathe- 
+maticians and philosophers, but also to moral- 
+ists and statesmen. “The objects of geometrical 
+inquiry,” writes Alexander Hamilton, “are so 
+entirely abstracted from those pursuits which 
+stirand put in motion the unruly passions of the 
+human heart, that mankind, without difficulty, 
+adopt not only the more simple theorems of 
+the science, but even those abstruse paradoxes 
+which, however they may appear susceptible of 
+demonstration, are at variance with the natural 
+conceptions which the mind, without the aid 
+
+Chapter 52 : MATHEMATICS 43 
+
+of philosophy, would .be led to entertain upon 
+the subject. . . . But in the sciences of morals 
+and politics, men are found far less tractable.” 
+This, Hamilton points out, is not due merely 
+to the passionate interest in their problems. 
+“It cannot be pretended,” he says, “that the 
+principles of moral and , political knowledge 
+have, in general, the same degree of certainty 
+with those of mathematics.”. 
+
+Admiration for mathematics often extends 
+beyond enthusiasm for its exemplary virtues 
+or delight in its intellectual beauty to the rec- 
+ognition of its influence on the whole history 
+of thought. Yet here differences of opinion be- 
+gin to appear. 
+
+In the ancient world Plato and Aristotle 
+represent opposite estimates of the importance 
+of mathematics for the rest of philosophy. For 
+the Platonists, Aristotle says, “mathematics has 
+come to be identical with philosophy, though 
+they say that it should be studied for the sake 
+of other things.” He complains of those stu- 
+dents of science who “do not listen to a lecturer 
+unless he speaks mathematically.” They make 
+the error of supposing that “the minute ac- 
+curacy of mathematics is ... to be demanded in 
+all cases,” whereas, according to Aristotle’s 
+own view, “its method is not that of natural 
+science.” 
+
+In the modern world, thinkers who are both 
+mathematicians and philosophers, like Des- 
+cartes and Whitehead, represent a return to the 
+Platonic point of view; while Kant, even more 
+than Aristotle, insists that the philosopher is 
+grievously misled if he tries to follow the meth- 
+od of mathematics in his own inquiries. White- 
+head charges Aristotle with having deposed 
+mathematics from its high role “as a formative 
+element in the development of philosophy” — a 
+demotion which lasted until, with Descartes 
+and others in the 17th century, mathematics 
+recovered the importance it had for Plato. 
+
+Attempting to qualify his osvn enthusiasm, 
+Whitehead admits that he would not “go so far 
+as to say that to construct a history of thought 
+without a profound study of the mathematical 
+ideas of successive epochs is like omitting Ham- 
+let from the play which is named after him. 
+That would be claiming too much. But it is 
+certainly analogous to cutting out the part of 
+
+Ophelia. This simile Is singularly exact. For 
+Ophelia is quite essential to the play, she is 
+very charming— and a little mad. Let us grant 
+that the pursuit of mathematics is a divine mad- 
+ness of the human spirit, a refuge from the 
+goading urgency of contingent happenings.” 
+
+For Kant the madness lies not in the pursuit 
+of mathematics itself, but in the delusion of 
+the philosopher that he can proceed in the 
+same way. “The science of mathematics,” Kant 
+writes, “presents the most brilliant example of 
+how pure reason may successfully enlarge its 
+domain ■ without the aid of experience. Such 
+examples are always contagious, particularly 
+when the faculty is the same, which naturally 
+flatters itself that it will meet with the same 
+success in other cases which it has had in one.” 
+The expectation naturally arises that the meth- 
+od of mathematics “would have the same suc- 
+cess outside the field of quantities.” But phi- 
+losophers who understand their own task, Kant 
+thinks, should not be infected by the “confi- 
+dence ... of those who are masters in the art 
+of mathematics ... as to their ability of achiev- 
+ing such success” by applying its method in 
+other fields. 
+
+“The exactness of mathematics,” Kant holds, 
+“depends on definitions, axioms, and demon- 
+strations. . . . None of these can be achieved or 
+imitated by the philosopher in the sense in 
+which they are understood by the mathema- 
+tician,” because, according to Kant, the valid- 
+ity of the mathematician’s definitions and 
+demonstrations ultimately depends on the fact 
+that he is able to construct the concepts he uses. 
+The point is not that mathematics obtains its 
+objects from reason rather than experience, 
+but rather that it obtains them from reason by 
+construction; as, for example, Euclid begins by 
+constructing a triangle which corresponds with 
+his definition of that figure. 
+
+Hence, Kant maintains, “we must not try in 
+philosophy to imitate mathematics by begin- 
+ning with definitions, except it be by the way of 
+experiment .In philosophy, in fact, the defi- 
+
+nition in its complete clearness ought to con- 
+clude rather than begin our work”; whereas in 
+mathematics we cannot begin until we have 
+constructed the objects corresponding to our 
+definitions. “It follows from all this,” Kant con- 
+cludes, “that it is not in accordance with the 
+
+-14 THE GREAT IDEAS 
+
+very nature of philosophy to baast of its dog- 
+matiati character, particularly in the held of 
+pure reason, and to deck itself with the titles 
+and ribands of mathematics.” 
+
+Differe-n’ces of opinion about mathematics 
+represent, for the most part, philosophical con- 
+troversy concerning the nature of science or the 
+objects of its knowledge. Mathematicians who 
+engage in such controversy assume the role of 
+philosophers in doing so, for mathematics itself 
+is not concerned with questions of this sort. But 
+there arc some questions about mathematics 
+which seem to call for a close study of the sci- 
+ence itself and even for proficiency in its sub- 
+ject matter and operations. They are questions 
+about the scope of mathematics and about the 
+divisions of the science, in relation to one an- 
+other and to its unity. On these issues, mathe- 
+maticians disagree not only with philosophers, 
+but among themselves and in their capacity as 
+mathematicians. 
+
+These issues usually involve different inter- 
+pretations of the history' of mathematics. The 
+problem is not one of the origin of mathematics. 
+
+The ancient opinion, found in Herodotus, 
+Plato, and Aristotle, that the mathematical 
+arts, especially geometry, were first developed 
+by tlic Egyptians, is of interest because of the 
+questions it raises about the circumstances of 
+the origin of mathematics. Herodotus seems to 
+suggest that geometry arose as an aid in the 
+practice of surveying land. “From this prac- 
+tice,” he says, “geometry first came to be known 
+in Egypt, whence it passed into Greece.” Aris- 
+totle, on the other hand, separating from the 
+useful arts those which “do not aim at utility,” 
+thinks the latter arose “first in the places where 
+men first began to have leisure. That is why the 
+mathematical arts were founded in Egy’pt, for 
+there the priestly caste was allowed to be at 
+leisure.” 
+
+The Greek development of mathematics very' 
+early distinguishes between the pure sciences of 
+arithmetic and geometry and their useful ap- 
+plications in the arts of measurement. The 
+Greeks conceived mathematics as essentially 
+speculative rather than practical or productive. 
+They also divorced it from empirical investiga- 
+tion of the sensible world. .As arithmetic is con- 
+cerned with numbers, not with numbered 
+
+things, and geometry with figures, not with 
+physical shapes, areas, or volumes, so Plato 
+points out that music and astronomy belong to 
+the mathematical sciences when they deal not 
+with audible harmonics but with their numeri- 
+cal ratios, not with visible celestial motions but 
+with their geometrical configurations. 
+
+Provoked by' Glaucon’s interest in the use- 
+fulness of the mathematical arts, Socrates ex- 
+cludes their utility as being of nointerest to the 
+philosopher. He recommends arithmetic and its 
+sister disciplines only so far as these sciences en- 
+tirely ignore the world of sensible things. The 
+reason why the philosopher “who has to rise out 
+of the sea of change and lay hold of true being 
+. . . must be an arithmetician,” he explains, is 
+tliat arithmetic can have “a very' great and ele- 
+vating effect,” when it compels “the soul to 
+reason about abstract number” and rebels 
+“against the introduction of visible or tangible 
+objects into the argument.” In the same way, 
+only when it concerns itselfwith “knowledge of 
+the eternal,” not with measuring earthly dis- 
+tances, will geometry “draw the soul towards 
+truth, and create the spirit of philosophy,” The 
+astronomer, like the geometer, “should employ 
+problems, and let the heavens alone, if he 
+would approach the subject in the right way”; 
+and, like theastronomer, thestudentofharmony 
+will work in vain, if he compares “the sounds 
+and consonances which are heard only” and so 
+fails to “reach the natural harmonies of num- 
+ber.” 
+
+About the non-empirical or non-experimen- 
+tal character of mathematics there has been little 
+dispute. It is seldom suggested that the growth 
+of mathematical knowledge depends upon im- 
+provement in methods of observation. But on 
+the relation of mathematics to phy'sics, which 
+raises the whole problem of pure and applied 
+mathematics, or of mathematical and c.xperi- 
+mcntal physics, there has been much contro- 
+versy', especially in modern times. 
+
+Bacon, for example, adopts the ancient divi- 
+sion of mathematics into pure and mixed, the 
+former “wholly abstracted from matter and 
+physical a.xioms.” Though he regards mathe- 
+matics as a useful instrument in physics— “the 
+investigation of nature” being “best conducted 
+when mathematics arc applied to physics”— he 
+also insists upon the primacy of physics and 
+
+Chapter 52:';MATHEMATICS 
+
+upon its essentially- experimental character. 
+Physics has been corrupted, he says; by. logic 
+and by mathematics. when these seek to domi- 
+nate instead of, to serve it. “It is a strange fatal- 
+ity that mathematics and logic, which ought to 
+be but handmaids to physics, should boast their 
+certainty before' it, and even exercise dominion 
+againstit.” ■ . ' 
+
+The certainty and clarity which Hume is 
+willing to attribute: to mathematics cannot, in 
+his opinion,, be. extended to mathematical 
+phvsics. “The most perfect philosophy of the 
+natural kind,” he thinks, .“only staves off our 
+ignorance a little longer. ; . . Nor is geometryi 
+when taken into the assistance of natural philos- 
+ophy, ever able to remedy this defect, or lead 
+us into the knowledge of ultimate causes, by all 
+that accuracy of reasoning for which it is so 
+justly celebrated. Every part of mixed mathe- 
+matics,” Hume continues, “proceeds upon the 
+assumption that certain laws are established by 
+nature in her operations; and abstract reason- 
+ings are employed ^ either to assist experience 
+in the. discovery of these laws, or to determine 
+their influence in particular instances, where it 
+depends upon any precise degree of distance or 
+quantity.” When mixed with physics, mathe- 
+matics remains subordinate — at best an aid in 
+the formulation and the discovery of the laws 
+of nature. 
+
+A different view seems to be taken by the 
+great mathematicians and physicists of the 17 th 
+century. Galileo, Descartes, and Newton tend 
+to make mathematical analysis an integral part 
+of physics. As the structure of the world is 
+mathematical,- so, too, must the science of 
+nature be mathematical. Geometry, says 
+Descartes, is “the science which furnishes a 
+general knowledge of the measurement of all 
+bodies.” If we retain the ancient distinction 
+behveen geometry and mechanics, it can only 
+be in terms of the assumption, “confirmed by 
+the usage” of these names, that “geometry is 
+precise and exact, while mechanics is not.” 
+
+In the preface to his Mathematical Principles 
+of Natural Philosophy, Newton also says that 
+“geometry is founded in mechanical practice, 
+and is nothing but that part of universal me- 
+chanics which accurately proposes and demon- 
+strates the art of measuring.” What is called 
+"rational mechanics” must not ’ be confused 
+
+with the manual arts of measurement which are 
+imperfect and inexact; and it is therefore wrong 
+to distinguish geometry from mechanics as that 
+which is perfectly accurate from that which is 
+less so. “But since the manual arts are chiefly 
+employed in the moving of bodies, it happens 
+that, geometry is commonly referred to their 
+magnitude, and mechanics to their motion.” 
+
+Newton himself does not abide by this dis- 
+tinction. His aim is to subject all the phenome- 
+na of nature “to the laws of mathematics” and 
+to cultivate mathematics as far as it relates to 
+natural philosophy. “I offer this work as the 
+mathematical principles of philosophy, for the 
+whole burden of philosophy consists in this — 
+from the phenomena of motions to investigate 
+the forces of nature and from these forces to 
+demonstrate the other phenomena.” He regrets 
+that he has not been able to deduce all the phe- 
+nomena of nature “by the same kind of 
+reasoning from mechanical principles.” 
+
+Fourier goes even further. “Mathematical 
+analysis,” he says, is “as extensive as nature it- 
+self.” Mathematical analysis has “necessary re- 
+lations with sensible phenomena.” In laying 
+hold “of the laws of these phenomena,” mathe- 
+matics “interprets them by the same language 
+as if to attest the unity and simplicity of the 
+plan of the universe, and to make still more 
+evident that unchangeable order which presides 
+over all natural causes.” This much had been 
+said or implied by Descartes and Newton. But 
+in addition to all this, Fourier, from his own 
+experience in developing a mathematical the- 
+ory of heat, comes to the conclusion that “pro- 
+found study of nature is the most fertile source 
+of mathematical discoveries.” Mathematics it- 
+self benefits from its alliance with physics; it in- 
+creases in analytical power and in the generality 
+of its formulations as physical inquiries extend 
+the range of phenomena to be analyzed and for- 
+mulated. 
+
+The relations of mathematics to physics are 
+considered in the chapters on Astronomy, Me- 
+chanics, and Physics. Mathematical physics 
+must be examined in the light of the opinion 
+that mathematics and physics are separate sci- 
+ences, distinct in object and method. Further- 
+more, whereas some of the major contributions 
+to mathematics appear in the great books of 
+
+46 THE GREAT IDEAS 
+
+physics or natural pliilosophy (e.g., Archimedes, 
+Kepler, Newton, Fourier), even more funda- 
+men tal formulations of the science occurin great 
+books devoted exclusively to mathematics: 
+Euclid’s Elements (on geometry), Apollonius’ 
+treatise On Conk Sections., Nicomachus’ Intro- 
+duction to Arithmetic, Descartes’ Geometry, and 
+Pascal’s mathematical papers. Others belonging 
+to this latter group arc listed in the Additional 
+Readings. The great modern advances in math- 
+ematics arc c.xemplified by the works of Gauss, 
+Lobachevski, Hamilton, Ricmann, Boole, De- 
+dekind, Pcano, Frege, Cantor, Hilbert. 
+
+It would be both natural and reasonable to 
+inquire about the relation between the great 
+works of mathematics included in this set and 
+the equally great treatises or monographs, listed 
+in the Additional Readings, which represent for 
+the most part the contributions of the 19th cen- 
+tury. But since the major question which im- 
+mediately confronts us in such an inquiry' con- 
+cerns the relation of modern to ancient math- 
+ematics, we can e.xamine the problem in terms 
+of the works included in this set, for they repre- 
+sent both the continuity and the discontinuity 
+in the tradition of mathematical science. 
+
+Galileo and Newton are disciples of Euclid 
+and Archimedes; Fourier is a disciple of Newton 
+and Descartes. But Descartes is the great in- 
+novator. He seems to be quite self-conscious of 
+his radical departure from the ancients and 
+from the state of mathematics as he found it in 
+his own day. Yet the truth and pow'cr of his 
+mathematical discoveries seem so evident to 
+him that he cannot doubt the ancients must 
+have had some inlding of it. 
+
+“I am quite ready to believe,” he writes, 
+“that the greater minds of former ages had 
+some knowledge of it, nature even conducting 
+them to it. We have sufficient evidence that the 
+ancient Geometricians made use of a certain 
+analysis which they extended to the resolution 
+of all problems, though they grudged the secret 
+to posterity. At the present day also there 
+flourishes a certain kind of Arithmetic, called 
+Algebra, which designs to effect, when dealing 
+with numbers, what the ancients achieved in 
+the matter of figures. These two methods,” he 
+claims, “arc nothing else than the spontaneous 
+fruit sprung from the inborn principles of the 
+discipline here in question.” 
+
+Descartes does not regard his success as con- 
+sisting in the advance of mathematical truth 
+through discoveries based upon principles or 
+conclusions already established. Nor would he 
+even be satisfied to say- that his use of algebra in 
+developing analytical geometry' created a new 
+branch of mathematics. Rather, in his own 
+view, it tended to unify all existing branches 
+and to form a single universal method of analy- 
+sis. In effect, it revolutionized the whole char- 
+acter of mathematics and laid the foundation 
+for the characteristically modern development 
+of that science since his day', “To speak freely,” 
+he writes, “I am convinced that it is a more pow- 
+erful instrument of knowledge than any other 
+that has been bequeathed to us by human agen- 
+cy, as being the source of all others.” 
+
+One need not quite agree with Bertrand Rus- 
+sell that pure mathematics was not discovered 
+until the 19th century, in order to perceive 
+that the discoveries made in that century carry’ 
+out the spirit of the Cartesian revolution. If 
+one understands the difference between the 
+universal mathematics of Descartes and the 
+separate sciences of arithmetic and geometry ns 
+developed by the ancients; if one understands 
+the difference between the theory of equations 
+in Descartes and the theory of proportions in 
+Euclid; if one understands how algebraic sym- 
+bolism, replacing numbers by letters, frees both 
+arithmetic and geometry from definite quanti- 
+ties, then the profound discontinuity between 
+modern and ancient mathematics begins to be 
+discernible, 
+
+TJiere are other differences contributing to 
+that discontinuity, such as the modern treat- 
+ment of the infinite, the invention of the cal- 
+culus, and the theory of functions. But what is 
+of prime importance for the purpose of under- 
+standing the nature of mathematics, its ob- 
+jects, and its methods, is the perception of the 
+discontinuity' in any one or another of its mani- 
+festations. Here is a fundamental disagreement 
+about the nature of mathematics which is not 
+an issue between philosophers disputing the 
+definition of the science, but rather an issue 
+made by the actual work of mathematicians in 
+ancient and modern times. 
+
+In his Buttle of the Boo\s — ancient and 
+modern — Swift secs only the great poets and 
+philosophers of the ttvo epochs set against one 
+
+Chapter- 52: MATHEMATICS 
+
+another. The battle between the ancient and 
+the modern books of mathematics might be as 
+dramatically represented. In such affairs there 
+is a natural tendency to prejudge the issue in 
+favor of the modern contender. That prejudice 
+has reason on its side in certain fields of knowl- 
+edge where the perfection of new instruments 
+and the discovery of new facts work to the ad- 
+vantage of the latecomer. But it is questionable 
+whether in this dispute over the nature of 
+mathematics the same advantage prevails. 
+
+When the issue is fairly explored by an exam- 
+ination of the differences between the great 
+masterpieces of ancient and modern mathemat- 
+ics, it may be found impossible to say that truth 
+lies more on one side than on the other, or that 
+one conception of mathematics is more fruitful 
+than another, because the two versions of the 
+science may seem to be incommensurable in 
+their aims, methods, and standards of accom- 
+plishment. 
+
+One example will illustrate this incommen- 
+surability. The ancient notion of number, as 
+may be seen in Nicomachus’ Introduction to 
+Arithmetic, limits the variety of numbers. A 
+number always numbers a number of things, 
+even though we can deal with the number itself 
+apart from any set of numbered things. It is al- 
+ways a positive and integral quantity which, 
+excepting unity itself, “the natural starting 
+point of all numbers,” contains a multitude of 
+discrete units. 
+
+Numbers are classified according to the way 
+in which they are constituted of parts and ac- 
+cording to the constitution of these parts. The 
+primary division of numbers is into even and 
+odd. “The even is that which can be divided 
+into two equal parts without a unit intervening 
+in the middle; and the odd is that which cannot 
+be divided into two equal parts because of the 
+aforesaid intervention of a unit.” 
+
+The even numbers are capable of subdivision 
+into the even-times-even, the odd-times-even, 
+and the even-times-odd; and the odd into the 
+prime and incomposite, the secondary and com- 
+posite, and the -number which, in itself, is sec- 
+ondary and composite, but relatively is prime 
+and incomposite. The peculiarities of these 
+types of number are explained in the chapter 
+on Quantity. There are still further classifica- 
+
+tions of numbers into superabundant, deficient, 
+and perfect; and of the parts of numbers in rela- 
+tion to the numbers of which- they are parts. 
+
+Finally, numbers are considered in terms of 
+their geometrical properties, to be observed 
+when their units are disposed discretely in spa- 
+tial patterns, and in one, two, or three dimen- 
+sions. There are linear, plane, and solid num- 
+bers, and among plane numbers, for example, 
+there are triangular, square, pentagonal, hexag- 
+onal numbers, and so on. 
+
+The arithmetic operations of addition, sub- 
+traction, multiplication, and division are per- 
+formed in the production of numbers or in the 
+resolution of numbers into their parts. But 
+though any two numbers can be added to- 
+gether or multiplied, the inverse operations 
+cannot always be performed. A greater number 
+cannot be subtracted from a less, for subtraction 
+consists in taking a part from the whole, and 
+leaving a positive remainder. Since division is 
+the decomposition of a number into its parts, a 
+number cannot be divided by one greater than 
+itself, for the greater cannot be a part of the 
+less. 
+
+In short, in Nicomachus’ theory of numbers 
+what later came to be treated as negative num- 
+bers and fractions can have no place. Nico- 
+machus will not carry out arithmetical opera- 
+tions in all possible directions without regard 
+to the result obtained. He refuses to perform 
+these operations when the results which would 
+be obtained do not have for him the requisite 
+mathematical reality. He does not find it re- 
+pugnant to reason that subtraction and divi- 
+sion, unlike addition and multiplication, are not 
+possible for any two numbers; as, for exam- 
+ple, subtracting a larger from a smaller number, 
+or using a divisor which does not go into the 
+dividend evenly, and so leaves a fractional re- 
+mainder. On the contrary, Nicomachus finds it 
+repugnant to reason to perform these opera- 
+tions in violation of their proper meaning, and 
+to produce thereby results, such as negative 
+quantities and fractions, which are for him not 
+numbers, /.<?., which cannot number any real 
+thing. 
+
+Understanding the nature ofsquare numbers, 
+Nicomachus would be able to understand a 
+square root, but he would not see why the op- 
+eration of extracting the square root should be 
+
+4S THE GREAT IDEAS 
+
+nppHcd to numbers which arc not square. 
+Hence another kind of modern number, the 
+irrational fraction which is generated by sucit 
+opera tionsas thccxtraction of thesquare of pos- 
+itive integers wliich are not perfect squares, 
+would never appear in Nicomachus’ set of num- 
+bers; nor would the imaginary- number, whicli 
+is the result of applying the same operation to 
+negative quantities. 
+
+When the aritlrmctical operations arc per- 
+formed algebraically, with unknowns as well as 
+definite quantities, the solution of equations 
+requires the employment of terms which Nico- 
+machus would not admit to be numbers — nega- 
+tives, fractions (both rational and irrational), 
+imaginarics, and complex numbers, which arc 
+partly real and partly imaginarj'. Descartes 
+finds nothing repugnant in these novel quanti- 
+ties. On the contrar}’, he would find it repug- 
+nant not to be able to perform the basic arith- 
+metical operations without restriction. Algebra 
+would be impossible, and with it the general 
+method of analysis that proceeds in terms of the 
+purely formal structure of equations from 
+which all definite quantities have been c.xclud- 
+cd. It would also be impossible to do what Des- 
+cartes thinks essential to the unity of mathe- 
+matics, namely, to represent geometrical opera- 
+tions algebraically and to perform most alge- 
+braic operations geometrically. 
+
+Geometrical loci cannot be c.xpressed by alge- 
+braic formulae or equations, unless there arc as 
+many numbers as there arc points on a line. The 
+number series for Nicomachus, without frac- 
+tions and irrationals, is neither dense nor con- 
+tinuous. There arc fewer numbers than there 
+are points on a line. And without the use of 
+zero, negative numbers, and fractions — none 
+of which would be regarded as numbers by 
+Nicomachus— it would be impossible for Des- 
+cartes to construct a set of coordinates for the 
+geometrical representation of equations, where- 
+by all the points in a plane have their unique 
+numerical equivalents. 
+
+The Cartesian synthesis of algebra and gcom- 
+ctiy, which in his view v.astly increases the 
+power of c.ach, violates the ancient distinction 
+between continuous and discontinuous quanti- 
+ties— mtignitudes (like lines and plancs)*and 
+multitudes (or numbers). Euclid, for example, 
+treats the irrational or the incommensurable 
+
+always as a relation of m.agnitudcs, never of 
+multitudes, or numbers; for him certain geo- 
+metrical relationships cannot be expressed nu- 
+merically. Arithmetic and geometry arc not 
+even coordinate, much less co-extensive sci- 
+ences. Arithmetic is the simpler, the more ele- 
+mentary' science, and is presupposed by gcotn- 
+etry'. 
+
+Other examples arising from the innovations 
+of Descartes might be cmploy'ed to show the 
+chasm between the arithmetic and geometry’ of 
+theancients, and modern mathematics — such as 
+the treatment of infinite m.agnitudcs and num- 
+bers, the theory’ of functions, and the method of 
+the calculu-s. But the multiplication of examples 
+docs not seem necessary to suggest that there 
+may be no answer to the question, Is Descartes 
+right, and Nicomachus and Euclid wrong? or to 
+the question. Are the modern innovations im- 
+provements or corruptions of the mathematical 
+arts and sciences? 
+
+These questions are not like questions con- 
+cerning the truth or falsity of a proposition in 
+mathematics or the validity of a proof. A given 
+theorem in Euclid must, in the light of his defi- 
+nitions, axioms, and postulates, be either true 
+or false; and accordingly Euclid’s demonstra- 
+tions or constructions arc cither cogent or falla- 
+cious. The same rules apply to Descartes. But 
+whether Euclid’s or Descartes’ conception of 
+the whole mathematical enterprise is right 
+seems to present a choice between disparate 
+worlds, a choice to be made by reference to 
+principles and purposes which are themselves 
+not mathematical. 
+
+Modern mathematics may’ be much more 
+useful in its physical applications, especially in 
+the analysis and calculation of variable notions 
+or quantities. It may have a special elegance 
+and simplicity, as well as greater unity and even 
+systematic rigor. But it may also purchase these 
+qualities at the c.xpcnse of the kind of intelli- 
+gibility which seems to characterize ancient 
+mathematics as a result of the insistence that 
+its objects have an immediately recognizable 
+reality. Ancient mathematics never occasioned 
+such an extreme remark as tliat made by Ber- 
+trand Russell about modern mathematics— 
+that it is “the science in which we never know 
+what we arc talking about, nor whether what 
+we are saying is true.” 
+
+The question of jthe reality of the objects of 
+mathematics is in part a problem for the math- 
+ematician and in part a question for the philos- 
+opher. The problem for the mathematician 
+seems to be one of establishing the existence of 
+the objects he defines. This can be illustrated 
+by reference to Euclid’s Elements. . . 
+
+The basic principles,, as Euclid expounds the 
+science, seerri to be threefold : definitions, postu- 
+lates, and axioms or common notions. The 
+axioms are called “common notions’’ because 
+they are truths common to other branches of 
+mathematics as well as to geometry. The com- 
+mon notions are called “axiomsl’ because their 
+truth is supposed to be self-evident. In contrast, 
+the postulates are peculiar to geometry, for they 
+are written as rules of construction. They de- 
+xi33.od that cestsisi opesstiosxs be sissumed passi- 
+ble, such as the drawing of a straight line or a 
+circle, or the transposition of a figure from one 
+portion of space to another without alteration 
+of its form or quantity. 
+
+Euclid’s definitions include the definition of 
+a straight line and a circle. His first two postu- 
+lates, therefore, seem to ask us to assume that 
+space is such that these defined geometrical 
+objects exist in it as they are defined; or, in 
+other words, that objects corresponding to the 
+definitions have geometrical reality. But there 
+are many definitions — of a triangle, of an equi- 
+lateral triangle, of a parallelogram — for which 
+Euclid states no postulate demanding that we 
+assume the geometrical reality of the object 
+defined. Hence before he undertakes to demon- 
+strate the properties of these figures, he finds it 
+necessary to prove that they can be constructed. 
+Until they are constructed, and the construc- 
+tion demonstrated, the definitions state only 
+possibilities to which no geometrical realities 
+are hpotvn to correspond in the space deter- 
+mined by Euclid’s postulates. 
+
+In his first constructions, Euclid can employ 
+only the definition of the figure itself, his axi- 
+oms, and those postulates which permit him to 
+use certain , mechanical devices — the straight 
+edge and the compass, which are the mechani- 
+cal equivalents of his postulates that a straight 
+line can be drawn between any two points and 
+a circle described with any radius from any 
+point upon a plane. When, for example, in the 
+first proposition of Book I. Euclid thus demon- 
+
+strates the constrC^ion of^i^quilaiEiai ^ 
+angle, he has proved-ithe geotnetripdve^ste^^f 
+of that figure, or, in oth'er^vrttcifsdisySw^ in 
+the space of his postulates. 
+
+A number of questions can be asked about 
+this and many other similar demonstrations. 
+The postulates. being assumptions, their truth 
+can be questioned and an effort made to prove 
+or disprove them. This type of questioning led 
+to the development of the: non-Euclidean 
+geometries. After centuries of trying unsuc- 
+cessfully to prove Euclid’s postulate about par- 
+allel lines, geometers like Lobachevski and Rie- 
+mann postulated other conditions concerning 
+parallels, with consequences for the properties 
+of other geometrical figures. 
+
+The interior angles of a Euclidean triangle, 
+fiar e.'tsmpie, equal the sum of two right angles; 
+in certain non-Euclidean triangles, they add up 
+to mote or less than two rights. One interpreta- 
+tion of this situation is that the truth of con- 
+clusions in geometry is entirely dependent on 
+arbitrary assumptions. Another is that the sev- 
+eral variants of the parallel postulate indicate 
+the selection of different spaces in which to 
+construct figures; and under each set of spatial 
+conditions postulated, there is only one body of 
+geometrical truths concerning the properties 
+of the figures therein constructed. 
+
+Another type of question concerns the logi- 
+cal, as opposed to the geometrical, conditions 
+of geometrical proof. In his essay On Geometri- 
+cal Demonstration, Pascal declares the geometric 
+method to be the most perfect available to 
+men, for it “consists not in defining or in prov- 
+ing ever}'thing, nor in defining or proving 
+nothing, but in maintaining itself in the mid- 
+dleground of not defining things which are 
+clear to all men and in defining all others; and 
+not proving everything known to men, but in 
+proving all the other things.’’ This method, it 
+seems, is not restricted to the subject matter of 
+geometry: to Descartes and Spinoza, at least, it 
+seems to be the method for demonstrating any 
+theoretical truth. Descartes presents “argu- 
+ments demonstrating the existence of God and 
+the distinction between soul and body, drawn 
+up in geometrical fashion”; and as its title page 
+indicates, the whole of Spinoza’s Ethics is set 
+forth ‘‘in geometrical order.” 
+
+It may be questioned whether the postulates 
+
+which Descartes adds to his definitions and 
+axioms, or those which Spinoza introduces be- 
+ginning with Proposition 13 of Book II, func- 
+tion as postulates do in geometry, i.e., as rules 
+of construction; it may similarly be questioned 
+whether Spinoza is following the geometrical 
+method in Book I where he proceeds without 
+any postulates at all. But the more general 
+question concerns the criteria for testing the 
+consistency and the adequacy of the primitive 
+propositions— the definitions, axioms, postu- 
+lates— laid down as the foundation for all that 
+is to be demonstrated. The investigation of this 
+problem calls for an e.xamination of the whole 
+process of proof, from which has developed the 
+modem thcor}’ of mathematical logic that chal- 
+lenges the universalitj' and adequacy of the 
+tradmonal logic of Aristotle, and asserts that 
+mathematics and logic are continuous with one 
+another— essentially the same discipline. 
+
+The issues raised by mathematical logic or 
+the logic of mathematics arc considered in the 
+chapters on Hypothesis, Logic, and Reason- 
+ing. Here wc must turn finally to one other 
+question which is of interest principally to the 
+philosopher rather than the mathematician. It 
+concerns the objects of mathematics. It is a 
+question about their reality or mode of exist- 
+ence which cannot be answered by the mathe- 
+matical proof of a constmetion. 
+
+When, for example, Euclid constructs an 
+equilateral triangle, the figure established can- 
+not be the one imperfectly drawn upon paper. 
+The postulated permission to use a ruler and 
+compass docs not remove the imperfection of 
+these mechanical instalments or the inaccuracy 
+in their pliysical use. The triangle whose prop- 
+erties the geometer tries to demonstrate must 
+be perfect, as no actually drawn figure can be. 
+llic philosophical question, therefore, concerns 
+the reality or existence of this ideal, perfect 
+figure. The same question can be asked about 
+pure numbers— numbers apart from all num- 
+bered things. 
+
+Arc the objects of mathematics purely in- 
+telligible beings existing apart from the sensible 
+world of material things? Or arc they idea! enti- 
+tics— not in the sense of existing outside the 
+mind, but in the sense of being ideas in the 
+mind itself rather than perceptible particulars? 
+
+As indicated in the chapters on Being, Form, 
+and Idea, Plato and Aristotle seem to ansvrer 
+these questions differently. But there arc fur- 
+ther difTcrcnccs among those who regard math- 
+ematical objects as having being only in the 
+mind. 
+
+Aristotle, Aquinas, Locke, and James, for 
+example, think of the objects of mathematics 
+as universals formed by abstraction from the 
+particulars of sense and imagination. “The 
+mathematicals,” such as numbers and figures, 
+Aquinas writes, “do not subsist as separate 
+beings.” Apart from numbered things and 
+physical configurations, numbers and figures 
+“have a separate existence only in the reason, 
+in so far as they are abstracted from motion and 
+matter.” Hobbes, Berkeley, and Hume, on the 
+other hand, deny abstract ideas ot uravetsai 
+concepts. “Let any man try to conceive a tri- 
+angle in general,” Hume declares, “which is 
+neither isosceles nor scalenum, nor has any par- 
+ticular length or proportion of sides; and he 
+will soon perceive the absurdity of all the scho- 
+lastic notions with regard to abstraction and 
+general ideas.” 
+
+Despite these differences, there seems to be 
+general agreement in the tradition of the great 
+books that the truths of mathematics arc ra- 
+tional rather than empirical; or, in the lan- 
+guage of Kant and James, a priori rather than a 
+posteriori. But the meaning of this agreement 
+is not the same for those who think that truth 
+in mathematics docs not differ from truth in 
+other sciences and those who think that mathe- 
+matical tru ihsstand alone precisely because they 
+are not about matters of fact or real existence. 
+
+Plato, for whom all science is knowledge of 
+purely intelligible objects, regards the mathe- 
+matical sciences as inferior to dialectic in the 
+knowledge of such objects “because they start 
+from hypotheses and do not ascend to princi- 
+ples.” The students of such sciences, Plato 
+writes, “assume the odd and the even and the 
+figures and three kinds of angles and the like 
+in their several branches of science; these arc 
+their hj’pothcscs, which they and cvcrj'body 
+arc supposed to know, and therefore they do 
+not deign to give any account of them cither 
+to themselves or others; but they begin with 
+them, and go on until they arrive at last, and 
+in a consistent manner, at their conclusion.” 
+
+Chapter 52: MATHEMATICS 51 
+
+. For . Aristotle, what differentiates mathe- 
+matics from physics and metaphysics' is the 
+special character of its objects. Physics and 
+metaphysics both deal with substances as. they 
+e-xist outside the mind, whereas the objects of 
+mathematics are abstractions. Though figures 
+and .numbers “are inseparable in fact” from 
+material substances; they'are “separable from 
+any particular kind of body by an effort of ab- 
+straction:” This; does. not deny, for example, 
+that physical' things :have’ perceptible figures. 
+It merely insists that the geometer does not 
+treat figures as sensible, but as intelligible, that 
+is, as abstracted from matter. Nevertheless, the 
+truths of mathematics, no less than those of 
+physics and metaphysics, apply to reality. All 
+three sciences are further alike in demonstrat- 
+ing their conclusions rationally rather than by 
+experiment. All three employ induction to ob- 
+tain their p'finciples, though metaphysics alone 
+attains to the first principles of all science. 
+
+For Kant, “mathematical cognition is cogni- 
+tion by means of the construction of concep- 
+tions.” To explain this he cites the example of 
+the construction of a triangle. “I construct a 
+triangle, by the presentation of the object 
+which corresponds to, this conception, .either 
+by mere imagination (in pure intuition) or 
+upon paper (in empirical intuition); in both 
+cases completely a /?r/on .without borrowing 
+the type of that figure from any experience. . . . 
+We keep our eye merely on the act of the con- 
+struction of the conception, and pay no atten- 
+tion to the various modes of determining it, for 
+e.\ample, its size, the length of its sides, the size 
+of its angles.” The a -priori character of such in- 
+tuitions, on which rests the a priori character of 
+mathematical truths, does not mean that math- 
+ematics has no relevance to experience. Arith- 
+metic and geometry are like physics, .according 
+to Kant; they are sciences of experience or 
+nature but like pure (as opposed to empirical) 
+physics, they are a priori sciences. Since Kant 
+holds that experience itself is constituted by a 
+priori forms of perception, he can ascribe the 
+validity which mathematics has for^all possible 
+experience to the “a priori intuition of the 
+pure forms of phenomena — space and time.” 
+
+Bertrand Russell rejects this “Kantian view 
+which [asserts] that mathematical reasoning is 
+not strictly formal, but always uses intuitions. 
+
+i.e.; the a priori knowledge of space arid time. 
+Thanks to the progress of Symbolic Logic . . . 
+this part of the Kantian philosophy,” Russell 
+holds, “is now capable of a final and irrevocable 
+refutation.” Leibnitz, before Kant, had advo- 
+cated .‘‘the general doctrine that all mathemat- 
+ics is a deduction' from logical, principles,” but, 
+according to Russell, he had failed to substanti-' 
+ate this insight, partly because of his “belief in 
+the logical necessity of Euclidean geometry.” 
+The sariie belief is, in Russell’s opinion, the 
+cause of Kant’s error. “The actual propositions 
+of Euclid ... do not follow from the principles 
+of logic alone; and the perception of this fact,” 
+he thinks, “led Kant to his innovations in the 
+theory of knowledge. But since the grow.th of 
+non-Euclidean geometry, it has appeared that 
+pure mathematics has no concern with the 
+question whether the axioms and propositions 
+of Euclid hold of actual space or not.” 
+
+Russell asserts that “by the help of ten prin- 
+ciples of deduction and ten other premises of a 
+general logical nature {e.g., ‘implication is a 
+relation’), all mathematics can be strictly and 
+formally deduced.” He regards “the fact that 
+all Mathematics is Symbolic Logic” as “one of 
+the greatest discoveries of our age; and when 
+this fact has been established, the remainder of 
+■the principles of Mathematics consists in the 
+analysis of Symbolic Logic itself.” Though this 
+view of mathematics may not be worked out 
+in detail except in such treatises as Russell’s 
+Principles of Mathematics and in the Principia 
+Mathematica, pn which he collaborated with 
+Whitehead, the conception of mathematics as a 
+purely formal science, analogous to (if not 
+identical with) logic, does have some anticipa- 
+tions in the great books. For James, as for 
+Locke and Hume, mathematics is strictly a 
+science of the . relations between ideas, not of 
+real existences. “As regards mathematical judg- 
+ments,” James writes, “they are all ‘rational 
+propositions’ . . . for they express results of com- 
+parison and nothing more. The mathematical 
+sciences deal with similarities and equalities ex- 
+clusively, and not. with coexistences and se- 
+quences.” Both James and Locke, however, 
+differ fiom Hume in thinking that there are 
+sciences other than those of number and quan- 
+tity which can demonstrate their conclusions 
+with certitude.. ■ 
+
+The foregoing discussion indicates some 
+the differences among philosophers concerning 
+the objects of mathematics, the conditions of 
+its truth, and its relation to other sciences. 
+These disagreements do not seem to take the 
+form of an opposition between ancient and 
+modem thought, like that between ancient 
+and modem mathematicians concerning the 
+nature of their science. The two oppositions do 
+not mn parallel to one another. 
+
+On the contrary, the objections which mod- 
+
+em philosophers, especially Berkeley, Hume, 
+and Kant, raise against the notion of infinite 
+quantities seem tofevorthe ancient rather than 
+the modern tenor of mathematical thought 
+Though the reasons they give do 'not derive 
+from the same principles as those to which Plato 
+and Aristotle appeal, they, like the ancients, 
+appear to insist upon a certain type of intel- 
+ligibility in the objects of mathematics, which 
+seems to have been sacrificed in the mathe- 
+matical development initiated by Descartes. 
+
+of
+
+
+OUTLINE' OF TOPICS 
+
+1. The science of mathematics: its branches or divisions; the origin and development of 
+
+mathematics 
+
+I ^ ~> 
+
+I a. The distinction of mathematics from physics and metaphysics: its relation to logic 
+
+The ser\’ice of mathematics to dialectic and philosophy: its place in, liberal 
+education , ,, 
+
+ic. The certainty and exactitude of mathematical knowledge: the a priori founda- 
+
+tions of arithmetic and geometry 
+
+id. The ideal of a universal mathesis: the unification of arithmetic and geometry 
+
+2. The objects of mathematics: number, figure, extension, relation, order - ' 
+
+2a. The apprehension of mathematical objects: by intuition, abstraction, imagina- 
+tion, construction; the forms of time and space 
+
+2b. The being of mathematical objects: their real, ideal, or mental existence 
+
+2c. Kinds of quantity: continuous and discrete quantities; the problem of 'the 
+irrational 
+
+3. Method in mathematics: the model of mathematical thought 
+
+3a. The conditions and character of demonstration in mathematics: the use of 
+definitions, postulates, axioms, hypotheses 
+
+lb. The role of construction: its bearing on proof, mathematical existence, and the 
+scope of mathematical inquiry 
+
+_3C. Analysb and synthesis: function and variable i 
+
+3d. Symbols and formulae: the attainment of generality • , ‘ 
+
+4. Mathematical techniques 
+
+4a. The arithmetic and algebraic processes 
+
+4A The operations of geometry 
+
+4c. The use of proportions and equations 
+
+4d. The method of exhaustion: the theory of limits and the calculus 
+
+'58 
+
+5. The applications of mathematics to physical phenomena: the utility of mathematics 
+
+5a. The art of measurement , ’gg 
+
+57. Matlicm.atical physics: the mathematical structure of nature 
+
+■' ’ '■ KEFERmCESy ■ ^ 
+
+To find the passages cited, use the numbers in heavy type, which are the volume'and page 
+numbers of the passages referred to. For example, in.4 Homek: Iliad, bk ii [ 265-283] 12d, the 
+number 4 is the number of the volume in the set; .the number 12d indicates that the pas-c 
+sage: is in section d of page 12. , . ' ■ ' : ■ , 
+
+, . Page Sections: When the text is printed in one column, the letters a and b refer to the . 
+. I , upper and lower halves of the page, For example, in S3 James : Psychology, I16a-119b, the passage 
+begins in the upper half of page 116 and ends in the lower half of page 119. When the text is 
+.. ; , printed in two columns, the letters a and b refer to the upper and lower halves of the left- 
+hand side of the page, the letters c and d to the upper and lower halves of the right-hand side of 
+the page. For example, in 7 Plato: Symposium, 163b-164c, the passage begins in the lower half 
+of the left-hand side of page 163 and ends in the upper half of the right-hand side of page 164. ' 
+
+Author’s Divisions: One or more of the main divisions of a work (such as part, bk, ch, 
+
+' sect) are sometimes included in the reference; line numbers, in brackets, are given in cer- 
+tain cases; e.g., ///W, bk ii [265-283] 12d. 
+
+Bible
+
+
+REFERENCES
+
+References : The references are to book, chapter, and verse. When the King James 
+, and Douay. versions differ in title of hooks or in the numbering of chapters or verses, the King 
+James version is cited first and the Douay, indicated by a (D), follows; e.g.. Old Testa- 
+ment: Nehemiah, 7:45— (D) II Esdras, 7:46. 
+
+' ‘ Symbols: The abbreviation “esp” calls the reader’s attention to one or more especially 
+relevant' parts pf a whole reference; “passim” signifies that the topic is discussed intermit- 
+tently rather' than continuously in the work or passage cited. 
+
+For additional information concerning the style of the references, see the Explanation of 
+■ Refetence Style; for general guidance in the use of The Great Ideas, consult the Preface. 
+
+l.’The science of mathematics: its branches or 
+Jiio I' divisions; the origin and development 
+of mathematics 
+
+S kEscRYEvs: Prometheus Bound [442-472] 
+' 44 c.d esp [459-460] 44 d 
+'"6 Herodotus: History, bk ii, 70b-c 
+
+■ 7 Plato: Charmides, 'l&-Sa / Phaedrus, 138c-d 
+
+/ Gorgias, 254a-c / Republic, bk vii, 391b- 
+' '397a / Timaeus, r ^ 5 lh-c / 'Statesman, S81a / 
+
+Philebus, 633b-634b ' ' ' 
+
+8 Aristo't LE :' Posterior Analytics, bk i, ck 7 
+103 c-d;'cH 27 / Metaphysics, bk i, ch i 
+
+[98i1’i3-24] 500 a;'CH 9 [992*29-34] S 10 c; bk II, 
+ch 3 513 c-d “ 
+
+• 11 Nicomachus: Arithmetic, bk 1, 812b-8l3d; 
+BK n, 831d-832a 
+
+’• 16 Ptolemy : bk i, 5a-6a 
+
+J6 Copernicus:' Revolutions of the Heavenly 
+
+■ Spheres, bk i, 510a-b 
+
+■ Vl'PiioTiNus-. Fifth Ennedd-, tr ix, ch ii, 2S0c-d 
+’ IS hvGv&imEv Christiari Doctrine, bk ii,‘ch 38 
+
+6S4b-C' • 
+
+19 Aquinas: Summa Theologica, part i-ti,'Q 35, 
+'A' 8 ', ans!779c-780c ■ ' ■ 
+
+' 23 Hobbes: part i, 72a-d; part iv, 
+• ■ '268c-d; 269b ■ ' ' ' ' ' 
+
+30 Bacon: Advancement of Learning, 46a-c 
+
+31 Descartes: Rules, iv, 5c-d; 6c-7c; xiv, 31c- 
+32a / Discourse, part i, 43b-c; part 11, 47b-d 
+31 Spinoza: Ethics, part i, appendix, 370b-c 
+
+34 Newton: Principles, la-b 
+
+35 Locke: Human Understanding, bk iv, ch xii, 
+
+' SECT 7 360b-c; SECT 15 363a-b 
+
+35 Hume: Human Understanding, sect iv, div 
+20' 458b; sect vii, div 48 470d-471c; sect 
+XII, div 13 1 508d-S09a 
+'41 Gibbon: Decline, and Fall, 290a; 299b 
+42 Kant: Pure Reason, 5d-6b; 17d-18d; 46a-c; 
+68a-69c esp 68c-69a; 211c-218d / Practical 
+Reason, 295b-d; 330d-331a / Judgement, S53d 
+- ' (fn i] 
+
+46 Hegel; Philosophy of Right, ,\dditions, 40 
+122d-123b •/ Philosophy of History, part i, 
+219a ' ‘ 
+
+53 James: Psychology, Sl'ia-SySa 
+
+la . The distinction of mathematics from phys- 
+ics and metaphysics: its relation to logic 
+
+7 Plato: Euthydemus, 75b / Republic, bk vi, 
+386d-388a; bk vii, 391b-398c 
+
+8 Aristotle : Posterior Analytics, bk i, ch 12 
+[77'’27-34] 107 a; [78*10-13] 107 b-c / Physics, 
+BK II, CH 2 [i93*’22-i94*ii] 27 pa-c; ch 9 
+'[206*15-29] 277 c-d /■ Heavens, E-K. i, cii 10 
+
+: ' ■ [279’’32-28o*ii] Zllh-c ■/ Metaphysics,' EK. i. 
+
+THE GREAT IDEAS lb to I<r 
+
+(1. The science oj mathematics; its branches or 
+divisions; the origin and development oJ 
+mathematics, la. The distinction oj mathe- 
+matics from physics and metaphysics: its 
+relation to logic.) 
+
+CH 8 [9S9’>29-g90°S] S08a; ch 9 [992'‘29-*’9] 
+SlOc-d; BK II, CH 3 [995“i5-2o] 513d; bk in, 
+CH 2 [996"2i-36] 514d-515a; bk iv, ch i 522a; 
+BK VI, CH i S47b,d-548c; bk xi, ch i [io59*>i5- 
+21] S87c-d; CH 3 [io6i'‘29-’>i2] 589c-d; ch 4 
+589d-590a; cii 7 S92b-S93a; bk xir, ck" 8 
+Iio73’’i-7] 603d / Soul, bk 1, ch i [403'>io-i6] 
+632d 
+
+9 Abistotle: Ethics, bk vi, ch 8 [ii42“i2-i9] 
+391b 
+
+16 Ptolemy: Almagest, bk i, 5a-6a 
+
+19 Aquinas: Theologica, part i, q i, a 1, 
+
+REP 2 3b-4a; q 7, a 3, ans 32c-33c; q 44, a i, 
+REP 3 238b-239a; Q 85, a i, rep 2 451c-453c 
+
+20 Aquinas: Summa Theologica, part ii-ii, q 9, 
+A 2, REP 3 424b-425a; part lit, Q 7, a 12, rep 
+I 754C-7SSC 
+
+23 Hobbes: Leviathan, part 1, S6b-S7a; 58a-c; 
+59b-c; 72a-d; part iv, 267a-b; 268c-269a 
+
+28 Galileo: Two New Sciences, second day, 
+190b-c 
+
+30 Bacon: Advancement of Learning, 46a-b 
+
+31 Descartes: Rules, ii, 2d-3b; iv 5a-7d; viii, 
+12b-13a; XIV, 31c-32a / Discourse, part ii, 
+46c-47a / Meditations, 70b-c; i, 76b-c / Ob- 
+jections and Replies, 128d-129a; 169c-170a 
+
+33 Pascal: Geometrical Demonstration, 44Sa-b 
+
+34 Newton: Principles, la-2a 
+
+35 Locke; Human Understanding, bk iv, ch hi, 
+sect 29 322c-323a; CK xii, sect 7-13 360b- 
+362d passim 
+
+35 Hume: Human Understanding, sect vii, div 
+48 470d-471c 
+
+39 Smith: Wealth of Nations, bk v, 33Sb- 
+337a 
+
+42 Kant: Pure Reason, 5a-9a; 15c-16c; 17d-19a; 
+211c-218d esp 215d-217a; 243c-248d passim, 
+esp 244d-245a, 248c / Piactical Reason, 
+295b-d; 311d-313d / Pref. Metaphysical Ele- 
+ments of Ethics, 376c-d 
+
+43 Mill: Utilitarianism, 445b-c 
+
+53 James: Psychology, 867a-870a esp 869a-870a 
+
+lb. The serA’ice of mathematics to dialectic and 
+philosophy: its place in liberal education 
+
+7 Plato: Republic, bk vi, 386d-388a; bk vii, 
+391b-398c; bk viii, 403a-d / Timaeus, 448b- 
+450a; 453b-454a; 4S8b-460b / Theaetetus, 
+515a-d / Philehus, 633a-63Sa / Laws, bk v, 
+691d-692a; 69Sc-697a; bk vii, 728b-730d 
+
+8 Aristotle: Heavens, bk hi, ch i 1299*1- 
+300*19] 390b-391c; cii 7-8 396d-399a,c / 
+Generation and Corruption, bk ii, ch i l329“5- 
+24] 428d-429a / Metaphysics, bk i, ch 5-6 
+503d-506b; cii 8 l989'’29-990®32] 508a-c; cn 
+g (992*24-‘’9] 510c-d; bk xii, ch 8 [i073*’3-7] 
+
+603d; BK XIV, ch 3 622d-623d: cii 5-6 624d- 
+626d / Soul, bk I, CH 4 [4o8’’33-409“9j 638d 
+
+9 Aristotle; Ethics, bk vi, ch 8 [i^a^iB-ig] 
+391b 
+
+11 Nicomachus: Arithmetic, bk i, 811a-813d 
+16 Ptolemy: Almagest, bk i, Sb-6a 
+16 Copernicus: Revolutions of the Heavenly 
+Spheres, bk t, 510a-b 
+
+16 Kepler: Epitome, bk iv, 863b-872b passim 
+
+17 Plotinus: First Ennead, tr hi, ch 3 lOd-IIa 
+
+18 Augustine: Confessions, bk iv, par 30 26b-c 
+/ Christian Doctrine, bk ii, ch 16, 644d-645d; 
+ch 38-39 654b-655b 
+
+23 Hobbes: Leviathan, part i, 56b-57a; S9b-c; 
+PART II, 164c; PART IV, 268c-d; 269b 
+
+24 Rabelais: Gargantua and Pantagruel, bk i, 
+27d; BK IV, 278b 
+
+25 Montaigne; Essays, 70a-d 
+
+28 Galileo: Two New Sciences, second day, 
+190b-c 
+
+30 Bacon: Advancement of Learning, 16a-b; 
+46a-c 
+
+31 Descartes: Rules, ii 2a-3b; iv 5a-7d; xiv, 
+29a-b / Discourse, part i, 43b-c; part ii, 
+46c-48b / Geometry, bk 1 , 297a-b 
+
+31 Spinoza; Ethics, part i, appendix, ,370b-c 
+
+33 Pascal: Pensees, 1-2 171a-l72b / Geometrical 
+Demonstration, 442a-446b 
+
+34 Newton: Principles, lb-2a 
+
+36 Swift: Gulliver, part hi, 97a-b 
+42 Kant; Pure Reason, lSc-16c; 46a-c; 211c-218d 
+esp 215a-c / Judgement, 551a-552c 
+51 Tolstoy: JPar and Peace, bk i, 47b-48d 
+53 James: Psychology, 882a-883a 
+
+Ic. The certainty and exactitude of mathemati- 
+cal knowledge: the a priori foundations 
+of arithmetic and geometry 
+
+7 Plato: Philebus, 633b-634b 
+
+8 Aristotle: Posterior Analytics, bk i, ch 27 
+119b / Metaphysics, bk i, ch 2 [982*25-28] 
+500c; BK II, CH 3 513c-d; bk xiii, ch 3 609a- 
+610a 
+
+9 Aristotle: Ethics, bk i, ch 3 [i094'’i2-28] 
+339d-340a 
+
+11 Nicomachus: Arithmetic, bk i, 811a-814b 
+16 Ptolemy: Almagest, bk i, 5 b-6a 
+23 Hobbes: Leviathan, part i, 56b; 5gb-c: 
+PART IV, 268c-d; 269b 
+
+28 Galileo: Two New Sciences, fourth pay, 
+252a-b 
+
+30 Bacon: Advancement of Learning, 61b-c; 65b 
+/ Novum Organttm, bk i, aph 59 112b-c 
+
+31 Descartes: Rules, ii 2 a-3b; iv 5 a-7d / Dis- 
+course, PART I, 43b-c; PART II, 47b-c; part iv, 
+S2d-53a; part v, 54c / Meditations, i, 76b-c; 
+v, 93a-95b / Objections and Replies, 128a-129a 
+/ Geometry, bk ii, 304a-b 
+
+31 Spinoza: Ethics, part i, appendix, 370b-c 
+33 Pascal: Pensees, 1-2 171a-l72b; 33 176b / 
+Geometrical Demonstration, 430a-434a; 442a- 
+446b 
+
+Xdtola 
+
+35 .‘Locke: Human Understanding, bk ,iv, 'ch ii, 
+SECT 9-10 Snb'c; CH in, sect 18-20 317d- 
+319c passim; sect 29 322c-323a; ch iv, sect 
+' ,. 6-9 325a-326b; ch xii, sect.' 1-8 3S8c-360c 
+passim, esp sect. 7 360b-c; ch xnr, sect 3 
+364a '■ - 
+
+35 Berkeley: Human Knowledge, sect ri8 
+
+436b-c ; 
+
+ZS Human Understanding, sect Tv, div 
+
+, 20 458a-b; sect.vh, oiV 48 470d-471c; sect 
+
+XII, Div 131 S08d-509a ' • 
+
+36 Swift: Gulliver, part hi, 118b-119a ' 
+
+42 Kant: Pure Reasoni- Sa-ZA', 15c-16c; 31b-d; 
+c 35b-36a;. 46a-b; 68a^69c; 86b-c; llOa; 2nc- 
+
+•218d / Practical Reason, 295b-d; 312c-d; 
+330d-331a / Pref. Metaphysical Elements of 
+Ethics, 376c-d / Science of Right, 399a-b / 
+..judgement, S51a-552a ’ . 
+
+43 Federalist: number 31, 103c-104a; number 
+85, 2S7d-2S8d 
+
+'43 Mill: Liberty, 283d-284b / Utilitarianism, 
+■445b-c ■ ' 
+
+:4S Lferotsw-a. -. Elements of Clietnistry, pref, la; 2b 
+. • 45 Fourier: Theory of Heat, 173a-b 
+S3 James: Psychology, 17Sa'176a; 874a'878a; 
+
+, 879b'882a 
+
+id. The ideal of a universal mathesis: the unifi- 
+cation of arithmetic and geometry 
+■7 Plato: Meno, 180d-182c / Theaetetus, SlSa-c 
+8 Aristotle: Categories, ch 6 [4*’2o-5‘‘i4] 9a-c 
+I Posterior Analytics, bk i, ch 7 103c-d / Meta- 
+, ■ physics, bk ii, ch 3 513c-df bk vi, ch i 
+[io 26 “i 8-27] 548b; bk xi, ch 7 [io64*’6-9| 
+'S92d-S93a; bk xiii, ch 2 [io77“9-io] 608b; 
+.. 'cH 3 [i077*’i7-23] 609a 
+II Euclid: Elements, bk ii 30a-40b; bk v 81a- 
+.98,b: BK VII, definitions, 16-19 127b 
+11 'NicomachuS: Arithmetic, bk ii, 831d-841c 
+16 Kepler: Harmonies of the World, 1012b- 
+, 1014b - 
+
+23 Hobbes: Leviathan, part i, 58a-c 
+31 Descartes: Rules la-40a,c esp ii, 2d-3b, iv 
+Sa-7d, VI 8a-10a, xiv-xxi 28a-40a,c / Dis- 
+course, part h, 46c-48b; part hi, SOd / 
+Geometry 295a-3S3b esp bk i, 295a-298b 
+33 Pascal: Arithmetical Triangle, 447a-4S6a 
+- 36 Swift: Gulliver, part hi, 109b-llla 
+42 Kant: Pure Reason, 68a-69c 
+45 Fourier: Theory of Heat, 172a-173b 
+
+2, .The objects of mathematics: number, figure, 
+
+■ extension, relation, order 
+, 7 Plato; Charmides, 7d-8a / Meno, 176d-177a; 
+180b-183c / Republic, bk vi, 387b-c; bk vn, 
+393d ■/ Philebiis, 633d ' " ' 
+
+. 8 '.Aristotle; .Categories, cH 6 .9a-lla; ch 8 
+. ^[Io“n-I6] ISa-b / Physics, bk iv, ch ii [ 2I9'’5- 
+
+■ " 8] 299b / Metaphysics, bk hi, ch i [ 9g6“i3- 
+• 15] 514c; ch 5 520c-521b passim; bk vii, ch 2 
+
+[io 28 '’i 8-28] 5Sla-b; bk xi, ch 3 [i66C2g-^^] 
+
+. 589c 
+
+9 Aristotle: RJietoric, bk i, ch 2 [ijjf> 26 -g 2 ] 
+' , •^95'd 
+
+' ■ H.Euclid: Elements, bk i, defi.nitions la-2a; 
+BK VII, definitions, 1-2 127a; bk xi, defini- 
+tions, I 301a 
+
+11 Nicomachus; Arithmetic, bk i, 811d-812b 
+16 Ptolemy: Almagest, bk‘i, Sa-b • 
+
+18 Augustine; Christian Doctrine, bk ii, ch 38 
+
+- 654b-c 
+
+19 Aquinas: Stimma Theologica, part i, q 7, 
+A 3, ANS 32c-33c; a 4 , ans 33d-34c; q 30 , a i, 
+rep 4 167a'168a; q 85 , a r, rep 2 45Ic-4S3c 
+
+23 Hobbes: Leviathan, part i, 72a-d , 
+
+' 30 Bacon: Advancement of Learning, 46a-c 
+31 Descartes: Rules, ii‘, 3a-b; iv, 7a-b; vi 8a- 
+10a; XIV, 30d'33b / Discourse, part ii, 47b-d; 
+
+■ PART IV, 52d-S3a / Meditations, i, 76b-c / 
+Objections and Replies, 2l7b-d / Geometry, 
+BK II, 304a-306a; 316a-b 
+
+34 Newton: Principles, la-b 
+
+. 35 Locke: Human Understanding, bk ii, ch xii, 
+sect 3-5 147d-148b 
+
+35 Berkeley; Human Knowledge, sect 118-132 
+436b-439c 
+
+35 Hume: Human Understanding, sect xii, div 
+13 1 S08d-509a 
+
+42 Kant; Pure Reason, 46a-c; 62a-d; 68a-69c; 
+211c-213a 
+
+53 James: Psychology, 874a-878a esp 874a 
+
+2a. The apprehension of mathematical objects: 
+by intuition, abstraction, imagination, 
+construction; the forms of time and space 
+
+7 Plato: Meno, 180b-I83c / Republic, bk vi, 
+387b-d; bk vii, 393a-394a / Theaetetus, 
+535b-c 
+
+8 Aristotle: Posterior Analytics, bk i, ch 18 
+lllb-c / Metaphysics, bk ix, ch 9 [i05i“23- 
+33] 577b-c; bk xiii, ch 3 609a-610a / Memory 
+and Reminiscence, ch 2 [452'’7-23] 694b-d 
+
+9 Aristotle: Ethics, bk hi, ch 3 11112^20-24] 
+358d; BK VI, ch 8 [ii42'‘i3-i9] 391b 
+
+11 Euclid; Elements, bk i, postulates, 1-3 2a 
+19 Aquinas: Stimma Theologica, part i, q i, a i, 
+REP 2 3b-4a: Q 85, A I, REP 2 451c-4S3c 
+31 Descartes: Rules, xiv-xv 28a-33d / Dis- 
+course, part ii, 46d / Meditations, v, 93a-d; 
+vi, 96b-d / Objections and Replies, 217b-d; 
+218c; 228c-d 
+
+33 Pascal: Pensees, 1-2 171a-172b 
+35 Locke; Human Understanding, bk i, ch i, 
+sect 16 99b-c; bk ii, ch xiii, sect 5-6 149b-d; 
+ch xvi 165C'167c passim 
+35 Berkeley: Human Knowledge, intro, sect 
+15-16 409a-d; sect 12-13 415b-c; sect 118- 
+122 436b-437c 
+
+■ 35 Hume; Human Understanding, sect xii, div 
+122 505c-d; DIV 124-125 506a-507a esp 
+
+DIV 125, S07b [fn i] 
+
+42 Kant: Pure Reason, 16a-c; 17d-18d; 24d-25b; 
+Slb'd; 35b-36a; 46a-c; 55c-S6a; 62a-d; 68a- 
+69c; 86b-c; 87b-c; 110a; 211c-212a / Practical 
+
+THE GREAT IDEAS UioTx 
+
+(2, The objects of mathematics: number, figure, 
+extension, relation, order. 2a. The appre- 
+hension of mathematical objects: by intui- 
+tion, abstraction, imagination, construction; 
+the forms of time and space.) 
+
+Reason, 295b-d / Science of Right, 399a / 
+Judgement, 55Ia-553c 
+
+52 Dostoevsky: Brothers Karamazov, bk v, 
+121a-b 
+
+53 James: Psychology, 302a-304b; S49a-5S2a esp 
+552b [fn i); 869a-870a; 874b-878a passim 
+
+2b, The being of mathematical objects: their 
+real, ideal, or mental existence 
+
+7 Plato: Phaedo, 228b'230c; 242c-243c'/ Re- 
+piiblic, BK VI, 387b-c: dk vii, 391b-398c / 
+Theaetetus, 535b-c; 541b-d / Sophist, 562c / 
+Philebus, 636b-c / Seventh letter, 809c-810b 
+
+8 Aristotle; Prior Analytics, bk i, ch 41 {49'’32- 
+37] 6Sc / Posterior Analytics, bki.ch io[ 76*’39- 
+77“3] I 05 d; CH 13 [79“6 -ioJ 108 c ; ch 18 (81*40- 
+°5] lllb-c / Topics, BK VI, ch 6 [i 43 ‘’ti- 33 l 
+197 b-c / Physics, bk ii, ch 2 [i93'’23-i94”ii] 
+270 a-c: BK III, ch 5 (204*8-34] 282 a-b: bk iv, 
+CH I [2 o 8 '’i 9-24] 287 b-c: ch 11 (2to*’5-8j 299 b: 
+CH 14 [223*21-29] 303 a / Heavens, bk hi, 
+CH r [299*1-300*19] 390 b- 391 c: ch 7 (306*1- 
+*■2] 397 b-d / Metaphysics, bk i, ch 5 (985'’22- 
+986*21] S 03 d- 504 b; ch 6 (987*’io-34l 50 Sc- 
+506 a; ch 8 [989'’29-990*32l 508 a-c; cH 9 [991’’ 
+9-992 '’i 8] 509 d-sna; bk hi, ch r [995“i3- 
+18] S 14 a; [996*13-15] 514 c: cH 2 (996*22-36] 
+514 d-S 15 a; [997'’i2-9g8“i9] S 16 b-d; cH 5 
+[iooi‘’ 26 ]-ch 6 [ioo2‘’25] 520 c' 521 c: bk vii, 
+cH 2 [io 28 *’i 8-28] S 51 a-b: cii 10 (1035*’ 
+32-1036*12] 559 b-c; CH It [1036^32-1037*4] 
+560 b-c; BK XI, cii i [i059*’2-i3] 587 b'C; ch 2 
+Iio 6 o* 36 -*’i 9] 588 c-d; ch 3 [1061*29-^4] 589 c; 
+BK XII, CII I [1069*30-37] 598 b; bk xii, cii 10 
+Iio 75’'25 ]-bk XIII, CH 3 [io 78*’5] 606 c- 610 a; 
+BK XIII, CH 6-9 61 Id- 618 c; bk xiv 619 b,d- 
+626 d / Soul, BK III, CH 7 [ 43 i'’i 3 -i 9 ] 664 b 
+
+9 Aristotle: Ethics, bk i, ck 6 [1096*17-19] 
+341b; BK VI, CH 8 [1142*13-19] 39Ib 
+
+11 Euclid: Elements, bk i, postulates, 1-3 2a 
+
+11 Nicomachus: Arithmetic, bk 1, 811 a- 812 a: 
+813 d- 814 b 
+
+18 Augustine : Confessions, bk x, par ig 76 a-b 
+/ Christian Doctrine, bk 11 , ch 38 6 S 4 b-c 
+
+19 Aquinas; Stimma Theologica, part i,' Q 5, 
+A 3, REP 4 2Sa-d; q 10 , a 6 , ans 45c-46d; q ii, 
+A I, REP 1 46d-47d; a 3 , rep 2 49a-c; q 30 , a i, 
+REP 4 167a-I68a: q 44 , a i, rep 3 238b-239a; 
+Q 85, A I, REP 2 451c-453c 
+
+20 Aquinas: Summa Theologica, part 111 , q 7, 
+A 12, REP I 754c-755c; part hi suppl, q 83, 
+A 2, ANS 976c-978c; a 3 , rep 2 978c-980d 
+
+31 Descartes: Rules, xiv, 30 b- 32 a / Discourse, 
+PART IV, S 2 d 53 a / Meditations, i, 76 b-c; v, 
+93 a-d; 96 a / Objections and Replies, 169 c- 170 a; 
+217 b-d; 218 c: 228 C' 229 a 
+
+31 Spinoza: Ethics, part i, appendix, 370b-c 
+33 Pascal: Vacuum, 373a-b 
+35 Locke: Human Understanding, bk 1, ch 111, 
+SECT 6 113c-d; bk hi, ch hi, sect 19 259c- 
+260a; bK iv, ch iv, sect 5-8 324d-325c 
+35 Berkeley: Human Knowledge, intro, sect 
+12-16 408a-409d; sect 12-13 415b-c; sect 
+118-128 436b-438d passim, esp sect 121-122 
+436d-437c, sect 125-126 438a-c 
+35 Hume: Human Understanding, sectIv, div 20 
+458a-b; sect xh, div 122 505c-d; div 124-125 
+S06a-507a esp div 125, 507b [fn i] 
+
+42 KanT: Pure Reason, 16a-c; 24a-33d esp 31d- 
+32c;35b-36a; 46a-c; 62a-d;87b-c; 91c-d;94b- 
+95a ; 211c-213a esp 211c-212a / Practical Reason, 
+295b-d: 312c-d / Judgement, 551a'S53c 
+45 Fourier: Theory of Heat, 183a-b 
+53 James; Psychology, 874a-878a esp 87Sa-876b; 
+880b-881a ' 
+
+2c. Kinds of quantity; continuous and discrete 
+quantities; the problem of the irrational 
+
+7 Plato: Meno, 180d-181c / Republic, bk viii, 
+403a-d / Parmenides, 499d-500c / Theaetetus, 
+515a-c 
+
+8 Aristotle: Categories, ch 5 [3’’32-4“^ 8a-b; 
+CH 6 [4’’23-5*I4] 9 a-c; ch 8 [io^26--ii*i4] 15 d- 
+16 b / Physics, bk iv, ch 4 [2ii*29-’’4] 290 c; 
+CH 5 [2i2*’3-6] 291 d; bk v, ch 3' [227*10-34] 
+307 d- 308 b; bk vi, ch 1-2 312 b,d- 31 Sd / 
+Heavens, bk i, ch i [268*6-11] 359 a; bk hi, 
+CH 1 [299*1-300*19] 390 b- 391 c: CH 7 [306*26- 
+•^a] 397 c-d: ch 8 [yoS^iy-zG] 398 a / Generation 
+and Corruption, bk 1, cH 2 [3i5*’25-3i7"i7] 
+411 b- 4 I 3 a; bk 11, ch 10 (337*22-34] 439 b-c 
+/ Metaphysics, bk i, ch 2 [983*1 1-20] 'SOlb-c; 
+BK 11, CH 2 [994’'23-26] 513 a; bk hi, ch 4 
+[iooi’’7-25] 520 b-c; bk v, ch 6 [ioi5’’35-ioi6* 
+17] 536 b-c; [ioi6’’^32] 537 a-b; ch 13 [1020“ 
+9-14] 541 b; BK viii, ch 3 [i043'’33-i044*i4] 
+568 b-d: BK X, ch i [1052*15-37] S 7 Sb,d; ch 3 
+[1054*20-29] 581 a; bk xi, ch 12 [io'68*’26- 
+1069*18] 597 d- 598 a,c; bk xiv, ch i fio87'’34- 
+1088*14] 620 a-b 
+
+11 Euclid: Elements, bk v, definitions, 4-5 
+8la; BK VII, DEFINITIONS, 2 127a; 20 127b; 
+BK X 191a'300a esp prop i 191b-192a 
+11 Archimedes: Sphere and Cylinder, bk i, as- 
+sumptions, 5 404b / Spirals, 484b / Quadra- 
+ture of the Parabola, S27a-b 
+11 Nicomachus: Arithmetic, bk i, 811d-812a 
+17 Plotinus; Second Ennead, tr iv, ch 7, 52c / 
+Fourth Ennead, tr ii, cii i, 139d / Sixth En- 
+nead, tr 1, CII 4 253b-254b; tr hi, ch 13, 
+287d-288a; ch 15 289a-c 
+
+19 Aquinas: Theologica, part i, q 3 , a t, 
+
+REP 1 14b-15b; q 7 , a 3 , rep 3-4 32c-33c: a 4, 
+ANS 33d-34c; q 11, a 2 , rep 2 47d-48d: q 30, 
+A 3, ANS 169b-170c; q 42 , a i, rep 1 224b- 
+225d; Q 48. A 4, REP 3 262a-263a: Q 52 , a r 
+278d-279b 
+
+20 Aquinas: Summa Theologica, part ii-il. 
+
+, -3 10 3a 
+
+, Q 24, A 4, REP I, 491d'492b;,PART in, q 7, 
+A 12, REP I 7S4c-755c 
+
+28 Galileo: Two New Sciences, first day, 139c- 
+, ,153a passim; third day, 201a-202a’ ' 
+
+31 Descartes: D/Vcohw, PART iv, 52d-S3a / 
+
+' . Meditations, v, 93b " ' \ 
+
+31 Spinoza: Ethics, part i, prop 15, scHOL360b- 
+’361d'. , • • • 
+
+■ 33 'Paso G eometrical Demonstration,- 434a- 
+
+439b _ 
+
+. 34 Newton: Principles, bk i, '.lemma i 2Sa; 
+LEMMA II, scHOL, 31a-32a . • 1 , 
+
+35 Locke: Human Understanding, bk ii, ch xv, 
+
+. ■ sect ;9 164b;d; ch.xvi, sect . 3-4 16Sd-166b 
+35 Berkeley: Human Knowledge, sect 123-132 
+437c-439c 
+
+42 Rant: ■ 'P/w ''66(1-720; '124d-125b; 
+
+13Sa-137a,c; 152a-d; 161d-163'a 
+51 Tolstoy: War and Peace, bk xi, 469a-d , 
+
+3. Method in'mathemaiics: the model of math- 
+ematical thought 
+
+7 Plato: M(?np, 179d-183a / Republic, bk vi, 
+
+, , 387b-d / Theaetetus, 515b-c 
+. r8 Aristotle : 'Prior Analytics, bk 1 , ch 41 
+■ 32-5o“4] 63c /'Posterior Analytics, bk i, ch 10 
+104d-10Sd / Physics, bk ii, ch 9 [20o“i5-29j 
+2 / 10 - 6 . J Metaphysics, bk iii, ch 2 [996“22- 
+36j 514d-515a; bk ix, cH ip [io5i‘'22-34] 
+S77b-c;,BK,xi, ck 3 [io6i®29-'’4] S89c; bk 
+XIII, ch 3 609a-610a 
+
+. . 9 Aristotle: Ethics, bk hi, ch 3 [iii2'’20-24J 
+3S'8d 
+
+.,f 11 .Archimedes: Method 569a-592a esp S69b- 
+570a ' . , ' 
+
+23 Hobbes: Leviathan, part i, 56b; 58a-c; 59b-c 
+28 Galileo; Two ‘N ew Sciences, fourth day, 
+252a-b 
+
+39 'P,Aco-ii: - Advancement of Learning, 65b / 
+
+■ . . Novum Organum, bk i, aph 59 112b'C 
+
+31 Descartes: Rules la-40a,c esp 11 2a-3b, iv, 
+5c-7d, xiv-xxi 28a-40a,c / Discourse, part ii, 
+
+, 46c-48b / Meditations, 73a / Objections and 
+
+Replies, 128a-129a / Geometry 295a-3S3b esp 
+BK I, 295a'298b, bk 11, 304a-306a, 316a'317a, 
+
+' >BK HI, 331b, 353a 
+
+31 Spinoza: Ethics, part i, appendix, 370b-c 
+
+33 Pascal: Pensees, 1-3 I71a-172b / Geometrical 
+Demonstration, 430a-434a; 442a-446b / Arith- 
+rnetical Triangle, 4Slb-452a; 458b-459b; 464a- 
+
+; 466a , ; 
+
+34 Newton: Principles, bk ii, lemma 2 and 
+scHoL 168a:170a 
+
+35 Locke: Human Understanding, -BVi iv, ch ii, 
+sect 9-10 311b-c; ch hi, sect 18-20 317d- 
+319c passim; sect. 29-30 322c-323c passim; 
+
+. , ch iv, sect 6^9 325a-326b; ch.vii, :sect 11, 
+340c-341a; ch xii, sect t-8.358c-360c passim; 
+sect i4-;i5.362d-363b; ch x'vii, sect ii 378b 
+35 Berkeley: Human Knowledge, intro, sect 
+, ,iz.4p8a-b; sECT 19 410c ;, sect 118-132 436b- 
+439c passim - ■ - : ■ , . 
+
+'57 
+
+35 Hume: Human Understanding, sncT rv, div 20 
+; " 458a-b; sect VII, pi'v 48 470d-471c; SECT XII, 
+
+' ' • ' Diy '131 508d-509a ., . 
+
+‘‘36 Swift: Gulliver, part hi, il8b-119a 
+42 Kant: Pure Reason', 5a-8d; 17d-18d; 46a-b; 
+211c-218d / Practical Reason, '302d-303b; 
+330d-331a / Science of Right, 399a-b • 
+
+/ A3 .tAvLC'.. Liberty, 283d-284a ' 
+
+45 Lavoisier: Elements of Chemistry, pref, 2b 
+45 Fourier: Theory of Heat, 172a-173b 
+51 Tolstoy: ‘War and Peace, bk xi, 469a-d; 
+
+EPILOGUE li, 69Sb-c '• ■ ' 
+
+53 James: Psychology', 17Sa-176a; 874a-878a 
+
+-ia. The conditions and character of demonstra- 
+tion in. mathematics: the use of .defini- 
+. tions, postulates, axioms, hypotheses 
+
+7 Plato: Meno, 183b'C / Republic, bk vi, 386d- 
+'388a; -BK vii,:397c-d 
+
+8 Aristotle: Prior Analytics, bk 1, ch 41 [49’* 
+32-37] 68c / Posterior Analytics, bk 1, ch 1 
+[7i“i-i 6] 97a-b; ch 2 [72“22-24] 98d; ch 5 
+
+' 101b-102b; ch 10 104d-105d; ch 12 106c-107c; 
+
+ch ■ 23 [84’’6-9] llSb-c; ch 24 [85‘'20-3i] 
+116b-c; [85*>4-i4] ll6d-117a; [86''22-3o] 117d- 
+118a; CH 31 I87'^33-39j 120a; bk ii, CH 3 [91“!- 
+5] 124b; CH 7 [92''i2-25] 126c-d; ch 9 [93'’2i- 
+25] I28a-b / Topics, bk i, ch i [ioi® 5 -i 7] 
+143c-d; BK V, CH 4 [132^32-34] 183b; bk vi, 
+CH 4 [i4i‘‘3-22] 194d-195a; bk vii, CH 3 [153*6- 
+. iij 208a-b; BK viii, CH I [157*1-3] 213a; CH 3 
+[i 58'’29-159 “i] 215c / Sophistical Refutations, 
+ch II [I7i*>i2-i8]236b;[i7i*'34-i72*7]236d/ 
+Physics, BK II, CH 9 [200*15-29] 277c-d / 
+Heavens, in, ch 4 \r,o 2 Popj-'yt\ 394a / 
+Metaphysics, bk hi, ch 2 [996*21-36] 514d- 
+515a; [996^18-21] 515b; ch 3 [998*25-27] 
+517a; bk v, ch 3 [ioi4“36-’'i] S34c; bk vii, 
+CH 10 [1036*2-13] 559b-c; bk xi, ch 3 [1061“ 
+29-*’4] 589c; ch 4 [io6i’^i7-25] 589d-590a; ch 
+7 [io63’'36-io64“9] 592b; bk xiii, ch 2 [1077'’ 
+i]-CH .3 [1078*32] 608d-609d; bk xiv, ch 2 
+[1089*22-26] 621c-d 
+
+9 Aristotle: Generation of Animals, bk ii, ch 6 
+■> [742'’23-33] 283d-284a / Ethics, bk vii, ch 8 
+
+.[1151*15-19] 402a 
+
+11 Euclid: Elements la-396b esp bk i, defini- 
+tions-common notions la-2a 
+11 Archimedes; Sphere and Cylinder, bk i, defi- 
+NiTioNS-AssuMPTioNS 404a-b / Spirals, 484b 
+/ Quadrature of the Parabola, S27a-b / Method, 
+S69b-570a; prop i 571a-572b esp 572b 
+19 Aquinas: Summa Theologica, part i, q 85, 
+A 8, REP 2 460b-461b j 
+23 'Hobbes: Leviathan, part i, 56b; 58a-c; 
+59b-c 
+
+28 Gilbert: Loadstone, pref, Ib-c 
+28 Galileo: Two New Sciences, fourth day, 
+252a-b 
+
+31 Descartes: Rules, li, 3a; xiv-xxi 28a-40a,c 
+/ Discourse, part i, 43b-c; part 11, 46d; 47b-c; 
+
+' PART IV, 52d-53a / Meditations, 70b-d; 73a; 
+
+Chapter , 52 : MATHEMATICS 
+
+THE GREAT IDEAS ‘ Zb to -{a 
+
+(3. Method in mathematics; the model of mathe- 
+matical thought, ia. The conditions and 
+character of demonstration in mathematics: 
+the use of definitions, postulates, axioms, 
+hjpotheses.) 
+
+V, 93a-d / Objections and Replies, 128a-d / 
+Geometry, bk n, 304a'b; 316a-b; bk iti, 353a 
+
+33 Pascal: Pensecs, 1-5 171a-173a / Vacuum, 
+365b-366a: 373a-b / Geometrical Demonstra- 
+tion, 430a-434a; 442a-446b / Arithmetical 
+Triangle, 4SIb-452a; 458b-459b; 464a-466a 
+
+34 Newtom: Principles, la-b 
+
+34 Huygens: Light, pref, S51b-SS2a 
+
+35 Locke: Human Understanding, bk ii, ch xvi, 
+SECT 4 166a-b: BK IV, ch i, sect 9 308c-309b; 
+CH n, sect 9-io311b-c: ch hi, sect 29, 322c; 
+CH vn, SECT II, 340c-34Ia; ch xii, sect 1-8 
+358c-360c passim; sect 14-15 362d-363b 
+
+35 Berkeley: Human Knowledge, intro, sect 
+12 408a-b; sect 15-16 409a'd; sect 118 
+436b-c 
+
+35 Hume: Human Understanding, sect vii, div 
+48 470d-471c; sect xh, div 131 508d-509a 
+
+42 Kant: Pure Reason, 17d-18d; 46a'b: 68a-69c: 
+9Ic-d; IlOa; llOd-llla; 2nc-218d / Practical 
+Reason, 302d-303b; 330d-331a / Pref. Meta- 
+physical Elements of Ethics, 376c-d 
+
+43 Federalist: number 31, 103c 
+43 Mill: Utilitarianism, 445b-c 
+
+45 Lavoisier: Elements of Chemistry, pref, 2b 
+S3 James: Psychology, 869a-870a; 874a-878a 
+
+3b. The role of construction: its bearing on 
+proof, mathematical existence, and the 
+scope of mathematical inquiry 
+
+7 Plato: Meno, 180b-182c / Republic, bk vi, 
+387b-c 
+
+8 Aristotle: Heavens, bk i, ch 10 [279*’32- 
+aSo^ia] 371b-c / Metaphysics, bk ix, ch 9 
+(i05i“22-34] S77b-c 
+
+II Euclid: Elements, bk i, postulates, 1-3 2a; 
+PROP i 2b-3a 
+
+23 Hobbes: Leviathan, part iv, 267a-b 
+31 Descartes: Rules, xiv-xviii 28a-39d / 
+Geometry, bk ii, 304a-306a; 316a-b; bk hi, 
+331b-332b 
+
+33 Pascal: Vacuum, 373a'b 
+
+34 Newton: Principles, la-b 
+
+42 Kant: Pure Reason, 31b-d; 68a'69c; 86b-c; 
+9Ic-d: 94b-9Sa: 211c-215a: 217c-d / Science 
+of Right, 399a-b / Judgement, 551a-SS3c 
+53 James: Psychology, 673b 
+
+3c. Analysis and synthesis: function and vari- 
+able 
+
+9 Aristotle: Ethics, bk hi, ch 3 (iii2’’20-24j 
+358d 
+
+11 Archimedes: Sphere and Cylinder, bk ii, 
+PROP 1 434b-435b; prop 3-7 437a-443b / 
+Method, 569b-570a: prop i, 572b 
+11 Apollonius: Conics, bk ii, prop 44-47 710b- 
+
+713a; prop 49-51 714b-726a; bk hi, prop 54- 
+56 793b-798b 
+
+31 Descartes: Rules, iv, 5c-7a; vi 8a-I0a; xii, 
+20d'23b; 24a-b; xiii 25b-27d; xiv, 31a-33b: 
+xvi-xxi 33d-40a,c / Objections and Replies, 
+128a-d / Geometry 295a-353b esp bk i, 296b- 
+297b, 298b-304a, bk h, 308a-314b 
+
+33 Pascal: Geometrical Demonstration^t^ZQa 
+
+34 Newton: Principles, bk i, lemma 19 57b-S8b 
+/ Optics, BK III, S43a'b 
+
+35 Locke: Human Understanding, bk iv, ch xii, 
+sect 15 363a-b; ch xvii, sect ii 378b 
+
+45 Lavoisier: Elements of Chemistr)’, pref, la; 2b 
+45 Fourier: Theory of Heat, 172a-173b; 196a- 
+251b 
+
+3d, Symbols and formulae: the attainment of 
+generality 
+
+8 Aristotle: Prior Analytics, bk i, ch 41 
+[49’'32-37] 68c / Posterior Analytics, bk i, ch 
+10 l76'’39-77“2] 105d 
+11 Nicomachus: Arithmetic, bk ii, 832a 
+23 Hobbes: Leviathan, part i, S6a 
+31 Descartes: Rules, xiv-xxi 28a-40a,c / Dis- 
+course, PART II, 46d; 47b-d / Geometry 295a- 
+353b esp bk i, 295a-298b, bk 11, 314a-b, bk 
+HI, 353a 
+
+35 Locke: Human Understanding, bk iv, ch hi, 
+SECT 19 318b-319a 
+
+35 Berkeley: Human Knowledge, intro, sect 
+16 409b-d; sect 121-122 436d-437c 
+42 Kant: Pure Reason, 68a-69c; 211d-212a; 
+212d-213a 
+
+45 Fourier: Theory of Heat, 172b-173b; 181a-b; 
+233b-240b 
+
+4. Mathematical techniques 
+
+4a, The arithmetic and algebraic processes 
+
+8 Aristotle: Topics, bk viii, ch 14 [i63’’23-28] 
+222b 
+
+11 Euclid: Elements, bk vii-ix 127a-190b 
+11 Archimedes: Measurement of a Circle, prop 
+3 448b-4Slb / Conoids and Spheroids, lem- 
+ma 45Sb-456a; lemma to prop 2 456b-457b 
+/ Spirals, PROP lo-ii 488a-489b / Sand- 
+Reckoner 520a-526b 
+
+11 Nicomachus: Arithmetic, bk r, 814b-821d 
+26 Kepler: Epitome, bk v, 990a-b 
+23 Hobbes: Leviathan, part i, 56a; 58a-b 
+28 Galileo: Two New Sciences, second' day, 
+193b-c 
+
+31 Descartes: Rules, xvi 33d-35c; xviii 36b- 
+39d / Discourse, part ii, 46d; 47b-d / 
+Geometry, bk i, 295a-296a 
+33 Pascal: Arithmetical Triangle 447a-473b esp 
+451b-452a, 458b-459b, 464a-466a / Corre- 
+spondence with Fermat 474a-487a passim 
+35 Locke: Human Understanding, bk iv, ch 
+XVII, sect II 378b 
+
+35 Berkeley: Human Knowledge, intro, sect 
+19 410c; sect 121-122 436d-437c 
+
+4^ to 5 
+
+42 Kant: 'Reason, 17d-18d; 68a-69c; 212d- 
+213a;.217c'd 
+
+S3 James: Psychology, 874b-876b. 
+
+4i. The operations of geometry 
+
+7 Plato: Mend, 180b-183c / Republic, bk vi, 
+
+387b-c' ■ . ' . 
+
+8 Aristotle: Categories, ch 7 [ 7 *’ 29 - 33 ] 12c-d 
+11 Euclid: Elements, tsk. i-iv la-80b esp bk i, 
+
+POSTULATES 2a, PROP 1-4 2b-4b, prop 9-12 
+7a-9a, prop 22-23 13b-15a, prop 31 19b, 
+
+, PROP 42 24b‘-25a, prop 44-46 25b-28a, bk ii, 
+PROP 14 40a-b; bk vi 99a-126a esp prop 9-13 
+lO0b-lO9a, PROP 18 112a-b, prop 25 119a-b, 
+■PROP 28-29 121a-123a; bk xi-xni 301a-396b 
+11 Archimedes: Sphere and Cylinder, bk i-h 
+403a-446a / Measurement of a Circle 447a- 
+451b / Conoids and Spheroids 452a-481b / 
+^Spirals 482a-S01a / Quadrature of the Parabola 
+S27a-537b / Boo\ of Lemmas 561a-568b 
+11 Apollonius: Conics 603a-804b esp bk i, 
+PROP 11-13 61Sa-620a 
+
+28 Galileo: Ttao New Sciences, first day, 
+
+. 149d-150d ' 
+
+31 Descartes: Rules, xvi 33d-35c; xviii 36b- 
+'3gd ! 'Discourse, part iv, 52'd-53a / Geometry 
+295a-3S3b esp bk i, 295a-296a, 297b-298b, 
+bk II, 304a-308a 
+
+34 Nev^ton: Principles, la-b; bk i, lemma 15- 
+' ' PROP ' 29 , scHOL 50a-75b esp lemma 19 S7b- 
+58b 
+
+42 Kant: Judgement, S51a-SS2a 
+S3 James: Psychology, SSOb [fn i]; 673b; 876b- 
+.878a 
+
+Ac, The use of proportions and equations 
+8 Aristotle: Posterior Analytics, bk ii, ch 17 
+• ■' ■ [99“8-io] 135a / Topics, bk viii, ch 3 [i58*’29- 
+■ 35 ] 21Sc 
+
+, 9 Aristotle: Ethics, bk ii, ch 6 [iio6“26-36] 
+
+3Sld-352a; bk v, ch 3 [ii 3 i‘' 3 o-'’i 5 ] 378d- 
+■ .;.379b. 
+
+11 Euclid: Elements, bk v-vi 81a-126a esp bk v, 
+DEFINITIONS, 5 81a, 7 81a-b, bk vi, prop 23 
+117a-b; bk vii, definitions, 20 127b; prop 
+.H-14 ■134b-136a; prop 17-22 137a-140a; 
+PROP 33 145a-146a; bk viii, prop 1-13 150a- 
+leib; PROP 18-27 163b-170a; bk ix, prop 8-13 
+• 174a-180a; prop 15-19 181a-183b; prop 35-36 
+.188b-190b; bk x, prop 5-9 195a-198b; prop 
+II 199b; prop 14 201a-202a; bk xi, prop 25 
+■320b-321b; prop 32-34 327b-332b; prop 37 
+335b-336a; bk xii 338a-368b 
+. 11 Archimedes: Conoids and Spheroids, prop 4 
+459b-460b 
+
+11 Apollonius: Conicr 603a-804b passim 
+11 Nicomachus: Arithmetic, bk i-ii, 821d-831d; 
+bk iiV 841c-848d 
+
+’ 16 Kepler: ' Harmonies of the World, 1012b- 
+. 1014b • ■ . ■ 
+
+31 Descartes: Rules, vi 8a-10a; xiv, 28b-29a; 
+xviii-xxi 36b-40a,c- / Discourse, part ii. 
+
+47b-d / Geometry 295a'3S3b esp bk hi, 332b- 
+341b 
+
+51 Tolstoy: War and Peace, bk xiv, 590a-c 
+
+4d. The method of exhaustion: the theory of 
+limits and the calculus 
+
+11 Euclid: Elements, bk x, prop i 191b-192a; 
+BK XII, PROP 2 339a-340b;-PRop 10-12 351b- 
+359a; prop 18 367a-368b 
+
+• 11 Archimedes: Sphere and Cylinder, bk i, as- 
+sumptions, 5 404b; PROP 13-14 411a-414a; 
+prop 33-34 424b-427a; prop 42 431b-432b; 
+PROP 44 433a-b / Measurement of a Circle, 
+PROP I 447a-448a / Conoids and Spheroids, 
+PROP 4 4S9a-460b; prop 21-22 470a-471b; 
+PROP 25-30 473a-479b / Spirals, prop 18-20 
+492b-49Sb; prop 24-27 496b-500a / Equilib- 
+rium of Planes, bk i, prop 6-7 503b-S04b / 
+Quadrature of the Parabola S27a-537b esp 
+PROP 16 533b-S34a, prop 24 S37a-b / Method 
+569a-S92a passim 
+
+16 Kepler: Epitome, bk v, 973a-97Sa; 979b- 
+983 b 
+
+28 Galileo: Two New Sciences, second day, 
+193b-194d; third day, 205b-d; 224b-c 
+
+31 Descartes: Geometry, bk it, 316b-317a 
+
+33 Pascal: Equilibrium of Liquids, 39Sa-b 
+
+34 Newton: Principles, bk i, lemma i-ii and 
+SCHOL 25a-32a esp lemma 11 , schol, 31a-b; 
+BK II, lemma 2 and schol 168a-170a 
+
+45 Fourier: Theory of Heat, 172b; 177a; 181a'b; 
+221a-248b 
+
+51 Tolstoy: War and Peace, bk xi, 469a-d; 
+epilogue ii, 695b 
+
+5. The applications of mathematics to physical 
+phenomena: the utility of mathematics 
+
+7 Plato: Republic, bk vii, 391b-398c; bk viii, 
+403b-d; bk ix, 424d-42Sb / Timaeus, 448b- 
+450a; 453b-454a / Statesman, 585a-b / Phile- 
+bus, 633c-d / Laws, bk v, 691d-692a; 695c- 
+697a; bk vii, 728b-730d 
+
+8 Aristotle: Posterior Analytics, bk i, ch 9 
+[ 76 “ 3 - 25 ] I04b-d; ch 13 [ 78 '’ 3 i- 79 "i 6 ] 108b-c; 
+ch 27 [ 87 * 32 - 33 ] 119b / Physics, bk ii, ch 2 
+[i 94 “ 7 -ii] 270b-c; bk vii, ch 5 333a-d / 
+
+: Heavens, bk ii, ch 14 [ 297 * 4 - 7 ] 388c / Meteor- 
+
+ology, BK III, ch 3 477a-478a; ch 5 480a- 
+‘iSlc/ Metaphysics, bkiii, ch2[997’’i2-998*i9] 
+516b-d 
+
+9 Aristotle: Gait of Animals, ch 9 247a-248a 
+/ Politics, BK V, CH 12 [ 1316 * 1 - 17 ] 518d-519a 
+
+I .11 Archimedes: Equilibrium of Planes 502a- 
+519b / Floating Bodies 538a-560b 
+
+11 Nicomachus: Arithmetic, bk i, 812d-813a 
+
+14 Plutarch: Marcellus, 2S2a-255a 
+
+16 Copernicus: Revolutions of the Heavenly 
+
+. • Spheres, bk i, 510b 
+
+16 Kepler: Epitome, bk v, 964b-965a 
+
+. 18 Augustine: Confessions, bk v, par 3-6 27c- 
+28c / Christian Doctrine, bk ii, ch 29 650d- 
+651c - 
+
+60 . THE GREAT IDEAS 5ato5b 
+
+(5. The applications of mathematics to physical 
+phenomena: the utility of mathematics.)- 
+
+19 Aquinas: Summa Theohgica, part j-ii, q 35, 
+’ ' ' A 8, ANs 779C'7S0c 
+
+20 Aquinas: Summa Theohgica, part ii-ii, q 9, 
+: , ■ ' A 2, REP 3 424b-42Sa 
+
+23 Hobbes: Leviathan , ‘pakt 1 , 73b; part iv, 
+267a-b; 268c-d ■ 
+
+24 Rabelais: Gargantua and Pantagniel, bk iv, 
+
+;■ 278b 
+
+...28 Galileo: Two New Sciences, first day, 131d- 
+■I32a; second day-fourth day 178a-260a,c 
+30 Bacon: Advancement of Learning, 46b-c 
+; 31 Descartes: Rules, iv, 7a-b; xiv, 31b-d / 
+•Discourse,. Vi\KT i, 43b-c / Objections and Re- 
+- , plies, 169c-I70a / Geometry, bk ii, 322b-331a 
+34 Newton: Principles, la-2a: def vm 7b'8a; 
+• cOROL 11 lSa-16b:. BK I, prop 69, schol, 
+■ I3Ia;iBKlii 269a-372a 
+34 Huygens: Light 551a-619b 
+■, 3 S'Berkelev: Human Knowledge, sect 120 
+436d; sect 131 439b-c 
+
+, '35 HuME: -//HWfln Understanding, sect iv, div 
+27 460c-d 
+
+36 Swift: Gulliver, part ii, 78b; part hi, 94b- 
+I03a 
+
+40 Gibbon: Decline and Fall, 661c-662c 
+42 1 Kant: Pure Reason, 68a-69c / Practical Reason, 
+300d [fn i]; 330d-331a / Judgement, SSla-SS2a 
+.•tf4S: Fourier: Theory of Heat, 169a-173b; 17Sb; 
+177a-2Slb esp 183a-184a 
+45 Faraday: Researches in Electricity, 831 b-c 
+51 Tolstoy: War and Peace, bk xi, 469a-d; bk 
+XIV, S89c-590c; 609b; epilogue ii, 694d-695c 
+•53' James: Psychology, 348a'359a; 882a-8S4b 
+
+5«, The art of measurement 
+
+■5 Aristophanes: Birds (992-1020] 555a-b 
+, 6 Herodotus: History, bk ii, 70b-c; bk iv, 
+139b-c 
+
+7 Plato: Republic , bk x, 431b'd / Statesman , 
+, ■ 594a-59Sa / Philebus , 633a-634d / Laws , bk 
+' V,' 691d-692a; 695c-697a 
+, 8 Aristotle: Physics , bk iv, ch 12 [22o*’i5-3i] 
+, 300c-d; oil 14 [223'’i2-224“r] 303c-d; bk vii, 
+• - cii 4 330d-333a / Heavens , bk ii, ch 14 
+' »[298'‘i5-2o] 389d / Metaphysics , bk hi, ch 2 
+,, ' l997'’27-33] 516c; bk v, ch 6 [ioi6'’i8-3i] 
+
+537b; BK X, cn i [i052'’i5-i053“3i] S79a- 
+, ■■ ■ S80a 
+
+-ll Euclid: Elements, bk v 81a-98b esp defini- 
+. ■ tjons, 5 81a, 7 81b; bk vii, definitions, 20 
+127b 
+
+11 hKQMwzozs: Sand-Rec\oner 52Qa-S2Sti < 
+
+13 Virgil: Aeneid, bk vi [ 847 - 853 ] 233b-234a 
+' 16 Ptolemy; Almagest, bk i, I4a-28b; bk ii, 
+38b-39b: bk v, 143a-144a; 16Sa-176a; bk vii- 
+viH, 233a-258b 
+
+•, 16 Copernicus: Revolutions of the Heavenly 
+r ':Spheres, bk i, 532b-5S6b; bk ii, S58b-5S9b; 
+567b; S86b-621b: bk iv, 705a-725a 
+
+19 Aquinas: Summa Theohgica, part i, q 3, a 
+5, REP 2 17c-l8b; q 10, A 6 , ANs'and rep 4 4Sc- 
+46d; Q 66,'^a 4, rep 3 348d-349d ■ • 
+
+28 Gilbert: Loadstone, bk iv, 8Sc-89c; bk v, 
+92a-95a ' 
+
+28 Galileo:' Two New Sciences, first’ day, 
+I36d-137c; 148d-149c; 164a-166c;-TniRD day, 
+207d-208c 
+
+28 Harvey: Motion of the Heart, 286c-288c 
+
+30 Bacon: Novum Organum, bk.ii, aph 44-48 
+175d-188b 
+
+31 Descartes; Rules, xiv, 31b-33b / Geometry, 
+BK I, 296a 
+
+33 Pascal; Great Experiment 382a-389b ' 
+
+34 Newton: Principles, la-b; laws .of motion, 
+SCHOL, 20a'22a; bk ii, general schol 211b- 
+219a; prop 40, schol 239a'246b 
+
+34 Huygens: Light, ch i, SS4b-557b 
+
+35 Locke; Human Understanding, bk ii, ch xvt, 
+SECT 8 167c 
+
+39 Smith: Wealth of Nations, bk i, 14b 
+
+42 Kant: Judgement, 497a-498d esp 498b-d 
+
+45 Lavoisier; Elements of Chemistry, part i, 
+I4a-c; 33b-36a; 41a-44d; part hi, 87d-90a; 
+91a-9Sa; 96b-103b ' , 
+
+45 Fourier: Theory of Heat, 184b-185b; 249a- 
+25Ib 
+
+50 Marx: Capital, 20 b 
+
+5b. Mathematical physics: the mathematical 
+structure of nature 
+
+7 Plato: Timaeus, 448b-450a; 453b-454a; 
+458a-460b 
+
+8 Aristotle: Posterior Analytics, bk i, ch 9 
+104b-d; CH 13 [ 78 *’ 3 i- 79 “i 6 ] 108b-c / Physics, 
+BK II, CH 2 [i94“7-ii] 270b-c / Heavens, bk 
+III, ch I [ 299 “i- 3 oo“i 9 ] 390b-391c / Meta- 
+physics, BK I, fcn 9 \g^ 2 '' 2 g~^gi] SlOc-d; bk ii, 
+ch 3 [ 995 “i 5 -i 7 ] 513d; bk hi, ch 2 [ 997 ’'i 2 - 
+99 S“i 9 ] 516b-d; bk xh, ch 8 [io 73 '’i-i 7 ] 
+603d-604a; bk xiii, ch 3 609a-610a 
+
+11 Nicomachus: Arithmetic, bk i, 812b-d; 813d- 
+814a 
+
+16 Ptolemy: Almagest, bk i, Sb- 6 a 
+
+16 Kepler: Epitome, bk iv, 863b-872b / Har- 
+monies of the World, 1023b-1080b passim 
+
+19 Aquinas: Summa Theohgica, part i, q i, a 
+I, REP 2 3b-4a; q 32 , a i, rep 2 17Sd-178a; 
+PART I-II, Q 35, A 8, ANS 779c-780c 
+
+20 Aquinas: Summa Theohgica, part ii-ii, q 9, 
+A 2, REP 3 424b-425a 
+
+23 Hobbes: Leviathan, part i, 72a-d;'PART iv, 
+268c-d 
+
+28 Galileo: Two New Sciences, first day, 
+13Ib-132a; 133b; fourth day, 245b-d: 
+252a-b ' . ■ 
+
+30 Bacon: Advancement of Learning, 46b-c / 
+Novum Organum, bk ii, aph 8 I40b 
+
+31 Descartes: Rules, iv, 7a-c / Discourse, part 
+I, 43b-c; PART III, sod / Objections and Replies, 
+169c-170a 
+
+33 Pascal: PensSes, 119 19Sa 
+
+5 h Chapter 52 : MATHEIvIATICS ^61 
+
+42 Judgement, 55is.-552k '- ' ’’ 
+
+45 ¥ovm%%: Thebry 6fHeat,l(>9a-h‘, 172a-173b; 
+
+175b; 177a; 183a'184a - 
+
+,45 Faraday: ;n jBfec/na/)', 831 b-c ’ ; 
+
+52 Dostoevsky: Brothers'- Karamazov^ .bk v, 
+121 a-b 
+
+53 James: Psychol6gy, 'l2Ba-hi.34%i-ZS9a\ 675b; 
+
+■ ■876a-b;882a'884b * ' '

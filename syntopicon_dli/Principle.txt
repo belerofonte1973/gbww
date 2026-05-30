@@ -1,0 +1,1977 @@
+CHAPTER: Principle
+
+INTRODUCTION
+
+INTRODUCTION 
+
+O F the three ways in which principles are 
+considered in the tradition of the great 
+books, the most familiar sense of the word is 
+the one in which we speak of moral principles, 
+principles of action, or political principles. The 
+connotation of the word in this usage seems to 
+be twofold. We think of principles as rules of 
+conduct and we think of them as standards by 
+which to measure and judge human acts or 
+political events. Either conception attributes 
+a certain generality to principles. Just as rules 
+apply to an indefinite number of particular 
+cases, so any principle we appeal to in order to 
+decide a practical problem or to weigh the 
+merits of an action undertaken, can be applied 
+again and again in other circumstances. 
+
+In addition to this characteristic of general- 
+ity, principles seem to have the quality of un- 
+derlying or being the source of other things. In 
+jurisprudence the search for principles con- 
+sists in the attempt to discover those few most 
+fundamental precepts from which the more de- 
+tailed rules of law can be derived. The consti- 
+tution of a state provides the principles which 
+underlie its particular laws and sets the stand- 
+ards by which their legality is to be measured. 
+Governments are judged by the principles they 
+attempt to apply as well as by their success in 
+putting these principles into practice. To say 
+of a government that its acts are unprincipled is 
+not to condemn the particular acts as wrong, 
+but to accuse the government of having no uni- 
+form policy to serve as a foundation for its acts. 
+
+This aspect of the meaning of principle — as 
+the source from which a set of consequences 
+follows — seems to be more characteristic of the 
+idea of principle than the aspect of generality. 
+According to its Latin derivation and the 
+equivalent root in Greek, “principle” means 
+a beginning or a foundation. Sometimes it 
+means tliat which comes first absolutely, in the 
+
+sense of being before everything else; some- 
+times it means fhat which comes first only 
+relatively, taking precedence over some things, 
+but having others prior to itself. Since priority 
+may be either absolute or relative — first with-' 
+out qualification or first only in a certain respect 
+— the traditional phrase “first principle” does 
+not have the redundancy of “first first” or 
+“beginning beginning.” ‘ 
+
+If there are absolutely first beginnings, to 
+which nothing else can be prior, they can legit- 
+imately be called “first principles” to distin- 
+guish them from principles which come first 
+only in a certain respect. Only if there are first 
+principles can regression to infinity be avoided 
+in the search for origins. The propositions 
+which lie at the foundation of a science may, 
+for example, constitute its principles, but they 
+may also be derived in turn from some prior 
+science. Only the principles of a science which 
+is prior to or independent of all others can be' 
+truly first principles. 
+
+The foregoing example brings us to the other 
+meaning of principle that is popularly recog- 
+nized. It is the sense in which men speak of 
+principles in relation to conclusions, or of 
+principles as the foundations of a science. 
+
+The priority which belongs to principles in 
+the domain of thought need not be temporal. 
+Principles may or may not be first in the order 
+of learning. But if they are not first in the tem- 
+poral order, they must be first logically, as 
+premises are logically prior to a conclusion, or, 
+as in Euclid’s Elements, his principles — his def- 
+initions, postulates, and axioms — are logically 
+prior to all the theorems he demonstrates by 
+means of them. 
+
+It may be asked whether, among proposi- 
+tions related as premises and conclusions, the 
+logical priority of one proposition to another 
+
+Chapter 70: 
+
+is sufficient to make; the prior, proposition a 
+principle; Can a: proposition be a principle if, 
+even though it is>used as a premise in reasoning, 
+it'lacks generality? For' example,. is the partic- 
+ular. proposition — that ■ this' bottle contains 
+poison— a principle; underlying the practical 
+conclusioni; that its contents should hot be 
+swallowed? . . 
+
+Aristotle answers affirmatively. In the order 
+of practical thinking, he holds,' we deliberate 
+neither aibout the end to be sought nor about 
+the particular facts ' on which a choice of the 
+means depends. “The end cannot be a subject 
+of dfeliberation," he tvrites, “but only the 
+means; nor indeed can the particular facts be a 
+subject of it, as whether thisis-bread or has been 
+baked as it should; for these are matters of per- 
+ception.’.’ The perceived particulars thus func- 
+tion as principles along with the most general 
+of albpractical propositions, namely, what the 
+end should be. Calling the faculty which appre- 
+hends first principles “intuitive reason,” Aris- 
+totle says that “the intuitive reason involved in 
+practical reasonings grasps the last and variable 
+fact, i.e,, the minor premise. For these variable 
+facts are the starting-points for the apprehen- 
+sion of the end, since the universals are reached 
+from the particulars; of these therefore we must 
+have, perception, and this perception is intui- 
+tive reason.” 
+
+Perception, at least in the form of sense- 
+perception, seems to be only one of the two 
+ways -in .which we apprehend the particular 
+facts which are principles in practical reasoning. 
+Like Aristotle,' Aquinas uses the judgment, that 
+this, is bread or iron, as an example of “facts 
+received through the senses” which are “prin- 
+ciples . . . accepted in the inquiry of counsel.” 
+But the moral quality inherent in particular 
+acts does not seem to be perceptible by the 
+senses alone; and such particular moral judg- 
+ments are also involved in moral reasoning. 
+Aristotle .suggests that habit (i.e., the moral 
+habits or virtues) are the immediate source of 
+such judgments, which can be called “percep- 
+tions of the particular” even though they are 
+not simply sense-perceptions. 
+
+“Of first principles,” Aristotle explains, “we 
+see some by induction, some by perception, 
+some by a certain habituation.” By induction 
+we see the general truths; by sense-perception. 
+
+PRINCIPLE 421 
+
+the sensible particulars; and by habituation, 
+the moral particulars. Hence Aristotle insists 
+that “anyone who is to listen intelligently to 
+lectures about what is noble and just and, gen- 
+erally,' about the subjects of political science 
+must have ‘been brought up in good habits. 
+For the fact is the starting-point, and if this is 
+sufficiently plain to him, he rvill not at the start 
+need the reason as well; for the man who has 
+been well brought up has or can easily get the 
+starting-points;” ^ 
+
+The word "|3rinciple” is used by Kant in a 
+much more restricted sense. He reserves the 
+status of principle to the general propositions 
+which sert'e as the major premises in reasoning. 
+In both the theoretic and the practical sciences, 
+principles express reason’s understanding of 
+universal and necessary relationships. 
+
+Kant differs from Aristotle in other respects. 
+He' differentiates between ordinary general 
+propositions which merely serve as major 
+premises in reasoning and the propositions he 
+classifies as “synthetic judgements np«br/,” He 
+regards the former as principles only in a rela- 
+tive sense and treats the latter alone as prin- 
+ciples absolutely. He also distinguishes between 
+those principlfs of the understanding which he 
+thinks are “constitutive of experience,” and 
+those principles of the reason which should be 
+used in what he calls a “regulative,” not a con- 
+stitutive manner. They determine the direc- 
+tion and goals of thought beyond experience. 
+But such differences concerning the nature and 
+kinds of principles do not affect the commonly 
+accepted meaning of principle as that from 
+which, in the temporal order of learning, 
+knowledge develops or that upon which, in the 
+logical order, knowledge rests. 
+
+The third and relatively unfamiliar sense in 
+which principles are discussed in the great 
+books does not refer to the sources of man’s 
+moral decisions, political acts, or scientific con- 
+clusions. The discussion in question refers to 
+reality apart from man. Just as men try to dis- 
+cover the elements of matter, or the causes of 
+motion, so they try to discover the principles 
+of existence and of change. The issues which 
+arise from this concern with the principles of 
+reality are discussed in such chapters as.BEiNo, 
+Cause, Change, Form, Nature, and Matter. 
+
+422 THE GREAT IDEAS 
+
+If the word “principle” always connotes a be- 
+ginning, ever}' special sense of principle should 
+involve, some kind of priority. As we have al- 
+ready observed, principles may be either prior 
+in time oriprior logically. But the principles of 
+the universe or the principles of change are not 
+usually thought to be prior in either of these 
+ways. For them Aristotle specifies another kind 
+of priority — priority in nature — to explain the 
+primacy of those principles which constitute 
+the nature of a thing. In his view, for example, 
+matter and form are the principles of a physical 
+substance. Since a substance composite of mat- 
+ter and form cannot exist until its matter and 
+its form coexist, matter and form are not prior 
+to the substance they compose. Their priority 
+to substance consists only in the fact that that 
+which has the nature of a composite substance 
+results from the union of matter and form as its 
+natural components. Because the substance is 
+the natural resultant, matter and form can prop- 
+erly be called its natiual principles. 
+
+This .way of considering principles at once 
+suggests a close relationship among principles, 
+elements, and causes; and also indicates the 
+connection between the present chapter and 
+the chapters on Cause and Element. The ulti- 
+mate parts into which a whole can be divided 
+may be its principles as well as its elements. 
+The form or matter of a substance may be, in 
+Aristotle’s theory, not only one of its prin- 
+ciples, but also a cause— a formal or a material 
+cause. Among the great authors Aristotle and 
+Aquinas alone seem to dwell upon the relation- 
+ship of these three terms. They give instances 
+in which the same thing is principle, element, 
+and cause, as well as instances in which a prin- 
+ciple is neither a cause nor an element, e.g., 
+privation. In the sphere of human conduct, an 
+end is both a principle and a final cause, but 
+not an element. The last end is the highest 
+final cause and the first principle — first in in- 
+tention though last in attainment. 
+
+The, TRADITIONAL issues concerning this idea 
+differ according to the general context in 
+which the question of principles is raised. The 
+main controversy, for example, with regard to 
+principles in the order of reality is over their 
+number and order. 
+
+Aristotle argues against an infinite number 
+
+of principles as incompatible with the very 
+notion of principle itself, iln his analysis of 
+change or motion, he tries to, prove 'that no 
+more than three principles are necessary, and 
+no less will do. These are, as the chapter on 
+Change explains, matter, form, and privation. 
+Considering the principles of the 'universe as a 
+whole, Plotinus also enumerates three and tries 
+to prove that none can be added or subtracted. 
+But whereas Aristotle treats the three principles 
+of change as coordinate, Plotinus places the 
+cosmic principles in the absolute order of first, 
+second, and third. 
+
+"We need not go seeking any other Prin- 
+ciples,” writes Plotinus. “This— the One and 
+the Good — is our First, next to it follows the 
+Intellectual Principle, the Primal Thinker, and 
+upon this follows Soul. Such is the order in 
+nature. The intellectual realm allows no more 
+than these and no fewer. Those who hold to 
+fewer Principles must hold the identity of 
+either Intellectual Principle and Soul, or of 
+Intellectual Principle and The Fit's! . . .To 
+increase the Primals by making the Supreme 
+Mind engender the Reason-Principle, and this 
+again engender in the Soul a distinct power to 
+act as mediator between Soul and the Supreme 
+Mind, this is to deny intellection to the 'Soul, 
+which would no longer derive its Reason from 
+the Intellectual Principle, but from an inter- 
+mediate. . . . Therefore, we must affirm no 
+more than these three Primals.” ' 
+
+In the sense in which Plotinus conceives the 
+three primals, they are not only principles in 
+the order of reality, but are themselves the 
+ultimate grades or modes of reality. Similarly 
+for Plato soul is not only the' principle of life 
+and thought in the universe, but it also has its 
+oivn existence in the realm of being. For Aris- 
+totle, in contrast, the principles of change do 
+not have existence in and of themselves. Mat- 
+ter, form, and privation are not substances, 
+but aspects of substance. They are present in 
+every changing substance and in every change, 
+but they are only the principles of inutable 
+being; they are not mutable beings in them- 
+selves. I 
+
+Lucretius states two principles as the basic 
+laws of nature. The first is that nothing comes 
+into being out of nothing; the second, that 
+nothing is ever completely reduced to nothing- 
+
+Chapter 70: 
+
+ness. The word ,■ “principle” is obviously riot 
+being used in the same sense here as when it 
+designates The One for Plotinus, soul for Plato, 
+matter for Aristotle, or,the-atoms which Lu- 
+cretius calls the “first beginnings.” Here: it 
+does not refer to an entity, or even to an aspect 
+of some , real being, but rather to a law— the 
+statement of a universal and necessary condi- 
+tion which governs all that is or happens. It is 
+in- this sense, that; the proposition traditionally 
+called .“the law of contradiction” — that the 
+same thing cannot both be and not be in the 
+same respect at- the same time— is said by Aris- 
+totle, to be the first principle of being as well 
+as'of. thought., , , 
+
+.The conception of the law of contradiction 
+and (the' related laws of identity and excluded 
+middle as principles of thought raises problems 
+about ) logical principles in general — whether 
+they-are axioms or postulates, whether they are 
+merely, rules of reasoning and demonstration 
+or are themselves premises from which con- 
+clusions can be deduced. If, for example, the 
+law, of contradiction is only a rule of thought, 
+which forbids the mind to affirm and deny the 
+sarpe proposition, then it is not a principle of 
+knowledge, in the sense in which the definitions 
+and axioms of geometry function as premises in 
+the demonstration of theorems. No conclusion 
+can be, drawn from it concerning the nature of 
+things. But if, in addition to being a rule of 
+thought, it is a metaphysical axiom, which 
+states the most fundamental fact about exist- 
+ence, then like the axioms in geometry it may 
+be the source of conclusions in metaphysics. 
+
+On this second point Locke seems to differ 
+sharply from Aristotle and Aquinas. He denies 
+that , the laws of identity and contradiction are 
+fruitful principles of knowledge. “These mag- 
+nified maxims,” he svrites, “are not the prin- 
+ciples and foundations of ail our other knowl- 
+edge.” Nor have they been, he adds, "the 
+foundations whereon any science hath been 
+built. There is, I, know, a great deal of talk, 
+propagated from scholastic men, of sciences 
+arid the maxims on which they are built; but 
+it has been my ill luck,. never to meet with any 
+such sciences, much less any one built upon 
+these two maxims, 'what is, is’ and ‘it is im- 
+possible for the same thing to be and not 
+to.be.’” 
+
+PRINCIPLE 423 
+
+We shall presently consider the 'issue con- 
+cerning axioms or postulates- whether 'the 
+principles of the sciences are self-evidenttriiths 
+or are only.- provisional assumptions. Those who 
+are willing to'adrriit the existence of axioms do 
+not all agree, however, -that such itruths refer 
+to reality. Hume, for example,! limits the 'con- 
+tent of axioms .to knowledge of the relations be- 
+tween our own ideas. They a're not troths about 
+real existence or matters of fact. '• ’ 
+
+Locke also grants self-evidence only to per- 
+ceptions of the agreement or disagreement be- 
+tween ideas. “Concerning the real existence of 
+all other beings” except ourselves and God, we 
+have, he writes, “not so much a demonstrative,! 
+much less a self-evident, knowledge; arid there- 
+fore concerning these there are no maxims.” 
+But Locke does think that our demonstrative 
+knowledge of God’s existence depends upon an- 
+intuitive knowledge of our own existence; and 
+in addition to knowing our own existence 
+directly or without proof, he also thinks we 
+have through our senses an equally direct- 
+knowledge of the existence of other things. 
+Such intuitive and sensitive knowledge of par- 
+ticular, existences is, like the truth of axioms,- 
+immediate— that is, something known directly 
+or without proof, without any appeal to prior 
+propositions. Hence Locke is not denying that 
+we know some immediate truths about reality, 
+but only that such truths consist exclusively; of- 
+propositions about particular existences. Since 
+axioms, or what Locke calls “maxims,”- -are 
+always general propositions, the self-evident 
+truths which they e.xpress do not apply to 
+reality. 
+
+William James uses the word "intuitive” — - 
+in a different sense from Locke— to charac-' 
+terize propositions that state “the necessary 
+and eternal relations” which the mind “finds' 
+between certain of its ideal conceptions.” Intui- 
+tive propositions are for him, therefore, what 
+maxims are for Locke; and like Locke, James 
+also denies that such .axioms of reason hold for- 
+reality. “Only hypothetically” he says, “can' 
+we affirm intuitive truths, of real things — by 
+supposing, namely, that real things existwhich 
+correspond exactly with the ideal subject of 
+the intuitive propositions . . . The intuitive 
+propositions of Locke leave us as regards outer 
+reality none the better for their possession. We 
+
+424 the great IDEAS ' 
+
+still have to ‘go to our senses’ to find what the 
+reality is. 
+
+“The vindication of the intuitionist posi- 
+tion,’’ James continues, “is thus a barren vic- 
+tory. The eternal verities which the very struc- 
+ture of our mind lays hold of do not necessarily 
+themselves lay hold on extramental being, nor 
+have they, as Kant pretended later, a legislat- 
+ing character for all possible experience. They 
+are primarily interesting only as subjective 
+facts. They stand waiting in the mind, forming 
+a beautiful ideal network; and the most we can 
+say is that we hope to discover outer realities 
+over which the network may be flung so that 
+ideal and real may coincide.” 
+
+The opposite view seems to be taken by 
+Plato, Aristotle, Aquinas, Bacon, Descartes, 
+Spinoza, and Kant. Though they are far from 
+being in complete agreement concerning the 
+principles of knowledge, the propositions which 
+they call axiomatic, self-evident, intuitive, or 
+a priori synthetic judgments, are not restricted 
+by them to the mind’s perception of the rela- 
+tions between its own ideas. There are self- 
+evident or immediate truths in physics and 
+metaphysics, as well as in mathematics and 
+logic. Whether these are inductions from ex- 
+perience or innate possessions of the mind, 
+whether they are intuitive apprehensions of in- 
+telligible being or a priori judgments having 
+a transcendental origin, these propositions are 
+held to describe the world of experience, or the 
+nature and existence of things outside the hu- 
+man mind. 
+
+There seem to be two degrees of skepticism 
+with regard to principles in the order of knowl- 
+edge. Complete skepticism would consist in 
+denying principles in every sense. That would 
+be the same as denying any beginning or basis 
+for even the opinions which men hold. No one 
+seems to go that far. 
+
+The issue with respect to the foundations of 
+knowledge or opinion is therefore not between 
+those who affirm and those who deny prin- 
+ciples, but between different views of what the 
+starting points are. It is sometimes said, for 
+example, that sensations are the principles or 
+beginnings of all human learning. This view is 
+shared both by those who think that all our 
+ideas or concepts are abstracted from the mate- 
+
+rials provided by the senses and by those who 
+account for all the other' contents of the mind 
+— its memories and imaginations, its complex 
+formations — in terms of the simple impressions 
+originally received by the senses. ' 
+Concepts, as distinct from sense-perceptions, 
+are also sometimes regarded as principles of 
+knowledge by those who think that concepts 
+originate by abstraction- from sensory mate- 
+rials, as well as by those who think that ideas 
+are primary principles, /.(?., having no origin in 
+any prior apprehensions. On either view, ideas 
+or concepts function as principles insofar as 
+they are the simples from which the more 
+complex acts of the mind develop, such as the 
+acts of judgment and reasoning. Just as on the 
+level of language, words are the principles bf all 
+significant speech, out of which sentences and 
+paragraphs are formed; just as, in the' logical 
+order, terms ale said to be the principles of 
+propositions and syllogisms; so concepts are the 
+principles of judgments and reasonings. The 
+definitions of Euclid, for example, state the 
+notions of point, line, triangle, etc. which un- 
+derlie his theorems and demonstrations. 
+
+One common characteristic of either sensa- 
+tions or concepts as principles of knowledge 
+seems to be simplicity. Nothing more elemen- 
+tary, out of which they can be formed, is prior 
+to them. Another characteristic is that they are 
+principles of knowledge or opinion without be- 
+ing themselves acts of knowledge or opinion. 
+This point is made by all who hold that only 
+propositions — whether statementsof opinion or 
+of knowledge— can be true or false. ‘ 
+The terms which' express the simple appre- 
+hensions of the mind — its sensations or con- 
+cepts — cannot be true or false, because, unlike 
+propositions, which are composed of terms, 
+they do not assert anything. If sensations and 
+concepts cannot be true orffalse in the sense in 
+which propositions or judgments are, then they 
+lack the distinctive property of knowledge or 
+opinion. In contrast, propositions or judgments 
+— which are supposed to be principles, whether 
+axioms or assumptions — can be treated as them- 
+selves expressions of knowledge or opinion, not 
+merely as its starting points or sources. ' 
+
+The two degrees of skepticism previously 
+mentioned apply only to those principles of 
+
+Chapter 70: 
+
+knowledge; Nvhiclv are themselves capable: of 
+being' regarded as knowledge' or opinion and 
+hence as either true or false. 
+
+We have already considered the skepticism of 
+■those who, admitting that the truth of some 
+propositions can be immediately recognized by 
+the mind, nevertheless deny that such -self- 
+evident truths describe ' reality. This may or 
+may'not be accompanied by a further deprecia- 
+tion of axioms on the ground that they are 
+merely analytical propositions and hence tri- 
+fling, uninstructive, or tautological, 
+
+' The chapter on Judgment considers the is- 
+sue which revolves around the derogatory use 
+of sUch words as “tautology” or “truism” to 
+designate self-evident truths. Though the in- 
+vidious connotation of the word “truism” does 
+not make the truth to which this epithet is ap- 
+plied any less true, the dignity of a truth does 
+seem to be affected by the refusal to regard it as 
+a statement of reality. Furthermore, a certain 
+degree of skepticism results from such refusal. 
+Hume exemplifies this. He holds that self- 
+evident ttuths are possible only in mathematics, 
+which deals not svith matters of fact, but with 
+the relations between our own ideas. In con- 
+sequence, he denies to the study of nature the 
+certitude or demonstrative character which he 
+finds in mathematical science. Since physics is 
+concerned with real existences, no axioms or 
+self-evident principles are available to it; and 
+so, according to Hume, it cannot demonstrate 
+its conclusions, but must advance them as 
+probabilities. 
+
+A more thorough-going skepticism seems to 
+consist in holding that there are absolutely no 
+matters at all about which men have axiomatic 
+knowledge. This appears to be the position of 
+Montaigne. No truths are self-evident. None 
+commands the universal assent of mankind; 
+none belongs to the nature of the mind so that 
+all men must agree to it. Montaigne almost 
+holds it to be axiomatic that there arc no 
+axioms, for if there were, he says, “there would 
+be some one thing to be found in the world . . 
+that would be believed by men with an univer- 
+sal consent; but this, that there is no one propo- 
+sition that is not debated and controverted 
+amongst us, or that may not be, makes it very 
+manifest that our natural judgment does not 
+very clearly comprehend what it embraces.” 
+
+PRINCIPLE 425 
+
+If it is objected that, in the absence of such 
+principles, there is no starting point or founda- 
+tion for science, Montaigne seems willing to 
+accept the consequence. He does not flinch 
+from an infinite' regression of reasons. “No rea- 
+son,” he writes, “can be established but upon 
+the foundation of another reason; and so run 
+back to all infinity;" To those who say that 
+there is no disputing with persons who deny 
+principles, he replies that “men can have no 
+principles, if not revealed to them by the 
+Divinity; of all the rest, the beginning, the 
+middle, and the end are nothing but dream 
+and vapor.” 
+
+If, however, for practical purposes, a begin- 
+ningmust be made somewhere, Montaigne sug- 
+gests that it can be done by taking things for 
+granted and then getting others to grant our 
+presuppositions. “It is very easy,” he writes, 
+“upon granted foundations to build whatever 
+we please . . . By this way, we find our reason 
+well-grounded and discourse at a venture; for 
+our masters prepossess and gain beforehand as 
+much room in our belief as is necessary for them 
+towards concluding afterwards what they 
+please, as geometers do by their postulates; the 
+consent and approbation we allow them giving 
+them power to draw us to the right and left, 
+and to whirl us about at their own pleasure.” 
+
+If the only principles upon which reasoning 
+can be based or from which conclusions can be 
+drawn are assumptions, postulates, or hypoth- 
+eses rather than axioms, then everything is a 
+matter of opinion and probability; nothing can 
+have the certitude of knowledge. As indicated 
+in the chapters on Knowledge and Opinion, 
+one theory of that distinction makes knowl- 
+edge an act of the mind independent of our 
+wishes or will and treats opinion as a judgment 
+voluntarily accepted or rejected. Accordingly, 
+assumptions or postulates are perfectly repre- 
+sentative of opinion, and axioms express the 
+very essence of knowledge. To assume or pos- 
+tulate anything is to take it for granted — 
+voluntarilyl A postulate neither compels as- 
+sent, nor does it ever exclude the possibility of 
+taking the opposite for granted. Where men 
+make postulates, there dispute is possible. But 
+to assert something as an axiom is to command 
+assent on the ground that its opposite can be 
+
+426 the great IDEAS 
+
+immediately recognized as impossible. No prop- 
+osition can be regarded as an axiom if its ac- 
+ceptance or, rejection is in any way a matter of 
+choice. ,i 
+
+For Aristotle the area in which men .can 
+dispute with some reason on both sides belongs 
+to, what he calls “dialectic,” whereas what he 
+calls “science” is the area from which dispute is 
+excluded by demonstrations which rest on self- 
+evident truths. One is the area of probability 
+and opinion; the other, of certainty and knowl- 
+edge. Contrary assumptions are the starting 
+point of dialectical argument, whereas science 
+begins with axioms. These may be the first 
+principles which Aristotle and Bacon call “com- 
+mon notions” because they are common to 
+diverse sciences; or they may be the axioms 
+peculiar to a single subject matter. 
+
+The word “dialectic” is used by Plato in a 
+quite different sense. It names the highest 
+science. Whereas the mathematical sciences 
+start from hypotheses which require further 
+support, dialectic— in the conception of Plato 
+— rises to the first principles of all knowledge. 
+In the hierarchical ordering of the sciences, 
+Plato’s dialectic, Aristotle’s metaphysics, and 
+Bacon’s philosophia prima seem to occupy re- 
+spectively the same primary position and to 
+perform the same function in virtue of being 
+the discipline which contemplates or considers 
+the absolutely first or most universal principles. 
+For Bacon, as for Aquinas, the only higher 
+science is sacred theology, whose principles are 
+articles of supernatural faith, not axioms of 
+reason. 
+
+These matters are more fully discussed in the 
+chapters on Dialectic, Metaphysics, and 
+Theology; questions concerning different kinds 
+of principles or the principles of different sci- 
+ences are considered in Hypothesis and Logic. 
+The chapter on Induction, furthermore, dis- 
+cusses the inductive origin of axioms, as well as 
+the disagreement betw'een Bacon and Aristotle 
+on the point of whether the highest axioms or 
+first principles are immediately intuited from 
+the particulars of experience, or are reached 
+only through intermediate stages of generali- 
+zation. 
+
+, Since axioms are indemonstrable, they can- 
+not be derived by reasoning as conclusions from 
+any trqths prior to themselves, Their indemon- 
+
+strability is regarded by Aristotle and Pascal as 
+a virtue rather than a defect, for if theyiWerc 
+demonstrable, they could not be the principles 
+or starting points of demonstration, df there 
+were no axioms, then nothing could be demon- 
+strated, because everything in turn would re- 
+quire proof in an endless regression, rj. • 
+
+To the ancient counterparts of the skeptical 
+Montaigne, Aristotle replies that unless the 
+law of contradiction is an indisputable axiom, 
+any form of reasoning, even probable reasoning 
+from assumptions, is impossible., The -principle 
+which underlies all disputation cannot itself be 
+disputed. To those who, with skeptical intent, 
+insist upon having everything demonstrated 
+before they will accept it, Aristotle offers an 
+indirect defense of the law of contradiction by 
+asking the questioner to try denying that self- 
+evident principle without reducing! himself to 
+absurdity. 
+
+Those who acknowledge the , existence of 
+axioms generally agree that they are indemon- 
+strable truths, but some, like Descartes and 
+Kant, do not agree that they are inductions 
+from experience. The alternatives seem, to be 
+that axioms are innate possessions of the intel- 
+lect or that they are transcendental a priori 
+principles of pure reason, independent of ex- 
+perience. Yet Locke, who denies innate ideas 
+and principles, or anything prior to experience, 
+does not treat what he calls self-evident maxims 
+as inductions from experience. They are rather 
+direct perceptions of agreement or, disagree- 
+ment among the ideas we have acquiredithrough 
+experience. 
+
+Aquinas, who, no less than Locke, denies in- 
+nate ideas and insists upon sense-experience as 
+the source of all human knowledge, refers to 
+the assent we give first principles as a natural 
+habit of the mind — the intellectual virtue he 
+calls “understanding,” equivalent to what 
+Aristotle calls “intuitive reason.” As the chap- 
+ter on Habit indicates, axioms are called “nat- 
+ural” truths, not in the sense-pf being innate, 
+instinctive, or congenital, but' only in the 
+sense that if the human reason functions nat- 
+urally or normally it will come to, recognize 
+these truths. Again, like Locke, Aquinas seems 
+to be saying that the truth of axioms is, per- 
+ceived by the human understanding as soon as 
+their terms are known, but he does not concur 
+
+with Locke in thinking that therefore such 
+truths hold only for relations between our own 
+ideas. ■' 
+
+The theory of the possession of principles by 
+natural habit has, for Aquinas, more than a , 
+verbal connection with the theory of natural 
+law. Of the various irieanihgs of the phrase 
+“natural law” which are distinguished' in'the. 
+chapter on Law, we are here concerned with 
+what both Kant and Aquinas conceive as the ' 
+moral law whose precepts are the fundamental 
+principles of human conduct. Both also speak 
+of the precepts of the natural law or the moral 
+law as the first principles of man’s practical 
+reason. 
+
+For Aquinas, these principles are primary in 
+the order of practical truth and the moral 
+sciences, as metaphysical first principles are 
+primary in the order of speculative truth and 
+the theoretic sciences. “The precepts of the 
+natural law,” he writes, “are to the practical 
+reason what the first principles of demonstra- 
+tion are to the speculative reason, because both 
+are self-evident principles.” As the proposition 
+that “the same thing cannot be affirmed and 
+denied at the same time” is the first principle of 
+the speculative reason, so “the first precept of 
+law, that good is to be done, and evil is to be 
+avoided," h the first principle of the practical 
+reason. 
+
+For Kant, the principles of the pure practical 
+reason, which legislate a priori for the realm of 
+freedom, play an analogous role to the prin- 
+ciples of the pure speculative reason, which 
+legislate a priori for the realm of nature or ex- 
+perience. It is this parallelism between the two 
+sets of principles which Kant seems to have in 
+mind when he conceives a metaphysic of nature 
+and a metaphysic of morals as twin disciplines 
+founded on the speculative and the practical 
+employment of the transcendental principles of 
+pure reason; 
+
+The same fundamental issues which we have 
+considered in connection with the axioms of 
+theoretic knowledge occur here in connection 
+with the first principles of moral knowledge. 
+Aquinas and Kant disagree, for exarhple, about 
+the way in which we come into possession of 
+these principles. For Itant, the principles of 
+mortality, like the principles of nature, belong 
+
+to the transcendental structure of pure reason 
+itself. For Aquinas, as already suggested, the 
+precepts of, the natural law are known in the 
+same way as the axioms of the speculative rea- 
+son. .As the truth of the principle of contradic- 
+tion is known when we understand the mean- 
+ing of ‘is’ and ‘not,’ so the truth of the first 
+command of natural law— ‘Seek’ the good’— is 
+known when we understand the meaning of 
+‘seek’ and ‘good.’ We hold such truths by the 
+natural habit of our minds, which in the case 
+of the natural law is given the special name of 
+synderesis. 
+
+Just as we find a certain skepticism with re- 
+gard to the principle of contradiction and other 
+axioms, so we find doubts about the existence of 
+natural law, or about indisputable and univer- 
+sally acceptable principles of morality. Refer- 
+ring to those who think that there are some 
+laws “first, perpetual, and immutable, which 
+they call natural that are imprinted in mankind 
+by the condition of their own proper being,” 
+Montaigne declares that “the only sign by 
+which they can argue or infer some laws to be 
+natural is the universality of approbation”; and 
+he adds: “Let them produce me but one of this 
+condition.” 
+
+The consequences of skepticism are here the 
+same as before. Without first principles, moral 
+science either fails entirely or is reduced to sys- 
+tems of belief based upon one set of assumptions 
+or another. In either case, moral judgments ex- 
+press, not knowledge, but' opinion. As John 
+Stuart Mill observes, the utilitarians must, de- 
+spite all other differences, agree with Kant that 
+if there is to be a science of ethics, “mortality 
+must be deduced from principles,!’ and ulti- 
+mately from one first principle, for “if there be 
+several, there should be a determinate order of 
+precedence among them.” 
+
+What Mill says concerning the self-evidence 
+of the first principle of morality — which he 
+formulates as a statement of the ultimate end of 
+human conduct — closely resembles what Aris- 
+totle says about the self-evidence of the law of 
+contradiction. “Questions of ultimate ends are 
+not amenable to direct proof,” Mill writes. “To 
+be incapable of proof by reasoning is common 
+to all first principles: to the first premises of 
+our knowledge, as well as to those of , our con- 
+duct.” 
+
+. -
+
+
+OUTLINE OF TOPICS 
+
+1. Principles in the order of reality 
+
+la. The differentiation of principle, element, and cause 
+
+ii>. The being, number, and kinds of principles in the order of reality , 
+
+1C. The metaphysical significance of the principles of thought » 
+
+2. The kinds of principles in the order of knowledge 
+
+2a. The origin of knowledge in simple apprehensions 
+
+(1) Sensations or ideas as principles 
+
+(2) Definitions as principles 
+
+(3) Indefinables as principles of definition 
+2b. Propositions or judgments as principles 
+
+(1) Immediate truths of perception; direct sensitive knowledge of appearances; 
+
+evident particular facts 
+
+(2) Immediate truths of understanding: axioms or self-evident truths; a priori 
+
+judgments as principles 
+
+(3) Constitutive and regulative principles: the maxims of reason 
+
+3. First principles or axioms in philosophy, science, dialectic 
+
+за. Principles and demonstration 
+
+(1) The indemonstrabihty of axioms: natural habits of the mind 
+
+(2) The indirect defense of axioms ' ' 
+
+(3) The dependence of demonstration on axioms: the critical application of 
+
+the principles of identity and contradiction 
+
+зб. Principles and induction; axioms as intuitive inductions from experience; stages 
+
+of inductive generalization 
+
+y. Axioms in relation to postulates, hypotheses, or assumptions 
+
+(1) The distinction between first principles in general, or common notions, and 
+
+the principles of a particular subject matter or science 
+
+(2) The difference between axioms and assumptions, hypotheses and principles, 
+
+as a basis for the distinction between knowledge" and opinion, or science 
+and dialectic 
+
+(3) The distinction and order of the sciences according to the character of 
+
+their principles 
+
+4. First principles in the practical order: the principles of action or morality; the prin- 
+
+ciples of the practical reason 
+
+y. Ends as principles, and last ends as first principles: right appetite as a principle 
+in the practical order ' 
+
+4^’. The natural moral law and the categorical imperative 
+
+5" The skeptical denial of first principles or axioms: the denial that any propositions elicit 
+' 'the universal assent of mankind 
+
+Chapter 7,0; PRINCIPLE 
+
+, 'KEFERENCES' 
+
+To find- the passages cited, use the numbers in heavy type, which are the volume and page 
+numbers of the passages referred to.'For example, in 4 Homer: Iliad, ek ii [265-283] 12d, the 
+number, 4 is the number of ' the. volume .in the set; the number 12 d indicates that the pas- 
+sage is in section d of page 12.- , • ■ 
+
+Page Sections; \Vhen the text-is printed in one column,, the letters a and b refer to the 
+upper and lower halves of the page. For example, in 53 James ; Psychology, I 16 a-Hgb, the passage - 
+begins in the upper half of. page 116 and ends in the lower half ofpage.119. When the text is . • 
+printed in two columns, the letters a and b refer to the upper and .lower halves of the left-, ■ 
+hand side of the page, the letters c and d to the upper and lower halves of the right-hand side of" 
+the page. For example, in 7 . Plato; Symposium, 163 b- 164 c, the passage begins in the lower half 
+of the left-hand side of page 163 and ends in the upper half of the right-hand side of page 164. 
+
+Author’s Divisions; One or more of the main divisions of a work (such as part, bk, ch, 
+sect) are sometimes included in the reference; line numbers, in brackets,- are given in cer- 
+tain cases; e.g., Iliad, bk h [265-283] I2d. 
+
+Bible
+
+
+REFERENCES
+
+References ; The references are to book, chapter, and verse. When the King James 
+and Douay versions differ in title of books or in the numbering of chapters or verses, the King 
+James version is cited first and the Douay, indicated by a (D), follows; e.g., Old Testa- 
+ment; Nehemiah, 7:45 — (D) II Esdras, 7;46. 
+
+Symbols': The abbreviation “esp” calls the reader’s attention to one or more especially 
+relevant parts of a whole reference; "passim” signifies that the topic is discussed intermit- 
+tently rather than continuously in the work or passage cited. 
+
+For additional information concerning the style of the references, see the Explanation of 
+Reference Style; for general guidance in the use of The Great Ideas, consult the Preface. 
+
+1. Principles in the order of reality 
+
+\a. The differentiation of principle, element, 
+and- cause 
+
+7 Plato: Timaeus, 455d 
+
+8 Aristotle; Physics, bk i, ch i [184*10-16] 
+259a / Generation and Corruption, bk ii, ch i 
+[ 329*24-'’2] 429a-b / Metaphysics, bk i, ch 6 
+[987’’i 9-23] 505d; bk hi, ch 3 [998*20-*’i3l 
+517a-b; bk v, ch r-3 533a-534d; ch 24 
+545a-b; bk vii, ch 16 ^ [io4o’'i8-23] 564d; 
+ch 17 565a-S66a,c esp [1041^26-33] S66a,c; 
+bk VIII, ch 3 [1043^5-14] 567d-568a; bk xii, 
+ch I S98a-c; ch 4-5 599d-601a esp ch 4 
+[1070'’ 22-35] dOOb 
+
+19 Aquinas : Stimma Theologica, part i, q 33, 
+A i, REP 1 180d-181c; Q 42, A 3, ANS and rep 2 
+227a-d; q 105, a 6, ans 543b-544a 
+31 Descartes; Objections and Replies, 159a 
+45 Lavoisier; Elements of Chemistry, pref, 3d- 
+4a " ‘ 
+
+16. The being, number, and kinds of principles 
+in the order of reality ■ 
+
+7 Plato: P/iac^o, 240b-246c / Republic, bk hi, 
+333c-d; bk vi, 383d-388a / _Timaeus, 455c- 
+458b / Sophist, 564d-S74c / Philebut, 610d- 
+613a; 61Sc-617d 
+
+8 Aristotle: Physics, bk i 259a-268d; bk hi, 
+CM 4 [203’’2-i4] 281 b-c; bk rv, ch i [2o 8*’8- 
+209*1] 287b-c; BK VI, CH 5 318a-319c / Heav- 
+ens, 'bk I, CH 2 359d-360d; bk hi, ch 3-5 
+393c-396a / Metaphysics, bk i, ch 3-10 SOlc- 
+511d; BK II, CH 2 512b-513b; bk hi, ch r 
+[995 *’i3-996“i 7] 514a'c; ch 2 [g97®34]-cH 6 
+]ioo3“i7] 516a-522a,c; bk v, ch 3-4 534c- 
+535c; BK vii-xiv 550b,d-626d / Soul, bk i, 
+ch 2 [404'’30-405’’3i] 634a-635a 
+10 Galen; Natural Faculties, bk i, ch 3 168c- 
+169a 
+
+12 Lucretius : Nature of Things, bk i [146-264] 
+2d-4b; [418-448] 6b-c 
+
+17 Plotinus: Second Ennead, tr ix, ch i 65d- 
+66d / Fourth Ennead, tr vii, ch 9 198b-d / 
+Fifth Ennead, tr i, ch 4 209d-210c; tr ii, ch i 
+214c-215a; tr iv 226d-228b / Sixth Ennead, 
+tr i-iii 2S2a-297b; tr viii, ch 7-8 345d- 
+347a; tr ix 353d-360d passim 
+19 Aquinas: Summa Theologica, part i, q 2, a 3 
+12c-14a; q 3, a 5, ans 17c-18b; a 6, ans and 
+' REP 2 18c-19a; Q 14, a ii, rep i 84c-8Sc; q 25, 
+A 1 143d-144c; q 27 153a-157c; q 33, a i 180d- 
+181c; a 3, REP 1 182c-183c; q 42, aa 2-3 225d- 
+227d; Q 44 238a-241d; Q. 49 264d-268a,c esp 
+A 3 266d-268a,c; q 75, a i, ans 378b-379c; q 
+77, A 5, REP 1-2 403d-404c; a 6 404c-405c; q 
+
+THE GREAT IDEAS ' 
+
+1^/0 20 ( 2 ) 
+
+(1. Principles in the order of reality, lb. The 
+being, number, and kinds of principles in 
+the order of reality.) 
+
+84, A 2, ANS and REP 3 442b-443c; a 4, rep i 
+444d.446b; q 115, a 2 587c-588c , ' ' 
+
+31 Descartes; Discourse, part vr, 61d-62c i ’ 
+
+31 Spinoza; Ethtcs, part 11, prop 10, schol 
+376d-377a 
+
+34 Newton; Principles, lb-2a: law i-iii 14a-b; 
+BK HI, GENERAL SCHOL, 371b-372a / Optics, 
+BK HI, S41b-542a 
+
+42 Kant: Pure Reason, 66d-93c esp 68a-74b, 
+85d-88a; 108a-112d esp llOa-d / fudgement, 
+467d-470b; 565b-d; 566d-567a; S7Sb-578a 
+
+45 Lavoisier; Elements of Chemistry, pREF,3b-4a 
+
+45 Fourier; Theory of Heat, IGQa-b 
+
+S3 James: Psychology, 882a-884b 
+
+Ic. The metaphysical significance of the princi- 
+ples of thought 
+
+7 Plato; Euthydemus, 72d-73b / Republic, bk 
+IV, 350d-351b 
+
+8 Aristotle: Interpretation, ch 13 [22'’28-23”26] 
+34d-35c / Metaphysics, bk hi, ch i [ 995’’6-ioj 
+514a; CH 2 [996*’26-997 “i 5] 515b-d; bk iv, ch 
+3 524b S25a; bk xi, ch i [io 59“23-26] 587a 
+
+20 Aquinas: Summa Theologica, part i-h, q 94, 
+A 2, ANS 221d-223a 
+
+31 Descartes: Discourse, part iv, 52a / Objec- 
+tions and Replies, def hi 130b; axiom v 131d- 
+132a 
+
+31 Spinoza: Ethics, part ii, prop 10 , schol 
+376d-377a; prop 37-40 386b-388b; prop 44, 
+COROL 2 390a 
+
+35 Locke: Human Understanding, bk iv, ch vh, 
+SECT lO-ii 339b-342d 
+
+42 Kant; Pure Reason, 15c-16c; S9c-107b / Pref. 
+
+, Metaphysical Elements of Ethics, 367d-368a / 
+Judgement, S43d-S44a; 560c; 562a-d; 600d- 
+601d; 603b c 
+
+46 Hegel; Philosophy of Right, pref, 6 c 
+
+53 James: Psychology, 302a-b; 671a-672a; 8S2a; 
+862a-866a; 873a-874a; 881b-886a esp 881b- 
+882a, 884b-886a; 8g0a 
+
+54 Freud: New Introductory Lectures, S77b-c 
+
+2. The kinds of principles in the order of 
+knowledge 
+
+2a. The origin of knowledge in simple ap- 
+prehensions 
+
+2a(l) Sensations or ideas as principles 
+
+7 Plato: Symposium, 167a-b / Phaedo, 228a- 
+230c / Republic, bk vh, 392b-393b / Theaete- 
+tus, S17b-536b / Seventh Letter, 810d 
+
+8 Aristotle: Posterior Analytics, bk i, ch 18 
+lllb-c / Metaphysics, bk 1 , ch i r98o‘'28-*’24l 
+499a 
+
+12 Lucretius; Nature of Things, bk 1 [422-425] 
+6b; [693-700] 9c; bk ii [ 434-436] 20c; bk iv 
+[ 353-521] 4Sd-Sla esp [469-521] 50b-Sla 
+
+19 Aquinas; Summa Theologica, part i, q 12 
+A 12, ANS 60d-61c; q 17, a i, ans lOOd-lOld- 
+t Q 18, A 2, ANS 105c-106b; q 84, a 6 447 c- 449 a' 
+A 8, ANS and rlp i450b-451b;PARTi-n,Qq^ 
+A 6, ANS 680c-681a 
+
+I 23 Hobbes; PART i, 49a ' 
+
+28 Gilbert: Loadstone, bk v, lOSc ' i 
+28 Harvey: On Animal Generation, ~2Z2a-ZZ-iz 
+esp 334c-d , o '> i , ^ i' 
+
+35 Locke : Human Understanding, bk i, ch i, sect 
+' 15 98d-99a; bK n, ch i, sect 1-8 121a 123a 
+esp SECT 2 121b-c; sect '23-25 127b d esp 
+sect 24 127b-c; ch ii,'sfecT 2 128a-b; ch vii, 
+SECT 10 133a-b; ch xhi, sect 1-6 14Sd-149d 
+esp SECT 2 149a; Chixiv, sect 2 155b c; 
+SECT 27' 160d-161a; sect 3'o-3I 161c-162a: 
+CH XV, SECT 2-3 162c-d; ch xvii, sect 2a- 
+CH XVIII, SECT I 173d-174a; ch xviii, sect 
+6 174c-d; CH XXII, sect 9 202c-203a; bk hi, 
+CH I, SECT 5 2S2b-c; ch iv, sect 12-14 262b 
+263a 
+
+35 Berkeley: Human Knowledge, intro 405a- 
+412a,c passim, esp sect 4 40Sc-dJ sect 17 
+409d-410a 
+
+35 Hume: Human Understanding/ ii 455b- 
+4S7b; SECT vii, Dijv 49 471c;d 
+42 Kant: Pure Reason, 14a-22a,c; '66d-72c esp 
+69c-72c; 101b-107b^ ' 
+
+53 James: Psychology^ esp 453b 454a, 
+45Sa-457a; 480a , 
+
+54 Freud: Ego and Id, 701d ^ , , 
+
+2a{2) Definitions as principles 
+
+7 Plato: Phaedrus, 134b-d; 140a-b / Meno, 
+174a-179b / Theaetetus, 544c-549d / Setentk 
+Letter, 809c-810d 
+
+8 Aristotle; Posterior Analytics 97a-137a,c pas- 
+
+sim, esp BK I, CH 3 [72*’i8-24] 99b-c, cii 10 
+[76'>35-77''4] 105c-d, ch 22 [84'‘6-'’2] 114 d 
+115b, ch 23 [84'’i9-85®3] 115c-116a, bk ii, ch 
+3-10 123c-128d / Topics, jbk vh, ch 3 [i53'‘6- 
+ii] 208a-b; bk viii.i ch 3 [i58“3i-i59"2] 
+214d-215c / Metaphysics,, ■RK\in,^cvi 2 [996*’ 
+18-21] 515b; BK IV, CH 7 [ioi2‘'i§-24] 532a- 
+b; CH 8 [1012^5-8] 532c; bk vii, ch 10 
+[io36“i-8] 559b-c; bk xhi, ch^ [io*78’’i7-3o1 
+610b-c / Soul, BK 1, ch“ I [402'’i5-403'‘2] 
+631d-632a ^ , 
+
+19 Aquinas:'' Summa Theologica, part i, Q 2. 
+
+A, 2 REP 2 lld-12c; Q 17, A 3, REP 1-2 102d- 
+103c: Q 58, A 5 303c-304c; q 85, a 6 458d- 
+459c V ' > ' 
+
+20 Aquinas: Summa fheologica, part i-ii, Q 
+
+94, A 2, ANS 221d-223a j ; 
+
+23 Hobbes: Leviathan, PART I, 56b-d; 58d-59c; 
+65d; PART IV, 269b-c 
+
+31 Descartes : Objections and Replies, 128c 
+33 Pascal: Geometrical Dembnstration, 430b- 
+, 431b , ^ : L V ’ • 
+
+35 Locke: Human Understanding, bk hi, ch ix, 
+^ SECT 15-16 288 d- 289 c; ch xi, sect 15-17 
+303 b- 304 a; bk iv, ch hi, sect 20, 319 b 
+
+2«(3) to .2^-(3) Chapter 70i PRINCIPLE 
+
+42.Kant: Rf/7i'o«,->215b-217a ,■ ^ 
+
+i46 Hs.GT.h:t'Phiiosop!iy . of. Right,- intro, 'par z 
+9b-10a .... ■. . , 
+
+• S4 Freud: .fori/nrtr, 412a-, b, j 
+
+2/?(3) Indefiriables as principles of definition 
+■ ■ 7 Plato: T/jerte/e/us, 544 c-547c ; • , 
+
+8 Aristotle: Metaphysics, bk i, ch '9 [992'’24- 
+993“i] Sllatb; bk,h-, ch 2 (994*’i6-27] 513a-b; 
+,.;ii)K,v,,cH 3 [ioi,4*;3ri3l''534d; bk viii,' ch 3 
+■ [io 43!'28--33] S68b 
+
+33 Pascal; GepmetricaU Demonstration, ■. 431b' 
+, .434a; 442a-443b ■ 
+
+3S Locke Understanding, bk 11 , .ch ii, 
+. .sect , 2 128a-b; ch vn,.SEcT 10 133a-b ; ;ch 
+xn,147b-148d; cH.xvni, sect i 174a; sect 
+6 174c-d; BK in, ch, iv, sect;I 2-14 262b- 
+; 263a:, 
+
+42 Kant: Pure Reason, 215d-216c ■ ; 
+
+44 BoswELLi /o/jiMon, 82b ^ , 
+
+26. Propositions or judgments as principles 
+
+26(1) Immediate truths of perception; direct 
+. ^ - sensitive knovvledge ofi appearances; 
+evident particular facts 
+8 Aristotle: Posterior Analytics,, ssk 1 , ch 18 
+lllb-o; ch 23 I84'’i9-8g"il llSc-116a; bk 11, 
+CH 2 [90''24'-3oj 123b-c; ch 19 136a-137a,c / 
+Heavens, bk hi, ch 7 [3o6“i-i8j 397b-c / 
+
+, Metaphysics, bk i, ch i [ 98i*’io-i3l 499d' 
+SOOa; CH 9 [992*'24-993='il Sllarb; bk iv, ch 
+, 5 [ioio'’i 4-26] 530,b-c; bk vii, ch 10 [1036“ 
+1-8] S59b'C; BK XI, ch 6 [io62‘’33-io63“9l 
+S91a-b 
+
+9'Aristotle; Ethics, bk i, ch 4 (i095''30-’’i2l 
+. , ..340C'd; CH 7 [io 98-''35-'’3] 343d: bk h, ch 9 
+[uo9*’2o-23] 3S5c; bk hi, ch 3 [iii2*’34 -' 
+iii 3“2] 358dt359a; bk vi, ch ii [n43'*25-‘=61 
+392d-393a;fBK VII, ch 3 [ii47'‘25-‘’61 397c-d; 
+bk,x, ch I [u72“34-*’7] 426b-c; ch 8 [1179® 
+16-23] 433d-43,4a 
+
+. 12 Lucretius : Nature of Things, bk i [ 693-700] 
+9c; bk IV [469-521] SOb-Sla 
+
+• 19 Aquinas: Summa TJieohgica, part i-ii, q 14, 
+
+A 6 , ans 680c-681a 
+
+28 .Harvey;, O n Animal Generation, 332a'335c 
+31 Descartes: Objections and Replies, 229d- 
+230d ' 
+
+3S:Locke: Human Understanding, bk i, ch i, 
+: sect 15-19 98d-100c esp sect 19 lOOb-c; 
+sect 23 101b-102a; bk iv, ch i, sect 4 
+307b-c; ch ii, 'sect i'309b-d; ch iii, sect 21 
+319c; CH vii, sect 4 337b-338b; sect 9-10 
+338d-340a; sect 11, 342c-d; ch xi 3S4C' 
+" 3S8c; cH xn,‘SECT 3 358d'359c 
+
+• 35 Hume: Human Understanding; sect v, div 37 
+
+■■ • ■465c-466a • 
+
+42 Kant: Pure Reason, 66d-72c: esp 67d-68a / 
+■Practical, Reason, 3Slc -• . ., 
+
+43 Mill; Utilitarianism, 44Sd-446a; 461c 
+S3 James: Psychology, 867a-868b 
+
+26 ( 2 ) Inimediate truths ' of understanding: 
+axioms or self-evident truths; a priori 
+j'udgments as principles 
+
+8 Aristotle: Posterior Analytics, bk i, ch 2 
+-■■■ ' [7a“749]9Sc; [72®i5-i9)98c'd: CH 3 99b-ld0a; 
+CH 15 109a-b; bk ii, ch 9 128a-b / Mcta- 
+, , .physics, bk III, ch 2 [996'>26-997'‘i4] ,5ISb-d; 
+
+• . BK IV, CH.3 [ioo5’’23-34] 524d'525a 
+
+■' '. 9, Aristotle: Ethics, ,nK. vi, cii 6 389d; ch S 
+In 42 ® 25 r 29 ] 391b-c; ch ii [ii 43 ® 25 -‘’i 3 ] 
+i -• r .392d-393a /, Rhetoric, bk i, ch 2 [i356*’26-28] 
+
+, 5?6b , 
+
+19 Aquinas: Summa Theologica, part i, q 2, a i, 
+:• S', ans lOd-lld; Q.17, a 3 , rep 2 102d-103c; <3 84, 
+A 3, ,REP.3 443d'444d; q 85, a 6, ans 4S8d- 
+459c; Q 87, A I, REP 1 465a-466c; q 117, a 1, 
+
+. ,, ANS and rep 1,3 59Sd'S97c; part i-ii, q i, 
+.. A 4, REP 2 612a'613a; a g, ans 613a-614a 
+.20 Aquinas: Summa Theologica, part i-ii, q 
+57, A 2 36a-37b; Q 90, a a, rep 3 206b-207a; 
+Q 91, A 3, ans 209d-210c; q 94, a 2, ans 221d' 
+
+. 223a: A 4, ans 223d-224d; part n-ii, q 8, 
+A I, REP 2 417a'd 
+25 Montaigne; Essays, 260c-261a 
+
+30 Bacon: Advancement of Learning, 61d 
+
+31 Descartes: Rules, iii, 4a'd; iv, Sc-d; 6d; 
+
+■ VI, 8d-9a: vm, ISc-d; xn, 23c / Discourse, 
+
+part IV, 51b-S2a / Meditations, v, 95a-96a 
+/ Objections and Replies, 123a-b; 12Sa-b; 
+224b,d 
+
+33 Pascal: Pensees, 1 I71a-172a 
+35 Locke: Human Understanding, bk i 95b,d- 
+, 121a,c esp ch i, sect 15-19 98d-100c, sect 23 
+101b'102a, ch n, sect 21-27 llla-112c, ch 
+III, sect 23 n9b-120a; bk iv, ch i, sect 4 
+307b-c; ch ii, sect i 309b-d; sect 7-8 310d- 
+3Ha; CH • vii 337a-344d esp sect i 337a, 
+SECT lo-ii 339b-342d; ch ix, sect 2-3 
+349a-c; ch xii, sect 1-6 358c-360a: sect 12, 
+362b-c; sect 15 363a-b; ch xvit, sect 14-17 
+378c-379c; ch xx, sect 7-10 390d-392a 
+
+42 Kant: Pure Reason, 31a-d; 64d-93c esp 64d- 
+66d, 68a'74b, 85d-88a; 211c-218d; 22Sa-227a 
+/ Fund: Prin. Metaphysic of Morals, 268b-d; 
+279c-d / Practical Reason, 295b-d; 329d-330c 
+
+./ judgement, 542d-543a 
+
+43 Declaration of Independence: [ 7-15] la-b 
+43 Federalist: number 31, 103c-104a; number 
+
+83, 244b-c 
+
+43 Mill; Utilitarianism, 445d-447a; 458d-459c 
+53 James: Psychology, 319b-320a; 869a-879b pas- 
+sim, esp 869a-870a, 872b 
+
+2fi(3) Constitutive and regulative principles: 
+the maxims of reason 
+
+,42 Kant: Pure Reason, 72c-74h esp 73c- 74a; 
+109d-112d; 194b-c; 199c-209d esp 199c-200c, 
+20ld-202a, 206a-207b / Practical Reason, 
+343a; 349b-355d / Intro. Metaphysic of Mor- 
+als; 390b; 392b-d / Judgement, 550a-551a,c; 
+S62a-d; 570b-572c; 577b; 578a-d 
+
+3. First principles or axioms in philosophy, 
+science, dialectic 
+
+Principles and demonstration 
+
+3<t(l) The indemonstrability of axioms: nat- 
+ural habits of the mind 
+
+8 Aristotle: Tnor Analytics, bk ii, ch i6 
+[64''28-381 85c / Posterior Analytics, bk i, ch 
+
+3 ggb-lOOa / Metaphysics, bk hi, ch 2 
+26-997“i4] S15b-d; bk iv, ch 4 [ioo5'>35- 
+ioo6'*i2] 525a-b; bk Xi, ch 5 [io 6 i‘’ 34 -io 62 '‘ 5 ] 
+S90a-b / Soul, bk i, ch 3 [ 407 “ 22 - 3 o] 636d- 
+637a 
+
+9 Aristotle; Ethics, bk vi, ch 3 388b-c; ch 6 
+389d; ch 11 Iii43‘‘25-’'i3] 392d'393a 
+
+19 Aquinas: Summa Theologica, part i, q 14, 
+A I, REP 2 7Sd-76c: q 16, a 6, rep i 9Sb-d; q 
+17, A 3, REP 2 102d-103c; Q 79, A 12 425c- 
+426b; PART i-ii, Q I, A 4, REP 2 612a-613a; 
+
+t- ' A 5, ANS 613a-614a 
+
+20 Aquinas : Summa Theologica, part i-n, q 53, 
+A I, ANS 19d-21a; q 57, a 2, ans and rep 2 
+36a 37b; q 94, a i 221a-d 
+
+30 Bacon: Advancement of Learning, 56c-S9c 
+
+33 Pascal: Geometrical Demonstration, 440b 
+
+35 Locke: Human Understanding, bk i, ch i, 
+sect lo-ii 97c-98a; ch in, sect 23 119b- 
+120a; BK IV, ch XI, sect i-io 354c-3S7b pas- 
+sim, esp SECT 10 357a-b 
+
+42 Kant: Pure Reason, 66d-72c esp 67c-69c; 
+211c-218d / Judgement, 542d-543a 
+
+43 Federalist: number 31 , 103c-104a 
+
+43 Mill; CZ/i/iwriaw/nn, 445d-447a; 461c;465a-b 
+
+53 James; Psychology, 851a'890a esp 85Ia-852a, 
+879b-882a, 889a-b 
+
+3a(2) The indirect defense of axioms 
+
+8 Aristotle: Metaphysics, bk iv, ch 4--8 52Sa- 
+S32d; BK XI, CH 5-6 590a-592b 
+
+3<*(3) The dependence of demonstration on 
+axioms: the critical application of the 
+principles of identity and contradiction 
+
+7 Plato: Euthydemus, 72d-73b / Cralylus, 112a 
+/jRepuhltc, BK IV, 350d-351b 
+
+8 Aristotle : Posterior Analytics, bk i, ch 1-3 
+97a-100a; ch 7 [75'*38-'’7] 103c; ch ri 105d- 
+106b; CH 19-23 lllc-116a; cH 32 [88“36-’’4] 
+120d / Topics, BK vni, ch 3 [i58“3i-'’4] 214d- 
+215a / Metaphysics, bk hi, ch 2 [9g6‘’26-997“ 
+14] 515b-d; bk iv, ch 3 [ioo5’'i8-27] 524b; ch 
+
+4 [ioo5’'35-ioo6'‘i 2] 525a-b; ch 6 [1011*3-14] 
+530d; BK V, CH 5 [ioi5‘’6-9] 535d-536a; bk 
+XI, CH 6 [io63’’7-i 2] 591d 
+
+9 Aristotle; Ethics, bk vi, cH 3 388b-c; ch 6 
+
+■ 389d; CH 11 [ii43''25-’’i3] 392d-393a / Rhet- 
+oric, BK I, CH 2 [i356''26-28] 596b 
+
+11 ‘Euclid; Elements, bk i, common notions 2a 
+
+19 Aquinas: Summa Theologica, part i, q 14, 
+a 7 8Id-82b; q 17, a 3, rep 1-2 102d-103c; q 
+
+3 to 3c(l) 
+
+36 , A 3 , REP 4 I94c-195d; q 84 , a 3 , rep 3 
+443d-444d; q 85 , a 6 458d-459c; part i-n, 
+Q I, A 4 , REP 2 612a-613a 
+
+20 Aquinas: Summa Theologica, part i-n, g go^ 
+A 2, REP 3 206b-207a; q 94, a 2, ans 221d- 
+223a ■ ' 
+
+28 Harvey; On Animal Generation, 333d-334d 
+esp 334a 
+
+30 Bacon: Advancement of Learning, 56c-S9d 
+
+31 Descartes: Discourse, part ii, 46c-47a / 
+Meditations, iii, 82b-d; v, 9Sb-96a / Objec- 
+
+' tions and Replies, 123a-b; 125a-b; 224b,d 
+
+31 Spinoza: Ethics, part ii, prop 37-47 386b- 
+391a esp prop 40, schol 1-2 387b-388b 
+
+35 Locke; Human Understanding, bk iv, ch ii, 
+sect I, 309d; sect 7-8 310d-311a; ch vii 
+337a-344d esp Sect io-ii 339b-342d 
+
+42 Kant: Pure Reason, 17d-18d; 64d-65c; 68a- 
+69c; 174b-d; 2llc-218d 
+
+43 Federalist: number 31 , 103cil04a 
+
+44 Boswell: Johnson, 82b 
+
+46 Hegel; Philosophy of Right, Additions, 3 116a 
+
+zb. Principles and induction; axioms as intui- 
+tive inductions from experience; stages 
+of inductive generalization 
+
+8 Aristotle: Prior Analytics, bk ii, ch 23 90a-c 
+/ Posterior Analytics, bk i, ch 18 lllb-c; bk ii, 
+ch 2 [ 90 * 24 - 30 ] 123b-c; ch 7 [ 92 * 34 -'’!] 126b; 
+ch 19 136a*137a,c 
+
+9 AIustotle: Ethics, bk vi, ch 3 388b-c; ch 6 
+389d; ch ii [ii 43 * 25 -'’i 3 ] 392d-393a 
+
+28 Harvey: On Animal Generation, 333d-334d 
+esp 334c-d 
+
+30 Bacon: Advancement of Learning, 56c-S9c; 
+96d-97a / Novum Organtim 105a-195d esp 
+pref 105a-106d, bk i, aph 11 - 26 ^ 107d-108d, 
+aph 36-38 109b-c, APH 63 113d-114a, aph 66 
+114dT15c, APH 69-70 116a-117a, aph 94 
+126a-b, APH 103-106 127d-128c, bk ii, aph 
+i-io 137a-'140d, aph 15-16 149a-b, Aph 20-22 
+150d-153c, APH 52 194c-195d 
+
+31 Descartes: Objections and Replies, 123a-b; 
+
+167c-d o 
+
+35 Locke; Human Understanding, bk i, ch hi, 
+sect 25, 120d 
+
+35 Hume: Human Understanding, sect 1 , div 2 
+451b-e; div 9 , 454d; sect iv, mv 26 460b c 
+
+42 Kant: Pure Reason, 66d-72c; 217a-c - 
+
+43 Mill: Utilitarianism, 446a; 47Sb,d [fn i] 
+
+46 Hegel: Philosophy of History, part iv, 361a-b 
+
+3c. Axioms in relation to postulates, hypoth- 
+eses, or assumptions 
+
+3c(l) The distinction between first principles 
+in general, or common notions, and the 
+principles of a particular subject matter 
+or science , , 
+
+7 Plato: Republic, bk vi, 383d-388a esp386d- 
+388a 
+
+3c(2) to 4 
+
+8 Aristotle; ‘Posterior Analytics, bk i, ch io 
+
+104d'105d; ch ii ■ ( 77''26-35] 106b; ch 32 
+120c-121b / Topics, bk i,' ch 2 [ioi'‘37-*’4] 
+144a / Heavens, bk in, ch 7 [3o6''i-i8] 397b-c 
+/ Metaphysics, bk iv, 'ch 3 [ioo5’’i5-i8] 524d 
+/, BK I, CH I [402''l7-23] 631b : 
+
+9 Aristotle: Rhetoric, bk i, ch 2 li358“3-33l 
+
+- ,597d-S98b 0,. ■ • 
+
+,,30 Bacon: Advancement of Learning, 40a-48d 
+
+' , esp 40a-41b, 43a'C, 44c'45a ■ , 
+
+35 Berkeley: Human. Knowledge,, sect 118 
+436b-c • 
+
+43 Mill: Utilitarianism, 445b-c 
+
+3c(2) The difference between axioms 'and, as- 
+sumptions, hypotheses and principles, 
+as a basis for the distinction between 
+knowledge and. opinion, or science and 
+dialectic 
+
+, 7 Plato; Republic, bk vt-vu,' 383d'398c esp 
+BK m, 396d-398c , 
+
+8 Aristotle: Posterior Analytics, bk i, ch 2 
+97d'99a; ch ij [ 77°22-35],i06b / Topics, bk 
+viH, CH 3 [i 58“3 i-‘’ 4) 214d-215a / Physics, bk 
+viH, CH 1 [252''23-‘'7] 336a-b / Metaphysics, 
+BK IV, CH 2 [1004*^18-27] 523d , 
+
+9 Aristotle; Ethics, bk 1 , ch 3 [iog4*’u-28] 
+339d-340a / Rhetoric, bk. i, ch 2 [i358“3-33i 
+597d-598b 
+
+19 Aquinas: Stimma Theologica, part i, q 12, 
+A 7, ANS and REP 2 56a-57b; a 13 , rep 3 61c- 
+62b; Q 47, A 1, REP 3 256a-257b; q 82 , a 2 , ans 
+432d'433c; q 83 , a i, ans 436d-438a 
+
+20 Aquinas; Summa Theologica, part i-h, Q.gi, 
+A 3 14b-lSa; Q 67, A 3, ANS 83b-84d; part 
+ii-ii, Q r, A 4, ANS 382c-383b; part hi, q 9, 
+A 3, REP 2 765b-766b 
+
+23 Hobbes: Leviathan, part i, 65b-d 
+
+25 Montaigne: Essays, 260c'261a 
+
+30 Bacon: Advancement of Learning, 56c-59b 
+
+31 Descartes: Rules, ii 2a-3b 
+
+34 Huygens; Light, prep, S51b-552a 
+
+35 Locke : Human Understanding, bk iv, ch 
+xvn, sect 2 371d'372b; sect 15-17 378d- 
+379c 
+
+42 Kant: Pure Reason, 217a-218c; 240b-243c / 
+Judgement, ,600d-604b 
+
+3c(3) The distinction and order of the sciences 
+according to the character of their 
+principles 
+
+7 Plato: Republic, bk vj, 386d-388a; bk vii, 
+391b-398c 
+
+8 Aristotle; Metaphysics, bk vi, ch i [ 1025*’!- 
+18] 547b,d; bk xi, ch 3 [io6i®29-*’4] 589c; 
+CH 4 1io6i’'i 7-28] 589d-S90a; ch 7 [io63’’36 - 
+io 64“9] 592b; bk xin, ch 2 [io77'>ii]-CH 3 
+[io 78‘‘3 i] 609a-d 
+
+,9 Aristotle: Ethics, bk i, ch 7 [io 98''20-*’8] 
+343c-344a / Rhetoric, bk i, ch 2 [1358*3-33] 
+S97d-598b 
+
+19 Aquinas; Summa Theologica, part i, q i, a 2, 
+ANS and REP I 4a-c; a 5 5c-6a; a 6 , rep 1-2 
+
+• 6b'7a ' ' _ 
+
+23 Hobbes; LcPialAan, part 1, '71c-d; 72a-d; 
+PART' II, 163a-b 
+
+. 30, Bacon: Advancement of Learning, 39d-41b 
+
+31 Descartes; Rules, 11 2a-3b / Discourse, part 
+1, 43d-44a ■/'■Meditations, i, 76c / Objections 
+• ■ - and Replies; 128d-129a ■/ Geometry, bk n, 
+304a-b 
+
+35 Hume: Human Understanding, sect tv, div 
+
+20 - 21 458a-c;.Div 30 , 462a 
+
+42'Kant: Pure Reason, 15c-16c; 17d-19a; 64d- 
+.'65c; 68a-69c; 21Sd-217c / Fund. Prin. Meta- 
+physic of Morals, 253a-d / Practical Reason, 
+351b-352c / Intro. Metaphysic of Morals, 
+388a-c / Judgement, 578a-b 
+
+43 Federalist: number 31', 103c'104a ' ‘ 
+
+'-■43 Mill; Utilitarianism, 445b-c 
+
+53 James: Psychology, xiiib-xiva; 884b-886a 
+
+54 Freud-.' 'N arcissism, 400d-40la / Instincts, 
+
+412a-b 
+
+4. First principles in the practical order: the 
+principles of action or morality; the 
+principles of the practical reason 
+7 Plato: Gorgias; 262a-263c; 280c-d 
+9 Aristotle: Ethics, bk i, ch 3 339d-340b 
+passim; ch 7 [i098“25-*’8] 343d-344a; bk vi, 
+CH 5 389a-c passim; ch 11 [n43°25-'’i3] 
+392d-393a; bk vii, ch 8 [1151*11-19] 401d- 
+402a 
+
+12 Epictetus; Discourses, bk i, ch 22 127c- 
+128c; bk III, CH 2 177c-178d; cii 10 185d- 
+187a 
+
+12 Aurelius; Meditations, bk viii, sect i 285a-b 
+
+18 Augustine; City of God, bkviii, ch 8 270a-d; 
+BK XIX 507a-530a,c passim 
+
+20 Aquinas; Summa Theologica, part i-ii, q 91, 
+A 3, ANS 209d-210c 
+
+23 Hobbes; Leviathan, part i, 86c-96b; part ii, 
+140b; lS3c-154a 
+
+31 Spinoza; Ethics, part iv, prop 18 , schol 
+429a-d 
+
+35 Locke; Human Understanding, bk i, ch ii-ih 
+103d'121a,c esp ch ii, sect 3 104b-d, sect 
+
+21- 27 ina-112c 
+
+38 Rousseau; Inequality, 330d-33Ib; 343d- 
+34Sc 
+
+42 Kant; Pure Reason, 190c-d; 234C'240b esp 
+23Sa-b, 238c-239a / Fund. Prin. Metaphysic 
+of Morals 2S3a-287d esp 253d-254d, 2S6c- 
+257d, 258d-259a, 260a-261d, 262a-26Sa, 
+266b-268a, 268d [fn 2], 269c, 270d-271a, 
+273d-280b, 280d-281a, 282b-283d, 286a- 
+287d / Practical Reason 291a-361d esp 291b- 
+■ 293b, 293c-d [fn 3], 298a-300a. 304d-307d, 
+
+310b-311d, 318c-321b. 325a-328a, 329a'331a, 
+338c-355d / Prcf. Metaphvsical Elements of 
+Ethics, 36Sb-366d; 367c; 3'69c-373b / Intro. 
+Metaphysic of Morals 383a-394a,c esp 386d- 
+
+ChXpter 70': PRINCIPLE 
+
+434 the great IDEAS 4a to 4b 
+
+(4. First principles in the practical order; the 
+principles oj action or morality; the princi- 
+ples of the practical reason.) ’ 
+
+388a, 392b / Science of Right, 397a-402a / 
+Judgement, 463a-467a; 478a-479d; S84d-587a; 
+588b [fn 2]; 594c-596c ' ' 
+
+43 pEDtRALiST: NUMBER 31, 103c-104a 
+
+43 Mill: Utilitarianism 44Sa-476a,c' passim, esp 
+445a-447b 
+
+49 Darwin: Descent of Man, 3l6a-317a; S92d 
+
+53 James: Psychology, 886b-888a ' 
+
+54 Frfud: General Introduction, 592d-593a / 
+
+'Beyond the Pleasure Principle, 639a-640c; 
+662c-663b esp 663a / Civilization and Its Dis- 
+contents, 772a-b ' 
+
+4a. Ends as principles, and last ends as first 
+principles; right appetite as a principle 
+in the practical order 
+
+V Plato; Gorgias, 262a-263c; 280c-d / Republic, 
+BK vi-vii, 383d-398c esp bk vii, 397a-398c 
+
+8 Aristotle; Metaphysics, bk i, cn 2 [982‘>4-7] 
+500d; BK ii, CH 2 [gg4''8-io] 512b; [g94*‘9-i61 
+512d-513a; bk hi, ch 2 [gg6“2i-*’i3] 514d- 
+515a; BK V, CH I [ioi3“20-24] 533b; bk vii, 
+CH 7 [io32‘‘28-‘’2g] 555b-d; bk ix, ch 8 [1050“ 
+3-*’6] 575d-576b; bk xii, ch 10 [io75''i2-24] 
+605d-606a 
+
+9 Aristotle: Parts of Animals, bk i, ch i [639 ’’ 
+io- 64 o“i 2] 161d-162b / Motion of Animals, 
+CH 6 [70o'’4]-CH 7 [701*39] 23Sd-236d / Ethics, 
+BK I, CH 1-4 339a-340d esp ch 4 [1095*30- 
+•’12] 340c-d; ch 7 [iog8*35-‘’8] 343d-344a; 
+CH 12 [iioi’’34-iio2“4] 347b; bk ii, ch 9 
+[lI09'’20-23] 355c; BK HI, CH 3 [III2*’I2- 
+1113*2] 358c-3S9a; bk vi, ch 2 387d-388b; 
+CH 5 389a-c passim; ch 8 [1142*12-31] 
+391b c; CH 9 [1142^17-35] 391d'392b; ch ii 
+[ ii43“25-*’i3] 392d-393a; ch 12 [1144*31-37] 
+394a; ch 13 [ii44'’30-i 145*6] 394c-d; bk vii, 
+CH 3 [ii 47“25-*’6] 397c-d; ch 8 [1151*15-19] 
+402a; bk x, ch 6-8 430d-434a / Politics, 
+bk vii, ch 13 [i33i'’24-37] 536b-c / Rhetoric, 
+BK I, CH 6-7 602d-607d 
+
+12 Epictetus: Z)wo«ri«, bk hi, ch 13-14 188b' 
+190a 
+
+18 Augustine; City of God, bk x, ch i, 298b,d / 
+
+Christian Doctrine, bk i, ch 3-4 625b-c; ch 35 
+634c-d ‘ 
+
+19 Aquinas: Summa Theologica, part 1, q 18, 
+A 3, ANs 106b-107c; q 19, a 2, rep 2 109c- 
+110b; A 5, ANS 112d-113c; q 22, a i, rep 3 
+127d-128d; o 25, a 5, ans 147d'149a; q 60, 
+A 2, ANS 311a-d; q 82, aa 1-2 431d-433c; q 
+113, A I, REP 2 576a-d; part i-ii, q 1 609a- 
+615c; Q 8, A 2, ANS 656a-d; q 9, a 3, ans 659c- 
+660a; q 11, a 3 667d-668d; q 12, aa 2-4 670b- 
+672a; q 13, a 3, ans 674c-675a;'A 6, rep i 
+676c-677b: Q 14, a 2 678b-c; a 6, ans 680c- 
+681a; q 15, a 3 682c-683b; q 16, A 3 685b- 
+686a; q 34, aa 3-4 770c-772b 
+
+20 Aquinas : Summa Theologica, part i-n, q 56, 
+
+’ a 2, REP 3-30c-31a; 'a 3, ans 31a-32b; a 4 , 
+rep 4 32b-33c; q 57, a 4, ans 38a-39a; a 5, 
+
+I ■ ANS and REP 3 39a-40a; q 58, a 3, rep 2 43b- 
+■ 44a; A 4, ans and rep i 44a-d; a 544d-4Sc; 
+Q 65, A 1, ANS andi REP 3-4 70b-72a; a 2, 
+ANS and REP 3 72a-d; a 3, ans and rep i 72d- 
+73d; Q 90, A 2, REP 3 206b-207a; q 91 , a 3, 
+ans 209d-210c;'PART ii-ii, q 26 , a i,'ans and 
+REP I 510c-Slla;iQ 27, a 6, ans 524c-525c; 
+Q 181, A 2'617d-618c * 
+
+23 Hobbes: Leviathan, part 1, 76c-d; part iv, 
+272c r 
+
+30 Bacon; Advancement of Learning, 69d-70a 
+31’ Spinoza': 'Ethics, 'part i, appendix 369b- 
+"" 372d; PART IV,' PREP 422b,d-424a: def 7 
+424b ’ ’ ^ ^ ' ' ’ ’ 
+
+'33 Pascal: Pensees, gS'lOOb / Geometrical Dem- 
+onstration, 440b 
+
+• 35 Locke; T/wnMa Understanding, bk ii, ch xxi, 
+SECT 52-53 191d-192b; sect 62 194c-d 
+
+42 Kant; Pure Reason, 234c-240b esp 235a-b, 
+236d-237a7'238c-239a / Fund. Prin. Meta- 
+physic of Morals, 253d-254d; 256a-b; 2S7c-d; 
+260a-c; 266a-267d; 271d-279d esp ’274d- 
+275b; 282b-283d; 286c-287d / Practical Rea- 
+son, 318c-321b esp 320c-321b; 327d-329a; 
+338c-355d / Pref. Metaphysical Elements of 
+Ethics, 367c / Judgement, 477b-c; 478a-479d; 
+584d-S87a: 588b [fn 2];591b-592a; 594b-S9Sc 
+
+43 Mill: Utilitarianism, 445a-447b; 456a-457b; 
+461c-464d; 475b,d [fn 1] 
+
+51 Tolstoy: 'lEur and Peace, bk xni, 586d-587a 
+53 James: Psychology, 796a-b ' * 
+
+4b. The natural moral law and the categorical 
+imperative , - 
+
+12 Aurelius: Meditations, bk in, sect ii 262a- 
+b; bk IV, sect 4 264a; bk vii, sect 55 
+283b-c 
+
+19 Aquinas: Summa Theologica,. v art 1, q 79, 
+
+A 12 425c-426b ^ 
+
+20 Aquinas: Summa Theologica, part i-ii, q 
+91, A 2 208d-209d; A 3, ans 209d-210c; q 
+94 220d-226b; q 95, a 2 227c-228c; A 4 
+229b-230c 
+
+23 Hobbes: Leviathan, part i, 86b 87a; 9Ia; 
+95c-96b; part 11, 134c; part hi, 165a; coN- 
+' CLUsioN, 282a; 283c , 
+
+30 Bacon: Advancement of Learning, 96a-c 
+38 Rousseau: Inequality, 330d-331b; 343d-34Sc 
+42 Kant: Pure Reason, 190c-d; i235a-b / Fund. 
+Prin. Metaphysic of Morals, 253d-254d; 260a- 
+261d; 265c-2'66d; 268c-270c esp 269c; 273d- 
+287d esp 277d-279d,' 282a-287b / Practical 
+Reason, 297a-314d esp 307d-314d; 321b 329a 
+esp 327a-329a / Pref. Metaphysical Elements of 
+Ethics, 373d / Intro. Metaphysic of Morals, 
+386b-387a,c; 388b-c; 390b,d-391c; 392b-393a 
+7 Science of Right, 400b,d-402a; 416b-4l7b / 
+Judgement, 571c-572a; 594b-S9Sc; '604d-606d 
+esp 605d-606b [£n 2], 606a-d 
+
+Chapter 70 : PRINCIPLE 435 
+
+43 Mill: Utilitartamsm, 445d-446d; 4S8b-4S9c; 
+
+464d-46Sb; 469d-470b 
+
+46 Hegel: Philosophy of Right,-, intro, par ag 
+19a-b; part ii, par 135 47b-d; additions, 84 
+129b; 86 129c 
+
+49 Dakwin: Descent of Man, 30‘ia ' ' 
+
+5. The skeptical denial of first principles or 
+axioms: the denial that any propositions 
+elicit the universal assent of mankind 
+
+7 Plato: Euthydemus, 72d-73a / Theaetetus, 
+
+532b-c' 
+
+8 Aristotle; Posterior Analytics, bk i, ch 3 
+[72*’5-i 8] 99b / Metaphysics, bk iv, ch 5-6 
+528c-531c; BK X, CH i tio 53 “ 3 i-*’ 3 ] S80a; ch 6
+
+
+CROSS-REFERENCES 
+
+For: Another discussion of principle in relation to element and cause, see Element 2, 
+
+The consideration of the laws of identity and contradiction as both logical and metaphysical 
+principles, ree Logic la; Metaphysics 3c; Opposition 2a; Truth 3c; and for the treatment 
+■ of contraries as principles, rcc Change 2b; Dialectic 3d; Opposition 2b, 3a. 
+
+Discussions bearing on sensations, ideas, and definitions as principles of knowledge, see 
+Definition ic, 5; Idea ic, af; Knowledge 3; Memory and Imagination la; Sense 
+5a. 
+
+The analysis of evident or self-evident truths, or of immediate as opposed to demonstrated 
+propositions, see Judgment 8a; Knowledge 6c{2); Sense 4b; Truth 3b(3); and for the 
+distinction between analytic and synthetic judgments a priori, and between constitutive 
+and regulative principles, see Idea id; Judgment 8b-8d. 
+
+The conception of axiomatic knowledge as a natural habit of the mind and as one of the 
+intellectual virtues, see Habit 5c; Virtue and Vice aafa). 
+
+The dependence of demonstration on axioms or self-evident truths, see Infinity 2c; Reason- 
+ing 5b(i); Truth 3c; and for the nature oiredttctio ad absurdum arguments in defense of 
+axioms, see Reasoning 4d. 
+
+Induction as the source of axioms, see Induction 3. 
+
+Other discussions of the distinction between axioms and postulates, hypotheses, or assump- 
+tions, and for the bearing of this distinction on the difference between knowledge and 
+opinion, or science and dialectic, see Dialectic 23(2), 4; Hypothesis 3-4; Knowledge 4b; 
+Mathematics 3a; Opinion 2c; Truth 4c; WiLL3b(i). 
+
+The principles of the several theoretic sciences, rcc Astronomy 2b; Definition 6a; Logic la; 
+Mathematics 3a; Mechanics 2b; Metaphysics 2b, 3c; Philosophy 3b; Physics ib, 2a; 
+Truth 4c. 
+
+The consideration of ends as principles in the practical order or in moral and political science, 
+see Good and Evil 5c; Government ic; Happiness 3; Mind 9a; Necessity and Con- 
+tingency 52(2) ; One and Many 5b; Relation 53(2) ; Truth 2c; and for other discussions 
+of the natural moral law or the categorical imperative as the first principle of the practical 
+reason, see Duty 5; Law 4b-4c; Mind 9a; Necessity and Contingency 53(2) ; Prudence 
+2c, 3a; Will 8d. 
+
+Other statements of the skepticism which results from denying first principles or axioms, see 
+Opinion 3c; Truth 7a. 
+
+(io57“7-ii] 584b; bk xi, ch 6 [io62’’i2-io63’^ 
+14 ] 590d-592a 
+
+12 Lucretius: Nature of Things, bk iv [ 469 - 477 ] 
+SOb 
+
+12 Epictetus: Discourses, bk ii, ch 20, 164c 
+18 Augustine; City of God, bkxix, ch 18 S23a-b 
+25 Montaigne: Essays, 259d-261a; 271b-272d; 
+281a-284c 
+
+30 Bacon: Advancement of Learning, 57d'58b 
+35 Berkeley: Human Knowledge, intro, sect 
+1-3 405a-c 
+
+35 Hume: Human Understanding, sect iv, div 26 
+460b-c;‘ sect XII S03c-509d 
+42 Kant: Pure Reason, 224a'227a / Practical 
+Reason, 294c-29Sd 
+
+THE GEEAT IDEAS

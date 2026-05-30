@@ -1,0 +1,3779 @@
+CHAPTER: Being
+
+INTRODUCTION
+
+INTRODUCTION 
+
+T he words “is” and “(is) not" are probably 
+the words most frequently used by anyone. 
+They are unavoidable, by implication at least, 
+in every statement. They have, in addition, 
+a greater range of meaning than any other 
+words. 
+
+Their manifold significance seems to be of a 
+very special kind, for whatever is said not to be 
+in one sense of being can always be said to be in 
+another of its senses. Children and practiced 
+liars know this. Playing on the meanings of be- 
+ing, or with “is” and “not,” they move smooth- 
+ly from fact to fiction, imagination to reality, 
+or truth to falsehood. 
+
+Despite the obviousness and commonplace- 
+ness of the questions which arise with any con- 
+sideration of the meanings of “is,” the study of 
+being is a highly technical inquiry which only 
+philosophers have pursued at length. Berkeley 
+gives one reason why they cannot avoid this 
+task. “Nothing seems of more importance,” he 
+says, “towards erecting a firm system of sound 
+and real knowledge . . . than to lay the begin- 
+ning in a distinct explication of what is meant 
+by thing, reality, existence', for in vain shall we 
+dispute concerning the real existence of things, 
+or pretend to any knowledge thereof, so long 
+as we have not fixed the meaning of those 
+words.” 
+
+In the whole field of learning, philosophy is 
+distinguished from other disciplines— -from his- 
+tory, the sciences, and mathematics— by its 
+concern with the problem of being. It alone 
+asks about the nature of existence, the modes 
+and properties of being, the difference between 
+being and becoming, appearance and reality, 
+the possible and the actual, being and non- 
+being. Not all philosophers ask these questions; 
+nor do all who ask such questions approach or 
+formulate them in the same way. Nevertheless, 
+the attempt to answer them is a task peculiar to 
+
+philosophy. Though it often leads to subtleties, 
+it also keeps the philosopher in deepest touch 
+with common sense and the speculative wonder 
+of all men. 
+
+As A TECHNICAL concept in philosophy, being 
+has been called both the richest and the empti- 
+est of all terms in the vocabulary of thought. 
+Both remarks testify to the same fact, namely, 
+that it is the highest abstraction, the most uni- 
+versal of predicates, and the most pervasive 
+subject of discussion. 
+
+William James is in that long line of philoso- 
+phers which began with the early Greeks when 
+he points out that “in the strict and ultimate 
+sense of the word ‘existence,’ everything which 
+can be thought of at all exists as some sort of 
+object, whether mythical object, individual 
+thinker’s object, or object in outer space and 
+for intelligence at large.” Even things which do 
+not really exist have being insofar as they are 
+objects of thought — things remembered which 
+once existed, things conceivable which have 
+the possibility of being, things imaginary which 
+have being at least in the mind that thinks 
+them. This leads to a paradox which the an- 
+cients delighted in pondering, that even noth- 
+ing is something, even non-being has being, for 
+before we can say “non-being is not” we must 
+be able to say “non-being is.” Nothing is at least 
+an object of thought. 
+
+Any other word than “being” will tend to 
+classify things. The application of any other 
+name will divide the world into things of the 
+sort denominated as distinct from everything 
+else. “Chair,” for example, divides the world 
+into things which are chairs and all other ob- 
+jects; but “being” divides something or any- 
+thing from nothing and, as we have seen, even 
+applies to nothing. 
+
+“All other names,” Aquinas writes, “are 
+
+Chapter 
+
+either less universal, or, if convertible with it, 
+add something above it at least in idea; hence 
+in a certain way they inform and determine 
+it.” The concepts which such words express 
+have, therefore, a restricted universality. They 
+apply to all things of a certain \ind, but not to 
+all things, things of every kind or type. With 
+the exception of a few terms inseparably associ- 
+ated with ‘being’ (or, as Aquinas says, converti- 
+ble with it), only being is common to all kinds 
+of things. When every other trait peculiar to a 
+thing is removed, its being remains— the fact 
+that it is in some sense. 
+
+If we start with a particular of any sort, clas- 
+sifying it progressively according to the char- 
+acteristics which it shares with more and more 
+things, we come at last to being. According to 
+this method of abstraction, which Hegel fol- 
+lows in his Science of Logic, ‘being’ is the empti- 
+est of terms precisely because it is the com- 
+monest. It signifies the very least that can be 
+thought of anything. On this view, if all we are 
+told of something is that it is— that it has being 
+—we learn as little as possible about the thing. 
+We have to be told that a thing is a material or 
+a spiritual being, a real or an imaginary being, a 
+living or a human being, in order to apprehend 
+a determinate nature. Abstracted from every- 
+thing else, ‘being’ has only the positive meaning 
+of excluding ‘non-being.’ 
+
+There is an opposite procedure by which the 
+term being has the maximal rather than the 
+minimal significance. Since whatever else a 
+thing is, it is a being, its being lies at the very 
+heart of its nature and underlies all its other 
+properties. Being is indeterminate only in the 
+sense that it takes on every sort of determina- 
+tion. Wherever being is found by thought, it 
+is understood as a determined mode of being. 
+To conceive being in this way, we do not re- 
+move every difierence or determination, but on 
+the contrary, embrace all, since all are differ- 
+ences or determinations of being. 
+
+Aquinas, for example, conceives ‘‘being tak- 
+en simply as including all perfections of being ; 
+and in the Judaeo-Christian tradition, ‘being 
+without qualification is taken as the most prop- 
+er name for God. When Moses asked God His 
+name, he received as answer: ‘‘I AM THAT I 
+AM . . . Thus shalt thou say unto the children 
+of Israel, I AM hath sent me unto you.’ Used 
+
+: BEING 127 
+
+in this sense, ‘being’ becomes the richest of 
+terms — the one which has the greatest ampli- 
+tude of meaning. 
+
+Both ways of thinking about being are rele- 
+vant to the problem of the relations among the 
+various meanings of ‘being.’ Both are also re- 
+lated to the problem of whether being is one or 
+many — the problem first raised by the Elea tics, 
+exhaustively explored in Plato’s Parmenides, 
+and recurrent in the thought of Plotinus, Spi- 
+noza, and Hegel. 
+
+The two problems are connected. If every- 
+thing that is exists only as a part of being as a 
+whole, or if the unity of being requires every- 
+thing to be the same in being, then whatever 
+diversities there are do not multiply the mean- 
+ings of being. Although he speaks of substance 
+rather than of being, Spinoza argues that 
+“there cannot be any substance excepting God, 
+and consequently none other can be con- 
+ceived.” From this it follows that “whatever 
+is, is in God, and nothing can be or be con- 
+ceived without God.” 
+
+Since “there cannot be two or more sub- 
+stances of the same nature or attribute,” and 
+since God is defined as a “substance consisting 
+of infinite attributes, each one of which ex- 
+presses eternal and infinite essence,” it is ab- 
+surd, in Spinoza’s opinion, to think of any 
+other substance. “If there were any substance 
+besides God, it would have to be explained,” 
+he says, “by some attribute of God, and thus 
+two substances would exist possessing the same 
+attribute,” which is impossible. 
+
+Spinoza’s definition of substance, attribute, 
+and mode or affection, combined with his axi- 
+om that “everything which is, is either in itself 
+or in another,” enables him to embrace what- 
+ever multiplicity or diversity he finds in the 
+world as aspects of one being. Everything 
+which is not substance, existing in and of itself, 
+exists in that one substance as an infinite attri- 
+bute or a finite mode. “The thing extended 
+{rem extensarri) and the thinking thing {rem 
+cogitanteni)f he writes, “are either attributes 
+of God or affections of the attributes of God.” 
+
+If, on the contrary, there is no unitary whole 
+of being, but only a plurality of beings which 
+are alike in being and yet are diverse in being 
+from one another, then our conception of being 
+
+THE GREAT .IDEAS 
+
+must involve a system of meanings, a stem of 
+many branches. -Descartes, for example, dis- 
+tinguishes between an infinite being, whose 
+essence involves its existence, and finite beings, 
+which do not necessarily exist of themselves 
+but must be caused to exist. The infinite being 
+which is God causes, but does not contain with- 
+in itself, other finite substances; and among 
+finite things, Descartes holds, “two substances 
+are said to be really distinct, when each of them 
+can exist apart from the other.” 
+
+In addition to God— “that substance which 
+we understand to be supremely perfect”— Des- 
+cartes defines two kinds of finite substance. 
+“That substance in which thought immediately 
+resides, I call Mind,” he writes; and “that sub- 
+stance, which is the immediate subject of ex- 
+tension in space, and of the accidents that pre- 
+suppose extension, e.g., figure, situation, move- 
+ment in space, etc., is called Body.” All these 
+substances, and even their accidents, have be- 
+ing, but not being of the same kind or to the 
+same degree. “There are,” according to Des- 
+cartes, “diverse degrees of reality, or (the qual- 
+ity of being an) entity. For substance has more 
+reality than accident or mode; and infinite sub- 
+stance has more than finite substance.” Its be- 
+ing is independent, theirs dependent. 
+
+The issue between Spinoza and Descartes — a 
+single substance or many — is only one of the 
+ways in which the problem of the unity or di- 
+versity of being presents itself. Both Plato and 
+Aristotle, for example, affirm a multiplicity of 
+separate existences, but though both are, in 
+this sense, pluralists, being seems to have one 
+meaning for Plato, many for Aristotle. 
+
+According to Plato’s distinction between be- 
+ing and becoming, only the immutable es- 
+sences, the eternal ideas, are beings, and though 
+they are many in number, they all belong to 
+one realm and possess the same type of being. 
+But for Aristotle, not only do perishable as well 
+as imperishable substances exist; not only is 
+there sensible and mutable as well as immaterial 
+and eternal being; but the being which sub- 
+stances possess is not the same as that of acci- 
+dents; essential is not the same as accidental 
+being; potential being is not the same as being 
+actual; and to be is not the same as to be con- 
+ceived, that is, to exist in reality is not the 
+same as to exist in mind. 
+
+Again and again Aristotle insists that “there 
+are many senses in which a thing is said to be 
+
+Some things are said to be because they are 
+
+substances, others because they are affections 
+ofsubstance, others because they are in process 
+towards substance, or destructions or priva- 
+tions or qualities of substance, or productive or 
+generative of substance, or of things which are 
+relative to substance, or negations of one of 
+these things or of substance itself. It is for this 
+reason,” he continues, “that we say even of 
+non-being that it is non-being” ; and, in another 
+place, he adds that “besides all these there is 
+that which ‘is’ potentially or actually.” 
+
+All these senses of being, according to Aris- 
+totle, “refer to one starting point,” namely, 
+substance, or that which has being in and of 
+itself. “That which is primarily, i.e., not in a 
+qualified sense,” he writes, “must be a sub- 
+stance.” But when he also says that “that 
+which ‘is’ primarily is the ‘what’ which indi- 
+cates the substance of a thing,” he seems to be 
+using the words “substance” and “essence” 
+interchangeably. This, in turn, seems to be re- 
+lated to the fact that, although Aristotle dis- 
+tinguishes between actual and potential being, 
+and between necessary or incorruptible and 
+contingent or corruptible beings, he, like Plato 
+and unlike Aquinas, Descartes, or Spinoza, 
+does not consider whether the essence and exist- 
+ence of a being are identical or separate. ! 
+
+It may be held that this distinction is im- 
+plied, since a contingent being is one which is 
+able not to exist, whereas a necessary being 
+cannot not exist. A contingent being is, there- 
+fore, one whose essence can be divorced &om 
+existence; a necessary being, one which must be 
+precisely because its essence is identical with 
+its existence. But the explicit recognition of a 
+real distinction between essence and existence 
+seems to be reserved for the later theologians 
+and philosophers who conceive of an infinite 
+being, as Aristotle does not. 
+
+The infinity of a being lies not only in its 
+possession of all perfections, but even more 
+fundamentally in its requiring no cause outside 
+itself for its own existence. “That thing,” says 
+Aquinas, “whose being differs from its essence, 
+must have its being caused by another. . . . That 
+which has being, but is not being, is a being by 
+participation.” Where Aristotle makes sub- 
+
+.'-Chapter 7: BEING 
+
+stance the primary type of . being, land the 
+“starting-point” of all its other meanings, 
+Aquinas makes the infinite , being of God, 
+whose very essence it is to be, the source of 
+all finite and participated beings, in which there 
+is a composition of existence and essence, 
+or “of that whereby they are and, that which 
+they are." 
+
+Since “being itself is that whereby a thing 
+is,” being belongs to God primarily and to all 
+other things according to modes of derivation 
+or participation. God and his creatures can be 
+called “beings” but, Aquinas points out, not in 
+the identically same sense, nor yet with utter 
+diversity of meaning. A similarity — a sameness- 
+in-diversity or analogy — obtains between the 
+unqualified being of God and the being of ail 
+other things, which have being subject to vari- 
+ous qualifications or limitations. 
+
+All other questions about being are affected 
+by the solution of these basic problems con- 
+cerning the unity of being, the hinds of being, 
+and the order of the various kinds. If they are 
+solved in one way — in favor of unity— certain 
+questions are not even raised, for they are gen- 
+uine only on the basis of the other solution 
+which finds being diverse. The discussion, in the 
+chapters on Same and Other, and on Sign 
+AND Symbol, of sameness, diversity, and anal- 
+ogy is, therefore, relevant to the problem of 
+how things are at once alike and unlike in being. 
+
+The Greeks, notably Plato and Aristotle, 
+began the inquiry about being. They realized 
+that after all other questions are answered, 
+there still remains the question. What does it 
+mean to say of anything that it is or is not ? After 
+we understand what it means for a thing to be 
+a man, or to be alive, or to be a body, we must 
+still consider what it means for that thing sim- 
+ply to be in any way at all; or to be in one sense, 
+and not to be in another. 
+
+The discussion of being, in itself and in rela- 
+tion to unity and truth, rest and motion, runs 
+through many dialogues of Plato. It is central 
+in the Sophist and Parmenides. The same terms 
+and problems appear in Aristotle’s scientific 
+treatise which makes being its distinctive sub- 
+ject matter, and which he sometime; calls first 
+philosophy” and sometimes “theology.’ It be- 
+longs to this science, he declares, “to consider 
+
+being qua being — both what it is and the prop- 
+erties w’hich belong to it qua being.” 
+
+As 'pointed out in the chapter on Meta- 
+physics,, it is an historical accident that this 
+inquiry concerning being came to be called 
+“metaphysics.” That is- the name which, ac- 
+cording to legend, the ancient editors gave to a 
+collection of writings in which Aristotle pur- 
+sued this inquiry. Since they came after the 
+books on physics, they were called “meta- 
+physics”, on the supposition that Aristotle in- 
+tended the discussion of being to follow his 
+treatise on change and motion. 
+
+If one were to invent a word to describe the 
+science of being, it would be “ontology,” not 
+“metaphysics” or even “theology.” Yet “meta- 
+physics” has remained the traditionally accept- 
+ed name for the inquiry or science which goes 
+beyond physics — or all of natural science — in 
+that it asks about the very existence of things, 
+and their modes of being. The traditional con- 
+nection of metaphysics with theology, discussed 
+in the chapters on Theology and Meta- 
+physics, seems to have its origin in the fact 
+that Aristotle’s treatise on being passes from a 
+consideration of sensible and mutable substan- 
+ces to the problem of the existence of imma- 
+terial beings, and to the conception of a divine 
+being, purely actual, absolutely immutable. 
+
+In a science intended to treat “of that which 
+is primarily, and to which all the other cate- 
+gories of being are referred, namely, substance,” 
+Aristotle says, “we must first sketch the nature 
+of substance.” Hence he begins with what he 
+calls “the generally recognized substances. 
+These are the sensible substances.” He post- 
+pones until later his critical discussion of “the 
+Ideas and the objects of mathematics, for some 
+say these are substances in addition to the sen- 
+sible substances”; yet he directs his whole in- 
+quiry to the ultimate question “whether there 
+are or are not any besides sensible substances.” 
+His attempt to answer this question in the 
+twelfth book makes it the theological part of 
+his Metaphysics. 
+
+Though their order of discussion is different, 
+the metaphysicians of the 17 th century, like 
+Descartes, Spinoza, and Leibnitz, deal with 
+many, if not all, major points in the analysis 
+of being which the Greek philosophers initi- 
+
+130 THE GREAT IDEAS 
+
+ated and the mediaeval theologians developed. 
+Later philosophers, whose main concern is with 
+the origin and validity of human knowledge, 
+come to the traditional metaphysical questions 
+through an analysis, not of substance or essence, 
+existence or power, but of our of substance 
+and power. 
+
+This transformation of the ancient problem 
+of being is stated by Berkeley in almost epi- 
+grammatic form. Considering “what is meant 
+by the term exhi," he argues from the experi- 
+ence of sensible things that “their esse is percipi, 
+nor is it possible they should have any exist- 
+ence, out of the minds or thinking things which 
+perceive them.” Locke, too, although he does 
+not identify being with perception, makes the 
+same shift on the ground that “the first step 
+towards satisfying several inquiries the mind of 
+man was apt to run into, was to make a survey 
+of our own understandings, examine our own 
+powers, and see to what things they were 
+adapted.” 
+
+Once the problems of being are viewed first 
+in terms of the mind, the questions for the 
+philosopher become primarily those of the rela- 
+tion of our definitions to real and nominal es- 
+sences, the conditions of our knowledge of ex- 
+istence, and the identification of the real and 
+ideal with perceptible matters of fact and intel- 
+ligible relations between ideas. 
+
+For Kant the basic distinction is between 
+the sensible and supra-sensible, or the phenom- 
+enal and noumenal, realms of being. From an- 
+other point of view, Kant considers the being 
+of things in themselves apart from human ex- 
+perience and the being of natural things or, 
+what is the same for him, the things of experi- 
+ence. The former are unconditioned, the latter 
+conditioned, by the knowing mind which is 
+formative or constitutive of experience. 
+
+“The sole aim of pure reason,” Kant writes, 
+“is the absolute totality of the synthesis on the 
+side of the conditions ... in order to preposit 
+the whole series of conditions, and thus present 
+them to the understanding a priori.” Having 
+obtained these “conditions,” we can ascend 
+through them “until we reach the uncondi- 
+tioned, that is, the principles.” It is with these 
+ideas of pure reason that metaphysics, accord- 
+ing to Kant, properly deals. Instead oi being, its 
+object consists in “three grand ideas: God, 
+
+Freedom, and Immortality, and it aims at 
+showing that the second conception, conjoined 
+with the first, must lead to the third as a neces- 
+sary conclusion.” 
+
+Hegel, on the other hand, does not approach 
+the problem of being or reality through a cri- 
+tique of knowledge. For Hegel, as for Plotinus 
+before him, the heart of metaphysics lies in 
+understanding that “nothing is actual except 
+the Idea” or the Absolute, “and the great thing 
+is to apprehend in the show of the temporal 
+and the transient, the substance which is imma- 
+nent, and the eternal which is present.” Plo- 
+tinus calls the absolute, not the Idea, but the 
+All-one, yet he tries to show that the One is the 
+principle, the light, and the life of all things, 
+just as Hegel reduces everything to a manifes- 
+tation of the underlying reality of the Absolute 
+Idea. 
+
+Despite all such changes in terminology, de- 
+spite radical differences in philosophical princi- 
+ple or conclusion, and regardless of the attitude 
+taken toward the possibility of metaphysics as a 
+science, the central question which is faced by 
+anyone who goes beyond physics, or natural 
+philosophy, is a question about being or exist- 
+ence. It may or may not be asked explicitly, 
+but it is always present by implication. 
+
+The question about God, for example, or 
+free will or immortality, is first of all a question 
+about whether such things exist, and how they 
+exist. Do they have reality or are they only 
+fictions of the mind ? Similarly, questions about 
+the infinite, the absolute, or the unconditioned 
+are questions about that primary reality apart 
+from whose existence nothing else could be or 
+be conceived, and which therefore has an exist- 
+ence different from the things dependent on it 
+for their being. Here again the first question is 
+whether such a reality exists. 
+
+Enough has been said to indicate why this 
+discussion cannot consider all topics which have 
+some connection with the theory of being. To 
+try to make this Introduction adequate even 
+for the topics outlined here, under which the 
+references to the great books are assembled, 
+would be to make it almost co-extensive in scope 
+with the sum of many other Introductions— all, 
+in fact, which open chapters dealing with meta- 
+physical concepts or problems. 
+
+It is to be expected, of course, that the special 
+
+Chapter 
+
+probJems of the existence of God, of an immor- 
+tal soul, and of a free will should be treated in. 
+the chapters on God, Immortality, and Will. 
+But it may not be realized that such chapters 
+as Cause, Eternity, Form, Infinity, Idea, 
+Matter, One and Many, Same and Other, 
+Relation, Universal and Particular— all 
+these and still others cited in the Cross-Refer-, 
+ences below — include topics which would have 
+to be discussed here if we were to try to cover 
+all relevant considerations. 
+
+Reasons. of economy and intelligibility dic- 
+tate the opposite course. Limiting the scope of 
+this Introduction to a few principal points in 
+the . theory of being, we can also exhibit, 
+through, the relation of this chapter to others, 
+the interconnection of the great ideas. The var- 
+ious modes of being (such as essence and exist- 
+ence, substance and accident, potentiality and 
+actuality, the real and the ideal) and the basic 
+correlatives 6f being (such as unity, goodness, 
+truth). are, therefore, left for fuller treatment 
+in other contexts. But two topics deserve fur- 
+ther attention here. One is the distinction be- 
+tween being and becoming, the other the rela- 
+tion of being to knowledge. 
+
+The fact of change or motion — of coming to 
+be and passing away — is so evident to the senses 
+that it has never been denied, at least not as an 
+experienced phenomenon. But it has been re- 
+garded as irrational and unreal, an illusion per- 
+petrated by the senses. Galen, for instance, 
+charges the Sophists with “allowing that bread 
+in turning into blood becomes changed as re- 
+gards sight, taste, and touch,” but denying 
+that “this change occurs in reality. ’ They ex- 
+plain'it away, he says, as “tricks and illusions of 
+our senses . . . which are affected now in one 
+way, now in another, whereas the underlying 
+substance does not admit of any of these 
+changes.” 
+
+The familiar paradoxes of Zeno are reductio 
+ad abstirdum arguments to show that motion is 
+unthinkable, full of self-contradiction. The way 
+of truth, according to Parmenides, Zeno s mas- 
+ter in the Elea tic school, lies in the insight that 
+whatever is always was and will be, that noth- 
+ing comes into being out of non-being, or 
+passes out .of being into nothingness. 
+
+The doctrine of Parmenides provoked many 
+
+BEING 131 
+
+criticisms. Yet his opponents tried to preserve 
+the reality of change, without having to accord 
+it the fullness of being. The Greek atomists, for 
+example, think that change cannot be explained 
+except in terms of permanent beings— in fact 
+eternal ones. Lucretius, who expounds their 
+views, remarks that in any change “something 
+unchangeable must remain over, that all things 
+be not utterly reduced to nothing; for when- 
+ever a thing changes and quits its proper limits, 
+at once this change of state is the death of that 
+which was before.” The “something unchange- 
+able” is thought to be the atom, the absolutely 
+indivisible, and hence imperishable, unit of 
+matter. Change does not touch the being of the 
+atoms, “but only breaks up the union amongst 
+them, and then joins anew the different ele- 
+ments with others; and thus it comes to pass 
+that all things change”— that is, all things com- 
+posite, not the simple bodies of solid singleness 
+— “when the clashings, motions, arrangement, 
+position, and shapes of matter change about,’,’ 
+
+In a conversation with Cratylus, who favors 
+the Heraclitean theory of a universal flux, Soc- 
+rates asks, “How can that be a real thing which 
+is never in the same state?” How “can we 
+reasonably say, Cratylus,” he goes on, “that 
+there is any knowledge at all, if everything is in 
+a state of transition and there is nothing 
+abiding” ? 
+
+When he gets Glaucon to admit in the Repub- 
+lic that “being is the sphere or subject matter of 
+knowledge, and knowing is to know the nature 
+of being,” Socrates leads him to see the correla- 
+tion of being, not-being, and becoming with 
+knowledge, ignorance, and opinion. “If opinion 
+and knowledge are distinct faculties then the 
+sphere of knowledge and opinion cannot be the 
+same ... If being is the subject matter of 
+knowledge, something else must be the subject 
+matter of opinion.” It cannot be not-being, for 
+“of not-being ignorance was assumed to be the 
+necessary correlative.” 
+
+Since “opinion is not concerned either with 
+being or with not-being” because it is obviously 
+intermediate between knowledge and igno- 
+rance, Socrates concludes that “if anything ap- 
+peared to be of a sort which is and is not at the 
+same time, that sort of thing would appear also 
+to lie in the interval between pure being and 
+absolute not-being,” and “the corresponding 
+
+132 THE GREAT IDEAS 
+
+faculty is neither knowledge nor ignorance, but 
+will be found in the interval between them.” 
+This “intermediate flux” or sphere of becom-' 
+ing, this “region of the many and the variable,” 
+can yield only opinion. Being, the realm of the 
+“absolute and eternal and immutable [Ideas],” 
+is the only object that one “may be said to 
+know.” 
+
+Aristotle would seem to agree with Plato 
+that change “partakes equally of the nature of 
+being and not-being, and cannot rightly be 
+termed either, pure and simple.” He points 
+out that his predecessors, particularly theEleat- 
+ics, held change to be impossible, because they 
+believed that “what comes to be must do so 
+either from what is or from what is not, both of 
+which are impossible.” It is impossible, so they 
+argued, since “what is cannot come to be (be- 
+cause it is already), and from what is not noth- 
+ing could have come to be.” Aristotle concedes 
+the cogency of this argument on one condition, 
+namely, that the terms ‘being’ and ‘not-being’ 
+are taken “without qualification.” But his 
+whole point is that they need not be taken with- 
+out qualification and should not be, if we wish 
+to explain change rather than make a mystery 
+of it. 
+
+The qualification Aristotle introduces rests 
+on the distinction between two modes of being 
+— the potentiality and actuality correlative 
+with matter and form. This makes it possible 
+for him to maintain that “a thing may come to 
+be from what is not ... in a qualified sense.” He 
+illustrates his meaning by the example of the 
+bronze, which from a mere lump of metal comes 
+to be a statue under the hands of the artist. The 
+bronze, he says, was “potentially a statue,” and 
+the change whereby it came to be actually a 
+statue is the process between potentiality and 
+actuality. While the change is going on, the 
+bronze is neither completely potential nor fully 
+actual in respect of fe/ng a statue. 
+
+Like Plato, Aristotle recognizes that there is 
+“something indefinite” about change. “The 
+reason,” he explains, “is that it cannot be 
+classed simply as a potentiality or as an actuali- 
+ty — a thing that is merely capable of having a 
+certain size is not undergoing change, nor yet 
+a thing that is aaually of a certain size. ” Change 
+is “a sort of actuality, but incomplete . , . hard 
+to grasp, but not incapable of existing.” 
+
+If to exist is to be completely actual, then 
+changing things and change itself do not fully 
+exist. They exist only to' the extent that they 
+have actuality. Yet potentiality, no less than 
+actuality, is a mode of being. That potentiality 
+— power or capacity— belongs 'to being seems 
+also to be aflirmed by the Eleatic Stranger in 
+Plato’s Sophist. “Anything which possesses any 
+sort of power to affect another, or to be affected 
+by another,” he says, “if only for a single mo- 
+ment, however trifling the cause and however 
+slight the effect, has real existence ... I hold,” 
+he adds, “that the definition of being is simply 
+power.” 
+
+The basic issue concerning being and becom- 
+ing, and the issue concerning eternal as opposed 
+to mutable existence, recur again and again in 
+the tradition of western thought. They arc in- 
+volved in the distinction between corruptible 
+and incorruptible substances (which is in turn 
+connected with the division of substances into 
+corporeal and spiritual), and with the nature of 
+God as the only purely actual, or truly eternal, 
+being. They are implicit in Spinoza’s distinc- 
+tion between nattira naturans and natura naUi- 
+rata, and in his distinction between God’s 
+knowledge of things under the aspect of eter- 
+nity and man’s temporal view of the world in 
+process. They are relevant to Hegel’s Absolute 
+Idea which, while remaining fixed, progressively 
+reveals itself in the ever-changing face of nature 
+and history. In our own day these issues engage 
+Dew'ey, Santayana, and Whitehead in contro- 
+versy, as yesterday they engaged Bradley, 
+William James, and Bergson. 
+
+As ALREADY NOTED, Plato’s division of reality 
+into the realms of being and becoming has a 
+bearing on his analysis of knowledge and opin- 
+ion. The division relates to the distinction be- 
+ttveen the intelligible and the sensible, and be- 
+nveen the opposed qualities of certainty and 
+probability, or necessity and contingency, in 
+our judgments about things. The distinctions 
+between essence and existence and between 
+substance and accident separate aspects or 
+modes of being which function differently as 
+objects for the knowing mind. 
+
+Aristotle, for example, holds that “there can 
+be no scientific treatment of the accidental . . . 
+for the accidental is practically a mere name. 
+
+Chapter 
+
+And,” he adds, “Plato was in a sense not wrong 
+in ranking sophistic as dealing with that which 
+is not. For the arguments of the sophists deal, 
+we may say, above all, with the accidental.” 
+That the accidental is “akin to non-being,” 
+Aristotle thinks may be, seen in the fact that 
+“things which are in another sense come into 
+being and pass out of being by a process, but 
+things which are accidentally do not.” But 
+though he rejects the accidental as an object of 
+science, he does not, like Plato or Plotinus, ex- 
+clude the whole realm of sensible, changing 
+things from the sphere of scientific knowledge. 
+For him, both metaphysics and physics treat of 
+sensible substances, the one with regard to their 
+mutable being, the other with regard to their 
+being mutable— becoming or changing. 
+
+For Plotinus, on the other hand, “the true 
+sciences have an intelligible object and contain 
+no notion of anything sensible.” They are di- 
+rected, not “to variable things, suffering from 
+all sorts of changes, divided in space, to which 
+the name of becoming and not being belongs,” 
+but to the “eternal being which is not divided, 
+existing always in the same way, which is not 
+born and does not perish, and has neither space, 
+place, nor situation . . . but rests immovable in 
+itself.” 
+
+According to another view, represented by 
+Locke, substance is as such unknowable, wheth- 
+er it be body or spirit. We use the word “sub- 
+stance”, to name the “support of such qualities, 
+which are capable of producing simple ideas in 
+us; which qualities are corrimonly called acci- 
+dents.” The sensible accidents are all that we 
+truly know and “we give the general name sub- 
+stance” to “the supposed, but unknown, sup- 
+port of those qualities we find existing.” Some 
+of these sensible accidents are what Locke calls 
+“primary qualities” — the powers or potentiali- 
+ties by which things affect one another and also 
+our senses. 
+
+But to the extent that our senses fail to dis- 
+cover “the bulk, texture, and figure of the mi- 
+nute parts of bodies, on which their constitu- 
+tions and differences depend, we are fain to 
+make use of their secondary qualities, as the 
+characteristical notes and marks whereby to 
+frame ideas of them in our mind” Neverthe- 
+less, powers — which are qualities or accidents, 
+not substances — seem to be, for Locke, the 
+
+BEING 133 
+
+ultimate' reality we can know. “The secondary 
+sensible qualities,” he' writes, “are nothing but 
+the powers” which corporeal substances have 
+“to produce several ideas in us by our sense, 
+which ideas” — unlike the primary qualities — 
+“are not in the things themselves, otherwise 
+than as anything is in its cause. ” 
+
+Hobbes exemplifies .still another view. “A 
+man can have no thought,” he says, “represent- 
+ing anything not subject to sense.” Hobbes 
+does not object to calling bodies “substances,” 
+but thinks that when we speak of “an incorpo- 
+real body, or (which is all one) an incorporeal 
+substance,” we talk nonsense; “for none of these 
+things ever have, or can be incident to sense; 
+but are absurd speeches, taken upon credit 
+(without any signification at all) from deceived 
+Philosophers, and deceived, or deceiving. 
+Schoolmen.” 
+
+He enumerates other absurdities, such as “the 
+giving of names of bodies to accidents, or of 
+accidents to bodies,” e.g., by those who say 
+that “extension is body.” Criticism of the fallacy 
+of reification— the fallacy first pointed out by 
+Ockham and criticized so repeatedly in con- 
+temporary semantics— also appears in Hobbes’ 
+warning against making substances out of ab- 
+stractions or universah “by giving the names of 
+bodies to names or speeches.” 
+
+Whenever a theory of knowledge is concerned 
+with how we know reality, as opposed to mere 
+appearances, it considers the manner in which 
+existing beings can be known — by perception, 
+intuition, or demonstration; and with respect 
+to demonstration, it attempts to formulate the 
+conditions of valid reasoning about matters of 
+fact or real existence. But it has seldom been 
+supposed that reality exhausts the objects of 
+our thought or knowledge. We can conceive 
+possibilities not realized in this world. We can 
+imagine things which do not exist in nature. 
+
+The meaning of reality— of real as opposed 
+to purely conceptual or ideal being — is derived 
+from the notion of thinghood, of having being 
+outside the mind, not merely in it. In tradition- 
+al controversies about the existence of ideas — 
+or of universals, the objects of mathematics, or 
+relations— it is not the being of such things 
+which is questioned, but their reality, their 
+existence outside the mind. If, for example, 
+
+ideas exist apart from minds, the minds of men 
+and God, they have real, not ideal, existence. 
+If the objects of mathematics, such as numbers 
+and figures, have existence only as figments of 
+the mind , they are ideal beings. 
+
+- The judgment of the reality of a thing, James 
+thinks, involves “a state of consciousness sui 
+generis" 'ahont which not much can be said 
+“in the way of internal analysis.” The focus of 
+this problem in modern times is indicated by 
+James’ phrasing of the question, “Under what 
+circumstances do we think things real?” And 
+James gives a typically modern answer to the 
+question. 
+
+He begins by saying that “any object which 
+remains uncontradicted is ipso facto believed 
+and posited as absolute reality.” He admits 
+that “for most men . . . the 'things of sense’ . . . 
+are the absolutely real world’s nucleus. Other 
+things,” James writes, “may be real for this 
+man or that— things of science, abstract moral 
+relations, things of the Christian theology, or 
+what not. But even for the special man, 
+these things are usually real with a less real 
+reality than that of the things of sense.” But 
+his basic conviction is that “our own reality, 
+that sense of our own life which we at every 
+moment possess, is the ultimate of ulrimates for 
+our belief. ‘As sure as I exist!’— this is our utter- 
+most warrant for the being of all other things. 
+As Descartes made the indubitable reality of 
+the cogito go bail for the reality of all that the 
+cogito involved, so all of us, feeling our own 
+present reality with absolutely coercive force, 
+ascribe an all but equal degree of reality, first to 
+whatever things we lay hold on with a sense of 
+
+personal need, and second, to whatever farther 
+things continuouMy belong with these.” 
+
+The self or ego is the ultimate criterion of 
+being or reality. “The world of living realities 
+as contrasted with unrealities,” James writes, 
+“is thus anchored in the Ego. '. . . That is the 
+hook from which the rest -dangles,' the absolute 
+support. And as from a painted hook" it has 
+been said that one can only hang, a painted 
+chain, so conversely from a real hook'oiily a 
+real chain can properly be hung. Whatever things 
+have intimate and continuous connection with my 
+life are things of whose reality I cannot doubt. 
+Whatever things fail to establish this connection 
+are things which are practically no better for 
+me than if they existed not at all.” James 
+would be the first to concede to any critic of his 
+position, that its truth and good sense depend 
+upon noting that word “practically,” for it is 
+“the world of ‘practical realities’ ” with which 
+he professes to be concerned. 
+
+We can in conclusion observe one obvious 
+measure of the importance of being in philo- 
+sophical thought. The major isms by which the 
+historians of philosophy have tried to classify 
+its doctrines represent affirmations or denials 
+with respect to being or the modes of being. 
+They are such antitheses as realism and ideal- 
+ism; materialism and spiritualism; monism, du- 
+alism, and pluralism; even atheism and theism. 
+Undoubtedly, no great philosopher can be so 
+simply boxed. Yet the opposing ism's do indi- 
+cate the great speculative issues which no mind 
+can avoid if it pursues the truth or seeks the 
+ultimate principles of good and evil.
+
+
+OUTLINE OF TOPICS 
+
+PACE 
+
+1. Diverse conceptions of being and non-being: being as a term or concept; the meanings 
+
+of is and is not 
+
+2. Being, and the one and the many , 137 
+
+za. Infinite being and the plurality of finite beings 
+
+zb. The unity of a being 
+
+3. Being and good 138 
+
+3<7. The hierarchy of being: grades of reality, degrees of intelligibility 
+
+of. Being as the object of love and desire 139 
+
+Being and truth 
+
+Being as the pen'asive object of mind, and the formal object of the first philoso- 
+phy, metaphysics, or dialectic 
+
+4b. Being as the measure of truth in judgments of the mind: clarity and distinctness 
+as criteria of the reality of an idea 
+
+5. Being and becoming: the reality of change; the nature of mutable being 
+
+6. The cause of existence 
+
+7. The divisions or modes of being 
+
+7a. The distinction between essence and existence: existence as the act of being 
+
+yb. The distinction between substance and attribute, accident or modification: 
+
+independent and dependent being 
+
+(i) The conceptions of substance 
+
+(3) Corporeal and spiritual substances, composite and simple substances: the 
+kinds of substance in relation to matter and form 
+
+(3) Corruptible and incorruptible substances 
+
+(4) Extension and thought as dependent substances or as attributes of infinite 
+
+substance 
+
+(5) Substance as subject to change and to different kinds of change: the role of 
+
+accidents or modifications 
+
+(6) The nature and kinds of accidents or modifications 
+
+yc. The distinction between potentiality and actuality: possible and actual being 
+
+(1) The order of potentiality and actuality 
+
+(2) Types of potency and degrees of actuality 
+
+(3) Potentiality and actuality in relation to matter and form 
+
+yd. The distinction between real and ideal being, or between natural being and 
+
+being in mind 
+
+(1) The being of the possible 
+
+(2) The being of ideas, universals, rights 
+
+(3) The being of mathematical objects 
+
+(4) The being of relations 
+
+(5) The being of fictions and negations 
+
+ye. The distinction between appearance and reality, between the sensible and supra- 
+
+sensible, between the phenomenal and noumenal orders 
+
+M 3 
+
+M 5 
+
+M 7 
+
+8. Being and knowledge 
+
+8 a. Being and becoming in relation to sense: perception and imagination 
+
+8 b. Being and becoming in relation to intellect: abstraction and intuition 151 
+
+8c. Essence or substance as the object of definition: real and nominal essences 
+
+8 d. The role of essence in demonstration: the use of essence, property, and accident 
+
+in inference ^ 5 ^ 
+
+8 e. The accidental in relation to science and definition 
+8f. Judgments and demonstrations of existence: their sources and validity 
+
+. , ■ REFERENCES 
+
+{ 
+
+To find the passages cited, use the numbers in heavy type, which are the volume and page 
+numbers of the passages referred tbrFor example,'in 4 Homer: Iliad, bk ii [265-283] 12d, the 
+number 4 is the number of the volume in the set; the number 12d indicates that the pas- 
+sage is in section d of page 12. ^ ' 
+
+Page Sections: When the text is printed in one column, the letters a and b refer to the 
+upper and lower halves of the page. For example, in 53 James : Psychology, 116a'119b, the passage 
+begins in the upper half of page 116 and ends m the lower half of page up. When the text is 
+printed in two columns, the letters a and b refer to the upper and lower halves of the left- 
+handsideof the page, the letters c and d to the upper and lower halves of the right-hand side of 
+thepage. For example, in 7 Plato: Sympositim, 163b-164c, the passage begins in the lower half 
+of the left-hand side of page 163 and ends in the upper half of the right-hand side of page 164. 
+
+Author’s Divisions: One or more of the main divisions of a work (such as part, bk, ch, 
+sect) are sometimes included in the reference; line numbers, in .brackets, are given in cer- 
+tain cases; e.g., Iliad, bk ii [265-283] 12d. ^ 
+
+Bible References : The references are to book, chapter, and verse. When the King James 
+and Douay versions differ in title of books or in the numbering of chapters or verses, the King 
+James version is cited first and the Douay, indicated by a (D), follows; elg.. Old Testa- 
+ment: Nehemiah, 7:45 — (D) II Esdras, 7:46. ' . 
+
+Symbols: The abbreviation “esp” calls the reader’s attention to one or more especially 
+relevant parts of a whole reference; “passim’’ signifies that the topic is discussed intermit- 
+tently rather than continuously in the work or passage cited. < 
+
+For additional information concerning the style of the references, see the Explanation of 
+Reference Style; for general guidance in the use of The Great Ideas, consult the Preface. 
+
+1. Diverse conceptions of being and non-being; 
+being as a term or concept; the meanings 
+of is and is not 
+
+7 Plato: Republic, bk v, 370d-373c / Timaeus, 
+447b-d; 45Sc-458b / Parmenides 486a-Slld / 
+Theaetetus, 517d-5I8b; 520b; 521d-S22a / 
+Sophist, 561d-563b esp S62a-S63a; 56Sa-566b; ' 
+
+n ■ 567a-S69a; 571d-573b passim 
+
+8 Aristotle: Interpretation, ch 3 [i 6 *’i 9 - 26 ) 
+25d-26a; ch 13 [a.y'iS-2.6]ZSh-c / Prior Analyt- 
+ics, BK I, CH 36 [ 48 ® 40 -’^ 9 ] 66 d / Posterior 
+Analytics, bk ii, ch 7 [ 92 ''i 3 ] I26c / TopicSyBK 
+IV, ch I [i 2 I°I 4 - 26 ] 169a-l5; [i 2 i'’i- 8 ]_ 169c; 
+ch 6 [i 27 '' 26 - 4 o] 176d-177a; bk vi, "ch 7 
+[i 46 “ 2 i- 32 ] 200a-b / Sophistical Refutations, 
+
+CH 5 [i 66 *’ 37 -i 67 “ 7 ] 229d; ch 7 [i 69 '' 22 - 24 ] 
+232d; CH 25 [i 8 o“ 32 - 38 ] 248c / Physics, bk i, 
+
+CH 2 [i 85 ’* 2 o-*’ 4 ] 260a-b; ch 3 [i 86 “ 23 -i 87 '*io] 
+261b-262a; CH5 [ 188 * 18 - 23 ] 263c; bk in, ch 6 
+[ 206 * 13 - 34 ] 284b-d; BK V, ch i [ 225 * 20 - 29 ] 
+305b-c / Generation and Corruption, bk i, ch 3 ‘ 
+
+413c-416c passim / Metaphypcs, bk i, ch 3-10 
+501c-511d passim; bk hi, ch 3 [ 998 ^ 14 - 28 ] 
+517b-c; BK IV, CH 2 [iod 3 “ 33 -’’io] 522b; ch 5 
+[ 1009 * 22 - 38 ] 528d; BK V, ch 7 537c-538b; bk 
+vii, CH I S50b,d-5Sla; ch 4 [io 3 o*i 7 -''i 4 ] 
+552d-553b; bk"ix, ch 10 [i 05 i* 34 -*’ 2 ] S77c; 
+
+BK XI, ch 2 [io6o®36-’’io] 588c; CH3 [io6o'’3i] 
+io6i®io] 589a-b; bk xiJ, ch 2 [io69'’i5-34- 
+598d-599a; cH 4 [loyo^’y-S] 599d-600a / 5 ok/, 
+bk II, CH I [4i2'’6-9] 642c 
+
+17 Plotinus : First Ennead, tr viii, ch 3 , 28a-b / 
+Third Ennead, tr vi, ch 6-7 109d-lllc; tr 
+VII, ch 6 122a-d / Fifth Ennead, tr i, ch 4 
+209d-210c; tr 11 , ch i 214c-215a; tr vi, ch 6 
+237b-d / Sixth Efmead, tr ii, ch 7-8 272a- 
+273c 
+
+18 Augustine: Confessions, bk vii, par 1-2 43b- 
+44a/ City of God, bk viii, ch n,'272c; bkxii, 
+CH 2 343c-d / Christian Doctrine, bk i, ,ch 32 
+
+,633c-d , 
+
+19 Aquinas: Summa Theologica, part i, qq 2-13 
+10c-75b passim, esp q 3 , a 4 , rep i 16d-17c, 
+Q 11 , A I 46d-47d, Q 13 , A 5 , ans and rep i 
+66b-67d, A 10 , ans 72c-73c;.q 14 ,’ a 9 , ans 
+83b-d; q i 6 , a 3 , rep 2 96b-d; q 22 , a 4 , rep 3 
+131c-132b;>Q ' 29 V A i, rep 4 162a-163b; QQ 
+44-45 238a-250a; q 48 , a 2 , rep 2 260c-261b; 
+Q 54 , A 2 , ans 285d-286c"; q 104 534c-538c; 
+Q 105 , A 5 , ANS S42a-543b; part i-ii, Qi, a 5 
+esp REP 2-3 618d-619c 
+
+20 Aquinas : Summa Theologica, part i-ii, Q 61 , 
+A 1 , REP I 54d-55c 
+
+23 Hobbes: Leviathan, part iv, 269d-270c 
+' 25 Montaigne: Essays, 292d-294a 
+
+2 to 2b Chapter 
+
+31 Descartes: 'Discourse, part iv 5Ib-S4b / 
+Meditations, iv, 89C'd / Objections and Replies, 
+I39b-c; 2I4d'2l5a 
+
+31 Spinoza; Ethics, part i, prop ii, demonst, 
+358d; scHOL, 359a; part ii, prop 40, schol i 
+387b-388a 
+
+33 Pascal; Geometrical Demonstration, 432b 
+
+35 Lockb: Human Understanding, sk xii, ch vii, 
+SECT I 283a-b 
+
+35 Berkeley: Human Knowledge, sect 2-3 
+413b-d; sect 17 4I6a-b; sect 45-46 42Ib-c; 
+sect 48 422a; sect 81 428c-d; sect 88-91 
+430a-431arsECT 139 440d 
+
+42 Kant: Pure Reason, 43d-44a; 52a'b: 107b- 
+108a, c; 133c; 177b-187a esp 179c-182b, 185c- 
+187a; 197b-198a / Pref. Metaphysical Elements 
+of Ethics, 367d-368a / Judgement, 603b c 
+
+46 HegeL: Philosophy of History, intro, lS 6 d- 
+157b; part i, 224a-b; 233b 23Sa; 237d-238d; 
+251d-252d; part iv, 322a-b 
+
+S3 James; Psychology, 636a-661b esp 639a-640a, 
+641a-b, 643a-64Sb; 871b-872a 
+
+2. Being and the one and the many 
+
+7 Plato; Republic, bk hi, 333b-d; bk v, 370a- 
+373c esp 372d-373c; bk vn, 392b-394b; bk x, 
+^27cA29c/ Parmenides 486a.-Slld / Theaetetus, 
+S37a-c; S44d-547c esp S47a / Sophist, 564d- 
+S74c / Statesman, S94d-S9Sa / Philebus, 610d- 
+617d 
+
+8 Aristotle; Physics, bk i, ch 2-3 259b-262a / 
+Metaphysics, bk i, ch 7 [ 988 ‘‘ 34 -'’ 5 ] 506c; bk 
+III, CH I ( 996 * 4 - 8 } S14c; CH 4 (iooi*4-*’25] 
+519d'S20c; bk vii, ch 16 [i 04 o‘‘i 6 - 27 ] 564d; 
+BK X, CH 2 580b-d; bk xi, ch 2 [io 6 o“ 36 -‘’i 9 J 
+
+' S 88 c-d; BK XIV, ch 2 (io88''28-io9o'‘2] 62Ib- 
+
+622c 
+
+12 Epictetus: O/tcoKnes, bk i, ch 14 , 120d I2Ia 
+
+12 Aurelius; Meditations, bk ii, sect 3 257a-b; 
+BK IV, SECT 29 266a; sect 40 267a-b; bk v, 
+sect 30 273a; bk vi, sect 36-45 277c-278c; 
+BK VII, SECT 9 280b'c; sect 19 281a; bk ix, 
+SECT 8-9 292b-d; bk x, sect ^7 297a-c; bk 
+XII, SECT 30 310a-b 
+
+17 Plotinus: Third Ennead, tk i, ch 4 79d-80a; 
+TR II, CH 1-2 82c-83d; TR VIII, CH 8-10 I32d- 
+136a; tr ix, ch 3 137b-138a,c / Fifth Ennead, 
+TR I, CH 4-9 209d-213c; tr ii, ch i 214c-215a; 
+TR III, ch 11-12 222b-223c; cH 15-16 224c- 
+226a; tr.iv 226d-228b; tr vi, ch 6 237b-d / 
+Sixth Ennead, tr ii 268d-280d; tr iv, ch it 
+302c-d; TR V, ch t 305c-306a; ch 5-8 307a- 
+308c; TR VI, CK 5-6 312c-313d; ch 8-16 314a- 
+319d 
+
+18 Augustine: Confessions, bk iv, par 15-17 
+23a-c 
+
+19 Aquinas: Sttmma Theologica, part i, Q 3’ 
+A 3, ANS 16a-d; Q ir 46d-S0b; Q 30, a 3 169b- 
+I70c; Q 93, A 9, ANS 500c-501c 
+
+21 Dante; Divine Comedy, paradise, h [112- 
+123] 109a " 
+
+31 Descartes; Objections and Replies, 123c-d 
+
+BEING' 137 
+
+31 Spinoza; Ethics, part 1, def 2 355a; def 6 
+35Sb; PROP 5-16 356b-362a 
+
+35 Locke; Human Understanding, bk hi, ch hi, 
+i sect 19 2S9c-260a 
+
+42 Kant: Pure Reason, 43d-44a; 49c-Sld esp 
+51c-d; 99a-101b; 107b-c; 173b-177b; 193a- 
+> 200 c 
+
+■■ ' 46 Hegel; Philosophy of History, part i, 2I8c; 
+224a-b; 232d; 237d-238a 
+
+51 Tolstoy: War and Peace, bk xiv, 608a-b 
+
+2a. Infinite being and the plurality of finite 
+beings 
+
+8 Aristotle: Physics, bk i, ch 8 [igi’'24-'’i2] 
+267a-c / Metaphysics, bk 1 , ch 5 [pSO^’iS- 
+987 * 1 ] 504d-50Sa 
+
+12 Aurelius: Meditations, bk iv, sect 29 266a; 
+SECT 40 267a-b; bk xii, sect 30 310a-b 
+
+17 Plotinus : Third Ennead, tr ii, ch 1-2 82c- 
+83d; TR VII, ch 6 122a-d; tr viii, ch 8-10 
+I32d-136a / Fourth Ennead, tr ix, ch 2 205c- 
+206a; ch 5 206d-207a,c / Fifth Ennead, tr 1, 
+ch 4-7 209d-212c; tr hi, ch 11-12 222b-223c; 
+CH - 15-16 224c-226a; tr iv 226d-228b 
+
+18 Augustine; Confessions, bk vii, par 20-21 
+49d-50a 
+
+19 Aquinas : Summa Theologica, pa-rti, Q 5 ,A 5 , 
+ANS 16a-d; a 7 , rep 2 19a-c; qq 7-8 31a-38c; q 
+II, AA 3-4 49a-50b; q 13 , a ii 73c'74b; qq 
+44-45 238a-250a; q 47 2S6a-259a; q 50 , a i, 
+ANS and rep 3 269b-270a; q 90 , a i 480d- 
+481d; QQ 103-105 528a-545b 
+
+31 Descartes: Meditations, m, 84a-b: 86 a- 88 d/ 
+Objections and Replies, 121d-122c; 123c-d; 
+139b-c 
+
+31 Spinoza: Ethics, part i 355a-372d esp def 2 
+35Sa, DEF 6 3S5b, prop 7-16 356c-362a, prop 
+21-25 364a-365b, prop 28 365c-366a, prop 29 , 
+SCHOL 366b-c, PROP 30 366c-d; part ii, prop 
+45 , SCHOL 390b 
+
+33 Pascal: PensSes, 121 195a 
+
+42 Kant: Pure Reason, 130b-133c / Judgement, 
+S50a-SSla,c; S64c-S65d esp S65c-d; S 66 c-d; 
+S80c-d 
+
+46 Hegel: Philosophy of History, part r, 227d- 
+228a; 234d-23Sa 
+
+2b. The unity of a being 
+
+8 Aristotle: Categories, ch 2 [i’’ 3 - 9 ] Sc / Top- 
+ics, SK IV, ch I [i 2 i''i 4 -i 9 ] I69a: [i 2 i'’ 4 - 8 ] 
+169c; CH 6 [i27”26-4o] 176d-177a; bk vi, ch 4 
+Ii4i“26-’'2] 194c-d / Sophistical Refutations, 
+CH 7 [ 169 * 32 - 36 ] 233a / Metaphysics, bk iv, ch 
+2 Iioo 3 '> 23 - 34 ] S22d; bk v, ch 6 S36a-S37c; 
+CH 9 [ 1018 * 3 - 9 ] 53Sd; BK viii, ch 6 569d-S70d; 
+BK X, CH 1-2 578b,d-580d; ch 3 [ 1054 * 33 - 35 ] 
+581a; bk xii, ch 10 606d; bk 
+
+Xltl, CH 2 [ 1077 * 20 - 23 ] 608c / Soul, bk II, CH I 
+{4I2’’6-9] 642c 
+
+11 Euclid: Elements, bk vii, definitions, r 
+127a 
+
+11 Nicomachus; Arithmetic, bk 11 , 840a'b 
+
+THE GREAT IDEAS 3 to 3a 
+
+(2. Being and the one and the many. 2b, The 
+unity of a being.) 
+
+17 Plotinus; Fourth Ennead, tr n, ch i 139 c- 
+140c / Sixth Ennead, tr vi, ch ii-i6 315d- 
+319d; TR IX, CH 1-2 353d-355a 
+
+19 Aquinas: Summa T/ieologtca, part i, q 6, 
+A 3 , REP I 29c-30b; q ii, aa 1-4 46d-50b 
+passim; q 39, a 3, ans 204c-20Sc; q 76 385c- 
+399b passim; q 103, a 3, ans 530a-c; part i-ii, 
+Q 12, A 3, REP 2-3 670d-671b; q 17, a 4, ans 
+688d-689c 
+
+20 Aquinas: Summa Theologica, part hi, q 2, 
+a I, ANS and rep 2 710a-711c; a g 719d- 
+720c; Q 17 806d-809d; q 19, a i, rep 4 816a- 
+818b; PART HI SUPPL, q 83, a 3, rep 4 978c- 
+980d 
+
+31 D es cartes : Objections and Replies, lS3b-lS4a; 
+213d-214a; 224d-225d 
+
+31 Spinoza: Ethics, part 1, prop 12-13 3551 j-d 5 
+part ii, def 7 373c 
+
+35 Locke; Human Understanding, bk ii, ch xiii, 
+SECT 26 lS4b-c; ch xvi, sect i 165c-d; ch 
+XXIII, sect 1-6 204a-205c; ch xxiii, sect 
+37-CH XXIV, sect 3 213d-214d; ch xxvii 
+218d-228c; bk hi, ch vi, sect 2-5 268c-269d; 
+SECT 10 271b; sect 49 282c 
+
+35 Berkeley ://«;««« sect I 413a-b; 
+
+sect 12 41Sb-c; sect 99 432b 
+
+42 Kant: Pure Reason, 120c-129c esp 121a-124d, 
+126a-128b / Judgement, S66c-d 
+
+53 James: Psychology, 104a-107b esp 104a-b; 
+215b-216a;406b 
+
+3. Being and good 
+
+Old Testament; Genesis, i 
+
+New Testament: / Timothy, 4:4 
+
+7 Plato: Phaedrus, 124c-12Sb / Republic, bk 
+vi-vii, 383d-398c / Timaeus, 447b'448b 
+
+8 Aristotle: Topics, bk vr, ch 5 [i43®9-i2] 
+196c; CH 6 [i45''i9-27] 198d-199a; ch 8 [i46*’9- 
+147®! i] 200c-201a; ch 12 [i49'’3i-3g] 204b-c / 
+Generation and Corruption, bk ii, ch 10 
+[336*’28-3o] 438d / Metaphysics, bk i, ch 6 
+[988®8-i6] 506a-b; ch 7 [g88*’6-i6] S06c-d; 
+CH 9 [992®29-34] 510c; bk xii, ch 7 602a- 
+603b; CH 10 [1075*11-24] 605d-606a; bk xiv, 
+ch 4 [i09i®29]-CH 5 [1092*17] 624a-625a 
+
+9 Aristotle: Generation of Animals, bk ii, ch i 
+[73i'’26-29] 272a / Ethics, bk i, ch 6 [io96“23- 
+29] 341c 
+
+17 Plotinus: First Ennead, tr hi 10a-12b; tr 
+VII, CH 1, 26c; TR viii, ch 3-12 28a-34a / 
+Fifth Ennead, tr hi, ch 15-16 224c-226a; tr 
+IX, CH 10, 250c / Sixth Ennead, tr v, ch i 
+305c-306a; tr vii, ch 24-26 333d-334d; CH28 
+335b-d 
+
+18 Augustine: Confessions, bk hi, par 10 15b-d; 
+par 12 16b; bk iv, par 24 25b-c; bk v, par 20 
+32d-33a; bk vii, par 3-7 44a-45d; par 16-23 
+48c-50c / City of God, bk xi, ch 22,333d-334a; 
+DK xii, PH 3 343d-344b 
+
+19 Aquinas : Summa Theologica, part 1, q 3, a 2, 
+ans lSc-16a; qq 4-6 20c-30d; q 13, a ii, rep 
+2 73c-74b; Q 21, a i, rep 4 124b-125b; q 22, 
+A I, ANS 127d-128d; q 25, a 6, ans 149a-150a; 
+Q 48, AA 1-3 259b-262a; q 73, a i 370a-371a; 
+A 3, REP 3 371d-372c; q 74, a 3, rep 3 375a- 
+377a,c; part i-ii, q 2, a 5 618d-619c; q 18, 
+aa 1-4 694a-696d esp a i, ans and rep i 
+694a-d, A 2, ANS 694d-695c; q 29, a 5, ans 
+747c-748b 
+
+20 Aquinas: Summa Theologica, part i-ii, q 54, 
+A 3, REP 2 24c-25b; q 55, a 4, rep 1-2 28c-29d 
+
+31 Spinoza; part i, appendix 369b-372d; 
+PART II, DEF 6 373c; part iv, def 1-2 424a 
+
+42 Kant: Fund. Prin. Metaphysic of Morals, 
+278b-c / Practical Reason, 307b-c 
+
+3a. The hierarchy of being: grades of reality, 
+degrees of intelligibility 
+
+7 Plato; Phoedrus, l^l4c-116a / Symposhm, 
+I67a-d / Republic, bk v, 370c-373c; bk vi-vii, 
+383d-398c; bk ix, 422c-425b esp 423b-424d/ 
+Timaeus, 447a-455c / Philebus, 637c-639a,c 
+
+8 Aristotle: Interpretation, ch 13 [23*18-26] 
+35b-c / Topics, bk vi, ch 4 [141*26-142*22] 
+194c-195c / Heavens, bk i, ch 2 359d-360d; 
+bk II, ch 12 383b-384c; bk iv, ch 3 [3io’’32- 
+311*3] 402b-c / Generation and Corruption, bk 
+I, CH 3 413c-416c; bk ii, ch 10 [336‘’25-34] 
+438d / Meteorology, bk iv, ch 12 [389’’23- 
+390*17] 493d-494b / Metaphysics, bk i, ch 6 
+S0Sb-506b; ch 7 [988*34-'’5] 506c; ch 8 
+[989’’2i-99o“8] 507d-508a; ch 9 508c-511c; 
+bk II, ch I I993’’i9-3i] 512a-b; bk iv, ch 4 
+[ioo8'’32-ioo 9*5] 528b; bk ix, ch 9 [1051*4- 
+22] 577a-b; bk xii, ch 5 [1071*30-36] 601a; 
+ch 7 602a-603b; ch 10 605d-606d; bk xiii, 
+cH 2 [io77*i4-*>i4] 608b-609a; bk xiv, ch 4 
+[I09i*29]-CH 5 [1092*17] 624a-625a / Soul, 
+bk III, CH 4 [429“29-’’4] 661c-d 
+
+9 Aristotle: Parts of Animals, bk i, ch 5 
+[644'’2o- 645“5] 168c-d / Generation of Animals, 
+bk h, ch I [73i'’ 24-33] 272a-b / Ethics, bk i, 
+CH 6 [1096*17-23] 341b-c 
+
+13 Virgil: Aeneid, bk vi [724-751] 230b-23Ia 
+
+17 Plotinus: First Ennead, tr vii, ch 1-2 26a-d; 
+tr viii, CH 3-10 28a-33a; ch 12 33d-34a / 
+Second Ennead, tr hi, ch 11-12 46b-c; ch 
+16-18 48b-50a; tr ix, ch 3 67b-c / Third 
+Ennead, tr ii, ch 1-2 82c-83d; tr viii, ch 
+8-10 132d-136a / Fourth Ennead, tr viii, ch 
+6 203d-204b / Fifth Ennead, tr ii, ch i 214c- 
+215a; tr hi, ch 11-12 222b-223c; tr iv 226d- 
+228b / Sixth Ennead, tr vi, ch 18 320c-321b; 
+tr vii, ch 28-29 335b-336b 
+
+18 Augustine: City of God, bk viii, ch ii, 272c; 
+bk XI, CH 16 331a-c; ch 22, 334b-c; bk xn, 
+cH 2-5 343c-345b; bk xiv,< ch 13, 387d / 
+Christian Doctrine, bk i, ch 8 626c-627a; cii 32 
+633c-d 
+
+19 Aquinas: Summa Theologica, part i, q 2, a i, 
+REP 2 lOd-lld; A 3, ANS 12c-14a; Q 3, a i, ans 
+
+35 to 4 Chapter 
+
+14b-lSb: A 2, ANS 15C'16a; a 7, rep 2 19a-c; 
+QQ 4-6 20c-30d passim; Q ii, a 4 49d-50b: 
+Q 16, a'6, rep I 98b-d; q 18 , a 3 106b-107c; 
+Q 19, A 8 116a-d; q 22, a 4, ans 131c-132b; q 
+23> A 5, REP 3 13Sd-137d; q 25, a 6, ans and 
+REP r,3 149a-lS0a; q 36, a 2, ans 192a-194c; 
+Q 42, a i; rep 1-2 224b-2asd; q 44, a 1, ans 
+32Sb-239a; q 47, a 2 357b-25ac; q 48, a 2, 
+ANS and REP 3 260c-261b; q 50, a i,‘ans and 
+REP I 269b-270a; a 2, rep i 270a-272a; a 3, 
+ANS 272a'273b; q 57, a i, ans 295a-d; q 65, 
+A 2, aNs and REP3 340b-34lb; q 70, a 3, rep 2 
+365b-367a; q 75, a 7 384d-38Sc; Q 76, a 3, 
+ans 39Ia-393a; A 4, rep 3 393a-394c; q 77, 
+A 2 401b-d; A 4, rep i 403a-d; q 79, a 9, rep 3 
+422b-423d; Q 82, a 3, ans 433c-434c; q 93, 
+A 3 493d-494c; q 106, a 4, ans S48b-549a; 
+Q 108, A 4 SSSb-d; Q 118, A 2, REP 2 eoic- 
+603b; PART I-II, Q I, A 4, REP I 612a'613a; q 
+2, A 5, REP2 618d-619c; a 8, rep i 621c-622b; 
+Q 3, A 7, ANS 628a-d; q i8, aa 1-4 694a- 
+l696d passim 
+
+20 Aquinas: Simma Theologica, part i-ii, q 52, 
+A I, ANS 15d-I8a; q 71, a 3, rep i I07c-108b; 
+Q 85, A 4 181b-d; PART ii-ii, Q 23, A 3, rep 3 
+485a-d; part ui, Q 7, a g, ans 7Sld-7S2c; 
+PART HI SUPPL, Q 74, A I, REP 3 925c-926c 
+
+21 Dante: Divine Comedy, paradise, i [103-142] 
+107b-d; II [112-148] 109a-b; vn [64-75] USd- 
+116a; [121-148] 116b-c; xni [52-87] 126a-b; 
+XXVIII [64-72] 149b-c; xxix [13-36] 150b-c 
+
+31 Descartes; Discourse, part iv, S2d / Medi- 
+tations, HI, 84a-b / Objections and Replies, 
+llld-112a; 121d-122c; axiom vi 132a; 139b-c; 
+2Ub-d 
+
+31 Spinoza: Ethics, part i, appendix, 372c-d; 
+PART IV, PR^F 422b,d-424a; part v, prop 40, 
+demonst 462c 
+
+32 Milton: Paradise Lost, bk v [ 468-490] 185b- 
+186a 
+
+35 Locke: Human Understanding, bk 11, ch xxi, 
+SECT 2 178c; CH XXIII, sect 28 2Ilb-d: sect 
+36 213c-d; BK III, CH VI, sect 11-12 271b- 
+272b; BK IV, ch xvi, sect 12 370b-371a 
+42 Kant: Pure Reason, 206d-207c / Judgement, 
+S56b-S58b; S66d-S67a 
+
+46 Hegel: Philosophy of History, part 1, 224a-d; 
+
+233b-235a; 237d-238d 
+51 Tolstoy: War and Peace, bk v, 217c 
+53 James: Psychology, 639a'64Sb esp 641b-644a 
+
+35. Being as the object of love and desire 
+
+7 Plato: Phaedrus, 124c-126a / Symposium, 
+165b-I67d ! -Republic, bk v-vi, 36gc-375b; 
+BK VI, 376d; bk ix, 422c-42Sb esp 423b-424d 
+
+8 Aristotle: Physics, bk i, cii 9 [192*16-24} 
+268b-c / Metaphysics, bk i, ch 3 [984*’8]-ch 4 
+[985“28] S02d-503c; ch 7 [988'’5-i6] S06c-d; 
+BK XU, CH 7 602a-603b; ch id 605d 606d 
+
+9 Aristotle: Ethics, bk ix, ch 7 (1167 34- 
+ii68“i8] 421b-c; ch g [ii7o*i4-*’i9] 423d- 
+424b 
+
+: BEING 139 
+
+17 Plotinus ; First Ennead, tr vi, ch 7 24c-25a / 
+Fifth Ennead, tr viii, ch 9, 244b-c; tr ix, ch i 
+
+' 246c-d 
+
+18 Augustine: Christian Doctrine, bk 1, ch 5 
+• 625d-626a 
+
+19 AamiiAs: Summa Theologica, part i, q § 
+
+23b-28b; q 16, a 4,' ans and rep 1-2 97a-c; 
+Q ig, A t, ANS 103d-109c; <? 20 , a 2 , ANs'aad 
+REP 4 121b-122a; q 48, a i, ans and rep 4 
+259b-260c; part i-h, q"!, a 8 615a-c; q 2, 
+A 5, ANS and REP 3 618‘d-6l9c;‘Q''8, a i, ans 
+and rep 3 6SSb-656a; q 22, A 2, ans 721c- 
+722c; Q 27, A '3 738c-739c; Q 129, a 1, rep i 
+745a-c; a 5 747c-748b ' 
+
+21 Dante: Divine Comedy, paradise, i [103-142] 
+107b-d • ■ ' . 
+
+30 Bacon : Advancement of Learning, 73a-c 
+
+31 Spinoza: Ethics, part iii, prop 4-9 398d- 
+
+399c; prop 12-13 400b‘d; part iv, prop 19-22 
+429d-430c 1 
+
+146 Hegel: Philosophy of History, part i, 224a- 
+225b; 233d'234b 
+
+’ l 
+
+4. Being gnd'truth , 
+
+7 Plato: Euthydemtls, 71c-‘74a / Cratylus, 86a; 
+113b-114a,c / Phaedrust 124c'i26c / Republic, 
+BK vi,386b-388a; BK ix, 423b-424a / Timaeus, 
+447a-d / Parmenides, 508d / Theaetetus, 534d- 
+S36a; 537a-c / Sophist, 561d-577b / Philebus, 
+634b-63Sb / Seventh Letter, 809c'810c 
+
+8 Aristotle: Interpretation, ch 3 [lO^’ig-aO] 
+25d'26a / Prior Analytics, bk i, ch 36 [48*40- 
+*’9] 66d / Metaphysics, bk ii, ch i Sllb,d- 
+
+I 512b; bk'v, ch 7 [1017*31-34] 538a; ch 29 
+[i024*’i6-26] 546c-d; Bk vi, ch 4 S50a,c; bk 
+IX, ch 10 S77c-578a,c • ' 
+
+17 Plotinus: Third Ennead, tr Irin, ch 8 132d- 
+133c / Fifth Ennead, tr in, ck 5, 218b; tr v, 
+CH 1-2 228b-229d; tr vi, ch 6 237b-d 
+
+18 Augustine: Confessions, bk hi, par 10 15b-d; 
+BK V, par 5 28b-c; bk vii, par 16-23 48c-50c / 
+City of God, bk-xi, ch 10, 328c-d / Christian 
+Doctrine, bk 1, cH 34 G34b-c 
+
+19 Aquinas; Summa Theologica, part i, q 3, 
+A 4, REP 2 I6d-17c; Q 14, A 9, REP I 83b-d; 
+Q 16 94b-100d; q 17, a i lOOd-lOld; a 4, rep 
+1-2 103c-104b; Q 18, A 4, rep 3 107d-108c; 
+
+44, -A I, ANS 238b-239a; q 79, a 9, rep 3 
+422b-423d; q 119, a i, ans 604c-607b; part 
+i-n, Q 3, A 7, ANS 628a-d: q 22, a 2, ans 721c- 
+722c; Q 29, A 5,fANsr747c-748b 
+
+21 Dante: Divine Comedy, paradise, iv [124- 
+126] H2a; XXXIII [49-54] 156d ' 
+
+31 Descartes: Discourse, part iv Slb-S4b / 
+' Objections and Replies, 124c-125b; aIciom x 
+132b; 226d; 229c-d‘ 
+
+31 Spinoza; Ethics, part i, axiom 6 355d; part 
+ir, prop 10, scHOL 376d-377a: prop 20-21 
+382d-383a; prop 32 38Sc; prop 43 388c-389b; 
+prop 44,'cOROL 2 and demonst 390a 
+
+3S Locke; Human Understanding, bk rv, ch v, 
+
+' SECT 8 330d ‘ 
+
+HO TOE GREAT IDEAS 4 a /o 5 
+
+, , / Interpretatiotiy xh 3 [ 16 ^ 1 ^- 26 ] 25d-26a / 
+
+(4, Being and truth.) 'Prior Analytics, bk ii, ch 2 [53'>it-26] 72d-73a 
+
+42 Kant: Pure Reason, 36a-37b; 91d-93b; 102c- 
+103a 
+
+46 Hegel: Philosophy of Right, intro, par 23 
+17d; PART III, par 280 94d-9Sa / Philosophy of 
+History, intro, 156d-157b; parti, 237d-238a 
+
+S3 James: Psychology, ’Wa-'b; 636a; 852a 
+
+4a. Being as the pervasive object of mind, and 
+the formal object of the first philosophy, 
+metaphysics, or dialectic 
+
+i 7 Plato: Phaednis, 12Sa-b / Republic, bk v, 
+368c-373c; bk vi-vii, 383d-398c / Parmenides, 
+486a-491c esp 489a-c; 507c-S09a / Theaetetus, 
+S35b-536a / Sophist, 561d-S74c esp 571a-c / 
+Phtlebus, 633a-63Sa esp 634b-63Sa / Seventh 
+Letter, 809c-810d 
+
+8 Aristotle: Topics, bk vi, ch 12 [i49’’3-23) 
+203d-204a / Metaphysics, bk i, ch 9 [992*’i8- 
+993*io] 511a-c; bk ii, ch i [993‘’i9-3i] 512a-b; 
+bk IV 522a-532d; bk vi, ch i-bk vii, ch i 
+547b,d-S51a; bk xi, ch 3-6 S89a-S92b 
+
+17 Plotinus: First Ennead, tr hi 10a-12b / Fifth 
+Ennead, tr i, ch 4 209d-210c; tr v, ch 1-2 
+228b-229d; tr ix, ch ii 2S0c-2Sla 
+
+19 Aquinas: Summa Theologica, part 1, q i, a i, 
+REP 1-2 3b-4a; q 3, a 4, rep i 16d-17c; q 5, 
+A 2 24b-2Sa; Q II, A 2, REP 4 47d-48d; q 14, 
+A 9, REP I 83b-d; q 16, aa 3-4 96b-97c; q 79, 
+A 7, ANS 420d-421c; a 9, rep 3 422b-423d; 
+Q 82, A 4, REP I 434c-435c; q 87, a 3, rep i 
+467b-468a; part i-ii, q 3, a 7, ans 628a'd; 
+Q 9, A I, ANS and rep 3 657d-6S8d; Q 10, a i, 
+REP 3 662d-663d 
+
+20 Aquinas : Summa Theologica, part i-ii, q 94, 
+A 2, ANS 221d-223a 
+
+23 Hobbes: Leviathan, part iv, 269b-270c 
+
+30 Bacon: Advancement of 'Learning, 40a-48d esp 
+40a-41b, 43a-c, 43d-4Sa 
+
+31 Descartes: Discourse, part iv, 53b-d / 
+Objections and Replies, 261a 
+
+31 Spinoza: Ethics, part ii, prop 44, corol 2 
+and DEMONST 390a 
+
+, 35 Locke: Human Understanding, bk ii, ch vii, 
+SECT 7 132d 
+
+42 Kant: Pure Reason, la-4a,c; 119a-c; 120b 
+[fn i] / Judgement, SSla'5S2c; 603d-607c esp 
+606d-607c 
+
+46 Hegel: Philosophy of Right, prep, 6a-7a; 
+part III, par 360 113d-114a,c / Philosophy of 
+
+, j History, intro, 156d-157b; part i, 234b-c; 
+245d-246c 
+
+4h, Being as the measure of truth in judgments 
+of the mind: clarity and distinctness as 
+criteria of the reality of an idea 
+
+7 Plato: Euthydemiis, 71c-74a esp 72b-c / 
+Cratylus, 85a-89b / Parmenides, 507c-S09a esp 
+508d-509a / Sophist, SS8c-d; S7Sa-S77b 
+
+8 Aristotle: Categories, ch 5 [4°icD’i2] 8 b- 9 a; 
+CH 10 [i2 *’6 -i5 ] 17 d- 18 a; ch 12 [i4'’io-2i] 20 b 
+
+/ Posterior Analytics, bk i, ch 19 [8i’’i7-2^] 
+, lllc-d'/ Physics, bk i, ch i 259a-b / Meta- 
+physics, BK IV, ch 3-8 524b-532d; bk v, ch 7 
+[ioi7''3i-34] 538a; ch 29 [i024*’22-39] 546c- 
+547a; bk vi,“ch 4 550a, c; bk ix, ch 10 577c- 
+57Sa,c; bk xi, ch 4-6 589d-592b - 
+
+19 Aquinas: Summa Theologica, part i, q 3, 
+, a 4, REP 2 16d-17c; Q 14, A 8, rep 3 82c-83b; 
+
+, Q 16, AA 1-2 94b-96b; q 16, a 8-q 17, a i 
+99d-101d; q 21, a 2, ans 125c-d; part i-ii, 
+q 2, A 3, ANS 617b-618a - 
+
+22 Chaucer: Trotlusand Cressida, bkiv, stanza 
+
+154 108b ^ , 
+
+23 Hobbes: Leviathan, part i, 56b 
+
+31 Descartes: Discourse, part iv 51b-S4b / 
+^Meditations, i-iv, 75a-89b; iv-v, 92d-96a; vi, 
+98c-d / Objections and Replies, 108a-115a,c; 
+121b-122c; 124c-125b; 126b-127c; def-iii-iv 
+130b; POSTULATE iv-^ii 131a-c; axiom vi 
+132a; axiom x 132b; PROPrii-iii 132c-133a; 
+237c-238b; 2S7d ' l 
+
+31 Spinoza: Ethics, part ii,t3ef“4 373b; prop 32 
+38Sc; PROP 43 388c-389b f 
+
+35 Locke: Human Understanding, bk i, ch hi, 
+SECT 24-25 120a-d; bk ii, ch viii, sect 1-6 
+133b-134a; ch xiii, sect ii 150d-151b; sect 
+25-26 154a-c; ch xxiii, sect 5 205a-b; sect 
+15 208c-d; SECT 32 212c-d; ch xxxii 243 c- 
+248b passim, esp sect 19 247a-b; bk hi, ch 
+VI, sect 46-47 281d-282b; bk iv, ch v, sect 
+7-9 330b-331a; ch x, sect 7 350d-3Sla; ch 
+X, sect 19-cH XI, sect I 354a-c; ch xi, sect 
+i2 357c-d 
+
+42 Kant: Pure Reason, 36b-c; 85d-88a; 179c- 
+182b / Pref. Metaphysical Elements of Ethics, 
+367d-368a / Judgement, 603d-604b 
+
+53 James: Psychology, 141a-142a; 636a; 638a- 
+641a; 879b-882a esp 881a-b 
+
+5. Being and becoming; the reality of change; 
+the nature of mutable being 
+
+7 Plato: Cratylus, 94c-d; 99b-104b; 113c-114a,c 
+/ Phaedrus, 124c-126c / Symposium, 16Sc-166b; 
+167a-d / Phaedo, 231b-232b; 247b-248c / 
+Republic, bk 11, 322d-323a; bk v, 368c-373c; 
+bk vi-vii, 383d-398cj bk viii, 403a-b / Ti- 
+maeus 442a-477a,c esp 447a-d, 455c-458b / 
+Parmenides aSQa-Slld / Theaetetus, 517d-S34b 
+/ Sophist, 561d-574c / Statesman, 587a-b / 
+Philebus, 610d-617d; 631d-63Sa esp 634b-63Sa 
+/ Laws, BK X, 760a-765c 
+
+8 Aristotle: Physics, bk i;2S9a-268d esp ch 8 
+267a-d; bk ii, ch i 268b,d-270a; bk hi, ch 
+1-3 278a-280c; ch 6 [2o6“i8-‘>i6] 284c-285a; 
+BK IV, ch II [2i9’’23-3i] 299c-d; bk vi, ch 6 
+319c-321a / Heavens, bk i, ch 3 360d-362a; 
+ch 9 [277’’29-278'’9] 369a-d; bk iv, ch 3 
+[3io°22-3n'‘i2] 402b-c; ch 4 [3ii'’29-33]i403c 
+
+X ‘ / Generation and Corruption, bk 1, ch 3 413c- 
+416c; bk 11, ch 9-11 436d-441a,c / Meta- 
+
+5 /o 6 Chapter 
+
+p/iysics, BK 1, CH 3-10 SOlc-Slld passim; bk 
+jr, CH2 S12b'S13b; bk in, ch r [996“2-4] S14c; 
+CH 2 [996“i8-*’26] 514d-515b; ch 4 [iooo'‘5- 
+rooi^a] S18d-S19d; bk iv, ch 5 528c-530c; 
+CH7 [ion'’23-ioi2“9] 531c-S32a; ch 8 [1012’’ 
+22-33] S32d; BK V, CH 4 S34d-535c; bk vxi, 
+CH 7-9 555a-558a; bk ix, ch 3 [io47“io-29] 
+572 b'C;'’cH 6 [io48'’i8-34] S74a-c; ch 8 
+'[r049*’29-i050®3] 57Sc-d; ch ro [i05i*’26-3o] 
+578a; bk x, ch lo 586c-d; bk xi, ch 6 S90d- 
+592b; CH 9 593d-594d; ch u-12 596a-S98a,c; 
+BK XII S98a-606d esp ch 2-3 S98c-S99d, ch 
+6~S601b-60Sa 
+
+9 Aristotle; Generation of Animals, bk v, ch i 
+(778"29-'’7] 320a-d 
+
+10 Galen: Natural Faculties, bk i, ch 2 167 b- 
+168 c; CH 5 169 b-c; bk ii, ch 3, 186 d 
+
+11 Nicomachus; Arithmetic, bk i, 811 b-d 
+
+12 Lucretids ; of Things, bk i (146-328] 
+
+2d-Sa; BK H [294-307] 18d-19a; [749-754] 
+24c; [1002-1022] 27d-28a 
+
+12 Aurelius; Meditations, bk 11, sect 17, 259c- 
+d; bk iv, sect 36 266d; sect 42-43 267b; 
+sect 46 267c; BK V, SECT 23 272b; bk vi, sect 
+15 275a-b; bk vii, sect 18 281a; sect 49-50 
+282d-2S3a; bk vhi, sect 6 285d-2S6a; bk ix, 
+sect 19 293b; sect 35-36 294d-29Sa; bk x, 
+sect 7 297b'C 
+
+16 Kepler: Harmonies of the World, 1051b 
+
+17 Plotinus : Second Ennead, tr i, ch 3-4 36b- 
+37b; TR IV, ch 6 51d'S2a; tr v S7d-60c passim 
+/ Third Ennead, tr ii, ch 1-2 82c-83d; tr vi, 
+CH 7-19 I10d-119a / Fifth Ennead, tr vin, ch 
+12-13 245c-246c / Sixth Ennead, tr i, ch 17-22 
+261c-264c; CH 25-30 265b-268c; tr hi 281a- 
+297b esp ck 1-8 281a-2SSd, ch 21-27 293a- 
+297a; tr v, ch 2 306a-b 
+
+18 Augustine: Confessions, bk hi, par 10 I5b-d; 
+bk IV, par 15-19 23a-24b; bk vii, par 1-7 
+43b-45d; par 16-23 48c-S0c; bk xi, par 6 
+90c-d; BK XII, par 3-6 g9d-100c esp par 6, 
+100c; par 8, 101b; par 15 102b-c; par 24-26 
+104c-105b; par 28 lOSc-d; bk xhi, par 48 I24a 
+/ Christian Doctrine, bk 1, ch 9 627a; bk ii, ch 
+38 654b-c 
+
+19 Aquinas: Summa Theologica, part i, q 2, a 3, 
+ANs 12 c- 14 a; Q 4, a i, rep i 20 d- 21 b; Q g, a i, 
+ANs 38 c- 39 c; Q 10, A 4, rep 3 43 b- 44 b; a 5, 
+ANS 44b-45c; q 26, a i, rep 2 150 b-c; q 29, 
+A I, REP 4 162 a-I 63 b; Q 65, a 4 342 b- 343 c; 
+Q 86, A 3 463 b-d; part i-ii, q 10, a i, rep 2 
+662 d- 663 d 
+
+20 Aquinas; Summa Theologica, part i-ii, Q 
+Ho, A 2, REP 3 349 a-d; part hi, Q 62, a 4, 
+Rep 2 861 a- 862 a; part hi suppl, Q 91, a 3, 
+REP 2 1020 d- 1022 c 
+
+22 Chaucer: Kr!ig/it’sTa/e[2g8y-3O4o]209a-210a 
+
+25 Montaigne ; Essays, 292 a- 294 b , 
+
+"SI Descartes: Discourse, part iv, S2d / Objec- 
+tions and Replies, 212 a 
+
+31 Spinoza: Ethics, part i, def 2 3 S 5 a; part ii, 
+PROP 31 38Sb-c 
+
+BEING 141 
+
+35 Locke: Human Understanding, bk hi, ch iv, 
+SECT 8 260d-261a 
+
+35 Berkeley: Human Knowledge, sect 89 430b- 
+c; sect 102 432d-433a; sect 141 441a-b 
+42 Kant; Fure Reason, ISa-b; 27a-33d esp 27a, 
+28b-c, 31d-32a; 43a-b; 74b-76c; 82a-83b; 
+91d-93c; 95a-d; 138b'139b [th’esis]; 141b,d- 
+14Sc; 300c-204c ' 
+
+46 Hegel: Philosophy of History, intro, ’178a- 
+179d; 186d-190b 
+
+51 Tolstoy: War and Peace, bk xiv, 608a-b 
+S3 James : Psychology, 882a-884b passim 
+
+6. The cause of existence 
+Old Testament: Genesis, 1-2; 7:1-5 / Nehemiah, 
+9:6— (Z)) // Esdras, 9:6 / Job, 26:7; 38:1-42:2 
+/ Psalms, 8 esp 8:3-6; 19:1; 89:11-12; 102:25; 
+136:5-9— (D) Psalms, 8 esp 8:4-6; 18:2; 
+88:12-13; 101:26; 135:5-9 / Jeremiah, 31:35—-, 
+(ZJ) Jeremias, 31 .‘35 / Amos, 5 :8 
+Apocrypha: Ecclesiasticus, 18:1— (Z 3 ) OT, Eccle- 
+siasticus, 18 ;i 
+
+New Testament: Acts, 14:15; 17:22-32— (Zl) 
+Acts, 14:14; 17:22-32 / Ramans, 11:36 / 
+Colossians, 1:16-17 / Hebrews, i:io / Revela- 
+tion, 4:11 — (p) Apocalypse, 4:11 
+
+7 Plato: Timaeus, 447b-448a / Laws, bk x, 
+760a-76Sd esp 763d-764a 
+
+8 Aristotle: Posterior Analytics, bk ii, ch"i-2 
+122b,d-123c; ch 7 [92'’i8-25] 126d; ch 8-12 
+127a-131b/ Metaphysics, bk i, CH7 [988*’5-i6] 
+506c-d; CH 9 [g9i'’i-9] S09c-d; ch to 511c-d; 
+BK II, CH I l993'^27-3i] 512a'b; bk v, ch 8 
+[iot7*’io-i7] S38b; bk vii, ch 17 565a-566a,c; 
+BK XH, CH 6-7 60Ib-603b / Soul, bk ir, ch 4 
+[4i5'’ii-i4] 645 d 
+
+9 Aristotle: Parts of Animals, bk i, ch i 
+
+(640»4-9] 162 b ■ '' 
+
+12 Epictetus: Discourses, bk t, ch 14, 120 d- 
+121a 
+
+18 Augustine : Confessions, bk i, par 10 3b-c / 
+Christian Doctrine, bk 1, ch 32 633c-d 
+
+19 Aquinas: Summa Theologica, part i, q 2, 
+A 3, ANS 12c-14a; q 3, a 4, ans 16d-17c; a 5, 
+rep 2 I7c-18b: Q 5, A 2, REP 1-2 24b-25a: q 8, 
+A I 34d-35c; a 2, ans 3Sc-36b; a 3, ans and 
+REP I 36b-37c; a 4, ans 37c-38c; q 9, a 2, 
+ans 39c-40d; q 14, a 8 82c-83b; qq 44-46 
+238a-255d; q 57, a 2, ans and rep 2 295d- 
+297a; q 6r, a i 314d-31Sb; q’ 65 339a-343c; 
+Q 75, A 6, REP 2 383c-384c; q 104 S34c-S38c; 
+Q 105, A 3, ANS S40c-541b; a 5, ans 542a- 
+543b; PART i-H, Q 18, A 4, ANS 696b-d 
+
+28 Harvey: On Animal Generation, 443b-c 
+31 Descartes: Discourse, part v, SSd-S6a / 
+Meditations, in, 87c-d / Objections and Re- 
+plies, AXIOM IX 132b; 213b-d 
+31 Spinoza; Ethics, part i, def i 3SSa; prop 17, 
+SCHOL 362c-363c; prop 24-29 36Sa-366c; 
+prop 33 367b-369a; part n, prop 6-7 374d- 
+37Sc; PROP 10, SCHOL 376d-377a; prop 45, 
+SCHOL 390b 
+
+THE GREAT IDEAS 7 to U 
+
+(6. The cause of existence.') 
+
+. 32 Milton: Paradise Lost, bk hi [80-134] 137a- 
+138a; bk vii 217a-231a esp [162-169] 220b, 
+1 [601-^40] 230a-231a 
+
+35 Locke: Human Understanding, bk ii, ch xv, 
+SECT 12 165b-c; ch xxvi’ sect 1-2, 217a-c 
+35 Berkeley: Human Knowledge, sect 2-4 
+413b-414a; sect ?5-33 4I7d-419a: sect 36 
+419c-d; SECT 45-46 421b-c; sect 48 422a; 
+SECT 88-91 430a-431a; sect 146-150 442a- 
+443b - " 
+
+35 Home: Human Understanding, sect viii, piv 
+74, 484a ' ' 
+
+42 Kant: Pure Reason, 140b.d-145c; 177b-179b 
+/, Practical Reason, 334b-337a,c 
+46 Hegel: Philosophy of History, part 1, 245d- 
+246c ' 
+
+7. The divisions or modes of being 
+
+Ta. The distinction between essence and exist- 
+ence: existence as the act of being 
+Old Testament: Exodus, 3:14 
+8 Atlistotle: Metaphysics, bkix, ch 3 [1047 “30- 
+'>2]S72c ' , , . 
+
+17 Plotinus : Third Ennead, tr vii, ch 6 122a-d 
+/ Pifth Ennead, tr v, ch 13, 234d‘235a 
+
+18 Augustine: City of God, bN xi, ch 10, 328c-d 
+
+19 Aquinas: Summa Theologica, part 1,'^q 3, 
+A 4 16d-17c; a 5, ANs and rep i 17c-18b; a 6, 
+ANS 18c-19a; a 7, ans and rep i 19a-c; Q 4, 
+A i, rep 3 20d-21b; a 2, ans and rep 3 21b- 
+
+, 22b; a 3, REP 3 22b-23b; q 6, a 3 •29c-30b; 
+
+Q 7, A I, ANS and REP 3 31a-d; a 2, ans and 
+REP I 31d-32c; q 8, a i, ans 34d-3Sc; q 9, a 2, 
+ANS 39c-40d; Q 10, a 2, ans 41d-42c; q ii, a 4, 
+ANS 49d-50b; q 12, a 2, ans and rep 3 
+(Slc-52c; A 4, ans and rep 3 53b-S4c; q 13, 
+A II, ANS 73c-74b; q 25, a i, rep 2 143d-144c; 
+Q 29, A i, REP 4 162a-163b; q 34, a i, rep 2 
+185b-187b; q 39 , a 2, rep 3 203b-204c; q 44, 
+A I 238b-239a; 0,50, a 2, rep 3 270a-272a; 
+Q 54, A I, ANS and REP 2‘285a-d; a 2, rep 2 
+285d-286c; a 3, ans and rep -2 286c-287b; 
+Q175, A 5, REP 4 382a-383b; q 88, a 2, rep 4 
+471c-472c; part i-ii, q 3, a 7, ans 628a-d 
+31 Descartes: Discourse, part iv, 52d-S3a / 
+' Meditations, v 93a-96a / Objections and Re- 
+plies,110a-112a; 112d-113b; 126b-127c; postu- 
+late V ISlb-c; AXIOM 1 131d; axiom x-prop i 
+132b-c; 158b-162a passim; 217d-218a 
+31 Spinoza: Ethics, part i, def 8 355c; axiom 
+7 355d; prop 7 3S6c; prop 8, schol 2 3S6d- 
+357d; PROP ii 358b-359b; prop 17, schol, 
+363 b-c; prop 20 363d-364a; prop 24-25 3653- 
+b; PROP 34 369a; part ii, def 2 373b; axiom i 
+373c; PART III, prop 7 399a; part iv, def 3 
+424a 
+
+35 Locke: Human Understanding,' ek hi, ch v, 
+SECT 1-6 263d-265a; bk iv, ch ix, sect r 349a 
+42 Kant: Pure Reason, 179c-182b; 191d-192b 
+
+46 Hegel: Philosophy of Right, parthi, par 280 
+94d-95a / Philosophy of History, intro, 165a- 
+b; 178c-d; PART i, 233d-234b 
+
+53 Psychology, 640b [fn i];644b 
+
+Tb. The distinction between substance and 
+attribute, accident or modification: inde- 
+pendent and dependent being 
+
+8 Aristotle: Categoiies, ch 2 [i“2o-'’9] Sb-c; 
+
+' ' ' Ch 5 6a-9a; ch 7 [8“i2-’’24] 13a-d / Topics, 
+
+Rk V, ch 4 [i33'’i5-i34'‘4] 184d-185b / Sophis- 
+tical Refutations, ch 7 [i69'*33-36] 233a; ch 22 
+[i78’’37-i79“io] 246c / Physics, bk 1, ch 2 
+[i85“2o]-ch3 [i87“io] 25Qa-262a/ Metaphysics, 
+Rk i, ch 9 [99o^2-99i“2] 509a; [992*’i8-24] 
+Slla; BK IV, ch 4 [ioo7“2o-'’i8] 526c-527a; 
+Rk V, CH 7 [ioi7“23-3i] 537d-538a; ch ii 
+[ ioi9“i-i4] S40a; bk vh, ch 3 [io29“7-26] 
+SSlc-d; CH 4-6 5S2b-555a; bk viii, ch 3 
+Jio43*’i8-24J S68a-b; ch 4 Jio44^8-7oj 569b; 
+Rk ix, ch I [io45’’28-32] 570b; ch 7 [io49“i9- 
+’'i] S74d-57Sa; bk x, ch 2 S80b-d; bk xii, ch 
+7 [1069*18-25] 598a; ch 4-5 599d-601a; ch 7 
+[iQ72’’4-i3] 602c-d 
+
+9 Aristotle: Parts of Animals, bk h, ch 2 
+[648*’35]-ch 3 [649’’22] 173b-174b 
+
+12 Aurelius: Meditations, bk xii, sect 30, 
+3l0a 
+
+17 Peotinus : Fourth Ennead, tr viii, ch 6 203d- 
+204b / Sixth Ennead, tr i, ch 3 253a-b; ch 5, 
+254c-d; ch 15 260c-d; ch 25 265b-d; tr h, 
+Oh 14-15 276c‘277b; tr hi, ch 3 282a-c; ch 6 
+284a-c; ch 8, 285b-c 
+
+19 Aquinas : Summa Theologica, part i, q 3, a 6 
+l8c-19a; q 6, a 3, ans 29c-30b; q 7, a 2, ans 
+3ld-32c; q 9, a 2 39c-40d; q ii, a r, rep i- 2 
+46d-47d; a 2, rep i 47d-48d; a 4, rep 2 
+49d-50b; Q 29, a i, ans and rep 3 162a-163b: 
+
+39, A 3, ans 204c-205c; q 40, A i, rep i 
+2l3b-214b; a 2, rep 4 214b-215b; q 44, A 2, 
+Ans and rep i 239b-240a; q 45, A4 244d-245c: 
+h 54, A I 285a-d; a 3 286c-287b; Q 67, A 3 
+351b-352a; q 76, a 4 393a-394c; a 6 396a-d; 
+tj 77, A I 399c-401b; a 6 404c-405c; q 85, A 5, 
+Rep 3 457d-458d; q 90, a 2, ans 481d-482c; 
+<4 115, A I, ANS and rep 5 585d-587c; parti-ii, 
+<4 7, A I, ANS and REP 2-3 651d-652c; a 4, 
+Rep, 3 654b-655a; q 17, a 4, ans 688d-689c; 
+
+- <4 18, A 3, REP 3 695d-696b; q 29, a 2, rep i 
+745c-746b 
+
+20 Aquinas : Summa Theologica, part i-ii, Q 49> 
+A 2, ANS and REP 3 2b-4a; q 50, A 2 7c-8a; Q 
+52, a I, ANS 15d-18a; q 53, a 2, rep 3 21a-d; 
+
+66, A 4, ANS 78c'79b; part ii-ii, q 23, a 3, 
+Rep 3 48Sa-d; part hi, q 2, a ans 710a- 
+7llc; PART HI SUPPL, Q 70, A I, ANS 893d- 
+395d; Q 79, A i, REP 4 951b-953b; q 83, A3, 
+Ans 978c-980d 
+
+30 3acon: Mowotj Organum, bk i, aph 66, 114d- 
+Il5a 
+
+31 Descartes: Discourse, part i, 41d; part iv, 
+S2d / Meditations, iii 81d-89a passim, esp 
+
+7^'(1) to 7 l>( 2 ) Chapter 
+
+87b-88c / Objections and Replies, def v 130b-c; 
+DBF IX laod; 135b-136b; 136c; 139b-c; 153d; 
+162d-165d; 170d; 211b-c; 228c^229c 
+31 Spinoza: Ethics, part i, def 3-5'3SSb; axiom 
+1-2 355c'd; prop i-g 3SSd-3S7d; prop 'io, 
+SCHOL 358a'b; prop 19 363c-d; prop 20, 
+COROL 2 364a; prop 21-23 364a-365a 
+35 Locke; Human Understanding, bk 1, ch hi, 
+SECT 19 117C'd; BK II, CH XII, SECT 3-6 147d- 
+148c; CH xiii, SECT 17-20 I52a-d; ch xxm 
+204a-214b esp sect 1-15 204a-208d;cH xxxii, 
+SECT 24 247c-d; bk hi, ch ix, sect 12-13 
+287d-288d 
+
+35 Berkeley: Human Knowledge, sect 1-7 
+413a-414c; ‘ sect 25-33 417d-419a passim; 
+sect’ 49 422b; sect 73-78 427b-428b; sect 
+88-91 430a-431a; Sect 101-102 432c-433a 
+42 Kant: Puie Reason, 33a-d; 74b-76c; 130b- 
+133c esp 131t-d; 140b,d-143a / Practical 
+Reason, 310d-311d / judgement, 529c-530a; 
+550a-551a,c; 566b-d; 580c-d 
+46 Hegel: Philosophy of Right, additions, 26 
+121a-b; 39 122d / Philosophy of History, intro, 
+160c-161a; part i, 211a-c 
+53 ]/ci.rES\ Psychology, 512a-'b 
+
+7i(l) The conceptions of substance 
+
+8 Aristotle: Categories, ch 5 6a-9a; ch 7 
+[8“i2-'’24l 13a-d / Metaphysics, bk v, ch 8 
+S38b-c; BK vil-viii SS0b,d-S70d; bk x, ch 2 
+S80b-d; bk xii, ch i S98a-c; bk xiii, ch 2 
+' [io77“i4-'’ii] 608b-609a 
+
+12 Aurelius; Meditations, bk vii, sect 23 28Ib 
+17 Plotinus; Sixth Ennead, tr i, ch 2-3 2S2c- 
+2S3b; cH IO 2S7b-258b; ch 25 265b-d; tr hi, 
+CH 2-10 281c-286d 
+
+19 Aquinas: Summa Theologica, part i, q 3, 
+A 5, REP 1-2 17c-18b; A 6 18c-19a; q 11, a 3, 
+ANS 49a-c; q 13, a 9, ans 71b-72c: <3Q 29-43 
+161d-237a,c passim, esp Q 29, a 2 I63b-164b; 
+Q 45, A 4 244d-245c; QQ 75-76 378a-399b 
+passim; q 88, a 2, rep 4 471c-472c; part i-ii, 
+Q 17, a 4, ANS 688d'689c 
+
+20 Aquinas: Summa Theologica, part ir-n, Q 4, 
+A I, ANS and REP I 402a-403d; part hi, qq 1-3 
+701b,d-730b: Q 17 806d-809d passim; part hi 
+suppL, q 83 974d'983b passim 
+
+23 Hobbes; Leviathan, part hi, 172b 
+
+30 Bacon: Hoviim Organum, bk ii, aph 37 168d- 
+169c 
+
+31 Descartes: Objections and Replies, def v- 
+viii ISOb-d; 153c-155c 
+
+31 Spinoza: Ethics, part i, def 3,6 355b; prop 
+1-9 35Sd-357d; prop n-14 3S8b-360a; prop 
+15, SCHOL 360b-361d; prop 19 363c-d; part 
+II, PROP IO 376c-377a 
+
+35 Locke: Human Understanding, bk i, ch hi, 
+sect 19 117c-d; bk 11, ck xii, sect 6 148b-c; 
+CH XIII, SECT 17-20 152a-d; ch xxih 204a- 
+2I4b; ch XXXI, sfct 6-13 240d-243b; ch 
+XXXII, SECT 24 247c-d; bk hi, ch vi, sect 21 
+273c-d; sect 42 280b-c; cH ix, sect 11-17 
+
+: BEING 143 
+
+287d-290a; bk iv, ch vi, sect 4-16 331d-336d 
+passim, esp sect II 334b-335b 
+
+35 Berkeley; Human Knowledge, sect 6-7 
+, ' 414b-c; sect 26-27 418a-b; sect 73 427b-c; 
+
+sect 88-91 430a-431a; sect 135-136 440a-b; 
+‘ ■’ sect 139 440d 
+
+42 Kant: Pure Reason,' ISh-c, 63a; 63d-64a; 
+-69c-72c;74b-76c;81b-83b;86c-87b;9Id-93b; 
+.!. gSa-d; lOOd-lOlb; 121a-128b; 131c-d;-l37a- 
+1' 140c; I62b-163a; 186b-d / Judgement, S65b-d; 
+
+566d-567a' 
+
+46 Hegel: Philosophy of Right, part hi, par 146 
+5Sc-d / Philosophy of History, intro, 156d- 
+157b; part i, 211a-c; 227d-228a ^ 
+
+53 James: Psychology, 221b; 223a 
+
+7b{2) Corporeal and spiritual substances, com- 
+r ^posite and simple substances: the kinds 
+of substance in relation to matter and 
+form , . 
+
+8 Aristotle: Physic's! bk i, ch 7 265b-267a; 
+
+' bk 11, CM'i 268b,d-270a; bk iv, ch 2 288b- 
+289a / Heavens'! bk i, ch 9 
+369a-d; Bk iv, ch 4 [3i2“i2-i7] 403d / Gen- 
+eration and Corruption, bk i, ch '3 413c-416c / 
+Meteorology, bk iv, ch 12 493d-494d / Meta- 
+physics, BK III, Ch i [995‘’i3-i8] 514a; [995*’3i- 
+39] 514b; (996''i3-15) 514c; ch 2 [g97“34- 
+pgS'^ig] 516a-d; ch 4 SlSa-c; ch 
+
+5 520c-521b;^CH 6 [ioo2'’ii-32] 521b-d; bk v, 
+ch 8 538b-c; bk vii-viii 550b,d'570d; bk xi, 
+ch I [i059“33-'’i4] 587b-c; ch 2 rio6o“3-27) 
+388a-b; [io6o’’23-29] •588d-589a; bk xii-xiv 
+598a-626d / Soul, bk ir, ch 1-2 642a-644c 
+
+12 Epictetus: Discoilrses, bk iv, ch 11, 240d- 
+241a 
+
+12 Aurelius: Meditations, bk iv, sect 21 265b- 
+‘ c; bk vii, sect 23 281b; bk viii, sect 11 
+286b; BK XII, sect 30 310a-b 
+
+17 Plotinus: Second Ennead, tr ’rv, ch 2-4 
+50b-51a; CH 6 31d-52a; tr v, ch 2 58b-d / 
+Third Ennead, tr vi, ch 7-19 110d-119a / 
+Fourth Ennead, tr viii, ch 6 203d-204b / 
+Fifth Ennead, tr i, ch 2 208c-209b| tr ix, ch 3 
+247b-d / Sixth Ennead, tr i, cii'zy-zS 266c- 
+267c; tr hi, ch 2-10 281c-286d; tr v, ch 5-8 
+307a-308c ' 
+
+18 Augustine: Confessions, bk vii, par 1-2 43b- 
+44a; par 7 45a-d; par 16 48c-49a: par 20 49d; 
+par 26 51c-d; bk xii, par 5-6 lOOa-c; par 8 
+lOla-b; par 16 102d-103a; par 18-22 103a- 
+104b; par 24-26 •104c-105b; par 28-30 l65c- 
+106c; par 38-40 108d-lNa; bk xiii,' par 48 
+
+’ 124a / City of God,'ZK. xi, ch io 327d-328d 
+
+19 Aquinas; Summa Theologica, part 1^ q 3 
+14a-20c; q 6, a 3, rep i 29c-30b; Q'7, a i, ans 
+3la-d; Q 8, A i, rep 2 34d-35c; a 2 35c-36b; 
+Q 9, A 2, rep 3 39c-40d; q ii, a 4, rep 3 49d- 
+50b; Q 14, A 2, REP 1,3 76d-77d; q i8; a 4, 
+REP 3 107d-108c; q 29, a i, rep 4 162a-163b; 
+a 2, rep 3,5 163b-164b; q 40, a i, rep i 213b- 
+
+I 214b; Q 45, A 4 244d-245c; q 50 269a-27Sa; 
+
+14-1 
+
+(Jh. The distinction between substance and attri- 
+bute, accident ormodification; independent 
+and dependent being, 7i(2) Corporeal and 
+. spiriUtal substances, composite and simple 
+substances: the kinds oj substance in relation 
+to matter and form.) 
+
+Q 70, A 3, REP 2 365b-367a; qq 75-76 378a- 
+399b; Q 77, A ij ANS and rep 2-3,6 399c-401b; 
+Q 85, A 5, REP 3 457d-4S8d; q 86, a 3 463b-d; 
+Q 88, A 2, REP 4 471c-472c; q 104, a i, ans and 
+REP I 534c-S36c; q 115, a i S8Sd-S87c; a 3, 
+REP 2 S88c-S89c , 
+
+20 Aquinas : Summa Theologica, part i-n, q 52, 
+A I, ANS 15d'18a; part ii-ii, q 24, a ii, ans 
+498b-499c; part hi, q 2, a 1, ans and rep 2 
+710a-711c; part hi suppl, q 69, a 1, ans' and 
+REP 2 8S5c-886c; q 79, a 2, rep 2 953b-95Sc; 
+Q 92, A I, ANS 1025c-1032b 
+
+21 Dante: Divine Comedy, paradise, vii [121- 
+
+' 148] 116b c; XXIX [13-36] 150b-c 
+
+23 Hobbes: Leviathan, part hi, 172a-177c; part 
+IV, 2SSb-261a; 269d-271b 
+
+30 Bacon: Advancement of Learning, 17b-d / 
+Novum Organum, bk ii, aph 37 168d-I69c 
+
+31 Descartes: Discourse, part iv, 51d-52a / 
+Meditations, vi g6b-103d / Objections and Re- 
+plies, DBF vi-viii 130c-d; 153c-155c 
+
+31 Spinoza: Ethics, part i, prop 15 360a-361d; 
+PART II, PROP 1-2 373d-374a; prop 6 374d- 
+37Sa; prop 7, schol 37Sb-c 
+35 Locke : Human Understanding, bk h, ch xiii, 
+sect 16-18 lSld'lS2c; CH XV, sect ii 16Sa-b: 
+CH XXI, SECT 2-4 178c-179c; ch xxiii, sect 5 
+20Sa-b; SECT 15-37 208c-214b; ch xxvh,sect 
+2 219b-c; BK HI, CH X, sect 15 29Sa-c; bk iv, 
+CH III, SECT 6 313c-315b; ch x, sect 9-19 
+351b-3S4c passim; ch xvi, sect 12, 370c-371a 
+35 Berkeley; Human Knowledge, sect 1-29 
+413a-418c: sect 35-38 419c-420a; sect 47-50 
+421c-422c; sect 67-81 426b 428d; sect 86-91 
+429c-431a passim; sect 133-142 439c-441c 
+42 Kant: Pure Reason, lOOd-lOlb; 121a-128b; 
+186b-d; 203d-204c / Judgement, 5S7c-S58b; 
+S65b-d; 566d-S67a 
+
+46 Hegel: Philosophy of History, intro, lS6d- 
+157b; 160c-161a; 165a-b; part i, 227d-228a 
+53 James: Psychology, 118b-119b passim; 220b- 
+226a esp 221a-223a 
+
+75(3) Corruptible and incorruptible substances 
+8 Aristotle: Interpretation, ch 13 [23*18-26] 
+35b-c / Heavens, bk i, ch 1-3 359a-362a; ch 9 
+[279'‘i2-*’4J 370b-d; bk i, ch io-bk 11, ch i 
+370d-376a; bk hi, ch 6 396a-c / Metaphysics, 
+BK III, ch 2 [996“2i- 28] S14d; bk iv, ch 5 
+[1009*36-39] 528d; BK V, ch 5 [ioi5‘’9-i6J 
+536a; bk ix, ch 8 [io5o'’5]-ch 9 [1051*21] 
+576b-S77b; bk x, ch 10 586c-d; bk xi, ch 6 
+[1063*10-17] 591b; BK XH, CH I [io 69*30-*’2] 
+S98b-c; CH 2 [io69’’24-27] 598d-S99a; ch 3 
+[1070*20-27] 599c; CH 6-8 601b-605a; ch 10 
+
+75(3) to 75(4) 
+
+[io75'’i3-i4] 606b / Soul, bk ii, ch 2 [4i3'’24- 
+29] 643d-644a i 
+
+9 Aristotle: Motion of Animals, ch 4 [ 6 ggh 2 - 
+700*5] 234d-235a 
+
+12 Lucretius: Nature of Things, bk 1 [215-250] 
+3 d- 4 b; [483-634] 7 a- 8 d 
+
+16 Ptolemy: Almagest, bk i, Sa-6a; bk xiii, 
+429a-b 
+
+16 Kepler; Epitome, bk iv, 929b-930b 
+
+17 Plotinus: Second Ennead, tr i, ch 1-4 3Sa- 
+37b; ch 8 39c-d; tr iv, ch 6 51d-S2a / Pourth 
+Ennead, tr vii, ch 10-12 198d-200a 
+
+19 Aquinas; Summa Theologica, part i, q 9, a 2 
+39c-40d; Q 10, A 2, REP 1-2 41d-42c; a 3, ans 
+and REP I 42c-43b; aa 5-6 44b-46d; qi8, a 3, 
+REP 3 106b-107c; q 22, a 2, ans 128d-I30d; 
+Q 46, A I, rep 2-3 250a'252d; q 48, a 2, ans 
+and REP 3 260c-261b; q ^o, a § 274b-27Sa; 
+Q 63, A 1, REP 2 32Sc-326ct Q 66, A 2 345d- 
+347b; Q 68, A i, ans 3S4a-35Sc; q 75, a 6 
+383c-384c; q 76, a 3, rep 1-2 391a-393a; q 97, 
+A 1 5l3c-514c; A 4 515d-S16d; g 104, a i, rep 
+1,3 534c-S36c; q 113, a 2, ans S76d-577d; 
+PART I-H, Q 22, A I, REP 3 720d-721c ' 
+
+20 Aquinas : Summa Theologica, part i-ii, q 49, 
+A 4, ans 5a-6a; q 85, a 6 182d-184a; part 
+ii-ii, q 24, A II, ANS 498b-499c; part hi 
+SUPPL, Q 91, A 1 1016b-1017c; AA 4-5 1022d- 
+1025b 
+
+21 Dante: D/ww Comedy, paradise, vii [64-84] 
+H5d-116a ; [121-148] 116b'C ; xiii [52-87]126a-b 
+
+31 Descartes: Objections and Replies, 127c'd 
+
+31 Spinoza; Ethics, part i, prop 6-8 356b-357d; 
+PROP 12-13 3S9i3'd; PROP 15, schol, 36Id 
+
+32 Milton: Paradise Lost, bk i [116-156] 96a- 
+
+97a; bk ii [94-105] 113a-b; bk vi [320-347] 
+203a-b; [430-436] 205b f i-' 
+
+33 Pascal: Vacuum, 358a 
+
+34 Newton; Optics, bk hi, 541b t 
+
+35 Locke; Human Understanding, bk hi, ch hi, 
+SECT 19, 259c 
+
+35 Berkeley: Human Knowledge, sect 141 
+441a-b 
+
+42 Kant: Pure Reason, 121a-128b; 203d-204c / 
+Practical Reason, 348d-349a ! 
+
+53 James: Psychology, 221b-222b; 224a-b 
+
+75(4) Extension and thought as dependent 
+substances or as attributes of infinite sub- 
+stance 
+
+31 Descartes: Discourse, part iv, 51d-52a / 
+Meditations, vi 96b-103d /, Objections and 
+Replies, def vi-vih ISOc-d; prop iv 133c; 
+135d-136b: 152d-155d esp 153c-155c; 224d- 
+225d; 231a-232d; 248b , 
+
+31 Spinoza: Ethics, part i, prop 14, corol 2 
+360a; part 11, def i-2 373a-b; prop 1-2 373d- 
+374a; prop 5-6 374c-37Sa; prop 7, schol 
+375b-c 
+
+35 Locke: Human Understanding, bk ii, ch xih, 
+SECTi8l52a-c 
+
+42 Kant: Judgement, 580c-d 
+
+7b{5)to7i{6) "Chapier 
+
+7b{5) Substance 'as subject to change and to 
+diflferent kinds of change: the role of 
+accidents or modifications 
+8 Aristotle: Categories, ch 5 [ 4 ''io-*’i 9 ] 8 b- 9 a 
+/ Physics, BKi I, CH, 6 -bk ji, ch i '264c-270a; 
+BK III, CH 1-3 278a-280c; bk v-viir304a-3S5d 
+, / Generation and Corruption, bk r, ch 1-5 
+I 409a-420b; bk ii, ch 9-10 436d'439c / Meta- 
+physics, BK I, ch 3 [ 983 '’ 7 - 984 *> 8 ] 501d-S02c; 
+BK III, ch 4 [ 999 '' 24 -'’ 24 ] 518a-c; bk vii, ch 7-9 
+i555a-S58a; bk viir, ch i [io 42 ® 24 -*’ 7 ]S 66 b-d; 
+CH 3 [ 1043 ^ 15 - 23 ] S 68 a-b; ch 4-5 568d-569d; 
+„BK IX, ch 1 570b,d-571b; ch 3 S72a-c; ch 6-7 
+573c-57Sa; bk xi, ch 9 593d-S94d; ch ii 
+596a-d: CH 12 [io 68 ® 7 -*’ 26 ] S96d-S97d; bk 
+, XII, CH 1-5 598a-601a / Soul, bk ii, ch 4 
+[4i6’'8-i7] 646d-647a 
+
+10 Galen: Natural Faculties, bk i, ch 2 167b- 
+168c; CH 5 169b-c; bk h, ch 4 , 187a-b; bk hi, 
+CH 7 203b-20Sa; ch 15 , 214d-21Sd 
+17 Plotinus: Second Ennead, tr i, ch 3-4 36b- 
+37b; TR IV, CH 6 Sld-S2a; tr vi, ch 1-2 60c- 
+62b / Third Ennead, tr vi, ch 7-19 llOd- 
+119a 
+
+19 Aquinas : Sumrna Theologica, part i, q 3, 
+A 6 , ans 18c-19a; q 9 , a 2 39c-40d: q 41 , a 3 
+219d-221c; A 5 222b-223b; Q 44 , a 2 239b- 
+
+' 240a; "'q 45 , A A 1-5 242a-247a passim; a 8 
+
+249b-2S0a; Q 50 , a 5 274b-27Sa; q 53 280d- 
+284d; 0 ^ 65 , A 4 342b-343c; <3 66, aa 1-2 343d- 
+347b; q 67 , a 3 , ans and rep i ■351b-352a; 
+Q 73 , A 3 371d-372c; q 75 , a 6 383c-384c; 
+Q 76 , A 4 393a-394c; q 78 , a 2 , ans and rep 4 
+409a-410a; q go, a 2, ans and rep 2 481d-482c; 
+Q 92 , A 3 , REP I 490c-491b; Q 98 , a i S16d- 
+- 517d; Q 104 534c-S38c; q 105 , Aa 1-2 S38d- 
+S40c; A 5 , ANS 542a-S43b; q 115 , aa 1-3 585d- 
+589c; A 6 , ans S91d-592d; q 118 , a i 600a- 
+601c; Q 119 604c-608d; part i-ii, q 22 , a 1 
+720d-721c 
+
+20 Aquinas; Srimwa Theologica, part i-ii, q 51 , 
+A 2 , ans and rep 1-2 13c-14b; q 52 , aa 1-2 
+15d-19a; Q 53 , A I, REP 1 19d-21a; a 2 , rep 1-3 
+21a-d; q 110 , a 2 , rep 3 349a-d; part hi 
+SUPPL, Q 75 , A 3 , ANS 938a-939d; q 80 , a 4 
+9S9c-963a: Q 82 , aa 1-2 968a-971a; q 83 , a i 
+974d-976b; a 5 , ans 981b-982c: q 84 983c- 
+989b; Q 86 , aa 2-3 993c-996a,c 
+
+30 Bacon: Novum Orgamim, bk i, aph 66, 
+llSa-b, 
+
+31 Descartes: Objections and Replies, 162d' 
+165d 
+
+31 Spinoza; Ethics, part i, prop 6 356 b-c; prop 
+12-13 3S9b-d; prop 23 364d-365a; prop 28 
+365c-366a; part ii, prop 13 377d-378c 
+35 Locke: Human Understanding, bk ii, ch 
+sect II 203c-d; ch xxvi, sect 1-2 217a-d; 
+BK III, ch VI, SECT 42 280b-c 
+42 Kant; Pure Reason, 74b-76c; 82a-83b; 86 c- 
+87b; 141b,d-143a passim 
+46 Hegel; Philosophy of History, intro, 156d- 
+357b; 178c-d 
+
+BEING 145 
+
+7A(6) The nature and kinds of accidents or 
+modifications 
+
+8 Aristotle; Categories;' ch 2 [i“2o-*’9] 5b-c; 
+
+CH 4 5d-6a; ch 5 [2''27-'’6] 6b-c; [3“6-2i] 7b; 
+<■ ch 6-9 9a-16d / Prior Analytics, bk 1 , ch 13 
+[32*’4-i4] 48b-c / Posterior Analytics, bk i, ch 4 
+
+' t73''33-*’i6] lOOb-d / Topics, bk i, ch 9 147a-b 
+/ Physics, BK 1, CH 2 [185*20-186^4] 260a-d; ch 
+4 [188*5-13] 263b; BK II, CH i [i92*’35-39] 
+269a: bk IV, ch 3 [2io*’i-8] 289b-c; bk vii, ch 
+3 329a'330d / Metaphysics, bk v, ch 6 [1015*’ 
+16-34] 536a-b; ch 7 [1017*23-30] 537d-538a; 
+CH 9 [ioi7*’27-ioi8“3] 538c; ch 30 547a-d; 
+BK VII, ch I [ 1028*10-18] 550b; CH 4-6 5S2b- 
+
+" 55Sa; bk VIII, CH 4 [io 44’'8-2 o] 569b; bk x, 
+CH 9 586a-c; bk xn, ch i [ 1069*18-25] 598a / 
+Sense and the Sensible, ch 6 [445’’4-446“2o] 
+683b-684c ‘ 
+
+12 Lucretius; Nature of Things, bk 1 [449-482] 
+6c-7a 
+
+17 Plotinus : Second Ennead, tr vr 60c-62d / 
+Sixth Ennead, tr i, ch 4-24 253b-265b; ch 30 
+268b-c 
+
+19 Aquinas: Summa Theologica, part i, q 3, 
+A 6 18c-19a; q 8 , a 2 , rep 3 35c-36b; q 9, a 2 , 
+ans 39c-40d; q 28 , a 2 158d-160a; q 29 , a 2, 
+ANS and REP 4-5 163b-364b; q 44 , a 2, 
+ANS 239b-240a: q 45 , a 4 , ans 244d-245c; 
+Q 54, A I 285a-d; a 3 286c-287b; q 66, 
+a'i, rep 3 343d-345c; q 67, a 3 351b-352a; 
+<3 76, A 6 396a-d; a 8 , ans 397d-399b; 
+Q77399b-407a passim; q 101 , a i, rep i 522c- 
+523a; q loB, a 5 , ans 55Sd-S58b; Q 115 , a i, 
+ANS and REP 3,5 585d-S87c; a 6, ans 591d- 
+592d; Q 116, A I, ANS 592d-593d: part i-ii, 
+Q 2, A 6, ANS 619d-620d; q 7 651d-6SSa 
+passim; q 17, a 4 , ans 688d-689c: q 18, Oi 3 
+695d-696b; Q 35, a 4, ans and rep 2 774d- 
+775d 
+
+20 Aquinas: Summa Theologica, part i-ii, qq 
+49-54 la-25d passim, esp q 49 , aa 1-2 Ib- 
+4a; Q 56, A I, REP 1,3 30a-c; part ii-ii, q 23, 
+A 3, REP 3 485a-d; q 24, a 5 , ans and rep i 
+492b-493d; part hi, q 2 , a 6 716b-718b; 
+PART III SUPPL, Q 70, A I, ANS 893d-895d; 
+Q 79, A I, REP 4 951b-9S3b; q 83, A'3 978c- 
+980d 
+
+23 Hobbes: Leviathan, part i, 57a-b: 59c-d 
+
+30 Bacon: Novum Organum, bk i, aph 66, 114d- 
+115a 
+
+31 Descartes: Discourse, part i, 41d / Objec- 
+tions and Replies, 13Sb-136b; 136c;162d-16Sd; 
+228c-229c 
+
+31 Spinoza; Ethics, part i, def 4-5 355b; prop 
+10 3S8a-b; PROP 19, DEMONST 363c-d; prop 
+20, COROL 2 364a; prop 21-23 364a-365a 
+
+35 Locke: Human Understanding, bk 11 , ch viii 
+133b-138b esp sect 8-10 134b-d; ch xii, 
+SECT 3-6 147d-148c: CH xiii, sect 17-20 
+152a-d; ch xxi, sect 3 178d; sect 75 200b- 
+d; CH XXIII, sect 7-10 205d-206d; sect 37 
+213d-214b; ch xxx, sect 2 238b-c; ch xxxi, 
+
+(Jh. The distinction between substance and attri- 
+bute, accident or modification: indcpetident 
+and dependent being. lb(6) The nature 
+attd kinds oj accidents or modifications^) 
+SECT 2 239b-d; bk m, ch iv, sect i6 263b-c; 
+CH IX, SECT 13 288a-d 
+
+35 Berkeley: Human , Knowledge, sect 1-15 
+413a-416a; sect 25 4I7d-418a; sect 49 422b; 
+
+, ,SECT 73 427b-c; sect 78 428a-b; sect 102 
+'432d-433a 
+
+35 Hume: Human Understanding, sect xir, mv 
+122 S05c-d .1 
+
+53 '[t.^iT.^-.Psychohgy, S03a-b; 572a-b; 6S0b'651a 
+
+7c. The distinction between potentiality and 
+actuality: possible and actual being 
+
+8 Aristotle: Interpretation, ch 9 [i9''6-‘’4] 29b' 
+d; CH 13 [23“i8-26] 35b-c / Topics, bk v, ch 8 
+[i38'’27-i39“9] igic-d/P/y'Tiw, bk iii, ch 1-3 
+278a-280c; bk iv, ch 9 [2i7“2o-'’26] 297a-c / 
+Heavens, bk iii, ch 2 [3oi*’33-302®9] 393b / 
+Metaphysics, bk iv, ch 5 [ioo9“22-39] S28d; 
+BK V, ch 2 [ioi4“7-9] S34b: [ioi4“i9-25] 
+534b-c; CH 7 [ioi7^35-’’9] 538a-b: ch 12 540b- 
+S41b; BK IX 570b,d-578a,c; bk >xir, ch 2 
+tio69*’i5-34] 598d'599a: ch 5 600b-601a; bk 
+XIII, CH 3 [io78“2i-3iJ 609d; ch 10 [io87''io- 
+25] 619c / Soul, bk II, CH 2 [4I4“i4-28] 644b-c; 
+CH 5 [4I7“2-4i8“61 647c-648d 
+
+17 Plotinus: Second Ennead, tr v S7d'60c / 
+Thirdfinnead, tr vi, ch 8-'I9 nic-119a; tr ix, 
+CH3, 137d-138a / Sixth Ennead, tr i, ch 15-17 
+260c'261d;jCH 25-30 26Sb-268c; tr iii, ch 22, 
+293d-294a; ch 27 296b-297a 
+
+18 Augustine: Christian Doctrine^, bk ii, ch 35, 
+6S3c 
+
+19 Aquinas: Summa Theologica, part i, q 2, 
+A 3, ANS 12c-14a; q 3, a i, ans 14b-15b; a 2, 
+ANS 15c-16a; a 4, ans 16d-17c; a 5, ans 17c- 
+18b; A 6, ANS 18c-19a: a 7, ans 19a-c: A 8, 
+ANS 19d-20c; q 4, a i 20d-21b: a 2, ans 21b- 
+22b; Q 5, A I 23c-24a; a 2, rep 2 24b-25a; 
+A 3, REP 3 25a-d; g 6, a 3, rep i 29c-30b; 
+Q 7, A 2, rep 3 31d-32c; q 9, a i, ANs and 
+REP I 38c-39c; a 2, ans 39c-40d; q ii, a i, 
+REP 2 46d-47d; q 14, a 2 76d-77d; a 3, ans 
+77d-78b; a 4, ans 78b-79a; q 18 , a i^, ans 
+104c-105c; A 3, REP I 106b-107c; a 4, Rep 
+3 107d-108c; q 25, a i, rep r 143d-144c; 
+Q 45, A 5, REP 3 24Sc-247a; q 46, a i, rep 
+I 2S0a-252d; q 54, a i, ans 285a-d; a 3, ans 
+and rep 2 286c-287b; q 75, a i, ans and 
+REP 2 378b-379c; g 86, a 3 463b-d; g 115, 
+A I, ANS and REP 1,4 585d-S87c; part i-ii, 
+q 10, A I, REP 2 662d 663d; g 27, a 3 738c- 
+739c 
+
+31 Descartes: Meditations, in, 86d-87a 
+
+31 Spinoza: Ethics, part iv, def 4 424a 
+
+42 Kant: Pure Reason, 90c-91a / Practical Reason, 
+291a-292a / Judgement, 570c-571c , 
+
+46 Hegel: Philosophy of History, intro, lS6d- 
+157b; 160d-161c; 178a-179d 
+
+7c to Tc{l) 
+
+7c(l) The order of potentiality and actuality 
+
+8’Ar,istotle: Interpretation, ch 13 [23“2i-26] 
+3Sb-c / Physics, bk hi, ch i [201*19-27] 278d / 
+
+) > Heavens, bk iv, ch 3 [3io*’22-3ii'‘i2] 402b c / 
+Metaphysics, bk iii, ch 6 [ioo2*’32-ioo3'‘5] 
+> 52id; BK V, ch ii [1019*1-14] 540a: bk vii, ch 
+
+9 ti034’"i6-i9] S58a;'BK ix, ch 8-9 575b-577c; 
+BK XII, CH 5 [1071*30-36] 601a; ch 6-7 601b- 
+
+' 603b 
+
+17 Plotinus: Second Ennead, tr v 57d-60c / 
+ThtrdEnnead, tr vi, ch 7, llla-b; ch ii, 113b- 
+c; CH 14-15 115b-116c; tr ix, ch 3, 137d-138a 
+/ Sixth Ennead, tr i, ch 15-22 260c-264c 
+
+19 Aquinas: Summa Theologica, parti, q 3, a i, 
+ANs 14b-15b; a 8, ans 19d-20c; g 4, a i, rep 2 
+20d-21b; a 2, ans 21b-22b; g 9, a i, ans 
+38c-39c; g ii, a 2, rep i 47d-48d; g 25, a i, 
+REp 2 143d-144c; g 94, a 3, ans 504a-S0Sa; 
+part i-ii, q 2, a 7, ans 620d-621c; g 3, a 2, 
+ANs 623a'624b; g 9, A i, ans 657d-6S8d; g 22, 
+A 2, REP I 721c-722c 
+
+20 Aquinas ; Summa Theologica, part i-ii, q 50, 
+A a, REP 3 7c-8a; g 71, a 3 107c-108b; partiii, 
+Q 10, A 3, ANS 769d-771b 
+
+21 Dante: Divine Comedy, paradise, i [103-142] 
+107b-d; xin [52-87] 126a-b; xxix [22-36] 150c 
+
+7c(2) Types of potency and degrees of actu- 
+ality 
+
+8 Aristotle: Interpretation, ch 13 [22’’35-23*i7] 
+34d-3Sb / Physics, bk iii, ch 6 [206*18-24] 
+284c; BK IV, CH i [2o8'’8-209*i] 287b-c; bk 
+VII, ch 3 [247'’i- 248“6] 330b-d; bk viii, ch 4 
+[2S5*3o-'>3i] 340a-c / Heavens, bk iv, ch 3 
+[3io*’22-3ii*i2] 402b-c / Metaphysics, bk v, 
+CK 12 540b-541b; bkix, ch 1-9 S70b,d-S77c; 
+BK xii, CH 5 600b-601a / Soul, bk ii, ch i 
+[ 412*6-12] 642a; [412*22-28] 642b; bk ih, ch 
+4-5 661b-662d / Sense and the Sensible, ch 4 
+[44i'’i 6-24] 679b 
+
+9 Aristotle: Ethics, bk ii, ch i [iio 3®26-'’24] 
+348d-349b; ch 5 [1106*7-10] 3Slc 
+
+17 Plotinus : Second Ennead, tr v S7d-60c 
+
+18 Augustine: Confessions, bk i , pat 10 3b-c/ 
+Christian Doctiine, bk i, ch 8 626c-627a 
+
+19 Aquinas: Summa Theologica, part i, g 4, 
+A a, ANS 21b-22b; g 5, a i, rep i 23c-24a: g 14, 
+A 2, ANS and REP 2-3 76d-77d: g 18, a 3, ans 
+and REP I 106b-107c; g 25 143c-150a; g 48, 
+A 4, ans 262a-263a; g 50, a 2 270a-272a; Q 52, 
+aa 1-2 278d-280a; g 58, a i 300c-301a; g 63, 
+A I, REP I 325c-326c; g 66, a 2 34Sd-347b; 
+Q 75, A 5 382a-383b; a 6, rep 2 383c-384c; 
+Q 77, A 1 399c-401b; a 3 401d-403a: A 6 404c- 
+405c; g 79, A 2 414d-416a; a 10 423d-424d; 
+Q 87, A 2, ANS 466c-467b; g 92, a 4, rep 3 
+49ib-d; g 104, a 4, rep 2 538a-c; g 105, a 5. 
+ANs 542a-543b; part i-ii, q 3, a 2, ans and 
+RRp I 623a-624b; g 10, a I, rEp 2 662d-663d; 
+Q 22, A I 720d-721c 
+
+20 Aquinas; Summa Theologica, parti-ii, Q 49 / 
+A 3 4b-5a; g 50, a 2 7c-8a; A 6 lla-12a; g 51, 
+
+7c(3) to Id 
+
+A 2 13c-14b: Q 55, A 2, ANS 27a-d; q 71, a 4, 
+REP 3 108b-109a 
+
+3S Locke: Human Understanding, bk ii, ch vii, 
+SECT 8 132cl-I33a; ch xxi, sect 1-4 178b- 
+179c; sect 74, 199d-200b; ch xxih, sect 7 
+205d-206a; sect 28 211b-ci 
+
+7c(3) Potentiality and actuality in relation to 
+matter and form 
+
+8 Aristotle: Physics, bk i, ch 9 [i92“25-33] 
+268c; BK II, CH I [i93''9-’’2i] 269b-270a; bk 
+HI, CH 1-3 278a-280c / Heavens, bk iv, ch 3 
+[3io'’22-3ii'*i2] 402b-c / Generation and Cor- 
+ruption, BK I, CH 3 413c-416c; ch 7 421d-423b; 
+CH 9 42Sd-426c / Metaphysics, bk v, ch 4 
+S 34d-S35c; bk vii, ch 16 [io4o'’5-i6] S64c; 
+BK VIII, CH 6 569d-S70d; bk ix, ch 6-9 573c' 
+577c; bk xi, ch 9 S 93d-594d: bk xii, ch 5 
+600b-601a; bk xiii, ch 3 [io78“2i-3i] 609d / 
+Soul, BK II, CH 1-2 642a-644c 
+
+1? Plotinus: First Ennead, tr vm, ch gS 23s- 
+31c; CH 10 32a'33a; ch 12 33d-34a / Second 
+Ennead, tr iv, ch 6 Sld-52a; tr v S7d'60c/ 
+
+- -Third Ennead, tr vi, ch 7-19 110d-119a; tr 
+IX, CH 3, 137d-138a / Fifth Ennead, tr i, ch 2 
+208c-209b ; TR IX, ch 3 247b-d / Sixth Ennead, 
+TR I, CH 25-30 265b-268c; tr v, ch 5-8 307a' 
+
+. 308c 
+
+18 Augustine: Confessions, bk xii, par 3-6 99d- 
+100c; par 8, 101b; par 9, 101c; par 14-16 
+102b-103a; par 24-26 104c-10Sb; par 28-31 
+105c-107a; par 38-40 108d-U0a 
+
+19 Aquinas : Summa Theologica, part i, q 3, a 2, 
+ANS and REP 3 lSc-16a: a 4, ans 16d-17c; q 4, 
+A r 2dd-2Ib; a 2, ans 21b-22b; Q 7, a i, ans 
+31a-d; a 2, ans and rep 3 31d-32c: Q 14, a 2, 
+REP 3 76d-77d; Q 18, A 3, rep i 106b-107c; 
+Q 25, a I, REP 1 143d' 144c; q 44, a 2, ans and 
+REP 3 23gb'240a; Q 45, a 5, rep 2 245c-247a; 
+Q 50, A 2, REP 3 270a-272a; a 5, ans 274b- 
+27Sa; q 55, a 2, ans 289d-290d; q 62, a 7, 
+REP I 322d-323b; q 66, a 2 345d-347b; Q 75, 
+A 2, ANS 379c-380c; a 5 382a-383b: Q 77, a i, 
+REP 2 399c-401b; q 86, a 3 463b-d; Q 90. 
+A 2, REP 2 48Id-482c; Q 92, a 3, rep i 490 c' 
+491b; Q 104, A I, ans and rep i 534c-536c; 
+Q 105, A I, ANS 538d-539c; part i-h, Q i, 
+A 3, ANS 611b-612a; Q 10, a I, ANS and rep 
+2 662d-663d; q 22, a i, ans and rep i 720d- 
+721c 
+
+20 Aquinas: Summa Theologica, part i-ii, Q 49’ 
+A 4, ANS and REP I Sa-6a; q 85, a 6 182d-184a, 
+part hi, q 2, a I, ANS and rep 2 710a-71Ic, 
+PART HI SUPPL, Q 82, A I, REP 2 968a-970c, 
+Q 92, A I, ANS 1025c-1032b 
+
+21 Dante: Divine Comedy, paradise, i [ 121 - 141 J 
+
+107c-d . , 
+
+28 Harvey: On Animal Generation, 384c-a, 
+
+31 Descartes: Objections and Replies, 212a 
+
+46 Hegel: Philosophy of History, intro, isect- 
+157b 
+
+Id. The distinction between real and ideal 
+being, or between natural being and 
+being in mind 
+
+7 Plato: Parmenides, 489a-b 
+
+8 Aristotle : Prior Analytics^ bk i, ch 36 [48''40- 
+^9] 66d / Metaphysics, bk v, ch 7.[ioi7“3i-34] 
+538a; bk vi, ch 4 550a, c; bk ix, ch 3 [1047“ 
+3o-‘’a] 572c; ch 10 577c-578a,c; bk xii, ch 7 
+[io72'>i8-24] 602d-603a; ch 9 [io74*’35- 
+i075'‘ii] 605c-d / Soul, bk hi, ,ch 4 [429''i3- 
+29] 661b-c; CH 8 [43i’’2o-432^g] 664b-c / 
+Memory and Reminiscence, ch i [45o’’i 2- 
+45i“l4] 691c-692b 
+
+11 Archimedes: Sphere and Cylinder,- "rk- i, 
+403b 
+
+17 Plotinus: Third Ennead, tr viii, ch 8 132d- 
+133c 
+
+19 Aquinas: Summa Theologica, vkw i, Q'2, 
+A I, REP 2 lOd-lId; Q 3, A 4, REP 2 16d-17c; 
+Q ii, A t, ANS snd REP 5 46 d- 47 d; q is, a 2 
+51c-52c; Q13, A 3, REP 3 64d-65c; a 7, ans 
+and REP 2,4-5 68d-70d; a 9, ans and . rep 2 
+71b-72c; A 12 74c-75b; q 14, a i, ans and 
+REP 3 75d-76c; a 2, ans and rep 2-3 76d-77d: 
+A 6, REP I 80a-8Ic; a 8, ans 82c-83b; a 9, 
+ANS 83b-d; a 13, rep 2-3 86d-88c; q 15, a i, 
+ANS and REP 1,3 91b-92a; a 3, rep 4 93b-94a; 
+Q 16, A 2 95c-96b; a 7, rep, 2 99a'd; q,i7, a 3, 
+ANS 102d-103c; Q 18, a 4, rep 2^3 107d-108c; 
+Q 19, A 3, REP 6 llOb-lllc; Q 29, A I,- REP 3 
+162a-163b; Q 30, a i, rep 4 167a-168a;.A' 4 
+170c-l7lb; Q 34, A I, REP 3 185b-187b; q 50, 
+A 2, ans 270a-272a; q 55, A 2, ans and rep i 
+289d-290d; A 3 esp rep i 291a-d; q 56, a 2, 
+ANS and REP 3 292d-294a; a 3, aNS 29,4a-d; 
+Q 57, a 2 29Sd-297a; q 58, a 6, ans and rep 
+1,3 304c-305b; a 7, ans 305c-306b:'Q 66, a 2, 
+REP 2 345d-347b; q 67, a 3, ans 351b-352a; 
+Q 74, A 3, REP 5 375a'377a,c; q 76, a 3, rep 4 
+391a-393a;A 6, rep 2 396a-d; 0,84 440b-4Slb; 
+Q 85, a 2 453d-455b; a 3, rep 1,4 455b-457a; 
+A 5, REP 3 457d-45Sd; q 88, a 2, rep 4 471c- 
+472c; PART i-ii, Q 5, A 6, REP 2 641a-642a; 
+Q 6, A 6, ANS and rep 2 649a-6S0a; q 8, a i, 
+ANS and REP 3 655b-656a; q 12, a 3, rep 2-3 
+670d-671b; q 17, a 4, ans 688d-689c; Q 22, 
+A 2, ans and rep 3 721c'722c; q 28, a i, rep 3 
+740b-741a 
+
+20 Aquinas: Summa Theologica, part ih,.q 2, 
+A 5, REP 2 715a-716b; part hi suppl, q 82, 
+A 3, ANS and REP 2 971a-972d 
+
+23 Hobbes: Leviathan, part i, S3c; part hi, 
+172a-d; part iv, 262a-d; 270a-c 
+
+26 Shakespeare: Richard II, act.v, sc v [1-41] 
+349d-350a 
+
+29 Cervantes: Don Quixote part i, la-8c, 
+18d-22a, PART n, 285a-288c 
+
+31 Descartes; Meditations, 71d-72a; iii, 83b- 
+86a; v, 93a-94a / Objections and Replies, lOSb- ' 
+109d; 121a-c; def iii-iv 130b; axiom v 131d' 
+132a; 157b'158a; 212c-213a - ■ 
+
+148 THE GREAT IDEAS 7d{V) to 7d{l) 
+
+(7. The divhiotis or modes of being. Id. The dis- 
+iinction between real and ideal being, or 
+between natural being and behig in mindi) 
+31 Spinoza - Ethics, part i, appendix 369b'372d 
+esp 371c'372c; part n, prop 5-9 374c-376c 
+35 Locke: Human Understanding, bk ii, ch xxii, 
+SECT 2 201a-b; ch xxx, sect 2 238b-c; ch 
+' XXXI, SECT 2 239b d; ch xxxii, sect 14-18 
+245c-247a passim; bk hi, ch hi, sect 15-19 
+258b-260a; ch vi 268b-283a passim, esp sect 
+2-^3 268c-d, sect 8 270b-c; Bk iv, ch 11, 
+SECT'14 312b-d; ch iv, sect 6-8 32Sa-c; ch 
+IX, sect I 349a; ch xi, sect 4-9 35Sb-357a 
+35 Berkelev: Human Knowledge, sect 1-96 
+413a-431d esp sect 1-24 413a-417d, sect 29- 
+44 418c-421a, sect 48-49 422a-b, sect 82-84 
+428d'429c, sect 86-91 429c-431a 
+'35 Hume: Human Understanding, sect v, div 44 
+468d-469c esp 469b-c; sect xii, div 117-123 
+504a-S06a 
+
+42 Kant: Eure Reason, 24a-33d esp 2Sc-26a, 
+28a-b, 3Id-32c; 85d-93c; 200c-209d; 211c- 
+212a / Practical Reason, 295b-d / Judgement, 
+551a-S53c; 604a-b 
+44 Boswell: Johnson, 134c-d 
+46 Hegel: Philosophy of History, intro, lS3a-c; 
+158a-160b; 188d-189a; part i, 219d-220a; 
+236a-c; 257c'd; part iv, 3S4b; 364b-c 
+48 Melville: Moby Dicl(, 385b 
+
+' 50 Marx: Capital, llb-c 
+
+53 James: Psychology, 128a-b; 142a-b; 176a-177a; 
+191b-192a; 302a; 639a-64Sb esp 640a, 644b- 
+645b; 659a-660b; 851b 852a; 865b 866a; 
+868b; 879b-886a esp 881a'882a; 889a-890a 
+
+54 Freud: General Introduction, 597d-598a 
+
+7«?(l) The being of the possible 
+
+7 Plato: Republic, bk v-vi, 368c-383a 
+
+8 Aristotle: Metaphysics, dk ix, ch 3 572 a.-cf 
+Soul, BK in, CH 4 [429’'i 8-23] 661c 
+
+17 Plotinus : Second Ennead, tr v, ch 4-5 59c- 
+60c 
+
+19 Aquinas : Summa Theologica, part i, q 7, a 2, 
+ANS and REP 3 31d-32c; q g, a 2, ans 39c-40d; 
+Q 14, A 2, REP 3 76d-77d; a 9, rep i 83b'd; 
+A 13, REP 2-3 86d-88c; q 18, a 4, rep 3 107d- 
+108c; Q 46, A I, REP 1-2 250a'252d 
+31 Spinoza: Ethics, part i, prop 33, schol 1 
+367c-d; part ii, prop 8 37Sc-376a 
+38 Montesquieu: Spirit of Laws, bk i, Ic 
+42 Kant: Pure Reason, 8Sd-88a; 95a-d; 97a-b; 
+
+' ■176d-177a; 179c'180c / Judgement, 550a-578a 
+
+esp 550c-d, 552c-d, 555a-b, 564a-565b, 568a- 
+c, 569a, 570c-575b 
+
+46 Hegel: Philosophy of History, intro, 153a-c; 
+156d-157b; 178a-179d 
+
+53 James: Psychology, 233b [fn i]; 301b'302a 
+
+7<^(2) The being of ideas, universals, rights 
+
+7 Plato! Cratylus, 87d-89a; 113c-114a,c / 
+Phaedo, 224a-22Sa; 228d-230c; 231b'232b; 
+
+240b-246c esp 242c-244b / Republic, bk v-vi, 
+368c-388a; bk ix-x, 426d-429c / Timaeus, 
+
+' 447a-d; 457b-4S8a / Parmenides, 486c-491a 
+esp 489a-c / Sofhist, 567b; 570a-574c / Phile- 
+htts, 610d-613a / Sev^uh Letter, 809c-810b 
+
+8 Aristotle: Posterior Analytics, bk r, ch h 
+t77''5-9] 105d-106a; ch 22 [83“23-35] 113c-d; 
+CH 24 [85'‘3 i-’’ 3] 116c; [85 *>i 7-22] H7a / 
+Topics, BK II, ch 7 [ii 3 '' 24 - 33 ] 158d; bk vi, 
+CH 8 [i47“5-ii] 201a / Sophistical Refutations, 
+CH 22 [i78'’37-t79®ioJ 246c / Physics, 3k ii, 
+CH 2 [i93*’3 1-194*6] 270b; bk hi, ch 4 [203*4- 
+9] 280d / Metaphysics, bk i, ch 6 505b'S06b; 
+CH 9 508c-511c; bk hi, ch i I 995‘’i3-i8] 514a; 
+[995‘’27-996 *io] 514b-c; ch 2 [997*34-''i2] 
+5l6a-b; [998*6-13] S16d; ch 4 [g99*’24-iooo“4] 
+5l8c-d; [iooi*4-'’25] 519d-520c; ch 6 [1002*’ 
+ti-31] 521b-d; [1003*5-17] 521d-522a,c; bk 
+
+‘ vji, ch 8 [io33*’i9-io34®8] 556d-557b; ch 10 
+[1035^28-32] SS9b; ch 13-16 562a-56Sa; bk 
+viii, cH 6 S69d-570d; bk ix, ch 8 [io5o'’35- 
+1051*2] 576d-577a; bk x, ch 2 [io53‘’9-23] 
+580b-c; ch 10 S86c-d; bkxi, ch i [io 59“34-'’8] 
+587b-c; ch i [io 59'’2 i]-ch 2 [1060*27] 5876- 
+588b; CH 2 [io6o“36-’’3o] S88c-589a; bk xii, 
+CH I [1069*27-37] S98b; ch 3 [io 7 o“ 4 ]-ch 5 
+[i07i*’2] S99b-601a; bk xiii, ch i [ 1076*17-33] 
+
+^ ^ 6Q7a-b; cH 4-5 610a-611d; ch 10 618c-619a,c 
+/ Soul, BK H, CH 5 [4I7 ’’i 7-28] 648b-c 
+
+9 Aristotle: Ethics, bk 1 , ch 6 341b-342c pas- 
+
+sitn " ' 
+
+17 Protinus ; Second Ennead, tr v,' ch 3 58d-59c; 
+TR VI, ch 3 62b-d / Third Ennead, tr viii, ch 
+8 132d-133c / Fifth Ennead, tr v, ch i, 229a; 
+TR VH 238a-239b; tr ix, ch 5-8 248a-250a / 
+Sixth Ennead, tr v, ch 5-8 307a-308c 
+
+18 Ahgustine: Confessions, bk 1 , par 9, 3a / 
+City of God, BK VIII, CH 6, 269b-c 
+
+19 Aquinas: Summa Theologica, part i, q 8, 
+A 4, REP I 37c-38c; q 14, preamble 75c-d; 
+Q 15 91b-94a'; q 16, a 7, rep 2 99a-d; q 18, 
+A 4 I07d-108c; q 29, a 2, rep 4 163b-164b; 
+Q 44, A 3 240b-241a; q 47, a i, rep 2 2S6a- 
+2S7b; Q 55 288d-291d;’Q 57, aa 1-2 2953- 
+297a; q 65, a 4 342b-343c; q 76, A 2, rep 4 
+388c-391a; q 79, a 3, ans 416a'417a; q 84, aa 
+1-7 440d-4S0b; q 85, a i, ans and rep 1-2 
+4S1c-453c; a 2, ans and rep 2 453d-4S5b; 
+A 3, REP 1,4 455b-457a; a 8, ans 460b 461b; 
+Q 86, A 4, REP 2 463d-464d; q 87, a i‘, ans 
+465a-466c; q 88 , a i, ans 469a-471c; a 2, 
+AHs 471c 472c; q 105, A 3,' ans S40c-541b; 
+Q no, A I, REP 3 S64c-S65d; A 2, ans 565d' 
+566d; Q 115, A I, ANS S85d-587c; a 3, rep 
+2 588c'589c; part i-ii, q 29 , a 6, ans 748b' 
+749a 
+
+20 Aquinas ; Summa Theologica, part hi, q 2, 
+A 5, REP 2 715a-716b; Q 4, a 4, ans and rep 2 
+733a'734a; PART HI SUPPL, Q 92, A I, ANS 
+1025c-1032b 
+
+23 Hobbes: Leviathan, part i, 55b-c; S9d; part 
+IV, 262a-b ' 
+
+743) to 744 ) ; Chapter 7:'BEING. 
+
+-149 
+
+30 Bacon; Advancement of Learning, 43d'44c / 
+
+- Novum Organim, bk 1 , aph 51 lllc; bk ii, aph 
+
+2 137b-c; APH 17 149b-d 
+
+31 Descartes: Meditations, in, 84a-85ai/ Ob- 
+
+jections and Replies, 121a'C; def i-iv ISOa-b; 
+axiom VI 132a 1 
+
+31 Spinoza: Ethics, part ii, prop 37-40 386b- 
+388b 
+
+35 Locke : Human Understanding, bk i, ch i, 
+SECT 15 98d-99a; bk ii, ch viii 133b-138b 
+passim; ch xi, sect 8-9 145b-c; ch xxii, sect 
+2 201a-b; ch xxx 238a-239b; ch xxxi, sect 2 
+239b-d; ch xxxii, sect 6-8 244b-d; sect 
+14-18 245c-247a; bk hi, ch hi, sect 11-20 
+257a-260a; ch v-vi 263d'283a passim, esp ch 
+VI, SECT 32-33 277c-278c, sect 36-37 279a- 
+b; bk IV, CH IV, sect 4-5 324c-d; sect 11-12 
+326b-d; ch vi, sect 4 331d-332b; ch ix, sect 
+1 349a; ch xi, sect 4-9 355b-357a 
+35 Berkeley; Human Knowledge, intro, sect 
+12-16 408a-409d; sect 2-4 413b-414a; sect 
+48-49 422a-b; sect 86-91 429c-431a 
+35 Hume: Human Understanding, sect xii, div 
+122 505c-d 
+
+42 Kant: Pure Reason, 93c-99a; 112d-209d esp 
+ll'2d-120c, 121a-128b, 129c-145c, 173b-190a; 
+237b / Fund. Prin. Metaphysic of Morals, 28Ic- 
+282d / Science of Right, 404d-408b; 416b-417b 
+/ Judgement, 461a-c: 489b-c; 504d-S0Sa; 
+528d-530c; 542b-S44c; 551a-5S2c; S70b-c 
+46 Hegel: Philosophy of Right, pref, 6a-7a; 
+intro, par i 9a; part 1, par 66-67 29a-c; 
+par 71 31b-c; part hi, par 184 64b; par 280 
+94d-95a; additions, 2 llSd / Philosophy of 
+History, intro, 156d-190b esp 156d-157b, 
+lS8a-160b, 165a'b; part iv, 364b-c 
+S3 James: Psychology, 113a-115a esp 113b-114a; 
+-128a-b; 300a-313a passim, esp 300a-30Ia, 
+304b, 307a-b, 309a-31Ia; 641b-643a passim; 
+659a-b; 865b; 881b-882a 
+
+743) The being of mathematical objects 
+
+7 Plato; Phaedo, 228b-229d / Republic, bk vi, 
+r387b-c; bk vii, 392a-394c; 395c-397a / 
+
+Theaetetus, 535b-c; S41b-d / Sophist, 562c-d / 
+Philebus, 636b-c / Seventh Letter, 809c-810b 
+
+8 Aristotle: Posterior Analytics, bk i, ch 13 
+
+[7y6-io] 108c; ch 18 [8i‘‘40-*’5] lllb-c / Top- 
+ics, BK VI, CH 6 [i43’’ii-33] 197b-c / Physics, 
+BK II, cH2 [i93'’23-i94“ii) 270a-c; bk hi, ch 4 
+t203='4-g] 280d; ch 5 [204'‘8-34] 282a-b; bk 
+IV, ch I [2o8*’i 9-24] 287b-c; ch ii [219 578] 
+299b; CH 14 [223“2i-29] 303a / Metaphysics, 
+BK I, cH 5 [ gSf ^ 22 ~ gS6 ’^ 2i ] S03d-S04b; ch 6 
+[987'’io- 34] 505c-S06a; ch 8 [989‘’29-99o“32l 
+508a-c; ch 9 [99i'’9-992'’i8] 509d-511a; bk hi, 
+CH I [995'’i3-i 8] S14a; [996“i3-i5] ^ 
+
+I997’b2-998'‘i9] 516b-d; ch 5 [iooi'>261-ck 6 
+tioo2'>25] S20c-521c; bkvii, ch 2 (102b iS-2bj 
+551a-b; ch 10 [i035''32-io36°i2l 559b-c; ch 
+II [to36'’32-i037“4] S60b-c; bk xi, ch 2 
+[io6o“36-'>i 9) 588c-d; ch 3 [io6i'^9- 4 I 
+
+S89c; BK XII, ch I [io69''3o- 37] S98b;,CH 10 
+'' ■ (io75'’25-io 76‘'4J 606c-d; bk xiii, ch 1-3 607a- 
+
+610a; ch 6~9 611d-618c; bk xiv 619b,d-626d 
+/ Soul, bk III, CH 7 [43i'’i3-i9] 664b 
+
+9 Aristotle: Ethics, bk i, ch 6 [1096*17-19] 
+341b; BK VI, ch 8 (1142*16-19] 391b 
+11 Nicomachus; Arithmetic, bk- i, 811a-812a; 
+813d-814b 
+
+17 Plotinus; Sixth Ennead, tr vi 310d-32Ib 
+
+18 Augustine: Confessions, bk x, par 19 76a-b / 
+Christian Doctrine, bk ii, ch 38 6S4b-c 
+
+1 19 Aquinas: Summit Theologica, part i , 'q 5, 
+A 3, REP 4 25a-d; q 10, a 6, ans 45c-46d; q ii, 
+A I, REP 1 46d-47d; a 3, rep 2 49a-c; q 30, a i, 
+REP 4 167a-168a; q 44, a i,'rep‘'3 238b-239a; 
+. Q 85, A I, REP 2 451c-453c 
+20 Aquinas: Sttmma Theologica, part hi suppl, 
+q 83, A 2, ANS 976c-978c; a 3, rep 2 978c-980d 
+31 Descartes: Rules, xiv, 30b-32a / Discourse, 
+PART IV, S2d-53a / Meditations, i, 76c; v, 
+93a-d; v-vi, 96a-b / Objections and Replies, 
+169c-170a; 216d-217c; 218c; 228c-229a ' 
+
+35 Locke: Human Understanding, bk ii, ch xiii, 
+sect 5-6 149b-d; bk hi, ch hi, sect 19, 
+2S9c-d; BK IV, ch iv, sect 5-8 324d-325c 
+35 Berkeley: Human Knowledge, intro, sect 
+12-16 408a-409d; sect i2-i6 415b-416a; sect 
+118-128 436b-438d passim, esp sect 121-122 
+436d-437c, sect 125-126 438a-c 
+35 Hume; Human Understanding, sect iv, div 20 
+458a-b; sect xii, div 122 505c-d 
+42 Kant: Pure Reason, 16a-b; 17d-18d; 24d-25b; 
+31b-d; 46a-c; 5Sc; 62a-d; 68a-69c; 86b-c; 
+87b-c: 91c-d; 94b-95a; 211c'213c; 217c-d / 
+Practical Reason, 312c / Judgement, SSla-552c 
+S3 James: Psychology, 874a-878a passim; 880b- 
+881a - i. 
+
+1 1 , 
+
+744) The being of relations 
+
+7 Plato: Phaedo, 242c-245b / Parmenides, 489a- 
+c / Sophist, 570a-S74c 
+
+8 Aristotle: Metaphysics, bk i, ch 9 [99o’’9-i7] 
+508d; BK XIV, ch 1'[io88*i 5-’’4] 620b-d 
+
+9 Aristotle: Ethics, bk i, ch 6 [1096*18-22] 
+341b-c 
+
+17 Plotinus: Sixth Ennead, tr i, ch 6-9 2S4d- 
+257a 
+
+19 Aquinas : Summa Theologica, part i, q 13, a 7, 
+ans and REpg,4-5 68d-70d; q 28, aa 1-2 157c- 
+160a; A 4, ANS and rep 1,3-4 160c-161d; q 40, 
+A 2, rep 4 214b-215b; q 45, a 3, rep 1-3 244a-d 
+
+20 Aquinas: Summa Theologica, part 111, q 2, 
+A 7, REP 2 718b-d 
+
+30 Bacon: Novum Organum, bk i, aph 45 110b 
+35 Locke: Human Understanding, bk ii, ch xxv, 
+sect i 214d-215b; sect 10 216d'217a; chxxx, 
+sect 4 238d-239a 
+
+35 Berkeley: Human Knowledge, sect ii, 415a 
+42 Kant: Pure Reason, 24a-33d esp 31d-32c; 
+61a-64a esp 62d-63c; 72c-85d; 99a-108a,c; 
+119b 
+
+46 Hegel: Philosophy of History, intro, 156b-c 
+
+THE GREAT IDEAS - 745) to 83 
+
+(Jd. The distinction between real and ideal being, 
+
+, or between natural being and being in 
+mind. 7d{4) The being of relations.) 
+
+53 James; Psychology, 157b-161a esp 158b'159b; 
+458a-459b: 865b; 873a-b; S79b-886a esp 
+884b-885a; S89a-890a 
+
+7d{5) The being of fictions and negations 
+
+7 Plato: Sophist, S61d-564b; S71d-574c esp 
+573a-574c 
+
+8 Aristotle: Metaphysics, bk i, ch 9 [ 990 ^^ 9 - 15 ] 
+
+S08d; BK IV, CH 2 [ioo4“9-t5] S23a; bk v, ch 7 
+(ioi7''i8] S37d; S38a: bk vii, ch 
+
+4 [i030°24-27] 553a; ch 7 [i032‘’i-6] S55b-c; 
+BK IX, CH 3 [io47“3o-*’2] 572c; bk xii, ch 1 
+[io69°j8-24] 598a 
+
+' 9 Aristotle: Rhetoric, bk ii, ch 24 [i402'‘3-6] 
+
+65lb-c 
+
+12 Lucretius: Nature of Things, bk iv [722-748J 
+53d-54a 
+
+18 Augustine: Confessions, bk hi, par 12 16b / 
+
+City of God, bk xi, ch 22 333d-334c; bk xii, 
+CH 7 346c-d ' 
+
+19 Aquinas : Sttmma Theologica, part i, q 13, 
+A 7, ANS 6Sd-70d: Q 34, A 3, REP 5 188b-I89a; 
+
+' . Q 48, A 2 esp REP 2 260c'261b; q 51, a 2, ans 
+276b 277a; part i-ii, q 8, a i, rep 3 6S5b- 
+656a 
+
+23 Hobbes: Leviathan, part i, 50 d; S3c; S7b-c; 
+PART IV, 262 a'd 
+
+31 Descartes: Objections and Replies, 157b 
+
+35 Locke: Human Understanding, bk ii, ch viir, 
+SECT 1-6 133b-134a; bk hi, ch hi, sect 19 
+2s. 9 C -2603 
+
+40 Gibbon: Decline and Fall, 34Sc 
+
+42 Kant: Pure Reason, 62d-63a; 174d-175b 
+
+46 Hegel: Philosophy of History, intro, I 60 a 
+
+53 James: Psychology, 639a-644a esp 642b [fn z\ 
+
+54 Freud: General Introduction, 597b'59aa esp 
+598a 
+
+7e. The distinction between appearance and 
+reality, between the sensible and supra- 
+sensible, between the phenomenal and 
+noumenal orders 
+
+7 Plato: Cratylus, 113c-114a,c / Phaedrus, 124d- 
+127a / Symposium, 167a-d / Phaedo, 224a- 
+225a; 228a-232a / Republic, bk v, 370d-373c; 
+BK VI, 383d-388a; bk vii, 396d-398c / 
+Timaeus, 447a-d; 450b-c; 4S5c-458a esp 457c- 
+458a / Theaetetus, 534d-S36a / Sophist, 567a- 
+568c / Statesman, S95b-c / Philebus, 634b- 
+635b / Seventh Letter, 809c-810d 
+
+8 Aristotle: Physics, bk i, ch 4 fi87“27-*’7J 
+262b-c / Metaphysics, bk v, ch 29 [i024*’22- 
+27] 546c-d 
+
+12 Lvckztivs: Nature of Things, bk ii [ 308-332] 
+I9a-b . 
+
+17 Plotinus: Second Fnnead, tr vi, ch 1, 60 c- 
+61 b / Fourth Ennead, tr viii, ch 6 203 d- 204 b 
+/ Sixth Ennead, tr hi, ch 1-2 281 a' 282 a 
+
+18 Augustine: Confessions, bk h, par 10 lla-b; 
+bk in, par 10 15b-d; bk vii, par 23 SOb c; 
+BK X, par 13 74c-d; par 16-19 75b-76b / 
+Christian Doctrine, bk h, ch 38 6S4b-c ’ 
+
+19 Aquinas: Sttmma Theologica, part i, q 18, 
+A 2, ans 105c-106b 
+
+25 Montaigne: Essays, 291b-294b 
+
+31 Descartes: Objections and Replies, 23Sa-b; 
+257d 
+
+31 Spinoza: Ethics, part i, appendix, 372 a-c 
+
+35 Locke : Human Understanding, bk h, ch viii 
+l33b-138b passim, esp sect 7-10 134b-d, sect 
+15-20 13Sc'136c; ch xxih, sect 5 205a-b; 
+sect 15 208c-d; sect 29 211d-2I2a; sect 32 
+212c-d; ch xxxi, sect 6-13 240d-243b; bk 
+III, ch hi, sect 15-18 258b-259c;’ ch vi 
+268b-283a passim, esp sect 9 270d-271a; bk 
+iv, CH XVI, sect 12 370b-371a 
+
+35 Berkeley: Human Knowledge, sect 25-27 
+417 d- 418 b; sect 86-91 429 c- 431 a passim; 
+sect IOI-I02 432 c- 433 a; sect 135-142 440 a- 
+441 c; sect 148 442 b-d 
+
+35 Hume: Human Understanding, sect iv, div 29 
+461 a-d 
+
+42 Kant: Pure Reason, 15c-16c; 19a; 19d-20c; 
+27b-33d; 53b-59b esp SSa-b; 86c-88c; 93c- 
+99a; 101b-108a,c; 112b-d; 113c-115a; IS3a-c; 
+164a-165c; 172c-173a; 227a-228b / Fund. Prin. 
+Metaphysic of Morals, 281c-282d / Practical 
+Reason, 292a-c; 307d-314d; 319c-321b: 328a- 
+329a; 331a-337c; 340a-342d esp 340c-341c: 
+348b-353d / Intro. Metaphysic of Morals, 383c- 
+d / Science of Right, 416b-417b / Judgement, 
+46Sa-c; 474b-475d; 500c-d; 501d-502a; 506d- 
+507a; 510b-c; S30a; 541a-542a: 543a; 543c- 
+544c; 551a-552c; 558d; S60c; 564a-c; 570b- 
+572b esp 571c-572a; 574b-577a; 579a; 581a- 
+b; 584c-d; 587d-588a; 594d [fn ij; 599d- 
+600d; 603a-b; 604a-b; 606d-607c; 611c-6I3a,c 
+
+46 Hegel: Philosophy of Right, part i, par 82-83 
+34d-35a; additions, 52-53 124d-125a / Phi- 
+losophy of History, intro, 156d-lS7b; part ii, 
+270d-271c; part iv, 349b-350a ’ 
+
+48 Melville: Moby DicI^, 120a-12Ia; 3 S 5 b 
+
+52 Dostoevsky: Brothers Karamazov, bk vi, 
+J68b-c 
+
+53 James: Psychology, lS5a-b; 234a-b; 503a-b; 
+569b-570a; 606b 608b esp 608a-b; 648a 
+
+54 Freud: Unconscious, 430b-c 
+
+8. Being and knowledge 
+
+S/r. Being and becoming in relation to sense: 
+perception and imagination 
+
+7 Plato: P/iaei/wj, ViSb-d/ Phaedo, 224a-225a; 
+231b-232a / Republic, bk hi, 333b-334b: bk 
+V, 368c-373c; bk vi-vii, 383d-398c / Timaeus, 
+447b-d: 4S0b-c; 453b-4S4a; 4S5c-458b esp 
+457b-4S8a / Theaetetus, 5l7b-536b / Sophist, 
+565a-569a esp S6Ba-569a / Philebus, 6I0d-613a 
+
+8 Aristotle: Generation and Corruption, bk i, 
+CH 3 [318^18-319*2] 41 Sc-d; ch 4 [3i9’’5-24] 
+
+ih to 8c 
+
+416c'd / Metaphysics, bk i, ch 5 [986’>25- 
+987’'!] 504d-50Sa; ch 6 [987“29-*’i8] S05b-d; 
+BK IV, CH 5-6 528c-531c; bk xi, ch 6 [io62’’33- 
+io 63'’8] 591a'd / Soul, bk i, ch 2 [404°7- 
+405“29] 633d-635a; ch 5 [409’’i8-4ii^7] 639c- 
+641a; bk ij, ch 5 647b-648d; bk n, ch 12 
+[424»i6]-bk hi, ch 2 [426''25] 656a-658c 
+11 Nicomachus: Arithmetic, bk i, 8Ilc-d 
+
+17 Plotinus: Fifth Ennead, tr v, ch i 228b- 
+229c; TR IX, ch 5 248a-249a / Ennead, 
+TR I, ch 27-28 266c-267c esp ch 28 267b'C 
+
+18 Augustine: Confessions, bk hi, par 10 ISb-d; 
+bk IV, par 15-17 23a-c; bk vii, par 23 50b-c / 
+Christian Doctrine, bk ii, ch 38 654b-c 
+
+19 Aquinas: Summa Theologica, part i, q 67, 
+A 3, ANS 351b-352a; q 78, a 3, ans 410a-411d; 
+Q 86, A 3 463b-d 
+
+25 Montaigne: Essays, 292d-293d 
+31 Descartes: Discourse, part iv, Slc-53b / 
+Meditations, 74a,c; 11, 81d 
+35 Berkeley: Human Knowledge, sect 2-3 
+413b-d; sect 25-27 417d-418b; sect 88-91 
+430a-431a; sect 135-142 440a-441c 
+42 Kant: Pure Reason, 34a-72c esp 34a-c, 39a'C, 
+4Ic-42b, 45b-59b, 61a'64a, 65d-72c / Fund. 
+Frin. Metaphysic of Morals, 281c-282d / 
+Judgement, 603d'604b 
+
+86. Being and becoming in relation to intellect: 
+abstraction and intuition 
+
+7 Plato: Cratylus, 113c-114a,c / Fhaedrus, I2Sa- 
+
+126c / Symposium, I67a-d / Phaedo, 224a- 
+226c; 228a-232a / Republic, bk in, 333b- 
+334b; BK v-vi, 368c-375b; bk vi, 376d; 
+382a-c; bk vi-vii, 383d-398c/ r/«tf«H',447b- 
+d;450b'C;4SSc-4S8b/ S34d-S36b/ 
+
+Sophist, S65a-569a esp 568a-S69a / Philebus, 
+610d-613a; 615c-6I9d esp 619a-d; 634b-635b 
+/ Seventh letter, 809c-810d 
+
+8 Aristotle: Posterior Analytics, bk i, ch 8 
+104a'b / Topics, bk iv, ch i [i2i'‘20-26] 169a- 
+b / Physics, bk iv, ch ii [2i9‘’23-3i] 299c-d; 
+BK VII, CH 3 [247’’i-248“81 330b'd / Heavens, 
+BK III, ch I [298’’i5-24] 390a-b / Metaphysics, 
+BK I, ch 5 [ 986 ’’ 25 - 987 “i] 504d-505a; ch 6 
+[987»29-'"i8] S03b-d; bk m, ch i [995 4 - 2 °] 
+SI3d-5I4b; ch 2 [g96“r8-997''34J 514d-S16a; 
+BK IV 522a-532d; bk vi 547b,d-550a,c; bk 
+VII, ch 15 [io39'’2o-io4q“8] S63c-S64a; bk xi, 
+CH 1-8 S87a-593d; bk xii, ch 7 602a-603b; 
+CH 9 605a-d / Soul, bk i, ch 2 f4O4‘’7-405 29I 
+633d-635a; cH 5 I409'’i8-4ii'‘7l 639c-641a; 
+bk II, CH 5 [4I7''2i-4i8“3] 647d-648c; bk hi, 
+CH 4-8 661b-664d 
+
+11 Nicomachus; Arithmetic, bk i, 811a'd 
+
+17 Plotinus; Fifth Ennead, tr v, ch i 2 
+
+228b-229d; tr ix, ch 5 248a-249a ! Sixth 
+Ennead, tr i, ch 27-28 266c-267c esp ck 28 
+267b-c . 
+
+18 Augustine: Confessions, bk vii, par ^ 
+
+/ Cuy of God, BK XI, CH 10, 328c-d / Christian 
+Doctrine, bk ii, ch 38 654b-c 
+
+19 Aquinas: Summa Theologica, part i, q 5, 
+A 2, ans 24b-25a; q 12, a 1' 50c'51c; aa 3-4 
+S2c-54c; q 16, aa 2-3 gSc-96d; q 26, a 2, ans 
+150c-151a; q 34, a 1, rep 2 18Sb-187b; q 50, 
+A 2, ANS and REP I 270a-272a; q 54, a 2 285d- 
+286c; Q 78, A I, ANS 407b-409a; q 79 , aa i-io 
+413d-424d passim; q 84. aa 1-2 440d-443c; 
+AA 6-7 447c-4S0b; q 85, a i 4Slc-453c; a 5, 
+REP 3 457d-458d; q 86, a i 461c-462a; a 3 
+463b-d; q 88 468d-473a; q 89, a 4 476c-477a; 
+Q 105, A 3, ANS 540c-S41b; part i-ii, q 3, a 8, 
+ANS 628d-629c; q 10, a i, rep 3 662d-663d 
+
+20 Aquinas; Summa Theologica, part ii-ii, q 2, 
+A 3, ANS 392d-393c; part hi suppl, q 92, a i 
+1025c-I032b 
+
+31 Descartes: Discourse, part iv, 51c-53b / 
+Meditations, ir, 81b-d 
+
+35 Berkeley: Human Knowledge, sect 25-27 
+417d'418b: sect 88-91 430a-431a; sect 135- 
+142 440a-441c 
+
+42 Kant: Pure Reason, 38a-108a,c esp 39a-c, 
+41c-93c / Pew. Metaphysic of Morals, 
+
+281c-282d: 285a-287d / Judgement, 465a-c 
+
+46 Hegel: Philosophy of Right, part hi, par 343 
+llOd-llla / Philosophy of History, intro, 160d- 
+161c 
+
+8c. Essence or substance as the object of defini- 
+tion: real and nominal essences 
+
+7 Plato: Meno, 174a-179b passim / Euthyphro, 
+196a-b/ Gorgias, 2S2d-253b / Republic, bkvi, 
+384a-386c esp 385b-c/ Theaetetus, 514b-S15c; 
+547c-549c / Sophist, S51a-552i / Laws, bk oc, 
+763c-d / Seventh Letter, 809a-810b 
+
+8 Aristotle: Categories, ch 5.[2'‘i9-3’'24] 6b-8a 
+
+/ Posterior Analytics, bk i, ch 22 113b-llSb; 
+CH 33 121d-122a,c; bk ii, ch 3-10 
+
+123c-128d; ch 13 131b-133c / Topics, bk i, ch 
+4 [ioi’’i7-23] 144b-c; ch 5 [ioi'’37-io2“5] 
+144d; ch 8 [i03’’i-ii] 146d; ch 18 [io8'’38-’’9] 
+152d; [io8''i9-32] 153a, c; bk vi, ch i [139*24- 
+34] 192a: BK VI, ch 4-bk vii, ch 5'194c-211a,c 
+passim / Physics, bk i, ch 3 [i86'>i4-34] 261c- 
+262a; bk ii, ch i [i93“30-'’i9] 269c-270a; ch 2 
+(ig4“ii-i4] 270c / Meteorology, bk iv, ch 12 
+493d-494d / Metaphysics, bk i, ch 3 [983*24- 
+29] 501c; CH 5 [987*19-27] 505b; ch 6 [987*35- 
+*’10] 505c; [987’’30-33] 506a; bk ii, ch 2 [994*’ 
+16-27] 513a-b; bk hi, ch2 [g96'>i2-2i] 51Sa- 
+b; BK IV, CH 4 [ioo6*29-’^i8] 52Sc-d; [1007*20- 
+'’18] 526c-527a: bk v, ch 2 [1013*27-28] 533b; 
+BK VI, CH I [io25''28-io26*6] 547d-548a; bk 
+VII, CHI [1028*31-37] 5S0d;cH4-6SS2b-555a; 
+CH 10-17 S58a-566a,c; bk vin, ch 2-3’566d- 
+568d; CH 6 569d-S70d; bk xi, ch 7 [1064*19- 
+28] 592c: BK xii, ch 9 [io74*’37-i 075*2] 60Sc; 
+BK xiH, CH 2 [io77’’i-io] 608d-609a; ch 4 
+[io78*’iS-32] 6I0b-c / Soul, bk j, ch ii 63Ia- 
+632d; BK n, ck i [4i2*i-*’24] 642a-d; bk hi, 
+ch 6 [43o'’26-3i) 663b-c 
+
+9 Aristotle: Parts of Animals, bk T,: ch i 
+[641*14-31] 163d-I64a; ch 2-3 165d-167d 
+
+152 THE GREAT IDEAS Mto^f 
+
+(8. Being and knowledge, &c. Essence or substance 
+as the object of d^nition; real and nominal 
+essences^) 
+
+19 Aqvwas: Summa Theologica, part i, q i, a 7, 
+
+REP I ya-Cj'Q 2, A I, REP 2 lOd-lld; A 2, REP 2 
+lld-12c; Q 3, A 3, ANS 16a-d; a ' 5 , ans 17c- 
+18b; Q 17, A 3 102d-103c; q 18 , a 2 , ans 105c- 
+106b; Q 29, A I 162a-163b; a 2 , rep 3 163b- 
+I64b; Q 44, A I, REP I '238b-239a; a 3 , rep 3 
+, 240b-241a; q 58 , a 5 303c-304c; q 75 , a 4, 
+
+ANS 381b-382a; q 85 , a 6 4S8d-459c: Q 116, 
+A I, CONTRARY 592d-S93d; part i-ii, q 10, 
+’ A I, rep 3 662d-663d 
+
+20 Aquinas : Summa Theologica, part hi, q 2, 
+A I, ANS 710a-711c; a 2, ans 711d-712d; q 60, 
+A 4, REP I 849c-850b 
+
+23 Hobbes; Leviathan, part i, 5Sb-c; S6b; part 
+'iv,269b-271a ‘ 
+
+28 Galileo; Two New Sciences, first day, 142d- 
+143a 
+
+30 Bacon; Advancement of Learning, 43d-44c / 
+Novum Organum, bk ii, aph 4 137d-138b 
+
+31 Descartes; Discourse, part iv, Sld-S2a / 
+
+' Objections and Replies, postulate iv 131a-b; 
+
+lS3d; 160d 
+
+31 Spinoza; Ethics, part i, def 4 3SSb; prop 8, 
+scHOL 2, 3S7b-d; prop 10 3S8a-b; part n, 
+def 2 373b; prop 37 386b-c; part hi, prop 4 
+398d 
+
+33 Pascal: Vacuum, 372b-373b;' 376b 377a / 
+Geometrical Demonstration, 430b-431b 
+3S Locke: Human Understanding, bk n, ch 
+XXIII, SECT 1-16 204a-209a esp sect 6 20Sb-c, 
+sect 14 208b-c; sect 29-32 211d-212d; ch 
+ixxxi, SECT 3 240a-b; Sect 6-13 240d-243b; 
+
+I CH XXXII, SECT 18 246c-247a: sect 24 247c-d; 
+BK HI, CH HI, SECT 12-20 257b-260a; CH IV, 
+SECT 3 260b; ch v, sect 14 267b-c; cil vi 
+268b-283a; cH ix, sect 11-17 287d-290a; pH 
+X, SECT 17-21 29Sd-297b; cii xi, sect 15-23 
+303b-305b; bk iv, ch iv, sect 11-17 326b- 
+'328d;cHVi, SECT4-i6331d-336d;cHxii,SECT 
+7-12 360b-362c passim, esp sect 9 360d-361b 
+3S Berkeley: Human Knowledge, intro, sect 
+18 410a-c; sect T01-102 432c-433a 
+42 Kant: Pure Reason, 179d-180a; 215d-216c / 
+' Science of Right, 404d; 423d-424b 
+46 Hegel: Philosophy of History, intro, 176c 
+S3 James: Psyehology, 185a-b; 668a-670b 
+
+8d. The role of essence in demonstration: the 
+use of essence, property, and accident in 
+' inference 
+
+8 Aristotle: Prior Analytics, bk ii, ch 27 
+o' [7 o‘' 3-39] 92a-c / Posterior Analytics g7a-137a,c 
+esp BK II 122b,d-137a,c / 'Metaphysics, bk i, 
+CH 3 [983'*24-29] 501c; bk hi, cn 2 [996’’i2-2i] 
+S15a-b; [997*25-34] SlSd-516a; bk vi, ch i 
+Iio25'’i-i8] 547b, d; bk xi, ch 1 [io59“29-34] 
+S87b; CH 7 [io63*’36-io64‘'9] 592b / Soul, bk 
+-ir, ch 2 [4i3“io-’’i3] 643a-d; ch 4 [415*14- 
+23I 645b-c 
+
+19 Aquinas: Summa Theologica, part i, q 2, a 2, 
+rep 2-3 lld-12c; Q 3, A 5, ANS 17c-18b; q 17, 
+A 3, REP 1-2 102d-103c; Q 18, A 2, ANS 105c- 
+106b; Q 46, A 2, ANS 253a-255a; q 77, a i, rep 
+■ 7 399c-401b 
+
+23 Hobbes: Leviathan, part iv, 269d-270c 
+31 Descartes: Meditations, v, 93b-c / Objec- 
+tions and Replies, 207b 
+
+35 Locke: Human Understanding, bk hi, ch xi, 
+sect 15-17 303b-304a esp sect 16 303c-d; 
+BK IV, ch hi, sect 9-17 315c-317c passim, esp 
+SECT 14 316b-d; ch vi, sect 4-16 331d-336d 
+
+' passim; ch xh, sect 6-9 360a-361b 
+42 Kant: Pure Reason, 180c-182b 
+S3 James : Psychology, 666b 673a esp 667b-671a 
+
+Be. The accidental in relation to science and 
+definition 
+
+8 Aristotle: Prior Analytics, bk i, ch 13 [32’’4- 
+23] 48b-d / Posterior Analytics, bk i, ch 4 100a- 
+101b; ch 6 [75*18-38] 103a-c; ch 8 104a-b; 
+cH 30 119d / Topics, EK ii-iii 153a-168a,c; 
+BK IV, CH I [121*6-9] 168d-169a; CH2 [I2'2*’I2- 
+18] 170d-171a; cii 4 [i25®33-’’io] 174b-c; ch 6 
+[i27’>i-4] 177a; bk v 178b,d-192a,c; bk vi, ch 
+6 196d-199c; ch 14 [i5i*32-'’2] 206b'c/ Meta- 
+physics, BK I, CH 9 [990^22-991*2] 509a; BK HI, 
+cH I [995 '’i 8-27] 514a-b; ch 2 [997*^5-341 
+515d-516a; bk iv, ch 2 522b-S24b esp [1005“ 
+13-17] 524b; BK VI, ch 2 548c-549c; bk vii, 
+CH 4-6 552b-555a; bk viii, ch 4 [i044'’8-2o] 
+S69b; BK XI, CH i [1059*29-34] S87b; ch 3 
+589a-d; bk xiii, ch 2 [i077“23-*’i4] 608c-609a 
+
+11 Nicomachus: Arithmetic, bk i, 811b-812a 
+19 Aquinas: Summa Theologica, part i, q 14, 
+
+A 13, ANS and REP 3 86d-88c; q 18, a 2, ans 
+105c-106b; q 57, a 3, ans 297b-298a; q 86, 
+A 3 463b-d; part i-h, q 7, a 2 esp rep 2 
+652d-653c; q 18, a 3, rep 2 695d-696b 
+31 Descartes: Objections and Replies, 135b- 
+136b; 153d; 170d; 207b; 209c-210b 
+35 Locke: Human Understanding, bk ii, ch 
+XXIII, sect 3-16 204c-209a esp sect 6 20Sb c, 
+sect 14 208b-c; sect 29-32 211d-212d; sect 
+' 37 213d-214b; ch xxxi, sect 8-1 i 242a-243a; 
+
+SECT 13 243a-b; bk hi, ch vi 268b-283a pas- 
+sim, esp sect 2-5'568c-269d; ch ix, sect 
+13-17 288a-290a; ch xi,sect 19-22 304b-305a 
+35 Berkeley; Human Knowledge, sect 1 413a-b; 
+sect 49 422b ' 
+
+35 Hume: Human Understanding, sect vih, div 
+67 480c-481a ‘ 
+
+' I 
+
+8f. Judgments and demonstrations of existence: 
+their sources and validity 
+
+7 Plato: Laws, bk x, 757d-765d esp 758c-760a, 
+
+‘ 760d-762b, 765b-d 
+
+8 Aristotle: Metaphysics, bk i, ch 9 [99o’’9-22] 
+508d-509a; bk vi, ch i [io 25 ’’i-i 8] S47b,d 
+
+9 .Aristotle: Ethics, bk ix, cii 9 [ii7o“i6-*’8] 
+423d-424b passim, esp [ii7o*28-*’i] 424a 
+
+12 Lucretius: Nature of Things, bk i [418-448] 
+6b-c 
+
+?>f r’ Chapter ! 
+
+18 Augustine: City of God, bk xi, ch 26 336d- 
+337b 
+
+19 Aquinas : Stmma Theohgica, part i, q 2, 
+
+A I, REP 2 lOd-lld; A 2 lld-12c; q 3, a 4, rep 2 ' 
+I6d'17c; A 5 , ans 17c-18b; q 12, a 12, ans and 
+REP I 60d-61c; Q 46,^ 2, ANS 253a-25Sa 
+
+23 Hobbes; Leviathan, part iv, 269d-270c 
+31 Descartes: Discourse, part iv, 51c-53b / 
+Meditations, 71d'72a: 11 , 78a'b; iii, 85a-86d; 
+v-vi 93a'103d / Objections and Replies, llOb-c; 
+121b-c; 122c-123a; 126b-127c; postulate iv- 
+vn ISfa-c; 140b-c; 207b; 209d-210b; 224b, d; 
+261a ' 
+
+31 Spinoza: Ethics, part i, prop h 358b-3S9b; 
+PROP 14 359d-360a 
+
+35 Locke: Human Understanding, bk ii, ch vii, 
+SECT 7 132d; CH xiv, sect 3 155c-d; ch xxiii, 
+sect 520 Sa-b; bk iv, ch h, sect 14 312b-d; 
+
+: BEING' .153 
+
+CK in, sect 21 319c; ch vii, sect 7 338c; ch 
+ix-xi 349a-358c; ch xvii, sect 2, 371d 
+.35 Berkeley: Human Knowledge, sect 18-20 
+416b-417a; sect 25-29 417d-418c; sect 88-89 
+430a-c 
+
+35 Hume: Human Understanding^ sect iv, div 
+I 20-SBCT V, div 38 4S8a-466c passim, esp sect 
+IV, DIV 30 461d-462b, sect v, div 35 464c-d, 
+DIV 38 , 466b; sect xi 497b'S03c passim, esp 
+DIV 115 S03b-c; SECT xii, div 117-123 504a- 
+506a; div 132 SOOa-d 
+
+42 Kant: Pure Redson, 85d-88a; 179c-201c esp 
+193a-b; 228c-d ■ 
+
+44 Boswell: Johnson, 134c-d 
+46 Hegel: Philosophy of Right, part hi, par 280 
+94d-95a 
+
+53 James: Psychology, nea - mk ; 640b [fh i]; 
+643a-6S9a esp 643b-645b, 648a '
+
+
+CROSS-REFERENCES 
+
+For: ‘Being’ as a transcendental term or concept, see Idea 4b(4); Metaphysics 2b; Opposition 
+2c; for the analysis of the meaning of words like “being,” and for the theory of ‘being’ as an 
+analogical term or concept, see Relation id; Same and Other 4c; Sign and Symbol 3d. 
+The discussion of unity, goodness, and truth as properties of being, or as convertible with 
+being, see Good and Evil ib; One and Many i; Same and Other la, ze; Truth ib. 
+Other treatments of the distinction between being and becoming, and of the problem^ of the 
+reality of mutable as compared with immutable being, see Change i, ioc; ETERNiTv'^a- 
+4b; Matter i; Necessity and Contingency 2c. 
+
+Considerations relevant to the distinction between essence and existence, see Form 2a; God 
+2a-2b, 4a; Necessity AND Contingency 2a-2b; Soul 4b; Universal and Particular 
+2a; for considerations relevant to the distinction between substance and accident, dr 
+betweeri'the essential and the accidental, see Form 2c(2); Matter ib; Nature ia(i); 
+Necessity and Contingency 2d; Quality i; Quantity 1; Same and Other 3a; 
+Soul 2a; and for the problem of the being of qualities, quantities, and relations, see 
+Quality i; Quantity i; Relation la. 
+
+Considerations relevant to the distinction between potentiality and actuality, or matter and 
+form; see Change 2a; Desire 2a; Form 2c(i); Habit la; Infinity ib, 4c; Matter i-ia, 
+3b; Mind 2b, 4c; Necessity and Contingency i; for considerations relevant to the dis- 
+tinction between the real and the ideal, see Idea 31-, 6a— 6b; Knowledge 63(3}; and for the 
+controversy over the real existence of ideas, forms, mathematical objects, universals, see 
+Form la, 2a; Mathematics 2b; Space 5; Universal and Particular aa-^ac. 
+Considerations relevant to the distinction between sensible and supra-sensible being, see 
+
+Knowledge 6 a(i), 63(4); Mind ia(i). ' ‘ 
+
+Elaborations of the theory of substance and treatments of the distinction between material and 
+immaterial, corruptible and incorruptible substances, ree Angel 2; Change ioc; Element 
+5a; Form 2d ; Man 33-33(1), 3b: Matter 2, 2d, 3a; Mind i b, 2a, loc-iod ; Soul 33-30, 4b. 
+The relation of being and becoming as objects of knowledge to the faculties of sense and 
+reason, see Change ii; Knowledge 6a(i): Opinion H Sense ib. 
+
+Essence in relation to the natures of things and to their definitions, ree Definitton la; Form 
+
+3c; Knowledge 63(2); Nature la, 13(2), 4a. , , • • • 1 r 
+
+The relation of the concept ‘being’ to the principle of contradiction, both as a prmciple of 
+
+being and of thought, ree Opposition 2a; Principle ic. 
+
+Logical problems concerning judgments of existence and prooE of existence, see God 2c; 
+Judgment 8c; Knowledge 63(3); Necessity and Contingency 2b: Reasoning 6a.

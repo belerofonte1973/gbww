@@ -1,0 +1,1542 @@
+CHAPTER: Element
+
+INTRODUCTION
+
+ELEMENT 
+
+INTRODUCTION 
+
+T he words “atom” and “element” express 
+basic notions in the analysis of rhatter. To 
+some extent their meaning seems to be the 
+same. Atoms or elements are usually under- 
+stood to be ultimate units, the parts out of 
+which other things are formed by combination. 
+But as soon as further questions are asked — 
+about the divisibility or indivisibility of these 
+units, or about their number and variety — we 
+are confronted with differing conceptions of 
+the atom, and with a theory of the elements 
+which is opposed to the atomic analysis of 
+matter. 
+
+Even when the two notions are not' opposed 
+to one another, they are not interchangeable. 
+“Atom” has a much narrower meaning. It 
+usually designates a small particle of matter, 
+whereas “element” signifies the least part into 
+which anything at all can be divided. It is this 
+broader meaning of “element” which permits 
+Euclid to call his collection of the theorems in 
+terms of which all geometric problems can be 
+solved, the “elements” of geometry. According 
+to Aristotle, this is true, not only'of geometrical 
+proofs, but also “in general of the elements of 
+demonstration; for the primary demonstra- 
+tions, each of which is implied in many demon- 
+strations,” he says, “are called elements of 
+demonstration.” From this it follows that ele- 
+ments will be found in any subject matter or 
+science in which analysis occurs, and not only 
+in physics. 
+
+“An element,” writes Nicomachus in his In- 
+troduction to Arithmetic, “is the smallest thing 
+which enters into the composition of an object, 
+and the least thing into which it can be ana- 
+lyzed. Letters, for example, are called the ele- 
+ments of literate speech, for out of them all 
+articulate speech is composed and into them 
+finally it is resolved. Sounds are the elements of 
+all melody; for they are the beginning of its 
+
+composition and into them if is resolved. The 
+so-called four elements of the universe in gen- 
+eral are simple bodies, fire, water, air, and earjh; 
+for out of them in the first instance we account 
+for the constitution of the universe, and into 
+them finally we conceive of it as being re- 
+solved.” 
+
+This e.xplains why books in so many different 
+fields have the word “element” in their titles. 
+There are the elernents of grammar or logic, the 
+elements of language or music, the elements of 
+psychology or economics. Elements in one sub- 
+ject matter or science are analogous to elements 
+in another because in each sphere they stand to 
+everything else as the simple to the gomplex, 
+the pure to the mixed, the parts, to the whole. 
+Thus the factors of price may be said to func- 
+tion in economic analysis as do the parts of 
+speech in grammatical analysis. 
+
+Another illustration comes from the theory 
+of the four bodily humors in ancient physiol- 
+ogy. In the traditional enumeration; which 
+goes back to Hippocrates, they' are blood, 
+phlegm, yellow bile, and black bile, and they 
+function analytically as do fire, water, air, and 
+earth in ancient physics. They “make up die 
+nature of the body of man,” according to a 
+Hippocratic treatise on the nature of man, 
+“and through them he feels pain or enjoys 
+health.” Perfect health is enjoyed by a man 
+“when these elements are duly proportioned 
+to one another in respect of compounding, 
+power, and bulk, and when they are perfectly 
+mingled.” Galen, in an, analysis of tempera- 
+ments, explains all varieties of temperament and 
+all complexions of physique in terms of these 
+humors, either by their mixture or by the pre- 
+dominance of one or another. Thus the san- 
+guine, phlegmatic, choleric, or melancholic 
+temperament is accounted for by the excess of 
+one and a deficiency of the other humors. 
+
+Chapter 21 
+
+Still another physiological application of the 
+notion of element is to be found in the ancient 
+division of tissue into flesh and bone, or in the 
+more elaborate modern analysis of the types of 
+cells which comprise all living, matter. 
+
+These illustrations indicate that the irre- 
+ducibility of elements to anything simpler than 
+themselves does not necessarily mean that they 
+are absolutely indivisible. Cells can be further 
+divided into nucleus, protoplasm, and mem- 
+brane, without ceasing to be the elements of 
+tissue. The parts of speech — nouns, verbs, ad- 
+jectives — can be further divided into syllables 
+and letters without ceasing to be the elements 
+of significant utterance. Letters, treated as the 
+elements of language, can be physically divided. 
+The fact that terms are Sometimes regarded as 
+the logical elements out of which propositions 
+and syllogisms are formed does not prevent a 
+distinction from being made between simple 
+and complex terms. Nicomachus calls the tri- 
+angle elementary among all plane figures, “for 
+everything else is resolved into it, but it into 
+nothing else”; yet the triangle is divisible into 
+the lines which compose it and these lines in 
+turn are divisible into points. 
+
+When Nicomachus says that the triangle is 
+the element of all other figures “and has itself 
+no element,” he does not mean that the tri- 
+angle is absolutely indivisible, but only rela- 
+tively so. Relative to the analysis of plane fig- 
+ures, there is no simpler figure out of which the 
+triangle can be formed. Similarly, relative to 
+the analysis of significant speech, there is no 
+simpler part than the word. Relative to the 
+analysis of melody, there is no simpler part than 
+the tone. Musical tones may be physically, but 
+they are not musically, complex. 
+
+The definition of element can also be ap- 
+proached by comparing its meaning with that 
+of principle and cause. All three terms are 
+brought together by Aristotle in the beginning 
+of his Physics, when he declares that we attain 
+“scientific knowledge” through acquaintance 
+with the “principles, causes, and elements of 
+things. 
+
+The word “principle” occurs almost as fre- 
+quently as “element” in the titles of books 
+which claim to be basic e.xpositions or analyses. 
+
+ELEMENT 401 
+
+The ,two words are often used as synonyms. 
+Lavoisier, fog example, says that we can use 
+“the term elements, or -principles of bodies, to 
+express our idea of the last point which analysis 
+is capable of reaching.” . ' ■ 
+
+To discover any difference in the meaning of 
+“element” and “principle,” it is necessary to 
+specify their correlatives precisely. Out of ele- 
+ments, compounds or mixtures are formed. 
+From principles, consequences are derived. In 
+logic, for example, we say that terms are the 
+elements of propositions (the proposition ‘Soc- 
+rates is a man’ comprising the terpis ‘Socrates’ 
+and ‘man’), but we say that axioms are the 
+principles from which conclusions are derived. 
+This does not prevent the same thing from be- 
+ing viewed in different connections as both ele- 
+ment and principle — as an element because it 
+is the simple part out of which a more complex 
+whole is composed, and as a principle because it 
+is the source from which something else is de- 
+rived. The parts of speech in grammar are the 
+elementary components of phrases and sen- 
+tences; they are also the principles from which 
+the rules of syntax are derived. 
+
+The third notion which belongs with ele- 
+ment and principle is cause. Its correlative is 
+effect. Again it can be said that that which is an 
+element in one connection and a principle in 
+another can be regarded as a cause from still a 
+third point of view. In Aristotle’s physical trea- 
+tises, for example, matter is regarded inall three 
+ways: it is an element of all bodies, for they are 
+substances composed of matter and form; it is a 
+principle of change, since from matter, form, 
+and privation change is derived; it is a cause 
+{i.e., the material cause) of certain results. 
+
+But it must also be observed that everything 
+which is any one of these three is not necessar- 
+ily both of the others also. Since an element, 
+according to Aristotle, is a “component im- 
+manent in a thing,” anything that is an extrin- 
+sic principle or cause cannot be an element. 
+Thus the action of one body upon another is a 
+cause and a principle, but not an element. Re- 
+ferring to these distinctions, Aquinas declares 
+that "principle is a wider term than cause, just 
+as cause is more common than element.” The 
+chapters on Cause and Principle tend to sub- 
+stantiate this observation about the scope of 
+these ideas in the tradition of western thought. 
+
+402 THE GREAT IDEAS 
+
+The basic issues concerning elements occur 
+in the analysis of matter. Before Plato and 
+Aristotle, the early Greek physicists had asked 
+such questions as, From what do all things 
+come? Of what are all things made? A number 
+of answers were given, ranging from one kind of 
+ultimate, such as earth or fire, through a small 
+set of ultimate kinds, to an infinite variety. 
+The classical theory of the four elements is the 
+middle answer, avoiding the extremes of unity 
+and infinity. 
+
+According to Galen, it was Hippocrates who 
+“first took in hand to demonstrate that there 
+are, in all, four mutually interacting qualities” 
+and who provided “at least the beginnings of 
+the proofs to which Aristotle later set his hand” 
+in developing the theory of the four elements. 
+Galen also indicates that it was a subject of 
+controversy among the ancients whether the 
+“substances as well as the qualities” of the 
+four elements “undergo this intimate mingling” 
+from which results “the genesis and destruc- 
+tion of all things that come into and pass out 
+of being.” 
+
+Aristotle, in his treatise On Generation and 
+Corruption, enumerates the various senses in 
+which the physicist considers elements. “We 
+have to recognize three ‘originative sources’ 
+(or elements),” he writes; “firstly, that which 
+is potentially perceptible body; secondly, the 
+contrarieties {e.g., heat and cold); and thirdly. 
+Fire, Water, and the like.” The “potentially 
+perceptible body” is identified with prime mat- 
+ter, and, since this “has no separate existence, 
+but is always bound up with a contrariety,” 
+it can be ruled out from the usual notion 
+of element. The elementary qualities, the 
+“contrarieties” named secondly, are the hot 
+and cold and dry and moist. The so-called 
+elements. Fire, Air, Water, and Earth, are left 
+to the last, and are mentioned “only thirdly,” 
+Aristotle says, because they “change into one 
+another . . . whereas the contrarieties do not 
+change.” 
+
+The elementary qualities “attach them- 
+selves” by couples to the “apparently ‘simple’ 
+bodies.” In consequence, Aristotle writes, “Fire 
+
+is hot and dry, whereas Air is Hot and moist 
+
+and Water is cold and moist, while Earth is 
+cold and dry.” Each of them, however, “is 
+characterized /7flr excellence by a single quality.” 
+
+In terms of these simple bodies and the ele- 
+mentary qualities all other material things can 
+be explained. 
+
+In contrast to the elements stand the mixed, 
+or compound, bodies, in the constitution of 
+which two or more elements combine. There 
+may be many'kinds of mixed bodies, but none 
+is irreducible in kind, as are the four elements; 
+any mi.xed body can be divided into the differ- 
+ent kinds of elementary bodies which compose 
+it, whereas the elementary bodies cannot be 
+divided into parts which are different in kind 
+from themselves. A living body, for example, 
+may contain parts of earth and water, but the 
+parts of earth are earth, the ‘parts of water, 
+water. 
+
+It is precisely the mode of divisibility that 
+Aristotle declares is “the fundamental ques- 
+tion.” In answering this question he opposes the 
+theory of the four elements to another Greek 
+account of the constitution of matter— the 
+atomic theory, developed by Leucippus and 
+Democritus, and expounded for us in Lucretius' 
+poem On the Nature of Things. 
+
+/ 
+
+According to the Greek atomists, matter is 
+not infinitely divisible. “If nature had set no 
+limit to the breaking of things,” Lucretius 
+writes, “by this time the bodies of matter could 
+have been so far reduced . . . that nothing 
+could within a fixed time be conceived out of 
+them and reach its utmost growth ‘of being.” 
+There must then be “a fixed limit to their 
+breaking” — a limit in physical division whicli 
+ultimately reaches units of matter that are ab- 
+solutely indivisible. Lucretius calls them “first 
+beginnings ... of solid singleness, . . . not com- 
+pounded out of a union of parts, but, rather, 
+strong in everlasting singleness” — the “seeds of 
+things,” or atoms. The Greek word from which 
+“atom” comes literally means uncuttable. 
+
+From this it is evident that Aristotle can 
+deny the existence of atoms while at the same 
+time he affirms the existence of elementary 
+bodies. The elements, unlike the atoms, are not 
+conceived as indivisible in quantity, but only 
+as incapable of division into diverse kinds of 
+matter. 
+
+In the Greek conception of atom and ele- 
+ment, the difference between them lies in this 
+distinction between quantitative and qualita- 
+
+tive indivisibility. The atom is the least quan- 
+tity of matter. It cannot be broken into quan- 
+titative parts. The elementary body is not 
+atomic. It is always capable of division into 
+smaller units, but all of these units must be of 
+the same kind as the elementary body under- 
+going division. 
+
+The element is indivisible only in the sense 
+that it cannot be decomposed into other lijnds 
+of matter, as a mixed body can be decom- 
+posed into its diverse elements. The atom can- 
+not be divided in any way. Only compound 
+bodies can be divided into their constituent 
+atoms, all of which are alike in kind, differing 
+only quantitatively — in size, shape, or weight. 
+Different kinds of matter occur only on the 
+level of compounds and as the result of diverse 
+combinations of atoms. 
+
+This last point indicates another contrast 
+between atoms and elements in ancient physi- 
+cal theory. The elements are defined, as we have 
+seen, by their qualitative differences from one 
+another; or, more strictly, according to combi- 
+nations of elementary sensible qualities— hot 
+and cold, moist and dry. By virtue of the quali- 
+ties peculiar to them, the four elements stand 
+in a certain order to one another. Water and 
+air, according to Plato, are “in the mean be- 
+tween fire and earth” and have “the same pro- 
+portion so far as possible; as fire is to air so is 
+air to water, and as air is to water so is water to 
+earth.” The quality which two of the elements 
+have in common provides the mean. Thus fire 
+and air are joined by the common quality of 
+hot; air and water by moist; and water and 
+earth by cold. 
+
+When their analysis reached its greatest re- 
+finement, the ancients recognized that the 
+earth, air, fire, and water of common experience 
+do not actually have the purity requisite for 
+elements. They are “not simple, but blended, 
+Aristotle writes, and while the elements are 
+indeed similar in nature to them, [they] are 
+not identical with them.” The element corre- 
+sponding to fire is ‘such-as-fire,’ not fire; that 
+which corresponds to air is ‘such-as-air, and so 
+on with the rest of them.” Thus the four ele- 
+ments are only analogous to, for they are purer 
+than, ordinary earth, air, fire, and water; yet 
+their names continued to be used as symbols 
+for the true elements, a connotation which is 
+
+still retained when we speak of men struggling 
+against or battling with “the elements.” 
+
+“It will no doubt be a matter of surprise,” 
+Lavoisier writesun the Preface to his Elements 
+of Chemistry, “that in a treatise upon the ele- 
+ments of chemistry, there should be no chapter 
+on the constituent and elementary parts of 
+matter; but I shall take occasion, in this place, 
+to remark that the fondness for reducing all the 
+bodies in nature to three or four elements, 
+proceeds from a prejudice which has descend- 
+ed to us from the Greek philosopliers. The 
+notion of four elements, which, by the variety 
+of their proportions, compose all the known 
+substances in nature, is a mere hypothesis, 
+assumed long before the first principles of ex- 
+perimental philosophy or of chemistry had 
+any existence.” 
+
+This does not mean that Lavoisier entirely 
+rejects the notion of elements in chemical anal- 
+ysis. On the contrary, he says that “we must 
+admit, as elements, all the substances into which 
+we are capable, by any means, to reduce bodies 
+by decomposition.” His quarrel with the an- 
+cients chiefly concerns two points. The first is 
+on the number of the elements, which he thinks 
+experiment has shown to be much greater than 
+the four of classical theory. The second is on 
+the simplicity of the experimentally discovered 
+elements. They can be called atoms or simple 
+bodies only if we do not thereby imply that we 
+know them to be absolutely indivisible — either 
+qualitatively or quantitatively. We are not en- 
+titled “to affirm that these substances tve con- 
+sider as simple may not be compounded of two, 
+or even of a greater number of principles” 
+merely because we have not yet discovered 
+“the means of separating them.” 
+
+In modern physics and chemistry, the dis- 
+tinction between element and atom seems to 
+be abolished. The same unit of matter is at once 
+both an atom and an element. The table of 
+atomic weights is also a chart of the elements. 
+The classification of atoms is both quantitative 
+and qualitative — qualitative in the sense that 
+the atoms of different elementary kinds of mat- 
+ter differ in their active properties. 
+
+According to the ancient meaning of the 
+terms, the molecule would seem to be both a 
+mixture and a compound~w/.vc^/, in that it can 
+
+be broken up into other l^nds of matter; com- 
+pound^ in that it can be divided into smaller 
+units of matter. But in modern theory the 
+meanings of “compound” and “mixture” have 
+also changed, the molecule being classified as a 
+compound rather than a mixture. The combi- 
+nation of the elements to form molecular com- 
+pounds is determined by the proportion of 
+their weights or valences rather than by a fu- 
+sion of their qualities. , 
+
+The most radical change in theory is not 
+this, however; nor is it the increase in the num- 
+ber of the elements from four to more than 
+ninety-four; nor the ordering of the iclements 
+by, reference to their atomic weights rather 
+than by the contrariety of their qualities. It 
+results from the discovery that an atom is not 
+uncuttable and that new elements can be pro- 
+duced by atomic fission. Faraday’s experimen- 
+tal work in ionization and in electro-chemical 
+decomposition lies at the beginning of the 
+physical researches which have penetrated the 
+interior structure of the atom and isolated 
+smaller units of matter. Even before atoms 
+were experimentally exploded, analysis had pic- 
+tured them as constituted by positive and neg- 
+ative charges. 
+
+As the result of his researches, Faraday, for 
+example, conceives of atoms as “mere centres 
+of forces or powers, not particles of matter, in 
+which the powers themselves reside.” The atom 
+thus ceases to be “a little unchangeable, im- 
+penetrable piece of matter,” and “consists of 
+the powers” it exercises. What was ordinarily 
+referred to “under the term shape” becomes 
+the “disposition and relative intensity of the 
+forces” that are observed. 
+
+With Faraday it is evident that the meaning 
+of “atom” has departed far from the sense in 
+tvhich Lucretius speaks of “units ofsohd single- 
+ness” or Newton of “solid, massy, hard, im- 
+penetrable, movable particles . . . incompara- 
+bly harder than any porous bodies compounded 
+of them; even so very hard, as never to wear or 
+break in pieces; no ordinary power being able 
+to divide what God himself made one in the 
+first creation.” With the conception of the ele; 
+ments as different kinds of atoms; then, with 
+the discovery of radio-active elements under- 
+going slow disintegration; finally, with the pro; 
+duction of isotopes and new elements through 
+
+atomic change; the (meaning of “element” has 
+moved equally far from its original sense. 
+
+Do THESE ALTERED meanings change the basic 
+issues in the philosophy of nature? Are these 
+issues resolved-or rendered meaningless by ex- 
+perimental science ? 
+
+The central point, in the theory of elements 
+is an irreducible qualitative diversity in kinds 
+of matter. The elements of modern chemistry 
+may no longer be elementary types of matter in 
+the strict sense of the word; but the kind of dif- 
+ference which would be strictly elemental may 
+be found in the distinction of the positive, the 
+negative, and the neutral with respect to the 
+electrical charge of sub-atomic particles. 
+
+Similarly, the central point in atomism as a 
+philosophy of nature is the existence of ab- 
+solutely indivisible units or quanta of matter; 
+in other words, the denial that matter is in- 
+finitely' divisible, that any particle, no matter 
+how small, is capable of being broken into 
+smaller parts. The strict conception of the 
+atom is, therefore, not invalidated by the ex- 
+perimental discovery that the particles called 
+“atoms” are not atomic, that they are them- 
+selves complex structures of moving particles, 
+and that they can be physically divided. 
+
+It makes no difference to the philosophical 
+atomist whether the particles which constitute 
+molecules or the particles — thej electrons and 
+protons, the neutrons and mesons — which con- 
+stitute “atoms,” are atomic. Even if further ex- 
+perimental work should succeed in dividing 
+these “sub-atomic" particles, the question 
+could still be asked: Is matter infinitely divisi- 
+ble, regardless of our actual power to continue 
+making divisions ad infinitum ? Since the ques- 
+tion, when thus formulated, cannot be put to 
+experimental test, the issue concerning atoms 
+would remain. ,,, 
+
+That issue would not refer to any particle of 
+matter defined at a certain stage of phy’sical 
+analysis or experimental discovery. It would 
+consist in the opposition of two views of the 
+nature of matter and the constitution of the ma- 
+terial universe: the affirmation, on the one 
+hand, that truly atomic particles must exist; 
+and the denial, on the other, that no particle 
+of matter can be atomic. The affirmative argU; 
+ments of Lucretius and Newton, make the con- 
+
+stancy of nature and the indestructibility of 
+matter depend on the absolute solidity and 
+impenetrability of matter’s ultimate parts. The 
+negative arguments of Aristotle and Descartes 
+proceed from the divisibility of whatever is 
+continuous to the conclusion that any unit of 
+matter must have parts. 
+
+The philosophical doctrine of atomism, in die 
+form in which Lucretius adopts it from Epicu- 
+rus, insists upon void as the other basic princi- 
+ple of the universe. “Nature," he writes, “is 
+founded on two things: there are bodies and 
+there is void in which these bodies are placed 
+and through which they move about.” Com- 
+pound bodies are divisible because the atoms of 
+which they are composed are not absolutely 
+continuous with one another, hut are separated 
+by void or empty space. That is why they are 
+not solid or impenetrable, as are the atomic 
+particles which are composed of matter en- 
+tirely without void. In Newton’s language 
+hardness must be “reckoned the property of all 
+uncompounded matter,” for if “compound 
+bodies are so very hard as we find some of them 
+to be, and yet are very porous,” how much 
+harder must be “simple particles which are 
+void of pores.” 
+
+The opponents of atomism tend to deny the 
+e.xistence not only of atoms, but of the void as 
+well. Descartes, for example, denies that there 
+can be “any atoms or parts of matter which are 
+indivisible of their own nature. ... For how- 
+ever small the parts are supposed to be, yet 
+because they are necessarily extended we are 
+always able in thought to divide any one of 
+them into two or more parts.” For the same 
+reason, he maintains, there cannot be a space 
+in which there is no substance . . . because the 
+e.xtension of space or internal place is not dif- 
+ferent from that of body.” The physical world, 
+on this view, is conceived as what the ancients 
+called a plenum, continuously filled with mat- 
+ter. This controversy over void and plenum is 
+elaborated in the chapter on Space. 
+
+Although he uses the language of the atom- 
+ists, Faraday seems to agree svith Descartes 
+rather than with Newton. He pictures matter 
+as “continuous throughout,” with no distinc- 
+tion between “its atoms and any intervening 
+space.” Atoms, he thinks, instead of being ab- 
+solutely hard, are “highly elastic,” and they are 
+
+“mutually penetrable.” He compares the 
+combination and separation of two atoms with 
+“the conjunction of two sea waves of different 
+velocities into one, their perfect union for a 
+time, 'and final separation into the constituent 
+waves.” Such a view of the constitution of mat- 
+ter, Faraday rvrites, leads to “the conclusion 
+that matter fills all space, or at least all space to 
+which gravitation extends.” 
+
+The very continuity — the voidlessness or 
+lack of pores — which the opponents of atom- 
+ism insist is the source of matter’s infinite divis- 
+ibility, the atomists seeni to git'e as the reason 
+why the ultimate ‘particles are "without parts, 
+hence simple, solid, and indivisible. ' ■ 
+
+Om stiil othcr points, there is disagreement 
+among the atomists themselves. Not all of 
+them go to the extreme of denying existence or 
+reality to anything immaterial; nor do all insist 
+that whatever exists is either an atom or made 
+up of atoms and void. In the tradition of the 
+great books, the extreme doctrine is found in 
+Lucretius alone. Though it is shared by Hobbes, 
+and is reflected in the Leviathan, it is not e.x- 
+pounded there. It is developed in his treatise 
+Concerning Body. 
+
+For Lucretius, the atoms are eternal as well 
+as indestructible. The “first beginnings” of 
+all other things are themselves without be- 
+ginning. “In time gone by,’.’ Lucretius writes, 
+“they moved in the same way in which now 
+they move, and will ever hereafter be borne 
+along in like manner” through an endless suc- 
+cession of worlds, each of which comes to be 
+through a concourse of atoms, each in turn 
+perishing as with decay that concourse is dis- 
+solved. Newton writes in what seems to be a 
+contrary vein. “It seems probable to me,” he 
+says, “that God in the beginning formed mat- 
+ter in solid, massy, hard, impenetrable, mova- 
+ble particles.” “All material things,” he contin- 
+ues, “seem to have been composed of the hard 
+and solid particles above mentioned, variously 
+associated in the first Creation by the counsel 
+of an intelligent Agent.” 
+
+Nor does Newton appeal to the properties 
+and motions of the ultimate particles except to 
+explain the characteristics and laws of the phys- 
+ical world. Unlike Lucretius and Hobbes, he 
+does not — and there seems to be some evidence 
+
+all 
+
+in the Optics that he would not — reduce the 
+soul of man to a flow of extremely mobile 
+atoms, or attempt to account for all psycho- 
+logical phenomena (thought as well as sen- 
+sation and memory) in terms of atom buffeting 
+atom. 
+
+The atomic theory of the cause of sensation 
+is not limited to the materialists. Writers like 
+Locke, who conceive man as having a spiritual 
+nature as well as a body, adopt an atomistic 
+view of the material world. “The different mo- 
+tions and figures, bulk and number of such par- 
+ticles,” he writes, “affecting the several organs 
+of our senses, produce in us those different sen- 
+sations which we have from the colours and 
+
+smells of bodies.” Furthermore, the distinction 
+which is here implicit — between primar)’ and 
+secondary sense qualities — is not peculiar to 
+atomism. It can also be found in a critic of 
+atomism like Descartes. 
+
+The atomistic account of sensation is, never- 
+theless, of critical significance in the contro- 
+versy concerning this type of materialism. Crit- 
+ics of atomism have contended that the truth 
+of atomism as a materialistic philosophy can be 
+no greater than the measure of its success in ex- 
+plaining sensation — the source upon which the 
+atomist himself relies for his knowledge of na- 
+ture — in terms of the properties and motions of 
+particles themselves imperceptible.
+
+
+OUTLINE OF TOPICS 
+
+1. The concept of element 407 
+
+2. The comparison of element, principle, and cause 
+
+3. The theory of the elements in natural philosophy, physics, and chemistry 408 
+
+3a. Element and atom: qualitative and quantitative indivisibility 
+3b. The enumeration of the elements: their properties and order 
+3c. The mutability of the elements: their transmutation 
+
+3<f. Combinations of the elements: compounds and mixtures 409 
+
+4. The discovery of elements in other arts and sciences 
+
+5. The theory of atomism: critiques of atomism 410 
+
+5a. The conception of atomic bodies: imperceptible, indestructible, and indivisible 
+
+5b. Arguments for and against the existence of atoms: the issue concerning the 
+infinite divisibility of matter 
+
+5c. Atoms and the void as the ultimate constituents of reality 
+
+^d. The number, variety, and properties of atoms: the production of sensible things 
+
+by their collocation 411 
+
+5e. The atomistic account of sensation and thought: the idola 
+
+5/- The atomic constitution of mind and soul: its bearing on immortality 
+
+5g. The explanation of natural phenomena by reference to the properties and mo- 
+tions of atoms j 
+
+5b. The atomistic account of the origin and decay of the world, its evolution and 
+order
+
+
+REFERENCES
+
+REFERENCES 
+
+ 
+
+I. The concept of element 
+
+7 Plato; Timaeus, 455d-4S6a / Theaetelus, 
+544d-547c esp 544d-545a, 547a / Laws, bk x, 
+761b-d 
+
+8 .'\ristotle : Topics, bk vi, ch 13 204c-206a 
+esp [i5o'’i8-26] 20Sb-c / Physics, bk i, ch i 
+259a-b / Heavens, bk in, ch 3 [302''io]-ch 4 
+[302‘'2o] 393c-394a / Metaphysics, bk i, ch 3 
+[983"24]-ch 5 [986'’8] 501c-504c; ch 6 [pSy** 
+ipJ-CH 7 [pSS-'ji] 505d-506c; ch 8 506d-508c; 
+ch 9 [gga^i-p] 510b; [g^z^iS-gg^^io] 510b- 
+Sllc esp [992'>i8-9g3''io] Slla-c; bk hi, ch i 
+[ 995*'27-29] 514b; ch 3 [gg8“2o-*’i4l 517a-b; 
+BK V, CH 3 534c-d; ch 4 [ioi4‘’27-34l 535a-b; 
+CH 25 [i023'’i7-25] 545b-c; bk vii, ch 7 5S5a- 
+5S6b; CH 10 SS8a-S59d; ch 17 [io4i‘’ii-33] 
+565d-566a,c; bk x, ch t [i052*’8-i4] 579a; 
+BK XII, ch 4-5 S99d-601a; bk xiv, ch 2 
+[io88'>i4-28] 620d-621a / Soul, bk z, ch 5 
+[4io''i2-23] 640a-b 
+
+9 Aristotle: Politics, bk 1, ch i [z252'*i8-24l 
+44 Sb 
+
+11 Nicomachus: Arithmetic, bk h, 829a; 833a-b 
+
+17 Plotinus: Third Ennead, tr 1, ch 3 79b-c 
+
+18 Augustine: City of God, bk xix, ch 16, 522a 
+
+19 Aquinas: Sumnia Theologica, part i, Q 66, 2 
+345 d- 347 b; q 91, a i, ans and rep 3 484 a- 485 b 
+
+20 Aquinas: Summa Theologica, part iti suppl, 
+Q 74, A I, REP 3 925c-926c; q 91, a 5, ans and 
+REP 4 I024a-1025b 
+
+31 Descartes: Rules, viii, 14b-c; xii, 22b-c 
+
+42 Kant: Pure Reason, lOOc-d; 103a; 105b-106a; 
+137a-140c 
+
+45 Lavoisier: Elements of Chemistry, pref, 3b-4a 
+esp 3d-4a 
+
+53 James : Psychology, 327a-331b passim 
+
+2. The comparison of element, principle, and 
+cause 
+
+7 Plato: Timaeus, 455d 
+
+8 Aristotle: Physics, bk i, ch i 2S9a-b; ch 4-9 
+262a-268d passim / Generation and Corruption, 
+bk h, ch I [329"24-'’2] 42ga-b / Metaphysics, 
+BK 1, ch 6 [ 9 ^ 7 ^ 19 - 23 ] 505d; [988“7-i6j 
+506a-b; bk hi, ch 3 [998’'20-'’i3] 517a-b; bk 
+V, ch 1-3 S33a-534d; ch 24 54Sa-b; bk vii, 
+ch i6 [io4o'’i6-23] S64d; ch 17 [1041'’! 1-33] 
+565d-S66a,c; bk viii, ch 3 [io43’’5-i4] 567d- 
+S68a; bk x, ch i 1io52*’8-i4] 579a; bk xii, ch 
+I 598a-c: CH 4-5 599d-601a esp ch 4 [1070'’ 
+22-35] 600b 
+
+17 Plotinus: Third Ennead, tr i, ch 3, 79c 
+
+19 Aqui.nas; Summa Theologica, part i, q 33, a 
+1, REP I 180d-181c 
+
+45 Lavoisier: Elements of Chemistry, pref, 3d-4a 
+
+THE GREAT 
+
+3. The theory of the elements in natural phi- 
+losophy, physics, and chemistry 
+
+7 VhhTO-.Phaedo, 240d'242b/ Timaeus, A^Sb-d-, 
+455c-462b / Phikhis, 618c-619a / Laws, bk x, 
+760a-761d 
+
+8 Aristotle; Physics, bk i, ch j [i84^io]-ch 2 
+[i 84*’24] 259a-c; ch 4-9 262a-268d / Heavens, 
+
+BK iii-iv 389b,d-405a,c / Generation and Cor- 
+ruption 409a-441a,c esp bk ii, ch 1-3 428b, d- 
+431a / Meteorology 44Sa-494d 
+
+10 Galen: Natural Faculties, bk i, ch 2-3 167b- 
+169a; ch 6 169c-170c; bk 11, ch 4, 186d-187b 
+12 Lucretius; Nature of Things, bk i [635-920] 
+8d-12b 
+
+17 Ploiinus: Second Ennead, tr i, ch i, 3Sa 
+20 Aquinas: Sumnia Theologica, part i-ii, q 49, 
+
+A 4, ans 5a-6a: part hi suppl, q 74 925b- 
+935a, c passim; q 91,' a 4 1022d-1023d; a 5, 
+
+ANs and REP 4 1024a-1025b 
+28 Gilbert: Loadstone, bk hi, 60c-d 
+45 Lavoisier; Elements of Chemistry la-159d 
+passim 
+
+45 Faraday: Researches in Electricity, 383b-386c 
+53 James: Psychology, 876a 
+
+за. Element and atom: qualitative and quanti- 
+
+tative indivisibility 
+
+8 Aristotle: Physics, bk i, ch 2 [i84'’i5-22] 
+259b-c / Heavens, bk hi, ch 4 [303®3]-ch 5 
+[304*‘23] 394b-396a; ch 7 [305‘’27-3o6'’2] 
+397a-d; bk iv, ch 2 [3o8‘’29-3io“i3] 400b- 
+401c / Metaphysics, bk i, ch 4 [985*’3-i9] 
+SOSc-d; BK V, CH 3 [ioi4'’3-6] 534d; ch 25 
+545b-c / Soul, BK I, CH 2 [403'’28-404®5] 633a-b 
+12 Lucretius; Nature of Things, bk 1 [599-920] 
+
+8b 12b esp [705-920] 9c-12b 
+17 Plotinus : Third Ennead, tr i, ch 3 79b-c 
+30 Bacon: Novum Organum, bk i, aph 45 110b; 
+
+aPh 66, 114d'115a 
+42 Kant; Pure Reason, 161d-163a 
+45 Lavoisier: Elements of Chemistry, prep, 3b- 
+4a; PART HI, 87c-d; 103b-c; lOSd 
+
+зб. The enumeration of the elements: their 
+
+properties and order 
+
+7 Plato: Cratylus, 98d / Phaedo, 247b-248c / 
+Ttmaeus, 448b-d; 458b-460b / Philebus, 618c- 
+619a / Laws, bk x, 760a-761d 
+
+8 Aristotle: Physics, bk hi, ch 5 (204*’i0-2O5'’ 
+
+' 6] 282c-283a; bk iv, ch i [208^8-22] 287b / 
+
+Heavens, bk i, ch i-8 359a-369a; ch 9 [278*’ 
+22-35] 370a; bk h, ch 3 377c-378a; bk hi, 
+
+CH r 389b,d-391c; ch 3-5 393c-396a; bk hi, 
+ch 7 [3o6'‘i]-bk IV, CH 6 [3i3'’24] 397b-405a,c 
+esp BK IV, CH 3-5 401c-404d / Generation and 
+Corruption, bk 1, cH i 409a-410c; bk 11, ch 
+1-3 428b,d-431a / Meteorology, bk i, ch 2-3 
+445b-447d; bk iv, ch i [378*’io-26] 482b, d- 
+483a / Metaphysics, bk 1, ch 3 [g83*24]-cH 5 
+’ [g86'’8] 501c-504c; ch 7 [988''i7-3i] S06b-c; 
+
+ch 8 506d-S08c; bk v, ch 4 [ioi4*’27-35] 
+S35a-b / Soul, bk i, ch 2 [404*’7-3i] 633d- 
+
+IDEAS 3 to 3f 
+
+634a.; CH 5 [409'’i8-4ii'‘7] 639c-641a: bk m, 
+ch I [424*’20-425“i3] 656b,d-657a / Seme and 
+the Sensible, ch 2-5 674a-683b passim 
+•9 Aristotle: Parts of Animals, bk ii, chi 
+[646''i2-*’2o] 170a-d; ch 2 [648^o]-cii 3 
+[649'’22] 172c-174b / Generation of Animals, 
+BK ni,'CH II [76i*’ 7-24] 302c-d 
+
+10 Galen: Natural Faculties, bk i, ch 2-3, 167d- 
+169a; ch 6 169c-170c; bk ii, ch 4, 186d-187a; 
+CH 8, 193b-d 
+
+11 Nicomachus: Arithmetic, bk ii, 829a 
+
+12 Lucretius : Nature of Things, bk i [705-715] 
+9d; [763-788] lOb-c 
+
+12 Epictetus: Discourses, bk hi, ch 13, 188d- 
+189a 
+
+13 Virgil: Aeneid, bk vi [724-731] 230b 
+
+17 Plotinus: Second Ennead, tr i, ch 3 36b d; 
+CH 6-7 37d-39c / Fourth Ennead, tr vii, ch 2 
+192a'b / Sixth Ennead, tr. hi, ch 9, 285d- 
+286a; tr vii, ch ir 326d-327d 
+
+18 Augustine: City of God, bk viii, ch 2 265b- 
+266a 
+
+19 Aquinas: Summa Theologica, part i, q 66, 
+
+A I, CONTRARY and REP tO CONTRARY 343d- 
+34Sc; A 2 345d-347b; q 71, a i, rep 2 367a- 
+368b; Q 91, A I, ANS and rep 3 484a 485b; 
+Q 115, A 3, REP 2 588c-S89c 
+
+20 Aquinas: Summa Theologica, part hi suppl, 
+Q 74 925b-935a,c passim, esp a 5 929d-931b; 
+q 79, A I, REP 4 951b-953b; Q.gi, a 4 1022d- 
+1023d 
+
+28 Gilbert: Loadstone, bk i, 13b-d; bk hi, 
+60c-d 
+
+28 Harvey: On Animal Generation, 491a-b; 
+496a-c 
+
+30 Bacon: Novum Organum,,BK i, aph 454108; 
+
+APH 66, 114d-llSa; bk ii, aph 40, 171a-173a 
+32 Milton: Paradise Lost, bk hi [708-721] 150b- 
+151a 
+
+45 Lavoisier: E/ewenW of Chemistry, prep, 3b-4a; 
+
+part 1, 29d-33b; part 11, 53a-55a; 57c-65a,c 
+45 Faraday; Researches in Electricity, 383b-386c 
+51 Tolstoy: War and Peace, bk yi, 248d-249a 
+
+5c. The mutability of the elements: their trans- 
+' mutation ' ' 
+
+7 Plato; Timaeus, 456b-c; 458d-460b 
+
+8 Aristotle; Heavens, bk i, ch 3 360d-362a; 
+BK III, ch I [298“24-299“i] 389b,d-390b; ch 
+2 [3oi’’33-3o 2'‘9] 393b; ch 6 [304*’23]-ch 8 
+[3o 6'’29] 396a-398a / Generation and Corrup- 
+tion, BK I, ch i' 409a-410c; 'cH 6 [322'’i-2i] 
+
+‘ 42013-d; BK II, CH 4-6 431b-435a / Meteorol- 
+ogy, BK I, CH 3 [339“36-’’3] 445d / Metaphysics, 
+BK I, CH 8 [989’'i 8-29] 507b-c 
+10 Galen: Natural Faculties, bk i, ch 2, 167d- 
+168b; BK II, cH 3, 185c-d 
+12 Lucretius; Nature of Things j bk i [635-829] 
+8d-lla ; bk V [235-305] 64a-65a ; [380-4 15] 66a-c 
+12 Aurelius: Meditations, bk ii, sect 3 257a-b; 
+
+BK IV, SECT 46 267c; bk v, sect 13 271b; 
+^ BK VII, SECT 18 281a,- sect 23 281b; sect 25 
+281c; sect 50 283a; bk x, sect 7 297b-c 
+
+to 4 Chapter 21 
+
+19 Aquinas: Summa Theologica, part i, q 66, 
+A 2, ANs 345d-347b 
+
+20 Aquinas: Summa Theologica, part hi suppl, 
+
+Q 74> 925c-932b passim; q pr, a 5, ans 
+
+and rep 4 1024a'lQ2Sb 
+
+21 Dante: Divine Comedy, paradise, vii [i2t- 
+148] 116b-c 
+
+22 Chaucer: Canon's Yeoman’s Prologue 471b- 
+474a / Canon’s Yeoman’s Tale 474b-487a 
+
+30, Bacon: Advancement of Learning, 14b'C 
+
+34 Newton: Optics, bk hi, S31a-b 
+
+40 Gibbon: Decline and Fall, 148a-b 
+
+41 Gibbon: Decline and Fall, 299d-300a 
+
+44 Boswelu: Johnson, 262c 
+
+45 Lavoisier: Elements of Chemistry, parti, 41b-c 
+
+id. Combinations of the elements: compounds 
+and mixtures 
+
+7 Plato: Timaeus, 448b-d; 449c'450a; 4S2d- 
+454a; 460b-462c 
+
+8 Aristotle; Topics, bk vz, ch 14 (151*20-52} 
+206a / Physics, bk hi, ch 5 [204*’io-22] 282c-d; 
+BK VH, CH 3 [246’’2 -i9] 3290-3308 / Heavens, 
+BK I, CH 2, [268*’27-269*3o 1 360a-c; ch 5 
+[27i'’i 8-23] 362d-363a; bk hi, ch 3 [302*10]- 
+CH 4 [302’’28] 393c-394a; ch 8 \yo6'^22-2g] 
+398a; bk iv, ch 4 [3ii“30-‘’i4] 402d-403a / 
+Generation and Corruption, bk i, ch i [314*25- 
+’’2] 409c; CH 2 [315*28-33] 410d; ch 10 426c- 
+428d; BK II, CH 6-8 433d-436d / Meteorology, 
+BK m, CH 6 [378“i3]-BK iv, ch 12 [390^21] 
+482c-494d / Metaphysics, bk vii, ch 17 [1041** 
+12-33I 565d-566a,c / Soul, bk i, ch 2 [404*’7- 
+29] 633d-634a; [405*’8-3 i] 634d'63Sa; ch 5 
+[409‘’i8-4ii*7] 639c-641a; bk hi, ch 13 
+[435“n-*’4l 668a-c / Sense and the Sensible, 
+CH 2-3 674a-678b 
+
+9 Aristotle: Parts of Animals, bk i, ch i 
+[64o’’5-i 8] 163a-b; bk ii, ch i [646“i2-’’2o] 
+
+- 170a-d 
+
+10 Hippocrates: Ancient Medicine, par 15 Sc-d 
+
+10 Galen: "Natural Faculties, bk i, ch 2-3 167b- 
+169a; ch 6 169c-170c; bk 11, ch 8, 193b'd 
+
+12 Lucretius: Nature of Things, bk i [635-920] 
+8d-12b 
+
+12 Epictetus: Discourses, bk hi, ch 13, 189a 
+
+12 Aurelius: Meditations, bk x, sect 7, 297b 
+
+16 Kepler: Epitome, bk iv, 929b'930a 
+
+17 Plotinus: Second Ennead, tr i, ch 6-8 37d- 
+39d; TR vii, ch 1-2 62d-64b 
+
+18 Augustine: City of God, bk vhi, ch 2 265b- 
+266a 
+
+19 Aquinas: Summa Theologica, part i, q 71, 
+A I 367a-368b; Q 76, a 4, rep 4 393a-394c; 
+
+' Q 91, A I 484a-48Sb 
+
+20 Aquinas: Summa Theologica, part hi, q 2, 
+A I, ans 710a-711c; part hi suppl, q 74, a i, 
+REP 3 92Sc-926c; a 4, ans 928d-929d: a 5 
+929d-931b; q 79, a 1, rep 4 951b-9S3b; q 80, 
+A 3, REP 3 9S8b-9S9c| Q 82, A I, ans g68a- 
+970c; Q 91, A 5 1024a-1025b 
+
+21 Dante: Divine Comedy, paradise, vh [121- 
+148] 116b-c 
+
+ELEMENT 409 
+
+28 Gilbert: Loadstone, bk i, 13b'14d; bk h, 
+29c-30a 
+
+28 Harvest; On Animal Generation, 495c-496d 
+
+30 Bacon: Novum Organum, bk i, aph 66 114d- 
+115c; bk 11, aph 7 139c-140a; aph 40, 171a- 
+173a; aph 48, 18Ia-184a 
+
+33 Pascal: Vacuum, 367a-b , 
+
+35 Berkeley: Human Knowledge, sect 65 
+42Sd-426a 
+
+45 Lavoisier: Elements of Chemistry, part i, 22c- 
+52a, c; part ii, 54b,d-55d; 57c-86a,c; part 
+HI, 87c-d; 103b-c; 105d; 117a-128c esp 1173- 
+118a 
+
+45 Faraday: Researches in Electricity, 309a-312a; 
+312c-313d; 314a-b; 31Sa-b: 327a-422a,c pas- 
+sim; 541b,d-584a,c passim 
+
+51 Tolstoy: War and Peace, bk vi, 248d-249a 
+
+53 James; Psychology, 104a-105a; 876a 
+
+4. The discovery of elements in other arts and 
+sciences 
+
+7 Plato: Cratylus, 104c-110d esp 106a-107b / 
+Republic, BK III, 333c-d / Theaetetus, S44c- 
+548c / Philebus, 615c-617d; 618d-619b; 635b- 
+639a,c 
+
+8 Aristotle: Categories, ch 2 [1*17-19] 5b / In- 
+terpretation, ch 4 [i6*’27-35] 160. / Prior Analyt- 
+ics, bk I, CH I [24'’i7-22] 39 c: ch 23 [4o’’i8- 
+
+22) 57b; [41*4-7] 57d / Posterior Analytics, bk 
+I, CH 4 [73*33-‘’2] lOOb-c; ch 7 [75“38-’=7] 
+103c: ch 23 [84'’i9-85“i] 115c-116a; ch 27 
+119b / Topics, BK I, CH 4-9 144b 147b esp ch 
+4 [ioi''n-25] 144b-c; bk vi, ch i [139*24-32] 
+192a; ch 13 204c-206a / Metaphysics, bk i, 
+ch 5 [985’’22-986*2i] 503d-504b; cii 6 [987’’ 
+19-23] S05d; [988*7-16) 506a-b; ch 9 [gga*" 
+18-993*10] 511a-c; BK HI, ch 3 [998*20-^11] 
+51 7a-b; ch 6 [iod2*’iz- 25] 521 b-c; dk v, ch 3 
+534c-d: BK XH, CH 4-5 599d-601a / Sold, bk i, 
+ch 2 [404*'7-29] 633d-634a; ch 5 [409*’23-4ii* 
+
+23] 639d-641b; bk hi, ch 5 [430*10-14] 662c 
+
+9 Aristotle: Parts of Animals, bk ii, ch i 
+[646*io]-ch 2 [647*’3o] 170a-l72a / Politics, bk 
+i, ch 1 [1252*18-24] 445b; bk hi, ch i [1274*’ 
+31-1275*2] 471b; CH 3 [i276“34-'’i 5] 473b-c / 
+Rhetoric, bk hi, ch 13 667b-d / Poetics, ch 6 
+684a-685a; ch 20 692b-693a 
+
+10 Galen: Natural Faculties, bk i, ch 6 I69c- 
+170c: bk II, CH 6 188c 191a; bk hi, ch 15, 
+215a-b 
+
+11 Euclid: Elements la-396b 
+
+11 Nicomachus: Arithmetic, bk ii, 829b-d 
+
+12 Lucretius - Nature of Things, bk i [823-829] 
+11a; bk II [68S-699] 23d 
+
+16 Kepler: Harmonies of the World, 1016b 1017a 
+
+18 Augustine: City of God, bk mx, ch 16, 522a 
+
+19 Aquinas: Summa Theologica, part i, q 119, 
+A I, REP 3 604c-607b 
+
+20 Aquinas: Summa Theologica, part ii-ii, q 
+179, A 2, REP 2 607a c; part hi suppl, q 80, 
+A 3 958b-959c 
+
+24 Rabelais: Gargantua and Pantagruel, bk hi, 
+138a-d 
+
+410 THE GREAT IDEAS 5 to 5c 
+
+(4. The discovery of elemetits in other arts and 
+sciences.) 
+
+28 Harvey: Circulation of the Blood, 316d / On 
+Animal Generation, 429c-438c esp 432d-433b; 
+488d-496d esp 490d-491c, 494a-b 
+
+30 Bacon: Advancanent of Learning, 52b-d; 
+76d-77c 
+
+31 Descartes: Rules, vi, 8b-9a; viii, 146-c; 
+XII, 21b-24c / Discourse, part vi, 62a / Ob- 
+jections and Replies, 128a'129a 
+
+35 Locke : Human Understanding, bk ii, ch ii, 
+SECT 1-2 127d-128b; ch vii, sect io 133a-b; 
+cH XII, SECT 1-2 147b-d; sect 8 148c-d; ch 
+XV, SECT 9 164b-d; ch xvi, sect i 165c-d; 
+' CH XXI, SECT 75 200b-d; bk hi, ch iv, sect 
+15-16 263a-c 
+
+39 Smith: Wealth of Nations, bk i, 20b-23b esp 
+20b-21c, 22b-c 
+
+46 Hegel: Philosophy of Right, part hi, par 341 
+110c 
+
+50 Marx: Capital, 6b-c; 19c-26d passim, esp 
+'20b-22a, 25d-26d; 62a; 85d-88d esp 85d, 
+
+88c 
+
+51 Tolstoy: War and Peace, bk xi, 469a-470c; 
+bk xiv, S89c'S90c; epilogue ii, 694d'695c 
+
+53 James: Psychology, xiiib; 18b-19b; 116b-117a; 
+126a; 150a 
+
+54 Freud: War and Death, 7S8a 
+
+5. The theory of atomism: critiques of atom* 
+ism 
+
+7 Plato: Sophist, S67a-S68a 
+
+8 Aristotle: Physics, bk i, ch 2 [i84*’i5-22] 
+259b-c / Heavens, bk i, ch 7 [275*’3o-276“‘i8j 
+367a-b; bk hi, ch 4 [303^3-''8] 394b-d; bk 
+iv, CH 2 [3o8’’29-3IO®I4] 400b-401c / Genera- 
+tion and Corruption, bk i, ch 2 410d-413c; 
+ch 8 [325“23-’’ii] 423d-424b / Metaphysics, 
+bk I, ch 4 [985‘’3-ig] S03c-d 
+
+10 Galen: Natural Faculties, bk i, ch 12-14 
+172d-179d; bk ii, ch 6 188c-19Ia 
+12 Lucretius: Nature of Things la-97a,c 
+12 Aurelius: Meditations, bk iv, sect 3, 263b-c; 
+
+BK IX, SECT 39 295a; bk x, sect 6 297a-b 
+17 Plotinus : Second Ennead, tr iv, ch 7, 52c / 
+Third Ennead, tr i, ch 2, 78d; ch 3 79b-c / 
+Fourth Ennead, tr vii, ch 2-4 192a-193c 
+19 Aquinas: Summa Theologica, part i, q 115, 
+A I, ANs and REP 3,5 585d-S87c 
+25 Montaigne: Essays, 263a 
+28 Harvey: On Animal Generation, 355b-d; 
+495c-496d 
+
+30 Bacon: Novum Organum, bk ii, aph 8 140h 
+
+34 Newton: Principles, bk hi, rule hi 270b- 
+271a / Optics, bk hi, 531b S42a 
+
+35 Locke: Human Understanding, bk iv, ch lii, 
+sect 25-26 321a-c 
+
+42 Kant: Pure Reason, I6ld-163a 
+45 Faraday: Researches in Electricity, 850b, d- 
+855a, c 
+
+52 Dostoevsky: Brothers Karamazov, bk xi, 
+341d 
+
+53 James: Psychology, 876a; 882a-884b 
+
+5a. The conception of atomic bodies: imper- 
+ceptible, indestructible, and indivisible 
+
+8 Aristotle: Generation and Corruption, bk i, 
+CH I [3i4“22-24] 409b-c /' Metaphysics, bk mi, 
+CH 13 [io39'‘2-ii] 562d 
+
+10 Galen: Natural Faculties, ek'i, ch 12 172d- 
+173c; BK II, CH 6 188c-191a 
+12 Lucretius: Nature of Things, bk i [146-328] 
+2d-5a; [483-634] 7a'8d 
+17 Plotinus: Second Ennead, tr iv, ch 7, 52c 
+
+34 Newton: Principles, bk i, prop 73, schol 
+133b-134a; bk hi, rule hi 270b-271a / Op- 
+tics, BK HI, 537a-b; 54lb; 543a 
+
+35 Locke: Human Understanding, bk iv, ch in, 
+SECT 25 321a-b 
+
+45 Faraday: Researches in Electricity, 386c-d; 
+
+8S0b,d-8S5a,c 
+S3 James: Psychology, 68a 
+
+5b. Arguments for and against the existence of 
+atoms: the issue concerning the infinite 
+divisibility of matter 
+
+8 Aristotle: Physics, bk hi, ch 6-7 284b-286c 
+/ Heavens, bk hi, ch 6 [304'’23-305''io] 
+396a-b; bk iv, ch 4 [3ii“30-*’i] 402d-403a / 
+Generation aiid Corruption, bk i, ch 2 [3i5'’25- 
+3i7‘'i7] 411b-413a; ch 8 423b-42Sd / Sense and 
+the Sensible, ch 6 [445^4-446‘'2o] 683b-684c 
+12 Lucretius : Nature of Things, bk i [146-328] 
+2d-Sa; [483-920] 7a-12b; bk h [62-141] 15d- 
+16d 
+
+12 Aurelius: Meditations, Bk x, sect 6'297a-b 
+17 Plotinus: Second Ennead^ tr iv, ch 7 
+52a-c / Third Ennead, tr i, ch 3 79b c / 
+Fourth Ennead, tr ii, ch i, 139d 
+19 Aquinas: Summa Theologica, part i, q 7, 
+A 3, rep 3 32c-33c; a 4, ans 33d-34c 
+28 Galileo: Two New Sciences, first day, 139c- 
+141d; 147d'148b; lSld-153a 
+
+30 Bacon: Novum Organum, bk i, aph 66, 115c 
+
+31 Spinoza: Ethics, part,i, prop 15, schol 
+360b-361d 
+
+34 Newton: Principles, bk hi, rule hi 270b- 
+
+271a / Optics, bk ii, 478b-485b; bk hi, S37a- 
+541b esp 541b , 
+
+35 Locke: Human Understanding, bk ii, ch 
+XVII, SECT 12 170d; ch xxix, sect 16 237b- 
+238a; bk iv, ch x, sect io, 3Slc-352a 
+
+35 Berkeley: Human Knowledge, sect 47 
+421c-422a 
+
+42 Kant: Pure Reason, 131c; 137a-140c; lS2d; 
+161d-163a 
+
+43 Federalist: number 31, 103d 
+
+45 Lavoisier: Elements^ of Chemistry, part t- 
+9a-d 
+
+45 Faraday: Researches in Electricity, 386c-d; 
+8S0b,d-855a,c 
+
+5c. Atoms and the void as the ultimate con- 
+stituents of reality 
+
+7 Plato: Sophist, S67a'b 
+
+8 Aristotle: Physics, bk i, ch 5 [i88“i8-23] 
+263c; BK IV, ch 6-9 292c-297c / Heavens, bk 
+
+5d to 5 g Chapter 21 
+
+I, CH 7 [275b3o-276“i8] 367a-b; ch 9 [ 279 * 12 - 
+18 ] 370b-c; BK HI, CH 6 [ 305 * 14 - 22 ] 396b-c; 
+BK IV, CH 2 [ 3 o 8 '’ 29 - 3 io''i 4 J 400b-40Ic; ch 5 
+[ 3 i 2 '' 20 - 3 r 3 “i 4 ] 404b-d / Generation and Cor- 
+ruption, BK I, CH 8 423b-425d / Metaphysics, 
+BK I, CH 4 [ 985 *' 3 -I 9 ] 503c-d; bk iv, ch 5 
+[ 1009 * 22 - 37 ] 528d; BK VH, ch 13 [ 1039 * 2 - 11 ] 
+562d 
+
+10 Galen: Natural Faculties, bk i, ch 12, 173a; 
+
+BK II, CH 6 188c'J91a esp 389a-b 
+12 Lucretius; Nature of Things, bk i [265-634] 
+4b-8d esp [418-448] 6b-c 
+28 Galileo: Two New Sciences, first day, 
+
+' 141c-d 
+
+30 Bacon: Novum Organum, bk ii, aph 8 I40b 
+34 Newton; Principles, bk hi, prop 6, corol 
+ni-iv 281b / Optics, bk in, S28b 
+45 Faraday: Researches in Electricity, 8S0b,d- 
+8S5a,c 
+
+S3 James: Psychology, 106a; 882a-883a 
+
+f 1 
+
+5d. The number, variety, and properties of 
+atoms: the production of sensible things 
+by their collocation 
+
+8 Aristotle: Physics, bk i, ch 2 [ 184 *’! 5 - 22 ] 
+2S9b-c; CH 5 [ 188 * 18 - 25 ] 263c; bk hi, ch 4 
+[ 203 “ 33 -’' 2 ] 281b / Heavens, bk i, ch 7 [ 275 ’’ 
+30 - 276 * 18 ] 367a-b; bk hi, ch 4 [ 303 “ 3 -‘' 8 ] 
+394b-d; ch 7 [ 305 ’’ 27 - 3 o 6 “i] 397a-b; bk iv, 
+CH 2 [ 3 o 8 ’’ 29 - 3 io*I 4 ] 400b-401c / Generation 
+and Corruption, bk i, ch i [ 314 * 22 - 24 ] 409b-c: 
+CH 2 [ 315 * 34 - 316 * 4 ] 4I0d-411c; ch 10 [ 327 *’ 
+34 - 328 * 18 ] 427b-c / Metaphysics, bk 1, cii 4 
+[gBs'^s-io] S03c-d 
+
+10 Galen; Natural Faculties, bk i, ch 12, 
+173a-b; bk h, ch 6, 189a-190a 
+12 Lucretius: Nature of Things, bk h [62-141) 
+15d-16d; [184-250] 17b-18b; [333-599] 19^' 
+22c; [730-1022] 24b-28a 
+17 Plotinus: Third Ennead, tr i, ch 3, 79b 
+28 Harvey: On Animal Generation, 495c'496a 
+34 Newton: Optics, bk hi, S36b-S37b; 539a-b 
+
+34 Huygens; Light, ch hi, 566b-569b 
+
+35 Locke: Human Understanding, bk ii, ch 
+XXVI, SECT 2 217b-d; bk iv, ch xx, sect 15 , 
+393b 
+
+35 Hume: Human Understanding, sect xi, div 
+104 , 498c 
+
+45 Lavoisier: Elements of Chemistry, parti, 13a-d 
+45 Faraday: Researches in Electricity, 850b,d- 
+855a,c 
+
+S3 James: Psychology, 104a-b; 876a 
+
+5e. The atomistic account of sensation and 
+thought: the idola 
+7 Plato: Meno, 177b-c 
+
+12 Lucretius: Nature of Things, bk ii [ 39 S- 443 J 
+20a-c; [ 865 - 990 ] 26a-27c; bk hi [z 3'-395) 
+33a-35a; bk iv [ 26 - 906 ] 44b-56a esp [ 26 - 268 ) 
+44b-47d, [ 722 - 817 ] 53d-S4d 
+17 Plotinus: Third Ennead, tr i, ch 2 , 7Sd; ch 
+3 79b-c / Fourth Ennead, tr vh, ch 6-8, 194b- 
+196c 
+
+ELEMENT 411 
+
+19 Aquinas: Stimma Tlieologica, part r, q 84, a . 
+6 , ANs 447c-449a 
+
+34 Newton: Optics, bk hi, S18b-519b; 522a 
+
+35 Locke: Human Understanding, bk hi, ch 
+IV, SECT 10 26Ib-d; bk iv, ch x, sect 5 
+350a-b 
+
+53 James: Psychology, 98a-117b esp 98b-103b, 
+115a 
+
+5f. The atomic constitution of mind and soul: 
+its bearing on immortality 
+
+8 Aristotle; Soul, bk i, ch 2 [403’’28-404* 
+15] 633a-b; [405*8-13] 634b; ch 3 [4o6’’i5- 
+26] 636a-b; cii 4 [409 *io]-ch 5 [409''i8] 
+639a-c 
+
+10 Galen; Natural Faculties, bk i, ch 12 172d- 
+173c 
+
+12 Lucretius: Nature of Things, bk hi [94-869] 
+31b-41a esp [161-322] 32b-34b; bk iv [916- 
+961] 56b-d 
+
+17 Plotinus: Second Ennead, tr iv, ch 7, 52c; 
+TR IX, CH 5, 68b / Third Ennead, tr 1, cii 5 
+79b-c / Fourth Ennead, tr vh, ch 2-4 192a- 
+193c 
+
+35 Berkeley: Human Knowledge, sect 93 431b; 
+
+SECT 141 441a-b 
+42 Kant: Pure Reason, 126c-d 
+S3 James: Psychology, 95a-118b esp 9Sb-98a, 
+103a-106b, 117a-118b 
+
+5g. The explanation of natural phenomena by 
+reference to the properties and motions 
+of atoms 
+
+8 Aristotle: Heavens, bk iv, ch 2 t3o8'>29- 
+310*14) 400b-401c; ch 4 f3fi“30-*’rj 402d' 
+403a; ch 5 [3I2''2o]-ch 6 [3i3'’25] 404b- 
+40Sa,c / Generation and Corruption, »k i, ch 
+
+2 410d-413c; ch 8 423b-425d 
+
+10 Galen: Natural Faculties, bk i, ch 12, I72d- 
+173b; CH 14, 177a-178d; bk 11, ch 6 188c- 
+191a 
+
+12 Lucbetius: Nature of Things, bk i [265-328J 
+4b-5a; bk ii [1S4-215] 17b-d; [333-477] 19b- 
+21a; [522-540] 21c-d; [757-771] 24c-d; bk iv 
+[ 524-614] 5Ia-52b; bk vi 80a-97a,c 
+17 Plotinus: Third Ennead, tr i, ch 2, 78d; ch 
+
+3 79b-c 
+
+19 Aquinas: Siimma Tlieologica, part i, q 115, 
+
+A I, ANS and REP 3,5 5SSd-587c 
+28 Gilbert: Loadstone, bk ii, 34c-35a 
+28 Galileo: Two New Sciences, first day, 139c- 
+141d; 151d-lS3a 
+
+28 Harvey: On Animal Generation, 355b-d; 
+495c-496d 
+
+30 Bacon: Advancement of Learning, 45b-c 
+34 Newton: Principles, lb-2a / Optics, bk hi, 
+531b-542a 
+
+34 Huygens; Light, ch hi, S66b-569b 
+
+35 Locke: Human Understanding, bk iv, ch hi, 
+SECT 25-26 321a-c 
+
+45 Fabadw: Researches in Electricity, 850b,d- 
+855a, c 
+
+S3 Jamfs; Psychology, 882a-884b 
+
+(5. The theory oj atomism; critiques of atomism,) 
+
+5 h. The atomistic account of the origin and de- 
+cay of the world, its evolution and order 
+
+12 Lucretius: Nature of Things, bk i [iOo8- 
+1037] 13 c d; BK II [1023-1174] 28 a- 30 a,c; bk 
+V [55-508] 61 d' 67 c 
+
+5 h 
+
+12 Aurelius: Meditations, bk vi, sect 10 
+- . 274b c 
+
+17 Plotinus: Third Ennead, tr 1, ch 3 7gb c 
+19 Aquinas: Summa Theologica, part i, q 47, a 
+j i, ANs 256a-257b; a 3, ans 2S8C'259a 
+34 Newton: Optics, bk hi, S4Ib 
+S3 James: Psychology, 95b
+
+
+CROSS-REFERENCES 
+
+For: The discussion of the ideas most closely associated with element, see Caxise; Principle. 
+Matters relevant to the conception of elements or_ atoms as simple parts of a whole, see 
+One and Many 2b-2c; and for another discussion of the distinction between elements 
+or atoms and compounds or mixtures, see Change 9a; Matter 2. • ' 
+
+The problem of the transmutation of the elements, see Change’ loa. 
+
+The issue concerning the divisibility of matter and the existence of a void, see Infinity 
+4b; One and Many 33(3); Space 2b(i)-2b(3); and for the question of the number of 
+the elements or of the atoms, see Infinity 5— 5b; Quantity 7. , 
+
+Other considerations of atomistic materialism, see Matter 3a, 6; Mechanics 4c; Mind 2e; 
+Soul 3d; World I b, 4c, . , / 
+
+i, . ^ I I

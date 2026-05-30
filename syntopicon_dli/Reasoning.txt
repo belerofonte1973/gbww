@@ -1,0 +1,2836 @@
+CHAPTER: Reasoning
+
+INTRODUCTION
+
+REASONING 
+
+INTRODUCTION ■ ■ 
+
+, t » 
+
+I N the tradition of western thought, certain 
+verbal expressions have become shorthand 
+for the fundamental ideas in the discussion of 
+which they happen to be so often repeated. 
+This may be due to the influence of the text- 
+books used in the schools, which copy one from 
+another and hand down an easily recited jargon 
+from generation to generation. In most cases 
+the great books themselves are probably the 
+original source, though they have usually suf- 
+fered over-simplification or distortion when 
+their insights are thus transmitted. 
+
+“Featherless biped” and “rational animal” 
+are, for example, stock phrases to illustrate the 
+idea that a definition consists of genus and dif- 
+ferentia — the class to which man, in this in- 
+stance, belongs and the attribute which differ- 
+entiates him from other members of this class. 
+Statements such as “the whole is greater than 
+the part” or “two plus two equals four” simi- 
+larly serve to represent axioms or at least state- 
+ments which, whether or not they can be 
+proved, are usually accepted as true without 
+proof. In the field of reasoning, the familiar ver- 
+bal landmark is “All men are mortal, Socrates is 
+a man; therefore, Socrates is mortal.” Even 
+those who have never heard of syllogisms, or 
+who are throughly innocent of the age-old con- 
+troversies about the theory of the syllogism and 
+the difference between deduction and induc- 
+tion, might offer this sequence of statements if, 
+pressed to say what reasoning is, they tried to 
+answer by giving an example. 
+
+The example, shopworn though it is and far 
+from being the perfect paradigm, does convey 
+certain insights into the nature of reasoning 
+which are generally undisputed. 
+
+The word “therefore,” which connects the 
+third statement with the first two, signifies a 
+relationship which is sometimes described in 
+terms of cause and effect, as by Aristotle, and 
+
+sometimes in terms of antecedent and conse- 
+quent, as by Hobbes. The premises {i.e., the 
+statements which precede the “therefore”) 
+cause the conclusion, it is said. We know. that 
+Socrates is mortal because we know that Soc- 
+rates is a mah and that all men are mortal. The 
+premises are the cause in the sense of,,the reason 
+why the conclusion may be regarded as true. 
+
+The conclusion is also said X.o follow from the 
+premises, or the premises are said to imply or 
+field the conclusion. If the premises are tru^ 
+then the truth of the conclusion can be inferred 
+or proved. The relationship between the prem- 
+ises and the conclusion seems to be the same 
+whether the act of reasoning is called “pfobf 
+or “inference.” The distinction in meaning be- 
+tween these two words seems to be on? of di- 
+rection. We speak of “proving” a conclusion 
+when we look toward the premises as the foun- 
+dation for Its truth; we speak of '“inferring” a 
+conclusion when we look toward it as some- 
+thing which can be drawn from the premises. 
+
+The words “if” and “then” indicate thatirea- 
+soning is a motioii of the mind from one state- 
+ment to another. Sometimes the inference is 
+immediate, as when we'argue that if all men are 
+mortal, then some mortals are men. Here only 
+two propositions are involved, one of which is 
+simply the converse of the other. Those who 
+deny that immediate inference is truly infer- 
+ence (because a proposition and its converse are 
+merely two ways of stating the same fact), insist 
+that, implicitly or explicitly, reasoning alwa’ 
+involves at least three statements. In any case, 
+single statement like “Socrates is a man,” ( 
+even a pair of statements connected by “anc 
+rather than “if-then” — e.g., “Socrates is a mi 
+and Socrates is mortal” — does not expre 
+what is commonly recognized as reasoning. T1 
+motion of reasoning does, however, appear i 
+this sequence of statements, “If Socrates is 
+
+Chaptcr 77: REASONING 
+
+man; then Socrates is mortal,” even though it. 
+oniits a statement that may be necessary to the' 
+validity of the reasoning, namely, “All men are 
+
+mortal.”’ .i’’ 
+
+'Thus, the familiar grammati’cah distinctions 
+of word (or phrase),' sentence; andLparag'raph' 
+do not seem to provide a perfect parallel for the 
+distinctions which the logicians make between' 
+terms, propositions, and' syllogisms. But this 
+much is clear. Just as a single wordiof phrase,' 
+like "man”.or'“rational animal,” can never e-K- 
+press; a proposition, but only a term; so a sim- 
+ple" sentence expresses only a proposition, and. 
+never a syllogism;' and a 'compound sentence,' 
+one made up of a number of sentences, expresses 
+a syllogism only if its verbal construction some- 
+how indicates that they form a sequence" in 
+which one follows from the others, or if they 
+are related in such a way that the truth of one is 
+caused by the truth of the others. 
+
+The chapter on Idea (and perhaps also the 
+chapter on Definition) deals with that content- 
+or act of the mind — whether a percept ora con- 
+cept, an image or an abstraction— which is ver- 
+bally expressed in words or phrases and of which 
+the term is the logical representative. The. chap- 
+ter on Judgment (and perhaps also the chapter 
+on Principle) deals with the mental act or con- 
+tent that requires a sentence for its expression 
+and is logically represented by the proposition. 
+Here we are concerned with mental activity 
+which involves not only two or more idea's, but 
+also two or more judgments so connected that 
+the mind passes from one to another. •" ."i 
+Whether the logical structure that Aristotle 
+calls a “syllogism” represents all forms of the 
+mental activity called reasoning, is one of the- 
+great traditional issues. Hume suggests, for ex- 
+ample, that animals reason without making use- 
+of syllogisms; and Descartes and Locke seem to. 
+hold that the highest forms of thinking, such as- 
+occur in mathematics or. philosophy, cannot be 
+reduced to syllogisrhs, except perhaps by a tour 
+deforce. • - 
+
+We face a different sort of problem when .we 
+compare reasoning with other acts of the mind 
+—with conception (or the having of ideas) and 
+with judgment (or the connecting- of ideas with 
+one another in the manner which mediaeval 
+svriters call “composition and division”). No 
+
+547' 
+
+one denies that reasoning is thinking, nor- does 
+anyone deny that there are forms of thinking 
+which' are not' reasoning, since conceiving and' 
+judging are generally regarded as kinds of think-: 
+ing or niodes.of- thought. Reasoning is merely 
+that mode of thought which- is a.process~thz 
+going step'by'step from one katement to an- 
+
+othen'i "i /i.'ii - ■ . - - , 
+
+■ ■ The 'problem which arises from the compari- 
+sonjof reasoning with other modes of thought" 
+turns on the question whether the mind can 
+learn anything without having to think ration- 
+ally, Can certain things be known by insight or. 
+instinct, by induction or intuition, rather than 
+by reasoning .? 'Are there truths which cannot be 
+known by reasoning at all, but only by some 
+other mode of thought ? These questions in turn 
+raise the problem of the priority or superiority 
+of such modes of thought as do not consist in 
+reasoning. The theory discussed in the chapter 
+on. Induction — that induction is prior to rea- 
+soning because intuitive generalization from ex- 
+perience must provide the starting-points for 
+demonstration — indicates one solution of the 
+probleih. Our present concern, however, goes 
+beyond the issue concerning induction and de- 
+duction to the most, general contrast between 
+the intuitive and the rational. 
+
+For Plotinus any form of thinking — not 
+merely reasoning— signifies a deficiency or weak- 
+nek. In the. scale of intellectual beings man oc- 
+cupies the lowest rank because he reasons. But 
+even the pure intelligences, which know intui- 
+tively, rank- below, the One, because even the 
+simplest'act 'of thought involves some duality of 
+subject-a'nd object. The One, according to Plo- 
+tinus, .transcends thought even as it transcends 
+being;: “The super-essential,” he says, “is the 
+sbpra-jcogitative.” The One “has no need for in- 
+tellection, being always self-sufficing.” 
+
+Other writers do not go as far as this. Chris- 
+tian -theologians do, however, contrast the hu- 
+man mind with- the angelic intellect and the 
+mind of God by saying that the latter are su- 
+pra-rational, i.e., above the need to reason. They 
+do not, like Plotinus, hold that the transcendent 
+being transcends thought itself — certainly not 
+insofar as they discuss the divine ideas. But the 
+kind of .thinking which is not an instantaneous 
+act of vision or an immediate intuition involves 
+
+548 THE GREAT IDEAS 
+
+the mind in a process of thought, somehow akin* 
+to change or motion; and this, the theologians 
+hold, cannot take-place in any immutable be- 
+ing — the angels or God. 
+
+The human intellect, according to Aquinas, 
+gradually comes to know the truth “by a kind 
+of movement and discursive intellectual opera- 
+tion ... by advancing from one thing known to 
+another. But if from the knowledge ofa known 
+principle [men] were straightway to perceive as 
+known aU its consequent conclusions, then there 
+would be no place for discursiveness in the hu- 
+man intellect. Such is the condition of the an- 
+gels, because in the truths which they know 
+naturally, they at once behold all things what- 
+soever that can be known in them.” 
+
+That, says Aquinas, is why the angels “are 
+called intellectual beings” and men “are called 
+rational." Recourse to reasoning on the part of 
+men betrays “the feebleness of their intellectual 
+light. For if they possessed the fullness of in- 
+tellectual light, like the angels, then in the 
+first grasping of principles they would at once 
+comprehend all that they implied, by perceiv- 
+ing at once whatever could be reasoned out of 
+them.” 
+
+The type of intuitive apprehension which 
+the angels enjoy is even more perfectly exem- 
+plified in God’s knowledge. “In the divine 
+knowledge,” according to Aquinas, “there is 
+no discursiveness” — no succession, neither the 
+turning from one thought to another, nor the 
+advance from the known to the unknown by 
+reasoning from principles to conclusion. The di- 
+vine knowledge, Aquinas explains, is a single all- 
+embracing act of vision, in which “God sees all 
+things in one thing alone, which is Himself,” 
+and therefore “sees all things together and not 
+successively.” Apart from participation in the 
+vision of God through supernatural light, all 
+human thinking on the natural plane is discur- 
+sive. Even the conception and the judgment 
+are discursive in the sense that the one involves 
+an act of abstraction or definition and the other 
+involves a composition or division of concepts. 
+But though it is always discursive, human 
+thinking is not, according to Aquinas, always 
+involved in the motion of reasoning, that is, the 
+transition from one thought to another. “Rea- 
+soning,” he says, “is compared to understand- 
+ing” — i.e., the act of judgment by which we 
+
+affirm or deny a single proposition — “as move- 
+ment is to rest, or acquisition to possession.” - 
+
+Descartes uses the word “intuition” to name 
+the way in which we know certain truths imme- 
+diately and' with certitude. Fie distinguishes 
+“intuition from deduction by the fact that into 
+the conception of the latter there enters a cer- 
+tain movement or succession, into that of the 
+former there does not. . . . The first principles 
+are given by intuition alone, while, on the con- 
+trary, the remote conclusions i are furnished 
+only bj' deduction.” But while deduction, which 
+Descartes says he understands to be “all neces- 
+sary inference from other facts that are known 
+with certainty,” supplements intuition, it is 
+never at any stage of the reasoning process in- 
+dependent of intuition. 
+
+Not only does intuition, according to Des- 
+cartes, supply the first principles or ultimate 
+premises of reasoning, but it also certifies each 
+step in the process. He asks us to “consider this 
+consequence: 2 and 2 amount to the same asi3 
+and I. Now we need to see intuitively not'only 
+that 2 and 2 make 4, and that likewise 3 and i 
+make 4, but further that the third of the above 
+statements is a necessary conclusion from these 
+ttvo.” 
+
+If in addition to knowing the premises by in- 
+tuition, the drawing of a conclusion from them 
+is, as Descartes says, itself “effected by intui- 
+tion” — if the act of inference rests on the intui- 
+tion that the conclusion follows logically from 
+the premises — in what way does deduction or 
+reasoning supplement intuition ? To this ques- 
+tion, Descartes replies that though the mind 
+“has a clear vision of each step in the process,” 
+it cannot comprehend in one intuition all the 
+connections involved In a long chain of reason- 
+ing. Only by taking the steps one after another 
+can we “know that the last link in a long chain 
+is connected with the first, even though we do 
+not take in by means of one and the same act of 
+vision all the intermediate links on which that 
+connection depends, but only remember that 
+we have taken them successively under review.” 
+
+Like Descartes, Locke contrasts intuition 
+and reasoning, or intuitive and demonstrative 
+knowledge. “Sometimes the mind perceives the 
+agreement or disagreement of two ideas imme- 
+diately by themselves, without the interven- 
+
+Chapter- 77: REASONING 
+
+tion of any other: and this,” says Locke, “we 
+may 'Call intuitive knowledge. . When the 
+mind cannot so bring its ideas together, as by 
+their irhmediate' comparison ... to perceive 
+their agreement or disagreement, it is fain by 
+the'intervention of other ideas ... to discover 
+the agreement or disagreement which it search- 
+es; and this is that which we call reasoning.” 
+
+Again like Descartes, Locke asks, “What need 
+is there of reason?” It is necessary, he thinks, 
+“both for the enlargement of oiir- knowledge 
+and- regulating our assent .-. . Sense and' intui- 
+tion reach but very little of the way. The great- 
+est part of our knowledge depends upon deduc- 
+tions and intermediate ideas; and in those cases 
+where We are fain to substitute assent instead of 
+knowledge, and take propositions for true with- 
+out being certain they are so, we have need to 
+find out, examine, and compare the grounds of 
+their probability.” But though reasoning en- 
+larges our knowledge beyond what can be 
+known intuitively, reasoning produces certain 
+knowledge, according to Locke, only if “every 
+step in reasoning ... has intuitive certainty. 
+... To make anything a demonstration, it is 
+necessary' to perceive the immediate agreement 
+of the intervening ideas, whereby the agree- 
+ment or disagreement of the two ideas under 
+examination (whereof the one is always the 
+first, and the other the last, in the account) is 
+found.” 
+
+On this view of reasoning, nothing can be 
+known demonstratively or by proof unless some 
+things can be known intuitively, i.e., without 
+inference or proof. Locke and Descartes seem 
+to agree with Aquinas and Aristotle that dem- 
+onstration depends upon indemonstrable truths, 
+whether these are called axioms, immediate 
+proposition's, first principles, orself-evidentmax- 
+ims. Locke and Descartes, on the one hand, 
+stress the point that in reasoning the logical 
+connection between premises and conclusion is 
+also indemonstrable and must be intuitively 
+perceived. Aquinas and Aristotle, on the other, 
+repeatedly observe that the truth of the con- 
+clusion 'is implicitly contained in the truth of 
+the premises, so that the advance which reason- 
+ing appears to make frorri the known to the un- 
+known consists in coming to know actually 
+what is already potentiallj' known. Neverthe- 
+ess they, unlike Descartes and Locke, maintain 
+
+that reasoning extends knowledge, even though 
+it may not be the method of initial discovery. 
+
+A somewhat contrary view seems to be taken 
+by Hume. If the objects under consideration 
+are matters of fact rather than the relations be- 
+tween our own ideas, the kind of reasoning 
+which goes from premises to conclusion avails 
+not at all. The beliefs we hold about such mat- 
+ters, according to Hume, result from mental 
+operations which are “a species of natural in- 
+stinct . ■. . which no reasoning or process of 
+thought is able either to produce or to prevent. ” 
+What he calls “experimental reasoning” or “rea- 
+sohing'concerning matters of fact” is founded, 
+he says, “on a species of Analogy, which leads 
+us to expect from any cause the same events 
+which we have observed to result from similar 
+causes.” • ' ■ 
+
+Not only men, but also animals reason in this 
+way. But Hume thinks “it is impossible that 
+this inference of the animal can be founded on 
+any process of argument or reasoning by which 
+he concludes that like events must follow like 
+objects. . . .'The experimental reasoning itself, 
+which we possess in common with beasts, and 
+on which the whole conduct of life depends, is 
+nothing but a species of instinct or mechanical 
+power, that acts in us unknown to ourselves; 
+and in its chief operations is not directed by 
+any such relations or comparisons of ideas, as 
+are the proper objects of our intellectual facul- 
+ties.” 
+
+The foregoing considerations indicate horv di- 
+verse theories of the role of reasoning arise from 
+diverse theories of the nature and kinds of 
+knowledge in animals, men,' angels, and God. 
+According as various distinctions are made be- 
+tween human knowledge and opinion, or be- 
+trveen the way in which different objects can be 
+known, or between speculative and practical 
+interests, so, too, different formulations are 
+given of the nature of reasoning. 
+
+Aristotle’s distinction, for example, between 
+scientific and dialectical or rhetorical reasoning 
+turns upon his-understanding of the difference 
+between the objects of certain knowledge and 
+the objects of probable opinion. This difference, 
+he says, makes it “equally foolish to accept prob- 
+able reasoning from a mathematician and to 
+demand from a rhetorician scientific proofs.” 
+
+552 ' THE GREAT IDEAS . 
+
+Both are preceded by his Prior Analytics 
+treats of the syllogism in terms of its purely 
+formal structure and its various forms. In the 
+later tradition, the distinction between the 
+problems of the Prior and the 'Posterior Analytics 
+comes to be represented by the separation be- 
+tween what are called “formal” and “material” 
+logic. 
+
+The formal analysis of reasoning centers on 
+the problem of its cogency. Quite apart from 
+any consideration of the truth of its premises or 
+conclusions, reasoning is true or false according 
+as it is valid or invalid on purely logical grounds. 
+From premises which are in fact false, a conclu- 
+sion, which may be either true or false, can be 
+truly inferred if the structure of the reasoning 
+is formally valid — that is, if the form of the 
+premises stands in a certain logically prescribed 
+relation to the form of the conclusion. The logi- 
+cal problem, then, is to prescribe the formal re- 
+lationships among propositions which permit 
+valid inference from certain propositions to oth- 
+ers, without rega'rd to the content of the propo- 
+sitions or their truth in fact. 
+
+Defining a syllogism as “discourse in which, 
+certain things being stated, something other 
+than what is stated follows of necessity from 
+their being so,” Aristotle says, “I call that a per- 
+fect syllogism which needs nothing other than 
+what has been stated to make plain what neces- 
+sarily follows; a syllogism is imperfect, if it needs 
+either one or more propositions which are in- 
+deed the necessary consequences of the terms 
+set down, but have not been expressly stated as 
+premises.” Using the letters S and P to symbol- 
+ize the subject and predicate of the conclusion, 
+and the letter M to symbolize the middle term, 
+the term which appears in the premises but not 
+in the conclusion, Aristotle states the form of a 
+perfect syllogism in the following manner: “All 
+M is P, all S is M; therefore all S is P.” 
+
+Thfe first of these propositions, the one which 
+contains the predicate of the conclusion, is 
+called the major premise; the second, the one 
+which contains the subject of the conclusion, 
+the minor premise; the subject of the conclu- 
+sion is called the minor term, the predicate the 
+major term. Aristotle classifies syllogisms into 
+three figures, or formal types, according to the 
+position of the middle term, either as subject of 
+the major premise and predicate of the minor 
+
+in the first figure, or. as predicate in both or as 
+subject in both in the second and third figures 
+respectively. Then according to whether the 
+premises are universal propositions or particular 
+{‘All M is P’ or ‘Some S is M’), and each is ei- 
+ther affirmative or negative (‘All M is P’ or 
+‘Some S is not M’'), he further 'distinguishes 
+within each figure a humber of valid moods, or 
+formally correct patterns of inference. 
+
+For example,. in no figure can a valid mood be 
+constructed with two particular or two negative 
+premises. No conclusion can be drawn from the 
+two particular statements that some poisons are 
+liquids and that some liquids are indispensable 
+to life; nor can any conclusion, be drawn from 
+the two negative statements that no triangles 
+are parallelograms and no rhomboids are paral- 
+lelograms. In the first figure, the minor premise 
+can be particular and must be affirmative, the 
+major can be negative and must be universal. 
+In this figure 'the following combinations of 
+premises — “some figures are not rectangular" 
+with “all rectangular figures are parallelograms, ” 
+or “all prime numbers are odd” with“‘some odd 
+numbers are squares"— yield no conclusions; In 
+the second figure, one premise musti bemega- 
+tive. Here i^is impossible to draw a valid con- 
+clusion from two affirmative premises. Nothing 
+follows from the . two affirmative statements 
+that all fish swim and all whales swim.' In the 
+third figure, only a particular cdnclusion can be 
+drawn from a pair ofpremises both of which are 
+universal. From the proposition that no men 
+are wise and the proposition that all men are 
+mortal, we can conclude only that some mor- 
+tals are not wise. . . < ’ 
+
+From these examples it will be seen that Aris- 
+totle’s rules of the syllogism are rules concern- 
+ing the quantity and quality of the premises re- 
+quired in eafch .figure to permit a valid infer- 
+ence; and as in the third figure these 'rules per- 
+mit only a particular conclusion to be drawn, 
+so for all figures they determine the character 
+of the conclusion which can be drawn from 
+premises of,a certain quantity and quality; If 
+one premise is negative, the conclusion must be 
+negative. If one premise is particular, the con- 
+clusion must be particular. 
+
+There seems'to be one .universal principle of 
+the syllogism which underlies all these specific 
+rulesTor the valid moods in different figures'; 
+
+Chapter 77 :- REASONING 553 
+
+•‘When orie 'thing is predicated of another)” 
+Aristotle says, “all that'which is predicable of 
+the predicate will be predicable also' of the sub- 
+ject."'- The negative aspect of: this principle -is 
+immediately 'obvious. What cannd't be predi- 
+cated of apredicate.'cannot be' predicated of its 
+subject. -In- the tradition of formal logic, this 
+principle is sometimes stated in terms' of the re- 
+lation of classes rather than-ih terms of subjects 
+and predicates: if one class is included in a sec- 
+ond, and that secori'd class is included in a third, 
+the firstds included in the third; and' if one class 
+excludes another, the classes which- it includes 
+are also excluded from that other. 
+
+‘ ' The principle of the syllogism is traditionally 
+called the dictum de omni et ntdlo. The dictum de 
+Omni, which Kant in his Ifitroduction to Logic 
+calls “the supreme principle of affirmative syl- 
+logisms,” is thus expressed by him:'“Whatever 
+is universally affirmed of a concept is also af- 
+firmed of everything contained under it;” The 
+dictum de ntdlo, according to Kant, states that 
+“whatever is universally denied of a concept is 
+also denied of everything that is contained un- 
+der it." Kant appears to think that both these 
+rules follow from even more general principles: 
+that “an attribute of an attribute is an attri- 
+bute of the thing itself” and that “whatever is 
+inconsistent with the attribute of a thing is in- 
+consistent with the thing itself.” 
+
+James also attempts to make a more general 
+formulation of the dictum de omni et ntdlo. This 
+law of thought, he says, is “only the result of the 
+function of comparison in the mind' which hak 
+come by some lucky variation to apprehend a 
+series of more than two terms at orice.” As ' 
+James states what he calls the “principle of me- 
+diate comparison,” it appears to be broader 
+than the principle of the syllogism. It applies to 
+any series of related terms — to the relation of 
+equal and unequal quantities in mathematics, 
+as \vell as to the relation of subjects and predi- 
+cates in the logic of predication or classes. . 
+
+James’ principle of mediate cornparison itself 
+depends on what in mathematical logic and the 
+logic of relations is called the “transitivity” of , 
+relations. The relation of larger than, for exani- 
+ple, is transitive; for if one thing is larger than a 
+second, and the second is larger than a third, it 
+follows that the first is larger thafi the 'third: As’' 
+stated in mathematical logic, the principle of 
+
+the' syllogism is merely a special case of transi 
+tivity as it appears in the relation of implica 
+tion; for if P-iniplies -Q, and Q implies R, then 
+P implies R. - ' - 
+
+James recognizes this when he writes that 
+“the principle of mediate predication or subsump- 
+tion is only the axiom of skipped intermediaries 
+applied to a series of successive predications. It 
+expresses the fact that any earlier term in the 
+series stands to any later term, in the same rela- 
+tion iri which it stands to any intermediate 
+term; in other words, that whatever has an attri- 
+bute has allthe attributes of that attribute, or more 
+briefly still, that whatever is of a hjnd is of that 
+J(ind’ s \ii'id'’ Along with “the axiom of mediate 
+equality, ‘equals of equals are equal,’ ” the rule 
+of mediate predication or subsumption is, ac- 
+cording- to James, a special case of the law that 
+“skipping intermediary terms leaves relations 
+the same. This axiom of sKiPPEb intermedi- 
+aries or of transferred relations . . . seems 
+to be on the whole the broadest and deepest 
+law of man’s thought.” 
+
+James’ attempt to state a law of thought' or 
+principle of reasoning which relegates all the 
+rules of the syllogism to the status of a special 
+case represents one type of attack on the syllo- 
+gism. Whether, for instance, the sample of rea- 
+soning which Descartes asks us to consider— 
+that if 2 and 2 make 4, and 3 and i make 4, then 
+2 and 2 amount to the same as 3 and i — can be 
+reduced to the syllogistic form of subject and 
+predicate, or must be formulated under a more 
+general principle of “transferred relations,” il- 
+lustrates the basic issue here between subject- 
+predicate logic and relational or mathematical 
+logic. Other aspects of that issue are discussed 
+in the chapters on Logic, Judgment, and Re- 
+LA-nON. 
+
+Another type of criticism of the traditional ' 
+theory of the syllogism accepts the syllogism as 
+the form of a//, reasoning, but objects, as Kant 
+does, to what he calls “the mistaken subtilty” 
+of the classification of syllogisms according to 
+figures and naoods. But Kant does not deny all 
+distinctions among syllogisms. On the contrary, 
+he says that syllogisms are “threefold, like all 
+judgements, differing from each other in the 
+manner in which they express the relation of 
+knowledge in the understanding, namely, cate- 
+
+554 .'IBE GREAT IDEAS ^ . 
+
+gorical, hypothetical, and disj unctive.” Whether 
+the hypothetical and disjunctive syllogisms are 
+distinct types of reasoning, or only special cases 
+which it would be a mistaken subtlety to treat 
+as having principles of their own, is a problem 
+considered in the chapter on Hypothesis. ' 
+
+Of all criticisms, the most severe is that which 
+either rejects the syllogism, entirely as of no use 
+in reasoning, or'regards the deductive syllogism 
+as useful only in argumentation or debate, not 
+in the process of inquiry or discovery, where in- 
+ductive reasoning alone is fruitful or instructive. 
+From the conclusion of a syllogism, according 
+to Mill, one learns nothing more than one al- 
+ready knew in the premises; whereas in induc- 
+tive reasoning. Mill, like Bacon, thinks that 
+the mind goes beyond anything contained in 
+the premises and genuinely discovers a new 
+truth. 
+
+It seems to be Descartes’ opinion that “the 
+syllogistic forms are of no aid in perceiying the 
+truth about objects.” Locke makes the same 
+point more extensively. Admitting that, “all 
+right reasoning may be reduced to [Aristotle’s] 
+forms of syllogism,” he denies that they are 
+“the best way of reasoning for the leading of 
+those into truth who are willing to find it and 
+desire to make the best use of their reason for 
+the attainment of knowledge. . . . The rules of 
+syllogism,” he writes, “serve not to furnish the 
+mind with those intermediate ideas that may 
+
+show the connexion of remote ones. This way of 
+reasoning discovers no new proofs, but is the art 
+of marshalling and ranging the old ones we have 
+already. The forty-seventh proposition of the 
+first book of Euclid, is very true; but the dis- 
+covery of it, I think, not owing to any rules of 
+common logic. A man knows first, and then he 
+is able to prove syllogistically; so that syllogism 
+comes after knowledge, and then a man has little 
+or no need of it.,. . . Syllogism, at best, is but 
+the art of fencing with the little knowledge we 
+have, without making any addition to it.” 
+
+It may be 'that the critics of the syllogism at- 
+tribute to its exponents claims they do not 
+make. Aristotle, for example, seems to present 
+the syllogism as a method of expounding argu- 
+ments rather than of discovering them, and of 
+testing the validity of reasoning rather than pf 
+learning the truth about things. “All instruc- 
+tion given or received by way of argument,’’ he 
+%vrites, “proceeds from pre-existent knowledge. 
+This l^ecomes evident upon a survey of all the 
+species of instruction. The mathematical sci- 
+ences, and all other speculative disciplines, are 
+acquired in this way, and so are the two forms 
+of dialectical reasoning, syllogistic and induc- 
+tive; for each of these latter makes use of old 
+knowledge to impart new, the syllogism assumt 
+ing an audience that accepts its premises, induc- 
+tion exhibiting the universal as implicit in the 
+clearly known particular.”
+
+
+OUTLINE OF TOPICS 
+
+1. Definitions or descriptions of reasoning: the process of thought 
+
+la. Human reasoning compared with the reasoning of animals 
+
+lb. Discursive reasoning contrasted with immediate intuition 
+
+ic. The role of sense, memory, and imagination in reasoning: perceptual inference, 
+rational reminiscence, the collation of images ’ ' 
+
+2. The rules of reasoning: the theory of the syllogism ' 
+
+' ' 2 a. The structure of a syllogism: its figures and moods ' ' 
+
+(1) The number of premises and the number of terms: the middle term in rea- 
+
+’ ' soning > . ' i 
+
+( 2 ) Atfirmation, negation, and the distribution of the middle term: the quan- 
+
+tity and the quality of the premises 
+
+2 b. The kinds of syllogism: categorical, hypothetical, disjunctive, modal’' 
+
+2 c. The connection of syllogisms: sorites, proj-syllogisms and epi-syllogisms 
+
+Chapter 77:'REASGNrNG 
+
+555. 
+
+3. The truth and cogency of reasoning 
+
+3a. Formal and material truth: logical' vMidlty distinguished from factual truth 
+
+3b. Lack, of cogency inreasoning: invalid syllogisms; formal fallacies , 
+
+3<r. Lack of truth iii reasoning:, sophistical arguments; rnaterial'fallacies ^ 
+
+3(f. Necessity and contingency in reasoning: logical necessity ;''certainty and prob- 
+■' ' ability; ., . : .-I . ../■ 
+
+4. The’types of reasoning, inference,' or argument!-: 
+
+4«. fmniediate inference: its . relarion. to mediated inference or reasoning 
+
+4^'. The direction and uses of reasoning:' the distinction between proof and infer- 
+' ence, and between denionstratioh and discovery 
+
+4c. Inductive and deductive reasoning ... 
+
+4b. Direct and indirect argumentation: proof by Teduciio ad absurdtinr, argument 
+: from the impossible or ideal case ' ‘ 
+
+6 fi. Refutation: disproof - ; 
+
+4_/l Reasoning by analogy: arguments from similarity 
+
+5. Reasoning in relation to knowledge, opinion, and action 
+
+5«. The fact and the reasoned fact: mere belief distinguished from belief on 
+rational grounds ' ■ ’ ■ " 
+
+5b. Scientific reasoning: the theory of demonstration 
+
+(1) The indemonstrable as a basis for demonstration 
+
+(2) Definitions used as rtieans in reasoning: definitions as the ends of reasoning 
+
+(3) A priori and a posteriori reasoning: from causes or from effects; from princi- 
+
+ples or from experience; analysis and synthesis 
+
+(4) -The role of causes in demonstration and scientific reasoning 
+
+(5) Demonstration, in relation to essence and existence: demonstrations propter 
+
+j quid and quia 
+
+5c. Dialectical reasoning: the opposition of rational arguments 
+'^d. Rhetorical reasoning: the rational grounds. of -persuasion 
+
+5e. Practical reasoning 
+
+■ '(1) The form of the practical syllogism 
+
+(2) Deduction and determination in legal thought 
+
+(3) Deliberation: the choice of alternative means; decision . 
+
+6. The character .of reasoning in the various disciplines 
+
+6 a. Proof in metaphysics and theology , - . 
+
+6 b. Demonstration in mathematics: analysis and synthesis... 
+
+6 c. Inductive and deductive inference in the philosophy of nature and the natural 
+sciences ■ ■ f - 
+
+- 6d. Induction and demonstration in the moral sciences;, .
+
+
+REFERENCES
+
+REFERENCES . - . 
+
+ 
+
+1. Definitions or descriptions of reasoning; 
+the process of thought 
+
+7 Plato: Phaedo, 244c-24Sc / Republic, bk vi- 
+VII, 383d-398c / Theaetetus, 537d-538a / 
+Sophist, S70a-577b / Statesmau, 594d-59Sd 
+/ Seventh Letter, 809c-810d 
+
+8 Aristotle: Prior Analytics, bk i, ch i[24*’i 8- 
+22] 39c/ Topics, BK I, ch 1 143a-d/ Sophistical 
+Refutations, ch i [i65'‘i-3] 227b; ch 2 227d- 
+228a 
+
+12 Epictetus: Discourses, bk i, ch 7 112b-113d 
+
+17 Plotinus: Fourth Ennead, tr iv, ch 12, 164b 
+
+18 Augustine: Christian Doctrine, bk ii, ch 31 
+651d-652b 
+
+19 Aquinas: Summa Theologica, part i, q 14, 
+A 7 81d-82b; q 58, a 3 301d-302d; a 4 , ans 
+302d-303c; q 79 , aa 8-9 421c-423d; a 10 , 
+REP 2-3 423d-424d; q 84, a 3 , rep 3 443d- 
+444d; Q 85, A 5, ANS 457d-4S8d 
+
+20 Aquinas: Summa Theologica, part ii-ii, q 2 , 
+A I 391a-392a; q 8 , a i, rep 2 417a-d; part 
+III, Q II, A 3 773d-774c 
+
+23 Hobbes: Leviathan, part i, 56d-S7a; 58a-c; 
+60a 
+
+28 Harvey: On Animal Generation, 332a-33Sc 
+
+31 Descartes: Rides la-40a,c passim, esp v- 
+VII 7d-12a, x-xii 15d-2Sa, xiv, 28b-29a, 32d 
+■ Objections and Replies, 137a 
+
+35 Locke: Human Understanding, bk iv, ch ii, 
+SECT 2-13 309d-312b; ch xv, sect i 36Sa-c; 
+CH XVII 371c-380d passim, esp sect 2 371d- 
+372b 
+
+38 Rousseau: Inequality, 337d-342c 
+42 Kant: Pure Reason, 15d-16c; 20a: 34c-35b; 
+I08a-209d esp 109d-112d, 115d-116a, 118a-c, 
+119a-b, 129c-130c, lS8a-159d, 173b-174a, 
+185b-c, 187a-c, 193d-194b, 199a-c; 224a-227a 
+/ Judgement, 55Ia-S52c; 570b-572c ' 
+
+45 Lavoisier: Elements of Chemistty, pref, la 
+49 Darwin: Descent of Man, 292b-293d; 299b- 
+300a 
+
+53 James: Psychology, 146a-I87a esp 161a-176a, 
+179b-184a, 186a; 360a-362b; 381b-385b; 
+664a-693b esp 666b-668a, 672b-678b, 690a-b 
+
+54 Freud: Interpretation of Dreams, 337a; 363b- 
+364b esp 364a-b; 367b-c: 377c-379c esp 
+379a-c; 384c-38Sc / Unconscious, 442d-443a 
+/ Ego and Id, 700a- 701d esp 701d 
+
+\a. Human reasoning compared with the rea- 
+soning of animals 
+
+8 Aristotle: Metaphysics, bk i, ch i f98o*’25- 
+27] 499b / Soul, BK II, ch 3 [4i4*’i7-2o] 644d; 
+[4i5“7-i2] 64Sb / Memory and Reminiscence, 
+CH 2 [453“5-M] 695b 
+
+9 Aristotle: History of Animals, bk i, ch i 
+[ 488’’20-27] 9d / Ethics, bk VI, CII 7 [lI4I°22- 
+
+lb to Ic Chapter 77: REASONING 557 
+
+,28] 390a-b; bk vn, ch 3 [ii47'’2-5] 397d / 
+Politics, BK VII, CH 13 [i 332"39-‘’8] 537a-b 
+10 Gaeen: Natural Faculties, . bk, i, ch 12, 
+173a-c _ - 
+
+12 Aurelius: Meditations, bk v, sect 16 271c-d; 
+BK VI, SECT'23 276b; bk ix,-sect 9 292b-d' 
+
+19 Aquinas: Summa Theologica, -pKsn s , q 76, 
+■ A .5, REP, 4 394c-396a; Q'78, a 4, ans and rep 
+
+. 5 411d-413d; q 81, a 3, ans and rep 2 430c- 
+431d; Q 86, a 4, rep 3 463d-464d; q 96, a i, 
+, REP 4 SlOb-Sllb; PART i-n, q i3, 'A 2, rep 3 
+673C-674C 
+
+20 Aquinas: Summa Theologica, part i-ir, q 50, 
+A 3, REP 2 8b-9a 
+
+23 Hobbes: Leviathan, part i, 52b; 53a-b; 53d- 
+54a; 57d; 59b-c; 63a; 64a-c; 79b-c; part 11, 
+lOOa-c; PART IV, 267b 
+
+25 Montaigne; Essays, 2i5a-223b passim, esp 
+220b-223b - 
+
+30 Bacon; Novum -Organum, bk ii, aph 35, 
+163d - 
+
+■ 31 Descartes; Discourse, part v, 59a-60c / 
+Objections and Replies, lS6c-d 
+
+32 Milton; Paradise Lost, bk vn [449-549] 227a- 
+229a; bk vm [369-451] 240a-242a; bk ix [549- 
+566] 259b 
+
+33 Pascal: Pensees, 339-344. 233a-b 
+
+35 Locke; Human Understanding, bk ii, ch xi, 
+SECT II 145d-146a; ch xxvii, sect 8 221a- 
+222a; bk iv, ch xvn, sect i 371c-d 
+35 Berkeley: Human Knowledge, intro, sect 
+II 407b-408a- 
+
+35 Hume: Human Understanding, sect ix 487b- 
+488c 
+
+36 Swift: Gulliver, part iv, 151b-152a; 159b- 
+.160a 
+
+38 Rousseau: Inequality, 337d-338a; 341d-342a 
+/ Social Contract, bk i, 393b-c 
+42 Kant: Pure Reason, 199c-200c / Pref. Meta- 
+physical Elements of Ethics, 372a-b / judgement, 
+602b, d [fn i] 
+
+49 Darwin: Descent of Man, 292b-297c esp 
+292b-294c; 400a-c 
+
+51 Tolstoy: War and Peace, epilogue ii, 689c- 
+.690a 
+
+53 James: Psychology, 66Sa-666b; 676b-677a esp 
+677a; 679a-686b esp 679a-683a, 686a-b; 873a 
+
+lb . Discursive reasoning.contrasted with im- 
+mediate intuition 
+
+7 Plato; Republic, bk vi, 386d-388a / Seventh 
+Letter, 809c-810d 
+
+8 Aristotle: Metaphysics, bk ix, ch 6 [1048*’ 
+18-34] 574a-c; ch 9 [io5i“22-34] S77b-c; 
+BK XH, ch 7 [to72*’i4-29] 602d-603a; ch 9 
+605 a- d 
+
+17 Plotinus; Fourth. Ennead, tr hi, ch 18 
+151b-c; TR iv, CH I 159a-d; ch 12, 164b / 
+
+I't Fifth Ennead, tr hi, ch 3' 216c-217b; tr v, 
+CH 1-2 228b-229d passim; ch 7 231d-232b; 
+TR VI 235b-237d 
+
+18 Augustine: Confessions, bk ix, par 23-25 
+
+68a-c; bk xh, par 16 102d-103a /City of God, 
+■ BK IX, CH 22 296d-297a; bk xi, ch 2 323a-c; 
+CH 7 326a-c; ch 21 333a-d; ch 29 339a-b; 
+bk XVI, CH .6 426c-427a; bk xxh, ch 29, 
+614b-d' • 
+
+19 Aquinas: Summa Theologica, part i, q 14, 
+A 7 81d-S2b; q 34, a i, rep 2 185b-187b; q 46, 
+A 2, REP 3 253a-255a; q 58, a 3 301d-302d; 
+A 4; ANS 302d-303c; q 79, a 8, ans and rep 3 
+421c-422b; q 85, a 5, ans’ 457d-4S8d; part 
+i-ii, Q 14, A I, rep 2 677b-678a; q 15, a 4, 
+REP I 683b-684a 
+
+21 Dante: jDip/nr Comedy, paradise, ii [43-45] 
+108a - 
+
+30 Bacon: Advancement of Learning, 17b-c / 
+Novum Organum, bk ii, aph 15 149a 
+
+31 Descartes; Rules, iir, 4a-d; xi 17b-18b; xii, 
+23b-c / Objections and Replies, 123a-b 
+
+31 Spinoza; Ethics, part ii, prop 40, schol 2 
+388a-b; part v, prop 28 459b 
+
+32 Milton: Paradise Lost, bk v [469-505] 18Sb- 
+186a 
+
+33 Pascal: Pensees, 1-5 171a-173a; 277-288 
+222b-224b 
+
+35 Locke: Human Understanding, bk i, ch hi, 
+sect 23 119b-120a; bk iv, ch 1, sect 9, 
+309b; CH IX, sect 2-3 349a-c; ch xvh, sect 
+14-17 378c-379c 
+
+36 Sterne: Tristram Shandy, 318b-319a 
+
+42 Kant: Pure Reason, 33a-d / Practical Reason, 
+320c-321b; 337a-c: 350c-351b / Judgement, 
+572d-574b; 579a 
+
+Ic. The role of sense, memory, and imagina- 
+tion in reasoning: perceptual inference, 
+rational reminiscence, the collation of 
+images 
+
+7 Plato: Meno, 179d-183a; 188d-189a / Phaedo, 
+224a-225c; 228a-230a / Republic, bk hi, 
+333b'd; bk vi-vii, 383d-398c / Seventh Letter, 
+809c-810d 
+
+8 Aristotle: Posterior Analytics, bk ii, ch 19 
+136a-137a,c / Soul, bk i, ch i [403“2-i6i 
+632a-b; bk hi, ch 7 [43i’*i4-*>i9] 663d-664b 
+/ Sense and the Sensible, ch i [436^ 17-43/^ W ] 
+673d-674a / Memory and Reminiscence, ch 2 
+[453''5-i5l 695b 
+
+12 Lucretius: Nature of Things, bk iv [353-521] 
+48d-5Ia esp [469-521] 50b-51a 
+
+18 Augustine: Confessions, bk x, par 10 73d- 
+74a; par 16-19 75b-76b; par 26-38 78a-81a / 
+City of God, bk vhi, ch 6, 269b-c 
+
+19 Aquinas; Summa Theologica, part i, q 78, 
+A 4, ans and rep 4-5 411d-413d; q 81, a 3, 
+ANS and REP 2 430c-431d 
+
+23 Hobbes: Leviathan, part i, 52b-54c; 60a-b; 
+PART IV, 267b 
+
+28 Harvey; On Animal Generation, 332a-335c 
+esp 334c-d 
+
+31 Descartes: Rules, xii, ISb-c; 20b-d; xiv 
+28a-33b / Discourse, part i, 41d / Objections 
+and Replies, 229d-230c 
+
+. ' THE' GREAT IDEAS li'oZa 
+
+(1. Definitions or descriptions of Reasoning: the 
+, process of thought, Ic. The role of ^sense, 
+memory, and imagination in reasoning: 
+perceptual inference, rational reminiscence, 
+I the collation of imagesi) 
+
+35 Locke: Human Understanding,' - b-k. ii, ch xi, 
+
+,t . SECT 13 146b-c 
+
+36 Sterne: Tristram Shandy, 234b-236b 
+
+'38 Rousseau: Inequality, 341d-342a 
+
+42 Kant: Pure Reason, 23a-24a; 34a-c; 54b 64a; 
+llld- 112 a / Practical Reason, 352c-353a 
+
+49 Darwin: Descent of Man, 292d-293d L 
+
+53 James: Psychology, 381b-385b; S2Sa-S26b; 
+
+' ' '.664a-666b esp'664b-665b; 667b-674a; '676a- 
+686 b esp 677a-678b 
+
+2. The rules of reasoning: the theory of the 
+syllogism 
+
+7 Plato; Phaedo, 244c-24Sc ■ 
+
+. 8 Aristotle: Categoiies, ch 3 [i'^io-i 6 ] 5c-d / 
+Prior Analytics 39a-93a,c / Posterior Analytics, 
+-BK I, CH 14 108d-109a ' ' 
+
+9 Aristotle: Rhetoric, bk i, ch 2 [i356'’i3-i7] 
+S96a 
+
+12 Epictetus: Discourses, bk 1, ch 7 112b- 
+113d 
+
+18 Augustine: Christian Doctrine^ bk ii, ch 31 - 
+34 651d-653b 
+
+23 Hobbes: Leviathan, part 1 , 56b-58a; 58d- 
+60b 
+
+30 Bacon: Advancement of Learning,') 56c-58b 
+esp S7b-58b; 59c-60a; 96d-97a / Novum Orga- 
+ntim, bK I, APH 14 107d-108a; aph fo 4 -io 6 
+128a-c; bk ii, aph 27-32 157b-I61b esp aph 
+32 161a-b 
+
+31 Descartes: Rules la-40a,c passim,' esp v-vii 
+7d-12a, x-xil lSd-25a, xiv, 28b-29a, 32d / 
+Discourse 41a-67a,c esp part i, 41d-42b, 
+PART II, 45b-c, 46c-48b, part hi, S0b-51a, 
+PART IV, S2a 
+
+33 Pascal: Geometrical Demonstration, 430b- 
+434a; 442a-443b 
+
+35 Locke: Human Understanding, bk iv, ch 
+XVII, SECT 4 -S ZTlc-znA 
+
+36 Sterne: Tristram Shandy, 318b-319a 
+
+41 Gibbon: Decline and Fall, 299b 
+
+, 42 Kant: Pure Reason, 59c-108a,c; I 10 d-H 2 d esp 
+llOd-lllc; 115d-119a / Fund. Prin. Meta- 
+
+1 .physic of Morals, 2S3a-b / Judgement, 600d- 
+; 603d esp 601d-602b 
+
+53 James: Psychology, 667b-668a; 868b'873a esp 
+.869b-870a, 871a, 872b-873a; 878b-879a ' 
+
+2a. The structure of a syllogism: its figures and 
+moods, ^ ' 
+
+8 Aristotle: Prior Analytics, bk 1 , ch 1-26 
+
+- - 39a-60b 
+
+24 Rabelais: Gargantua and Pantagruel, bk i, 
+
+. 22b-c' , " 
+
+d'30 Bacon: Advancement of Learning, 59c-60a 
+
+35 Locke: Human Understanding, bk iv, ch 
+’ XVII, SECT 4, 373c-375a; sect 8 377b'd 
+42 KANT:'P«?'e l?£'aro«,'110d-112d esp llOd-lllc; 
+118a-c 
+
+2tf (1) The number of premises and the number 
+, of,terms:-the middle term in reasoning 
+I 8 Aristotle: Prior Analytics, bk'i, ch '4 [25'' 
+32-39] 40d; CH 25 58d-59d; ch 32 65a-d 
+, / Metaphysics,'BY. v, ch 3 [ioi4“35-’’3] 534c 
+
+30 'Bf.cMtf.t Advancement of Learning, 59c-60a 
+
+35 'Lockz: Human Understanding, bk iv,-ch xvii, 
+I sect 4, 374d-37Sa; sect 8, 377c-d‘ 
+
+36 Sterne: Tristram Shandf, 318b-319a 
+
+u42 Kant: Pure Reason, 110d-112d esp llOd-lflc, 
+112a;118a-c ' - . 
+
+53 James: Psychology, 667b-668a; 672b 
+
+2a{2) AfiSrmation, negation, and the distribu- 
+[ tion of ,the middle term: the quantity 
+and the quality of the premises, ; , r 
+
+8 Aristotle: Prior Analytics, bk i, ch 4-7 40d- 
+45b; ch 2'4 58B-d; ch 26 S9d-60b; ch 33 
+' 65d-66a / Posterior Analytics, bk i, ch 14 
+,108d-109a " • 
+
+19 Aquinas: Summa Theologica, part i, q 86, 
+A I, REP 2 461c-462a ' 
+
+35 Locke: Human Understanding, bk iv,’ ch 
+XVII, SECT 8, 377b-c 
+
+42 Kant^Piih? Reason, 39c-41c esp 39d-40c 
+
+/ ' . 
+2b. The kinds of syllogism: categorical, hypo- 
+,1 thetical, disjunctive, modal ■ , , 
+
+8 Aristotle: Prior Analytics, bk i, ch 23 S7b- 
+58b; ch 27-29 60b-63d; ch 44 68d-69b ■ ' 
+
+42 Kant: Pure Reason, llOd-lllc esp ’lllb; 
+175c-d ' 'I ■' 
+
+2c. The^ connection of syllogisms: sorites, pro- 
+syllogisms and epi-syllogisms 
+8 Aristotle: Prior Analytics, bK i, ch 25 
+(42 ’'i- 26] 59c-d / Posterior Analytics, 'bk i, 
+CH 25 [86“33-''29i 118a-c i ‘ 
+
+35 Locke: Human Understanding, bk iv,‘ ch 
+XVII, sect 4 373a-374d; sect 15, 379a-b 
+42 Kant: Pure Reason, llld-112d; 115d-liga 
+53 James: Psychology, 872b-873a » v 
+
+3. The truth and' cogency of reasoning ^ ' 
+
+• rj- 
+
+3rf. Formal and material truth: logical validity 
+distinguished from factual truth 
+
+(8 Aristotle: Prior Analytics, bk ii, ch'-2-4 
+I 72d-77a / Posterior Analytics, ■ Bit i, ch 12 
+[77'’i6-34] 106d-107a Physics, bk i, ch 2 
+[i85“5-i2] 2S9d; ch 3 [i86"4-9] 260d-261a 
+• 10 Galen: Natural Vacuities, bk i, ch~I4, 
+178c-d • ’ i 
+
+12 Epictetus: Discourses, bk i, ch 7 112b-113d 
+'18 Augustine: Christian Doctrine, bk n,tcH 31- 
+34 6Sld-6S3b 
+
+) 
+
+• f i 
+
+ZbtoAa CHApTEii/?:- REASONING 559 
+
+30B\con: 'Advdnce)nent of Learning, S7d-S8a; 
+S9c-60c / Novum Organum, bk i,“aph 14 
+, .:."l07d-108a 'i ' • 
+
+31 Descartes: Rules,' x;H6d-17a> / Ol^ectians 
+.■ •. ■ and Replies, '126h-l27c \ ■ ■■ . ’ . ■ ' i '' 
+
+3S Locke: Human Understanding, bk ii, ch xi, 
+<• SECT 13 146b-c ' '1 1 -.V.. 1 
+
+- ,42 KANTf Pure ’Reason, 36a-37d:'esp •36b-37b; 
+
+. 180c-182b; 193a-b. - 
+
+„• 44- Boswell :7otoo»,,134c-d 
+51 Tolstoy: War and Peace, epilogue iii 683d- 
+,684a 'f'.' 
+
+rS3 Jambs:' Psychology,’ 872b; 879b-885a -esp 
+880b-882a - . j p r ; - 
+
+3&.,Lack of cogency in reasoning: invalid syl- 
+logisms; formal fallacies j,,. • ; , 
+
+8 Aristotle: Prior Analytics, bk ii, ch 16721 
+
+• ' Posterior"A>ialyiics\ 'EK i;' 'ch 'i2 
+
+-lu •[7ybi6L34]'‘i06d-107a'V Physics, bk ' i, cn a 
+
+{tS5®5-r2j 2593; 'ch’3 260d-261a 
+
+r'9 Aristotle: Rhetoric', bk 11, ch 24 649d-6Sld 
+
+- 12 Epictetus: \ Discourses', bk i, ch 7’ 112b- 
+
+113d . 
+
+■ 18 Augustine: Christian Doctrine, bk 11, ch 31- 
+34 651d-653b c. • ; ' 
+
+24 Rabelais: .Gargantua and Pantagruel, bk i, 
+23b-c II I - 
+
+31 Descartes; Objections and' Replies, 126b-127c 
+33 Pascal; 368b-369a • 
+
+42 Kant: Pare Rerty()a,109b-c; 133d - 
+
+53 James: Psychology, il08a-b; 227b-228a; 236b 
+(fn i]; 526b [fn i] 
+
+3r. Lack of truth in reasoning; sophistical argu- 
+ments; material fallacies , 
+
+7 Plato: Euthydemus5id-8‘\z',c/,Phaedo,237h- 
+238a 
+
+8' Aristotle: Prior Analytics, bk i, ch '34-35 
+66b-d; bk ii, ch 18 87a-b / Posterior Analytics, 
+. , BK I, CH 16-17 109b-lllb / Topics, bk i, ch i 
+[ioo''23-ioi“i8] 143b-d; bk viii, ch io [160** 
+^ ■ 23-39] 218b-c; CH 12-13 220c-221d / Sophisti- 
+cal Refutations 227a'253d / Physics, bk j, ch 2 
+[i85“5-i2] 259d; ch 3 {i86''4-9] 260d-26la 
+
+9 Aristotle: Rhetoric, bk 11, ch 24 649d-651d 
+12 Epictetus; Discourses, bk i, ch 7 112b- 
+
+113d ■ . ■ 
+
+18 Augustine: Christian Doctrine, bk ii,' ch 31 
+. ,651d-652b ,, ' . 
+
+23 Hobbes: Leviathan, part i, 56b-d; S8d-60c 
+•30 hACOK: lAdvancement of Learning, 60a-61d / 
+^ Novum Organum, bk i, apk 38-69 109cfll6b 
+31 Descartes: Rules, x, 16d-17a / Objections 
+and Replies, 126b-127c 
+33 Pascal: Vacuum, 367a-368b .1 - 
+35 Locke; Human Understanding, bk ii, ch i, 
+
+, sect io, 123c; ch,xi, sect 13 146b-c; bk iv, 
+ch XVII, SECTf9-2i 379d'380a. 
+
+35 Hume: Human Understanding, sect yin, niv 
+t" ,75i 484c; sect xii, mv 132 S09a-d , t- . 
+
+1. 1 
+
+42 Kant; Pttre Reason, 36d-37d; 109b-c;. 120 ct 
+‘ 12ic; 133d' ] . . . p- . I ■ 
+
+3<b. Necessity and contingent' ifa reasoning: 
+1, , logical necessity; certainty , and ’prob- 
+5. ,ability ‘ ^ .. . , , •' 
+
+' ■ 8 AaiSTofLE; Prior 'Analytics, bk-'i, ch f [24**i8- 
+26] 39c; CH 8-22 45b-57bV CH''3bi^[46“3-io] 
+, 63d; BK II, CH 25 Posterior Analytics, 
+
+' ’bk'i,,'ch 2 g8d-99a; CH 6 [75‘‘i2-28] 
+
+103a-b '/ Topics^ -‘m. t]' ch i .'[ip6'‘25-‘’23] 
+■ ■ " l43a-b;''BK II, ch" 5 '(ii2®i6-23] 157b-c; bk 
+vin, CH 12 [ife''35-'’2] 220c / Physics', bk ii, 
+CH 9 (2o6“i5-29] '277c-d } Metaphysics, -bk v, 
+. ’■ 'CH 5 '[ioi 5%-8] 535d-536a; bk vii, ch 13 
+[To39’^3i-io 40“8]. 563d-5648i;' bk xii, ch 8 
+
+I 'Iio 74 “i 4 -i 6 j 604c ■ . 
+
+9 Aristotle: Ethics, bk 1 ,' ch 3 [i 094 *’i 2 - 27 ] 
+339d-340a;icH.7 [t098“25-''7] 343d-344a;' bk 
+VI, cH 3 388b-c / Rhetoric, bk i, ch i [i 355 “ 3 - 
+iSj S94b; CH 2 ''[r 357 “r 4 - 3 oJ 596d'S97a; bk’ii, 
+CH 25 [i 402 ’’i 3 -i 403 “i 7 ] 652b-653a • 
+
+.'12 Epsctetus: Discourses, bk i, ch 7 , 112d-113d; 
+
+' ■■'CH 26 , 131b 
+
+.16 Copernicus: Revolutions of the Heavenly 
+• ■ Spheres, 505a-506a 
+
+19 Aquinas: Summa Theologica, part i, q 12 , 
+A 7 , ANS and Rep '2 56a-57b; q 19 , a 8, rep 3 
+116a-d; q 44 ,-A i, rep 2 238b'239a; q 47 , a i, 
+' 'REP 3 256a-257b; q 82 , a 2 , ans 432d-433c; 
+part i-ii, q 13 , A 5 , ANS 67Sc-676b; a 6 , 
+rep 1-2 676c-677b ' 
+
+.20 Aquinas •.'Summa Theologica, part i-it, q 94 , 
+A 4 , ANS 223d-224d; part ii-ii, q 4 , a 8 
+409a-d; PARfiii, q 9 , a 3 , rep 2 76Sb-766b 
+23 Hobbes; Leviathan, part 1 , 6 Sc-d; 71c 
+. 31 Descartes: Rules, 11 2a-3b; xii, 23b / 
+Discourse, part n, 46c-48b / Meditations, i, 
+76c 
+
+33 Pascal; Vacuum, 368b-369a ' 
+
+34 Huygens; Light, prep, 55lb-5S2a 
+
+35 Locke: Human Understanding, bk iv, ch'Xv, 
+
+■ SECT' 1^3 365a-d esp sect i 365a-c; ck xvi 
+366d-371c passim; . CH xvii, sect 2 371d' 
+372b; sect 15-17 378d-379c 
+
+■35 Hume: Human Understanding, skcT iv, niv 
+20 - 21 ' 458a-c; sect vi 469d-470d esp 469d 
+tfn ij; sect x, div 87-88 489b'490b 
+38 Kovssbav:' Inequality, 3^80,0 
+42 Kant: Pure Reason, 14d; 17d-18a; 194b-d / 
+
+I Intro. Metaphysic. of Morals, 387a-d 
+‘■53 James; Psychology, 878a-884b 
+
+4. The types of reasoning, inference, or argu- 
+ment 
+
+4«. Immediate inference; its relation to, medi- 
+ated inference or reasoning 
+
+7 Plato: Euthyphro, 196d 
+
+8 Aristotle; Interpretation, ch 7 •.[i 7 *’ 23 - 37 ] 
+
+II 27b-c;.,cH 10 [ 2 o“i 6 - 37 ] 30d-31b / Prior 
+
+(4. The types of reasoning, inference, or argument. 
+4a. Immediate inference: its relation to 
+mediated inference or reasoning.) 
+
+Analytics, bk i, ch 2-3 39d-40c; bk 11, ch 
+8-10 79b-81b; ch 22 [67’'26-68“24] 89b-d 
+
+42 Kant: Pure Reason, 17d'18a; 109d-lllc esp 
+109d-110a, llOd-lllc 
+
+4b. The direction and uses of reasoning: the 
+distinaion between proof and inference, 
+and between demonstration and dis- 
+covery 
+
+7 Plato: Republic, bk vi, 383d-388a 
+
+8 Aristotle; Posterior Analytics, bk r, ch 3 
+[72''25-33] 99 c / Topics, bk i, ch 2 143 d- 144 a 
+/ Sophistical Refutations, ch 2 227 d- 228 a; ch 
+lo-ii 234 d' 237 c 
+
+9 Aristotle: Ethics, bk i, ch 4 [iog5“3o-*’i3] 
+340 c-d 
+
+11 AR.CHtMs.nt.s‘. Method, 569b-57Qa 
+
+23 Hobbes: Leviathan, part iv, 267a-b 
+
+30 Bacon; Advancement of Learning, 56c-S8b; 
+59c-d; 96d-97a / Novum Organum, pref 
+10Sa-106d; bk i 107a-136a,c esp aph 11-26 
+107d-108d, APH 29-30 109a, aph 69 H6a-b, 
+APH 103-106 127d-128c 
+
+31 Descartes: Rules, 11, 2 c- 3 a; x, 16 d- 17 a; 
+XIV, 28 b-c / Discourse, part ii, 46 c- 48 b 
+
+33 Pascal; Pensees, 1 171a-172a; 40 177b- 
+178a 
+
+35 Locke : Human Understanding, bk iv, ch vii, 
+SECT II, 340c-341a; ch xvii, sect 2-3 371d- 
+372b; SECT 6-7 376c-377b 
+
+42 Kant: Pure Reason, lSd-16c; llOd-lllc; 
+119a-b; 193a-200c esp 193d-194b, 199a-c / 
+Practical Reason, 294a-b / Judgement, 570b- 
+572b; 572d-574b; 600d-603d esp 603b-c 
+
+53 James: Psychology, 381 b- 385 b esp 382 a, 384 a- 
+385 b; 672 b- 673 b 
+
+4c. Inductive and deductive reasoning 
+
+8 Aristotle: Prior Analytics, bk h, ch 23 
+90 a-c / Posterior Analytics, bk i, ch i [7i“i-ii] 
+97 a; ch 3 [72''25-33] 99 c; ch 18 lllb-c; bk ii, 
+ch 7 [92“34-'’r] 126 b / Topics, bk i, ch 12 
+148 d; ch 18 [io8'’7-I2] 152 d; bk viii, ch 14 
+[i64'‘ii-i6] 222d 
+
+9 Aristotle: Ethics, bk i, ch 4 [1095*30- 
+’’8] 340 c; CH 7 [io98“35-*’3] 343 d; bk vi, 
+CH 3 388 b-c / Rhetoric, bk i, ch 2 [1356*36- 
+1358*35] 596 a- 598 b; bk ii, ch 20-22 640 d- 
+645 a 
+
+28 Galileo: Two New Sciences, fourth day, 
+252a-b 
+
+28 Harvey: Motion of the Heart, 280c 
+
+30 Bacon: Advancement of Learning, 42 a-c; 57 b- 
+58 b; 61 d; 96 d- 97 a / Novum Organum, bk 1 
+107 a- 136 a,c esp aph 11-26 107 d- 108 d, aph 69 
+
+, 116a-b, aph 103-106 127d-128c 
+
+31 Descartes: Rules, ii, 2d-3a; iii, 4c-d; vii 
+10b-12a; xi 17b-18b; xii, 23b-24c / Discourse, 
+
+4b to jf 
+
+PART VI, 61 d- 62 c./ Objections and Replies, 
+167 c-d 
+
+34 Newton: Principles, bk hi, rule iv'271b / 
+
+Optics, bk III, 543a-b ' ' 
+
+35 Locke: Human Understanding, bk'iv, ch xii, 
+
+SECT 6-13 360 a- 362 d ' 
+
+35 Hume: Human Understanding, sect i, div 9 
+
+4S4c-4S5a; sect hi, div 19, 458a; sect iv, 
+DIV 26 460b-c; sect vhi, div 65, 479b-c; 
+SECT IX, div 82 487b'c; sect xii, div 131-132 
+508d-S09d passim > 
+
+42 Kant; Pure Reason, 45b-46a; 195d-197b 
+
+43 Mill: Utilitarianism, 445a-447b passim; 
+
+47Sb,d [fn i] passim ^ 
+
+45 Faraday: Researches in Electricity, 659a 
+
+51 Tolstoy: IPar and Peace, epilogue h,’ 690 b 
+
+53 James: Psychology, 674a-675b esp 67Sb 
+
+t 
+
+4d. Direct and indirect argumentation: proof 
+by reductio ad absnrdum; argument from 
+the impossible or ideal case , 
+
+8 Aristotle; Prior Analytics, bk 1, ch 23 57 b- 
+
+58 b; CH 29 62 d- 63 d; bk ii, ch 11-14 81 b- 
+84 b; CH 17 86b 87 a / Posterior Analytics, bk i, 
+CH 26 118 d- 119 b / Topics, bk vhi, ch 2 
+[i57''34-i58“2] 214 b c / Metaphysics, bk iv, 
+CH 4 [1006*12-29] 525 b-c; bk xi, ch 5 [1061'' 
+34-1062*12] 590 a-b 1 
+
+9 Aristotle: Ethics, bk vh, ch 2 [1146*22-30] 
+
+396b ' r- 
+
+33 Pascal: Vacuum, 368 b 
+
+36 Sterne: Tristram Shandy, 227a-228a 
+
+! j 
+
+4e. Refutation: disproof 
+
+7 Plato: Sophist, 558b-d ' f ' 
+
+8 Aristotlei Prior Analytics, bk ii, Ch 20 87c-d; 
+ch 26 91b-d / Sophistical Refutations, CH 4-11 
+228b-237c 
+
+9 Aristotle: Ethics, bk vii, ch 1 [ii45'’i-7l 
+395 b / Rhetoric, bk ii, ch 22 [i396''2o]-ch 26 
+[1403*34] 644 d- 653 a,c esp ch 25 [i402“29]-ch 
+26 [1403*34] 651 d- 653 a,c 
+
+lO Galen: Natural Faculties, bk 1, ch 14, 177a- 
+179d 
+
+31 'Descartes: Objections and Replies, 208 a-c 
+
+33 Pascal: Vacuum, 368b 
+
+4f. Reasoning by analogy: arguments from 
+similarity > ( 
+
+7 Plato: Republic, bk ii, 316 a-b; bk iv, 350 a-b; 
+
+BK vi-vii, 383 d; 391 b ' ' ' 
+
+8 Aristotle: Prior Analytics, bk ii,' ch 24 90 c- 
+
+91 a / Topics, bk i, ch 18 [io8’’6-i9]' 152 d- 
+153 a ' ■ 
+
+9 Aristotle: Rhetoric, bk 1 ', ch 2 [i357’’25- 
+
+1358*2] S97c-d; BK II, ch 20 [i393*22-i39'4"“8] 
+640d-641d - » 
+
+20 Aquinas : Stimma Theologica, part hi suppl, 
+Q 75, A 3, rep 2 938a-939d > 
+
+23 Hobbes: Leviathan, part i, 60 c; 67 c ‘ 
+
+30 Bacon: Novum Organum, bk i, aph 34 109b; 
+BK II, APH 27, 158a-b 
+
+5to 5b{\) Chapter 77:' REASONING 561 
+
+, , 34 Newton: Principles, bk hi, general schol, 
+370b-371a 
+
+...35 Locke: Human Understanding,- ssv. h, ch xi, 
+SECT 2 144a-c; bk iv, ch xvi, sect 12 370b- 
+371a 
+
+, 35 Berkeley: Hitman Knowledge, sect 105-106 
+
+, 433b-d' 
+
+•35 Hume: Human Understanding, sect ix, mv 
+'82 487b-c;.sECT-,xi, DIV I13 502a-d; niv 115 
+503b-c 
+
+42 Kant: Judgement, 547b-548c; 600d-603d esp 
+601d-602a, 602b [fn t] . 
+
+49 Darwin: Origin of Species, 26a; 241b 
+
+,53 James: Psychology, 295a-b; 677a-678a; 686b- 
+690a esp 688a-689a 
+
+. 54 Freud: Civilization and Its Discontents, 
+801b-c / New Introductory Lectures, 819a 
+
+5. Reasoning in relation to knowledge, opin- 
+ion, and action 
+
+5<t. The fact and the reasoned fact: mere belief 
+distinguished 'from belief on rational 
+grounds 
+
+7 Plato: Meno, 188b-189a / Republic, bk v, 
+370d-373c 
+
+8 Aristotle: Posterior Analytics, bk i, ch 6 
+[75“i2-37] 103a-c; ch 13 107c-108c; bk ii, ch 
+1-2 122b,d-123c / Soul, bk ii, ch 2 [413H1- 
+19] 643a-b 
+
+9 Aristotle: Ethics, bk i, ch 4 (i095“30-*’i3l 
+340c-d; CH 7 ti098“35-'’4J 343d; bk vi, ch 3 
+388b-c; ch ii 392c-393b 
+
+11 Archimedes: Method, 569b-570a; prop i, 
+572b 
+
+20 Aquinas: Summa Theologica, part hi, q 9, 
+A 3 , rep 2 765b-766b 
+
+31 Descartes: Rules, xvi, 35a-b 
+
+35 Locke: Human Understanding, bk n,CH xxiii, 
+SECT 25 210c-d 
+
+35 Hume: Human Understanding, sect iv 458a- 
+463d passim, esp div 28-33 460d-463d; sect 
+V 463d-469c passim, esp div 38 466b-c, div 
+45 469c 
+
+36 Swift: Gulliver, part iv, 165a-b 
+
+42 Kant: Pure Reason, 228c-d; 240b-243c / 
+Judgement, 601d-607c 
+
+43 Mill; Liberty, 283c-288c passim / Utilitar- 
+ianism, 445d-446b 
+
+46 Hegel: Philosophy of History, intro, 156d- 
+160b 
+
+S3 James: Psychology, 689b-690a 
+
+5b. Scientific reasoning; the theory of demon- 
+stration 
+
+7 Plato; Meno 174a-190a,c / Republic, bk vi, 
+386d-388a / Par;!:e;;/d« 486a-511d esp 491a-c 
+/ Philebiis, 610d-613a 
+
+8 Aristotle; Prior Analytics, bk i, ch 30 63d- 
+64b / Posterior Analytics 97a-137a,c / Meta- 
+physics, BK VI, CH I [io25’’i-i3] 547b; bk vii, 
+ch 15 [io39’>20-io 40°8] 563c-564a 
+
+9 Aristotle: Ethics, bk vi, ch 3 388b-c; ch 6 
+389d 
+
+23 Hobbes; Leviathan, part i, 58a-c; 60a-b; 
+60d; 65c-d; part iv, 267a-c . ■ 
+
+28 Harvey; On Animal Generation, .332a- 
+337a, c 
+
+30 Bacon; Advancement . of Learning, 42a-c; 
+S6c-S9c;-61d / Novum Organum, pref 105a- 
+106d; BK I 107a-136a,c esp aph 11-26 107d- 
+108d, APH 69 116a-b, aph 103-106 127d- 
+.128 c, 
+
+i 31 Descartes: Rules, i-xin la-27d f Discourse, 
+part VI 60d-67a,c 
+
+33 Pascal: Vacuum, 365b-366a;' 368b-369a / 
+Geometrical Demonstration, 430b-434a; 442a- 
+443b 
+
+34 Newton: Principles, bk hi, rules 270a-271b 
+/ Optics, BK III, 543a-b 
+
+35 Locke: Human Understanding, bk hi, ch xi, 
+SECT 16 303c-d; bk iv, ch i, sect 9, 308d- 
+3b9b; CH II, SECT 2-13 309d-312b; ch iv, 
+sect 7 325b; ch vii, sect ii, 340c-341a; 
+ch xn, SECT 6-13 360a-362d; ch xv, sect i 
+365a-c; cH xvii 371c-380d passim, esp sect 
+2-4 371d-376c, sect 15 378d'379b 
+
+35 Hume: Human Understanding, sect iv, div 20 
+458a-b; div 30, 462a; sect xii, div 131-132 
+508d-509d 
+
+42 Kant: Pure Reason, la-13d; 190c-191a; 
+194b-c; 211c-218d esp 217c-d / Fund. Prin, 
+Metaphysic of Morals, 264d / Pref. Metaphysi- 
+cal Elements of Ethics, 365a-366a / Judgement, 
+463a-467a; 542c-543a; 603b-c 
+
+43 Mill: Utilitarianism, 44Sb-d 
+
+53 James: Psychology, 674a-675b; 677b; 862a- 
+865a 
+
+5b(l) The indemonstrable as a basis for dem- 
+onstration 
+
+7 Plato: Cratylus, 112a 
+
+8 Aristotle: Prior Analytics, bk i, ch i [ 24''2 i- 
+*’ 16] 39a-c / Posterior Analytics, bk i, ch 3 
+99b-100a; ch 7 [75“38-’’7] 103c; ch ii 105d- 
+106b; ch 19-23 lllc-116a; bk 11 , ch 19 136a- 
+137a, c / Physics, bk 11 , ch i [i 93 “i- 9] 269b / 
+Heavens, bk i, ch 5 [27i*’i-i3] 362c-d / Meta- 
+physics, bk I, CH 9 [992*’24-993“i] Slla-b; bk hi, 
+ch 2 [996’’26-997“i4] 515b-d; bk iv, ch 4 
+lioo6“4-i2l 525a-b; ch 6 [ion“3-i4l 530d; 
+BK XI, CH 6 [io63''7-i2l 591d; bk xih, ch 4 
+[io78’’28-3i] 610b-c / Soul, bk i, ch 3 [407“ 
+22-30] 636d-637a 
+
+9 Aristotle; Generation of Animals, bk ii, ch 
+6 [742’’i7-35] 283d-284a / Ethics, bk vi, ch 3 
+388b-c; ch 6 389d; ch ii 392c-393b 
+
+19 Aquinas; Summa Theologica, part i, q 17, 
+A 3, REP 1-2 102d-103c; q 36 , a 3 , rep 4 
+194c-195d; part i-ii, q i, a 4 , rep 2 612a- 
+613a 
+
+20 A.QUINAS : Summa Theologica, part i-ii, q 94, 
+a' 2, ANS 221d-223a; q 112, a 5, ass 3S9c- 
+360c 
+
+{5b. Scientific reasoning: the theory of demonstra- 
+tion. 56(1) The indemonstrable as a basis 
+
+' ’ Jor demonstration.) 
+
+28 Harvey: On Animal Generation, 333d-334d 
+' esp 334a 
+
+30 Bacon: Advancement of Learning, SSc^'d; 97a 
+
+31 Descartes: Rules, n 2a-3b / Discourse, part 
+II, 46c-47a / Meditations, i;'76c'/ Objections 
+and Replies, 123a-b; 224b, d 
+
+35 Locke: Human Understanding, bk'iv, ch ii, 
+SECT I, 309d; sect 7-8 310d-311a; CH ni, 
+SECT 4 313b-c; CH xv, sect i 365a-c; sect 3 
+365d; CH xvit, sect 15 378d-379b 
+
+42 Kant: Pure Reason, 217c-d / Practical Reason, 
+307d-310c esp 309b / Judgement, 542d-543a 
+
+43 Federalist: number 31, 103c-104a 
+
+43 Mill: Utilitarianism, 446d-447a; 461c-462a; 
+475b, d [fn i] 
+
+44 Boswell: Johnson, 82b 
+
+46 Hegel: Philosophy of Right, AbniTioNS, 3 
+116a 
+
+( 
+
+56(2) Definitions used as means in reasoning: 
+definitions as the end of reasoning 
+
+7 Plato: Sophist, 551a-552c / Seventh Letter, 
+809c-810d 
+
+8 Aristotle: Prior Analytics, bk i, ch 43 68d 
+/ Posterior Analytics, bk i, ch 2 [72‘'i9-24] 
+gSd; CH 8 [75’’2i-32] 104 a; ch io [76'’35-77’‘4i 
+lOSc-d; CH 22 [82‘’36'83 “i] 113 b; ch 33 [89“ 
+i7-*’5] 121 d- 122 a,c; bk ii, ch 3-10 123 c- 128 d 
+/ Topics, BK VII, CH 5 [i 54®23 -‘’i 3] 209 d- 210 a; 
+[i55“i7-23! 210 d; bk vni, ch 3 214 d- 21 Sd / 
+Metaphysics, bk i, ch 9 [992*’30-993“i] 511 b; 
+bk hi, CH 2 [996 *’i 8 -^i] 515 b; bk iv, ch 4 
+[ioo5'’35-ioo7'’2o] S 25 a- 527 a; ch 7 [1012*18- 
+24] 532 a-b; ch 8 [ioi 2 ’’ 5-81 532 c; bk xi, ch 5 
+590 a-d; bk xiii, ch 4 [io78‘’23-3o] 610 b-c / 
+Soul, bk I, CH I [ 402 '’i 6-403*2] 631 d- 632 a; ch 
+3 [407*22-30] 636 d- 637 a: ch 5 [409'‘3r-*’i8] 
+639 b-c; bk h, ch 2 [413*11-19] 643 a-b 
+
+9 Aristotle: Parts of Animals, bk i, ch i [ 639'’ 
+7-642^5] 161d-165d 
+
+19 Aquinas: Summa Theologka, part i, q 2, a i, 
+REP 2 lOd-lld; A 2, REP 2 lld-12c; q 3, a 5, 
+ANS 17c-18b; Q 17, A 3, REP 1-2 102d'103c; 
+Q 85, A 6 458d-459c 
+
+23 Hobbes: Leviathan, part i, 56b-60c; 65d 
+
+31 Descartes : Objections and Replies, 128c-129a 
+
+33 Pascal: Pensees, 1 17la'172a / Geometrical 
+Demonstiation, 430b-434b 
+
+35 Locke: Human Understanding, bk hi, ch xi, 
+sect 15-17 303b-304a esp sect 16 303c-d; 
+bk IV, ch hi, sect 20, 319b 
+
+35 Hume: Human Understanding, sect Vii, div 
+' 48 470d-471c; sect vin, div 74 484a-c; sect 
+
+XH, DIV 13 1 508d-509a ‘ 
+
+42 KaN't; Pure Reason, ’l79d-182b; 211c-218d / 
+Practical Reason, 293c'294b ^ ^ 
+
+‘ 51 Tolstoy: IPar and Peace, epilogue 11, 690b 
+
+54 Freud: / ny/Hirts, 412a-b ' ' 
+
+56 ( 2 ) to 56 ( 4 ) 
+
+56(3) A priori and a posteriori reasoning; from 
+causes or from effects; from principles 
+- ' or from experience; analysis and syn- 
+thesis ’ ■ . ' ' 
+
+7 Plato: P 6ffe</o, 242b-243c 
+
+' 8 Aristotle: Posterior Analytics, sic !, ch 3 
+
+[72’’25-33] 99c / Physics, bk i, cH i 259a-b / 
+Generation and Corruption, bk i, ch 2 [316*5- 
+14] 4Ilc-d / Metaphysics, bk-vii, ch 3 [1029“ 
+33-'’i2] 552a 
+
+9 Aristotle; Ethics, bk i, ch 3 
+tz] 340a-b; ch 4 [i695“3d-*’i3] 340c-d; bk 
+iir,‘ ch 3 [iii2’'20-24] 358d; bk vi, ch 8 [1142“ 
+' 12-19] 39Ib / Politics, bk i, ch i [ 1252*17-24] 
+
+445b 
+
+10 Galen: Natural Vacuities, bk i, CH' 14, 177a- 
+J78d esp 177c, 178c-d; bk hi, ch 1-2, 199c-d 
+
+19 Aquinas: Summa Theologica, part i-ii, q 14, 
+A 5 680a-c 
+
+23 Hobbes: Leviathan, part i, 60a-b; part iv, 
+267a-fa ^ ; 
+
+28 Harvey: On Animal, Generation, 332a-335c 
+
+30 Bacon: Novum Organum, bk i, aph 104-106 
+128a'C 
+
+31 Descartes: Rules, ii, 2d-3a; iv-v 5a-8a / 
+Objections and Replies, 128a-129a 
+
+33 Pascal: Vacuum, 368b-369a 
+
+34 Newton: Optics, bk hi, 543a-b 
+
+34 Huygens: Light, pref, 551b-552a 
+
+35 Locke: Human Understanding, bk h, ch i, 
+SECT 10, 123c; bk IV, ch xir, sect 6-13 360a- 
+362d 
+
+35 Berkeley: Human Knowledge, sect at 417a 
+
+35 Hume: Human Understanding, sect iv 4S8a- 
+463d passim, esp div 20-21 458a-c, div ^ 30, 
+462a; sect v, div 34-38, 464a-466c; sect xi 
+497b- 503c passim, esp div 105 498d-499a; 
+sect XII, DIV 131-132 508d-509d passim.. 
+
+42 Kant: Pure Reason, 14a-20c; 34a-36a; llOd- 
+111c; 115d-120c; 129a; 135a-173a esp 158a- 
+160b, 172c-173a; 174a; 179c-182b; 190c-191a; 
+192a-b; 193d-200c; 211c-2l8d / Fund. Prin. 
+Metaphysic of Morals, 253a-254d esp 253d- 
+254a; 262a-287d esp 263a-264d, 268b-d / 
+Practical Reason, 294a-b; 307d-308b; 309b-d; 
+329d-330c / Science of Right, 405b-d / Judge- 
+pient, 600d-603d esp 603a-b 
+
+43 Mill: Utilitarianism, 445c-446b 
+
+46 Hegel: Philosophy of History, intro,', 182d- 
+
+53 Tames: Psychology, 91a-94b esp 94b; 673a- 
+674b; 872a-873a 
+
+54 Freud: 6/ar«VHim, 400d ^ - 
+
+56(4) The role of causes in demonstration and 
+
+• scientific reasoning ' ' 
+
+‘7 Plato: Timaeus, 455a-b; 465d-466a 
+
+8 Aristotle: Posterior Analytics 97a-137a,c 
+
+' , esp BK II, CH n-18 128d-136a JPhysics, bk ii, 
+
+' ‘ CH 7 275b-d / Metaphysics,'' bk in, cii 2 
+* [996 “i 8-’’26] S14d-515b; bk vi, chT [ 1025’'!- 
+
+-THE GREAT IDEAS ' 
+
+5^(4) to 5c Chapter 77.: REASONING 563 
+
+13] 547b; BK vn, ch i7'[io4i‘'io-’’ii] 565b'd; 
+BK VIII, CH 4 [i044“33-*'2o] 569a-b 
+9 Aristotle: Paris of Animals, bk i, ch i 
+[639'’7-642'’5] 16Id-I65d esp [639’’34-64o'‘9] 
+162b, {64o''5-i2i 163a, i642''i4-2i] 165b / 
+Ethics, BK 1, CH 7 (io98“25l-CH 8 [tQ98’’35l 
+',343d-344b ...... 
+
+16 CpPERNicus; Revolutions of the Heavenly 
+Spheres, S05a-S06a 
+
+19 Aqvihas ; Summa Thcologica, part i, q 2, a 2, 
+
+■ ANs and REP 2-3 lld-12c; q 14, a 7 81d-82b; 
+A II, ANS 84c'85c; q 19, a 5, ans and rep 2 
+112d-113c; <3 44, A I, REP I 238b-239a; <3 57, 
+A 2, ANS 29Sd'297a; part, i-ii, q 14, a 5 
+680a-c „■ v 
+
+20 Aquinas: Siimma Theologica, part i-n, q 55, 
+A 4 28C'29d; part hi, q 9, a 3, rep 2 765b' 
+766b 
+
+23 Hobbes: Leviathan, part i, 60a-b; part iv, 
+- 267a-b 
+
+28 Galileo: Two New Sciences, third day, 
+202d-203a; fourth day, 2S2a'b 
+
+28 Harvey: Circulation of the Blood, 319c / On 
+Animal Generation, 335c-336c; 393b'c; 425a 
+
+30 Bacon; Advancement of Learning, 45a-46a; 
+46c'47c / Novum Organum, bk i, aph 48 
+llOd'llla; aph gg 127b-c 
+
+31 Descartes: Discourse, part iv, 52a-d; 
+PART VI, 61d-62c; 66a-b / Meditations, iii 
+81d-89a esp 84b-85a, 87c-88c; iv, 90a-b / 
+Objections and Replies, 108b'112a; 120c-122c; 
+AXIOM v 131d-l32a; 2l2c;, 21Sa-b 
+
+31 Spinoza: Ethics, part i, axiom 2,4 35Sd; 
+PROP 8, schol 2 3S6d-3S7d esp 3S7b'd; 
+APPENDIX 369b'372d; part hi, 39Sa-d; 
+part IV, PREP, 422b,d-423c; appendix, i 
+447a ' 
+
+34 Newton: Principles, bk hi, rule i-h 270a: 
+■general schol, 371b-372a / Optics, bk hi, 
+541b'542a; S43a-b 
+
+35 Locke: Human Understanding, bk iv, ch xii, 
+SECT 9 360d-361b; ch xvh, sect 2.371d' 
+372b 
+
+35 Hume; Human Understanding, sect vn, div 
+60, 477a; sect ix, div 82 487b-c; sect xh, 
+DIV 132, S09b-c 
+
+38 Rousseau: Inequality, 348a, c 
+
+42 Kant: Pure Reason, 46d'47c; 164a-171a; 183b 
+[fn i] / Fund. Prin. Metaphysic of Morals, 285c- 
+286a / Practical Reason, 310d-3Hd; 339a / 
+judgement, S74a-b; 578a-d 
+
+45 Lavoisier: Elements of Chemistry, part i, 9b- 
+lOb 
+
+45 Fourier; Theory of Heat, 169a; 183a-184a 
+
+49 Darwin; Origin of Species, 217d-218a; 239b- 
+240d 
+
+50 Marx: Capital, lOb-llb esp 11b 
+
+53 James; Psychology, 89b-90a; 668a-671a esp 
+670a-b; 74Sb; 824b-825a; 884b-886a 
+
+54 Freud: General Introduction, 454b-c; 483d- 
+
+484a , . 
+
+5^(5) Demonstration in relation to essence 
+and existence: demonstrations propter 
+quid and quia 
+
+8 Aristotle: Metaphysics, bk hi, CH,2.[9g6'’i2- 
+2ij 515a-b; bk vi, ch i [i025*’t-i8] 547b, d 
+
+19 Aquinas: Summa Theologica, part i, q 2, a 2 
+lld-12c; Q 3, A 4,- rep 2 16d-17c; a 5, ans 17c- 
+
+• 18b; Q 46, A 2, ans 253a-2S5a ■ 
+
+,21 Dante: Divine Comedy, purgatory, hi [34- 
+
+. 45] S6b 
+
+23 Hobbes; Leviathan, part i, 78d-79a; 79d- 
+80b 
+
+31 Descartes: Meditations, i, 76c; ih 81d-S9a; 
+VI g6b-I03d / Objections and Replies, llOb-c; 
+216d-218b; 261a 
+
+35 Locke: Human Understanding, bk n, ch 
+XVII, sect 20, 173a; ch xxxi, sect 6 240d- 
+241d esp 241a-b; sect ii 242d-243a; bk hi, 
+CH XI, SECT 15-17 303b-3Q4a esp sect 16 
+303c-d; BK IV, ch iv, sect 8 325b-c; ch xii, 
+sect 6-9 360a-361b esp sect g 360d-361b 
+
+35 Hume; Human Understanding, sect iv 458a- 
+463d passim, esp div 20-21 4SSa-c, div 30 
+461d-462b; sect xn, div 131-132 508d-509d 
+
+42 Kant: Pure Reason, SSd-SSa; 95a-d; 179c- 
+182b 
+
+S3 James : Psychology, 667b 
+
+5c. Dialectical reasoning: the opposition of 
+rational arguments 
+
+7 Plato; Eutkydemus 65a-84a,c / Phaedrus, 
+234b-c / Phaedo, 242b-243c / Republic, bk 
+vi-vii, 383d-398c / Parmenides, 491a-5Hd / 
+Theaetetus, 525d-S26b / Sophist, 5S8b-d / 
+Statesman, 594d-S95d 
+
+8 Aristotle; Prior Analytics, bk 1, ch i l24''2t- 
+
+‘’16] 39a-c; ch 30 l46“3-iol 63d / Posterior 
+Analytics, bk i, ch 6 [yf 21-28] 103b; ch ir 
+(77'‘25-35l 106b / Topics 143a-223a,c / 
+Sophistical Refutations, ch 2 227d'228a; ch 9 
+234b-d; ch ii 236a-237c / Heavens, bk i, ch 
+10 l279*’4-i2] 370d / Generation and Corrup- 
+tion, BK I, CH2 [3i6“5-I4] Metaphysics, 
+
+BK IV, CH 2 [ioo4'“i8-27l S23d; bk xi, ch 3 
+[1061^8-12] S89d; BK xni, ch 4 [1078*^18-28] 
+6I0b 
+
+9 Aristotle: Rhetoric, bk t, ch i [i355’'a8-39] 
+594c-d 
+
+12 Epictetus: Discourses, bk i, ch 8 II3d-114c; 
+BK II, CH 12, l51d-lS2a 
+
+19 Aquinas: Summa Theologica, part i, q 83, a 
+I, ANS 436d-438a 
+
+20 Aquinas; Summa Theologica, part in, q 9, 
+A 3, REP 2 765b-766b 
+
+24 Rabelais; Gargantua and Pantagruel, bk ii, 
+101b-106a 
+
+30 Bacon; Advancement of Learning, 47d-48d 
+
+31 Descartes; Discourse, part i, 43d 
+
+35 Locke; Human Understanding, bk iv, ch xvi, 
+SECT 9 369b-c 
+
+5dio5e{2) 
+
+564 THE GREAT IDEAS 
+
+(5. Reasoning in relation to knowledge, opinion, 
+and action. 5 c. Dialectical reasoning: the 
+opposition of rational arguments^) ' 
+
+35 Hume: Human Understanding, sect x, div 
+86^91 488d-49Ic 
+
+42 Kant: Pure Reason, la-b; 36d-37d; 108a-d; 
+120c-I73a esp 129c-130b, 133c; 174b-177b; 
+187a-192d; 200c-209d; 219a-220b; 229b-c: 
+231c-232a / Fund. Prin. Metaphysic of Morals, 
+260d-261b: 283d-284d / Practical Reason, 
+291a-292a; 302a-d; 33Ic-337a,c; 340a-342d; 
+348d-349a / Science of Right, 407a-408b / 
+Judgement, 540a-S46d; 562a-578a esp 562d- 
+S64c, S75b-578a; S84c-d 
+
+46 Hegel: Philosophy of Right, part ii, par 135 
+47b-d 
+
+54 Freud: General Introduction, S45d 
+
+5d. Rhetorical reasoning: the rational grounds 
+of persuasion 
+
+7 Plato: Piotagoras, S0d-S2d; 57a-c / Phaedrus 
+115a-141a,c esp 129d-141a,c / Meno, 176d- 
+177a / Gorgias 252a-294d / Timaetis, 457c / 
+Sophist, 558a-S61a 
+
+8 Aristotle: Prior Analytics, bk ti, ch 27 92a- 
+93a, c / Posterior Analytics, bk i, ch i [yi^i-io] 
+97a / Metaphysics, bk iv, ch 5 [ioo9''i6-22] 
+528c 
+
+9 Aristotle: Ethics, bk i, ch 3 [io94*’23-27] 
+339d-340a / Rhetoric, bk i S93a-622d esp ch i 
+[i355'’3-*’22]S94b-59Sa; bk ii, ch 18-26 639a- 
+653a,c; bk hi, ch 15 669d-670c; ch 17-19 
+672a-675a,c 
+
+10 Galen: Natural Faculties, bk i, ch r6, 180c- 
+181a 
+
+12 Epictetus: Discourses, bk i, ch 5 llOb-c; 
+ch 8 113d-114c 
+
+18 Augustine: Christian Doctrine, bk ii, ch 36- 
+37 653d-654b: bk iv, ch 4 676d-677a 
+
+19 Aquinas: Summa Theologica, part i, q 83, 
+A I, ANS 436d-438a; part i-ii, q 7, a i, rep i 
+6Sld-652c 
+
+23 Hobbes: Leviathan, part i, 67c; part ii, 
+127d; 128d 
+
+25 Montaigne: Essays, 446d-450a; 453c-454d 
+
+30 Bacon: Advancement of Learning, S8c-59a; 
+66c-67c 
+
+31 Descartes: Rules, x, 16d-17a 
+
+33 Pascal; Geometrical Demonstration, 440b- 
+442a 
+
+35 Locke: Human Understanding, bk hi, ch x, 
+sect 34 299d-300a 
+
+36 Sterne: Tristram Shandy, 227a-228a 
+
+37 Fielding: Tom Jones, 261c-d; 320c-321b 
+
+42 Kant: Pref. Metaphysical Elements of Ethics, 
+376c-d 
+
+43 Federalist; number 14, 62a-d 
+
+43 Mill: Liberty, 284b-c 
+
+44 BosiVell: Johnson, 209a 
+
+- 51 Tolstoy; War and Peace, bk vi, 243b; epi- 
+logue I, 672a-b 
+
+5e. Practical reasoning 
+
+8 Aristotle: Topics, bk hi, ch 1-4 162a-166b 
+/ Metaphysics, bk vh, ch 7 [io32''25-*>22] 
+SS5b-d / Sold, bk i, ch 3 [407*22-23] 636d; 
+BK III, ch 9 [432’’26-433*5] 65Sc 
+
+9 Aristotle: Motion of Animals, ch 7 [701*5- 
+39] 236b-d / Ethics, bk i, ch 3 [i094*>i2-27] 
+339d-340a; ch 4 [i095*30-'’i3] 340c-d; ch 7 
+[io 98*20-*’8] 343c-344a; bk ii, ch 7 [1107*27- 
+32] 3S2d-3S3a; bk x, ch i [ii 72*34-'’7] 426b-c 
+
+12 Epictetus: Discourses, bk hi, ch 2 177c- 
+178d 
+
+23 Hobbes: Leviathan, part i, S3a-S4a; 60b-61a; 
+66c-68a; 78a-d 
+
+30 Bacon: Advancement of Learning, 57d-58b; 
+81d-82a 
+
+31 Descartes: Discourse, part hi, 48b-S0b 
+
+33 Pascal: Piovincial Letters, 27a-80b; 90a-127a 
+
+42 Kant; Pure Reason, 60a-c; 149d-150a; 190c- 
+191a / Fund. Prin. Metaphysic of Morals, 2S3a- 
+255d; 260d-261b; 264b-265b; 266b-d; 271a- 
+c; 277d-279d; 283d-287d esp 283d-284d / 
+Practical Reason, 291a-297c; 298a-300a; 300d 
+[fn ij; 306d-307a; 307d-321b esp 307d-309b, 
+309d-310b; 329a-337a,c esp 329b-d; 338c- 
+343d; 349b-3S0c / Pref. Metaphysical Ele- 
+ments of Ethics, 372b-d / Intro. Metaphysic Oj 
+Moral:, 383a-d; 388d; 390b,d-391a; 393a / 
+Science of Right, 398c-399c; 416b-417a / 
+Judgement, 461a-467a esp 463a-467a! S96c- 
+S98b 
+
+43 Mill: Utilitarianism, 445c-d; 456a-4S7b 
+
+53 James: Psychology, 186a; 381b'385b esp 382a 
+
+5e(l) The form of the practical syllogism 
+
+8 Aristotle: Soul, bk hi, ch ii [434*16-22] 
+667a 
+
+9 Aristotle: Motion of Animals, ch 7 [701*5- 
+39] 236b-d / Ethics, bk vt, ch 9 391c-392b esp 
+[ii42'’2o- 26] 392a; bk vii, ch 3 [ii46*’24- 
+ii47''i9] 396d'398a passim 
+
+19 Aquinas: Summa Theologica, part i, q 8r, 
+A 3, ANS and REP 2 430c-431d; q 86, a i, rep 
+2 461c-462a 
+
+20 Aquinas: Summa Theologica, part i-h, q 76, 
+A I, ANS 141a-c; q 77, a 2,' rep 4 145d-147c 
+
+5e(2) Deduction and determination in legal 
+thought 
+
+9 Aristotle: Ethics, bk v, ch 7 382c-383a; cii 
+10 385c-386b / Politics, bk hi, ch ii [ 1282 ^ 1 - 
+6] 480b-c; ch 15 [i286*io-37]-484b-d; ch 16 
+[1287*23-28] 48Sd; [i287’’i5-25] 486a-b 
+
+20 Aquinas : Summa Theologica, part i-h, q 95, 
+A 2 227c-228c; a 4 229b-230c 
+
+23 Hobbes: Leviathan, part i, 86c-87b; Ola- 
+96b esp 95c-96b; part ii, 130c-136b esp 130c; 
+164a,c; part hi, 16Sa 
+
+30 Bacon; Advancement of Learning, 94d-9Sb 
+
+38 Montesquieu: Spirit of Lawsi bk i, 3a; 3c; 
+BK XXVI, 214b,d 
+
+5e(3) to 6b Chapter 77: REASONING 565 
+
+42 Kant; Pure Reason, 149d-J50a 
+
+43 Mill; Utilitarianism, 445c-446b; 456a-457b; 
+475b, d [fn i] 
+
+46 Hegel: Philosophy of Right, part hi, par 214 
+71a-c; par 216 71d-72a; par 222 73b-c; par 
+225-229 73d-7Sb esp par 227 74b-d; addi- 
+tions, 134 138b-c; 140 139b-c 
+
+5e(3) Deliberation: ,the choice- of alternative 
+means; decision 
+
+5 Euripides: Phoenician Mfl/denr [528-593] 
+382c-383a ' 
+
+9 Aristotle: Ethics, bk hi, ch i [iiio’' 28-35] 
+356a; ch 2-3 357b-359a; bk vr; ch 1-2 387a- 
+
+' 388b; CH 5 389a-c passim; cii 7 [ii 4 i'' 8 - 2 i] 
+390c-d; CH 8-9 390d-392b; ch 12 [ii 44 “ 6 - 37 ] 
+393d-394a ■ 
+
+12 Aurelius: Meditations, bk iv, sect .12 264c 
+
+19 Aquinas: Sttmma Theologica, part i, q 19, 
+A 5 , ans 112d-113c; a 7 , ans 114d-115d; q 82, 
+A 2, REP 3 432d-433c; q 83 , a i, ans 436d- 
+438a; part i-h, qq 13-15 672d-684a; Q 44 , a 2 
+808b-d 
+
+22 Chaucer: Tale of Melibeus 401a-432a esp 
+par 9-36 403a-417b 
+
+23 Hobbes: Leviathan, part i, 53a; 64a-65c; 
+77d 
+
+26 Shakespeare: Merchant of Venice, act h, sc 
+vii [ 1 - 75 ] 416a-417a; sc ix [ 19 - 72 ] 417d-418b; 
+ACT III, sc 11 [ 73 - 139 ] 420d-421b 
+
+30 Bacon; Advancement- of Learning, 81d-95b 
+
+31 Descartes: Discourse', part in, 48b-50b 
+
+35 Locke: Human Understanding, bk h, ch xxi, 
+sect 48 190c-d; sect 53 191d-192b; sect 57 
+193b-c; sect 60-73 194a-199c passim 
+
+42 Kant: Pure Reason, 60a-c; 169c-170a / Fund. 
+Prin. Metaphysic of Morals, 260d-261b;266b- 
+267d; 268b / Practical Reason, 327d-32ga / 
+Science of Right, 398a-399c / Judgement, 586a- 
+b; 588b [fn 2]; 595a-d 
+
+43 Mill: Liberty^ 276b-277a; 294d-295b / 
+Utilitarianism, 456a-457b 
+
+46 Hegel: Philosophy of Right, part ii, par 122 
+44a 
+
+53 James: Psychology, 794a-798b esp 794a, 
+796a-b 
+
+6. The character of reasoning in the various 
+disciplines 
+
+6a, Proof in metaphysics and theology 
+
+7 Plato: Parmenides 486a-511d eSp 491a-c / 
+Sophist, 570a-d / Seventh Letter, 809c-810d 
+
+8 Aristotle: Metaphysics, bk iv, ch 2. [1004® 
+25-31] 523b-c; bk vi, ch i [io 25 *’i-i 8] 547b,d; 
+BK IX, CH 6 [io 48“25-*’9] 573c-574a; bk'xi, 
+CH 3 [io6i“io-Tr8] 589b; ch 7 [1064*1-9] 
+592b 
+
+19 Aquinas: Summa Theologica, part i, q i 3a- 
+10c; Q 2 , A 2 lld-12c; q 32 , a i, rep 2 17Sd- 
+178a; q 46, A 2 253a-255a 
+
+20 Aquinas : Summa Theologica, part ii-ii, q 2 
+A 10 399b-400b; part hi suppl, q 75 , a 3' 
+REP 2 938a-939d ’ 
+
+23 Hobbes : Leviathan, part i, 78d-79a; 79d-80a; 
+
+part h, 163a-b; part hi, 165b • 
+
+.29 Cervantes: Don Quixote, part i, 122b-c 
+
+30 Bacon: Advancement of Learning, 95d-101c 
+
+31 Descartes: Meditations, 69a-71a,c / Objec- 
+tions and Replies, 119d; 128a-129a ' 
+
+31 Spinoza: Ethics, part i, prop ii, scHOL358d- 
+i -<-'359h • 
+
+— 33 Pascal: PflCHKW, 355b-356b 
+
+■ 35 Hume: Human Understanding, sect i, -div 2 
+451b-c; Div 4 451d-452c 
+
+40 Gibbon: Decline and Fall, 308c-d 
+
+42 Kanti Pure Reason, 15c-16c; 85d-88a; 179c 
+182b; 190a-200c; 211c-218d esp 215d-216d / 
+Fund. Prin. Meiaphysic of Morals, 264d / 
+Practical Reason, 293c-294b;. 351b-352c / 
+Pref Metaphysical Elements of Ethics, 365a- 
+366a / Judgement, 600d-603d 
+
+6b. Demonstration in mathematics: analysis 
+and synthesis 
+
+7 Plato: Meno, 180b-183c / Republic, bk vi, 
+386d-388a; bk vh, 392a-395c; 397c-d 
+
+8 Aristotle; Prior Analytics, bk i, ch 41 [49’’ 
+32-37] 68c / Posterior Analytics, bk i, ch i 
+[ 7 i“h-i 6] 97a-b; ch 10 104d-105d esp [76'’ 
+39-77*2] 105d; CH 12 106c-107c; ch 18 lllb-c; 
+bK ii, CH 9 [93*’2i-25] 128a-b / Topics, bk v, 
+CH 4 [132*32-34] 183b; BK VI, CH 4 [i4i’’3-22] 
+194d-195a; bk vh, ch 3 [153*6-11] 208a-b; 
+bK VIII, CH I [ 157*1-3] 213a / Physics, bk 11, 
+CH 9 [200*15-29] 277c-d / Heavens, bk hi, ch 
+4 [302’’27-3i] 394a / Metaphysics, bk hi, ch 2 
+[996*21-36] 514d-515a; .[996*18-21] 515b; bk 
+
+• VH, CH 10 [1036*2-8] 559b-c; bk ix, ch 9 
+[1051*22-34] 577b-c; bk xi, ch 3 [io6i“29-’’3] 
+589c; CH 4 589d-590a; ch 7 [io63’’36-io64“9] 
+592b; BK xni, ch 2 [io77'’i-io] 608d-609a; 
+CH 3 609a-610a 
+
+9 Aristotle: Generation of Animals, bk ii, ch 
+6 [742*’23-35] 283 d- 284 a / Ethics, bk i, ch 3 
+[i094’’i9-27] 339 d- 340 a; bk hi, ch 3 [1112’’ 
+20-24] 358 d; BK VII, ch 8 [1151*15-19] 
+402 a 
+
+11 Archimedes: Method, 569b-570a; prop i, 
+572b 
+
+11 Apollonius: Conics, bk ii, prop 44-47 710b- 
+713a; prop 49-51 714b-726a 
+
+23 Hobbes: Leviathan, part i, 56b; 58a-c; 
+59c 
+
+28 Gilbert: Loadstone, prep, Ib-c 
+
+31 Descartes: Rules la-40a,c passim, esp 11, 3a, 
+iv, 7c, VI 8a-10a,,xiv, 30d-33b, xvi-xxi 
+33d-40a,c / Discourse, part i, 43b-c; part ii, 
+46 c- 47 c; part iv, 52d-53a / Meditations, 73a; 
+i, 76c; V, 93a-:d / Objections and Replies, 128a- 
+129a / Geometry 295a-353b esp bk i, 295a- 
+298b, BK II, 304a-b, bk hi, 353a 
+
+THE GREAT IDEAS • 
+
+(6. The character of reasoning in the various dis- 
+ciplines. 6b, Demonstration in mathe- 
+matics: analysis and synthesis.) 
+
+33 Pascal: Pensees, 1-5 171a-173a / Vacuum, 
+365b'366a / Geometrical Demonstration, 430a- 
+434a; 442a-443b 
+
+34 Newton: Principles, la-b / Optics, dk hi, 
+S43a-b _ ' 
+
+35 Locke: Human Understanding, bk 11, ch xvi, 
+SECT 4 166a-b; bk iv, ch i, sect 9, 308d- 
+309b; ch II, sect 9-10 3nb-c; ch hi, sect 
+18-20 317d-319c passim; ch xii, sect x- 8 
+358c'360c passim, esp sect 7 360b-c; sect 
+14-15 362d-363b; ch xvn, sect 11 378b 
+35 Berkeley: Human Knowledge, intro, sect 
+12 408a-b; sect 15-16 40ga-d 
+35 Yksuv.-. Human Understanding, sectiv, div 20 
+458a-b; sect vii, div 48 470d-471c; sect xii, 
+Div 131 508d-509a 
+
+42 Kant: Puri Reason, 15c'16c; 17d-18d; 46a'b; 
+68a-69c; 211c-218d esp 21Sd-217a / Practical 
+
+' Reason, 295b-d; 330d-331a / Pref. Meta- 
+physical Elements of Ethics, 376c-d / Science 
+of Right, 399a-b / Judgement, S51a-553c 
+
+43 Federalist: number 31, 103c-104a 
+' 43 Mill: Utilitarianism, 445a-d 
+
+45 Lavoisier: Elements of Chemistry, pref, 2 b 
+45 Fourier; Theory of Heat, 173a-b 
+51 Tolstoy: War and Peace, bk xi, 469a-d; 
+
+epilogue II, 695b-c 
+S3 James: Psychology, 874a-878a passim 
+
+6c, Inductive and deductive inference in the 
+philosophy of nature and the natural 
+sciences 
+
+8 Aristotle : P/ijncf, bk ii, ch 7-9 275b-278a,c 
+/ Heavens, bk ii, ch 5 379b-c: bk hi, ch 7 
+[3o6“i-i8] 397b-c / Generation and Corruption, 
+BK I, ch 2 [3i6“5-i4] 411c-d / Metaphysics, 
+BK Hi ch 3 [g95''i5-i7] S13d 
+
+9 Aristotle: Generation of Animals, bk hi, ch 
+10 [76o’’ 29-32] 301d-302a 
+
+10 Hippocrates: Ancient Medicine, par 1-8 la- 
+3b 
+
+10 Galen: Natural Faculties, bk hi, ch 1-2 
+199a-200a esp 199c-d 
+
+16 Copernicus: Revolutions of the Heavenly 
+Spheres, 505a-506a 
+
+' 19 Aquinas: Sumtna Theologica, part i, q i, a i, 
+REP 2 3b-4a; q 32 , a i, rep 2 17Sd-178a 
+' 28 Galileo: Two New Sciences, third day, 
+207d'208c; fourth day, 252a-b 
+28 HAVXzy.'Motion of the Heart, 267b,d-268a; 
+280c; 285c-d; 29Sd-296a / On Animal Gen- 
+eration, 332a'335c; 336b-d; 383d 
+30 Bacon; Advancement of Learning, 16a; 34b; 
+42a-c; S6c-59c; 96d-97a / Novum Organttm 
+105a-195d esp pref 10Sa-106d, bk i, aph ii- 
+' 26 107d-108d, APH 69 116a-b, aph 103-106 
+127d-128c, BK II, APH 1-9 137a-140c, aph 36 
+164a-168d, aph 52 194c-195d 
+
+6c to 6d 
+
+31 Descartes: Discourse, part vi 60d-67a,c esp 
+" 61d 62c / Objections and Replies, 21Sa-b 
+
+33 Pascal: Vacuum, 365b-371a j 
+
+' 34 Nlwton: Principles, bk hi, rules 270a-271b; 
+I GENERAL SCHOL, 371b-372a / Optics, bk III, 
+. 541b-S42a: 543a-b 
+
+34 Huygens: Light, pref, 5Slb-552a ^ 
+
+35 Locke: Human ^Understanding, bk ii, ch i, 
+SECT 10 123b'd; bk iv, ch hi, sect 25-29 
+321a-323a passim; ch vi, sect 13 335c-d; cii 
+
+r XII, SECT 9-13 360d-362di ' ’i 
+
+35 Berkeley: Human Knowledge, sect 107, 
+434a ^ ' 
+
+35 Hume: Human Understanding, sect i, div 9 
+
+1 4S4c-455a; sect hi, div 19, 4S8a; sect iv, 
+
+div 26 460b-c; sect vii, div 48 470d'471c; 
+DIV 60, 477a; sect ix, div 82 487b'C 
+
+36 Swift; Gulliver, part iv, 165a-b i 
+
+42 Kant: Intro. Metaphysic of Morals, 387a-b / 
+
+Judgement, 578d-S82c esp S79b-c 
+45 Faraday; Researches in Electricity, 659a; 
+774d-775a 
+
+49 Darwin: Origin of Species, 42a; 239c 
+
+50 Marx: Capital, 6a-c 
+
+51 Tolstoy; War and Peace, bk xi, 469a-d 
+
+53 James: Psychology, 91a-g4b esp 94b; 126a- 
+127a passim; 29Sa-b; 324b; 38Sa-b; 674e 
+675b esp 675b; 677b; 862a-865a; 882a-884 
+passim 
+
+54 Freud: Narcissism, 400d-401b / Instinct 
+412a-b / General Introduction, 483d'485a es 
+484c-48Sa; 502d-503d; 545c / Beyond ih 
+Pleasure Principle, 661c-662a / New Intri 
+ductory Lectures, 879c 
+
+f 
+
+6d. Induction and demonstration in the mon 
+sciences ^ 
+
+9 Aristotle: Ethics, bk i, ch 3 [io94’’i2-2; 
+339d-340a; ch 4 [iog5®30-*’i3] 340c-di ch 
+[io 98“25-’’7] 343d-344a; bk vii,'ch i [1145 
+1-7] 395b; bk x, ch i [ii72^34-*'7]i426b-c 
+Politics, BK I, CH I [i 252 "i 7-24] 445b 
+23 Hobbes: Leviathan, part i,' S8a-b; par 
+II, 130c-136b; 153c-154a; 164a,c; part ii; 
+165a 
+
+35 Locke: Human Understanding, bk i, ch i 
+SECT I 103d-104a; sect 4 104d-105a; bk ii; 
+ch XI, SECT 15-17 303b-304a esp sect i 
+303c-d; bk iv, ch hi, sect 18-20 317d-319c 
+CH IV, sect 7 325b; ch xii, sect 8 360c 
+35 Hume: Human Understanding, sect i, div i- 
+451a'453b passim; div 9, 454d-455a; sect \ 
+DIV 36, 465a-d [fn ij; sect vii, div 48 470d 
+471c; SECT XII, DIV 131-132 508d-509d passin 
+esp DIV 132, 509c-d 
+
+38 Montesquieu: Spirit of Laws, xxib-c 
+42 Kant: Pure Reason, 169b [fn i] / Fund. Prii 
+Metaphysic of Morals, 253d-254b; 565c-266i 
+/ Practical Reason, 293c-294b; 304d-305a 
+306d-307a; 307d-309b; 309d-310b; 317h 
+318b; 320c-321b; 330d-331a / Pref. ‘Meta 
+physical Elements of Ethics, 372b-d; 376c-d 
+
+ed Chapter 77 : REASONING 567 
+
+IntTO. Metaphysic of Morals, 390b; 393a / 71a-c; par 222 73b-c; par 225-229 73d-7Sb 
+
+Science of Right,- 397a-b: 398c-399c; 413d- esp, par 227 74b-d; additions, i3’4 138b-c; 
+
+414a; '416b-417a S93a-d 140 i39b-c v . ' ■ ; 
+
+43. Federalist: nom'ser 31 , 103c-104a; NUMBER 50 Marx: 6 a-c .• 
+
+85 , 257d-2S8d 51 Tolstoy: IFar nW Pifiiff, epilogue ii,'683d- 
+
+43 Mill: Utilitarianism, 44Sa-447b passim; 461c- 684a; 690b , 
+
+463d passim; 475b, d [fn i] • S3 James: PsycAo/ogj', 886 b- 888 a esp 887a-888a, 
+
+46 Hegel: Philosophy of Right, part hi, par 214 888 b [fn i] 
+
+CROSS-KEFERENCES . 
+
+For: Other comparisons of human and. animal intelligence, see Animal 10(2); Language 1; 
+Man la-ric; Memory and Imagination 6b; Mind 3a-3b. . 
+
+Another discussion of the distinction between the intuitive' and the discursive or rational, 
+see Knowledge 6cfi),; and^fo’r the consideration of supra-rational knowledge, see Ex- 
+perience 7; God 6c(3)-6c(4); Happiness 70(1). 
+
+The distinction and relation between reasoning and other acts of the mind, see Definition 5; 
+
+Idea 5a-5b, 50; Induction la; Judgment i, 7c; Knowledge 60(2); Memory and 
+■ 'Imagination 6c; Sense ic-id. 
+
+Other discussions bearing on the theory of the syllogism, see Hypothesis 5; Idea 5a-5b; 
+
+Judgment 7c; Logic la; Opposition id(i); Universal and Particular 5d. 
+
+The problems of truth and falsity, necessity and contingency, and certainty and probability 
+in reasoning, see Necessity and Contingency 40(2); Opposition id(2); Sign and Sym- 
+bol 4e; Truth 3b (3). 
+
+An examination of immediate inference, see Judgment 7b; and for the distinction between 
+inductive and deductive reasoning, and a priori and a posteriori reasoning, see Experience 
+2d; Induction ib; Science 56. 
+
+The elements of scientific reasoning, Being 8 d, 8f; Cause 5b,‘ Definition 5; Infinity 2c; 
+
+Philosophy 3c; Principle 3a(2)-3a(3); Science 5d-5e. 
+
+The analysis of dialectical and rhetorical reasoning, see Dialectic 2b, 20(2), 3b-3c; Opinion 
+2c; Opposition le; Rhetoric 4c, 40(2). 
+
+Other discussions relevant to the study of practical reasoning, Good and Evil 5c; Judg- 
+
+ment 2; Knowledge 6e(i)-6ef2); Law 5g; Logic 4e; Opinion 6b; Prudence 5si, 6b. 
+The character of reasoning in the various disciplines, see Being 8f; God 2b-2c; Immortality 
+2; Logic 4a, 4c, 40; Mathematics 3a, 3c; Mechanics 2; Medicine 3c; Metaphysics 2c; 
+Philosophy 3c; Theology 4c; Will 5c. 
+
+The general problem of the rationality of the universe, seeMiND loa; Nature 3a; World 6c. 
+
+ADDITIONAL READINGS 
+
+Listed below are works not included in Great Bool^s of the Western World, but relevant to the 
+idea and topics with which this chapter deals. These works are divided into two groups: 
+
+I. Works by authors represented in this collection. 
+
+II. Works by authors not represented in this collection. 
+
+For the date, place, and other facts concerning the publication of the works cited, consult 
+the Bibliography of Additional Readings which follows the last chapter of The Great Ideas. 
+
+Hobbes. Six Lessons to the Savilian Professors of 
+Mathematics, ii-v 
+
+Aquinas. De Fallaciis . The Art of Sophistry 
+
+Spinoza. Of the Improvement of the Understanding Locke. Conduct of the Understanding 
+
+Hobbes. Concerning Body, part i, ch 4 Kant. Introduction to Logic, xi 
+
+Hegel. Science of Logic, vol ii, sect i, ch 3 
+J. S. Mill. A System of Logic, bk 11, v 
+Faraday. Observations on the Education of the 
+Judgment 
+
+W. James. “The Sentiment of Rationality,” in 
+The Will to Believe 
+
+II. 
+
+Quintilian. Institutio Oratorio {Institutes of Ora- 
+tory'), BK V, CH 10-14; BK VII, CH 8 _ _ 
+
+Sextus Empiricus. Against the Logicians, bk ii, 
+CH 3-6 
+
+. Outlines of Pyrrhonism, bk i-ii 
+
+Petrus HispAnicus. Siimmulae Logicales {Logical 
+Treatises) 
+
+Suarez. Disputationes Metaphysicae, xix (5-6), 
+XXIX, XXX (2, 8) 
+
+John of Saint Thomas. Cursus Philosophicus Tho- 
+misticus, Ars Logica, part i, qq 6, 8; part ii, 
+QQ 24-25 
+
+Arnauld. Logic or the Art of Thinking, part iii-iv 
+Leibnitz. Hew Essays Concerning Human Under- 
+standing, BK II, CH ig 
+Euler. Lettets to a German Princess 
+T. Reid. Essays on the Intellectual Powers of Man, 
+
+VII 
+
+Maine de Biran. The Influence of Habit on the 
+Facidty of Thinking 
+
+Schopenhauer. The World as Will and Idea, vol ii, 
+sup, ch 10 
+
+Brown. Lectures on the Philosophy of the Human 
+Mind, VOL n, pp 497-525 
+Bentham. Rationale of Judicial Evidence 
+
+. The Book of Fallacies 
+
+Whately. Elements of Logic, bk i, ch 3; bk iv 
+\V. Hamilton. Lectures on Metaphysics and Logic, 
+VOL II (15-23) 
+
+Whewell. The Philosophy of the Inductive Sciences, 
+
+VOL I, BK i: VOL II, BK XI, XIII 
+
+Cournot. Essai sur les fondements de nos connais- 
+sances et stir les characteres de la critique phtloso- 
+phique 
+
+Mansel. Prolegomena Logica. An Inquiry into the 
+psychological Character of Logical Processes 
+G. C. Lewis. A Treatise on the Methods of Observa- 
+tion and Reasoning in Politics 
+Boole. An Investigation of the Laws of Thought 
+De Morgan. Formal Logic, ch 5-6 
+
+-. A Budget of Paradoxes 
+
+Taine. On Intelligence 
+
+SiGWART. Logic, PART I, CH 3; PART III, CH 3-4 
+Jevons. The Substitution of Similars 
+
+. The Principles of Science, ch 4, 6-7, ii 
+
+Clifford. Seeing and Thinkjng 
+Lotze. Logic, 'bk I, CH 3 ; bk ii, ch 4-7 
+
+Outlines of Logic, div i, ch 3 
+
+Venn. Symbolic Logic 
+
+C. S. Peirce. Collected Papers, vol ii, par 435-618; 
+VOL IV, par 21-79; P^r 151-212 
+
+A. SiDGwicK. Fallacies 
+
+■. The Use of Words in Reasoning 
+
+J. C. Wilson. Statement and Inference, part i, hi 
+Dewey et al. Studies in Logical Theory, i-iv 
+Whitehead and Russell. Principia Mathematica, 
+PART i, sect a 
+
+Bradley. The Principles of Logic, bk ii-iii; Ter- 
+minal Essays, i 
+
+. Appearance and Reality, bk ii, ch 15 
+
+. Collected Essays, vol 1(12) 
+
+. Essays on Truth and Reality, ch 12 
+
+Dewey. How We Think 
+
+. Essays in Experimental Logic, ii-vi 
+
+Pareto. The Mind and Society, vol i-iii ' 
+Bosanquet. Logic, vol ii, ch 1-2, 6-7 
+
+. Implication and Linear Inference 
+
+W. E. Johnson. Logic, part i, ch 14; part 11, 
+
+CH 1-6 
+
+J. M. Keynes. A Treatise on Probability, part ii, 
+ch 12-14 
+
+Santayana. Scepticism and Animal Faith, ch 13 
+Meyerson. Du cheminement de la pensee 
+
+B. Russell. Introduction to Mathematical Philos- 
+ophy, CH 14 
+
+. An Inquiry into Meaning and Truth, ch 24

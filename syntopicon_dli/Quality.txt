@@ -1,0 +1,1188 @@
+CHAPTER: Quality
+
+INTRODUCTION
+
+Chapter' 75: QUALITY 
+
+And from; ali these considerations,’’ Socrates 
+says, “there arises a general reflection that there 
+is no self-existent thing, but everything is be: 
+coming and. in relation.’’:,,. . . 
+
+Socrates explains that, for those who assert a 
+universal flux, qualities are not only the prod- 
+ucts ,of motion, but also are themselves in mo: 
+tion — “not even white continues to flow white, 
+and whiteness itself is a flux or .change, which is 
+passing'into another color.’’ There’is no need to 
+refute, .this doctrine, Socrates thinks, since it 
+refutes itself by its unintelligibility or, worse, 
+itsdnability to say anything definite in conse- 
+quence of denying that words. can have a con- 
+stant meaning from moment to moment. 
+
+, Aristotle concurs in this attitude toward “the 
+most extreme view of the professed Heracii- 
+teans,” but goes on to remark that “not even at 
+different times does one sense disagree about 
+the quality, but only about that to which the 
+quality, belongs. I mean, for instance, that the 
+same wine might seem, if either it or one’s, body 
+changed, at one time sweet and at another time 
+not sweet; but at least the sweet, such as it is 
+when it exists, has never yet changed." The 
+sweet thing may become sour, either in itself 
+or to us, but sweetness itself never becomes 
+sourness. 
+
+That qualities do not change into one an- 
+other, whereas substances undergoing altera- 
+tion change from one quality to another, seems 
+to Aristotle to distinguish quality from sub- 
+stance. “The most distinctive mark of sub- 
+stance,” he writes, “appears to be that, while 
+remaining numerically one and the same, it is 
+capable of having contrary qualities. . , . Thus, 
+one and the same color cannot be white and 
+black. . . . But the same individual person is at 
+one time white, at another black, at one time 
+warm, at another cold, at one time good, at 
+another bad.” The qualities do not change, but 
+the substance in changing, passes from one 
+quality to its contrary; (The difference be- 
+tween change of quality, or alteration, and the 
+other types of change which substances can un- 
+dergo, is discussed in the chapter on Change.) 
+
+Aristotle suggests another mark of distinc- 
+tion between substance and quality. One sub- 
+stance, he says, never stands to another as its 
+contrary, in the way in which qualities are con- 
+
+trary to one another, like hot and cold, white 
+and black, good and bad. A quality may have 
+a correlative as well as a contrary, e.g., if knowl- 
+edge is a. quality of mind, the object known is 
+its correlative, whereas, ignorance of the object 
+is the contrary of knowledge. In some cases, 
+the contrary qualities may be the extremes or 
+limits of a continuous series of Intermediates, 
+e.f., white and black with all the intermediate 
+greys. In some cases,‘as with knowledge and ig- 
+norance, the contrary qualities have no inter- 
+mediates. (Contrariety and correlation, most 
+frequently exemplified by qualities, are con- 
+sidered in the chapter on Opposition.) 
+
+Still another mark of ^distinction between 
+substance and quality, according to Aristotle, 
+is that qualities do and substances do not admit 
+of variation in degree. "One man cannot be 
+more man than another,” he writes, "as that 
+which is white may be more or less white than 
+
+some other white object The same quality, 
+
+moreover, is said to subsist in a thing in varying 
+degrees at different times. A white body is said 
+to be whiter at one time than it was before, or a 
+warm body is said to be warmer or less warm 
+than at some other time.” 
+
+This observation raises a number of ques- 
+tions. Does variation in the degree of a quality 
+from time to time imply that qualities them- 
+selves undergo change, just as substances un- 
+dergo change in quality? Do they remain one 
+and the same in kind while varying in degree ? 
+Is this change which qualities undergo as they 
+increase or decrease in intensity, a change in 
+quantity? Furthermore, does the fact that 
+something white can become more or less white, 
+mean that a quality can have a certain quantity 
+even as a body can ? Aquinas suggests an answer 
+by distinguishing between what he calls the 
+“dimensive quantity” of bodies and the “virtual 
+quantity” of qualities. Virtual quantity is the 
+degree or intensity which non-quantitative at- 
+tributes may possess— -such personal qualities 
+as virtues and habits, or such corporeal qualities 
+as colors and textures. 
+
+But this still seems to leave a very difficult 
+question to be answered. How can qualities 
+have the attribute of quantity without becom- 
+ing substances? On the principle which both 
+Aristotle and Aquinas accept — that accidents 
+exist only in substances— how can one kind of 
+
+516 THE GREAT IDEAS 
+
+accident (quantity) exist in another (quality) ? 
+The view which Wilham James holds, namely, 
+that variation in intensity creates differences in 
+color as much as variation in hue, would solve 
+the problem, or rather it would dismiss the 
+problem as not genuine by denying Aristotle’s 
+thesis that a color can remain the same while 
+varying in degree. 
+
+However handled, the problem is not peculiar 
+to qualities. Actions and passions, Aristotle 
+points out, also vary ip degree. Nor are qual- 
+ities distinguished from everything else in the 
+world by having contraries. Correlatives can 
+also have contraries, as can actions and passions. 
+Furthermore, not all qualities have contraries. 
+Not all admit of variation in degree. Shape, like 
+triangular or square, which Aristotle regards as 
+a kind of quality, cannot vary in this way. The 
+square thing cannot become more or less square. 
+In view of all this, Aristotle concludes that there 
+is one characteristic alone which differentiates 
+quality not only from substance, but also from 
+everything else. Quality is the basis for saying 
+that things afe like or unlike, similar or dissim- 
+ilar, as quantity is the basis for saying that 
+things are equal or unequal. 
+
+Other contrasts between quality and quan- 
+tity, especially those bearing on the reduction 
+of quality to quantity, are discussed in the chap- 
+ter on QuAN'iiix. Here it may be illuminating 
+to apply the foregoing distinction between 
+quality and quantity to shapes or figures. 
+Shape or figure is a curious mixture of quality 
+and quantity. It is a quantified quality or a 
+qualified quantity or, as Aquinas says, “a qual- 
+ity about quantity, since the nature of shape 
+consists in fixing the bounds of magnitude.” 
+This seems to be evident in the fact that shapes, 
+like quantities, do not admit of variation in 
+degree. But it may also be seen in the fact that 
+Euclid deals quite separately with problems 
+concerning the equality of triangles and prob- 
+lems concerning their similarity. 
+
+Except for the question of whether quali- 
+ties subsist by themselves or are the attributes 
+of substances, most of the problems of quality 
+seem to concern its distinction from or relation 
+to quantity. As we have seen, the question of 
+the degree or amount of a quality involves the 
+notion of quantity. Even more explicitly a 
+
+problem of how qualities and quantities are re- 
+lated, is the question of the Order of these two 
+attributes. Can it be said that quantities are 
+the more fundamental attributes of things and 
+that they somehow precede or underlie qual- 
+ities ? Is it the reverse ? Or are qualities prior in 
+certain respects and quantities in other respects ? 
+
+Aristotle’s theory of the elements seems to 
+give absolute primacy to quality in the realm 
+of material things. The four elements of matter 
+are characterized by combinations of two pairs 
+of contrary qualities, the hot and the cold, the 
+dry and the moist. On the other hand, the 
+atomic theory of Lucretius appears to make 
+quantities, such as size and weight, the primary 
+piopettks of matter. Newton’s enumeration of 
+what he calls “the universal qualities of all bod- 
+ies whatsoever,” including, of course, their 
+“least particles,” lists “extension, hardness, im- 
+penetrability, mobility, and inertia.” As in- 
+dicated in the chapter on Quantity, the very 
+reason Newton gives for calling these qualities 
+“universal” would seem to justify calling them 
+“quantities” rather than qualities. In any case, 
+Ne'Vton’s view, like that of the ancient atom- 
+ists, seems to be opposed to the theory of the 
+elementary and contrary qualities. 
+
+But Aristotle himself also appears to hold a 
+view which makes quantity prior to quality. 
+Considering the way in which the quality while 
+is in a body, he says that it is in the body in vir- 
+tue of the body’s extended surface. If surface or 
+extension is interpreted as a physical quantity, 
+then it would seem to follow that this quantity 
+underlies a body’s possession of visible and per- 
+haps other qualities. Aquinas, for example, says 
+that “quantity is the proximate subject of the 
+qualities that cause alteration, as surface is of 
+color,” and, again, that “quantity is in sub- 
+stance before sensible qualities are.” 
+
+This last statement can be interpreted to 
+mean that quantity is universally prior to qual- 
+ity among the attributes of substance. Or it can 
+be understood to mean that quantity is prior 
+only to sensible qualities and then only among 
+the physical attributes of bodies. Which inter- 
+pretation is chosen depends in part on whether 
+all qualities are sensible. 
+
+It would seem that all qualities are not sen- 
+sible, according to Aristotle and Aquinas, and 
+. therefore quantity is not prior to every kind of 
+
+L.H AFTER /3; 
+
+quality, among the accidents of substance. 
+Natural qualities, Aquinas writes, “may be in 
+the, intellectual part or in the body and its 
+powers.” Certainly.the qualities inherent in the 
+intellectual part of man’s nature are not sensi- 
+ble; nor are the first two of the four species of 
+quality which both Aristotle and Aquinas 
+enumerate. , . ■ • 
+
+In their enumeration, human qualities— the 
+habits or dispositions of a man, such, as knowl- 
+edge and virtue, or, beauty and health — are 
+the first sort. The powers or inborn capacities 
+whereby men and other animals act to develop 
+their natures are a second type of quality; 
+e.g., the power of sensitivity in animals, the 
+power of rationality in men, are qualities proper 
+to -these species and are, therefore, sometimes 
+called “properties.” This second type of qual- 
+ity does not seem to be restricted to living 
+things. Inanimate bodies also have, among their 
+properties, certain fundamental powers of ac- 
+tion or reaction. The third and fourth types of 
+quality differ from the first two in that both are 
+sensible, i.e., capable of affecting the senses di- 
+rectly and, therefore, sometimes called “affec- 
+tive qualities.” Of these, the third type— shape 
+or figure— has already been discussed. The 
+fourth type— colors, sounds, te,xtures, odors, 
+tastes, and such thermal qualities as hot and 
+cold — are, more than shape or figure, regarded 
+as the principal affective or sensible qualities. 
+
+The fact that Aristotle regards certain qual- 
+ities, such as hot and cold, or hard and soft, as 
+being dispositions or powers as well as being 
+affective qualities, need not invalidate his four- 
+fold classification. His classification of the same 
+attribute under two distinct species of quality 
+seems to imply that it can be considered from 
+two points of view. The elementary qualities, 
+for example, are affective or sensible qualities 
+but they are also the active qualities or powers 
+— the properties — of the elements. 
+
+In view of this classification of qualities, it 
+does not seem to be the case that quantities are 
+prior to all the qualitative attributes of sub- 
+stance. On the conception of living things as 
+composite of soul and body, the qualities which 
+are vital powers are usually regarded as proper- 
+ties which the thing has in virtue of having a 
+soul. They are certainly not founded upon the 
+quantitative attributes of the organism’s body. 
+
+t^UALl 1 1 Pi/ 
+
+The.moral and spiritual qualities of men seem 
+to afford another example of qualities cither 
+prior to, or at least independent of, quantities. 
+Even in the case of inanimate bodies, it may 
+be that certain fundamental properties or pow- 
+ers-are essentially qualitative rather than quan- 
+titative. The proposition that in substances, 
+quantities are prior to qualities— or that qual- 
+ities inhere in substances in virtue of their 
+quantities-rmay apply only to sensible qual- 
+ities, as, for example, colors in relation to sur-. 
+faces. . 
+
+One of the great issues in the tradition of 
+svestern thought concerns our perception or 
+knowledge of qualities. If certain characteris- 
+tics which are not directly sensible are to be 
+called “qualities,” then the problem of how we 
+know such qualities does not differ from the 
+problem of how we know anything else that 
+cannot be apprehended by our senses. We may, 
+for example, be able to infer such qualities as 
+habits or powers from the sensible evidences of 
+a thing’s behavior, even as in turn we infer the 
+thing’s nature or essence from its proper qual- 
+ities or properties. With regard to sensible 
+qualities, the problem does not seem to be how 
+we know them— for the fact that they are sen- 
+sible means that they are knowable by the 
+senses. The question is rather one of the mode 
+of existence — the objectivity or subjectivity — 
+of the qualities sensed. 
+
+Locke’s famous distinction between primary 
+and secondary qualities states the problem. It 
+is preceded by his distinction between the 
+qualities of things and the ideas in our minds. 
+“A snow-ball,” he writes, has “the power to pro- 
+duce in us the idea of white, cold, and round. 
+The powers to produce those ideas in us, as 
+they are in the snow-ball, I call qualities; and 
+as they are sensations or perceptions in our 
+understandings, I call them ideas; which ideas, 
+if I speak of them sometimes as in the things 
+themselves, I would be understood to mean 
+those qualities in the objects which produce 
+them in us.” 
+
+The primary qualities of bodies are those 
+which are utterly inseparable from body— such 
+as “sense constantly finds in every particle of 
+matter which has bulk enough to be perceived, 
+and the mind finds inseparable from ever)' par- 
+
+520 THE GREAT IDEAS 
+
+exist not in the objects themselves, but are 
+perceptions of the mind, without any external 
+archetype or model which they represent. If 
+this be allowed, with regard to secondary qual- 
+ities, it must also follow with regard to the sup- 
+posed primary qualities of extension and solid- 
+ity. . . .The idea of extension is entirely acquired 
+from the senses of sight and feeling; and if all 
+the qualities, perceived by the senses, be in the 
+mind, not in the object, the same conclusion 
+must reach the idea of extension. . . . Nothing 
+can save us from this conclusion, but the assert- 
+ing that the ideas of those primary qualities are 
+attained by Abstraction, an opinion, which, if 
+
+we examine it accurately, we shall find to be 
+unintelligible, and even absurd.” 
+
+One fundamental point about sensible qual- 
+ities may, however, remain unaffected by this 
+long and many-sided controversy. No one de- 
+nies that sensible qualities are the elements of 
+human experience. That they are “the original, 
+innate, or a priori properties of our subjective 
+nature,” James declares, must be allowed by 
+“all schools (however they otherwise differ). 
+. . . This is so on either of the two hypotheses 
+we may make concerning the relation' of the 
+feelings to the realities at whose touch they 
+become alive.”
+
+
+OUTLINE OF TOPICS 
+
+1. The nature and existence of qualities: the relation of quality to substance or matter; 
+
+the transcendental categories of quality 521 
+
+2. The kinds of quality 522 
+
+2a. Sensible and nonsensible qualities: habits, dispositions, powers or capacities, 
+and affective qualities 
+
+2b. Primary and secondary qualities: the related distinction of proper and com- 
+mon sensibles 
+
+3. Quality and quantity 
+
+^a. The distinction between quality and quantity: its relation to the distinction 
+between secondary and primary qualities 
+
+3b. Shape or figure as qualified quantity 
+
+3c. The degrees or amounts of a quality: intensity and extensity; the quantitative 
+conditions of variation in quality 
+
+3d. The priority of quality or quantity in relation to form, matter, or substance 
+
+4. The relation of qualities to one another 
+
+4a. Qualities which imply correlatives 
+
+46. The contrariety of qualities: with or without intermediate degrees 
+
+4c. The similarity of things with respect to quality: likeness and unlikeness in quality 
+
+5. Change of quality: the analysis of alteration 
+
+6. Qualities as objects of knowledge 
+
+6 a. Quality in relation to definition or abstraction 
+6 b. The perception of qualities 
+
+6 c. The objectivity of sense-qualities: the comparative objectivity of primary and 
+secondary qualities
+
+
+REFERENCES
+
+REFERENCES , 
+
+ 
+
+1. The nature and existence of qualities: the 
+relation of quality to substance or matter; 
+the transcendental categories of quality 
+
+7 Plato: Timaeus, 462b-466a / Theaetetus, 
+519d-520b; 521d-522a; 533b-d / Philebus, 
+615C-616C 
+
+8 Aristotle: Categories, ch 5 [3'’io-23] 7d-8a; 
+CH 8 13d-I6c t Posterior Analytics, bk i, ch 22 
+[83®36-'’i3] I13d-114a / Physics, bk v, ch 2 
+[226“26-30] 306d / Metaphysics, bk v, ch 14 
+54Ic-542a; bk vii, ch 13 [i038*’24-28] S62c; 
+bk IX, CH 1 [io 45*’28-32] 570b; bk xii, ch i 
+[ 1069^18-25] 598a; ch 5 [io7o‘’36-io7i‘'4] 
+600b-c; [io7i°23-'’i] 600d-601a / Sense and 
+the Sensible, ch 6 [445'’4-2i) 683b-d 
+
+10 Galen: Natural Faculties, bk i, ch 2, 167d 
+
+12 Lucretius: Nature of Things, bk i [298-304] 
+4d; BK II [398-521] 20a-21c; [730-864] 24b-26a 
+
+17 Plotinus: First Ennead, tr viti, ch 8, 30d- 
+31a / Second Ennead, tr iv, ch 8 52c-S3a; ch 
+13 5Sb-d; tr vi 60c-62d / Third Ennead, tr 
+VI, CH 8-10 lllc-113a / Fourth Ennead, tr iv, 
+ch 29, 173d-174a; tr vii, ch 8; 196a-b / Sixth 
+Ennead, tr i, ch 10-12 257b-259d; ch 29 
+267c-268b; tr ii, ch 14 276c-277a; tr hi, ch 
+6 284a-c; ch 15 289a-c; ch 19-20 291d-293a 
+
+18 Augustine: City of God, bk xi, ch ro, 32Sa-d 
+
+19 Aquinas: Stimma Theologica, part i, q 67, 
+A 3, REP I 351b-352a; q 78, a 3, rep 1-2 410a- 
+411d; Q 83, A 1 , REP 5 436d-438a; q 85, a r, 
+REP r 45lc-4S3c; q 115, a 3, rep 2 588c-589c 
+
+20 Aquinas: Summa Theologica, part i-ii, q 49 , 
+AA 1-2 lb-4a; q 53 , a 2 , rep r -3 21a-d; q no, 
+A 2 , REP 3 349a-d; part hi suppl, q 91 , a 4 , 
+REP I 1022d-1023d 
+
+23 Hobbes; Leviathan, part i, 49b-d; part hi, 
+172b 
+
+31 Descartes: Pules, xii, lOa-c / Meditations, 
+VI, lOOa-d / Objections and Replies, 162d-16Sd 
+esp 164d-165a; 211a-b; 228c-229c; 229d-230a; 
+231a-b 
+
+34 Newton; Optics, bk i, 428a-b 
+
+35 Locke: Human Understanding, bk i, ch hi, 
+SECT 19 117c-d; BK II, CH viH 133b-138b 
+passim, esp sect 8 134b-c; ch xiii, sect 19-20 
+152c-d; CH XXI, sect 3 178d; ch xxiii, sect 
+1-6 204a-205c; ch xxx, sect 2 238b-c; ch 
+XXXI, SECT2 239b-d; sect 6, 241a-d; sect ii 
+242d-243a; sect 13, 243b; ch xxxii, sect 
+14-16 245c-246b; bk hi, ch iv, sect 16 
+263b-c; ch vr, sect 2-3 268c-d; SEcr6 269d- 
+270a; bk iv, ch in, sect 12-14 316a-d; ch iv, 
+sect 4 324c 
+
+35 Berkeley: Human Knowledge 403a-444d 
+passim, esp intro, sect 7 406a-b, sect r-3 
+
+THE GREAT IDEAS 2/o3a 
+
+(1. The nature and existettce of qualities: the rela- 
+tion of quality to substance or matter; the 
+transcendental categories of quality^) 
+4I3a-d, SECT 7-15 4I4b-416a, sect 25-33 
+417d-419a, sect 48-49 422a-b, sect 56-57 
+423c-424a, sect 73 427b-c, sect 76 427d- 
+428a, sect 78 428a-b, sect 86-91 429c-431a, 
+SECT 102 432d-433a 
+
+35 Hume: Human Understanding, sect xii, div 
+122-123 50SC'506a 
+
+42 Kant: Pure Reason, 15b-c; 23a-24a; 29d-33d 
+esp 30d-31a, 31d-32a, 32d-33b [fn i]; 41c-45b; 
+212a-c / Intro. Metaphysic of Morals, 385a-c 
+48 Melville: Moby Dic\, 144b-145a 
+S3 James: Psychology, 127b-128a; 457a'459b; 
+546b-547b [fn i]; S51b-852a; 860b; 882a-883a 
+
+2. The kinds of qualit}’ 
+
+2a, Sensible and nonsensible qualities: habits, 
+dispositions, powers or capacities, and 
+affective qualities 
+
+8 Aristotle: Categories, cu 8 [8*’26-io“26] 13d- 
+15b; cH 15 [i5’’i7-i9] 21c / Physics, bk v, ch 2 
+[ 226 “ 26 - 3 o] 306d / Metaphysics, bk v, ch 14 
+S4Ic-S42a; ch 19-21 543d-544b 
+
+9 Aristotle: History of Animals, bk viii, ch i 
+[588“i 8->>4] 114b, d 
+
+17 Plotinus: Second Ennead, tr vi, ch i 60c- 
+61c / Sixth Ennead, tr i, ch 11-12 258b-259d 
+esp ch 12 , 2S8d-2S9a; tr hi, ch 16-19 289c- 
+292b 
+
+20 Aquinas : Summa Theologica, part i-ii, q 49 , 
+A 2 2b'4a; a 4 , ans Sa- 6 a; q no, a 3 , rep 3 
+350a-d 
+
+35 Locke: Human Understanding, bk ii, ch viii, 
+sect 8-10 134b-d; sect 23-26 137a-138b: ch 
+XXI, sect 1-6 178b-180a; ch xxiii, sect 7-10 
+205d-206d; sect 37, 214a-b; ch xxx, sect 2 
+238b-c; ch xxxii, sect 14-16 245c-246b esp 
+SECT 16 246b 
+
+2b. Primary and secondary qualities: the re- 
+lated distinction of proper and common 
+sensibles 
+
+7 Plato: Timaeus, 462c-463d; 464b-465d 
+
+8 Aristotle: Soul, bk ii, ch 6 [ 4 i 8 ° 6 -i 9 ] 648d- 
+649a; bk hi, ch i [ 425 * 14 - 29 ] 657b-c; [ 425 ’’ 4 - 
+10 ] 657c-d / Sense and the Sensible, ch i 
+[ 437 * 3 - 10 ] 673d-674a; ch 4 [ 442 * 30 -’’i 8 ] 
+680a-b; ch 6 [ 445 ’’ 4 - 446 “ 2 o] 683b-684c 
+
+9 Aristotle: Ethics, bk vi, ch 8 [1142*23-31] 
+
+. 391b-c 
+
+10 Galen: Natural Faculties, bk i, ch 6, 169c-d 
+
+12 Lucretius: Nature of Things, bk ii [398-521] 
+
+20a'21c; [ 730 - 864 ] 24b-26a; bk iv [ 522 - 721 ] 
+51a-53d 
+
+19 Aquinas: Summa Theologica, part i, q 78 , 
+A 3 esp REP 2 410a-411d; a 4 , rep 2 411d-413d 
+
+20 Aquinas: Summa Theologica, partiii suppl, 
+, Q 92 , A 2 , ANS 1032b-1034b 
+
+23 Hobbes: Leviathan, part 1, 49b-d; part iir, 
+172b 
+
+30 Bacon: Novum Organum, bk i, aph 66, 114d- 
+■ 115a 
+
+31 Descartes: Rules, xii, 19a-c/ Objections and 
+Replies, 162d-16Sd; 228c-229c; _229d-230a; 
+231a-b 
+
+34 Newton : Principles, bk hi, rule iir 270b-271a 
+
+/ Optics, I, 428a-b ' 
+
+35 Locke : Human Understanding, bk ii, ch v 
+131b; ch viii, sect y -26 134b-138b; ch xxi, 
+SECT 3 178d; SECT 75 200b-d; ch xxiii, 
+sect 7-13 20Sd-208b; sect 37 , 214a-b; ck 
+X xx, SECT 2 238b-c; ch xxxi, sect 2 239b-d; 
+bk hi, ch IV, SECT 16 263b--c; bk iv, ch hi, 
+SECT 11-14 315d-316d esp sect 13 316a-b; 
+sect 28 322a-c 
+
+35 Berkeley: Human Knowledge, sect 9-15 
+414d-416a; sect 25 417d-418a; sect 73 
+427b-c; sect 102 432d-433a 
+
+35 Hume: Human Understanding, sect xii, div 
+122 50Sc-d 
+
+42 Kant: Pure Reason, ISb-c; 23a-24a; 29d-33d 
+esp 30d-31a, 31d*32a, 32d-33b [fn i] 
+
+S3 James: Psychology, S03a; 651a 
+
+3. Quality and quantity 
+
+ia . The distinction between quality and quan- 
+tity: its relation to the distinction be- 
+tween secondary and primary qualities 
+
+8 Aristotle: Categories, ch 6 [ 6 * 31 - 36 ] lOd-lla; 
+ch 8 [ 11 * 5 - 14 ] 16a-b / Generation and Corrup- 
+tion, BK I, ch 2 [3I5'’32-3i6“4] 411b-c / Meta- 
+physics, bk V, ch 4 [ioif’ 2 o- 2 y] 53Sa; ch 14 
+(io2o'’3-8] 541d; ch 28 [io 24 *’io-i 6 ] 546c; 
+BK X, CH 1 [io52’’i-io53’’8] 578d-580a; bk xi, 
+ch 6 [ 1063 * 22 - 28 ] 591c; bk xii, ch 4 [ 1070 * 31 - 
+•’9] 599d-600a; bk xiii, ch 8 [ 1083 * 1 - 17 ] 
+614d 
+
+12 Lucretius: Nature of Things, bk 1 [ 298 - 304 ] 
+4d; BK II [ 398 - 521 ] 20a-21c; [ 730 - 864 ] 24b- 
+26a; bk hi [ 221 - 227 ] 32d-33a; BK iv [ 522 - 
+721 ] 51a-53d 
+
+17 Plotinus: Second Ennead, tr iv, ch 13 S5b-d 
+/ Fourth Ennead, tr vii, ch 8, 196a-b / Sixth 
+Ennead, tr hi, ch 14 288b-289a 
+
+19 Aquinas: Summa Theologica, part i, q 78, 
+A 3, REP 2 410a-411d 
+
+20 Aquinas: Summa Theologica, part i-ii, q 49 , 
+A 2 , ANS 2b-4a 
+
+23 Hobbes: Leviathan, part i, 49b-d 
+
+31 Descartes: Rules, xii, 19a-c / Objections and 
+Replies, 162d-16Sd esp 164d-165a; 228c-229c; 
+231a-b 
+
+35 Locke: Human Understanding, bk ii, ch viii, 
+SECT 7-26 134b-138b passim, esp sect 9-10 
+134c-d; CH XXI, sect 3 178d; ch xxiii, sect 
+8-9 206a-c; sect ii 206d-207a; sect 37, 
+214a-b; bk iv, ch ii, sect 9-13 311b-312b; 
+CH HI, SECT 12-14 316a-d esp sect 13 316a-b; 
+SECT 28 322a-c ' 'T- 
+
+I 
+
+3 b to 3 d Chapter ;75: 
+
+. 35 Berkeley: . Human • Knowledge, sect. 9-15 
+414d-416a; 'sect 25 417d-418a; , sect 73 
+427b-c; sect 102 432d-433a ^ . 
+
+35 Hume:' Human Understanding, sect xii, piv 
+’i22'50Sc'd,,- 
+
+'42 Kant: Pure' Reason, 15b-,c; 23a-24a; 29'd'33d 
+esp 30c-3Ia, 3Id-32a, 32d-33b (fn 'ij; 66d-72c 
+
+' esp 6fe-72c; 211c-213a ' 
+
+46 Hegel: Philosophy of Right, part i, par 63 
+28b'C; ADDITIONS,. 40 122d-123b . , 
+
+SO Marx:' Capital, 149d , ' 
+
+S3 James: Psychology, 320a-322a,.,' 
+
+Shape-or figure as qualified quantity' 
+
+; 8 Aristotle: Categories, ch 8 (io“ii-t6] ISa-b; 
+
+‘ [ii’‘5-i4] 16a-b / Metaphysics, bk.v, ch 14 
+
+[ro2o“35-^i] S41c . ‘ 
+
+'ll Euclid: Elements, bk vii, definitions, 16- 
+19 127b 
+
+11 Nicomachus: Arithmetic, bk ii, 831d'841c 
+17 Plotinus: Sixth Ennead, tr hi, ch 14 288b- 
+289a 
+
+19 Aquinas: Summa Theologica, part i, q 7, a i, 
+REP 2 31a-d; q 78, a 3, rep 2 4I0a-411d 
+
+20 Aquinas: Summa Theologica, part i-ii, q 49, 
+
+A 2, ANS 2b-4a; part in, q 2, a i, ans 710a- 
+711c 
+
+23 Hobbes: Leviathan, part iv, 262b 
+31 Descartes: Geometry 29Sa-353b esp bk i, 
+298b-304a, bk'ii, 308a-314b ‘ , 
+
+33 Pascal: Arithmetical Triangle, 4SSa-456a 
+42 Kant: Pure Reason, 212a-c 
+S3 James: Psychology, S48b-SS2a 
+
+ic. The degrees or amounts of a quality: in- 
+tensity and extensity; the quantitative 
+conditions of variation in quality 
+
+7 Plato: Philebus, 61Sc-616c 
+
+8 Aristotle: Categories, ch 5 [3'’32-4“9] 8a-b; 
+ch 7 [ 6 ^ 20 - 26 ] 11b; CH 8 [io'’ 26 -ii®i 4] 15d- 
+16b; CH 10 [i2“2-25] 17b-c / .Topics, bk hi, ch 
+5 166b-c / Physics, bk iv, ch 9 [2i7“34-*’ii] 
+297b / Metaphysics, bk iv, ch 7 [ioii*’29-37] 
+531d; BK X, CH 1 [io 52 '’i-:io 53''8] S78d-S80a; 
+ch 3 [io54*’6-ii] S81b; ch 7 S84c-S85b; bk 
+XI, CH 3 [io6i“i8-28] 589b-c 
+
+9 Aristotle: History of Animals, bk viii, ch i 
+[ 588 “i 8-’’4) 114b, d / Parts of Animals, bk -ii, 
+CH 2 [648 ’’i 2-649’’9] 173a-174a / Ethics, bk ii, 
+CH 6 3Slc-352d; bk x, ch 3 {ii73®i4-29J 
+427b-c 
+
+12 Lucretius: Nature of Things, bk ii {826-833] 
+25c; BK IV [687-705} S3b-c 
+
+17 Plotinus: Sixth Ennead, tr hi, ch 20, 292d- 
+
+293a 1 
+
+18 Augustine: City of God, bk xi, ch 10, 
+328b 
+
+19 Aquinas: Theologica, part i, q 4, a 3, 
+
+ANS 22b-23b; q 8, a 2, rep 3 3Sc-36b; q 42, 
+
+A I, REP I 224b-22Sd; q 45, a 5, rep 2-3 
+24Sc-247a; q 48, a 4, ans and rep 3 262a- 
+263a; part i-ii, Q 22, a 2, rep i 721c-722c 
+
+QUALITY 523 
+
+20. Aquinas: Summa Theologica, PART i-ii, q 50, 
+A I, REP 3 6a-7b; qq 52-53 lSd-22d: q 54, a 4, 
+rep 1,3 25b-d; q 72, a 7, ans 117a-118a; 
+PART ii-n, Q 5, a 4 4I2d-413c; q 24, aa 4-10 
+49ld-498a; part hi, Q-y, a 12 754c-755c 
+
+, 28. Galileo: Two New Sa'ences, ' pirst day, 
+131d-132a; THIRD DAY, 200b-202a; 205b-d 
+-.'30 Bacon: Novum Organum, bk ii; aph 13 14Sb- 
+148d 
+
+34 Newton: Principles, bk hi, rule hi 270b 
+.... 271a 7 Optics, bk i, 431a-443a; bk n,’458b 
+
+. . 460a; 466a-467b: 472b-474a; 482b-485a 
+
+35 Locke: Human Understanding, bk ii, ch xvi, 
+sect 3 16Sd;166a; ch xvii, sect 6 169a-b; 
+CH xxviH, sect I 22Sc; bk iv, ch ii, sect 
+,11-13 311c-312b 
+
+42 Kant: Pure Reason, 6Sa-72c 
+
+45 Lavoisier; Elements of Chemistry, part i 
+14a-b; part hi, 99d-I03b 
+
+45 Fourier: Theory of Heat, 169a-172a: 177a- 
+193a 
+
+45 Faraday: Researches in Electricity, 411c- 
+412c 
+
+53 James: Psychology, 319b-322a esp 319b-320a; 
+329a-330a; 346a-b: S40a-547a esp 541a, S44a, 
+547a 
+
+54 Freud: Hysteria, 87a / Interpretation of 
+Dreams, 384d / Narcissism, 403d-404a / 
+Beyond the Pleasure Principle, 639b-d 
+
+3d. The priority of quality or quantity in re- 
+lation to form, matter, or substance 
+
+8 Aristotle: Physics, bk i, ch 2 [i85“20-*’4] 
+260a-b: BK IV, CH 3 [2io'’i-8] 289b-c / Meta- 
+physics, bk IX, CH I [io45'’28-32] 570b; bk x, 
+CH I [io52’'i-io53'’8] S78d-580a; bk xi, ch 3 
+[io6i“29-’’4] S89c; bk xii, ch i [io69“i8-25] 
+598a / Sense and the Sensible, ch 6 [445*’4- 
+446“2o] 683b-684c; ch 7 [449''2i-3o] 688d- 
+689a 
+
+17 Plotinus: Second Ennead, tr iv, ch 13, 5Sc 
+/ Fourth Ennead, tr vii, ch 8, 196a-b / Sixth 
+Ennead, tr hi; ch 15 289a-c 
+
+19 Aquinas: Summa Theologica, part i, q 3, a 2, 
+CONTRARY, lSc-I6a; Q 78, A 3, REP 2 410a- 
+411d; Q 85, A I, REP'2 4sic-453c 
+
+20 Aquinas : Summa Theologica, part i-ii, q 52, 
+A I, ans 15d-18a; part hi suppl, q 83, a 2, 
+ANS 976c-978c 
+
+31 Descartes: Rttles, xii, 18d-19c / Objections 
+and Replies, 162d-165d esp 164d-165a; 228c- 
+229c; 231a'b 
+
+35 Locke: Human Understanding, bk ii, ch viii, 
+SECT 9-26 134c-138b passim; ch xxi, sect 3 
+178d; CH XXIII, sect 9 206b-c; sect 37, 
+214a-b; ch xxxi, sect 2 239b-d 
+
+35 Berkeley: Human Knowledge, sect 9-15 
+414d-416a esp sect 10 414d-415a; sect 73 
+427b-c 
+
+42 Kant: Pure Reason, 15b-c; 41c-45b 
+
+46 Hegel: Philosophy of Right, part 1, par 63 
+28b-c 
+
+524 THE GREAT IDEAS 4 to 6a 
+
+4. The relation of qualities to one another 
+
+4a. Qualities which imply correlatives 
+
+8 Akistotle; Categories, ch 7 [6'’4-8] 11a; ch 8 
+[ii'*20-39] I6b-c; ch 10 I7a / 
+
+Physics, BK VII, ch 3 [246^3-248*8] 329C'330d 
+
+4b, The contrariety of qualities: with or with- 
+out intermediate degrees 
+
+7 Peato: Phaedo, 226d-227b; 243c-244b 
+
+8 Aristotle: Categories, ch 5 [4“io-'’i9] 8b-9a; 
+CH 8 [io'’ii-25] ISd; ch 10 [12*9-25] 17b-c/ 
+Physics, BK IV, ch 9 [2i7*34-*'iil 297b / Gener- 
+ation and Corruption, bk ii, ch 1-3 428b,d- 
+431a / Metaphysics, bk i, ch 5 [986*22-'’4] 
+504b-c; bk v, ch 10 [1018*22-31] 539a-b; bk 
+XIV, ch i [1087*28-^4] 619b 
+
+9 Aristotle: Ethics, bk v, ch i [1129*1-35] 
+376a-d; bk viii, ch 8 [ii59*’i9-23] 411d 
+
+10 Hippocrates : Ancient Medicine, par 13-19 
+4c-7b; par 24 8d-9a,c 
+
+10 Galen: Natural Faculties, ek i, ch 2, 167b- 
+168b; BK II, CH 8-9 191b'199a,c passim 
+
+12 Lucretius: Nature of Things, bk ii [515-521] 
+21c 
+
+17 Plotinus: Sixth Ennead, tr hi, ch 19-20 
+291d-293a 
+
+22 Chaucer; Troilus and Cressida, bk i, stanza 
+91-92 13a 
+
+48 Melville: Moby Dic\, 39b-40a 
+
+53 James; Psychology, 327a-328b; 363b-364a; 
+387b; 4S8a-459b 
+
+4c. The similarity of things with respect to 
+quality: likeness and unlikeness in 
+quality 
+
+7 Plato: Parmenides, 493d-494a 
+
+8 Aristotle: Categories, ch 6 [6*27-35] lOd- 
+11a; CH 8 [11*15-19] 16b / Generation and Cor- 
+ruption, bk II, CH 6 [333*27-34] 434a / Meta- 
+physics, BK V, ch 9 [1018*15-19] 538d-539a; 
+CH 15 [1021*8-14] 542b-c; bk x, ch 3 [io54’’3- 
+13] S81b 
+
+9 Aristotle: History of Animals, bk i, ch 1 
+[486*15-487*1] 7b-d; BK viii, CH i [588*i8-‘*4] 
+114b,d 
+
+11 Euclid: Elements, bk vi, definitions, i 99a 
+
+17 Plotinus: First Ennead, tr h, ch 2, 7b / 
+
+Fourth Ennead, tr ix, ch 4, 206c-d / Sixth 
+Ennead, tr hi, ch 15 289a-c 
+
+19 Aquinas; Summa Theologica, part i, q 4, a 3, 
+ans 22b-23b; part 1-11, q 27, a 3 738c-739c; 
+Q 28, A I, rep 2 740b-741a 
+
+20 Aquinas: Summa Theologica, part hi suppl, 
+Q 69, A i, rep 2 885c-886c; q 92, a i, ans 
+1025c-1032b 
+
+31 Spinoza: Ethics, part iii, prop 57, schol 
+415b 
+
+42 Kant: Pure Reason, 73c-74a / Judgement, 
+602b-603a esp 602b,d [fn i] 
+
+53 James: Psychology, 319b-322a; 344b-348a esp 
+346a-348a; 378b-379a 
+
+5. Change of quality: the analysis of alteration 
+
+7 Plato: Phaedo, 226d-227b / Parmenides, 
+S09b-S10a / Theaetetus, 533a-534a 
+
+8 Aristotle: Categories, ch 5 [4“io-'’i9] 8b-9a; 
+CH 14 [15*14-32] 20d-21a / Topics, bk vi, ch 6 
+[145*2-13] 198c'd / Physics, bk i, ch 7 [i9o’'5- 
+9] 266b; bk v, ch 2 [226*26-29] 306d; [226*’!- 
+9] 307a; bk vi, ch 10 [241*26-32] 325b'c; bk 
+VII, ch 2 [244’’r-245“i2] 328b-d; ch 3 329a- 
+330d; bk viii, ch 7 [26o*26-’’i4] 346b-c / 
+Heavens, bk i, ch 3 [270*26-36] 361c; ch 12 
+[283'’i 7-23] 375c-d / Generation and Corrup- 
+tion, BK I, CH I 409a-410c; ch 4 416c-417a / 
+Metaphysics, bk i, ch 8 [989*18-29] 507b-c; 
+bk! V, CH 21 544a-b; bk xi, ch 12 [io68’^i5-i 9] 
+597c / Soul, BK II, ch 5 [417*21-418*6] 647d- 
+648d / Sense and the Sensible, ch 6 [446'’27- 
+447*9] 685b-c / Dreams, ch 2 [459*23-'’6] 
+703a-b 
+
+9 Aristotle; Motion of Animals, ch 5 235c-d; 
+CH 7 [70i^i]-cH 8 [702*22] 236d-237c; ch ii 
+[703’>8-2i] 239b-c / Generation of Animals, 
+BK I, ch 18 [724*2o-*’i3] 264b-d; bk 11, ch 5 
+[74i’’5-i5] 282c 
+
+10 Galen: Natural Faculties, bk i, ch 2, 167b- 
+168b; CH 5 169b-c; CH 8 171a; ch 12 172d- 
+173c; BK III, CH 7, 203c-204c 
+
+12 Lucretius; Nature of Things, bk i [635-920] 
+8d-12b; bk 11 [730-787] 24b-25a; bk v [235- 
+415] 64a-66c 
+
+17 Plotinus; Third Ennead, tr vi, ch 8 - 10 111c- 
+113a 
+
+19 Aquinas: Summa Theologica, part i, q 48, 
+A 4, ans and rep 3 262a-263a 
+
+20 Aquinas : Summa Theologica, part i-ii, q 50, 
+A I, rep 3 6a-7b; q 52, a i, ans and rep 3 15d- 
+18a; part hi suppl, q 82, a 3, ans and rep 2 
+971a-972d; q 91, a i, rep 2,4 1016b-1017c 
+
+23 Hobbes: Leviathan, part hi, 172b 
+
+30 Bacon; Novum Organtim, bk i, aph 50 111b; 
+APH 66 114d-115c; bk ii, aph 7 139c-140a 
+
+34 Newton: Optics, bk hi, 541b 
+
+35 Locke: Human Understanding, bk ii, ch xxi, 
+SECT 1-2 178b-c; ch xxii, sect ii 203c-d; 
+CH XXVI, SECT 1-2 217a-d 
+
+35 Berkeley; Human Knowledge, sect 25-33 
+417d-419a passim, esp sect 26 418a 
+
+45 Lavoisier: Elements of Chemistry, part hi, 
+87c-d; 103b-c; 105d 
+
+45 Fourier: Theory of Heat, 169b 
+
+S3 James: Psychology, 68a-b; 104a-105a 
+
+6. Qualities as objects of knowledge 
+
+6a. Quality in relation to definition or abstrac- 
+tion 
+
+8 Aristotle; Topics, bk i, ch 9 [i03'’27-33] 
+147a; bk iv, ch i [121*6-9] 168d-169a; ch 2 
+[i22’’i2-i 8] 170d-171a; ch 6 [128*20-29] 177d- 
+i78a; bk vi, ch 6 196d-199c / Metaphysics, bk 
+V, ch 14 [io2o“34-'^9] 541c-d; [io2o*’i3-i7] 
+541d; bk XI, ch 6 [1063*22-28] 591c 
+
+6^ to 6 c Chapter 75 
+
+17 Plotinus: Second Enncad, tr vi, ch i 60c- 
+61c / Sixth Ennead, tr i, ch 10-12 2S7b-2S9d; 
+TR HI, CH 16-19 289c-292b 
+
+19 Aquinas: Summa Theologica, part i-ii, q 35, 
+
+' A 4, ANs 774d-77Sd ^ ' ' . ■ ' ; 
+
+. 23 Hobbes: Leviathan, part i, .72a-d; part iv,' 
+272b 
+
+35 Locke: Human Understanding, bk ii, ch xi, 
+SECT 9 14Sb-c; CH XII, sect i, 147b-c; bk hi, 
+CH IV, SECT 4-1 1 260b-262b passim, esp 
+■ SECT 7 260d; SECi* 16 263b-c 
+
+35 Berkeley: Human Knowledge, sect 6-19 
+414b-416d passim, esp sect 7-10 414b-41Sa; 
+SECT 99 432b 
+
+35 Hume: Human Understanding,' sect xii, biv 
+T22 SOSc-d 
+
+42 Kant: Pitre Reason, 73c-74a ■ ‘ 
+
+53 James: Psychology, 185a-b; 30Sa-308b esp 
+308a-b; 329a-331b esp 331a-b; 503a-b; 668a- 
+673a 
+
+6b. The perception of qualities 
+
+7 Plato: Meno, 177b-c / Timaeus, 462b-466a 
+/ Theaetetus, 519d-520b; S21d-S22a; S33b-d 
+/ Seventh 'Letter, 810a-b 
+
+8 Aristotle: Categories, ch 7 [7’’35-8^i2] 12d- 
+13a / Physics, bk vh, ch 2 [244*’io-245®3] 
+328c-d / Soul, BK H, CH 5-BK III, CH 2 647b- 
+659c; BK HI, CH 4' [429'‘io-’’4] 66Jb-d; ch, 8 
+664b-d / Sense and the Sensible 673a-689a,c 
+/ Dreams, ch 2 [459'‘23-46o‘‘32] 703a-704b 
+
+12 Lucretius: Nature of Things, bk i [298-304] 
+4d; BK IV [26-268] 44b-47dJ [478-499] SOb-df 
+[522-721] Sla-53d; bk vi [921-935] 92c-d 
+
+19 Aquinas: Summa Theologica, part i, q 14 , 
+a I, ANS 75d-76c; a 2 , ans 76d-77d; ^78 , a 3 
+410a-411d 
+
+20 Aquinas: Summa Theologica, part hi su.ppl, 
+Q 82, AA 3-4 97la-974c 
+
+22 Chaucer: Troihis and Cressida, bk i, stanza 
+91-92 13a 
+
+23 Hobbes; Leviathan, part i, 49b-d; part hi, 
+172b 
+
+31 Descartes: Rules, xii, 18d-19c / Meditations, 
+VI, lOOa-d / Objections and Replies, 162d-165d 
+esp 164d-165a; 2na-b; 229d-230a 
+
+34 Newton: Optics, bk 1, 428a-b; bk hi, 519a-b 
+
+35 Locke: Human Understanding, intro, sect 2 
+93b-d; BK 11, CH H, sect I I27d-128a; ch 
+viH, SECT 4 133d; sect 11-21 134d-136d 
+passim; ch ix, sect i-io 138b-140b passim; 
+ch xxih, sect 11-13 206d-208b; bk hi, ch 
+VI, SECT 9 270d-271a; bk iv, ch h, sect 9-13 
+311b-312b 
+
+42 Kant: Pure Reason, ISb-c; 23a-24a; 29d-33d 
+esp 30d-3Ia, 31d-32a, 32d-33b [fn i]; 212a-c 
+
+48 Melville: Moby Dich_, 39b-40a; 144b-14Sa 
+
+QUALITY 525 
+
+53 James; Psychology, 98b-105a passim, esp 
+104a-105a; 184b; 327a-341a esp 327a-b, 329a- 
+331b; 363b; 452a-471a esp 452a-456a, 4S9a-b, 
+
+.. 469a-471a; 479a; S02a-S05b esp SOSb; 520a- 
+52la; 526b-527a; S40a-635a eSp S41a, 548b- 
+
+■'■549a, 5523-5643, 589b-59Sa, 606b-608b, 
+627a-628b 
+
+54 Vkevvs:. I nterpretation of Dreams, 352d; 367b- 
+c; 384c-385c 
+
+6 c. The objectivity of sense-qualities: the com- 
+parative . objectivity of primary and sec- 
+ondary qualities 
+
+, 7 Plato: Timaeus, 462b-466a / Theaetetus, 
+517b-520b; 521d-522a; 533b-d 
+
+8 Aristotle: Generation and Corruption, bk i, 
+CH 2 [sisSs-Sifi^sJ / Metaphysics, bk iv, 
+ch 5 [ioio^ 30 -ioii“ 2 ] S30c / Soul, bk hi, ch 
+2 [426“20-26] 658c / Sense and the Sensible, 
+ch 6 [445’’4-446“2o] 683b-684c 
+
+9 Aristotle: Parts of Animals, bk ii, ch2 [648’’ 
+15 - 17 ] 173a 
+
+10 Galen: Natural Faculties, bk i, ch 2 , 167d 
+
+12 Lucretius: Nature of Things, bk h [730-864] 
+24b-26a; [1002-1022] 27d-28a 
+
+23 Hobbes; Leviathan, part i, 49b-d; S7b; 
+59d; 62b; part hi, 172b; part iv, 2S8b'C; 
+262a-b 
+
+31 Descartes; Rules, xii, 19a-c / Meditations, 
+vi, lOOa-d / Objections and Replies, I62d- 
+165d; 211a-b; 228c-229c; 229d-230a; 231a-b 
+
+34 Newton: Principles, bk hi, rule hi 270b- 
+271a / Optics, BK I, 428a-b 
+
+35 Locke: Human Understanding, bk it, ch vih, 
+sect 7-26 134b-138b; ch xxi, sect 3 178d; 
+cH XXIH, sect 7-13 205d-208b esp sect 9 
+206b-c; SECT 37, 214a-b; ch xxx, sect 2 
+238b-c; ch xxxi, sect 2 239b-d; ch xxxh, 
+sect 14-16 245c-246b; bK iv, ch h, sect ii- 
+14 311c-312d; ch hi, sect 6, 314b; sect 28 
+322a-c; cH iv, sect 4 324c; ch xi, sect 4-9 
+355b-357a 
+
+35 Berkeley: Human Knowledge, sect 1-91 
+413a-431a esp sect 3 413c-d, sect 9-15 414d- 
+416a, SECT 48-49 422a-b, sect 56-57 423c- 
+424a, SECT 73 427b-c, sect 76-78 427d- 
+428b, sect 86-91 429c-431a 
+
+35 Hume: Human Understanding, sect xii, div 
+1 17-123 504a-S06a 
+
+42 Kant: Pure Reason, ISb-c; 23a-24a; 29d-33d 
+esp 30d-31a, 31d-32a, 32d-33b [fn i]; 69c- 
+72c / Intro. Metaphysic of Morals, 385a-c 
+
+. 50 Marx; Capital, 31c-d 
+
+53 James: Psychology, 127b-128a; ISOa-lSla; 
+176a-177a; 457a-479a esp 4S7a-459b, 469a- 
+b, 471b-474a, 479a; 650b-651a; 8Slb-852a; 
+860b
+
+
+CROSS-REFERENCES 
+
+For; Discussions relevant to the problem of the existence of qualities and of their relation to sub- 
+stance, matter, or experience, see Being yb, 7b(5)-7b(6); Experience i; Matter 2c. 
+
+Discussions relevant to the conception of the categories as transcendental concepts of the 
+understanding, see Form ic; Judgment 8c-8d; Memory and Imagination 6c(2); Mito 
+ie(i); Principle 2b(3). 
+
+The consideration of such non-sensible qualities as habits, dispositions, and powers, see 
+Being 7c(2); Habit i; Life and Death 2; Man 4d; Nature ia(i); Soul 2a, 2c. 
+
+The distinction between proper and common sensibles, and the related distinction between 
+primary and secondary qualities, see Sense 3c(2)-3c(4). 
+
+Other discussions of the relation of quantity to quality, see Mechanics 4b; Quantity la; 
+and for the problem of the variation of qualities in degree or intensity, see Same and 
+Other 3c; Sense 3c(2). - ^ 
+
+The contrariety and correlation of qualities, see Opposition la-ib. 
+
+The conception of similarity as likeness in quality, see Same and Other 3c. 
+
+The distinction of alteration, or change in quality, from other kinds of change, see Change 
+6, 9. ■ ' 
+
+The general theory of sensitive knowledge and its bearing on the objectivity of sensible 
+qualities, see Knowledge 6b(i) ; Sense 4-4C,

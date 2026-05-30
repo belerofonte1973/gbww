@@ -1,0 +1,2004 @@
+CHAPTER: Form
+
+INTRODUCTION
+
+FORM 
+
+INTRODUCTION 
+
+T he great philosophical issues concerning 
+form and matter have never been resolved. 
+But the terms in which these issues were stated, 
+from their first formulation in antiquity to the 
+17th or i8th centuries, have disappeared or at 
+least do not have general currency in contem- 
+porary discourse. Kant is perhaps the last great 
+phWosopIncT to voolode. vilest toims. io his task 
+vocabulary. The conceptions of matter and 
+form, he writes, “lie at the foundation of all 
+other reflection, so inseparably are they con- 
+nected with every mode of exercising the un- 
+derstanding. The former denotes the determin- 
+able in general, the second its determination.” 
+
+The word “form” is no longer a pivotal term 
+in the analysis of change or motion, nor in the 
+distinction between being and becoming, nor 
+in the consideration of the modes of being and 
+the conditions of knowledge. The word “mat- 
+ter” is now used without reference to form, 
+where earlier in the tradition all of its principal 
+meanings involved “form” as a correlative or an 
+opposite. Other words, such as “participation” 
+and “imitation,” have also fallen into disuse 
+or lost the meanings which derived from their 
+relation to form and matter. 
+
+The problems which these words were used 
+to state and discuss remain active in contem- 
+porary thought. There is, for instance, the 
+problem of the universal and the particular, the 
+problem of the immutable and the mutable, the 
+problem of the one and the many, or of same- 
+ness and diversity. These problems appear in 
+the writings of William James and Bergson, 
+Dewey and Santayana, Whitehead and Russell. 
+Sometimes there is even a verbal appro.ximation 
+to the traditional formulation, as in White- 
+head’s doctrine of “eternal objects” or in San- 
+tayana’s consideration of the “realm of essence” 
+and the "realm of matter.” Whatever expres- 
+sions they use, these thinkers find themselves 
+
+opposed on issues which represent part, if not 
+the whole, of the great traditional controversy 
+between Plato and Aristotle concerning form. 
+
+TherS is a tendency among the historians of 
+thought to use the names of Plato and Aristotle 
+to symbolize a basic opposition in philosophical 
+mellAtyds, or even k what Wil- 
+liam James calls “intellectual temperaments.” 
+Later writers are called “Platonists” or “Aris- 
+totelians” and doctrines or theories are classified 
+as Platonic or Aristotelian. It almost seems to 
+be assumed at times that these names exhaust 
+the typical possibilities: that minds or theories 
+must be one or the other, or some sort of mix- 
+ture or confusion of the two. 
+
+If this tendency is ever justified, it seems to 
+be warranted with regard to the problems of 
+form. Here, if anywhere, there may be poetic 
+truth in Whitehead’s remark that the history 
+of western thought can be read as a series of 
+footnotes to Plato; though perhaps the observa- 
+tion should be added that Aristotle, the first 
+to comment on Plato, wrote many of the 
+principal footnotes. In Plotinus the two strains 
+seem to be intermingled. The issue between 
+Plato and Aristotle concerning form dominates 
+the gieat metaphysical and theological contro- 
+versies of the later Middle Ages, and, with some 
+alterations in language and thought, it appears 
+in the writings of Hobbes, Bacon, Descartes, 
+Spinoza, and Locke, where it is partly a con- 
+tinuation of, and partly a reaction against, the 
+mediaeval versions of Platonic and Aristotelian 
+doctrine. 
+
+The most extreme reaction is, of course, to 
+be found in those who completely reject the 
+term form or its equivalents as being without 
+significance for the problems of motion, exist- 
+ence, or knowledge. Bacon retains the term, 
+but radically changes its meaning. “None should 
+
+suppose from the great part assigned by us to 
+forms,” Bacon writes, “that we mean such 
+forms as the meditations and thoughts of men 
+have hitherto been accustomed to.” He does 
+not mean either “the concrete forms” or “any 
+abstract forms of ideas,” but rather “the laws 
+and regulations of simple action, . . . The form 
+of heat or form of light, therefore, means no 
+more than the law of heat or the law of light.” 
+But Hobbes and Locke tend to reject the term 
+itself— especially when it -occurs in the notion 
+of substantial form — as meaningless or mis- 
+leading. 
+
+“We are told,” says Hobbes, “there be in the 
+world certain essences, separated from bodies, 
+which they call abstract essences, and substantial 
+forms. . . . Being once fallen into this error of 
+separated essences, [men] are thereby necessarily 
+involved in many other absurdities that follow 
+it. For seeing they will have these forms to be 
+real, they are obliged to assign them some 
+place"', which they cannot succeed in doing, 
+according to Hobbes, “because they hold them 
+incorporeal, without all dimension of quantity, 
+and all men know that place is dimension, and 
+not to be filled but by that which is corporeal.” 
+
+With regard to substantial form, Locke de- 
+clares, "I confess I have no idea at all, but only 
+of the sound ‘form.’” Those “who have been 
+taught , . . that it was those _/bnnr which made 
+the distinction of substances into their true 
+species and genera, were led yet further out of 
+the way by having their minds set upon fruit- 
+less inquiries after ‘substantial forms’ a sub- 
+ject which Locke regards as “wholly unintelli- 
+gible.” The general skepticism about this no- 
+tion (or the distrust of its hollowness) in the 
+17 th and 1 8 th centuries is reflected in a banter- 
+ing remark by Tristram Shandy’s father. In a 
+discussion of infant prodigies, he refers to some 
+boy-wonders who “left off their substantial 
+forms at nine years old, or sooner, and went on 
+reasoning without them.” 
+
+. Since form and matter are supposed to be 
+correlative, the denial to form of meaning or 
+reality leads to materialism, as in the case of 
+Hobbes— the affirmation of matter alone as a 
+principle or cause. Materialists of one sort or 
+another are the opponents of both Plato and 
+Aristotle, and of Platonists and Aristotelians. 
+That part of the controvcrs)’ is discussed in the 
+
+chapter on Matter. Here we are concerned 
+with the issues arising from different views of 
+form and its relation to matter. 
+
+The popular meaning of “form” affords an ap- 
+proach to the subtleties of the subject. As ordi- 
+narily used, “form” connotes figure or shape. 
+That connotation expresses one aspect of the 
+technical significance of “form.” Agreat variety 
+of things, differing materially and in other re- 
+spects, can have the same figure or shape. The 
+same form can be embodied in an indefinite 
+number of otherwise different individuals. But 
+figures or shapes are sensible forms, forms per- 
+ceptible to vision and touch. To identify form 
+with figure or shape would put an improper 
+linutation on the meaning of form. This is pop- 
+ularly recognized in the consideration of the 
+form of a work of art— the structure of an epic 
+poem or a symphony — which seems to be more 
+a matter of understanding than of direct sense- 
+perception. 
+
+Bertrand Russell’s definition of the form of 
+a proposition effectively illustrates the point 
+involved. The form of a proposition, he says, 
+is that which remains the same in a statement 
+when everything else is changed. For example, 
+these two statements have the same grammat- 
+ical and logical form: (i) John followed James, 
+and ( 2 ) Paul accompanied Peter. What might be 
+called the matter or subject matter of the two 
+statements is completely different, but both 
+have the same form, as may an indefinite num- 
+ber of other statements. 
+
+This illustration helps us to grasp the mean- 
+ing of form, and the distinction between form 
+and matter, or the formal and the material 
+aspects of anything. It is thus that we under- 
+stand the phrase “formal logic” to signify a 
+study of the forms of thought or discourse, sep- 
+arated from the subject matter being thought 
+about or discussed. Similarly, abstractionism or 
+surrealism is a kind of formalism in painting 
+which tries to separate visible patterns or struc- 
+tures from their representative significance or 
+their reference to familiar objects. 
+
+Kant’s doctrine of space and time as tran- 
+scendental forms of intuition exemplifies the 
+meaning of form as pure order or structure di- 
+vorced from sensuous content. “That which in 
+the phenomenon corresponds to the sensation, 
+
+I term its matter” he writes; “that which effects 
+that the content of the phenomenon can be 
+arranged under certain relations, I call its 
+form.” Sometimes the consideration of form 
+emphasizes not its separation from, but its 
+union with matter. The form dwells in the 
+thing, constituting its nature. The sensible or 
+intelligible characteristics of a thing result from 
+the various ways in which its matter has been 
+formed. 
+
+It is impossible to say more about the mean- 
+ing oiform without facing at once the great 
+controversy between Plato and Aristotle and 
+the difficulties which their theories confront. 
+
+Plato does rJOT deny that things— the sensi- 
+ble, material, changing things of experience — 
+have something like form. Nor does he deny 
+that the ideas by which we understand the na- 
+tures of things are like forms. Rather he asks us 
+to consider that which they are li\e. 
+
+In the Phaedo — only one of the many dia- 
+logues in which the doctrine of forms is dis- 
+cussed — Socrates argues that' “there is such a 
+thing as equality, not of one piece of wood or 
+stone with another, but that, over and above 
+this, there is absolute equality." Socrates gets 
+Simmias to admit that “we know the nature of 
+this absolute essence,” and then asks, “Whence 
+did we obtain our knowledge?” It could not 
+have been obtained from the pieces of wood or 
+stone, Socrates tries to show, because they “ap- 
+pear at one time equal, and at another time 
+unequal,” whereas the idea of equality is never 
+the same as that of inequality. Hence he thinks 
+“we must have known equality previously to 
+the time when we first saw the material 
+equals. . . . Before we began to see or hear or 
+perceive in any way, we must have had a 
+knowledge of absolute equality, or we could 
+not have referred to that standard the equals 
+which are derived from the senses.” The equal- 
+ity jwhich supplies the “standard” by which 
+material equals are measured is the Form or 
+Idea of equality. ' 
+
+What is true in this one case Socrates thinks 
+is true in every other. Whether we consider 
+the “essence of equality, beauty, or anything 
+else,” Socrates holds, the “Ideas or essences, 
+which in the dialectical process we define as . . . 
+true existences . . . are each of them always 
+
+what they are, having the same simple self- 
+existent and unchanging forms, not admitting 
+of variation at all, or in any way or at any time.” 
+Apart from the perishable things of the sensible 
+world, and apart from the ideas which are in- 
+volved in our process of learning and thinking, 
+there exist the Forms or the Ideas themselves— 
+the immutable objects of our highest knowl- 
+edge. 
+
+Because the same English words are em- 
+ployed in these quite distinct senses, it is useful 
+to follow the convention of translators 'who 
+capitalize the initial letter when “Form” or 
+“Idea” refers to that which is separate from the 
+characteristics of material things and from the 
+ideas in our mind.The words “Form” and “Idea” 
+are interchangeable, but the words “Idea” and 
+“idea” are not. The latter refers to a notion in 
+the human mind, by which it knows; whereas 
+“Idea” — as Plato uses the word — signifies the 
+object of knowledge, i.e. that which is known. 
+These differences are further discussed in the 
+chapter on Idea. ‘ . i 
+
+By imitating the Forms, sensible things, ac- 
+cording to Plato, have the characteristics we 
+apprehend in them. The ideas we 'have, when 
+we apprehend the resemblance between sensi- 
+ble things and their Forms (which sensible 
+things exhibit), would seem to be indirect ap- 
+prehensions of the Forms themselves. When in 
+the Republic Socrates discusses knowledge and 
+opinion, he distinguishes them- from .one an- 
+other according to a division of their objects— 
+the realm of intelligible being on the one hand, 
+and the realm of sensible . becoming on the 
+other. The latter stands to the former as image 
+or copy to reality, and Socrates finds this rela- 
+tionship repeating itself when he further di- 
+vides each of the two parts. The realm of be- 
+coming divides into images or shadows and into 
+that “of which this is only the ’resemblance,” 
+namely, “the animals which we see, and every- 
+thing that grows or is made.” The realm of in- 
+telligible being he also subdivides into two 
+parts, of which the first is as an image or reflec- 
+tion of the second, namely, the hypotheses we 
+form in our minds and the Ideas or Forms them- 
+selves. > . ' , 
+
+t From this it appears that just as we should 
+regard the form of the thing as an imitation of, 
+or participation in, the separate Form, so should 
+
+we regard the idea we have (that is, our under- 
+standing of the thing) as an approximation of 
+the Idea. The Ideas are outside the human mind 
+even as the Forms are separate from their sen- 
+sible, material imitations. When we apprehend 
+things by reason we know the Forms they imi- 
+tate; when we apprehend them by our senses 
+we know them as imitations, or as images of the 
+Ideas. . ' ' 
+
+The Platonic theory changes the ordinary 
+meaning of the word “imitation.” We ordi- 
+narily think of imitation as involving a relation 
+of resemblance between two sensible things, 
+both of which we are able to perceive; for ex- 
+ample, we say that a child imitates his father’s 
+manner, or that a portrait resembles the person 
+who posed for it. The painter, according to 
+Socrates in the Republic, is not the only “crea- 
+tor of appearances.” He compares the painter 
+who pictures a bed with the carpenter who 
+makes one. 
+
+Like the bed in the painting, the bed made 
+by the carpenter is not the real bed. It is not, 
+says Socrates, the Idea “which, according to 
+our view, is the essence of the bed.” The car- 
+penter “cannot make true existence, but only 
+some semblance of existence.” As the bed in 
+the picture is an imitation of the particular bed 
+made by the carpenter, so the latter is an imita- 
+tion of the Idea— the essential bed-ness which is 
+the model or archetype of all particular beds. 
+
+Shifting to another example, we can say that 
+a statue, which resembles a particular man, is 
+the imitation of an imitation, for the primary 
+imitation lies in the resemblance between the 
+particular man portrayed and the Form or Idea, 
+Man. Just as the statue derives its distinctive 
+character from the particular man it imitates, 
+so that particular man, or any other, derives 
+his manhood or humanity from Man. Just as 
+the particular man imitates Man, so our idea 
+of Man is also an imitation of that Idea. Knowl- 
+edge, according to Plato, consists in the imita- 
+tion of Ideas, even as sensible, material things 
+have whatever being they have by imitation of 
+the true beings, the Forms. 
+
+Another name for the primary type of imita- 
+tion is “participation.” To participate in is to 
+partake of. In the dialogue in which Plato has 
+the young 'Socrates inquiring into the relation 
+
+between sensible particulars and the Ideas or 
+Forms, Parmenides tells him that “there are 
+certain ideas of which all other things partake! 
+and from which they derive their names; that 
+similars, for example, become similar, because 
+they partake of similarity; and great things be- 
+come great, because they partake of greatness; 
+and that just and beautiful things become just 
+and beautiful, because they partake of justice 
+and beauty.” The Forms or Ideas are, Parmeni- 
+des suggests, “patterns fixed in nature, and 
+other things are like them, and resemblances of 
+them — what is meant by the participation of 
+other things in the ideas, is really assimilation 
+to them.” 
+
+The fact! of particularity and multiplicity 
+seems to be inseparable from the fact of partic- 
+ipation. That in which the many particulars 
+participate must, on the other hand, have uni- 
+versality and unity. The Forms or Ideas are 
+universals in the sense that each is a one which 
+is somehow capable of being in a many — by 
+resemblance or participation. Parmenides asks 
+Socrates whether he thinks that “the whole 
+idea is one, and yet, being one, is in each one of 
+die many.” When Socrates unhesitatingly says 
+Yes, Parmenides points out to him that we then 
+confront the diSiculty that “one and the same 
+thing will exist as a whole at the same time in 
+inany separate individuals” and that “the ideas 
+themselves will be divisible, and things which 
+participate in them will have a part of them 
+only and not the whole idea existing in each of 
+them.” Nor can we say, Socrates is made to 
+realize, that “the one idea is really divisible 
+and yet remains one.” 
+
+This difficulty concerning the relation of par- 
+ticulars to the Ideas they participate in, is dis- 
+cussed in the chapter on Universal and Par- 
+ticular.! It is not the only difficulty which 
+Plato himself finds in the theory of Ideas. An- 
+other concerns the individuality of each of the 
+indefinite number of particulars which copy a 
+single model or archetype. What makes the 
+various copies of the same model different from 
+one another? 
+
+Plato meets this problem by adding a third 
+principle. To the intelligible patterns or arche- 
+types and their sensible imitations, he adds, in 
+the Timaeus, the principle which is variously 
+
+named, sometimes “the receptacle,” sometimes 
+“space,” sometimes “matter.” However named, 
+it is the absolutely formless, for “that which is 
+to receive all Forms should have no form. . . . 
+The mother and receptacle of all visible and in 
+any way sensible things ... is an invisible and 
+formless being which receives all things and in 
+some mysterious way partakes of the intelli- 
+gible, and is most incomprehensible.” 
+
+It is this material or receiving principle which 
+somehow accounts for the numerical plurality 
+and the particularization of the many copies 
+of the one absolute model. When a number of 
+replicas of the same pattern are produced by 
+impressing a die on a sheet of plastic material 
+at different places, it is the difference in the 
+material at the several places which accounts 
+for the plurality and particularity of the rep- 
+licas. Yet the one die is responsible for the 
+character common to them all. 
+
+The sensible things of any one sort are not 
+only particular because the Form they imitate 
+is somehow received in matter; they are also 
+perishable because of that fact. The receptacle 
+is the principle of generation or of change. It is, 
+Timaeus says, “the natural recipient of all im- 
+pressions,” which is “stirred and informed by 
+them, and appears different from time to time 
+by reason of them, but the forms which enter 
+into anJ go out of her are the hkenesses of real 
+existences modelled after their patterns .in a 
+wonderful and inexplicable manner.” 
+
+Matter, as Plato here suggests, is the mother 
+of changing things, things which, between com- 
+ing to be and passing away, are what they are 
+because of the unchanging Forms. The Form 
+which is received in matter for a time makes 
+the changing thing an wtitation, as the matter 
+in which the Form is received makes the chang- 
+ing thing a participation. 
+
+The admittedly mysterious partaking- of the 
+Forms by the formless receptacle constitutes 
+the realm of becoming, in which being and 
+non-being are mixed. But the Forms or Ideas 
+themselves, existing apart from their sensible 
+imitations, are “uncreated and indestructible, 
+never receiving anything from without, nor 
+going out to any other, but invisible and im- 
+perceptible by any sense.” They constitute the 
+realm of pure being. They are the intelligible 
+reality. 
+
+The criticism of the Forms or Ideas which 
+we find in the writings of Aristotle is primarily 
+directed against their separate existence. “Plato 
+was not far wrong,” Aristotle, says, “when he 
+said that there are as many Forms as there arc 
+kinds of natural object”; but he immediately 
+adds the qualification: “if there are Forms dis- 
+tinct from the things of this earth,’’ It is pre- 
+cisely that supposition which Aristotle, chal- 
+lenges. 
+
+Aristotle’s criticism of Plato stems from his 
+own notion of substance, and especially from 
+his conception of sensible substances as com- 
+posed of matter and form. He uses the word 
+“substance” to signify that which exists in and 
+of itself; or, in other words, that which exists 
+separately from other things. Hence, when he 
+says that, in addition to sensible substances, 
+“Plato posited two kinds of substances — the 
+Forms and the objects of mathematics,” he is 
+translating the affirmation that the Forms have 
+being separately from the sensible world of 
+changing things, into an assertion that they are 
+substances. 
+
+“Socrates did not make the universals or the 
+definitions exist apart,” Aristotle writes; but 
+referring to the Platonists, he says, “they, how- 
+ever, gave them separate existence, and this 
+was the kind of thing they called Ideas.” What 
+proof is there, he repeatedly asks, for the sepa- 
+rate existence of the Forms, or universals, or 
+the objects of mathematics.? “Of the various 
+ways in which it is proved that the Forms 
+exist,” he declares, “none is convincing.” Fur- 
+thermore, he objects to the statement that “all 
+other things come from the Forms”; for “to 
+say that they are patterns and the other things 
+share in them is to use empty words and poeti- 
+cal metaphors.” There is the additional diffi- 
+culty, he thinks, that “there will be several pat- 
+terns of the same thing, and therefore several 
+Forms; e.g., ‘animal’ and ‘two-foot'ed’ and also 
+‘man himself’ will be Forms of man.” 
+
+Aristotle’s denial of separate existence, or 
+substantiality, to the Ideas or universals stands 
+side by side with his affirmation of the -place ol 
+forms in the being of substances and the role of 
+universals in the order of knowledge. Further- 
+more, he limits his denial of the substantiality 
+of Ideas to those Forms which seem to be the 
+archetypes, or models of sensible things. Par- 
+
+-Chapter 28: FORM 
+
+ticular physical things— familiar sensible sub- 
+stances, such as the stone, the tree, or the man 
+— are not, in his opinion, imitations of or par- 
+ticipations in universal models which exist apart 
+from these things. He leaves it an open question 
+whether there are self-subsistent Forms or Ideas 
+— that is, purely intelligible substances— which 
+do not function as the models for sensible things 
+to imitate. 
+
+Stated positively, the Aristotelian theory 
+consists in two affirmations. The first is that the 
+characteristics of things are determined by “in- 
+dwelling forms,” which have their being not 
+apart from but in the things themselves. To 
+illustrate his meaning he turns to the realm of 
+art. When we make a brass sphere, he writes, 
+“we bring the form,” which is a sphere, “into 
+this particular matter,” the brass, and “the re- 
+sult is a brazen sphere.” There is no “sphere 
+apart from the individual spheres,” and no 
+brass apart from the particular lumps of metal 
+that are brass. “The ‘form’ means the ‘such,’ 
+and is not a ‘this’ — a definite thing,” such as 
+this individual brazen sphere. 
+
+Aristotle analyzes natural things in the same 
+manner. It is from “the indwelling form and 
+the matter,” he says, that “the concrete sub- 
+stance is derived.” Men such as Callias or Soc- 
+rates, for example, consist of “such and such 
+a form in this flesh and in these bones,” and 
+“they are different in virtue of their matter 
+(for that is different) but the same in form.” 
+The flesh and bones of Callias are not the flesh 
+and bones of Socrates; but though different as 
+individual men, they are the same as men be- 
+cause they have the same form. 
+
+The second point is that our understanding 
+of things involves the forms of things, but now 
+somehow in the intellect rather than in the 
+things themselves. In order to know things, 
+Aristotle says, we must have within us “either 
+the things themselves or their forms. The 
+former alternative is of course impossible: it is 
+not the stone which is present in the soul,” he 
+maintains, “but its form.” 
+
+The form in the thing is as individual as the 
+thing itself. But in the mind, as the result of the 
+intellect’s power to abstract this form from its 
+matter, the form becomes a universal; it is then 
+called by Aristotle an “idea,” “abstraction, or 
+“concept.” Forms are universals in the mind 
+
+alone. If there were a form existing apart from 
+both matter and mind, it would be neither an 
+individual form nor an abstract universal. 
+
+The indwelling forms, according to Aristotle, 
+are not universals. Except for the possibility of 
+Forms which dwell apart and bear no resem- 
+blance at all to sensible things, all forms are 
+either in matter or, abstracted from matter, in 
+the human mind. These are often called “ma- 
+terial forms” because they are the forms which 
+matter takes or can take, and which the mind 
+abstracts from matter. Their being consists in 
+informing or determining matter, just as the 
+being of matter consists in the capacity to re- 
+ceive these forms and to be determined by 
+them. 
+
+The foregoing helps to explain Aristotle’s use 
+of the word “composite” as a synonym for “sub- 
+stance” when he is considering particular sensi- 
+ble things. The independently existing, indi- 
+vidual physical things which Aristotle calls 
+“substances” are all composite of form and mat- 
+ter. He sometimes also calls form and matter 
+“substances,” but when he uses the word “sub- 
+stance” strictly and in its primary sense, he 
+applies it only to the concrete individual. Form 
+and matter are only principles or constituents 
+of the concrete thing— the composite substance. 
+
+The union of form and matter to constitute 
+physical substances also explains the Aristo- 
+telian identification of form with actuality and 
+of matter with potentiality; and the relation of 
+form and matter to a third term in the analysis 
+of change, namely, privation. As a physical thing 
+changes, its matter gives up one form to take on 
+another. Its matter thus represents its capacity 
+or potentiality for form. Matter is the. formable 
+aspect of changing things. What things are 
+actually at any moment is due to the forms they 
+possess. But they may have the potentiality for 
+acquiring other forms, with respect to which 
+they are in privation. 
+
+“The mutability of mutable things,” Augus- 
+tine writes, “is simply their capacity for all the 
+forms into which mutable things can be 
+changed.” Change consists in a transformation 
+oi matter, which is another way of saying that it 
+consists in the actualization of a thing’s poten- 
+tialities. The Aristotelian theory of form and 
+matter is a theoiy of becoming as well as an 
+
+532 THE GREAT IDEAS 
+
+analysis of the bfeing df changing things. Illus" 
+trative applications of this theory will be found 
+in the chapters on Art,’ Cause, and Change. 
+
+Some forms are sensible.’ Sortie are shapes, 
+some are qualities, some are quantities. Bufnot 
+all forms are perceptible bjf' the senses; as, for 
+example, the form 'which matter takes when a 
+plant of animal is generated and which gives 
+the generated thing its specific nature. This 
+type of form came to be called a “substantial 
+form” because it determines the kind of Sub- 
+stance which the thing is. In contrast^ the forms 
+which determine the properties 6r attributes of 
+a thing are called its “accidents” or “accidental 
+forms.” For example, size and shape, color and 
+weight, are accidental forms of a man; whereas 
+that by virtue of which this thing {having a 
+certain size, shape, and color) is a man, is its 
+substantial form.' 
+
+Aristotle’s distinction between substantial 
+and accidental form affects his analysis of 
+change and his conception of matter. Genera- 
+tion and corruption are for him substantial 
+change, change in which matter Undergoes 
+transformation with respect to its substantial 
+form. The various types Uf motion — alteration, 
+increase or decrease, and local motion— are 
+changes which take place in enduring sub- 
+stances, and with respect to their accidental 
+forms. > 
+
+' The substratum of accidental change is not 
+formless matter, but matter having a certain 
+substantial form; whereas in 'the coming to be 
+or passing away of substances, the Substratum 
+would seem to be a primary sort bf matter, 
+devoid of all form. As indicated in the chapter 
+on Matter, this, according' to Aristotle, is “the 
+primary ssubkiatum of each 'thing, from which 
+it comes to b'e without qualification, 'and which 
+persists in the result.” He ‘tries to help us grasp 
+prime' matter ’by 'using- an analogy. “As the 
+bronze is to' the sta'tue', the wood to the bed,” 
+he writes, “so is the underlying nature to sub- 
+stance”-^matter absolutely formless to Sub- 
+stantial form.' - I '■ ■■ 
+
+Aristotle sometiriles speaks tif the'^substantial 
+form as‘a first act or actuality, and of accidental 
+forms as second actualities. Actordihgly he als6 
+distinguishes between a primary arid secondary 
+kind of matter-^-the one absolutely potential, 
+and underlying substantial clfangb; the other 
+
+partly attualized and partly potential, and in- 
+vblved in accidental change. “Primary mat- 
+ter,” Aquinas explains, “has substantial being 
+through its form. . . . But when once it exists 
+under one form it is in potentiality to others.” 
+
+Perhaps one more distinction should be men- 
+tioned because of its significance for later dis- 
+cussions of form. Regarding living an'd non- 
+living things as essentially distinct, Aristotle 
+differehtiates between the forms constituting 
+these two kinds of substances. As appears in the 
+chapter on Soul, he uses the word “soul” to 
+name the substantial form of plants, animals, 
+and men. 
+
+Both the Platonic theory of the Separate 
+Forms and the Aristotelian theory of the com- 
+porition of form and matter raise difficulties 
+which their authors consider and which become 
+the Subject of intense controversy among Pla- 
+tonists and Aristotelians in the Hellenistic and 
+mediaeval periods. 
+
+The Platonic theory faces a question which 
+arises from supposing the existence of an eternal 
+and immutable Form for every' appearance in 
+the sensible world of becoming. If the Idea and 
+the individual are alike, then “some further 
+idea of likeness will always be coming to light,” 
+Parmenides says to Socrates; “and if that be 
+like anything else, then another; and new 
+ideas will be always arising, if the idea resembles 
+that which partakes of it.” Because of this dif- 
+ficulty with the doctrine of participation, 
+Parmenides suggests that it may be necessary 
+to conclude that “the Idea cannot be like the 
+individual or the individual like the Idea.” In 
+addition, the relationships of the Forms to one 
+another presents a difficulty. Is the relation of 
+one Form to another, Parmenides asks, de- 
+termined by the essence of each Form, or by 
+the relationships among the sensible particulars 
+that imitate the Forms in question.? Either 
+solution seems to be unsatisfactory because of 
+the fuither difficulties which both raise. 
+
+Yet, after propounding questions of this sort, 
+and multiplying difficulties, Parmenides con- 
+cludes by telling Socrates why the theory of 
+Idfeas cannot be given up. “If a man, fixing his 
+attention on these and like' difficulties,” he 
+says, “does away with the Forms' of things and 
+will not admit that every individual thing has 
+
+' Chapter 28: FORM 
+
+its own determinate Idea which is always one 
+and the same, he will have nothing on which 
+his mind can rest; and so he will utterly destroy 
+the power ofi reasoning.” 
+
+The Aristotelian theory has difficulties of its 
+own with respect 'to the ultimate character of 
+matter apart from all forms. Completely form- 
+less matter would be. pure potentiality and 
+would therefore have no actual being. It would 
+be completely unintelligible, since form is ,the 
+principle of anything’s intelligibility .1 Never- 
+theless, something like formless matter seems to 
+be involved in substantial change, in contrast 
+to the substantially formed matter which is the 
+substratum of accidental change. 
+
+The problem of prime matter is related in 
+later speculations to the problem of the number 
+and order of the various forms which matter 
+can take. The question is whether matter must 
+have a substantial form before it can have any 
+accidental form; and whether it can have a 
+second substantial form in addition to a first, or 
+is limited to having a single substantial form, 
+all subsequent forms necessarily being acci- 
+dental. 
+
+Aquinas plainly argues in favor of the unity 
+of substantial form. “Nothing is absolutely 
+one," he maintains, “except by one form, by 
+which a thing has being; because a thing has 
+both being and unity from the same source; 
+and therefore things which are denominated by 
+various forms ate not absolutelymne; as, for 
+instance, a white man. If, therefore,” Aquinas 
+continues, “man were living by one form, the 
+vegetative soul, and animal by another form, 
+the sensitive soul, and man by another form, 
+the intellectual soul, it would follow that man 
+is not absolutely one. ... We must, therefore, 
+conclude,” he says, “that the intellectual soul, 
+the sensitive soul, and the nutritive soul are in 
+man numerically one and the same soul.’ In 
+other words, “of one thing there is but one sub- 
+stantial form.” It is not only “impossible that 
+there be in man another substantial form be- 
+sides the intellectual soul,” but there is also no 
+need of any other, because the intellectual 
+soul contains virtually whatever belongs to the 
+sensitive soul of brute animals and the nutritive 
+soul of plants.” 
+
+The Aristotelian theor>’ also has difficulties 
+with respect to substantial forms as objects of 
+
+533. 
+
+knowledge and definition. The definition which' 
+the mind formulates attempts to state the es- 
+sence of the thing defined. The formulable es- 
+sence of a thing would seem to be identical with 
+its form. But Aristotle 'raises the question and 
+his followers debate at length whether the es- 
+sence of a composite substance is identical with 
+its substantial form or includes its matter as 
+wellij . ' " ' 
+
+Among his followers Aquinas maintains that, 
+in defining the essence or species of a composite 
+substance, the genus is used to signify the mat- 
+ter and the differentia the form. “Some held,” 
+he writes, “that the form alone belongs to the 
+species, while the matter is part of the individ- 
+ual, and not of the species. This cannot be 
+true, for to the nature of the species belongs 
+what the definition signifies, and in natural 
+things the definition does not signify the form 
+only, but the form and the matter. Hence in 
+natural things the matter is part of the species; 
+not, indeed, signate matter, which is the prin- 
+ciple of individuation, but common matter.” 
+He explains in another place that “matter is 
+twofold; common and signate, or individual: 
+common, sucli as flesh and bone; individual, 
+such as this flesh and these bones.” In forming 
+the. universal concept man, for example, the 
+intellect abstracts the notion of the species 
+“from this flesh and these bones, which do not 
+belong to the species as such, but to the indi- 
+vidual But the species of man cannot be ab- 
+
+stracted by the intellect {torn flesh and bones" 
+As will be seen in the chapters on One 
+AND Many and Universal and Particular, 
+the Platonic and the Aristotelian theories of 
+form are equally involved .in the great. prob- 
+lem of the universal and the individual. Even 
+though they seem to 'be diametrically opposed 
+on the existence of univenals — whether apart 
+from or only in minds — both Plato and Aris- 
+totle face the necessity of explaining individu- 
+ality. What makes the particular that imitates 
+a universal Form the unique individual it is? 
+What makes the indwelling form of a composite 
+substance an individual form, as unique as the 
+individual substance of which it is the form ? 
+
+- We have already noted that both Platonists 
+and Aristotelians appeal to matter as somehow 
+responsible for individuation or individuality, 
+but that only raises further quesuons. The 
+
+Platonists conceive matter as the receptacle of 
+all Forms, and so in itself absolutely formless. 
+How, then, can it cause the particularizations 
+which must be accounted for? Since prime 
+matter, like the receptacle, is formless, the 
+Aristotelians resort to what they call “signate 
+matter” or “individual matter” to explain the 
+individuality of forms and substances; but it 
+has been argued that this only begs the ques- 
+tion rather than solves it. 
+
+The correlative terms form and matter seem 
+to occur in modern thought under the guise of 
+certain equivalents; as, for example, the distinct 
+substances which Descartes calls “thought” and 
+“extension” — res cogitans and res extensa — or 
+the infinite attributes of substance which 
+Spinoza calls “mind” and “body.” They ap- 
+pear more explicitly in Kant’s analysis of knowl- 
+edge, related as the a priori and the a posteriori 
+elements of experience. But it is in the great 
+theological speculations of the Middle Ages 
+that the most explicit and extended use of 
+these terms is made, often with new interpreta- 
+tions placed on ancient theories. 
+
+The doctrine of spiritual substances, for ex- 
+ample, has a bearing on the theory 'of self- 
+subsistent Forms. The angels are sometimes 
+called “separate forms” by the theologians. 
+They are conceived as immaterial substances, 
+arid hence as simple rather than composite. But 
+though Plotinus identifies the order of purely 
+intelligible beings with the pure intelligences, 
+the Christian theologian does not identify the 
+Platonic Ideas with the angels. Jde regards the 
+angels as intelligences. They exist as pure forms, 
+arid therefore are intelligible as well as intellec- 
+tual substances. But they are in no sense the 
+archetypes or models which sensible things re- 
+semble. " ■' 
+
+'Nevertheless, Christian theology does in- 
+clude that aspect of the Platonic theory which 
+looks upon the Ideas as the eternal models or 
+patterns. But, as Aquinas points out, the sepa- 
+rately existing Forms are replaced by what 
+Augustine calls “the exemplars existing in the 
+divine mind.” 
+
+Aquinas remarks on the fact that “whenever 
+Augustine, who was imbued with the doctrines 
+of the Platonists, found in their teaching any- 
+thing.consistent with-faith, he adopted it; and 
+
+those things which he found contrary to faith 
+he amended.” He then goes on to say that 
+Augustine could not adopt, but had to amend, 
+the teaching of the Platonists that “the forms 
+of things subsist of themselves apart from mat- 
+ter.” He did this, not by denying the ideas, 
+“according to which all things are formed,” but 
+by denying that they could exist outside the 
+divine mind. The divine ideas are the eternal 
+exemplars and the eternal types — types, Aqui- 
+nas explains, insofar as they are the likenesses of 
+things and so the principles of God’s knowl- 
+edge; exemplars insofar as they are “the princi- 
+ples of the making of things” in God’s act of 
+creation. 
+
+The profound mystery of the creative act 
+which projects the divine ideas into substantial 
+or material being replaces the older problem of 
+how physical things derive their natures by 
+participation in the Forms. According to the 
+Aristotelian theory, both natural generation 
+and artistic production involve the transforma- 
+tion of a pre-existent matter. According to the 
+Platonic myth of the world’s origin, only 
+changing things are created, neither the recep- 
+tacle nor the Ideas. But the Christian dogma of 
+creation excludes everything from eternity ex- 
+cept God. 
+
+Ideas are eternal only as inseparable from 
+the divine mind. Being spiritual creatures, the 
+angels, or self-subsistent forms, are not eternal. 
+And in the world of corporeal creatures, mat- 
+ter as well as its forms must begin to be with 
+the creation of things. Since matter and its 
+forms cannot exist in separation from one an- 
+other, the theologians hold that God cannot 
+create them separately. God cannot be sup- 
+posed, Augustine says, “first to have made 
+formless matter, and after an interval of time, 
+formed what He had first made formless; but,” 
+he goes on, “as intelligible sounds are made by 
+a speaker, wherein the sound issues not formless 
+at first and afterrvards receives a form, but is 
+uttered already formed; so must God be under- 
+stood to have made the world of formless mat- 
+ter, but contemporaneously to have created 
+the world.” God “concreates” form and matter, 
+Augustine holds, “giving form to matter’s 
+formlessness without any interval of time.” ' 
+
+Defending Augustine’s interpretation of the 
+passage in Genesis which says that the earth,' 
+
+Chapter 28 : FORM 535 
+
+which God in the beginning created, “was un- 
+formed and void,” Aquinas argues that “if 
+formless matter preceded in duration, it already 
+existed; for this is implied by duration. ... To 
+say, then, that matter preceded, but without 
+form, is to say that being existed actually, yet 
+without actuality, which is a contradiction in 
+terms. . . . Hence we must assert that primary 
+matter was not created altogether 'formless.” 
+But neither, according to Aquinas, can the 
+form of any material thing be created apart 
+from its matter. “Forms and other non-sub- 
+sisting things, which are said to co-exist rather 
+than to exist,” he declares, “ought to be called 
+concreated rather than created things.” 
+
+Aristotle’s theory of physical substances as 
+composite of form and matter raises certain 
+special difficulties for Christian theology. Those 
+
+who, like Aquinas, adopt his theory must also 
+adapt it to supernatural conditions when they 
+deal with the problems of substance involved in 
+the mystery of the Incarnation of the second 
+person of the Trinity and the mystery of tran- 
+substantiation in the Eucharist. 
+
+Furthermore, Aristotle’s identification of 
+soul with the substantial form of a living thing 
+makes it difficult to conceive the separate exist- 
+ence of the individual hurnan soul. Again an 
+adaptation is Required. As indicated in the 
+chapters on Immortality and Soul, the Chris- 
+tian doctrine of personal survival is given an 
+Aristotelian rendering by regarding the human 
+soul as a form which is not completely material. 
+Hence it is conceived as capable of self-subsist- 
+ence when, with death and the dissolution of the 
+composite nature, it is separated from the body.
+
+
+OUTLINE OF TOPICS 
+
+1. Form in relation to becoming or change 536 
+
+la. Forms as immutable models or archetypes: the exemplar ideas 
+
+lb. Forms as indwelling causes or principles 
+
+1C. The transcendental or a priori forms as constitutive of order in experience 537 
+
+id. The realization of forms in the sensible order 
+
+(1) Imitation or participation: the role of the receptacle 
+
+(2) Creation, generation, production: embodiment in matter or substratum 
+
+2. The being of forms 53 ^ 
+
+2a. The existence of forms: separately, in matter, in mind 
+
+2b. The eternity of forms, the perpetuity of species; the divine ideas 
+
+2C. Form in the composite being of the individual thing 539 
+
+(1) The union of matter and form: potentiality and actuality 
+
+(2) The distinction between substantial and accidental forms 
+
+(3) The unity of substantial form: prime matter in relation to substantial form 
+
+2d. Angels and human souls as self-subsistent forms: the substantiality of thought 
+
+or mind in separation from extension or body 540 
+
+3. Form in relation to knowledge 
+
+3a. Sensible forms, intelligible forms: the forms of intuition and understanding 
+
+3b. The problem of the universal: knowledge of the individual 541 
+
+3c. Form and definition: the formulable essence ;"the problem of matter in relation 
+to definition 
+
+4. The denial of form as a principle of being, becoming, or knowledge 
+
+- ' o . .
+
+
+REFERENCES
+
+REFERENCES - • 
+
+. I ' - ' ■ M < , 
+
+ 
+
+1. Form in relation to becoming or change 
+
+la. Forms as immutable models or archetypes: 
+the exemplar ideas 
+
+7 Plato: Cratylus, 88a-89a; ll3c-114a,c / Phae~ 
+dfus, 125a-b / Symposium, 167b-d / Phaedo, 
+
+■ ' 231b-232b; 247c-248c / Republic, bk hi, 333b' 
+334b; BK V, 368c-369c; bk vi,l382a-c; BK_vi-r- 
+VII, 386c-389c; bk ix-x, 426d-429b / Timaeus, 
+447a-458b passim, '«p 447b’-448b P Parmen- 
+ides, 487c-491a / Philebus, 610d-613a / Seventh 
+
+’ Letter, 809c-810b ‘ 
+
+8 Aristotle; Topics, bk H, ch 7 ''[ti 3 '’ 24 L 33 ] 
+
+158d; BK VI, CH 8 [i 47 “' 3 -ii] 201a / Generation 
+and Corruption, bk ii, ch 9 [ 335 '’ 8 - 24 ] 437a-b / 
+Metaphysicst'rsk'i,' cn 6 [ 987 ‘‘ 29 -*’i 3 ] 505b-c; 
+cH ,7 [ 988 ^ 34 -’’ 5 ] 506c; ch 9 509c; 
+
+BK vii, ch 8 [io 33 ’’i 9 -io 34 ^ 7 ] 556d-S57b; bk 
+
+’ ^ XIII, CH 4-5 610a-611d 
+
+9 Aristotle: Ethics, bk i, ch 6 [i 096 '’ 32 -i 097 * 
+14 ] 342b-c 
+
+11 Nicomachos -.-Arithmetic, bk i, 811a-d , 
+
+12 Lucretius: Nature of Things, bk v [ 181 - 194 ] 
+
+' , . 63b-c ‘ ■ ‘ 
+
+17 Plotinus: Second Ennead, tr.iii, ch ii 46b-c; 
+TR ni,"cH‘i 7 -TR IV, ch 5 '49D-51d; Tr iV, ch 
+15 56c-57a / Third Ennead, tr ix, ch i 136a-d 
+/ Fourth Ennead, tr ii, ch.i 139c-140c; tr ix 
+205a-207a,c / Fifth Enneha, tr ii, ch i 214c.> 
+
+215a; tr v, ch 4 -TR ix, ch 14 230b-251d / 
+Sixth Ennead, tr ii, ch ' 20-22 278d-280d; TR 
+VII, CH4-i7323c-331a. 
+
+18 Augustine; Confessions, bk i, par 9, 3a;'BK 
+xii, par 38 108d-109a / City~of God, bk viii, 
+CH 3, 266a-b; ch 6, 269b-c; bk ix, ch 22 
+296d-297a; bk xi, ch 7 326a-c; ch 10, 328c-d: 
+j'cH 29 339a-b / Christian Doctrine, 'Bk i, ch 9- 
+10 627a-b; bk ii, ch 38 654b-c 
+T9 Aquinas; Summa- Theologica, part i, q 15 
+91b-94a passim; q 18, a 4, rep 2 107d-108c; 
+Q 44, A 3 240b-241a) q 47, a i, rep 2 256a- 
+1 >257b; Q 50, A'3, ans 272a-273b; Q 65, a 4, ans 
+342b-343c; q 108, a i, ans and rep 2 552c- 
+553c 
+
+30 Bacon; Advancement of Learning, 43d-44c 
+35 Locke: Human Understanding, bk hi, ch hi, 
+sect 17 258d-259b; sect 19 259c-260a 
+42 tihrrfPure Reason', 113b-115a; 173b-174a / 
+Practical Reason, 352c-353a / Judgement, 551a- 
+552c ' ^ 
+
+lb. Forms as indwelling causes or principles 
+' 8 Aristotle; Physics, bk i 259a-268d; bk ii, 
+,CH I [i93“3o-*’i9] 269c-270a; ch 2 [i94'’i2-*’i5] 
+‘ 270c-271a; BK rii, ch 2 [ 202 ’ 9 -ii] 279c / 
+Heavens, bk i, ch 8 (277^i2-l2'7] 368b-c; bk iv, 
+ch 4 [ 3 i 2 “ 3 - 22 ] 403c-d/ Generation and Cor- 
+ruption, BK I, ch 3 [ 3 i 8 ’’i 3 -i 8 ] 41Sb-c / Meta- 
+
+Ic to \d{2) Chapter 28: FORM 537 
+
+physics, BK V, ch 4 534d-535c; bk vii, ch 7-9 
+S5Sa-S58a esp ch 8 5S6b-557b; bk xii, ch 2-5 
+598c-601a 
+
+9 Aristotle : Parts of Animals, bk i, ch i [640® 
+i 2-642®24] 162b-165b / Generation of Animals, 
+BK I, CH 20 [729“6]-ch 22 [73o’’33l 269b-271a 
+
+19 Aquinas; Siimma Tbeologica, part 1, q 7, a 1, 
+ANS Sla-d; q 9, a 2, rep 3 39c-40d; q 14, a 8, 
+ANs 82c-83b; q 15, a i, ans 91b-92a: Q 18, a 3, 
+ANS 106b-107c; q 19, a i, ans 108d-109c; Q 
+42, A I, REP I 224b 225d; q 51, A i, rep 3 
+275b-276b; q 65, a 4, ans 342b-343c; q 85, a 
+2, ANS 453d-455b; q 104, a i, ans and rep 1-2 
+534c-536c; q 105, a 2, ans 539c-S40c; q 115, 
+AA 1-2 58Sd-588c; part i-ii, Q 5, a 6, 'rep 2 
+641a-642a 
+
+20 Aquinas : Stmma Theologica, part i-ii, q 49, 
+A 4, ANS and REP i Sa-6a; Q 52, a r, ans ISd- 
+•18a; Q 109, A I, ans 338b-339c; part ii-ii, 
+Q 23, A 2, REP 3 483d-484d; q 24, a ii, ans 
+498b-499c; part hi, q 13, a i, ans 780a-781b 
+
+21 Dante; Divine Comedy, purgatory, xviii 
+[ig-33] 80a; PARADISE, ii [46-148] 108b-109b 
+
+28 Gilbert; Loadstone, bk ii, 36d-37a 
+28 Harvey; On Animal Generation, 386d-387a 
+30 Bacon; Advancement of Learning, 43d-44c / 
+Novum Organum, bk 1, aph 51 111c; bk u, Aph 
+1-2 137a-c; aph 17 149b-d 
+3S Locke Understanding, bkii, chxxxi, 
+
+sect 6 240d-241d; sect 13 243a-b; ch xxxii, 
+sect 34 247c-d; bk hi, ch hi, sect 15-18 
+2S8b-2S9c; ch vi, sect 2-3 268c-d; ch ix, 
+'SECT 12 287d-288a 
+
+42 Kant; judgement, 550a-5Sla,c; SS3c-562a,c; 
+
+565b-569a; 581c; 584c-d 
+46 Hegel; Philosophy of History, intro, IS6d- 
+160b 
+
+Ic. The transcendental or a priori forms as con- 
+stitutive of order in experience 
+42 Kant; Pure Reason, 14a-108a,c esp 14a-15c, 
+23a-33d, 41c-42b, 48d-51d, S3b'5Sa, 566- 
+59b, 63d'64a, 66d-93c, g4d-96d, lOOd-lOlb; 
+112d-113a; 115d; 129c'137a,c; lS3c-I55a; 
+162b-163a; 173b; 176d-177a; 186d-187a; 
+
+207c-d; 213d-215a / Fund. Pnn. Metaphysic of 
+Morals, 2S3a-c; 282b-c; 283b / Practical Rea- 
+son, 308a-h-,2l9d-, 335c-336a; 350b-c / Judge- 
+ment, 461a-c; 471b-c; 482d; 492c-d; S15d- 
+516b; S17b-c; S42c-d: 5Sla-5S3c; S62a- 
+563b; 570b-572d; 612c-d 
+53 James ; Psychology, 627a-631a; 852a; 859a-882a 
+
+The realization of forms in the sensible 
+order 
+
+Imitation or participation: the role of 
+the receptacle 
+
+7 Pl.ato: Eiithydemiis, 81a-b / Phaedrtts, 126b-c 
+/ Symposium, I67b-d / Phaedo, 242c-243c / 
+Republic, BK HI, 333b-334b; bk v, 368c-371b; 
+BK VI, 382a-c; bk x, 427c-429b / Timaetis , 
+
+45Sc-477a,c esp 455c-4S8b / Parmenides, 487c' 
+491 a / Seventh Letter, 809c-810b 
+
+8 Aristotle: Physics, bk iv, ch 2 [209''5-i7] 
+288b-c ! Geneiation and Corruption, bk ii, ch 
+9 [335’’^~24] 437a-b / Metaphysics, bk i, ch 
+i 6 505b-S06b; cH 9 [99o’’22-9gi®8] 509a'b; bk 
+vin, ch 6 [i045“i4-i9] 569d-570a; bk xii, 
+CH 10 [io75*’i6-2o] 606c; bk xhi, ch 4 [1079“ 
+
+19- '’3] 610d-6na 
+
+17 Plotinus: First Ennead, tr vi, ch 2-3 21d- 
+23a; TR VII, ch 2 26c-d; tr viii, ch 8 30d-31c; 
+CH lo-ii 32a-33d / Second Ennead,irtt. in, ch 
+II 46b'C; CH 18 49c-50a; tr iv, ch 5 51b-d; 
+TR IX, ch 8 70a'd; ch 10-12 72a-73d; ch 16, 
+76a'b / Third Ennead, tr ii, ch 1-3 82c-84c; 
+Ch 14 89b-d; tr v, ch i, lOOd-lOlb; ch 6, 
+
+' . 104a; TR VI, CH 8-19 lllc-llOa; tr vu, ch 11 
+126a-d; tr viii 129a- 136a / Fourth Ennead, tr 
+n, CH 1, 140a-c; tr hi, ch 4-5 143d-144c; ch 
+15, 150a-b; tr iv, ch 13 164d-165b; tr viii, ch 
+3-TR IX, ch 5 202a-207a,c esp tr ix, ch 2 
+2d5c-206a / Fifth Ennead, tr v, ch 4-13 2'30b‘- 
+23Sb; TR VII, CH i 238a-b'; tr'viii, ch 1-3 
+239br241a; ch 7, 243a-b; tr ix, ch 3 247b-d; 
+ch 11-14 250c-25ld / Sixth Ennead, tr ii, ch 
+
+20- 22 278d-280d; tr iv, ch g-io 301c-302c; 
+TR V, CH 6 307b-c; tr vi 310d-321b; tr vii, 
+dn 4-9323c-326c; ch 18-23 331b-333c 
+
+19 Aquinas: Summa Theologica, parT'i, q 65, 
+
+A 4, ANS 342b-343c; q 115, a 3, rep 2 588c- 
+589c , 
+
+20 Aquinas: Summa Theologica, part i-ii, q 52, 
+A I, ANS ISd-lSa; a 2 18a-19a 
+
+30 Bacon: Advancement of Learning, 43d-44c 
+
+42 K\nt. Pure Reason, 113c-115a 
+
+l</(2) Creation, generation, production: em- 
+bodiment in matter or substratum 
+' 7 Plato: Cratyhis, 88a-c 
+
+8 Aristotle; Physics, bk i, ch 6-9 264c-268d; 
+bk II, CH I [i93“9-’'t9] 269b-270a; bk hi, ch 6 
+[2 o 6*’33 ]-ch 7 [2 o 8“4] 285b-28bc; bk iv, ch 2 
+
+j288b-289a; ch 9 [2i7“2o-''26] 297a-c / Heav- 
+ens, BK I, CH 9 [277*>26-278*'9] 369a-d; bk iv, 
+CH 3, 401c-402c', CH 4 [3i2“3-22] 403c-d / 
+Generation and Corruption, bk 1, ch 7 
+[324'’5-24] 422d-423b / Metaphysics, bk 1, 
+CH 6 [g87'’30-g88'‘8] 506a; bk hi, ch 4 [999® 
+24-'’24] 518a-c; bk v, ch 4 534d-535c; bk xii, 
+cHio [1075^34-37] 606d 
+
+9 Aristotle : Parts of Animals, bk i, ch 1 
+[64 o®i 2-64 i'' 39] 162b-16Sa / Generation of 
+Animals, bk 1, ch 26 [729“6]-ch 22 [73o*’33] 
+269b-271a 
+
+12 Aurelius: Meditations, bk v, sect 13 271b; 
+BK vii, sect 23 281b; bk xh, sect 30 310a-b 
+■ 17 Plotinus; 'Second Ennead, tr iv, ch 6-9 51d- 
+S3b; TR v 57d-60c ' 
+
+18 Augustine: Confessions, bkxi , par 7 90d-91a 
+
+19 Aquinas; Summa Theologica, part i, q 3, 
+
+K 2, R.eP!3 I5c-16a; q 7, a i, ans 31a-d; q 46, 
+
+A 1, REP 6 250a'252d; Q 65, a 4, ans 342b- 
+
+538 ITIE GREAT IDEAS 2 to 2b 
+
+(!</. The realization of forms in the seitsihle order. 
+l</(2) Creation, generation, production; 
+embodiment in matter or substratum^) 
+
+343c; Q 66 , a i, ans 343d-345c; q 84, a 3, rep 
+2 443d-444d; q 90, a 2 481d-482c; Q 104, a 1, 
+ANS and REP 1-2 534c-536c; q 105, a i 538d- 
+539c; Q no, a 2 565d-566d; part i-ii, q 20, 
+A I, REP 3 712a-d 
+
+20 Aquinas: Summa Theologies, part i-ii, q 52, 
+A I, ANS 15d-18a; part ii-ii, q 24, a ii, ans 
+498b-499c 
+
+21 Dante: Divine Comedy, paradise, ii [46-148] 
+108b-109b; vii [121-148] 116b-c; xiii [52-84} 
+126a-b 
+
+42 Kant: Pure Reason, lOOd-lOlb; 186b-d / 
+Judgement, 556d-558a; 559b-d; 561c-562a; 
+56Sb-d; 566d-567a; 575c-576a; 577c-d 
+
+2. The being of forms 
+
+2a. The existence of forms: separately, in mat- 
+ter, in mind 
+
+7 Plato: Cratylus, 113c-114a,c / Symposium, 
+167a-d / Republic, bk v, 368c-373c; bk vi, 
+385c-386c; bk ix-x, 426d-429b / Timaeus, 
+457b-4S8a / Parmenides, 487c-491a / Sophist, 
+S70a-574c / Philebus, 610d-613a / Seventh 
+Letter, 809c-810b 
+
+8 Aristotle: Posterior Analytics, bk 1, ch ii 
+[77“5“9l 10Sd-106a; ch 13 [79“6-io] 108c; ch 
+i8 [8i“4o-'=5] lllb'C; ch 22 [83“23-35] 113c-d; 
+CH 24 [85'’i7-22] 117a / Topics, bk ii, ch 7 
+[113*24-33] 158d; BK VI, ch 6 [i43'’ii-33] 
+197b-c; CH lo [148*13-22] 202b / Physics, bk 
+II, CH I [i93*’2-5] 269d; ch 2 [i93*’23-i94"6] 
+270a-b; bk iv, ch i [2o8*’i9-24] 287b-e/Afd'M- 
+physics, BK I, CK 6 505b-506b; ch 9 508c- 
+511c; BK III, CH 2 [997*34-998*19] 516a-d; 
+ch 4 [999“24-*’24] 518a-c; ch 4 [iooi“4]-ch 6 
+[too2'’3i] S19d-521d; bk vii, ch2 [io28‘’i8-28] 
+551a-b; ch 8 [i033*’i9-i034*8] 556d-S57b; ch 
+13-14 S62a-563c; ch 15 [i040*8-*’4] S64a-c; ch 
+16 [io4o'’28-i04i*4] 564d'565a; bk viii, ch 6 
+[1045*14-19] 569d'S70a; bk ix, ch 8 [1050*’ 
+35-1051*2] 576d-577a; bk x, ch 10 586c-d; 
+BK XI, CH 1 [i05g*39-*>2i] 587b-c; ch 2 588a- 
+589a; ch 3 [io6i"29-*’4] 589c; bk xii, ch 1 
+[1069*27-37] 598b; CH 3 [1070*4-30] 599b-d; 
+CH 6 [io7i'’i2-23] 601b'C; ch 10 [io75’’25-33] 
+606c-d; BK xiii-xiv 607a-626d / Soul, bk hi, 
+CH 4 [429*10-29] 661b-c; ch 7 [43i‘’i3-i9] 664b 
+
+11 Nicomachus: Arithmetic, bk i, 811a-d 
+
+17 Plotinus: First Ennead, tr vh, ch 1-2 26a-d; 
+TR VIII, CH 2-3 27c-28c / Third Ennead, tr 
+viii, CH 8-10 132d-136a / Fourth Ennead, tr 
+HI, CH 4-5 143d-144c; ch 17 ISOd-lSlb / Fifth 
+Ennead, tr iv 226d-228b; tr vii, ch i-tr 
+VIII, CH 3 238a-241a; tr ix,'ch 4-14 247d- 
+251d / Sixth Ennead, tr ii, ch 20-22 278d- 
+280d; TR v, ch 8 307d-308c; tr vi 310d-321b 
+esp CH 4-10 312b-315d, ch 15-17 318b-320c; 
+TR VII, CH 8-17 325b-331a 
+
+18 Augustine: Confessions, bk i, par 9 , 3a; bk 
+
+X, par 19 76a-b; bk xi, par 7, 966./ City of God, 
+BK VIII, CH 6, 269b-c; bk xi, ch 27, 337d-338a 
+
+19 Aquinas: Summa Theologica, part i, q 3, a 
+4, ANS 16d-17c; Q 4, A I, rep 3 20d-21b; q 5, 
+a 3, REP 4 25a-d; q 9, a 2, rep 3 39c-40d; q 
+13, A I, REP 2 62c-63c; q 14, A i, ans 75d-76c; 
+A' 2, ANS 76d-77d; Q 15, a i, ans and rep i 
+91b-92a; q 18, a 4, rep 3 107d-108c; q 44, a i, 
+REP 3 238b-239a; a 3 240b-241a; q 65, a 4 
+342b'343c; Q 84, aa 1-4 440d-446b; q 85, a i, 
+REP 2 45lc-453c; q no, a 2, ans 565d-566d; 
+q 115, A i, ANS 58Sd-587c; A3, rep 2 588c- 
+589c 
+
+20 Aquinas; Summa Theologica, part 1-11, q 52, 
+A 1, ANS 15d-18a; part hi, q 4, a 4, ans and 
+rep 2 733a-734a 
+
+23 Hobbes; Leviathan, part iv, 269d-271b 
+
+30 Bacon: Advancement of Learning, 43d-44a 
+
+31 Descartes: Meditations, v, 93b-c 
+
+35 Locke: Human Understanding, bk hi, ch hi, 
+sect n-20 257a-260a; ch v-vi 263d-283a 
+passim, esp ch v, sect 9 266a-b, sect 12 266d- 
+267a, CH VI, SECT 2-3 268c-d; bk iv, ch iv, 
+SECT 6 325a-b; ch vi, sect 4 331d-332b; 
+CH IX, SECT I 349a 
+
+35 Berkeley: Human Knowledge, sect 12 415b-c 
+42 Kant: Pure Reason, 23b-d; 34a-b; 36b-c; 
+4Sd-46a; 48d-49a; lOOd-lOlb; 176d'177a; 
+186b-187a; 211c-213a / Judgement, 461a-c; 
+5Sla-553c; S56d-SS8a; 559b-d; 57Sc-576a; 
+577c-d; 580b-d 
+
+46 Hegel: Philosophy of History, intro, 156d- 
+157b 
+
+53 James: Psychology, 881b 
+
+2b. The eternity of forms, the perpetuity of 
+species: the divine ideas 
+
+7 Plato: Cratylus, 113a-114a,c / Phaedrus, 
+125a-b / Symposium, 167b'd / Phaedo, 231c- 
+232b / Timaeus, 447a-d; 457c-d / Laws, bk 
+IV, 685b-c 
+
+8 Aristotle: Generation and Corruption, bk ii, 
+CH 10 [ 336 ’’ 25 - 34 ] 438d / Metaphysics, bk i, ch 
+6 [ 987 “ 29 -’’i 8 ] SOSb-d; bk hi, ch 2 [ 997 * 34 - 
+’’ 12 ] 516a-b; bk vi, ch i [ 1026 * 7 - 18 ] 548a-b; 
+BK VH, ch 8 [io33’'i9-io 34“8] 556d-557b; bk 
+
+XI, CH 2 588a-589a; bk xii, ch 6 [io7i’’i2-23] 
+601b-c; BK XIII, ch 4 [i078’’7-i079*4] 610a-c 
+/ Soul, BK H, CH 4 [4I5*23-*’8] 645c-d 
+
+9 Aristotle: Ethics, bk 1, ch 6 [io96“33-’’5] 
+341c-d 
+
+11 Nicomachus: Arithmetic, bk i, 841a-d 
+
+17 Plotinus; Sixth Ennead, tr vh, ch 2-17 
+322b-331a 
+
+18 Augustine: Confessions, bk i, par 9, 3a; bk 
+xii, par 38 108d-109a / City of God, bk viii, 
+CH 3, 266a-b; ch 6, 269b-c; bk ix, ch 22 
+296d-297a; bk xi, ch 7 326a-c; ch 10, 328c-d; 
+CH 29 339a-b / Christian Doctrine, bk ii, ch 
+38 654b-c 
+
+19 Aquinas: Summa Theologica, part i, q 14, 
+A 8 82c-83b; q 15 91b-94a; q 16, a 7, rep 2 
+
+2c to 2c(3) 
+
+99a-d; q i8, a 4, bep 3 107d-108c; 0 44, a 3 
+240b-241a-, Q 47, A i, rep 2 256a-257b; q 57, 
+A I, ANS 295a-d; q 58, aa 6-7 304c-306b; q 65, 
+A 4 342b-343c', q 84, a 2, ans and rep 3 442b- 
+443c; A 4, REP I 444d-446b; a 5 446c-447c; q 
+87, A 1, ANS 465a-466c; Q 98, a i 516d-517d; 
+Q 108, A I, ANS and REP 2 5S2c-SS3c 
+
+20 Aquinas; Sttmma Theologica, part hi suppe, 
+Q 92, A I, ANS 1025c-1032b 
+
+31 Descartes; Meditations, v, 93b-d / Objec- 
+tions and Replies, 216d-217c 
+
+31 Spinoza; Ethics, part i, prop 17, schol 362 c- 
+363c; prop 2 1-23 364a-365a 
+
+42 Kant; Pure Reason, 113c-llSa; 173b-174a / 
+Judgement, 551a-552c 
+
+46 Hegel; Philosophy of History, intro, 156 d- 
+157 b 
+
+2c. Porm in the composite being of the in- 
+dividual thing 
+
+2c(l) The union of matter and form; poten- 
+tiality and actuality 
+
+8 Aristotle; Physics, bk ii, ch i [i93“9''’i9] 
+269b-270a / Metaphysics, bk v, ch 4 [loi 4‘’2^ 
+1015^11] 535a-b; CH 6 [ioi6*’i2-i8] S37a-b; 
+CH 8 538b-c; ch 24 (i023“32-‘'il S45a; bk 
+VII, CH 17 565a-566a,c; bk viii, ch 6 S69d- 
+570d; bk IX, ch 6-9 573c-577c; bk xii,-ch 
+4-5 599d-601a; ch 10 li075’’34-37] 606d / 
+Soul, BK II, CH 1-2 642a-644c 
+
+9 Aristotle: Parts of Animals, bk 1, ch i [640* 
+i2-64i’'39] 162 b- 165 a / Generation of Animals, 
+bk I, ch 20 [729“9l-cH 21 [ 729 ’> 2 i) 269 b- 270 a; 
+CH 21 [73o“24]-cH 22 [73o'’32] 270 c- 271 a; bk 
+II, CH 3 [737'*6-27] 277 d- 278 a; ch 4 [738’’!- 
+28] 279 b-c 
+
+12 Aurelius: Meditations, bk v, sect 13 
+271b 
+
+16 Kepler: Harmonies of the World, 1078 a-b 
+
+17 Plotinus; First Ennead, tr viii, ch 8 30d- 
+31c; CH lo-ii 32a-33d / Second Ennead, tr iv, 
+CH 6 51d-S2a; ch 8-9 52c-53b; tr v 57d-60c 
+/ Third Ennead, tr vi, ch 8-19 lllc-ll9a / 
+Sixth Ennead, tr v, ch 8 307d-308c 
+
+18 Augustine: Confessions, bk xi, par 7 90d- 
+91a; BK xn, par 3-6 99d-100c; par 8, 101b; 
+par 9, 101c; par 14-16 102b-103a; par 24-26 
+104c-105b; par 28-31 105c-107a; par 38-40 
+108d-110a; bk xih, par 48 124a 
+
+19 Aquinas: Summa Theologica, part i, q 3, a 
+2, ANS and REP 3 lSc-16a; a 8 19d-20c; o 7, 
+A I, ANS and REP 2 31a-d; a 2, ans and rep 3 
+31d-32c; q 9, a 2, rep 3 39c-40d; q 14, a i 
+7Sd-76c; a 2, rep 1,3 76d-77d; o 18, a 4, rep 
+2-3 107d-108c: 0 29, A I, REP 4 162a-163b: a 
+2, ANS and REP 4-5 163b-164b; q 50, a 2 270a- 
+272a; A 5, ANS 274b-27Sa; Q 55, a 2, ans 289d- 
+290d; Q 62, A 7, REP I 322d-323b; o 66, a i 
+343d-345c; a 2, ans 345d-347b; o 70, a 3, 
+rep 2 365b-367a: Q 76 385c-399b; o 86, a 3 
+463b-d; o 104, a i, ans 534c-536c; part i-n, 
+Q 10, A I, REP 2 662d'663d 
+
+20 Aquinas: Summa Theologica, partt-ii, q 49, 
+A 4, ANS and REP i Sa-6a; part ii-ii, q 24, 
+A tr, ANS 498b-499c; part hi, q 2, a i, ans 
+and rep 2 710a-711c; a 2, ans 711d-712d; 
+FART III SUPPL, Q 82, A I, REP 2 968a-970c; 
+Q 92, A I, ans 1025c-1032b 
+
+21 Dante; Divine Comedy, paradise, i [127-142] 
+
+- 107c-d; II [46-148] 108b-109b; vii [121-148] 
+
+116 b'C; XIII [52-84] 126 a-b; xxix [13-36] 
+ISOb-c 
+
+28 Gilbert: Loadstone, bk ii, 30 b 
+
+33 Pascal; Pensees, 512 262a 
+
+42 Kant: Pure Reason, 23b; 34a-b; 36b-c; 4Sd- 
+46a; 48d-49a; lOOd-lOlb; lS6b-I87a; 188d- 
+189a 
+
+2c(2) The distinction between substantial and 
+accidental forms 
+
+19 Aquinas; Summa Theologica, part i, q 7, a 2, 
+ans 31d-32c; q 8, a 2, rep 3 35c-36b; Q 29, 
+A 2, ANS and REP 4-5 163b-164b; Q 45, A 4, 
+ANS 244d-245c; q 54, aa 1-3 285a-287b; q 
+66, A I, REP 3 343d-34Sc; q 67, a 3 351b-352a; 
+Q 76, A 4 393a-394c; a 6 396a-d; q 77, a i 
+399c-401b; a 6, ans 404 c- 40 Sc; part i-ii, q 7, 
+A 4, rep 3 6S4b-655a 
+
+20 Aquinas: Summa Theologica, part i-n, q 49, 
+A 2, ANS 2b-4a; a 4, ans and rep i Sa-6a; 
+Q 50, A 2 7c-8a; Q 52, A I, ANS 15d-18a; Q 85, 
+A i, REP 4 178b-179b; part hi, q 2, a i, ans 
+710a-71Ic; a 2, ans 711d-712d; part hi 
+SUPPL, Q 70, A I, ans 893d-895d; Q 79, A i, 
+REP 4 951b-953b 
+
+31 Descartes; Discourse, part i, 41d 
+
+35 Locke; Human Understanding, bk h, ch xii, 
+sect 3-6 147d'148c; cH xxiii, sect 3 204c-d; 
+CH XXXI, sect 6-13 240d-243b; ch xxxii, 
+sect 24 247c-d; bk hi, ch hi, sect 15-19 
+2S8b'260a; ch vt 268b-283a passim, esp sect 
+i-io 268b-271b, sect 21, 273c, sect 24 274c; 
+ch IX, SECT 12-13 287d-288d; ch x, sect 20 
+296d-297a 
+
+42 KANT;PHreRearon,131c-d/ Judgement, 5S0c-d 
+
+2c(3) The unity of substantial form; prime 
+matter in relation to substantial form 
+
+8 Aristotle; Physics, bk i, ch 9 [i92“3-33] 
+268a-c / Generation and Corruption, bk i, ch 3 
+[3i9“29-*’4] 416b-c / Meteorology, bk iv, ch 
+12 [389’'22-39 o“ 7] 493d-494a / Metaphysics, 
+bk I, CH 9 [ 99 i“ 2 ^ 32 ] 509c; bk ii, ch 2 [994* 
+1-6] 512b; bk v, ch 4 [ioi5“5-iiJ 535b; bk vh, 
+ch 3 [1029“! 1-26] 551c d; ch 8 [io33’’i-5J 
+556c; ch 13 [1039*2-23] 562d-563a; ch 16 
+[io4o’’5-i6] 564c; [1041*51 565a; bk viii, ch 4 
+[1044*15-32] 568d-569a; bk ix, ch 7 [1049* 
+24-'’!] 575a; bk xii, ch 3 [io69*’35-t07o“ 
+4] 599a-b; [1070*9-11] 599b; bk xhi, ch 5 
+[i079'’3i-34] 611c 
+
+17 Plotinus : Second Ennead, tr iv, ch 7-9 S2a- 
+S 3 b; TR v 57d-60c / Third Ennead, tr vi, ch 
+7-19 110d-119a / Fourth Ennead, tr ix 205a- 
+207a,c 
+
+Id to 3s 
+
+{2c. Form in the composite being of the individual 
+thing. 2c(3) The unity of substantial form: 
+prime matter in relation to substantial 
+formi) ' 
+
+19 Aquinas: Siimma Theologica, part i, q 3, a 
+8, REP 3 19d-20c; q 5, a 3, rep 3 2Sa-d; q 7, 
+A 2, ANs and REP 3 31d-32c; q 8, a 4, rep i 
+37c-38c; Q 14, a 2, rep 3 76d-77d; q 15, a 3, 
+REP 3 93b-94a; Q 16, a 7, rep 2 99a-d;'Q 47, 
+A 1, ANS 256a-2S7b; q 66, aa 1-2 343d-347b; 
+Q 76, AA 3-4 391a'394c; q 77, a i, rep 2 399c- 
+401b; A 2, rep 3 401b-d; q 84, a 3, rep 2 443d- 
+444d; Q 115, A I, REP 1-2,4 585d-587c 
+
+20 Aquinas: Sumtna Theologica, part hi suppl, 
+Q 79, A I, REP 4 9Slb-953b 
+
+35 Berkeley: Human Knowledge, sect ii 
+' 41Sa-b 
+
+2d. Angels and human souls as self-subsistent 
+
+, forms: the substantiality of thought or 
+mind in separation from extension or 
+body 
+
+17 Plotinus: First Ennead, tr viii, ch 2 27c-d / 
+Fourth Ennead, tr 1, ch i, 139b; tr hi, ch 
+9-12 146d-149b; ch 18 ISlb-c; tr ix 205a- 
+207a, c / Sixth Ennead, tr ix, ch 5, 356d- 
+
+, 357a 
+
+18 Augustine: City of God, bkxxh, ch 1 586b,d- 
+587b 
+
+19 Aquinas: Summa Theologica, part i, q 7, a 
+2, ANS and REP 2 31d-32c; q 8, a 2, rep 2-3 
+3Sc-36b; q 50 269a-27Sa esp a 2 270a-272a; 
+q 75 378a-38Sc esp a 5 382a-383b 
+
+21 Dante: Divine Comedy, paradise, vh [ 121- 
+148] 116b-cj XXIX [13-36] 150b-c 
+
+23 Hobbes: Leviathan, part i, 80a-b; part hi, 
+174b'176d; part iv, 250c-251c; 258b-261a; 
+270c-271b 
+
+31 Descartes: Discourse, part iv, 51d-52a; 
+PART V, 60b-c / Meditations, ii 77d-81d; 
+VI 96b-103d / Objections and Replies, def x 
+130d; PROP IV 133c; 152b,d-156a; 224d-225b; 
+225d-226a; 231a-232d 
+
+31 Spinoza: Ethics, part i, prop 10 3S8a-b; prop 
+14, coROL 2 360a; part ii, prop 1-2 373d- 
+374a; prop 7 37Sa-c; prop 13 377d-378c; 
+PART in, PROP 2 396c-398b 
+
+32 Milton: Paradise Lost, bk i [423-431] 102 b; 
+BK V [388-443] 183 b- 18 Sa; [469-505] 185 b- 
+186 a; bk vi [320-353] 203 a- 204 a 
+
+35 Locke: Human Understanding, bk ii, ch xxiii, 
+SECT 5 205a-b; sect 15-37 208c-214b pas- 
+! sim 
+
+35 Berkeley: Human Knowledge, sect 2 413b; 
+SECT 26-27 418a'b; sect 89 430b-c; sect 
+135-142 440a'441c 
+
+40 Gibbon: Decline and Fall, 186b 
+
+41 GiMOtt: Decline and Fall, 136h 
+
+42 Kant; Pure Reason, 121a-128b; 201b-c; 203d- 
+204c 
+
+46 Hegel; Philosophy of History, part i, 257 c- 
+
+' 258a; part iv, 360c-d 
+
+53 James; Psychology, 221a-226a 
+
+3, Form in relation to knowledge 
+• 7 Plato: Cratylus, 113c-114a,c / Phaedrtis, 
+
+12Sa-c / Republic, bk v, 368c-373c; bk vi, 
+
+' 385c-388a / Timaeus, 457b-458a 
+
+8 Aristotle: Posterior Analytics, bk i, ch ii 
+[ 77 “ 5 “ 9 ] fOSd- 106 a; ch 22 [83°23-35] ll 3 c-d / 
+Metaphysics, bk i, ch 6 505 b- 506 b; ch 9 [990“ 
+33-991*18] 508 c- 509 c; bk xiii, ch 4 [io78*’6]- 
+ch 5 [io79*’24] 610 a- 611 c / Soul, bk hi, ch 4 
+[429*13-28] 661 b-c 
+
+11 Nicomachus: Arithmetic, bk i, Slla-d 
+
+18 Augustine: City of God, bk xi, ch 7 326a-c; 
+CH29339a-b 
+
+19 Summa Theologica, part'i, q 7, a 2, 
+REP 2 31d-32c; q 13, a i, rep 2 62c-63c; q 14, 
+A I, ANS 75d-76c; a 2 76d-77d; q 15, a i, ans 
+and REP 1,3 91b-92a; q 19, a i, ans 108d-109c; 
+q 34, A I, REP 3 185b-187b; Q 86, a 3 463b-d 
+
+21 Dante: Divine Comedy, purgatory, xviii 
+[49-60] 80b-c 
+
+35 Locke: Human Understanding, bk 11, ch xxxi, 
+sect 6-13 240d-243b; bk hi, ch vi 268b- 
+283a passim; ch ix, sect 12 287d-288a; bk iv, 
+CH IV, sect 5-8 324d-325c 
+
+42 Kant: Pure Reason, 14a-108a,c; 173b / Fund. 
+Prin. Metaphysic of Morals, 282 b-c / Practical 
+Reason, 308a-b 
+
+46 Hegel: Philosophy of Right, pref, 7a 
+
+51 Tolstoy: War and Peace, epilogue ii, 693d- 
+694c 
+
+S3 James : Psychology, 859a-860b 
+
+3rf. Sensible forms, intelligible forms: the 
+forms of intuition and understanding 
+
+7 Plato: Cratylus, l\Zti-Wa,c / Phaedrtis, 125a- 
+126c / Symposium, 161a-d / Phaedo, 228a-232b 
+/ Republic, bk hi, 333b-334b; bk v, 370d- 
+373c; BK VI, 383d-388a / Timaeus, 447a-d; 
+4S5c-458a / Theaetetus, S34c-536a 
+
+8 Aristotle: Posterior Analytics, bk i, ch‘ 13 
+[79*6-10] 108c / Topics, bk ii, ch7 [113*23-33] 
+158d / Soul, BK HI, ch 2 [425’^i7-26] 657d- 
+658a; ch 4 661b-662c; ch 8 664b-d / Memory 
+and Reminiscence, ch i [450*26-451*19] 691a- 
+692b 
+
+18 Augustine: Confessions, bk x, par 19 76a-b; 
+
+‘ BK xii, par 5 lOOa-b / City of God, bk viii, 
+
+ch 6,269b-c; bkxi, ch 27, 337d-338a; bkxii, 
+ch 7 346c-d 
+
+19 Aquinas : Summa Theologica, part i, q 7, a 2, 
+REP2 31d-32c;Q 13, a 9, ans 71b-72c;Q 14 , a i, 
+ans 75d-76c; a 8, ans 82c-83b; q 15, a i, ans 
+and REP 1,3 91b-92a ; q 17, a 3, ans 102d-103c; q 
+18, A 3, ANS 106b-107c; q 19, a i, ans 108d- 
+109c; Q 34, a I, REP 3 18Sb'187b; q 50," a 2, 
+REP 2 270a-272a; Q 84 440b-451b; q 85, aa 
+1-2 451c-455b; a 5 4S7d-458d 
+
+20 Aquinas : Summa Theologica, part i-h, q 62, 
+A 3, REP 1 61 c- 62 b; PART HI SUPPL, Q 92, A I, 
+
+ANS 1025c-1032b 
+
+23 Hobbes; Leviathan, part i, 49d 
+
+35 Locke: Human Understanding, bk hi, ch vi, 
+sect 9-io270d-271b 
+
+to 4 Chaptek’28; 
+
+42 Kant: Vure Reason, 14a'108a,c esp Wa-lSc, 
+23a-33d, 41c-42b, 48d-5Sa, 56d-59b, 61a-64a, 
+65d-66d, 68a-93c, 94d-96d, lOOd-lOlb; 112d- 
+113a; 115d; 135a-137a,c; 153c-155a; 173b; 
+207c-d; 213d'215a / Fund. Prin. Metaphysic 
+of Morals, 282b-c; 283b / Practical Reason, 
+308a-b; 319d; 33Sc-336a; 3S0b-c / Judge- 
+ment, 461a-c; 471b-c; 5l7b-c; 542c-d; 552b-c; 
+S62a-b; 603d-604c; 612c-d 
+
+53 Jamks: Psychology, 420a-b: 628b-631a 
+
+36. The problem of the universal: knowledge 
+of the individual 
+
+7 P1.AT0: Cratylus, 113c-114a,c / Phaedo, 228a- 
+232b / Republic, bk v, 370d-373c / Parmenides, 
+487c-491a / Philebus, 610d-613a 
+
+8 Aristotle: Categories, ch 5 [2’’6-37] 6c-7a / 
+Posterior Analytics, bk 1, ch 11 (77'‘5'-9] lOSd- 
+106a; CH 24 [85®3i-'’22] 116c'117a / Topics, bk 
+II, CH 7 [113^23-33] lS8d / Sophistical Refuta- 
+tions, CH 22 [i78*’37-I79'‘io] 246c / Physics, bk 
+VII, CH 3 [247'=i-7] 330b / Metaphysics, bk i, 
+
+CH 6 50Sb-S06b; ch 9 508c-511c; bk hi, ch 3 
+[999“6 -i 4] 517d; ch 4 [999''24-''24] S18a-c; bk 
+VII, ch 8 [io 33 *’i 9 -io 34“8] 5S6d-557b; ch 10 
+[io 35'‘28-32] 559b; ch ii [i037“5-9l 560c; ch 
+13-15 562a-564c; bk xni, ch 4-5 610a-611d; 
+
+CH 10 618c-619a,c / Soul, bk hi, ch 4 [429^18- 
+29] 661c 
+
+9 Aristotle: Ethics, bk i, ch 6 341b'342c 
+
+19 Aquinas: Summa Theologica, part i, q 3, a 2, 
+
+REP 3 15c-16a; A 3, ANS 16a-d; Q 4, a 3, ans 
+22b-23b; q n, A 3, ans 4ga-c; q 13, a 9, ans 
+and REP 2 71b-72c; q 14. a n 84c-85c: Q i6, a 
+7, REP 2 99a-d; q 39, a 3, ans 204c-205c; q 50, 
+
+A 2, ANS 270a-272a; a 4, ans 273b-274b; q 
+57, A 2 295d-297a; q 76, a 2, ans 388c-391a; q 
+85, A 7, REP 3 459c-460b; q 86, a i 461c-462a; 
+
+A 3 463b-d 
+
+20 Aquinas: Summa Theologica, part hi, q 2, 
+
+A2, ANS 711d-712d 
+
+28 Harvey: On Animal Generation, 332a-333b 
+esp 333a-b 
+
+35 Locke: Human Understanding, bk hi, ch hi, 
+SECT 6-20 255c-260a; ch v-vi 263d-283a pas- 
+sim, esp CH V, sect 9 266a-b, ch vi, sect 32 
+277c-278b, sect 36-37 279a-b; bk iv, ch iv, 
+SECT 5-8 324d-325c; ch vi, sect 4 331d-332b; 
+
+CH VII, SECT 9 338d-339b 
+
+35 Berkeley: Human Knowledge, intro, sect 
+6-19 405d-410c esp sect 15-16 409a-d 
+
+38 Rousseau: Inequality, 341b-342b 
+
+42 Kant: Pure Reason, 211c-218d / Judgement^ 
+573a-c 
+
+46 Hegel: Philosophy of History, intro, ISBb-c; 
+PART iv, 360c-361a 
+
+53 James: Psychology, 308a-312a 
+
+3c. Form and definition: the formulable es- 
+sence; the problem of matter in relation 
+to definition 
+
+7 Plato: Phaedrus, 134b-c/ Meno, 174b-179b / 
+Seventh Letter, 809c-810b 
+
+FORM' 541 
+
+8 Aristotle: Posterior Analytics, bk ii, ch 3-10 
+123c-128d; ch 13 131b-133c / Physics, bk ii, 
+CH I [i93^30-'‘i9] 269c-270a / Generation and 
+Corruption, ■ssTS i,- ch 2 [3i7'‘i7-27] 413b / 
+Meteorology, bk iv, ch 12 493d-494d / Meta- 
+physics, BK I, ch 6 505b-506b; ch 7 [988“34- 
+’’5] 506c; bK II, ch 2 [994'’i6-27l 513a-b; 
+BK v, CH 2 [ioi3“27-28] 533b; bk vi, ch i 
+(io25’’28-io26’‘6] 547d-S48a; bk vii, ch 4-6 
+552b-555a; ch 10-15 558a-S64c; bk viii, 
+ch 1-3 566a-568d; ch 6 569d-570d; bk xii, 
+CH 9 [io74*’37-io75’‘2] 605c; bk xiti, ch 4-3 
+610a-611d / Soul, bk i, ch i 631a-632d; 
+BK II, ch 1-3 642a-645b passim; bk in, ch 
+4 [429’’io-23] 661d-662a; ch 6 [43o'’26-3i] 
+663b-c 
+
+9 Aristotle: Parts of Animals, bk i, ch i [641“ 
+
+’ 14-31] 163d-164a; ch 2-4 l6Sd-168c esp ch 3 
+
+166a-167d 
+
+19 Aquinas: Summa Theologica, part 1, q 3, a 3, 
+ANS 16a-d; a 5, ans 17c-18b; q 13, a 12, rep 
+2 74c-75b; q 17, a 3, ans 102d-103c; q i8, 
+A 4, REP 3 107d-I08c; q 29, a i, rep 4 162a- 
+163b; Q 50, A 4 273b-274b; q 75, a 4, ans 
+381b-382a; q 85, a 1, rep 2 451c-453c! part 
+i-ii, Q I, A 3, ans 611b-612a 
+
+20 Aquinas: Summa Theologica, part i-ii, q 55, 
+A 4, aMs and rep 1-2 28c-29d; part ii-ii, q 4, 
+A I, ANS 402a-403d; part hi, q 2, a 5 , ans 
+
+. 715a-716b 
+
+31 Spinoza: Ethics, part i, def 4 355b; prop 8, 
+schol 2, 3S7a-d; part ii, prop 37 386b-c 
+
+35 Locke: Human Understanding, bk n, ch xxm 
+204a-214b; ch xxxi, sect 6-13 240d-243b; ch 
+XXXII, SECT 24 247c-d; bk hi, ch iii, sect 12- 
+20 257b-260a; ch v-vi 263d-283a passim; CH 
+IX, SECT n-17 287d-290a; ch x, sect 17-21 
+295d-297b; ch xi, sect 19-20 304b-d; bk iv, 
+ch iv, sect 5-8 324d-325c; ch vi, sect 4-16 
+331d-336d passim 
+
+35 Berkeley: Human Knowledge, sect i 
+413a-b 
+
+38 Rousseau: Inequality, 342a 
+
+46 Hegel: Philosophy of History, intro, 176c; 
+184d-185a 
+
+4. The denial of form as a principle of being, 
+becoming, or knowledge 
+
+7 Plato: Cratylus, 113c-114a,c / Sophist, 567a- 
+S68a 
+
+8 Aristotle; Metaphysics, bk iv, ch 4 [1007*20- 
+''i8] 526c-527a; ch 5 528c-S30c passim; bk xi, 
+ch 6 590d-592b 
+
+23 I-IoBBEs; Leviathan, part i, 49d; part iv, 
+269b-271a 
+
+, 30 Bacon: Novum Organum, bk i, aph 51 111c; 
+BK II, APH 1-2 137a-c: APH 17 149b-d 
+
+35 Locke; Human Understanding, bk ii, ch viii, 
+SECT 2 133c; ch xxxi, sect 6-13 240d-243b 
+passim, esp sect 6 240d-241d; bk hi, ch vi, 
+sect IQ 271b; sect 24 274c; ch x, sect 20 
+296d-297a 
+
+36 Sterne: Tristram S/ionrfy, 422a-b
+
+
+CROSS-REFERENCES 
+
+For: Other discussions of the Forms or Ideas as immutable models or archetypes, see Change 15a; 
+Eternity 4c; Ioea la, 6b. 
+
+Other discussions of forms as indwelling causes or principles in mutable things, see Cause la; 
+Change 2a; Matter la; and for the consideration of form and matter as co-principles of 
+composite substances, see Being 7b(2). 
+
+Discussions of matter or the receptacle in relation to form, see Change a-ab; Matter i-ib; 
+
+Space la; World 4b; and for the consideration of matter apart from form, rcc Matter 2, 3a. 
+The controversy over the separate existence of the Forms, the objects of mathematics, and 
+universal, see Being 7d(2)-7d(3); Mathematics 2b; Same and Other 2a; Universal 
+AND Particular aa-ac; and for the problem of the cause of individuality, see Matter ic; 
+Universal and Particular 3. 
+
+The existence of forms in the mind as concepts abstracted from matter, see Idea 2g; Matter 
+4d; Memory and Imagination 6c(i); Sense 5a; Universal and Particular 4c. 
+Other considerations of the a priori or transcendental forms of intuition, see Sense ic; 
+Space 4a; Time 6c. 
+
+Comparisons of creation, generation, and production as each relates to form and matter, 
+see Art ab-ac; Matter 3d; World 40(1). 
+
+Other terms related to the distinction of form and matter or to the kinds of form, see Being 
+7b, 7c(i)-7c(3); Nature ia(2); Universal and Particular 6a. 
+
+The theological doctrine of the angels as self-subsistent forms or simple substances, see 
+Angel 2, 3b-3c; Being 7b(2); for the theological doctrine of the forms as eternal ex- 
+emplars or types in the mind of God, see God yf; Idea le; and for the theory of the soul 
+as the substantial form of a living thing, see Life and Death i; Man 3a; Soul ib. 
+Form and matter in relation to definition, see Being 8c; Definition 6a; Matter 4b; 
+Nature 13(2). >

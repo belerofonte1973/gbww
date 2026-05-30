@@ -1,0 +1,3629 @@
+CHAPTER: Mechanics
+
+INTRODUCTION
+
+INTRODUCTION' 
+
+M echanics, taken as the name for just 
+one of the physical sciences, would 
+merit no place on a small list of basic, focal 
+terms. But the word “mechanics” means more 
+than that. In the tradition of western thought 
+it signifies a whole philosophy of nature, and it 
+connotes a set of fundamental principles under 
+which, it has been thought, all the physical 
+sciences can be unified. 
+
+The principles of mechanics have been ap- 
+plied not only in statics and dynamics, which 
+arc concerned with the action and reaction of 
+bodies at rest or in motion, but also in acoustics 
+and optics and the sciences of heat, magnetism, 
+and electricity. They have been extended to 
+astronomical phenomena to constitute what is 
+called “celestial mechanics.” They have been 
+thought to govern the action or motion of in- 
+visible particles or waves as well as the familiar 
+bodies of ordinary experience. In the range and 
+variety of the phenomena it covers, mechanics 
+would seem to be co-cxtenslve with physics. 
+Such at least appears to be its scope at one stage 
+in the development of natural science. 
+
+We shall presently consider the dissatisfac- 
+tion with the mechanical point of view which 
+causes scientists in our own day to hail the 
+replacement of “classical mechanics” by the 
+“new physics” as a great advance in science. 
+Tlie intellectual significance of this change can 
+be compared with that earlier revolution in the 
+17th century when the new natural science 
+founded on the achievements of Galileo, Huy- 
+gens, and Newton replaced the physics of Aris- 
+totle which had long reigned as the traditional 
+philosophy of nature. What Einstein calls “the 
+rise and decline of the mechanical point of 
+view” thus seems to provide an apt title for the 
+stor)' of three stages in the history of science, in 
+only one of which does the whole of physics 
+appear to be dominated by mechanics. 
+
+One way, then, of understanding the impor 
+tance of mechanics is~in terms of that stoiy 
+Other chapters, such as Astronoxh’, Change 
+Element, Matter, Physics, Space, and Tnn 
+— and perhaps also Cause and Hypothesis- 
+tell part of that story, especially the part whid 
+turns on the differences between Aristotle' 
+physics (which is neither experimental noi 
+mathematical) and modern physics (which i 
+both). This chapter focuses on issues which fa!! 
+largely within modern physics— issues belong' 
+ing to that part of the story which, in the greal 
+books, begins with Galileo, Huygens, and New 
+ton and runs to Fourier and Faraday. The stot) 
+itself does not end there, but the point towhicli 
+Faraday carries it suggests the sequel in Clerli 
+Maxwell and Einstein, just as Galileo’s point ol 
+departure reflects antecedents in Aristotle. The 
+great books state the issues sufficiently well, 
+though they do not tell the whole story. That 
+can be fully documented only by a host of sup- 
+plementary scientific classics in various fields, 
+such as the works listed in the Additional 
+Readings. 
+
+In modern times it is accepted that physics 
+should be both experimental and mathematial. 
+No one questions the ideal of unifying the 
+physical sciences and finding the unity in na- 
+ture’s laws. But the question is whether that 
+unification can be achieved under the aegis of 
+mechanics; and the issue is whether physics 
+should gather its e.xperimental findings to- 
+gether under purely mathematical formula- 
+tions or should also try to give those mathe- 
+matical formulae a mechanical interpretation. 
+
+The issue involves more than a question of 
+scientific method. It concerns the ultimate aim 
+of natural science and the kind of concepts it 
+should employ to fulfill this aim. Should the 
+scientist seek to do no more than describe the 
+
+Chapter 5 , 4 : MECHANICS 81 
+
+phenomena. of nature'in terms of the simplest 
+and most universal mathematical relations? 
+Or should he go beyond .description, to an ex- 
+planation of the . phenomena in terms of their 
+causes? (’•. ■ •, i. -..i!; 
+
+When the issue is thus, stated as a choice be- 
+tween. being content with’ description or striv- 
+ing for explanation,; it appears to be broader 
+than the. question .whether physics should or 
+should, not 'be mechanical; Even granted that 
+explanation. is desirable, does it necessarily fol- 
+low'that physical explanation must employ the 
+principles 'and concepts of. mechanics? Aris- 
+totle’s physics, it can be argued, provides a 
+negative answer. His various, physical treatises 
+represent a 'natural science which tries to ex- 
+plain the phenomena, without ' doing so me- 
+chanically, ijust. as it tries, to describe the phe- 
+nomena without'doing so mathematically." 
+
+That the connection'of these two features of 
+Aristotle’s physics is, not accidental seems to be 
+indicated' by ;the conjunction of their opposites 
+in modern! physics. 'When in the 17th century 
+the physicist describes natural phenomena in 
+mathematical terms; he explains them — if he 
+tries to explain them,' at .all — in mechanical 
+terms. “The laws of Mechanics,” writes Des- 
+cartes, “are the. laws of Nature;” Huygens 
+opens his Treatise on. Light by referring to op- 
+tics as the kind ofscience “in which Geometry 
+is applied to matter”; but he at once. expresses 
+the desire to advance this branch of mathe- 
+matical physics by investigating “the origin 
+and the causes”- of the truths already known, in 
+order fo provide “better and. more satisfectory 
+explanations;’^ Such explanations, he thinks, 
+will be found only, if we. conceive “the causes 
+of all natural ■ effects in terms of mechanical 
+motions.” He- declares it his opinion that “we 
+must necessarily do, this, i or else renounce all 
+hopes of ever , comprehending anything in 
+Physics.” 
+
+! Galileo and Newton,- as will be noted, do not 
+unqualifiedly share Huygens’ view that ft is 
+proper 'for the -■ mathematical physicist to in- 
+quire about -causes.. JBut' they, would- .agree that 
+if any explanation i^ to,-be:giyen for laws of.na- 
+ture expressed ini mathematical form, one or 
+another type of mechanical hypothesis would 
+be required 'to state :the caused 'Postponing for 
+the moment the consideration of whether .the 
+
+investigation of causes belongs to mathematical 
+physics, let us examine what is involved in giv- 
+ing a mechanical explanation -of anything: and 
+why, this type of explanation tends to occur in 
+the causal interpretation:: of mathernatically 
+formulated laws of nature. ,- 
+
+-Two .points seem to constitute -the essence. of 
+mechanical theory.' Both are fundamental no- 
+tions 'and- both are philosophical, in the sense 
+•that they do not seem -to result from the find- 
+ings of experimental research. The first point is 
+an exclusive emphasis upon efficient causes, 
+which means the . exclusion of other types of 
+causes, especially ;final and formal .causes, from 
+mechanical explanation. As the chapter on 
+Cause indicates,, efficient causality consists in 
+one thing acting on another. But.'not every sort 
+of action by which one thing affects another is 
+mechanical. According to the, doctrine, an ef- 
+ficient cause is mechanical only if it consists in 
+'a moving body acting on another by impact, or 
+if it consists in a force exerted by one body to 
+cause motion in another or to change its quan- 
+tity or direction. The notion of a force which 
+does not work through the impact of one mov- 
+ing thing, upon another raises the problem of 
+action-at-a-distance to which we shall return 
+subsequently. 
+
+.The second fundamental point is an exclu- 
+sive, emphasis upon quantities. Mechanical ex- 
+.planation makes no references to qualities or 
+other attributes of things. Paradoxically, this 
+point is sometimes expressed in -terms of a dis- 
+tinction between primary apd secondary qual- 
+ities'^ but? as the chapters on Quantity and 
+Quality point out, the primary qualities are 
+all quantities.- According to -Locke, they are 
+“solidity, extension, figure, motion or, rest, and 
+number”: according to Newton, “the universal 
+qualities of all bodies whatsoever” are “exten- 
+sion, hardness, impenetrability, mobility, and 
+inertia.” Others, i -like Galileo and Descartes, 
+•give still different enumerations, but the point 
+remains that the only attributes of bodies which 
+.have.imechanical significance are measurable 
+quantities.' Such secondary qualities, for exam- 
+ple, as colors and tones belong to the physical 
+-world, (as it, is mechanically conceived) only by 
+Iteduction to the local motion of particles or 
+Iwaves -.-having certain velocities, lengths, or 
+.other, quantitative attributes; 
+
+We need not be concerned here with what 
+sort of reality is assigned to secondary' qualities, 
+or how their presence in experience is ac- 
+counted for. These problems are discussed in 
+other chapters, such as Quauti' and Sekse. 
+However they are solved, the philosophy of 
+mechanism excludes from the physical world 
+whatever docs not consist in, or cannot be re- 
+duced to, quantities of matter (or mass), mo- 
+tion, or force, and such related quantities as 
+those of time and space (or distance). 
+
+The two points of mechanical theory are ob- 
+viously connected, for the kind of cause which 
+mechanical explanation employs to the exclu- 
+sion of all others consists in a quantity of mo- 
+tion or of force. Just as obviously, mechanical 
+explanation, dealing only in quantities and in 
+causes which are quantitatively measurable, is 
+precisely the type of explanation which would 
+seem to be appropriate if one felt called upon 
+to give an interpretation of the mathematical 
+relationships which the mathematical physicist 
+formulates as laws of nature. These mathemat- 
+ical laws are after all statements of the relations 
+among physical quantities which have been 
+subjected to experimental determination or 
+measurement. 
+
+As A PHILOSOPHICAL theoty the mechanical 
+view of nature antedates modern physical sci- 
+ence. The atomistic conception of the world, 
+which Lucretius expounds, contains both of the 
+fundamental points of mechanism— the doc- 
+trine of primary and secondary qualities and 
+tile doctrine that all effects in nature are pro- 
+duced by efficient moving causes. 
+
+The controversy over mechanism is also an- 
+cient. Aristotle denies both points of doctrine 
+in his criticism of the Greek atomists, Democri- 
+tus and Leucippus; and in the exposition of his 
+own physical theories he states an opposite 
+view. To qualities and qualitative change he 
+assigns physical reality. He explains change in 
+terms of four types of causes, not one. He does 
+not exclude the mcchanic.al type of cause in 
+his explanation of local motion. On the con- 
+traiy, with respect to local motion his theory 
+that a body in motion must be directly acted 
+upon by a moving cause throughout the period 
+of its motion, seems to be more mechanical 
+th.in the modern theory that no cause need be 
+
+assigned for the continuing uniform motion of 
+a body along a straight line but only fora 
+change in its direction or velocity. 
+
+What is new in modern times is not the phih 
+osophical doctrine of mechanism, but the in- 
+troduction of mechanical explanation into ex- 
+perimental and mathematical physics, and the 
+controversy about whether it belongs thereof 
+can be defended as useful. The so-called rise 
+and decline of the mechanical view in modern 
+physics is connected with experimental discov- 
+eries and mathematical formulations. Itisnotan 
+alternation between success and failure on the 
+level of philosophical argument concerning 
+the ultimate truth of mechanical conceptions. 
+When these conceptions are rejected, ‘it is not 
+for the sake pf returning to opposite notions in 
+physical theory, such as those of Aristotle, but 
+rather because, as Einstein says, “science did 
+not succeed in carrying out the mechanical 
+program convincingly, and today no physicist 
+believes in the possibility of its fulfillment.” 
+
+There is a touch of prophecy in the conversa- 
+tion Swift imagines taking place between Aris- 
+totle and the physicists of the 17th century, 
+According to Swift, when Aristotle was con- 
+fronted with Descartes and Gassendi, he “freely 
+acknowledged his own mistakes in natural phi- 
+losophy, because he proceeded in many thing; 
+upon conjecture, as all men must do; and In 
+found that Gassendi, who had made the doc- 
+trine of Epicurus as palatable as he could, and 
+the vortices of Descartes, were equally exploded 
+He predicted the same fate to attraction, where- 
+of the present learned are such zealous as- 
+sorters. He said that new systems of nature 
+were but new fashions, which would vary in 
+every age; and even those who pretend to dem- 
+onstrate them from mathematical principles, 
+would flourish but a, short period of time, and 
+be out of vogue when that was determined.” 
+
+Both Galileo and Descartes re-state the phil- 
+osophical doctrine which first appears' in an- 
+cient atomism, but both re-state it in a way 
+that suggests its utility for an e.xpcfimcntal 
+investigation of nature. It is significant that 
+Galileo’s statement occurs in the context of his 
+concern -ivith the nature and causes of heat. He 
+wishes to explain, he writes in 'll Saggiatore, 
+why he thinks that “motion is the cause of 
+
+Chapter 54; MECHANICS 83 
+
+heat.” To do this he finds it'necessary to ques- 
+tion a prevalent notion “which is very remote 
+from the truth” — the belief that “there is a 
+true' accident, affection, or quality, really in- 
+herent in the substance by which we feel our- 
+selves heated.” He denies the physical reality 
+of heat as an inherent quality of bodies on the 
+same ground that he dtnies the physical reality 
+of other qualities'. “I do 'not believe,” he de- 
+clares, “that there exists anything in external 
+bodies for exciting tastes, smells, and sounds, 
+but size, shape, quantity, and motion, swift or 
+slow; 'and if ears, tongues, and noses were re- 
+moved, I am of the opinion' that shape, quan- 
+tity, and motion would remain, but there 
+would be an end of smells, tastes, and sounds, 
+which, apart from the living creature, I regard 
+as mere words.” 
+
+Descartes’ statement of the doctrine is bold- 
+er, perhaps, in its suggestion of a mechanical 
+program for physical research. “Colors, odors, 
+savors, and the rest of such things,” he writes, 
+are “merely sensations existing in my thought.” 
+They differ from the real properties of bodies 
+just as much as “pain differs from the shape and 
+motion of the instrument which inflicts it.” 
+The true physical properties, such as “gravity, 
+hardness, the power of heating, of attracting 
+and purging” consist, in Descartes’ opinion, 
+“solely in motion or its absence, and in the con- 
+figuration and situation of [bodily] parts.” 
+
+As a philosophical doctrine, the mechanical 
+view is not necessarily tied to atomism. Des- 
+cartes opposes' atomism as plainly as does Aris- 
+totle. Furthermore, Newton, who is ari atomist, 
+disagrees with both Descartes and the Greek 
+atomists on one fundamental point in mechan- 
+ical theory. The ancient atomists make the ac- 
+tual motion of one particle in collision with 
+another the indispensable cause of a change of 
+motion in the latter. Descartes likewise requires 
+one motion to be the cause of another and ex- 
+plainsgravity in terms of actual bodily motions. 
+Newton rejects Descartes’ mechanical hypoth- 
+esis of material vortices as the cause of gravita- 
+tion. He seems to have this in mind, and to put 
+Descartes in the same class with Aristotle, when 
+he says that “hypotheses, whether metaphysi- 
+cal or physical, whether of occult qualities or 
+mechanical, have no place in experimental 
+philosophy.” 
+
+The force of gravity, according to Newton, is 
+a power of attraction which one body exercises 
+on another without the first being in motion or 
+coming into contact with the second. Newton 
+acknowledges the problem of.action-at-a-dis- 
+tance w'hich his theory raises. For the most part 
+he lets it stand as a problem which does not af- 
+fect the mathematical results of his work. But 
+in the Queries he attaches to his Optics he sug- 
+gests, by way of solution, the hypothesis of an 
+ether as the continuous medium through which 
+gravitational force is exerted. In the opinion of 
+later physicists, Newton’s hypothesis is no less 
+mechanical than Descartes’. Nor does there 
+seem to be any philosophical grounds for pre- 
+ferring one hypothesis to the other. 
+
+But Newton’s quarrel with Descartes is not 
+on a philosophical issue. It turns on which me- 
+chanical conception, if any at all is to be of- 
+fered, fits best with the mathematical laws of 
+terrestrial and celestial motion which Newton 
+had succeeded in formulating as universal laws 
+of nature. Those mathematical laws, moreover, 
+had the merit of fitting the observed phenom- 
+ena and so, of realizing the scientific ideal of 
+accurate description stated in the most gen- 
+eralized form. Newton’s triumph over Des- 
+cartes, then, is a triumph in mathematical and 
+experimental physics, not a triumph in philos- 
+ophy. 
+
+Pope’s couplet 
+
+Nature and Nature’s Laws lay hid in Night, 
+
+God said, Let Newton be, and ail was light 
+
+records that triumph, and celebrates the illu- 
+mination of nature by the mechanical as well 
+as the mathematical principles of Newton’s 
+ph)'sics. Newton’s picture of the world domi- 
+nates the mind of a century and controls its 
+science. Locke speaks of “the incomparable 
+Mr. Newton” and of “his never enough to be 
+admired book”; Hume refers to him as the 
+philosopher who, “from the happiest reasoning 
+. . . determined the laws and forces, by which 
+the revolutions of the planets are governed and 
+directed”; and even Berkeley, who challenges 
+his theories of space, time, and attraction, re- 
+grets that he must take issue with “the author- 
+ity of so great a man,” a man “whom all the 
+world admires” as the author of “a treatise on 
+Mechanics, demonstrated and applied to 
+nature.” 
+
+84 THE GREAT IDEAS 
+
+Neh^ton’s achievement is to have accom- 
+plished an extraordinar)' synthesis of all that 
+was good in previous scientific work, and a 
+sweeping criticism of all that was considered 
+stultifying. That so many and such varied 
+phenomena should be organized mathemati- 
+cally by a theor)’ as simple as Newton's, is alto- 
+gether impressive. Equally astonishing is the 
+predictive power of Newton’s laws and the e.\- 
+planaiory power of his mechanics, not to men- 
+tion the teclinological fruits of die latter in 
+mechanical engineering and the invention of 
+machinerj' of all sorts. Whatever diflicultics arc 
+implicit in the Newtonian mechanics — sub- 
+sequently to become, with new discoveries, 
+more and more perplexing — the scope and 
+grandeur of Newton’s book gives mechanics a 
+commanding position with respect to the fu- 
+ture of science for at least two centuries. 
+
+In the century between the publication of 
+Newton’s Mathematical Prinaples and the pub- 
+lication in 1787 of Lagrange’s Mecamqtte analy 
+iique, “the notion of the mechanical explanation 
+of all the processes of nature,” writes White- 
+head, “finally hardened into a dogma of science.” 
+In tlic next century, the meclianical dogma 
+spreads from physics and chemistry through- 
+out the whole domain of natural science — into 
+biology and psychology— and even beyond 
+that, into economics and sociology. Books bear 
+such titles as The Mechanistic Conception of 
+Life, The Mechanism of Hitman Behavior, So- 
+cial Statics, Social Dynamics. At the end of the 
+iptli century, James notes the conquests which 
+arc being made on all sides by the mechanical 
+idea. “Once tlie possibility of some kind of 
+mechanical interpretation is established,” he 
+writes, “Mechanical Science, in her present 
+mood, will not hesitate to set her' brand of 
+ownership upon the matter.” 
+
+James himself testifies to the persuasiveness 
+and suceess of the mechanical dogma, though 
+not without some resentment. “The modern 
+mechanico-physical philosophy, of which we 
+arc so proud,” he says, “because it includes the 
+nebular cosmogony, the conservation of ener- 
+gy, the Idnetic theory of heat and gases, etc-, 
+etc., begins by saying that llic only facts arc col- 
+locations and motions of primordial solids, and 
+the only laws the changes in motion which 
+changes in collocation bring. The ideal whicli 
+
+this philosophy strives after,” he continues, 
+“is a mathematical world-formula, by .which, 
+if all the collocations and motions at a given 
+moment were known, it would be possible to 
+reckon those of any wished-for future moment, 
+by simply considering the necessary geometri- 
+cal, arithmetical, and logical implications.” 
+
+Laplace had in fact pictured a lightning cal- 
+culator who, given the total configuration of 
+the world at one instant, would be able to.bring 
+the whole future “present to his eyes.” And 
+James quotes Helmholtz to the effect that the 
+whole problem of physical science" iSi“to refer 
+natural phenomena back to unchangeable at- 
+tractive and repulsive forces whose intensity 
+depends wholly upon distance. The solubility 
+of this problem is the .condition of the com- 
+plete comprehensibility of nature.’,’ 1 
+
+In- commenting on this, James "admits that 
+“the world grows more orderly, and rational 
+to the mind, which passes from' one feature of 
+it to another by deductive necessity, as soon as 
+it conceives it as made up of so few and so sim- 
+ple phenomena as bodies with, no properties 
+but number and movement to and. fro.” But 
+he also insists that it is “a world with a very 
+minimum of rational stuff. The sentimental 
+facts and relations,” he complains, “arc butch- 
+ered at a blow. But the rationality yielded is so 
+superbly complete in form that to many minds 
+this atones for the loss, and reconciles the think- 
+er to the notion of a purposeless universe, in 
+which all the things and qualities men love . . . 
+are but illusions of our fancy attached to acci- 
+dental clouds of dust which will be dissipated 
+by the eternal cosmic weather as careless as tlicy 
+were formed.” - • 
+
+r 
+
+With the 2oth century a change occurs. Tlic 
+dogma of mechanism may continue to spread 
+in other sciences and gain even wider accept- 
+ance as a popular philosophical creed, but 
+within the domain of the physical sciences, cer- 
+tain mechanical conceptions become suspect 
+and a wholesale rejection of classical mechanics 
+(which becomes identified witli Newtonian 
+physics) is called for. 
+
+Einstein, for example, quotes the passage 
+from Helmholtz tliat James had cited, in which 
+Helmholtz goes on to say that the vocation of 
+physics “will be ended as soon as the reduction 
+
+CpfAPTEH 54 :■ MECHANICS 
+
+of natural phenomena to simple forces is 'corn- 
+plete;’’, .This ‘‘mechanical view,-, most clearly 
+formulated by. Helmholtz,’’ Einstein concedes, 
+“played an important role in its time’’; butj he 
+adds, it “appears. dull andinaive'to a twentieth 
+century physicist.” ■ . . ! .. . . -r 
+
+Eihsteih' reviews' - the':iassumptions which 
+physicists had to make in order to construct a 
+mechanical' theory of light, gravitation; and 
+electricity.’’ “The artificial character of all these 
+assumptions,” he says, ‘‘and. the necessity for 
+introducing so many of them all quite inde- 
+pendent of each other, was enough to shatter 
+the belief in the mechanical point of view. . . . 
+In the attempt to understand the phenomena 
+of nature from the mechanical point. of view,” 
+he continues, ^“throughout the whole develop- 
+ment of science up to the twentieth century, 
+it was necessary to introduce artificial 'sub- 
+stances like' electric and magnetic fluids, light 
+corpuscles;, or ether.” According to Einstein, 
+“attempts to construct an ether in some simple 
+way’-’ have been “fruitless”; but what is more 
+important in his opinion, such fadures “indi- 
+cate that the fault lies in the fundamental as- 
+sumption that it 'is possible to explain all events 
+in nature from.a mechanical point of view.” 
+
+Does this mean that the contemporary physi- 
+cist has found 'another ’and better way of ex- 
+plaining nature ? Is there a non-mechanical way 
+of explaining the ■ phenomena, which fits' the 
+mathematical laws of experimental physics; or 
+does I discarding mechanics ’mean relinquishing 
+all efforts to explain nature ? ' 
+
+Eddington suggests, an answer. “One of the 
+greatest' changes in physics between the nine- 
+teenth century and the present day;” he'writes, 
+“has been the change in our ideal of scientific 
+explanation.’ It 'was the boast of the Victorian’ 
+scientist that he would not claim' to understand 
+a thing until he could make a model of it; arid 
+by a model he meant something constructed of 
+levers, geared wheels, squirts, and other appli- 
+ances familiar to the engineer. Nature in build- 
+ing the' universe was supposed to be dependent 
+on just the'same kind of resources as any human 
+niechanicl';'. . The man who 'riould make gravi-' 
+tation out of cogwheels' would hkve been a hero 
+in- the Victorian age. ’’'Today, h'oweve'n'Ed-' 
+dington continues, ‘‘we' do not encourage'the- 
+engineer to build' the world for us' out ofiiis' 
+
+material, but we turn to the mathematician' to 
+build it out of his materiak”. ' '' ' 
+
+■-We-may turn to the' mathematician’s con- 
+struction of the world 'in'his terms; but'in-the 
+tradition 'of western thought, mathematically 
+formulated daws of--'riatuf6'a're not, with -the 
+single exception' perhapS’of the Pythagoreans; 
+regarded' as exp'lanations'of why thingS-b'ehiive 
+as'tney'do or how they Work. The change from 
+the-ipth -to the idth century -with re.spect'to 
+“our ideal- of scientific -e'xplariation” cannot, 
+then, be -the substitution of the' mathematical 
+for 'the mechanical account of why and howl 
+The shift from mechanics to mathematics' is 
+rather a shift from explanation as the scientific 
+ideal to the statement of laws which, while hav-'- 
+ing maximum' generality, remain purely 'de- 
+scriptive. What Eddington means by building 
+the world out of the material of mathematics 
+seems to 'be the same as what Galileo means, 
+fout centuries earlier, when he says that thri 
+book of nature “is written ih'fnathema'tical 
+language.” The materials' are such symbols 
+as “triangles, circles, and other geometrical 
+figures.” Without the help of these, Galileo 
+writes to Kepler, nature “is impossible to com- 
+prehend.” 
+
+But does the mathematical comprehension of 
+nature mean a causal explanation of it? More 
+explicitly than Eddington, Galileo insists that 
+explanatibn-^at least in the sense of stating the 
+causes — is not the business of'the mathematical' 
+physicist. In-a' passage which carinot be read too 
+often or examined toO closely, he names three 
+opinions which the philosophers have expressed 
+about “the cause of the' acceleration of natural 
+motion.” Some, he says, “explain it by attrac- 
+tion to the center, others to repulsion between 
+the very small parts of the body, while still 
+others attribute if to a certain stress in the sur- 
+rounding medium 'which closes iri behind the 
+falling body and drives it from one of its posi- 
+tioris to another. Now all of these fantasies,” 
+he continues', “arid others too,' ought to be ex- 
+amined,’ but it is riot really worthwhile.” 
+
+They ought to be examined by philosdpliefs;' 
+perhaps, biit debating them is not worthwhile 
+id' ‘'those sciences' where mathematical demon- 
+stfatioris are applied 'to natural _ phenomena; ’’ 
+Perfectly defining the'prografn of mathematical 
+physics.'^Galile'o' sets himself a limited task: 
+
+S6 THE GREAT IDEAS 
+
+"merely to investigate and to demonstrate 
+some of the properties of accelerated motion 
+(whatever the cause of this acceleration may 
+be).” It should be noted that of the three opin- 
+ions about causes which Galileo mentions, the 
+first, which anticipates Newtonian attraction, 
+is no less summarily dismissed than the third, 
+which summarizes the Aristotelian theory. 
+
+“What I call Attraction,” Newton later 
+writes, “may be performed by impulse or by 
+some other means unknown to me. I use that 
+word here to signify only in general any force 
+by which bodies tend towards one another, 
+whatsoever be the cause.” It is well known, he 
+asserts in the same passage of the Optics, “that 
+bodies act one upon another by the attractions 
+of gravity, magnetism, and electricity”; but, 
+he goes on, “how these attractions may be per- 
+formed I do not here consider.” 
+
+Newton’s attitude toward causes and c.\pla- 
+nation would seem to be identical with Gal- 
+ileo’s. Galileo calls opinions about causes “fan- 
+tasies” and dismisses them; Newton calls them 
+“hypotheses” and seems to banish them as 
+resolutely. “Hypotheses arc not to be regarded 
+in experimental philosophy,” he declares in one 
+place; and in another, having just referred to 
+predecessors who feigned hypotheses “for ex- 
+plaining ail things mechanically,” he says that, 
+on the contrary, “the main business of natural 
+philosophy is to argue from phenomena with- 
+out feigning hypotheses.” 
+
+The task of the physicist who is both experi- 
+mental and mathematical in his method, New- 
+ton plainly states, is “to derive two or three 
+general principles of motion from phenomena, 
+and aftertvards to tell us how the properties 
+and actions of all corporeal things follow from 
+those manifest principles. [This] would be a 
+very great step in philosophy, tJiough the 
+causes of those principles were not yet dis- 
+covered. And therefore,” he sa 3 's of his own 
+work, “I scruple not to propose the principles 
+of motion above mentioned, they being of very 
+general extent, and leave their causes to be 
+found out.” 
+
+The two or three principles of motion men- 
+tioned in this passage from the Optics arc the 
+foundation of Newton’s other great work, the 
+Mathematical Principles of Natural Philosophy. 
+Its title indicates the clearly conceived inten- 
+
+tion of its author to limit himself to the pro- 
+gram of mathematical physics on which both he 
+and Galileo seem to agree. He will not try' to 
+define “the species or physical qualities of 
+forces”; he will only investigate “the quantities 
+and mathematical proportions of them.” In 
+the General Scholium with which the Mathe- 
+matical Principles concludes, Newton disavows 
+once more any knowledge of the cause of gniv- 
+itj'. “To us it is enough,” he says, “that gravity 
+docs really' e.xist, and acts according to the 
+laws which we have explained, and abundantly 
+serves to account for all the motions of the 
+celestial bodies, and of our sea.” Admitting that 
+he has “not been able to discover the causes . . . 
+of gravity from phenomena,” Newton flatly 
+reiterates his policy: “I frame no hypotheses.” 
+
+In view of this policy, how docs the name of 
+Newton come to be associated with the tri- 
+umph of the mechanical point of view in phys- 
+ics.'’ Why do contemporary scientists like Ein- 
+stein identify Newtonian physics with classical 
+mechanics.? If a mathematical phy'sicist, like 
+Newton or Galileo, refrains from guessing at or 
+asserting causes, how can he be charged with 
+having indulged in the impurity of a mechani- 
+cal e.xplanation of the phenomena, and .with 
+having foisted a mechanical conception of the 
+universe upon manldnd? 
+
+The answer to these questions, so far as New- 
+ton is concerned, may be partly found in his 
+own writings. He did not, it seems, entirely 
+disavow an inquiry into the cause of attractive 
+force, as in itself cither misguided or irrclcv.mt 
+to science. “We must learn from the phenom- 
+ena of nature,” he tells us, “what bodies attract 
+one another, and wiiat arc the laws and proper- 
+ties of the attraction, before we enquire the 
+cause by which the attraction is performed.” 
+This statement postpones, but does not c.x- 
+cludc, an Inquiry into causes. In another state- 
+ment, Newton even gives us a reason for the 
+postponement, “In mathematics,” he says, “sve 
+are to investigate the quantities of force with 
+their proportions consequent upon any condi- 
+tions supposed; then, when we enter upon 
+physics, we compare those proportions witli 
+the phenomena of nature, that we may know 
+the several kinds of attractive bodies. And thb 
+preparation being made, we argue more safeiy 
+
+8S ' THE GEIEAT IDEAS 
+
+carried with it a doctrine of natural motions to 
+different natural places, drawn from the ob- 
+scr%-ation of hre rising, stones dropping, air 
+bubbling up through water. Such a doctrine 
+would prevent the search for laws of motion 
+applicable to all bodies; and the general char- 
+acter of Aristotle's physics, treating qualities 
+as well as quantities, seems to have discouraged 
+the application of mathematics even to the 
+study of local motions. 
+
+The mathematical expression of the laws of 
+motion is Galileo’s objective. His interest in 
+the new astronomj' which affirmed the motion 
+of the earth led liim, he told Hobbes, to the 
+careful study of movements on the earth. His 
+aim is simply to describe with precision the mo- 
+tions to be found in a child’s play — ^stones 
+dropped and stones thrown, the one thenatural 
+motion of free fall, the other the violent motion 
+of a projectile. It is clear to observation tliat the 
+motion of a freely falling body is accelerated. 
+But though, as a mathematical physicist, Gal- 
+ileo refrains from asking why this is so, he is not 
+satished to know simply that it is so. He wants 
+to know the properties of such acceleration. 
+What is the relation of the rate of increase in 
+velocity to the durations and distances of the 
+fall ? How much increase in velocity is acquired 
+and how fast? What is the body’s velocity at 
+any given point in the fall? Similarly, when 
+Galileo turns to projectiles, he wants to know, 
+not merely that their trajcctor}' is consistently 
+curvilinear, but precisely what curve the path 
+of die projectile describes. 
+
+Galileo succeeds in answering all these ques- 
+tions without being perturbed by any of the 
+philosopliical perplexities connected with space 
+and time; nor docs he allow questions about die 
+forces involved in these motions to distract him 
+from his purpose to “demonstrate everything 
+by mathematical methods.” With mathemati- 
+cal demonstration he combines observation and 
+experiment and uses the latter to determine 
+which mathematical conclusions can be ap- 
+plied to nature — which principles can be em- 
+pirically verified as well as mathemarically de- 
+duced. 
+
+O.N't or Galileo’s principles, however, seems 
+to'outrun ordinary e.xpcricnce and to defy ex- 
+perimental verification. In the interpretation 
+
+of his e.xpcriments on inclined planes, Galileo 
+expresses an insight which Newton later formu- 
+lates as the Erst law of motion, sometimes called 
+die “law of inertia.” It declares that “cvety 
+body continues in its state of rest, or of uniform 
+motion in a right line, unless it is compelled to 
+change that state by forces impressed upon it.” 
+Though Newton describes his method as one of 
+“making experiments and observ'ations, and in 
+drawing general conclusions from them by in- 
+duction,” the law of inertia seems to be an e.x- 
+ception; for it is difficult to say, as Hume does, 
+that “we find by e.xperience that a body at rest 
+or in motion continues forever in its present 
+state”— that is, unless it is acted on by some 
+new force. 
+
+The condition introduced by “unless” raises 
+Poincare’s question: “Have there ever been ex- 
+periments on bodies acted on by no forces?” 
+If not, and if they are impossible, then James 
+may be right in saying that “the clemcntar}’ 
+laws of mechanics” are “never matters of ex- 
+perience at alh but have to be disengaged from 
+under experience by a process of elimination, 
+that is, by ignoring conditions which are always 
+present.” Because “the idealized experiment 
+[which it calls for] can never be performed,” 
+the law of inertia, according to Einstein, can 
+be derived “only by speculative thinking con- 
+sistent with observation.” 
+
+In any case, the first law of motion initiates a 
+new departure in physics. So far as local motion 
+is concerned, Aristotle and his followers look for 
+the cause which keeps a moving body in motion 
+or a stationary body at rest. According to Gal- 
+ileo and Newton, uniform motion. continues 
+naturally w'ithout cause. Only a change in the 
+velocity or direction of that motion requires a 
+cause, such as a force impressed upon it. 
+
+How radical this innovation is may be judged 
+from its consequences in celestial mechanics, 
+which in turn lead to a completely unified 
+dynamics for both celestial and terrestrial mo- 
+tions. These advances arc the work of Newton’s 
+mathematical genius, but the ground for them 
+had been laid by the investigations of Galileo. 
+Galileo had resolved the curvilinear motion of 
+a projectile into the imparted rectilinear mo- 
+tion and the deflecting pull of gravity. This 
+composition of forces — sometimes called the 
+“parallelogram law” — explains why the path of 
+
+Chapter:54: MECHANICS 
+
+the projectile is a' parabola. The path. of the 
+planets in their orbits, Kepler had previously 
+shown, is ^another xonical curve— an f. ellipse. 
+But Kepler, lacking the first law of motion, 
+could theorize physically about the cause of the 
+planetary orbits only by looking for a force, 
+projected outward from the sun,-.which'Would 
+sweep around to keep the pknets moving in 
+their paths. On the other hand,' a follower of 
+Galileo, , as \^Ttitehead points out, would seek 
+“for normal forces to deflect the direction of 
+motion along the curved orbit.” He would look 
+for a force pulling the planet off its own rec- 
+tilinear course inward toward the sun. 
+
+That is precisely what Newton did. When 
+the problem, which others' had been, able to 
+formulate,; was put' to Newton, he simply went 
+to his study for the.solution. He Had solved that 
+problena some years before. He had found the 
+law, of the force which, attracting the .planets 
+to the sun, would produce their elliptical paths 
+and the other proportionalities stated in-Kep- 
+ler’s purely descriptive laws. 
+
+With that single discovery; Galileo’s terres- 
+trial dynamics becomes a celestial one, too; and 
+the traditional separation of the heavens from 
+the earth is overcome. Newton goes even fur- 
+ther. He guesses, and then shows by arithmetic, 
+that the force deflecting the planets around the 
+sun and .the moon around the earth, is the same 
+force which makes apples fall and stones heavy 
+in the hand. He generalizes this insight in his 
+famous inverse-square law: “Every particle of 
+matter attracts every other particle 'of matter 
+with a force, proportional to the mass of each 
+and to the inverse square of the distance be- 
+tween them.” .1 
+
+Accordingly; the world can be pictured as 
+one in which material particles each have posi- 
+tion in absolute space and a determinate veloc- 
+ity. The 'velocity of each particle causes the 
+change of. its' position, and changes in velocity 
+are caused by forces, the amounts of which 
+are determined. by positions. From his laws.of 
+motion and this simple law of force Newton is 
+able, by. mathematical deduction, to account 
+for the perturbations of the rnoon, the. oblate- 
+ncss of the earth, the precession of the equi- 
+no.ves,; the solar and lunar ddts, and, the paths 
+of the comets.'.., rr - ; . , ' ■ .'f 
+
+But is Newton’s law of force as simple as it 
+
+appears to be at first? Itk mathematical mean- 
+ing is , plain enough, and its application . to 
+measured phenomena reveals its'' descriptive 
+scope. When we ask, how’ever, about its physi- 
+cal significance, we raise difficult questions con- 
+cerning tlie nature of this attractive force.and 
+how it operates; To call it the “force of gravity”, 
+and to point out that; this. is aTamiliar force 
+which 'everyone experiences iri his owii person 
+hardly answers the question. . ... , ' • . . 
+
+Gauleo wouLn not have tried to answer It. 
+In his Dialogues Concerning the Two Great Sys- 
+tems of the World, one of the characters, Sim- 
+plicio, refers to that manifest cause which 
+“everyone knows: is gravity.” To this Salviati 
+replies: “You should say that everyone knows 
+it is called gravity. I do not question you about 
+the name,” he continues, “but about the es- 
+sence of the thing”; and that, he concludes, is 
+precisely what cannot be defined. 
+
+A physicist like Huygens, who expects the 
+explanation of natural effects to be expressed in 
+the familiar mechanical terms of bodily impact, 
+has other, objections. “I am not at ail pleased,” 
+he writes to Leibnitz about Newton, “with any 
+theories which he builds on his principle of at- 
+traction, which seems to me absurd.” What 
+shocks Huygens is a scandal that Newton him- 
+self cannot avoid facing. It is the scandal of ac- 
+tion-at-a-distance— of the force of gravity be- 
+ing propagated instantaneously across great dis- 
+tances and producing effects at some remote 
+place but no effects along the way. Newton rec- 
+ognizes the strangeness of such a force. In a 
+letter to Bentley, he echoes Huygens’ protest 
+to Leibnitz. “That gravity should be innate, 
+inherent and essential to matter,” he says, “so 
+that one body may act on another at a distance 
+through a vacuum, without the mediation of 
+anything else, by and through which their ac- 
+tion and force may be conveyed from one to 
+another, is to me so great an absurdity, that I 
+believe no man who has in philosophical mat- 
+ters a competent faculty of thinking, can ever 
+fall into it.’’., . • . " 
+
+The 'absurdity of action-at-a-distance seems 
+to be. recognized by common sense and philoso- 
+phy alike. “No action of, an agent,” Aquinas 
+remarks, ‘'however powerful it may be, acts at 
+a distance e.xcept through a medium’^; and 
+
+90 THE GREAT IDEAS 
+
+Kant, who regards Newtonian physics as the 
+model of a rational science of nature, speaks of 
+"a force of attraction without contact” as a 
+“chimerical fancy” which “we have no right to 
+assume.” How can Newton avoid this absurdity 
+v.’ithout violating his rule of method in mathe- 
+matical physics— not to frame hypotheses.? 
+
+Newton’s dilemma can perhaps be stated in 
+the following alternatives: either the inverse- 
+square law of gravitational attraction is to be 
+treated as a purely mathematical, and hence a 
+purely descriptive, proposition of great sim- 
+plicity and generality; or it must be given phys- 
+ical meaning by a causal explanation of how 
+gravitational force operates. On the first al- 
+ternative, Newton can avoid framing hypoth- 
+eses, but the physical meaning of the concepts 
+he employs to state the mathematical law is 
+then left dark. On the second alternative, he 
+can solve the mechanical problem created by 
+such words in his law as “attracts” and “force,” 
+but only by going beyond mathematical phys- 
+ics into the realm of mechanical hypotheses. 
+
+Newton seems to take the first alternative in 
+his Mathematical Principles of Natural Philos- 
+ophy, and the second in his Optics. There he 
+proposes the hypothesis of an ethereal medium 
+to explain the attractive force of gravity. "Is 
+not this medium,” he asks, “much rarer within 
+the dense bodies of the sun, stars, planets, and 
+comets, than in the empty celestial spaces be- 
+tween them .? And in passing from them to great 
+distances, doth it not grow denser and denser 
+perpetually, and thereby cause the gravity of 
+those great bodies towards one another, and of 
+their parts towards the bodies; every body en- 
+deavoring to go from the denser parts of the 
+medium towards the rare ? . . . And though this 
+incre.asc of density may at great distances be 
+exceeding slow, yet if the clastic force of this 
+medium be exceeding great, it may suffice to 
+impel bodies from the denser parts of the me- 
+dium towards the rarer, with all that power 
+which we call gravity.” 
+
+Tlic hypothesis fits the law of gravitation if, 
+as Maxwell points out, “the diminution of pres- 
+sure [in the ether] is inversely as the distance 
+from the dense body.” Newton recognized, ac- 
+cording to Maxwell, that it then becomes ncc- 
+cssaiy “to account for this inequality of pres- 
+sure in tliis medium; and .as he w.as not able to 
+
+do this, he left the explanation of the cause of 
+gravity as a problem for succeeding ages. . . . 
+The progress made towards the solution of the 
+problem since the time of Newton,” Maxwell 
+adds, “has been almost imperceptible.” 
+
+The problem of the mechanical properties of 
+an ethereal medium occurs in another form in 
+the field of optics. Here it is complicated by the 
+rivalry between two theories of light— New- 
+ton’s corpuscular theory and Huygens’ undu- 
+latory or wave theory. Each involves a mechan- 
+ical hypothesis— one concerning the motion of 
+particles emitted from the light source, and one 
+concerning the wave-like propagation of the 
+light impulse through a medium. Both theories 
+involve the motion of particles. In their ex- 
+planation of the oar which appears bent in the 
+water, both appeal to the action of the particles 
+in the refracting medium on the light corpus- 
+cles or the light waves. 
+
+Both theories, furthermore, are expressed by 
+their authors in a mathematical form svhich 
+permits the deduction of quantitative facts 
+like the equality of the angles of incidence and 
+of reflexion, the bending of the light ray in re- 
+fraction according to the law of sines, and the 
+recently discovered fact of the finite velocity 
+of light. Huygens’ book gives prominence to 
+the e.xplanation of the strange phenomena of 
+double refraction found in “a certain kind of 
+crystal brought from Iceland” — Iceland spar. 
+But both theories seem to be equally compe- 
+tent in dealing with the established facts of 
+reflexion and refraction, and the new facts 
+about dispersion. 
+
+For a century’ at least, their rivalry resembles 
+that between the Ptolemaic and Copcrnican 
+theories at a time when they seemed equally 
+tenable so far as accounting for the phenomena 
+was concerned. Later, new discoveries, such as 
+those by Young and Fresnel, tend to favor the 
+wave theory’ of light; but the rivalry continues 
+right down to the present day. It remains un- 
+resolved, at least to an extent which prompts 
+Eddington, in reviewing contemporary' con- 
+troversy about the nature of light and electric- 
+ity, to suggest the invention of the word “wav- 
+icle” to signify the complementary use of both 
+particles and waves in the modern theory of 
+radiation. 
+
+Unlike the rivalry between the Ptolemaic 
+and Copernican systems, which seemed for a 
+while to be entirely a matter of different mathe- 
+matical descriptions of the same phenomena, 
+the conflict between these two theories of light 
+involves from the very beginning an issue be- 
+tween diverse mechanical hypotheses to explain 
+the phenomena. That issue is argued not only 
+ivith respect to the adequacy of either theory to 
+explain such phenomena as the rectilinear prop- 
+agation of light and its different behavior in 
+different mediums; but it is also debated in 
+terms of the underlying mechanical concep- 
+tions. As gravitational force acting at a distance 
+raises a mechanical problem which Newton’s 
+ether is not finally able to solve, so Huygens’ 
+ether as the, medium through which light is 
+propagated in waves raises mechanical prob- 
+lems which, if insoluble (as they seem to be), 
+contribute even more heavily to the general 
+scientific scandal of mechanics. 
+
+The two authors take different attitudes 
+toward hypotheses and mechanical explanation. 
+Huygens, as we have seen, begins his book with 
+the e.xpress intention to “investigate . . . the 
+causes’’ and to express them “in terms of me- 
+chanical motions.” Newton, on the other hand, 
+begins his with a reiteration of his disavowal of 
+hypotheses. “My design in this book,” he 
+writes, “is not to explain the properties of light 
+by hypotheses, but to propose and prove them 
+by reason and experiments.” Nevertheless, 
+Newton’s explanation of how the prism pro- 
+duces from white light the band of colors in the 
+spectrum seems to require the assumption of 
+a diriinct kind of light corpuscle for each color; 
+and, in addition, the assumption that, although 
+all light particles have the same velocity when 
+they travel together making white light, sepa- 
+rate particles for different colors are differently 
+refrangible, that is, differently susceptible to 
+the action of the particles in the refracting me- 
+dium of the glass. 
+
+Terhaps only in Newton’s somewhat arti- 
+ficially restricted sense of the tvord “hypoth- 
+esis” could these assumptions escape that de- 
+nomination. In any case, the existence of Huy- 
+gens’ rival theory prevented his escaping a 
+controversy about hypotheses. In the Queries 
+attached to his Optics, he engages in that con- 
+troversy with an acumen which shows another 
+side of his genius. 
+
+Huygens’ svave theory requires what any- 
+body would have to call an hypothesis and re- 
+quires it from the very start. “It is inconceiv- 
+able,” he writes, “to doubt that light consists 
+in the motion of some sort of matter.” He im- 
+mediately rejects the notion that light rays con- 
+sist in the “transport of matter coming to us 
+from the [luminous] objectvin the way in which 
+a shot or an arrow traverse the air”— if for no 
+other reason, because “the rays traverse one 
+another without hindrance.” The similarity 
+between the phenomena of light and the, phe- 
+nomena of sound suggests to him the “way that 
+light spreads,” and causes him to extend the 
+mechanics of sound— conceived as a wave mo- 
+tion— to light. 
+
+“We know that by means of air, which is an 
+invisible and impalpable body,” Huygens ar- 
+gues, “sound spreads around the spot where 
+it has been produced, by a movement which is 
+passed on successively from one part of air to 
+another; and that the spreading of this move- 
+ment, taking place equally on all sides, ought 
+to form spherical surfaces ever enlarging and 
+which strike our ears. Now there is no doubt 
+at all that light also comes from the luminous 
+body to our eyes by some movement impressed 
+on the matter which is between the two. ... If, 
+in addition, light takes time for its passage . . . 
+it will follow that this movement, impressed on 
+the intervening matter, is successive; and con- 
+sequently it spreads, as sound does, by spherical 
+surfaces and waves; for I call them waves from 
+their resemblance to those which are seen to 
+be formed in water when a stone is thrown into 
+it.” 
+
+Huygens is aware, however, that the analogy 
+between light and sound is far from perfect. 
+“If one e.xamines,” he says, “what this matter 
+may be in which the movement coming from 
+the luminous body is propagated, one will see 
+that it is not the same that serves for the prop- 
+agation of sound. . . . This may be proved,” 
+he goes on, “by shutting up a sounding body 
+in a glass vessel from which the air is with- 
+drawn.” An alarm clock beating its bell in a 
+jar without air makes no sound, but a jar with- 
+out air is no less transparent than one with air. 
+Since when “the air is removed from the vessel 
+the light does not cease to traverse it as before,” 
+and since waves have to be waves of something, 
+and light waves cannot be waves of air, they 
+
+92 THE GREAT IDEAS ' 
+
+must be waves of a substance, says Huygens, 
+“which I call ethereal matter.” 
+
+This ether, a transparent medium permeat- 
+ing the whole universe, proves to be what Ein- 
+stein calls the enfant terrible in the family of hy- 
+pothetical physical substances. Postulated by 
+Huygens in order to e.xplain light mechanically, 
+it in turn calls for a mechanical account of its 
+own extraordinary properties. Huygens docs 
+not avoid this new problem, but neither does 
+he undertake to solve it completely. 
+
+Suppose “one takes a number of spheres of 
+equal size, made of some very hard substance, 
+and arranges them in a straight line, so that 
+they touch one another.” Then, says Huygens, 
+“one finds, on striking with a similar sphere 
+against the first of these spheres, that the mo- 
+tion passes as in an instant to the last of them, 
+which separates itself from the row, without 
+one’s being able to perceive that the others 
+have been stirred.” This type of motion in the 
+ether would account for “the extreme velocity 
+of light” and yet "this progression of motion 
+is not instantaneous,” as the motion of light 
+also is not. 
+
+“Now in applying this kind of movement to 
+that which produces light,” Huygens contin- 
+ues, "there is nothing to hinder us from esti- 
+mating the particles of the ether to be of a sub- 
+stance as nearly approaching to perfect hard- 
+ness and possessing a springiness as prompt as 
+we choose.” Beyond this Huygens does not go. 
+“It is not necessary to examine here,” he says, 
+"the causes of this hardness, or of that springi- 
+ness. . . . Though we shall ignore the true cause 
+of springiness we still see that there arc many 
+bodies which possess this property; and thus 
+there is nothing strange in supposing that it 
+exists also in little invisible bodies like the par- 
+ticles of the ether.” 
+
+But difficulties which Huygens did not fore- 
+see make his ether more than a strange supposi- 
+tion— almost a mechanical impossibility. Huy- 
+gens had thought that light waves arc trans- 
+mitted in the ether in the way that sound waves 
+arc in the air, that is, longitudinally, the direc- 
+tion in which the individual particles vibrate 
+being the same as the direction of the wave mo- 
+tion itself. But when, in the 19 th century, it 
+was found that the phenomena of the polariza- 
+tion of light could not be explained by the cor- 
+
+puscular theory, but only by the wave thcoq- 
+(thus shifting the scales decisively in fas'or of 
+the latter), it was also found that the wave 
+theory could explain polarization only on the 
+assumption that the motion of the ether par- 
+ticles which produce the light waves is not 
+longitudinal, but transverse, that is, in a direc- 
+tion perpendicular to the waves produced by 
+the vibration of the particles. 
+
+As Fresnel pointed out at the time, “the 
+supposition that the vibrations were transvene 
+was contrary to the received ideas on the nature 
+of the vibration of elastic fluids.” They had all 
+involved, as in the case of air as the medium for 
+sound, a longitudinal transmission. The charac- 
+ter of the ether is changed by the requirement 
+tliat its particles vibrate transversely. It ceases 
+to be an air-like ether and must be imagined as 
+a jeily-hke ether. * 
+
+The task which Huygens had postponed— 
+that of giving a mechanical explanation of the 
+ether he had posited in order to state the me- 
+chanics of light— becomes in consequence far 
+more difficult, if not impossible. In their efforts 
+to construct “the ether as a jelly-like mechani- 
+cal substance, physicists,” according to Ein- 
+stein, had to make so many “highly artificial 
+and unnatural assumptions,” that they finally 
+decided to abandon the whole program of me- 
+chanical explanation. 
+
+Of Newton’s two objections to the wave 
+theory of light, the second by itself seems to 
+create an insuperable difficulty for Huygens’ 
+ether, even before the realization that it must 
+be a jelly-like medium. 
+
+Newton’s first objection is that any wave 
+theory is inconsistent with the fact of the rec- 
+tilinear propagation of light. “If light consisted 
+in pression or motion, propagated either in an 
+instant or in time, it would bend into the shad- 
+ow; for,” he points out, “pression or motion 
+cannot be propagated in a fluid in right lines, 
+beyond an obstacle which stops part of tiic 
+motion, but will bend and spread every way 
+into the quiescent medium which lies beyond 
+the obstacle. . . . The svaves, pulses or vibra- 
+tions of the air, wherein sound consists, bend 
+manifestly, even though not so much ns the 
+waves of water.” 
+
+This objection loses its force when, in the 
+
+Cha'pter' 54 : MECHANICS 93 
+
+19th century, light’s bending is experimentally 
+discovered. But Newton’s otherobjection gains 
+force when,- two centuries after:he made it, a 
+•jelly-like, density is, imposed upon the ether by 
+the' experimental /facts 'of polarization., This 
+second objection does not point to the, inade- 
+quacy, of the .wave theory with-respect to the 
+phenomena which must be described, but rath- 
+er calls attention to its inconsistency with ' ce- 
+lestial mechanics. . -1 
+
+Light travels through inter-stellar space. But 
+so, also do the planets., Newton’s astronomy ac- 
+counts for the motion of the planets with great 
+precision, only, on the, supposition of no resistance 
+from a mediumi “To, mzkt way for .the regular 
+and lasting rnotions of the plane.tsand comets,” 
+he writes, ,“it is necessary to empty the heavens 
+of all matter, except perhaps . . . such an ex- 
+ceedingly; rare ethereal medium as. we de- 
+scribed above.'” Here he refers to the ether he 
+himself had positedas a possible cause of gravi- 
+tational attraction, dts resistance, he thinks, 
+is', “so srnall .as to be inconsiderable.” The 
+“planets and comets and all gross bodies [can] 
+perform their motions more freely in this 
+ethereal medium than in any fluid, which fills 
+all space adequately without leaving any 
+pores,!’ Such “a' dense.'fluid . . . serves only to 
+disturb and retard the motions of those great 
+bodies, and make the frame of nature languish.” 
+Since it “hinders the operations of nature,” and 
+since “therelis no evidence for its existence,” 
+Newton concludes that “itought to be rejected.’’ 
+
+. The next conclusion follows immediately. 
+“If it be rejected, the hypotheses that light 
+consists in pression or motion, propagated 
+through'such a medium, are rejected with it.” 
+Newton would seem entitled to draw these con- 
+clusions because,.nomatter,how slight the den- 
+sity of ethereal matter, the use of the ether in 
+the .wave theory' of light involves some interac- 
+tion between the particles of ether and the par- 
+ticles of matter. Unless such interaction takes 
+place, no /explanation can be given- of the 
+change in .the, velocity of light when it enters 
+a medium like glass or water. Since in Newton’s 
+universe there, is no difference between terres- 
+trial, and celestial matter, Newton .cannot ac- 
+cept,^an,:ether which interacts, with the matter 
+of glass or water, but does not interact with the 
+matter of the planets. . , , . 
+
+■ ' This objection of Newton’s, pointing to an 
+inconsistency between the kind of ether re- 
+quired by- the wave theory of light, and the un- 
+retarded- motion of the heavenly bodies, ap- 
+pears not- to have 'been answered, but- only 
+waived, at the time of the wave, theory’s as- 
+cendancy. The famous' Michelson-Morley ' ex- 
+periment on ether drift later re-opens Newton’s 
+penetrating query . about, the ether.. But this 
+occurs at a time when 'physicists are prepared to 
+give up.not only the ether, but also with it the 
+■■ mechanical explanations of gravity and light 
+which it had Brought into conflict with one 
+another. ’ ' 
+
+- 1 
+Before the mechanical- dogma runs its 
+course, it has a career in other fields of physical 
+inquiry. The phenomena of heat, magnetism, 
+and electricity are explored and explained un- 
+der its inspiration. The history of these sub- 
+jects is marked by a very rash of hypotheses. 
+Each time mechanical explanation is attempted 
+for a new domain, of phenomena, new sub- 
+stances are added. 
+
+The postulated entities— calorific, magneti- 
+cal, and electric fluids— are unobservable and 
+without weight. In Newton’s terms, they are 
+“occult”; though,, it must be added, they are 
+no more occult than the ether Newton himself 
+postulated to explain gravity or the ether Huy- 
+gens postulated to explain light. In fact, each 
+of these new substances seems to resemble the 
+aeriform or fluid ether, just as each is con- 
+ceived, as the gravitational or optical ether was 
+earlier conceived, in the context of the issue of 
+action-at-a-distance as opposed to action-by- 
+contact. They would seem to be unavoidable 
+in a mechanical account of the radiations of 
+heat, magnetism, and electricity. 
+
+The phenomena of heat, Lavoisier svrites, are 
+“difficult to comprehend . . . without admit- 
+ting them as the effects of a real and material 
+substance, or very subtle fluid Where- 
+
+fore,” he continues, “we have distinguished 
+the cause of heat, or that exquisitely elastic 
+fluid which produces it, by the term of caloric.” 
+Lavoisier declares himself “unable to determine 
+whether light be a modification of caloric, or 
+if caloric be, on the contrary, a modification of 
+light.” Butin terms of observed effects he does 
+attribute ether-like properties to, caloric., “This 
+
+94 THE GREAT IDEAS 
+
+subtle matter,” he says, "penetrates through 
+the pores of all known substances”; for “there 
+are no vessels through which it cannot escape.” 
+
+The theory of caloric serves its purpose be- 
+fore it gives way to the theory of heat as molec- 
+ular motion, a conception which can be inte- 
+grated with the molecular, or kinetic, theorj' of 
+gases. “The development of the kinetic theory 
+of matter,” writes Einstein, “is one of the 
+greatest achievements directly influenced by 
+the mechanical view.” It is all the more strik- 
+ing, therefore, that in the opening pages of 
+Fourier’s Analytical Theory of Heat — wherein 
+he reviews the triumphs of e.vplanation 
+achieved by Newton and his successors — 
+Fourier should so flatly assert: “But whatever 
+may be the range of mechanical theories, they 
+do not apply to the effects of heat. These make 
+up a special order of phenomena which cannot 
+be e.vplained by the principles of motion and 
+equilibrium.” 
+
+It is equally striking that Lavoisier seems to 
+have anticipated not only the mechanical 
+theory of heat, but the possibility of a purely 
+mathematical treatment of the phenomena. 
+“We arc not obliged to suppose [caloric] to be 
+a real substance,” he writes; it is sufficient 
+“that it be considered as the repulsive cause, 
+whatever that may be, which separates the 
+particles of matter from each other, so that we 
+are still at liberty to investigate its effects in an 
+abstract and mathematical manner.” 
+
+The second of these nvo things is precisely 
+what Fourier proposes to undertake, but he 
+disavows any interest in the first, namely, the 
+explanation of heat in terms of the mechanical 
+separation of particles by repulsion. In language 
+which resembles Newton's disavowal of concern 
+with the cause of attraction, Fourier declares 
+that “primary causes arc unknown to us, but 
+arc subject to simple and constant laws, which 
+may be discovered by observation.” 
+
+In another place he writes: “Of the nature 
+of heat only uncertain hypotheses could be 
+formed, but the knowledge of the mathemati- 
+cal l.nws to which its effects arc subject is inde- 
+pendent of all hypothesis.” Fourier’s aim, 
+therefore, with respect to “the very extensive 
+cL-tss of phenomena, not produced by mechani- 
+cal forces, but resulting simply from the pres- 
+ence and accumulation of heat,” is “to reduce 
+
+the physical questions to problems of pure anal- 
+j'sis” and “to express the most general condi- 
+tions of the propagation of heat in differentia! 
+equations.” He expresses his indebtedness to 
+Descartes for “the analytical equations” which 
+that mathematician “was the first to introduce 
+into the study of curv’es and surfaces,” but 
+“which are not restricted to the properties of 
+figures, and those properties which arc the ob- 
+ject of rational mechanics.” These equations, 
+he insists, “extend to all general phenomena,” 
+and “from this point of view, mathematical 
+analysis is as extensive as nature itself.” 
+
+This strongly worded statement affirms the 
+mathematical character of nature as the sup- 
+port and justification for a purely mathematical 
+physics. If Fourier’s remarks about causes and 
+hypotheses are reminiscent of Newton in his 
+mathematical mood, how much more is Fou- 
+rier’s faith in pure mathematical analysis rem- 
+iniscent of Galileo. Like Galileo, and unlike 
+Newton, Fourier never deviates from his indif- 
+ference to causes and never softens his judg- 
+ment of the incompetence and irrelevance of 
+mechanics to the subject he is investigating. 
+His trust in mathematical analysis, which is 
+able by itself to yield and organize physical 
+discoveries, not only revives the spirit of Gal- 
+ileo, but also seems to have inspired Clerk 
+Maxwell to turn from a mechanical to a mathe- 
+matical theory of electricity. 
+
+Certain of Fourier’s mathematical achieve- 
+ments, such as his theory of dimensions, prove 
+useful to Maxwell. More important, perhaps, 
+is the fact that Maxwell’s predictions about the 
+prop.igation of electro-magnetic waves, later 
+c.xpcrimcntally verified by Hertz, are the result 
+of mathcmatic.al analysis. With such a demon- 
+stration of the power of mathematics to work 
+fruitfully witli experiment, and without any aid 
+from mechanical hypotheses., Ma.xwc!l gives up 
+the attempt to formulate a mechanics for his 
+equations describing the electro-magnetic field. 
+He is quite content to let his field theory stale 
+the mathcmatic.al structure of the phenomena. 
+
+Between Fourier and Maxwell comes Fara- 
+day. One of the greatest experimenters in the 
+whole tradition of science, Faraday discovers 
+the phenomena whose mathematical structure 
+Maxwell later develops. He prepares the way 
+
+Chapter 54: MECHANICS 95 
+
+for Maxwell’s application to. electricity and 
+magnetism of the method Fourier had prac- 
+ticed. His speculations concerning the relation 
+of electrical and gravitational force point ahead, 
+beyond Maxwell, to the possibility of a field 
+theory which might unify all physical phenom- 
+ena under a single set of mathematical laws. 
+
+■ Faraday sees no incompatibility between ex- 
+perimentation and speculation. On the con- 
+trary he says that “as an experimentalist I feel 
+bound to let , experiment guide me into any 
+train of thought which it may justify; being 
+satisfied that experiment, like analysis, must 
+lead to strict truth, if rightly interpreted; and 
+believing also that it is in its nature far more 
+suggestive of new trains of thought and new 
+conditions of natural power.” Faraday’s faith 
+seems to have been amply justified. His experi- 
+ments not only discovered a stunning number 
+of new facts, but the speculations to which they 
+led transformed the whole mode of thinking 
+about electricity and magnetism, and, to some 
+extent, the whole of physics. 
+
+The Elizabethan Gilbert, with his bold and 
+brilliantly handled thesis that the earth is a 
+magnet, had made magnetism appear some- 
+thing more than a random phenomenon occa- 
+sionally met with in nature. But not until 
+Faraday’s discovery of diamagnetism, an- 
+nounced in a memoir On Magnetic Condition 
+of All Matter, would anyone have dared to say 
+that “all matter appears to be subject to the 
+magnetic force as universally as it is to the 
+gravitating, the electric and the chemical or 
+cohesive forces.” Of electricity, he can only 
+predict, as the result of his protracted experi- 
+mental investigations, that “it is probable that 
+every effect depending upon the powers of in- 
+organic matter ... will ultimately be found 
+subordinate to it.” 
+
+These remarks indicate the controlling 
+theme of Faraday’s researches, namely, the 
+convertibility and unity of natural forces. It 
+seems to have been suggested to him by the 
+discovery that both electrical and magnetic 
+forces obey the same simple inverse-square law 
+as the .force of gravitational attraction. The 
+fact that certain forces obey the same law or 
+that their action can be described by the same 
+equations, would not of itself reveal whether 
+one of these forces is primary or all are de- 
+
+rivative from some other primary force. But it 
+would suggest questions to, be asked by experi- 
+ment. 
+
+Gilbert compares magnetism and electricity 
+but he is not able to convert one into the other. 
+Oersted, before Faraday, is the first to establish 
+one aspect of their convertibility. He shows 
+that an electric current has a magnetic effect. 
+Faraday succeeds in showing the reverse — that 
+a magnetic current has electrical power.. He 
+expresses his fascination with such reversibili- 
+ties in his remarks on the electrical' torpedo 
+fish. “Seebeck,” he writes, “taught us how to 
+commute heat into electricity; and Peltier has 
+more lately given us the strict converse of this, 
+and shown us how to convert electricity into 
+heat. . . . Oersted showed how we were to con- 
+vert electric into magnetic forces, and I had 
+the delight of adding the other member of the 
+full relation, by reacting back again and con- 
+verting magnetic into electric forces. So per- 
+haps in these organs, where nature has pro- 
+vided the apparatus by means of which the 
+fish can exert and convert nervous into electric 
+force, we may be able, possessing in that point of 
+view a power far beyond that of the fish itself, 
+to reconvert the electric into the nervous force.” 
+
+Faraday demonstrates still another such re- 
+versibility in nature. The nature of his discov- 
+ery is indicated by the titles of the papers in 
+which he announces it: On the Magnetization 
+of Light and the Illumination of Magnetic Lines 
+of Force and The Action of Elearic Currents on 
+Light. These papers, in his opinion, “established 
+for the first time, a true, direct relation and 
+dependence between light and the magnetic 
+and electric forces”; and he concludes them 
+with an explicit statement of the central theme 
+of all his researches and speculations. 
+
+“Thus a great addition is made,” he writes, 
+“to the facts and considerations which tend to 
+prove that all natural forces are tied together 
+and have one common origin. It is no doubt 
+difficult in the present state of our knowledge 
+to express our expectation in exact terms; and, 
+though I have said that another of the powers 
+of nature is, in these experiments, directly 
+related to the rest, I ought, perhaps, rather to 
+say that another form of the great power is 
+distinctly 'and directly related to the other 
+forms.” 
+
+96 '' THE GREAT IDEAS 
+
+One roRM of the "great power” remained to 
+be connected witli such “other forms” as those 
+of light, heat, electricity, and magnetism. That 
+was the power of gravitational force. Faraday 
+comes to this last stage of his speculations con- 
+cerning the unity of nature’s powers in terms' 
+of his conception of “lines of force” and of what 
+later came to be called “the field of force.” 
+
+The earliest theories of electricity and mag- 
+netism, in an orthodox atomistic vein, had con- 
+ceived them as exerting an influence by means 
+of the effluvia which they emitted. Newton, for 
+c.xamplc, speculates on “how the effluvia of a 
+magnet can be so rare and subtle, as to pass 
+through a plate of glass without any resistance 
+or diminution of their force, and yet so potent 
+as to turn a magnetic needle beyond the glass.” 
+When electrical conduction is later discovered, 
+effluvia arc replaced by fluids, on the analogy of 
+caloric as the fluid conductor of heat. But when 
+Faraday finds that he can induce from one cur- 
+rent to another, he becomes interested in the 
+dielectric, non-conducting medium around the 
+circuits. He is strongly averse to any thcoiy' 
+which involves action-at-a-distance, and so he 
+argues that induction takes place by the action 
+of contiguous particles. To support that argu- 
+ment he shows c.\pcrimcntally that electrical 
+induction can “turn a corner.” 
+
+From his study of all tiie phenomena of mag- 
+netism, Faraday forms the conception of “lines 
+of force” and concludes that there is “a center 
+of power surrounded by lines of force which arc 
+physical lines essential both to the existence of 
+force within the magnet and to its conveyance 
+to, and c.xcrtion upon, magnetic bodies at a 
+distance.” He says of this “idea of lines of 
+force" that “all the points which arc experi- 
+mentally established with regard to [m.ngnctic] 
+action, r.e., ail that is not hypothetical, appear 
+to be well and truly represented by it"; and 
+he adds: “Whatever idea we employ to repre- 
+sent the power ought ultimately to include 
+electric forces, for the two arc so related that 
+one e.xprcssion ought to scrs'c for both.” 
+
+Subsequently Faraday satisfies himself as to 
+the physical reality of electrical lines of force 
+in addition to the magnetic lines. The com- 
+pulsion of his interest in the unity of nature then 
+drives him to spccul.atc about gravitational 
+force. He begins by admitting that, “in the case 
+
+of gravitation, no effect sustaining the idea of 
+an independent or physical line of force is 
+presented to us; as far as we at present know, 
+the line of gravitation is merely an ideal line 
+representing the direction in which the power 
+is exerted.” But encouraged, perhaps, by New- 
+ton’s repeated references to “the attractions of 
+gravity, magnetism, and electricity,” and by 
+Newton’s letter to Bentley which he interprets 
+as showing Newton to be “an unhesitating be- 
+liever in physical lines of gravitating force," 
+Faraday goes to work experimentally. 
+
+The report of these researches On the Fossibk 
+Relation of Gramty to Electricity opens with the 
+re-statement of Faraday’s central themc.*“Thc 
+long and constant persuasion that all the forces 
+of nature are mutually dependent, having one 
+origin, or rather being different manifestations 
+of one fundamental power, has made me often 
+think of establishing; by experiment, a connex- 
+ion between gravity and electricity, and so 
+introducing the former into the group, the 
+chain of which, including also magnetism, 
+chemical force and heat, binds so many and 
+such varied exhibitions of force together by 
+common relations.” His experiments, he tells 
+us, unfortunately “produced only negative 
+results,” but that docs not sh.ake his “strong 
+feeling of the existence of a relation between 
+gravity and electricity.” ' 
+
+Though Fauad.w fails to prove “that such 
+a relation exists,” he docs bequeath, as a legacy 
+to 20th centur)' physics, the problem of a field 
+theory- which would embrace both gravita- 
+tional and electrical force. But whereas Faraday 
+conceives the problem mechanically in terms 
+of the physical reality, as well as unity, of all 
+lines of force, in uhich contiguous particles 
+act on one another, those who inherit the prob- 
+lem from him cease to concern themselves with 
+the physical existence of “lines of force”, and 
+their mechanic.il basis in the action and reac- 
+tion of bodies. Influenced by the am.izing gen- 
+erality implicit in Maxwell’s field equations, 
+they proceed to search for a purely' mathe- 
+matical st.itcmcnt of nature’s structure. 
+
+In the judgment of the 20th century physi- 
+cist mathematics may at last succeed in doinf 
+precisely what mechanics, from Newton tc 
+Faraday, kept promising but forever failing tc 
+
+Chapter •54,:/MECPiANICS 
+
+do. 'If the unity of nature .can be" expressed in 
+a single set of laws; they, will be; according, to 
+Einstein, laws of a type radically different from 
+the .laws of mechanics. 'Taking rithe, form of 
+Ma.xwell’s equations;- a form which appears: “in 
+all other equations of' modern -physics,” they 
+will be, he' writes, : “laws representing the 
+structure oi the. r ■ . u' , , ' , 
+
+In saying that “Maxwell’s equations are 
+structure laws’’ and thatithey provide “a! new 
+pattern for the laws of nature,” Einstein means 
+to emphasize their nonrmecha'nical character. 
+“In Maxwell’s theory,” he writes, “there are no 
+material actors.” Whereas “Newton’s gravita- 
+tional laws connect the motion of a body here 
+and now with the actioni of a body at the same 
+time in the far distance,’’ Maxwell’s equations 
+“connect events .which happen now and here 
+with events which will happen a little later in 
+the immediate) vicinity.” Like the equations 
+which describe “the changes of the electro- 
+magnetic field, our new gravitational laws are,” 
+according' to Einstein, “also structure laws de- 
+scribing' the changes of the gravitational field.” 
+■’ Theheartofthedifference between a “struc- 
+ture law” and a mechanical law seems to be con- 
+tained in Einstein’s statement that “all space 
+is 'the scene of these, laws and not, as for me- 
+chanical laws,' only points in which matter or 
+changes, are present.” This contrast between 
+matter and space brings to mind the difference 
+benveeh physics and geometry. Yet Einstein’s 
+repeated reference to “changes” in these spacer 
+structures.als'o reminds us that the electrical 
+arid gravitational fields are not purely geomet- 
+rical, but physical as well; 
+
+Theikructure laws of the new physics may 
+be geometrical in form, but if they are to have 
+any physical iiieaning, can. they entirely avoid 
+some coloring by the mechanical conceptions 
+which have been traditionally associated with 
+the; consideration of matter and motion.'’ At 
+least one contemporary physicist appears to 
+think that mechanics survives to bury its un- 
+dertakers. After describing. the development in 
+which geometry progressively “swallowed up 
+the whole of mechanics,” Eddington observes 
+that “mechanics in becoming geometry re- 
+mains none the less mechanics. The partition 
+between mechanics and geometry,” he con- 
+tinues, “has broken down and the nature of 
+
+each' of them has diffused through. the whole’’; 
+so:that, “besides the geometrisation of mechan- 
+ics, there has been a riiechanisation, of geom: 
+etry;” o,' ' - . ■ . ... 
+
+According ;to, this. view, it is not mechanics, 
+but classical mechanics, which the new physics 
+has abandoned. The character of the mechanics 
+seems to have. altered with the character.of the 
+mathematical .forrnulations.,Eield theory, deal- 
+ing with contiguous areas and successive events, 
+avoids the problem of action-at-a-distance.and 
+also apparently that, problem’s classical solution 
+in terms of the action of;Contiguous particles. 
+But another sort of mechanics may . be implicit 
+in the. field equations, which connect events in 
+one area with events in the immediate vicinity. 
+If those equations had been available to him, 
+Newton might have expressed his' theory of a 
+variably dense ether— analogous to the modern 
+conception of a variably filled or variably 
+curved space — in terms of structure laws de- 
+scribing the gravitational field. 
+
+We are left with a number of questions. Is the 
+story of mechanics the story of its rise and de- 
+cline or the story of its changing role— now 
+dominant, now. subordinate; now more mani- 
+fest, now more concealed— at all stages in the 
+development of a physics which is committed 
+to being both mathematical and experimental? 
+Do the status and. character of mechanical con- 
+ceptions change with changes in the form of the 
+mathematical laws' which describe the phenom- 
+ena? -Can physics be totally devoid of mechan- 
+ical insight and yet perform e.xperiments which 
+somehow require the scientist to act on bodies 
+and to make them',act on one another? Could 
+a pure mathematical'physics have yielded pro- 
+ductive applications in mechanical engineering 
+without thedntermediation of mechanical no- 
+tions of cause, and effect? . 
+
+Whichever way these questions are answered, 
+we. face alternatives that seem to be equally 
+unsatisfactory. Either experimental physics is 
+purely mathematical and proclaims its disin- 
+terest in' as well as: its ignorance of, causes; or 
+physics cannot be experimental and mathe- 
+matical without also being mechanical, and 
+without being involved in a search for causes 
+which are never found. 
+
+To the layman there is something mysterious 
+
+about all this. He stands in awe of the physi- 
+cist’s practical mastery of matter and its mo- 
+tions, which he naively supposes to depend 
+upon a scientific knowledge of the causes, while 
+all the time the scientists protest that the causes 
+remain unknown to an experimental and 
+mathematical physics. Mechanical explana- 
+tions may be offered from time to time, but the 
+various “forces” they appeal to can be under- 
+stood only from their effects, and are nothing 
+more than Verbal shorthand for the formulae 
+or equations which express the mathematical 
+laws. Yet they remain cause-names, and seem 
+to stimulate advances in science — both experi- 
+mental and mathematical — almost as a conse- 
+quence of the exasperating elusiveness of these 
+hidden causes. 
+
+Certain philosophers hold a view which sug- 
+gests that the clue to the mystery may lie in 
+the word “hidden.” Causes exist and we can 
+control them to build machines and explode 
+bombs, but we cannot with our senses catch 
+them in the very act of causing, or perceive the 
+inwardness of their operation. If the fact that 
+they are thus unobservable means that they 
+are occult, then all causes are occult— not least 
+of all the mechanical type of cause which con- 
+sists in the impact of one body upon another. 
+In the century in which physicists tried to 
+avoid the scandal of forces acting at a distance 
+by postulating mechanical mediums through 
+which one body acted directly on another, 
+philosophers like Locke and Hume express their 
+doubts that such causal action is any less oc- 
+cult than Newton had said Aristotle’s causes 
+were. 
+
+“The passing of motion out of one body into 
+another,” Locke thinks, “is as obscure and un- 
+conceivable, as how our minds move or stop our 
+bodies by thought. . . . The increase of motion 
+by impulse, which is observed or believed some- 
+times to happen, is yet harder to understand. 
+We have by daily experience, clear evidence of 
+motion produced both by impulse and by 
+thought; but the manner how, hardly comes 
+within our comprehension; we are equally at a 
+
+loss in both.” In Locke’s judgment we will al- 
+ways remain “ignorant of the several powers, 
+efficacies, and ways of operation, whereby the 
+effects, which we daily see, are produced.” If 
+scientific knowledge is knowledge of causes, 
+then “how far soever human industry may ad- 
+vance useful and experimental philosophy in 
+physical things, scientifical will still be out of 
+our reach.” 
+
+When we try to observe efficient causes at 
+work, what do we sec? Hume answers that we 
+only see one thing happening after another. 
+“The impulse of one billiard-ball is attended 
+with motion in the second. This is the whole 
+that appears to the outward senses.” Nor can 
+we form any “inward impression” of what takes 
+place at the moment of impact. “We are ig- 
+norant,” he writes, “of the manner in which 
+bodies operate on each other”; and we shall 
+always remain so, for “their force or energy is 
+entirely incomprehensible.” 
+
+As the chapter on Cause indicates, Aristotle 
+holds an opposite view of the matter. What 
+takes place in efficient causation may be im- 
+perceptible, but it is not incomprehensible. All 
+causes may be occult so far as the senses are 
+concerned, but they are not obscure to the in- 
+tellect. But Aristotle would also insist that the 
+action of efficient causes cannot be understood 
+if they are totally isolated from other causes— 
+material, formal, final. A purely mechanical 
+physics, in his opinion, defeats itself by its basic 
+philosophical tenets, svhich exclude all proper- 
+ties that are not quantitative and all causes ex- 
+cept the efficient. Only a different metaphysics 
+— one which conceives physical substances in 
+terms of matter and form, or potentiality and 
+actuality — can yield a physics which is able to 
+deal with causes and explain the phenomena; 
+but such an Aristotelian physics, from the mod- 
+ern point of view, stands condemned on other 
+grounds. It is not experimental. It is not pro- 
+ductive of useful applications. It is not mathe- 
+matical; nor is it capable of comprehending all 
+the phenomena of nature under a few simple, 
+universal laws. 
+
+.
+
+
+OUTLINE OF . TOPICS 
+
+1. The foundations of mechanics ' ipj 
+
+I a. Matter, mass, and atoms: the primary qualities of bodies 
+
+lb. The laws of motion: inertia; the measure offeree; action and reaction 
+
+ic. Space and time in the analysis of motion 102 
+
+2. The logic and method of mechanics 
+
+■ 2a. The role of experience, experiment, and induction in mechanics 
+
+2b. The use of hypotheses in mechanics lO^ 
+
+2c. Theories of causality in mechanics 
+
+3. The use of mathematics in mechanics: the dependence of progress in mechanics on 
+
+mathematical discovery 
+
+3a. Number and the continuum: the theory of measurement 
+
+3b. The geometry of conics: the motion of planets and projectiles 
+
+3c. Algebra and analytic geometry: the symbolic formulation of mechanical 
+
+problems 104 
+
+3b. Calculus: the measurement of irregular areas and variable motions 
+
+4. The place, scope, and ideal of the science of mechanics: its relation to the philosophy of 
+
+nature and other sciences 
+
+4a. Terrestrial and celestial mechanics: the mechanics of finite bodies and of parti- 
+cles or atoms 
+
+46. The explanation of qualities and qualitative change in terms of quantity and 
+motion 
+
+4c. The mechanistic account of the phenomena of life 
+
+5. The basic phenomena and problems of mechanics: statics and dynamics 105 
+
+5a. Simple machines: the balance and the lever 
+
+5b. The equilibrium and motion of fluids: buoyancy, the weight and pressure of air, 
+the effects of a vacuum 
+
+5c. Stress, strain, and elasticity: the strength of materials 
+5d. Motion, void, and medium: resistance and friction 
+
+5?. Rectilinear motion 106 
+
+(1) Uniform motion: its causes and laws 
+
+(2) Accelerated motion: free fall 
+
+5/1 Motion about a center: planets, projectiles, pendulum 
+
+(1) Determination of orbit, force, speed, time, and period 
+
+(2) Perturbation of motion: the two and three body problems 
+
+PACE 
+
+6. Basic concepts of mechanics io6 
+
+6 a. Center of gravity: its determination for one or several bodies 
+
+6 l>. Weight and specific gravity: the relation of mass and weight 
+
+6 c. Velocity, acceleration, and momentum: angular or rectilinear, average or 
+
+instantaneous ' 107 
+
+6 d. Force: its kinds and its effects 
+
+(1) The relation of mass and force: the law of universal gravitation < 
+
+(2) Action-at-a-distance: the field and medium of force 
+
+(3) The parallelogram law: the composition of forces and the composition of 
+
+velocities . 108 
+
+6 e. Work and energy: their conservation; perpetual motion 
+
+7. The extension of mechanical principles to other phenomena: ■'optics, acoustics, the 
+
+theory of heat, magnetism, and electricity 
+
+ya. Light: the corpuscular and the wave theory 
+
+(1) The laws of reflection and refraction 
+
+(2) The production of colors 
+
+(3) The speed of light 
+
+(4) The medium of light: the ether 109 
+
+yi>. Sound: the mechanical explanation of acoustic phenomena 
+
+yc. The theory of heat 
+
+(1) The description and explanation of the phenomena of heat: the hypothesis 
+
+of caloric 
+
+(2) The measurement and the mathematical analysis of the quantities of heat 
+
+yd. Magnetism: the great magnet of the earth 
+
+(1) Magnetic phenomena: coition, verticity, variation, dip 
+
+(2) Magnetic force and magnetic fields 
+
+ye. Electricity: electrostatics and electrodynamics no 
+
+(1) The source of electricity; the relation of the kinds of electricity 
+
+(2) Electricity and matter: conduction, insulation, induction, electrochemical 
+
+decomposition 
+
+(3) The relation of electricity and magnetism: the electromagnetic field 
+
+(4) The relation of electricity to heat and light: thermoelectricity 
+
+(5) The measurement of electric quantities 
+
+REFERENCES 
+
+To find the passages cited, use the numbers in heavy- type; which are the volume and page 
+numbers of the passages referred to. For example, in 4 Homer: Iliad, bk ii [265-283] 12d, the 
+number 4 is the number of the volume in the set; the number 12d indicates that the pas- 
+sage is in section d of page 12. • ■ 
+
+Page Sections: When the text is printed in one column,- the letters a and b refer to the 
+upperand lower halves of the page. For e.xample, inS3 James : Psychology, \\(ia-119h, the passage 
+begins in the upper half of page n6 and ends in the lower half of page 119. When the text is 
+printed in two columns, the letters a and b refer to the upper and lower halves of the left- 
+hand sideofthe page, the letters c and d to the upper and lower halves of the right-hand side of 
+the page. For example, in 7 Plato: 163b-164c, the passage begins in the lower half 
+
+of the left-hand side of page 163 and ends in the upper half of the right-hand side of page 164. 
+
+Author’s Divisions: One or more of the main divisions of a work (such as part, bk, ch, 
+sect) are sometimes included in the reference; line numbers, in brackets, are given in cer- 
+tain cases; e.g., Iliad, bk ii [265-283] 12d. 
+
+Bible References : The references are to book, chapter, and verse. When the King James 
+and Douay versions differ in title of books or in the numbering of chapters or verses, the King 
+Jariies version is cited first and the Douay, indicated by a (D), follows; e.g.. Old Testa- 
+ment: Nehemiah, 7:45— (Z)) II Esdras, 7:46. 
+
+Symbols: The abbreviation “esp” calls the reader’s attention to one or more especially 
+relevant parts of a whole reference; “passim” signifies that the topic is discussed intermit- 
+tently rather than continuously in the work or passage cited. 
+
+For additional information concerning the style of the references, see the Explanation of 
+Reference Style; for general guidance in the use of The Great Ideas, consult the Preface. 
+
+1. The foundations of mechanics 
+
+la. Matter, mass, and atoms: the primary quali- 
+ties of bodies 
+
+8 Aristotle: tieavens, bk hi, ch 4 [303’'3-'’8] 
+394b-d / Generation and Corruption, bk i, 
+CH 2 410d-4I3c; ch 8 423b-425d 
+
+10 Galen: Uatural Faculties, bk i, ch 12, 173a-b 
+
+12 Lucretius: Nature of Things, bk i [146-328] 
+2d-Sa; [483-634] 7a-8d; bk ii [333-568] 19b- 
+22b 
+
+, 19 Aquinas: Summa Theologica, part i, q 115, 
+a I, ans and rep 3,5 585d'S87c 
+
+23 Hobbes: Leviathan, part i, 72a-d; part in, 
+172a-b; part iv, 269d 
+
+- 28 Gilbert: L oaiffrone, bkii, 29c'34besp29c-30a 
+
+28 Galileo: Tiuo New Sciences, first day, 
+134a-153a passim 
+
+30 Bacon: Noviim Organum, bk i, aph 66 H4d- 
+115c; BK II, APH 8 140b; aph 48 179d-188b 
+
+31 Descartes: Meditations, ii, 78c-d / Objec- 
+tions and Replies, def vii 130c-d; 231a-232a 
+
+33 Pascal: Vacuum, 367a-368b 
+
+34 Newton: Principles, def i 5a; def hi 5b; bk 
+I, PROP 73, scho'l l33b-134a; bk h, general 
+scHOL, 218a-219a; prop 40, schol, 246a-b; 
+BK HI, rule"^ Hi 270b'271a; prop 6, corol 
+ili-iv 281b; PROP 7 281b-282b / Optics, bk 
+
+II, 479b-48Sb; bk hi, 520a-S22a; 528b; S31a- 
+S43a esp 537a-b, 541b-S42a 
+
+34 Huygens: Light, ch i, 558b-560a; ch iir, 
+S66b-569b; CH v, 60Ib-603b 
+
+35 Locke: Human Understanding, bk ii, ch iv 
+129b-131a; ch vhi, sect 7-26 134b'138b 
+passim; ch xih, sect 11-27 I50d-154d pas- 
+sim; CH XXI, SECT 2-4 178c-179c; ch xxhi, 
+SECT 7-17 205d-209a passim; sect 22-32 
+209d-212d; ch xxxi, sect 2, 239d; bk hi, 
+CH X, SECT 15 29Sa-c 
+
+35 Berkeley: Human Knowledge, sect 9-18 
+414d-416c passim; sect 50 422c; sect 102 
+432d-433a 
+
+45 Lavoisier: Elements of Chemistry, pref, 3b- 
+4a; PART I, 9a-15c passim, esp 9b-c, 13a-b; 
+I6b-c; 41b-c 
+
+45 Fourier: Theory of Heat, 169a'170a 
+
+45 Faraday: Researches in Electricity, 685d-686c; 
+850b,d-SS5a,c 
+
+53 James: Psychology, 68a-b 
+
+54 Freud: Narcissism, 400d-401a 
+
+lb. The laws of motion: inertia; the measure 
+of force; action and reaction 
+8 Aristotle: Physics, bk viii, ch 10 [266'’27- 
+267“2i] 354b-d / Heavens, bk hi, . ch 2 
+[30i^i-*’3i] 392C'393b 
+
+(l. The foundations of mechanics. \b. The laws 
+of motion: inertia; the measure of force; 
+action and reaction.) 
+
+9 Aristotle: Motion of Animals, ch 2-4 233C' 
+235c / Gait of Animals, ch 3 243d-244a / 
+Generation of Animals, bk iv, ch 3 [768’’i6-24] 
+3I0b-c 
+
+12 Lucretius: Nature of Things, bk ii [80-99) 
+16a-b; [184-250] 17b-18b 
+16 Kepler: Epitome, bk iv, 894a-895b; 899a- 
+900a; 905a-906b; 933b-934b: 936a-937a; 
+938b-939a 
+
+20 Aquinas: Summa Theologica, part hi, q 84, 
+A 3, REP 2 985d-989b 
+
+23 Hobbes: Leviathan, part i, 50a; 72a-d; part 
+IV, 271d 
+
+28 Gilbert: Loadstone, bk ii, 56b-c 
+28 Galileo: Two New Sciences, third day, 
+209a'210a; 224d-225d; fourth day, 240a-d 
+30 Bacon: Novum Organiim, bk ii, aph 35-36 
+162a-168d passim,' aph 4S 1 T9d-188b 
+
+34 Newton: Principles, def hi 5b; laws of 
+MOTION 14a-24a; bk ii, prop 40, schol, 
+246a-b / Optics, bk hi, 541b-S42a 
+
+35 Locke: Human Understanding, bk ii, ch 
+XXI, sect 2-4 178c-179c; ch xxiii, sect 17 
+209a 
+
+35 Berkeley: Human Knowledge, sect hi, 
+434d 
+
+35 Hume: Human Understanding, sect iv, div 
+27, 460c; sect vii, div 57, 475d-476b 
+[fn 2] 
+
+38 Montesquieu: Spirit of Laws, bk i, lb 
+45 Fourier: Theory of Heat, 169a-b 
+51 Tolstoy: War and Peace, epilogue ii, 695a-c 
+
+Ic. Space and time in the analysis of motion 
+8 Aristotle: Physics, bk vi 312b,d-325d 
+28 Galileo: Two New Sciences, third day, 
+201a-202a 
+
+30 Bacon: Novum Organum, bk ii, aph 45-46 
+176a-179a 
+
+33 Pascal: Geometrical Demonstration, 434a- 
+439b 
+
+34 Newton: Principles, definitions, schol 8b- 
+13a; bk hi, general schol, 370a-371a / Op- 
+tics, BK HI, 528b-529a; 542a-543a 
+
+35 Berkeley: Human Knowledge, sect 110-117 
+434b-436a 
+
+42 Kant: Pure Reason, 24a-29d; 74b-76c; 160b- 
+163a 
+
+45 Fourier: Theory of Heat, 249a-25Ib 
+51 Tolstoy: War and Peace, bk xi, 469a-d 
+
+2. The logic and method of mechanics 
+
+28 Galileo: Two New Sciences, second day, 
+179c-d; third day, 200a-b; 202d-203a 
+30 Bacon: Advancement of Learning, 34b / No- 
+vum Organum, pref 105a-106d; bk i, aph 8 
+107c-d; aph 50 mb; aph 64 114b; aph 70 
+116b-117a; APH 82 120d-121b; aph 99-100 
+
+Ic to la 
+
+127b-c; APH 121 132b-d; bk ii 137a-195d / 
+New Atlantis, 210d-214d 
+31 Descartes: Rules, viii, 12b-13a / Discourse, 
+
+PART VI, 61d-62c 
+
+33 Pascal: Vacuum, 355a-358b passim; 365b- 
+366a 
+
+34 Newton: Principles, la-2a; bk i, prop 69, 
+SCHOL 130b-131a; bk hi, 269a-b; rules 
+270a-271b; general schol, 371b-372a / Op- 
+tics, BK HI, 531b; 543a-b 
+
+34 Huygens: Light, pref, 551b-552a; ch i, 
+553b-554a 
+
+35 Locke: Human Understanding, bk iv, ch hi, 
+SECT 16 317a-c; sect 25-29 321a-323a passim; 
+ch xh, sect 9-13 360d-362d 
+
+35 Berkeley: Human Knowledge, sect 104 
+433a-b; sect 107 433d-434a 
+35 Hume: Human Understanding, sect iv, div 
+
+23- 27 459a-460d esp div 26-27 460b-d; sect 
+VII, DIV 57, 475d'476b [fn 2] 
+
+42 Kant: Pure Reason, 6b-c; 17d-18d; 32a; 69c- 
+72c esp nb-72a 
+
+45 Fourier: Theory of Heat, 169a-170a 
+45 Faraday: Researches in Electricity, 440b, d; 
+758a-7S9c; 831a-d; 850b,d-855a,c esp 850b,d- 
+851c 
+
+49 Darwin: Origin of Specks, 239c 
+
+53 James : Psychology, 882a-884b 
+
+54 Freud: Instincts, 412a-b 
+
+2a. The role of experience, experiment, and 
+induction in mechanics 
+28 Gilbert: Loadstone, pref, la-b; bk i, 6a-7a 
+esp 6d-7a; bk ii, 27b-c 
+
+28 Galileo: Two New Sciences, third day, 
+200a-b; 207d-208a 
+
+30 Bacon: Advancement of Learning, 16a; 33d- 
+34b; 42a-c 
+
+31 Descartes: Rules, viii, 12b-13a / Discourse, 
+PART VI, 61d-62c 
+
+33 Pascal: Vacuum, 356a-357a 
+
+34 Newton: Principles, bk i, prop 69, schol 
+130b-131a; bk hi, rule iv 271b; general 
+schol, 371b-372a / Optics, bk i, 379a; bk hi, 
+542a; 543a-b 
+
+34 Huygens: Light, ch i, 553a 
+
+35 Locke: Human Understanding, bk iv, ch hi, 
+sect 16 317a-c; sect 25-29 321a-323a passim; 
+ch XII, sect 9-13 360d-362d 
+
+35 Berkeley: Human Knowledge, sect 58-59 
+424a-b; sect 104 433a-b; sect 107 433d- 
+434a 
+
+35 Hume: Human Understanding, sect iv, div 
+
+24- 27 459b-460d esp div 26 460b-c; sect 
+VII, div 57, 47Sd-476b [fn 2] 
+
+42 Kant: Pure Reason, 6b-c; 227b-c 
+45 Lavoisier: Elements of Chemistry, pref, Ic- 
+2b; PART I, 23c; part hi, 87b-c 
+45 Fourier: Theory of Heat, 175b; 181b; 184a 
+45 Faraday: Researches in Electricity, 385b-c; 
+
+440b,d; 467a-b; 607a,c; 6S9a; 774d-775a 
+S3 James: Psychology, 864a 
+
+2b to 3b 
+
+2b. The use of hypotheses in mechanics 
+
+12 Lucretius : 'Nature of Things, bk v [509-533] 
+67d-68a 
+
+28 Galileo; Two New Sciences, fourth day, 
+240d'241c 
+
+33 Pascal: 'Vacuum, 367a-370a 
+
+34 Newton; Principles, bk hi, rule iv 271b; 
+GENERAL scHOL, 371b-372a / Optics, BK X, 
+379a; bk hi, 528b; S43a 
+
+34 Huygens: Light, pref, 551b-S52a 
+
+35 Locke: Human 'Understanding, bk iv, ch hi, 
+SECT 16 317a-c; ch xii, sect 12-13 362a-d 
+
+35 Berkeley: Human Knowledge, sect 50 422c; 
+SECT 105-106 433b-d 
+
+35 Hume; Human Understanding, sect vii, div 
+57 , 47Sd'476b [fn 2 ] 
+
+36 Swift: Gulliver, part hi, 118b-119a 
+
+42 Kant: Pure Reason, 227b'C 
+
+45 Lavoisier: Elements of Chemistry, part i, 9d- 
+10 b 
+
+45 Fourier: Theory of Heat, 181b; 184a 
+
+45 Faraday: Researches in Electricity, 467a-b; 
+607a,c; 758a-759c; 777d-778c; 8S0b,d-855a,c 
+esp 8S0b,d-8Slc 
+
+49 Darwin; Origin of Species, 239c 
+
+53 James: Psychology, 884a-b 
+
+54 Freud; Narcissism, 400d-401a 
+
+2 c. Theories of causality in mechanics 
+
+12 Lucretius: Nature of Things, bk v [509-533] 
+67d-68a 
+
+28 Galileo: Two New Sciences, third day, 
+202d-203a 
+
+31 Descartes; Discourse, part v, 59a 
+
+34 Newton; Principles, def vhi, 7b-8a; bk i, 
+PROP 69 , SCHOL 130b-131a: bk hi, rule i-ir 
+270a; general schol, 369b-372a / Optics, 
+BK HI, 528b-529a; 531b; S41b-542a 
+
+34 Huygens: Light, ch i, S53b-SS4a 
+
+35 Locke: Human Understanding, bk h, ch xxr, 
+sect 1-4 178b-179c; bk iv, ch hi, sect 25-26 
+321a'C 
+
+35 Berkeley; Human Knowledge, sect 50-53 
+422c-423a passim; sect 60-66 424b-426a; 
+SECT 102-109 432d-434b 
+
+35 Hume: Human Understanding, sect iv, div 
+24-27 459b-460d esp div 26 460b-c; sect vii, 
+DIV 55, 474c-d; div 56-57 475a-d esp div 57, 
+475d [fn 2]; SECT viii, div 64, 478d 
+
+36 Swift: Gulliver, part hi, 118b-119a 
+
+45 Fourier: Theory of Heat, 169a; 183a-b 
+
+51 Tolstoy: 'War and Peace, epilogue ii, 687d; 
+695b-c 
+
+S3 James; Psychology, 885b-886a 
+
+3. The use of mathematics in mechanics: the 
+dependence of progress in mechanics on 
+mathematical discovery 
+8 Aristotle: Posterior Analytics, bk i, ch 9 
+104b-d; CH 13 [78'’3i-79“i6] lOSb-c/ Physics, 
+BK 11 , CH 2 [i 94 “ 7 -iil 270b-c; bk vii, ch 5 
+
+333a-d / Metaphysics, bk xiii, ch 3 [i078‘'5- 
+17 ] 609b-c 
+
+11 Archimedes: Equilibrium of Planes S 02 a- 
+S19b / Floating Bodies S38a-560b / Method 
+569a-592a 
+
+14 Plutarch: Marcellus, 252a-2S5a 
+16 Kepler: Epitome, bk v, 964b-965a 
+19 Aquinas : Stimma Theologica, part i-ii, q 35, 
+A 8, ans ,779c'780c 
+
+23 Hobbes: Leviathan, part i, 72a-d; 73 b; part 
+iv, 268c-d 
+
+28 Galileo: Two New Sciences, first day, 
+131b-I32a; 133b; second day-fourth day 
+178a-260a,c 
+
+30 Bacon: Advancement of Learning, 46b-c 
+
+31 Descartes: Rules, iv, 7a; xiv, 31c-d / Dis- 
+course, PART I, 43b-c; PART HI, SOd / Objec- 
+tions and Replies, 169c-170a / Geometry, bk ii, 
+322b-331a 
+
+34 Newton: Principles, Ia-2a; def vhi 7b-Sa; 
+BK I, PROP 1-17 and SCHOL 32b-S0a; prop 30 - 
+98 and SCHOL 76a-157b esp prop 6g, schol 
+130b-131a; bk n lS9a-267a; bk hi, 269a-b 
+
+35 Hume: Hutnan Understanding, sect iv, div 
+27 460c-d 
+
+36 Swift; Gulliver, part hi, 94b-103a 
+42 Kant: Judgement, 551a'552a 
+
+45 Fourier: Theory of Heat, 169a-b; 172a'173b; 
+
+175b; 177a; 182b-184a; 249a-b 
+45 Faraday; Researches in Electricity, 83Ia'd 
+
+50 Marx: Capital, 170a-c 
+
+51 Tolstoy: War and Peace, bk xi, 469a-d 
+
+53 James: Psychology, 67Sb; 876a-b: 882a-SS3a 
+
+ia. Number and the continuum: the theory of 
+measurement 
+
+11 Euclid: Elements, bk v 81a-98b esp defini- 
+tions, 5 81a; bk vii, definitions, 20 127b; bk 
+X, PROP 1-2 191b'193a; prop 5-9 I95a-198b 
+11 Archimedes: Measurement of a Circle, prop 3 
+448b-45]b / Conoids and Spheroids, prop 3-6 
+458b-460b / Equilibrium of Planes, bk 1 , 
+PROP 6-7 503b'S04b 
+16 Ptolemy; Almagest, bk i, 18b'20b 
+28 Galileo: Two New Sciences, third day, 
+197b-200a; 205b-206c 
+
+31 Descartes: Rules, xiv, 31b-33b / Geometry, 
+BK I, 295a-296b 
+
+34 Newton: Principles, bk i, lemma i 25a 
+42 Kant: Judgement, 551a-SS2a 
+45 Fourier: Theory of Heat, 183a-b 
+51 Tolstoy: War and Peace, bk xi, 469a-d 
+
+3i. The geometry of conics: the motion of 
+planets and projectiles 
+11 Archimedes; Quadrature of the Parabola 
+527a-537b 
+
+11 Apollonius: Con/cy 603a-804b 
+16 Kepler: Epitome, bk v, 97Sa-979b 
+28 Galileo: Two New Sciences, second day 
+191c-19Sc; fourth day 238a-260a,c passim, 
+esp 238b-240a 
+
+• TliE GREAT IDEAS - ScioAc 
+
+(3. Tj^e use of mathematics in mechanics: the de- 
+pendence of progress in mechanics on 
+mathematical discovery. 5b. The geom- 
+etry of conics; the motion of planets attd 
+projectiles.) ^ 
+
+31 Descartes: Geometry, bk i-ii, 29Sb-314bj 
+34'Newton; Principles, bk i, prop it -29 'and 
+scHOL 42b-7Sb esp prop 11-13 42b-46a; bk 
+III, PROP 13 286a'b; prop 40 337b-338a 
+34 Huygens: Light, ch v, S83b-598a; 604b- 
+606b; CH VI, 607b-6na , 
+
+42 Kant: Judgement, 551a-552a 1 
+
+3t:. Algebra and analytic geometry: the sym- 
+bolic formulation of mechanical , prob- 
+lems 
+
+31 Descartes: Rules, iv, Sc-d; xiv, 30d-33b; 
+XVI 33d-3Sc; xviii 36b-39d / Geometry 29Sa- 
+353b esp bk i~ii, 298b-314b, bk ii, 322b- 
+331a 
+
+34 Newton: Principles, bk i, lemma 19 57b- 
+58b 
+
+34 Huygens: Light, ch vi, 610a-b 
+45 Lavoisier: Elements of Chemistry, prep, la 
+45 Fourier: Theory of Heat, 172a-173b; I77a- 
+351b 
+
+5d. Calculus: the measurement of irregular 
+areas and variable motions 
+11 Archimedes: Equilibrium of Planes, bk i, 
+prop 7 504b / Quadrature of the Parabola 
+S27a-S37b 
+
+16 Kepler: Epitome, bk v, 973a-975a; 979b- 
+g83b ■ •' 
+
+28 Galileo: Two New Sciences, second day, 
+193b-194d; third day, 205b-d; 224b-c 
+
+33 Pascal: Equilibrium of Liquids, 395a-b / 
+Geometrical Demonstration, 434b-435b 
+
+34 Newton: Principles, bk 1, lemma i-ii and 
+scHOL 25a-32a esp lemma ii, schol, 31a-b; 
+BK II, lemma 2 and schol 168a-170a 
+
+45 Fourier: Theory of Heat, 172b; 177a; 181a-b; 
+183a-b; 221a-248b 
+
+51 Tolstoy: War and Peace, bk xi, 469a-d; 
+EPILOGUE II, 695b-c 
+
+4. The place, scope, and ideal of the science of 
+mechanics: its relation to the philosophy 
+of nature and other sciences 
+
+23 Hobbes: Leviathan, part i, 72a-d 
+
+30 Bacon: Advancement of Learning, 16a-b; 33d- 
+34b / Novum Organum, bk i, aph 74 118b; 
+
+> • bk II, APH 9 140b-c / New Atlantis, >2166.- 
+214d 
+
+31 Descartes: Rules, iv, 7a; v, 8 a / Discourse, 
+PART v, 54d-56a; 59a 
+
+34 Newton: Principles, lb- 2 a; bk i, prop 69 , 
+schol 130b-131a / Optics, bk hi, 541b-542a 
+
+/ 34 Huygens: Light, ch i, 553b-554a 
+
+35 Home: Human Understanding, sect i, piv 9, 
+
+4S4c-d < " , 
+
+36 SwirT: Gulliver, part hi, 94b-I03a 
+42 Kant; Pure Reason, 32a; 69c-72c esp 71b-72a 
+/ Judgement, 563a-564c 
+
+45 Fourier: Theory of Heat, 169a-b; 172a-173b; 
+182a-184a 
+
+45 Faraday: Researches in Electricity, 468d-469a 
+53 James: Psychology, 69b-70a; 882a-886a esp 
+883a-884b; 889a-890a 
+
+4a. Terrestrial and celestial mechanics: the 
+mechanics of finite bodies and of parti- 
+cles or atoms 
+
+9 Aristotle : Motion of Animals, ch 3 [699“! i]- 
+CH 4 [7oo'’5] 234a-235a 
+
+16 Kepler: Epitome, bk iv; 888b-905a passim; 
+919b; 929a-933a; 935b; 940b-941a; 959a- 
+960a 
+
+28 Galileo: Two New Sciences, fourth day, 
+245b-d 
+
+30 Bacon: Novum Organum, bk ii, aph 5 138b- 
+139a; aph 35 162a-164a; aph 36, 165c-166c; 
+APH 46, 178c; APH 48, 186c-d 
+
+34 Newton: Principles, bk in, rules 270a-271b; 
+PROP 7 281b-282b / Optics, bk hi, 539a- 
+542 b 
+
+51 Tolstoy: War and Peace, bk xiii, 563a-b; 
+EPILOGUE II, 694d-696d 
+
+4b. The explanation of qualities and qualitative 
+change in terras of quantity and motion 
+8 Aristotle: Metaphysics, bk i, ch 4 
+503c-d / Sense and the Sensible, ch 4 [442“3o- 
+’’24] 680a-c 
+
+10 Galen: Natural Faculties, bk i, ch 2, 167b- 
+168b 
+
+12 Lucretius: Nature of Things, bk 11 [398-521] 
+20a-21c; [677-687] 23c'd; [730-1022] 24b- 
+28a; bk iv [522-721] 51a-53d 
+23 Hobbes: Leviathan, part i, 49b-d; part hi, 
+172b 
+
+31 Descartes; Objections and Replies, 231a-b 
+34 Newton: Optics, bk i, 431a-455a esp 450a- 
+
+453a 
+
+34 Huygens: Light, ch i, 553b-554a 
+
+35 Locke: Human Understanding, bk ii, ch viii, 
+SECT 4 133d; sect 7-26 134b-138b; ch xxi, 
+sect 3 178d; sect 75 200b-d; ch xxiii, sect 
+8-9 206a-c; sect ii 206d-207a; sect 37 213d- 
+214b; CH XXXI, sect 2 239b-d esp 23gd; 
+BK III, CH IV, sect 10 261b-d; bk iv, ch ii, 
+SECT 11-13 311c-312b; ch hi, sect 6, 314b; 
+SECT 12-14 316a-d; sect 28 322a-c 
+
+• 35 Berkeley: Hh/tmu Knowledge, sect 25 417d- 
+418a; sect 102 432d-433a 
+45 Fourier: Theory of Heat, 169b; 182a-b ^ - 
+
+4c. The mechanistic account of the phenomena 
+, ,, of life 
+
+7 Plato: Phaedo, 240d-242b / Sophist, 567a- 
+
+568a ^ 
+
+8 Aristotle: Sense and the Sensible ,, ^ch 4 
+[442’‘30-'’24] 680a-c 
+
+5 io 5d 
+
+9 Aristotle; Parts of Animals, bk i, ch i [640*’ 
+. 5-64 i‘'i 9] 163a-164a' / Motion of Animals, 
+
+CH 7 [70i’’i-3o] 236d-237b; ch 8 [702“22]- 
+CH io [703*’!] 237c-239a / Gait of Animals 
+243a-2S2a,c / Generation of Animals, bk ii, 
+CH I [734‘’3-2o] 27Sa-b; ch 5 [74i'’5-io] 282c 
+10 Galen; Natural Faculties, bk i, ch i2-bk ii, 
+ch 8 172d-195c esp bk i, ch 12 172d-173c, 
+BK li, CH 3, 185aj CH 6188c-I9I'a; bk hi, ch 
+14-15, 213b-214c ' 
+
+12 Lucretius:' of Things,' bk ii [865- 
+1022] 26a-28a; bk hi [94-869] 31b-41a; bk v 
+- [783-836] 71b-72a 
+23 Hobbes: Leviathan, intro, 47a-b' 
+
+. 28 Harvey; On Animal Generation, 355b-d; 
+495c-496d ■ • 
+
+31 Descartes: Discourse, part v, 56a-60b 
+
+34 Newton: Optics, bk i, 384b'385b; 428a'b; 
+BK IH, 518b'519b; 522a 
+
+35 Locke: Human Understanding, bk ii, ch ix, 
+sect II 140b-c; ch x, sect io 143c-d; ch 
+XI, SECT II 145d-146a; ch xxvh, sect 5 
+220b-c; BK IV, ch hi, sect 25 321a-b 
+
+ZZP.ovs,sv.Axs: .Inequality, 337d-338a / Political 
+Economy,' 368d-369a 
+
+iZ Kant: ■ Judgement, 571c-572a; 575b-578a; 
+578d-582c 
+
+45 Lavoisier: Elements of Chemistry, part i, I4a 
+45 Faraday: Researches in Electricity, ' 4401), d; 
+540a-541a,c 
+
+49 Darwin: Origin of Species, 89b-c 
+SI Tolstoy: War and Peace, bk x, 449b-c; 
+epilogue II, 689c-690a 
+
+53 James: Psychology, Sa-6b; 9a'17b; 44a-S2a; 
+
+' 68a-7la; 95b-98a 
+
+54 Freud: Instincts, 412c-414c / Beyond the 
+Pleasure Principle, 651d-657d passim, esp 
+651d, 652d; 659d'661c esp 660a / Ego and 
+Id, 708d-709b; 711c-d 
+
+5. The basic phenomena and problems of me- 
+chanics; statics and dynamics 
+
+5a. Simple machines: the balance and the lever 
+
+8 Aristotle : Physics, bk vih, ch 4 [255“2o-22] 
+339d 
+
+10 Hippocrates: Fractures, par 31, 87c 
+
+H AEchimedes: Equilibrium of Planes, bk i, 
+postulates, 1-3 502a; 6 502b; prop 1-3 
+502b-503a; prop 6-7 503b-504b 
+■14 Plutarch: Marcellus, 252c-d 
+16 Kepler: Epitome, bk iv, 933b-934b; bk v, 
+970b-g72a 
+
+28 Galileo: Two New Sciences, second day, 
+178b-180c; third day, 209a-210a; fourth 
+day, 258c-d 
+
+33 Pascal: Equilibrium of Liquids, 390a-394b 
+
+34 Newton: 'P«’nap/e.f, corol h 15a-16b; laws 
+of motion, schol, 23a-24a 
+
+35 Hume: Human Understanding, sect iv, div 
+27, 460c ’ 
+
+so Marx: Capital, 181a 
+
+5b. The equilibrium and motion of fluids: 
+
+• buoyancy, the weight- and pressure of 
+' air, the' effects of a vacuum ' • - 
+
+■ 8 Aristotle: Heavens, bk iv, ch 6-404d-405a,c 
+
+■ 10 Galen: Natural Faculties, bk i, ch 16, 181a'd; 
+
+BK II, CH 1-2, ■183b,d-184c; ch 6 188c-191a; 
+bk hi, ch 14-15, 213b-214c 
+
+11 Archimedes: Floating Bodies 538a-560b 
+
+28 Galileo: Two New Sciences, first day, 135b- 
+138b; 163a-166c 
+
+30 Bacon: Novum Organum, bk ii, aph 48, 180a 
+
+33 Pascal; Vacuum, 359a-365b / Great Experi- 
+ment 382a-389b / Equilibrium of Liquids 390a- 
+403a / Weight of Air 403a-429a 
+
+34 Newton: Principles, bk ii, prop 19-23 and 
+schol 194b'203a; prop 36 226a-231b; hy- 
+pothesis-prop 53 and schol 259a-267a; bk 
+III, PROP 41, 356b-357b / Optics, bk hi, 518a-b 
+
+35 Locke: Human Understanding, bk ii, ch 
+' xxiii, sect 23-24 209d-210c 
+
+45 Lavoisier: Elements of Chemistry, part i, 10c- 
+12d; 15c-16d; part hi, 88d-89d; 96b-99a 
+
+5c. Stress, strain, and elasticity: the strength of 
+materials 
+
+28 Galileo: Two New Sciences, first day, 131a- 
+139c; second day 178a-196d passim 
+30 Bacon: Novum Organum, bk ii, aph 48, 
+180a-d; 187d 
+
+34 Newton: Principles, laws of motion, schol, 
+21b'22a; bk h, prop 23 and schol 201b-203a 
+/ Optics, bk hi, 540b-541a 
+
+34 Huygens; Light, ch 1, 558b-S59b 
+
+35 Locke: Hitman Understanding, bk h, ch 
+XXIII, sect 23-27 209d-211b 
+
+45 Lavoisier: Elements of Chemistry, part i, 14c- 
+15c; PART HI, 96b-99a 
+45 Fourier: Theory of Heat, 192a-b 
+
+5d. Motion, void, and medium: resistance and 
+friction 
+
+7 Plato: Timaeus, 460c-d 
+
+8 Aristotle: Physics, bk iv, ch 6-9 292c-297c 
+/ Heavens, bk hi, ch 2 [30i°2i-''3i] 392c-393b 
+/ Dreams, ch 2 [459^28-34] 703b 
+
+12 Lucretius: Nature of Things, bk i [329-448] 
+5b-6c; [951-1051] 12d-14a; bk ii [142-166] 
+16d-17a; [225-242] 17d-18a; bk vi [830-839] 
+91b-c 
+
+16 Kepler: Epitome, bk iv, 857a-b 
+20 Aquinas: Summa Theologica, part hi, Q 84, 
+
+A 3, REP 2 985d-989b 
+28 Gilbert: Loadstone, bk vi, 110c 
+28 Galileo: Two New Sciences, first day, 134a- 
+135b; 157b-171b; fourth day, 241d-243c 
+30 Bacon: Novum Organum, bk ii, aph 8 140b; 
+
+APH-36;’167b-c; aph 48, 186a; 187a; 187c 
+34 Newton: Principles, bk ii 159a-267a passim, 
+esp GENERAL SCHOL 211b'219a; bk hi, prop 
+6, corol hi 281b; prop io 284a-285a / 
+Optics, bk hi, 521b-522a; 527a-528b 
+
+(5. The basic phenomena and problems of me- 
+chanics: statics and dynamics. 5d. Motion, 
+void, and medium; resistance and Jrictioni) 
+35 Locke: Human Understanding, bk n, ch xiii, 
+SECT 22-23 153b-d; ch xvii, sect 4 168b-d 
+42 Kant: Pure Reason, 71b-72a 
+
+5e. Rectilinear motion 
+
+8 Aristotle : P/yw'dr, bk v, ch 4 (228’’i5-229®7] 
+309d-310a; bk viii, ch 8 [26i*’27-263’'3] 348b- 
+349c / Heavens, bk i, ch 2 (268'’i5-24] 359d 
+28 Galileo: Two Hew Sciences, first day, 157b- 
+171b; THIRD DAY 197a-237a,c 
+30 Bacon: Novum Organum, bk ii, aph 48, 
+186b-c 
+
+34 Newton: Principles, law i-ii 14a-b; bk i, 
+PROP 32-39 81a-88a; bk ii, prop 1-14 159a- 
+189a passim 
+
+5e(l) Uniform motion: its causes and laws 
+28 Galileo: Two New Sciences, first day, 162c- 
+163a; third day, 197b-200a 
+34 Newton: Ptinciples, def iii-iv 5b-6a; law i 
+14a; COBOL iv-v lSa-19a; bk ii, prop i, 
+COROL lS9a; prop 2 lS9b-160a; prop 5-6 
+165a-167a; prop 11-12 183a-184b 
+
+5e(2) Accelerated motion: free fall 
+
+8 Aristotle: Physics, bk iv, ch 8 [2r5“24- 
+2 i6''2i] 295a-d / Heavens, bk hi, ch 2 (301*’ 
+16-31] 393a-b 
+
+12 Lucretius: Nature of Things, bk ii [225-242] 
+17d-18a 
+
+16 Ptolemy: Almagest, bk i, lOb-llb 
+19 Aquinas: Summa Theologica, part i, q 115, 
+A I, REP 3 585d-587c 
+
+28 Galileo: Ttvo New Sciences, first day, 157 b- 
+171 b; third day, 200 a- 237 a.c 
+30 Bacon: Novum Organum, bk ii, aph 36, 
+166 b-c; APH 48, 181 d 
+
+34 Newton: Principles, def iv 6a; law ii 14a-b; 
+COROL VI 19b; bk i, prop 32-39 81a-88a; bk 
+II, prop 3-4 160b-16Sa; prop 8-10 170a-179a; 
+prop 13-14 184b-189a; prop 32-40 and schol 
+219a-246b esp prop 40, schol 239a-246b; 
+prop 41-50 and schol 247a-259a 
+
+5f. Motion about a center: planets, projectiles, 
+pendulum 
+
+8 Aristotle: Physics, bk viii, ch 8-10 348b- 
+355d / Heavens, bk i, ch 2 359d-360d; ch 4 
+362a-c; bk ii, ch 3-12 377c-384c / Metaphys- 
+ics, bk XII, ch 8 603b-605a / Soul, bk i, ch 3 
+[4 o 6’’26-407 ’’i 3] 636b-637b 
+16 Kepler: Epitome, bk iv, 89Sb-90Sa passim; 
+913a; 914b 915a; 918b-928a passim; g33a- 
+946a esp 939a-940b; bk v, 965a-966a / Har- 
+monies of the World, 101Sb-1023a 
+28 Galileo: Two New Sciences, fourth day, 
+240a-d 
+
+30 Bacon: Novum Organum, bk ii, aph 36, 
+167b-o: APH 46, 177c-178a; aph 48, 186b-d 
+
+5e to 6b 
+
+34 Newton: Principles, def v 6a-7a; laws of 
+MOTION, SCHOL, 19b-20a; bk i, lemma i-n 
+and SCHOL 25a-32a; prop 1-3 and schol 32b- 
+35b esp PROP 3, SCHOL 35b; prop 46 lOla-b; 
+bk II, PROP 51-53 and schol 259a-267a esp 
+PROP 53, SCHOL 266a-267a; bk hi, phenom- 
+ena 272a-275a; prop 13 286a-b 
+
+5/(1) Determination of orbit, force, speed, 
+time, and period 
+
+12 Lucretius: Nature of Things, bk v [614-649] 
+69a-c 
+
+16 Kepler: Epitome, bk iv, 905a-907a; bk v, 
+968a-985b esp 975a-979b 
+
+28 Galileo: Two New Sciences, first day, 
+166d-168a; 171b-172d; third day, 203d- 
+205b; 235b-d; fourth day 238a-260a,c 
+
+30 Bacon: Novum Organum, bk ii, aph 48, 
+186b-d 
+
+34 Newton: Principles, laws of motion, schol, 
+19b-22a; bk 1, prop 1-17 and schol 32b-50a; 
+prop 30-31 and schol 76a-81a; prop 40-42 
+88b-92b; prop 46-47 and schol 101a-102a; 
+PROP 51-56 105b-llla; bk ii, prop 4 161b- 
+165a; prop 10 and schol 173b-183a; lemma 
+3-PROP 18 lS9b-194b; prop 24-ceneeal 
+schol 203a-219a; bk hi, prop 1-5 and schol 
+276a-279a; prop 13 286a-b; prop 20 29Ib- 
+294b; LEMMA 4-PROP 42 333a-368b 
+
+35 Locke: Human Understanding, bk ii, ch xiv, 
+sect 21 159a-d 
+
+35 Berkeley: Human Knowledge, sect hi, 
+434d 
+
+5/(2) Perturbation of motion: the two and 
+three body problems 
+
+16 Kepler: Epitome, bk iv, 920b-921b: 922b- 
+926a; 957b-959a 
+
+28 Gilbert: Loadstone, bk ii, 54c-d; 55c-56b 
+
+34 Newton: Principles, bk i, prop 43-45 92b- 
+101a; mb; prop 57-69 and schol lllb-131a; 
+BK HI, prop 5, COROL III 279a; prop 12-14 
+and SCHOL 285a-287b; prop 21-39 294b-333a 
+
+45 Faraday: Researches in Electricity, 817a-b 
+
+6. Basic concepts of mechanics 
+
+6a. Center of gravity: its determination for one 
+or several bodies 
+
+11 Archimedes: Equilibrium of Planes 502a- 
+519b / Method, prop 6 578a-S79a; prop 8-9 
+S80b-582b 
+
+31 Descartes: Objections and Replies, 231c-d 
+
+33 Pascal: Equilibrium of Liquids, 393b-394a 
+
+34 Newton: Principles, corol iv 18a-19a; bk hi, 
+hypothesis i-prop 12 285a-286a 
+
+6b. Weight and specific gravity: the relation of 
+mass and weight 
+7 Plato: Timaetis, 462d-463c 
+S Aristotle: Physics, bk iv, ch 8 [2i6“i2-2o] 
+295c-d / Heavens, bkh, ch 3 [afig’^ifi-ayo^ia] 
+360d-361b; ch 6 [273“22-274“i8] 364c-365b; 
+
+6c to 6d{2) Chapter 54 : MECHANICS 1 07 
+
+BK ill, CH 2 [30i'‘2i-'’32] 392c-393b; bk iv, 
+CH 1-3 399a-402c 
+
+12 Lucretius: Nature of Things, bk r [358-369] 
+5c; BK H [80-108] 16a-b: [294-296] I8d 
+16 Copernicus; Revolutions of the Heavenly 
+Spheres, bk i, 521a 
+16 Kepler: Epitome, bk v, 970b 
+19 Aquinas: Summa Theologiea, part i-ii, q 26, 
+
+A 2, ANS 734d-735c 
+23 Hobbes: Leviathan,. vakt iv, 271d 
+28 Gilbert: Loadstone, bk vi; 115d-116a 
+28 Galileo: Two New ■ Sciences, ■ first day, 
+158b-c; I60a-164a passim 
+
+30 Bacon: Novum Organum, fk ii, aph 24, 
+154d'155a; aph 35, 163c-d; aph 36, 166b-c; 
+APH 40, 172a-b 
+
+31 Descartes: Objections and Replies, 231b-232ay 
+
+' 34 Newton; Principles, def 1 5a; bk ii, prop 24 
+
+203a-204a; bk hi, prop 6 279b-281b; prop 8 
+282b'283b; prop 20 291b'294b passim 
+45 Lavoisier: Elements of Chemistry, part hi, 
+88d-89d ' 
+
+45 Fourier: Theory of Heat, 249a-251b 
+45 Faraday; Researches in Electricity, 632a 
+
+6 c. Velocity, acceleration, and momentum; an- 
+gular or rectilinear, average or instan- 
+taneous 
+
+8 Aristotle: Physics, bk iv, ch 8 [2i5“24- 
+2 i6"2i] 295a-d; bk v, ch 4 [228“2o-229'‘7] 
+309b-310a; bk vi, ch 1-2 312b,d-315d; bk 
+VII, ch 4 330d-333a 
+
+28 Galileo; Two New Sciences, first day, 166d- 
+168a; third day, 197b-c; 200a-207d; 209a- 
+210a; 224b-22Sd; fourth day, 240a-d; 243d- 
+249b 
+
+30 Bacon: Novum Organum, bk ii, aph 46, 177d- 
+178d 
+
+34 Newton: Principles, def ii Sb; def vii-viii 
+7a-8a; law ii 14a-b; corol hi 16b-17b; laws 
+OF motion, schol, 20a-22a; bk i, lemma 10 
+28b-29a; lemma ii, schol, 31b-32a; prop i, 
+COROL I 33a / Optics, bk hi, S40a-541b 
+
+35 Home: Human Understanding, sect iv, div 
+27 , 460c 
+
+51 Tolstoy: War and Peace, bk xi, 470d-471a; 
+BK XIV, 589d 
+
+6d. Force: its kinds and its effects 
+
+8 Aristotle: Physics, bk vii, ch 5 333a-d; 
+BK VHI, CH 10 [266''25-267“20] 353c-354d / 
+Heavens, bk hi, ch 2 [3oi*’2-32] 392d-393b 
+
+9 Aristotle: Motion of Animals, ch 3 234a-c 
+16 Kepler: Epitome, bk iv, 93Sb-93ga; bk v, 
+
+, 969a'971b 
+
+19 Aquinas: Summa Theologiea, part i, q 105, 
+A 4, rep I 541c- 542a; part i-ii, q 23, a 4 
+726a-727a 
+
+20 Aquinas; Summa Theologiea, part hi, Q 84, 
+a 3, rep 2 985d-989b 
+
+28 Gilbert; Loadstone, bk ii, 26d-40b passim 
+
+31 Descartes: Rules, ix, 15c / Objections and 
+Replies, 231c-232a 
+
+34 Newton: Principles, def ih-vhi 5b-8a; def- 
+■ iNiTioNs, SCHOL, lla-13a; law ii 14a-b; bk i, 
+LEMMA 10 28b-29a; prop 6 37b'3Sb; bk hi, 
+PROP 6, COROL V 281b; general schol,' 371b- 
+• 372a / Optics, bk hi, S31b; 541b-542a 
+■35 Berkeley: Human Knowledge, sect 103-106 
+433a-d 
+
+36 Swift; Gulliver, part hi, 118b-119a 
+45 Faraday; Researches in Electricity, 338a-b; 
+514d-532a; 595a; 603d; 646b-65Sd; 670a- 
+. 674a; 6S5d-686b; 817a-818d; 819b,d; 850b,d- 
+855a,c esp 855a,c 
+54 Freud; Narcissism, 400d'401a 
+
+6t7(l) The relation of mass and force: the law 
+of universal gravitation 
+16 Kepler: Epitome, bk iv, 910b 
+28 Gilbert: Loadstone, bk ii, 5Ic-52c 
+
+30 Bacon: Novum Organum, bk h, aph 24, 
+154d-155a; aph 36, 166b-c; aph 40 170c-173d 
+
+31 Descartes; Objections and Replies, 231C'232a 
+
+34 Newton: Principles, bk 1, prop 69-93 and 
+schol 130a-152b esp prop 75-76 134b-136a; 
+BK HI, PROP 1-7 276a-282b esp prop 7 281b- 
+282b; GENERAL schol, 371b / Optics, bk hi, 
+531b- S43a esp 541b-542a 
+
+35 Berkeley: Human Knowledge, sect 103-106 
+433a-d 
+
+35 Hume: Human Understanding, sect vii, div 
+57, 475d [fn 2] 
+
+45 Faraday: Researches in Electricity, 850b, d- 
+855a,c esp 855a,c 
+
+49 Darwin: Origin of Species, 239c 
+51 Tolstoy: War and Peace, epilogue ii, 695c 
+54 Freud; Narcissism, 400d-401a 
+
+6d{2) Action-at-a-distance: the field and medi- 
+um of force 
+
+8 Aristotle: Physics, bk vih, ch 10 [266'’27- 
+267*21] 354b-d / Heavens, bk hi, ch 2 
+[30i'’i6-3i] 393a-b / Dreams, ch 2 [459*28- 
+34] 703b 
+
+12 Lucretius : Nature of Things, bk vi [906- 
+1089] 92b-94c 
+
+16 Kepler: Epitome, bk iv, 897b-90Sa esp 900b- 
+901b: 906a-b; 922a-b: 934b 
+19 Aquinas: Summa Theologiea, part i, q 8, a 
+I, REP 3 34d-35c 
+
+28 Gilbert: Loadstone, bk i, lOa-c; bk ii, 26d- 
+40b esp 30a-32c; 42b-43c; 45d-47b; 51a-c; 
+54d-55c; bk v, 102d-104b; bk vi, 112d 
+28 Galileo: Two New Sciences, third day, 202d 
+
+30 Bacon: Novum Organum, bk 11, aph 37 168d- 
+169c; APH 45 176a-177c; aph 48, 183a-c; 186a 
+
+31 Descartes: Rules, tx, 15c / Discourse, part 
+V, 5Sc 
+
+34 Newton: Principles, def v-vhi 6 a- 8 a; bk i, 
+prop 69 , schol 130b-131a; bk hi, general 
+schol, 371b-372a / Optics, bk hi, 507a-516b; 
+S20a-522a esp 521a-b; 531b-542a passim 
+
+35 Home: Human Understanding, sect vii, div 
+57 , 47Sd [fn 2 ] 
+
+42 I^nt: Pure Reason, 227b 
+
+THE GREAT IDEAS 6^3) to 7a(3) 
+
+(6ci. Force: its hinds and its effects. 6d(2) Action- 
+at-a-distance; the field and tnedinm of 
+, force.) 
+
+45 Lavoisier: Elements of Chemistry, part i, Qb-c 
+45 Faraday: Researches in Electricity, 441a-442b: 
+451a-4S4a; 463d-465d; 5I3d-514c; 521a-524a; 
+528c-532a; 604b-c; 63Ib-c; 648b-d; 685d' 
+686c; 816b,d-819a,c; 819a-d; 824a-b: 832a-c: 
+840c'842c; 855a, c, 
+
+f 
+
+6d(3) The parallelogram law: the composition 
+of forces and the composition of veloci- 
+ties 
+
+16 Kepler: Epitome, bk v, 969a'970a 
+28 Galileo: Two New Sciences, third day, 
+224d-225c; fourth day, 240a-d; 243d-249b 
+passim 
+
+34 Newton: Principles, corol i-ii 15a-16b 
+45 Faraday: Researches in Electricity, 691b-692a; 
+788c-793c; 817a-b 
+
+SI Tolstoy: War and Peace, bk xm, 570d 
+S3 James : Psychology, 105a 
+
+6e. Work and energy: their conservation; per- 
+petual motion 
+
+28 Gilbert: Loadstone, bk ii, 56b-c 
+31 Descartes: Rules, xin, 27c 
+
+33 Pascal: Equilibrium of Liquids, 392b-394b 
+
+34 Newton: Principles, corol ii ISa-16b; laws 
+OF motion, schol, 23a-24a 
+
+45 Faraday: Researches in Electricity, 582b-S84a; 
+
+837b-c; 837d-840c 
+S3 James : Psychology, 884a 
+
+7. The exceasioa of mechanical principles to 
+other phenomena: optics, acoustics, the 
+theory of heat, magnetism, and electric- 
+ity 
+
+la. Light: the corpuscular and the wave theory 
+
+8 Aristotle: Soul, bk ii, ch 7 [4i8'‘26-4i9''24] 
+649b-650b 
+
+12 Lucretius : Nature of Things, bk iv [364- 
+378] 48d-49a 
+
+16 Kepler: Epitome, bk iv, 896b; 901a-g03a; 
+922b-926a passim 
+
+17 Plotinus: Fourth Ennead, tr v 183a-189b 
+
+19 Aquinas: Summa Theologica, part i, q 53, 
+A 3, ANS and REP 2 283b-284d; Q 67 349d- 
+354a; q 104, a i, ans and rep 1,4 534c-536c 
+
+20 Aquinas: Summa Theologica, part hi suppl, 
+Q 92, A 1, REP 15 I025c-1032b 
+
+28 Gilbert: Loadstone, bk ii, 43a'b 
+
+30 Bacon: Novum Organum, bk ii, aph 36, 
+167a-b; aph 37, 169a-c; aph 48, 18Sa-c / New 
+Atlantis, 212d-213a 
+
+31 Descartes: Discourse, part v, 54d-S5b 
+
+33 Pascal: Vacuum, 366b-367a 
+
+34 Newton: Principles, bk i, prop 94-98 and 
+SCHOL 152b-157b; bk ii, prop 41-42 247a- 
+249b; PROP 50, schol, 2S7b / Optics 377a- 
+
+544a passim, esp bk i, 379a, bk 11, 492a-495bi 
+BK III, 525b-531b 
+
+34 Huygens: Light 551a-619b passim, esp ch i 
+S53a-563b 
+
+35 Locke: Human Understanding, bk hi, ch iv, 
+sect 10 261b-d; bk iv, ch ii, sect 11-13 Sllc- 
+312b 
+
+45 Lavoisier: Elements of Chemistry, part i, 
+lOb-c 
+
+45 Faraday; Researches in Electricity, S95a- 
+607a, c; 817b-c 
+
+49 Darwin: Origin of Species, 239c 
+
+7a(l) The laws of reflection and refraction 
+
+7 Plato: Timaetis, 4S4c-455a 
+
+8 Aristotle: Meteorology, bk hi, ch 2-6 476b- 
+482d / Soul, bk II, ch 8 [4i9’’28-33] 651a 
+
+12 Lucretius: Nature of Things, bk iv I269-323] 
+47d'48b; [436-442] 49d-50a 
+
+20 Aquinas: Summa Theologica, part hi suppl, 
+Q 82, A 4, rep 5 972d-974c 
+
+21 Dante; Divine Comedy, purgatory, xv [i6- 
+24] 75c 
+
+31 Descartes; Rules, viii, 12b-13a/ Geometry, 
+BK II, 322b-331a 
+
+34 Newton: Principles, bk i, prop 94 152b-153b; 
+prop 96-98 and schol 154b-157b / Optics, 
+bk I, 379a-423b passim, esp 379a-386b, 409a- 
+412a; bk II, 478b-479b; 485b-495b; bk hi, 
+520b; 522b-S30b passim 
+34 Huygens: Light, ch h-vi 563b-619b esp CH 
+H-Hi 563b-575a 
+
+la{i) The production of colors 
+
+7 Plato: Meno, 177b-c / Timaeus, 46Sb-d 
+12 Lucretius: Nature of Things, bk ii [730-841] 
+24b-25c; bk vi [524-526] S7b ■ 
+
+16 Kepler: Epitome, bk iv, 901b 
+19 Aquinas: Summa Theologica, parti, q 14, a 
+6, ANS 80a-81c 
+
+30 Bacon: Novum Organum, bk ii, aph 23, 
+154a-b 
+
+31 Descartes: Discourse, part v, 55c-d / Objec- 
+tions and Replies, 231b 
+
+34 Newton: Optics, bk i-ii 379a-506b passim, 
+esp BK I, 424a-428b, 440a-441b, 453a-455a, 
+bk ii, 481a-482a; bk hi, S19a-b 
+48 Melville: Moby Dic\, 144b-145a 
+
+7<i(3) The speed of light , » 
+
+12 Lucretius; Nature of Things, bk iv [176-208] 
+46c-47a; bk vi [164-172] 82b-c 
+28 Galileo: Two New Sciences, first day, 148b- 
+149c 
+
+30 Bacon: Novum Organum, bk ii, aph 46, 
+178a-b 
+
+31 Descartes: Discourse, part v, 55b 
+
+34 Newton: Principles, bk i, prop 96, schol, 
+155a / Optics, bk 1, 379b; bk ii, 488b-492a 
+34 Huygens: Light, ch 1, 554b-557b; ch hi, 
+570a-S75a 
+
+45 Faraday: Researches in Electricity, 817b 
+
+7ai^)to7d{2) Chapter 54: MECHANICS 109 
+
+7<»(4) The, medium of light: the ether 
+
+8 Aristotle: Soul, bk ii, ch 7 [4i8“27-4i9“24] 
+649b-650b; bk hi, ch 12 [434*’22-43g‘'ii] 
+667c-668a / Sense and the Sensible, ch 3 676a- 
+678b; ch ,6 [446“20-447 ''i 2 ] 684c-685c 
+12 Lucretius: Na/wre of Things , v [449-508] 
+67a-c 
+
+• 16 Kepler: Epitome,. bk. iv, 857a-b; QOla-b 
+19 Aquinas: Stmma .Theologica,VAi>.r 1 , q 14 , a 
+6, ANS 80a-81c • • 
+
+30, Bacon: Novum ' Organum, bk 11 , aph 48, 
+186a ■ ,1 
+
+33 Pascal: Vacuum, 366a-367a 
+
+•34 Newton: bk hi, 'general'.schol, 
+
+372a / Optics, BK in, 520a-522b; 525b-S29a 
+
+34 Huygens: Light, ch i, 5S3b-560b esp SS7b- 
+
+560b . - . . - 
+
+45 Faraday: Researches in Electricity, S95b [fn 2] 
+
+7a. Sound: the mechanical explanation of 
+acoustic phenomena 
+
+, 7 Plato: Meno, 177b-c / Timaeus, 471b 
+
+8 Aristotle: Soul, bk 11 , ch 8 650c'652c 
+
+9 Aristotle: Generation of Animals, bk v, ch 7 
+. , , 328c-330b • 
+
+12 Lucretius: Nature of Things, bk iv [ 524- 
+• 614] 5Ia-52b ‘ 
+
+17 Plotinus: Fourth Ennead, tr v, ch 5 186b-d 
+28 Galileo: Two New Sciences, first day, 
+172b-177a,c 
+
+30 Bacon: Novum Organum, bk 11 , aph 46, 
+178a; APH 48, 185a-c; 186a / New Atlantis, 
+
+... 213b . . . • 
+
+31 Descartes: Rules, xiii, 25c 
+
+34 Newton: Principles, bk ii, prop 41-50 and 
+schol 247a-259a passim / Optics, bk hi, 
+525b-526a 
+
+, 34 Huygens : Light, ch i, 554b-558b passim 
+45 Faraday: Researches in Electricity, 485b-486b 
+
+7c. The. theory of heat 
+
+7c( 1) The description and explanation of the 
+phenomena of heat: the hypothesis of 
+caloric 
+
+7 Plato: Timaeus, 462c-d / Theaetetus, 533b-c 
+
+8 Aristotle: Heavens, bk ii, ch 7 380c-d 
+
+12 LucRETius:- Nfl/«rc of Things, bk v [ 592- 
+613] 68d-69a; bk vi [ 132-322] 82a-84c; [848- 
+905] 91c-92b 
+
+19 Aquinas: Siimma^ Theologica, part i, q 67, 
+A 3, ANS and REP 1,3 351b-352a; q 104 , a i, 
+ANS 534c-S36c ' 
+
+30 Bacon: Novum Organum, bk ii, aph 10-20 
+140c-153a; aph 24, 154c-d; aph 26, 157a; 
+APH 33, 161c; aph 36, 168b'd; aph 48, 182b; 
+183d; 184d-185a; aph 50, 190b-192b 
+
+31 Descartes:' Objections and Replies, 231a-b 
+34 Newton: Principles, bk iii, general'schol, 
+
+372a / Optics, bk iii, 516b-518b; 520a-b; 
+S41a-b 
+
+- 42 KANT:/«dgeDjenf, S45b-546b 
+, 45. Lavoisier: Elements of Chemistry, part i, 
+. 9a-16d 
+
+45 Fourier: Theory of Heat l^^o-ISVo passim . 
+
+• 45 Faraday: in Electricity, 812b-c; 
+
+813b-815b; 857a-858d ' 
+
+51 Tolstoy: War and Peace, bk xiii, S87b-c; 
+EPILOGUE II, 687d 
+
+7c(2) The measurement and the mathemati- 
+•• -■ ; cal analysis', of the quantities of heat 
+
+33 Pascal: Great Experiment, 388a 
+
+■ 45 Lavoisier: Elements of Chemistry, part i, 
+14a-c; 33b-36a;' part iii, 99d-103b‘ 
+
+• 45 Fourier: Theory of Heat, 184b-lS5b 
+
+7d. Magnetism: the great magnet of the earth 
+10 Galen: Natural Faculties, bk i, ch 14, 177a- 
+178c 
+
+12 Lucretius : Nature of Things, bk vi [906- 
+1089] 92b-94c 
+
+28 Gilbert: Loadstone, bk i, 23b'25d; bk vi 
+106a-121a,c 
+
+30 Bacon: Novum Organum, bk ii, aph 36, 
+166c-167a: aph 45, 176b-c; aph 48, 183b-c 
+36 Swift: Gulliver, part iii, 100a-102a 
+45 Faraday: Researches in Electricity, 286a-294a; 
+697b-757d 
+
+7</(l) Magnetic phenomena: coition, verticity, 
+variation, dip 
+
+7 Plato: Ion, 144b / Timaeus, 471b-c 
+
+8 Aristotle: Physics, bk vhi, ch 10 [266’’3o- 
+267’‘2] 354b-c 
+
+16 Kepler: Epitome, bk iv, 897b-898b; 935a- 
+936a; 941b-942a 
+
+28 Gilbert: Loadstone, bk i-v 3a-105d pas- 
+sim 
+
+30 Bacon: Novum Organum, bk ii, aph 25, 
+155c-d: aph 35, 163c-d; aph 36, 166c-167a; 
+aph 37, 169b'C; aph 42, 174b-c; aph 45, 
+176b-c; APH 48, 182c; 183b'C; 184a; 185a-d 
+45 Faraday: Researches in Electricity, 595a-600a; 
+607a-669d; 673b,d-757d; 812b-c; 813b-815b; 
+85Sa-866a,c 
+
+7</(2) Magnetic force and magnetic fields 
+16 Kepler: Epitome, bk iv, 897b-898b; 935a- 
+936a: 941b-942a 
+
+28 Gilbert: Loadstone, bk ii, 26d'43c esp 38a- 
+39b: 45d-47b; S4d-55c; bk v, 102d-10Sd 
+30 Bacon: Novum Organum, bk ii, aph 37, 
+169b-c; APH 45, 176b-c 
+
+34 Newton: Principles, bk i, prop 69 , schol, 
+130b; BK II, PROP 23 , schol 202b'203a; bk 
+III, PROP 6 , COBOL V 281b; prop 7 , corol I 
+
+, 282a,/ Optics, bk hi, 531b 
+45 Faraday: Researches in Electricity, 281c-282c; 
+298d-301a; 302a-d; S28c-532a; 603d-604c; 
+679a-b; 690a'697b: 7S8a-795d; 816b,d-824b; 
+830b-848a,c 
+
+48 Melville: Moby Dic\, 376b-379a 
+
+110 THE GREAT IDEAS 7f/o7e(5 
+
+( 7 . The extension of mechanical principles to 
+other phenomena; optics, acoustics, the 
+theory oj heat, magnetism, and electricity!) 
+
+7e. Electricity; electrostatics and electrody- 
+namics 
+
+28 Gilbert; Loadstone, bk ii, 26d-34b 
+
+34 Newton: Principles, bk hi, prop 7 , corol i 
+282a; general schol, 372a / Optics, bk m, 
+531b; 542a 
+
+45 Faraday: Researches in Electricity, 514d-528c 
+
+7 e(l) The source of electricity: the relation of 
+the kinds of electricity 
+
+45 Faraday: Researches in Electricity, 269a-273a; 
+277a-31Ca esp 281d-282c, 302a-d, 31Sd-316a; 
+386c-422a,c; 433a-440a,c; 532b-539b; 541b,d' 
+594d; 813a-b; 824b-830b esp 826a-b, 829d' 
+830a 
+
+49 Darwin: Origin of Species, 89b-c 
+
+7e(2) Electricity and matter: conduction, in- 
+sulation, induction, electrochemical de- 
+composition 
+
+30 Bacon; Novum Organum, bk ii, aph 48 , 
+18Ib-c 
+
+45 Faraday: Researches in Electricity, 265a- 
+269a; 273a-277a;306a; 309a-312a;312c-3I3d: 
+314b; 31Sa-b; 319b,d-34Sd; 361a-432d; 
+
+440b,d-514c; 5I5a-d; 522b,d-532d; S4lb,d 
+584a, c; 824b-830b; 84Sb,d-855a,c 
+
+7e(3) The relation of electricity and magnet 
+ism: the electromagnetic field 
+28 Gilbert: Loadstone, bk ii, 26d-34b 
+34 Newton: Principles, bk hi, prop 7, corol 
+282a 
+
+45 Faraday: Researches in Electricity, 266b-d 
+269a-302d; 305d-306a; 307a'309a; 3I3d 
+
+314c; 315a; 520b-521a; S28c-532a; 595c 
+615a-619c; 658b,d-667c; 685d-686b; 7S9( 
+7S8c; 795b,d-813a; 816b,d'8I9a,c 
+
+7e(4) The relation of electricity to heat an 
+light; thermoelectricity 
+34 Newton: Principles, bk hi, general schoi 
+372a / Optics, bk hi, 5I6b-S17a 
+45 Faraday: Researches in Electricity, 30Sb-c 
+306d-307a: 313d-314a; 314c-d; 315a; 4041 
+405a; 476a-506a; 51Sd-516a; 518a-d; 561b, c 
+569b; 580d-582b; 595a-607a,c 
+51 Tolstoy: War and Peace, epilogue ii, 687 
+
+7e(5) The measurement of electric quantities 
+45 Faraday: Researches in Electricity, 277d- 
+279a; 316b-318c; 366d-371d; 377d-390d; 
+444a-451a; 465d-467a,c; 768d-773d; 778b,d- 
+788c

@@ -1,0 +1,3195 @@
+CHAPTER: Change
+
+INTRODUCTION
+
+Chaper lo': CHAN.GE 
+
+INTRODUCTION 
+
+F rom the pre-Socratic physicists and the 
+ancient philosophers to Darwin, Marx, and 
+James— and, in our own day, Dewey and White- 
+head — the fact of change has been a major focus 
+of speculative and scientific inquiry. 
+
+Except by Parmenides and his School, the 
+existence of change has never been denied. Nor 
+can it be without rejecting all sense-perception 
+as illusory, which is precisely what Zeno's para- 
+doxes seem to do, according to one interpreta- 
+tion of them. But if argument cannot refute 
+the testimony of the senses, neither can reason- 
+ing support it. The fact of change, because it 
+isLevident to the senses, does not need proof. 
+
+That change is, is evident, but what change is, 
+is neither evident nor easy to define. What prin- 
+ciples or factors are common to every sort of 
+change, how change or becoming is related to 
+permanence or being, what sort of existence be- 
+longs to mutable things and to change itself 
+thesciare questions to which answers are not 
+obtainable merely by observation. Nor will 
+simple observation, without the aid of experi- 
+ment, measurement, and mathematical calcu- 
+lation, discover the laws and properties of mo- 
+tion. , 
+
+The analysis of change or motion has been a 
+problem for the philosophers of nature. They 
+have been concerned with the definition of 
+change, its relation to being, the classification 
+of the kinds of change. The measurement of 
+motion, on the other hand, and the mathemat- 
+ical formulation of its laws have occupied the 
+experimental natural scientists. Both natural 
+philosophy and natural science share a common 
+subject matter, though they approach it by dif- 
+ferent methods and with different interests. 
+Both are entitled to use the name “physics 
+for their subject matter. 
+
+The Greek word phiisis from which 
+its” comes has, as its Latin equivalent, the wor 
+
+nattira from which “nature” comes. In 'their 
+original significance, both words had reference 
+to the sensible world of changing things, or to 
+its underlying principle — to the ultimate source 
+of change. The physics of the philosopher and 
+the physics of the empirical scientist are alike 
+inquiries concerning the nature of things, not in 
+every respect but in regard to their change and 
+motion. The conclusions of both inquiries have 
+metaphysical implications for the nature of the 
+physical world and for the character of physi- 
+cal existence. 
+
+The philosopher draws these implications for 
+being from the study of.becoming. The scien- 
+tist, in turn, drau’s upon philosophical dis- 
+tinctions in order to define the objects of his 
+study. Galileo, for example, in separating the 
+problem of freely falling bodies from the 
+motion of projectiles, employs the traditional 
+philosophical distinction between natural and 
+violent motion. The analysis of time and space 
+(basic variables in Newtonian mechanics), the 
+distinction between discontinuous and contin- 
+uous change, and the problem of the divisibility 
+of a continuous motion — these are philosoph- 
+ical considerations pre-supposed by the scien- 
+tific measurement of motion. 
+
+We have so FAR used the words “change” and 
+“motion,” as well as “becoming,” as if all three 
+were interchangeable in meaning. That is 
+somewhat inaccurate, even for the ancients 
+who regarded all kinds of change except one 
+as motions; it is much less accurate for the 
+rnoderns who have tended to restrict the mean- 
+ing of “motion” to local motion or change of 
+place. It is necessary, therefore, to examine 
+biiefly tlie kinds of change and to indicate the 
+problems which arise with these distinctions. 
+
+In his physical treatises, Aristotle distin- 
+guishes four kinds of change. “When the change 
+
+194 THE GREAT IDEAS 
+
+from contrary to contrary is in quantity” he 
+writes, “it is ‘growth and diminution’; when 
+it is in place, it is ‘motion’; when it is — in 
+quality, it is ‘alteration’; but when nothing per- 
+sists of which the resultant is a property (or an 
+‘accident’ in any sense of the term), it is ‘com- 
+ing to be,’ and the converse change is ‘passing 
+away.’ ’’ Aristotle also uses other pairs of words 
+— “generation” and “corruption,” “becom- 
+ing” and “perishing” — to name the last kind of 
+change. 
+
+Of the four kinds of change, only the last is 
+not called “motion.” But in the context of 
+saying that “becoming cannot be a motion,” 
+Aristotle also remarks that “every motion is a 
+kind of change.” He does not restrict the mean- 
+ing of motion to change in place, which is usu- 
+ally called “local motion” or “locomotion.” 
+There are, then, according to Aristotle’s vocab- 
+ulary, three kinds of motion: (:) local motion, 
+in which bodies change from place to place; 
+( 2 ) alteration or qualitative motion, in which 
+bodies change with respect to such attributes 
+as color, texture, or temperature; ( 3 ) increase 
+and decrease, or quantitative motion, in which 
+bodies change in size. And, in addition, there 
+is the one kind of change which is not motion — 
+generation and corruption. This consists in the 
+coming to be or passing away of a body which, 
+while it has being, exists as an individual sub- 
+stance of a certain sort. 
+
+Becoming and perishing are most readily ex- 
+emplified by the birth and death of living 
+things, but Aristotle also includes the transfor- 
+mation of v/ater into ice or vapor as examples of 
+generation and corruption. One distinctive 
+characteristic of generation and corruption, 
+in Aristotle’s conception of this type of change, 
+is their instantaneity. He thinks that the other 
+three kinds of change are continuous processes, 
+taking time, whereas things come into being 
+or pass away instantaneously. Aristotle thus 
+applies the word “motion” only to the con- 
+tinuous changes which time can measure. He 
+never says that time is the measure of change, 
+but only of motion. 
+
+But the contrast between the one mode of 
+change which is not motion and the three kinds 
+of motion involves more than this difference 
+with regard to time and continuity. Aristotle’s 
+analysis considers the subject of change — that 
+
+which undergoes transformation— and the 
+starting-point and goal of motion. “Every mo- 
+tion,” he says, “proceeds from something and 
+to something, that which is directly in motion 
+being distinct from that to which it is in mo- 
+tion and that from which it is in motion; for in- 
+stance, we may take the three things ‘wood,’ 
+‘hot,’ and ‘cold,’ of which the first is that which 
+is in motion, the second is that which to which 
+the motion proceeds, and the third is that from 
+which it proceeds.” 
+
+In the alteration which occurs when the 
+wood changes quality, just as in the increase 
+or decrease which occurs with a body’s change 
+in quantity and in the local motion which 
+occurs with a body’s change of place, that which 
+changes persists throughout the change as the 
+same kind of substance. The wood does not 
+cease to be wood when it becomes hot or cold; 
+the stone does not cease to be a stone when it 
+rolls from here to there, or the organism an 
+animal of a certain kind when it grows in size. 
+In all these cases, “the substratum”— that 
+which is the subject of change — “persists and 
+changes in its own properties. . . . The body, 
+although persisting as the same body, is now 
+healthy and now ill; and the bronze is now 
+spherical and at another time angular, and yet 
+remains the same bronze.” 
+
+Because the substance of the changing thing 
+remains the same while changing in its proper- 
+ties— r.e., in such attributes or accidents as 
+quality, quantity, and place — Aristotle groups 
+the three kinds of motion together as accidental 
+change. The changing thing does not come to be 
+or pass away absolutely, but only in a certain 
+respect. In contrast, generation and corruption 
+involve a change in the very substance of a 
+thing. “When nothing perceptible persists in 
+its identity as a substratum, and the thing 
+changes as a whole,” then, according to Aris- 
+totle, “it is a coming-to-be of one substance, 
+and the passing-away of another.” 
+
+In such becoming or perishing, it is matter 
+itself rather than a body or a substance which 
+is transformed. Matter takes on or loses the 
+form of a certain kind of substance. For e.xam- 
+ple, when the nutriment is assimilated to the 
+form of a Jiving body, the bread or corn be- 
+comes the flesh and blood of a man. When an 
+animal dies, its body decomposes into the elc- 
+
+Chapter 10 
+
+ments of inorganic matter. Because it is a 
+change of substance itself, Aristotle calls the 
+one kind of change which is not motion sub- 
+stantial change, and speaks of it as “a coming-to- 
+be or passing-away simply”— that is, not in a 
+certain respect, but absolutely or “without 
+qualification.” 
+
+These distinctions are involved in a long 
+tradition of discussion and controversy. They 
+cannot be affirmed or denied without opposite 
+sides being taken on the fundamental issues 
+concerning substance and accident, matter and 
+form, and the causes of change or motion. The 
+adoption or rejection of these distinctions af- 
+fects one’s view of the difference between inor- 
+ganic and organic change, and the difference 
+between the motions of matter and the changes 
+which take place in mind. The statement of 
+certain problems is determined accordingly; 
+as, for example, the problem of the transmu- 
+tation of the elements, which persists in various 
+forms from the physics of the ancients through 
+mediaeval alchemy and the beginnings of 
+modern chemistry to present considerations 
+of radioactivity and atomic fission. 
+
+Since the 17TH century, motion has been 
+identified with local motion. “I can conceive 
+no other kind” of motion, Descartes writes, 
+“and do not consider that we ought to conceive 
+any other in nature.” As it is expressed “in com- 
+mon parlance,” motion, he says, “is nothing 
+more than the action by which any body passes 
+from one place to another r 
+
+This can hardly be taken to mean that 
+change of place is the only observable type of 
+change. Tliat other kinds of change are ob- 
+servable cannot be denied. The science of 
+mechanics or dynamics may be primarily or ex- 
+clusively concerned with local motions, but 
+other branches of natural science, certainly 
+chemistry, deal with qualitative transforma- 
+tions; and the biological sciences study growth 
+and decay, birth and death. 
+
+The emphasis on local motion as the only 
+kind of motion, while it does not exclude ap- 
+parent changes of other sorts, does raise a ques- 
+tion about their reality. The question can be 
+put in several ways. Are the various apparently 
+different kinds of change really distinct, or can 
+they all be reduced to aspects of one underlying 
+
+: CHANGE 195 
+
+mode of change which is local motion? Even 
+supposing that the kinds of change are not re- 
+ducible to one another, is local motion pri- 
+mary in the sense that it is involved in all the 
+others? 
+
+When mechanics dominates the physical 
+sciences (as has been so largely the case in 
+modern times), there is a tendency to reduce all 
+the observable diversity of change to various 
+appearances of local motion. Newton, for ex- 
+ample, explicitly expresses this desire to formu- 
+late all natural phenomena in terms of the 
+mechanics of moving particles. In the Preface 
+to the first edition of his Mathematical Princi- 
+ples, after recounting his success in dealing with 
+celestial phenomena, he says, “I wish we could 
+derive the rest of the phenomena of Nature by 
+the same kind of reasoning from mechanical 
+principles, for I am induced by many reasons 
+to suspect that they may all depend upon cer- 
+tain forces by which the particles of bodies, by 
+some causes hitherto unknown, are either mu- 
+tually impelled towards one another, and co- 
+here in regular figures, or are repelled and re- 
+cede from one another.” 
+
+The notion that all change can be reduced to 
+the results of local motion is not, however, of 
+modern origin. Lucretius expounds the theory 
+of the Greek atomists that all the phenomena 
+of change can be explained by reference to the 
+local motion of indivisible particles coming to- 
+gether and separating. Change of place is the 
+only change which occurs on the level of the 
+ultimate physical reality. The atoms neither 
+come to be nor pass away, nor change in quality 
+or size. 
+
+But though we find the notion in ancient 
+atomism, it is only in modern physics that the 
+emphasis upon local motion tends to exclude all 
+other kinds of change. It is characteristic of 
+what James calls “the modern mechanico- 
+physical philosophy” to begin “by saying that 
+the only facts are collocations and motions of 
+primordial solids, and the only laws the changes 
+of motion which changes in collocation bring.” 
+James quotes Helmholtz to the effect that “the 
+ultimate goal of theoretic physics is to find the 
+last unchanging causes of the processes of Na- 
+ture.” If, to this end, “we imagine the world 
+composed of elements with unalterable quali- 
+ties,” then, Helmholtz continues, “the only 
+
+changes that can remain in such a world are 
+spatial changes, /.e., movements, and the only 
+outer relations which can modify the action of 
+the forces are spatial too, or, in other words, the 
+forces are motor forces dependent for their ef- 
+fect on spatial relations.” 
+
+In the history,of physics, Aristotle represents 
+the opposite view. No one of the four kinds of 
+change which he distinguishes has for him 
+greater physical reality than the others. Just as 
+quality cannot be reduced to quantity, or either 
+of these to place, so in his judgment the mo- 
+tions associated with these terms are irreducible 
+to one another. Yet Aristotle does assign to lo- 
+cal motion a certain primacy. “Motion in its 
+most general and primary sense,” he writes, “is 
+change of place, which we call locomotion.” He 
+does not mean merely that this is the primary 
+sense of the v.'ord, but rather that no other 
+kind of motion can occur without local motion 
+being somehow ins'olved in the process. Show- 
+ing how increase and decrease depends on alter- 
+ation, and how that in turn depends on change 
+of place, he says that “of the three kinds of 
+motion ... it is this last, which we call locomo- 
+tion, that must be primary.” 
+
+The shift in meaning of the word “motion” 
+would not by itself mark a radical departure in 
+the theory of change, but it is accompanied by 
+a shift in thought which has the most radical 
+consequences. At the same time that motion is 
+identified with local motion, Descartes con- 
+ceives motion as something completely actual 
+and thoroughly intelligible. For the ancients, 
+becoming of any sort had both less reality and 
+less intelligibility than being. 
+
+Aristotle had defined motion as the actuality 
+of that which is potential in a respect in which, 
+it is still potential to some degree. According 
+to what Descartes calls its strict as opposed to 
+its popular meaning, motion is “the transfer- 
+ence of one part of matter or one body from 
+the vicinity of those bodies that are in immedi- 
+ate contact with it, and which we regard as in 
+repose, into the vicinity of others.” This defi- 
+nition — contrasted with the Aristotelian con-, 
+ception which it generally supersedes in the 
+subsequent tradition of natural science — is as 
+revolutionar}' as the Cartesian analytical geom- 
+etry is by comparison with the Euclidean. Nor 
+
+is it an unconnected fact that the analytical 
+geometry prepares the way for the differential 
+calculus that is needed to measure variable mo- 
+tions, their velocities, and their accelerations. 
+
+The central point on which the two defini- 
+tions are opposed constitutes one of the most 
+fundamental issues in the philosophy of nature. 
+Does motion involve a transition from poten- 
+tial! to actual existence, or only the substitution 
+of one actual state for another — only a “trans- 
+portation,” as Descartes says, from one place to 
+another ? 
+
+While motion is going on, the moving thing, 
+according to Aristotle’s definition,, must be 
+partly potential and partly actual in the same 
+respect. The leaf turning red, /«/w 7 e h is altering, 
+has not yet fully reddened. When it becomes 
+as red as it can get, it can no longer change in 
+that respect. Before it began to change, it was 
+actually green; and since it could become red, 
+it was potentially red. But while the change is 
+in process, the potentiality of the leaf to be- 
+come red is being actualized. This actualization 
+progresses until the change is completed. 
+
+The same analysis would apply to a ball in 
+motion. Until it comes to rest in a given place, 
+its potentiality for being there is undergoing 
+progressive actualization. In short, motion in- 
+volves some departure from pure potentiality 
+in a given respect, and never complete Attain- 
+ment of full actuality in that same respect. 
+When there is no departure from potentiality, 
+motion has not yet begun; when the attain- 
+ment of actuality is complete, the motion has 
+terminated. ' 
+
+The Aristotelian definition of motion is the 
+object of much ridicule in, the 17th century. 
+Repeating the phrasing which had become tra- 
+ditional in the schools — “the actualization of 
+what exists in potentiality, in so far as it is 
+potential” — Descartes asks: “NoW who under- 
+stands these words.? And who at the same time 
+does not know what motion is?. Will not every- 
+one admit that those philosophers have been 
+trying to find a knot in a bulrush ?” Locke also 
+finds it meaningless. “What more exquisite 
+jargon could the wit of man invent than this 
+definition . . . which would puzzle any rational 
+man to whom it was not already known by its 
+famous absurdity, to guess what word it could 
+ever ’be supposed .to be the explication of. If 
+
+Chapter 10 
+
+Tully, asking a Dutchman what beweeginge 
+was,” Locke continues, “should have received 
+this explication in his oWn language, that it 
+was actus entis in fotentia quatenus in potentia\ 
+
+I ask whether any one can imagine he could 
+thereby have guessed what the word beweeginge 
+signified ?” 
+
+Locke does not seem to be satisfied with any 
+definition of motion. “The atomists, who define 
+motion to be ‘a passage from one place to an- 
+other,’ what do they more than put one synon- 
+ymous word for another.? For what is passage 
+other than motion} . . . Nor will ‘the successive 
+application of the superficies of one body to 
+those of another,’ which the Cartesians give us, 
+prove a much better definition of motion, when 
+well e.xamined.” But though Locke rejects the 
+definition of the atomists and the Cartesians 
+on formal grounds, he accepts their idea of 
+motion as simply change of place; whereas he 
+dismisses the Aristotelian definition as sheer 
+absurdit)' and rejects the idea that motion or 
+change necessarily involves a potentiality capa- 
+ble of progressive fulfillment. 
+
+As we have already remarked, the omission 
+of potentiality from the conception of motion 
+is a theoretical shift of the deepest significance. 
+It occurs not only in Descartes’ Principles of 
+Philosophy and in the atomism of Hobbes and 
+Gassendi, but also in the mechanics of Galileo 
+and Newton. According to these modern philos- 
+ophers and scientists, a moving body is always 
+actually somewhere. It occupies a different 
+place at every moment in a continuous motion. 
+The motion can be described as the successive 
+occupation by the body of different places at 
+different times. Though all the parts of the mo- 
+tion do not coexist, the moving particle is com- 
+pletely actual throughout. It loses no reality 
+and gains none in the course of the motion, 
+since the various positions the body occupies 
+lie totally outside its material nature. It would, 
+of course, be more difficult to analyze alteration 
+in color or biological growth in these terms, but 
+it must be remembered that efforts have been 
+made to apply such an analysis through the re- 
+duction of all other modes of change to local 
+motion. 
+
+The principle of inertia, first discerned by 
+Galileo, is critically relevant to the issue be- 
+tween these nvo conceptions of motion. It is 
+
+CHANGE 197 
+
+stated by, Newton as the first of his “axioms or 
+laws of motion.” “Ever>' body,” he wnites, 
+“continues in its state of rest, or of uniform 
+motion in a right line, unless it is compelled to 
+change that state by forces impressed upon it.” 
+As applied to the motion of projectiles, the 
+law declares that they “continue in their mo- 
+tions, so far as they are not retarded by the re- 
+sistance of air, or impelled downwards by the 
+force of gravity.” 
+
+In his experimental reasoning concerning the 
+acceleration of bodies moving down inclined 
+planes, Galileo argues that a body which has 
+achieved a Certain velocity on the descent 
+would, if it then proceeded along a horizontal 
+plane, continue infinitely at the same velocity 
+— except for the retardation of air resistance 
+and friction. “Any velocity once imparted to a 
+moving body,” he maintains, “will be rigidly 
+maintained as long as the external causes of ac- 
+celeration or retardation are removed.” So in 
+the case of projectiles, they would retain the 
+velocity and direction imparted to them by the 
+cannon, were it not for the factors of gravity 
+and air resistance. Bodies actually in motion 
+possess their motion in themselves as a complete 
+actuality. They need no causes acting on them 
+to keep them in motion, but only to change 
+their direction or bring them to rest. 
+
+The motion of projectiles presents a difficulty 
+fox the theory which describes all motion as a 
+reduction of potency to act. “If everything that 
+is in motion, with the exception of things that 
+move themselves, is moved by something else, 
+how is it,” Aristotle asks, “that some things, 
+<?.g., things thrown, continue to be in motion 
+when their movent is no longer in contact with 
+them ?” This is a problem for Aristotle precisely 
+because he supposes that the moving cause 
+must act on the thing being moved throughout 
+the period of the motion. For the potentiality 
+to be progressively reduced to actuality, it 
+must be continuously acted upon. 
+
+Aristotle’s answer postulates a series of causes 
+so that contact can be maintained between the 
+projectile and the moving cause, “The original 
+movent,” he writes, “gives the power of being 
+a movent either to air or to water or to some- 
+thing else of the kind, naturally adapted for 
+imparting and undergoing motion. . . . The mo- 
+tion begins to cease when the motive force pro- 
+
+198 THE GREAT IDEAS 
+
+duced in one member of the consecutive series 
+is at each stage less than that possessed by the 
+preceding member, and it finally ceases when 
+one member no longer causes the next member 
+to be a movent but only causes it to be in mo- 
+tion.” It follows that inertia must be denied by 
+those who hold that a moving body always re- 
+quires a mover; or even that a body cannot sus- 
+tain itself in motion beyond a point propor- 
+tionate to the quantity of the impressed force 
+which originally set it in motion. 
+
+For the ancients, the basic contrast between 
+being and becoming (or between the permanent 
+and the changing) is a contrast between the in- 
+telligible and the sensible. This is most sharply 
+expressed in Plato’s distinction between the 
+sensible realm of material things and the intel- 
+ligible realm of ideas. “What is that which al- 
+ways is and has no becoming,” Timaeus asks; 
+“and what is that which is always becoming 
+and never is?” He answers his own question by 
+saying that “that which is apprehended by in- 
+telligence and reason is always in the same state; 
+but that which is conceived by opinion vvith 
+the help of sensations and without reason, is al- 
+ways in a process of becoming and perishing, 
+and never really is." 
+
+Even though Aristotle dilfers from Plato in 
+thinking that change and the changing can be 
+objects of scientific knowledge, he, too, holds 
+becoming to be less intelligible than being, pre- 
+cisely because change necessarily involves po- 
+tentiality. Yet becoming can be understood to 
+the extent that we can discover the principles 
+of its being— the unchanging principles of 
+change. “In pursuing the truth,” Aristotle re- 
+marks— and this applies to the truth about 
+change as well as everything else— “one must 
+start from the things that are always in the 
+same state and suffer no change.” 
+
+For Aristotle, change is intelligible through 
+the three elements of permanence which are its 
+principles; (i) the enduring substratum of 
+change, and the contraries — (2) that to which, 
+and (3) that from which, the change takes 
+place. The same principles are sometimes stated 
+to be (i) matter, (2) form, and (3) privation; 
+the matter or substratum being that which 
+both lacks a certain form and has a definite po- 
+tentiality for possessing it. Change occurs when 
+
+the matter undergoes a transformation in which 
+it comes to have the form of w’hich it was de- 
+prived by the possession of a contrary form. 
+
+Neither of the contrary forms changes. Only 
+the thing composite of matter and form changes 
+with respect to the forms of its matter. Hence 
+these principles of change are themselves un- 
+changing. Change takes place through, not in, 
+them. As constituents of the changing thing, 
+they are the principles, of its mutable being, 
+principles of its being as well as of its being 
+mutable. 
+
+The explanation of change by reference to 
+what does not change seems to be common to 
+all theories of becoming. Lucretius, as we have 
+already seen, explains the coming’ to be and 
+passing away of all other things by the motions 
+of atoms which neither come to be nor pass 
+away. The eternity of the atoms underlies the 
+mutability of everything else. 
+
+Yet the atoms are not completely immutable. 
+They move forever through the void which, 
+according to Lucretius, is required for their 
+motion. Their local motion is, moreover, an 
+actual property of the atoms. For them, to be 
+is to be in motion. Here then, as in the Cartesian 
+theory, no potentiality is involved, and motion 
+is completely real and completely intelligible. 
+
+The notions of time and eternity are insep- 
+arable from the theory of change or motion. As 
+the chapters on Time and Space indicate, local 
+motion involves the dimensions of space as well 
+as time, but all change requires time, and time 
+itself is inconceivable apart from change or mo- 
+tion. Furthermore, as appears in the chapters 
+on Time and Eternity, the two fundamentally 
+opposed meanings of eternity differ according to 
+whether they imply endless change or absolute 
+changelessness. 
+
+Eternity is sometimes identified with infinite 
+time. It is in this sense that Plato, in the Ti- 
+maeus, refers to time as “the moving image of 
+eternity” and implies that time, which belongs 
+to the realm of ever-changing things, resembles 
+the eternal only through its perpetual endur- 
+ance. The other sense of the eternal is also im- 
+plied — the sense in which eternity belongs to 
+the realm of immutable being. The eternal in 
+this sense, as Montaigne points out, is not mere- 
+ly that “which never had beginning nor never 
+
+Chapter 10 
+
+shall have ending,” but rather that “to which 
+time can bring no mutation.” 
+
+There are two great problems which use the 
+word “eternity” in these opposite senses. One 
+is the problem of the eternity of motion: the 
+question whether motion has or can have either 
+a beginning or an end. The other is the prob- 
+lem of the existence of eternal objects — im- 
+mutable things which have their being apart 
+from time and change. 
+
+, The two problems are connected in ancient 
+thought. Aristotle, for example, argues that “it 
+is impossible that movement should either have 
+come into being or cease to be, for it must al- 
+ways have existed.” Since “nothing is moved 
+at random, but there must always be something 
+present to move it,” a cause is required to sus- 
+tain the endless motions of nature. This cause, 
+which Aristotle calls “the prime mover,” must 
+be “something which moves without being 
+moved, being eternal, substance, and actual- 
+ity.” 
+
+Aristotle’s theory of a prime mover sets up a 
+hierarchy of causes to account for the different 
+kinds of motion observable in the universe. The 
+perfect circular motion of the heavens serves to 
+mediate between the prime mover which is 
+totally unmoved and the less regular cycles of 
+terrestrial change. The “constant cycle” of 
+movement in the stars differs from the irregular 
+cycle of “generation and destruction” on 
+earth. For the first, Aristotle asserts the neces- 
+sity of “something which is always moved with 
+an unceasing motion, which is motion in a cir- 
+cle.” He calls this motion of the first heavenly 
+sphere “the simple spatial movement of the 
+universe” as a whole. Besides this “there are 
+other spatial movements — those of the planets 
+— which are eternal” but are “always acting in 
+different ways” and so are able to account for 
+the other cycle in nature — the irregular cycle 
+of generation and corruption. 
+
+In addition, a kind of changelessness is attrib- 
+uted to all the celestial bodies which Aristotle 
+calls “eternal.” Eternally in motion, they are 
+also eternally in being. Though not immovable, 
+they are supposed to be incorruptible sub- 
+stances. They never begin to be and never 
+perish. 
+
+The theory of a world eternally in motion is 
+challenged by Jewish and Christian theologians 
+
+: CHANGE ' 199 
+
+who affirm, as an article of their religious faith, 
+that “in the beginning God created heaven and 
+earth.” The world’s motions, like its existence, 
+have a beginning in the act of creation. Crea- 
+tion itself, Aquinas insists, is not change or mo- 
+tion of any sort, “except according to our waj’’ 
+of understanding. For change means that the 
+same thing should be different now from what 
+it was previously. . . . But in creation, by which 
+the whole substance of a thing is produced, the 
+same thing can be taken as different now and 
+before, only according to our way of under- 
+standing, so that a thing is understood as first 
+not existing at all, and aftenvards as existing.” 
+Since creation is an absolute coming to be from 
+non-being, no pre-existent matter is acted upon 
+as in generation, in artistic production, or in 
+any of the forms of motion. 
+
+The philosophical and theological issues con- 
+cerning creation and change, eternity and time, 
+are further discussed in the chapters on Cause, 
+Eternity, and World. Other problems aris- 
+ing from the analysis of change must at least 
+be briefly mentioned here. 
+
+Though less radical than the difference be- 
+tween creation and change, the difference be- 
+tween the motions of inert or non-living things 
+and the vital activities of plants and animals 
+raises for any theory of change the question 
+whether the same principles apply to both. The 
+rolling stone and the running animal both move 
+locally, but are both motions locomotion in the 
+same sense ? Augmentation occurs both in the 
+growth of a crystal and the growth of a plant, 
+but are both of them growing in the same sense } 
+In addition, there seems to be one kind of 
+change in living things which has no parallel in 
+the movements of inert bodies. Animals and 
+men learn. They acquire knowledge, form hab- 
+its and change them. Can change of mind be 
+explained in the same terms as change in mat- 
+ter? 
+
+The issues raised by questions of this sort are 
+more fully discussed in the chapters on Animal, 
+Habit, and Life. Certain other issues must be 
+entirely reserved for discussion elsewhere. The 
+special problems of local motion — such as the 
+properties of rectilinear and circular motion, 
+the distinction between uniform and variable 
+motion, and the uniform or variable accelera- 
+
+200 THE GREAT IDEAS 
+
+tion of the latter — are problems which belong 
+to the chapters on Astronomy and Me- 
+chanics. Change, furthermore, is a basic fact 
+not only for the natural scientist, but for the 
+historian — the natural historian or the histori- 
+an of man and society. The considerations 
+relevant to this aspect of change' receive treat- 
+ment in the chapters on Evolution, History, 
+and Progress. 
+
+Even these ramifications of discussion do not 
+exhaust the significance of change. The cyclical 
+course of the emotions and the alternation of 
+pleasure and pain have been thought inexpli- 
+cable without reference to change of state in re- 
+gard to desire and aversion — the motion from 
+want to satisfaction, or from possession to dep- 
+rivation. Change is not only a factor in the 
+analysis of emotion, but it is also itself an object 
+of man’s emotional attitudes. It is both loved 
+and hated, sought and avoided. 
+
+According to Pascal, man tries desperately to 
+avoid a state of rest. He does everything he can 
+to keep things in flux. “Our nature consists in 
+motion,’! he writes; “complete rest is death. . . . 
+Nothing is so insufferable to man,” he contin- 
+ues, “as to be completely at rest, without pas- 
+
+sions, without business, without diversion, 
+without study. He then feels his nothingness, 
+his forlornness, his dependence, his weakness, 
+his emptiness.” Darwin does not think that the 
+desire for change is peculiar to man.‘“The lower 
+animals,” he writes,' “are'. . .'likewise capricious 
+in their affections, ave'rsibns, and sense of beau- 
+ty. There is also reason'to suspect that they love 
+novelty for its own sake.” 
+
+But men also wish to avoid change. The old 
+Prince Bolkonski, in lEnr and Peace, “could not 
+comprehend how'anyone could wish to alter his 
+life or introduce anything new into it.” This is 
+not merely an old man’s view. For the most 
+part, it is permanence rather than transiency, 
+the enduring rather than the novel, which the 
+poets celebrate when they express man’s dis- 
+content with his own mutability. The with- 
+ering and perishing of all mortal things, the 
+assault of time and ‘change upon all things fa- 
+miliar and loved, have moved them to elegy 
+over the evanescent and the ephemeral. From 
+Virgil’s Sunt lacrimae rerum et meniem mortalia 
+tangunt to Shakespeare’s “Love is not love 
+which alters when it alteration finds,” the poets 
+have mourned the inevitability of change.
+
+
+OUTLINE OF TOPICS 
+
+1. The nature and reality of change or motion 
+
+2. The unchanging principles of change 
+
+2a. The constituents of the changing thing 
+2b. The factor of opposites or contraries in change 
+
+3. Cause and effect in motion; the relation of mover and moved, or action and passion 
+
+4. Motion and rest: contrary motions ‘ 
+
+r ; 
+
+5. The measure of motion i ^ 
+
+5a. Time or duration as the measure of motion ' ' ^ ‘ 
+
+/ I ' ( 
+
+5A The divisibility and continuity of motion 
+
+6. The kinds of change 
+
+I 6 a. The reducibility of all modes of motion to one kind of change 
+6 i>. The primacy of local motion ' ' 1 - 
+
+6 c. Comparison of change in living and non-living things ( , 
+
+6 d. Comparison of the motions of matter with changes in the order of mind 
+
+7, The analysis of local motion 
+
+7b. Space, place, and void 
+7b. Natural and violent motion 
+
+yc. Kinds of local motion 
+
+(1) Rectilinear and rotary or circular motion 
+
+(2) Uniform or variable motion 
+
+(3) Absolute or relative motion 
+
+(4) Terrestrial and celestial motion 
+
+yd. The properties of variable motion: the laws of motion 
+
+8, Change of size 
+
+8a. The increase and decrease of inanimate bodies 
+Sb. Growth in living organisms 
+
+9. Change of quality 
+
+ga. Physical and chemical change: compounds and mixtures 
+gl>. Biological change: vital alterations 
+
+10. Substantial change: generation and corruption 
+
+loa. Substantial change in the realm of bodies: the transmutation of the elements 
+10b. Plant, animal, and human reproduction 
+
+IOC. The incorruptibility of atoms, the heavenly bodies, and spiritual substances 
+n. The apprehension of change; by sense, by reason 
+
+12. Emotional aspects of change 
+
+12a. Rest and motion in relation to pleasure and pain 
+12 A The love and hatred of change 
+
+13. The ptoblem of the eternity of motion or change 
+
+14. The theory of the prime mover; the order and hierarchy of movers and moved 
+
+15. The immutable 
+
+i5«. The immutability of the objects of thought: the realm of truth 
+15A The unalterability of the decrees of fate 
+15c. The immutability of God 
+
+.THE GREAT IDEAS
+
+
+REFERENCES
+
+REFERENCES 
+
+ 
+
+1. The nature and reality of change or motion 
+
+7 Plato: Cratyhis, 86b-89b; 94c-d; 99b-104b; 
+112a-114a,c/ P/we^/nw, 124c-126c / Symposium, 
+165c-166b / Phaedo, 231c-232b / Republic, bk 
+II, 322d-323a; bk v, 370a-373c / Timaeus, 
+447b-d; 4S5c-458b passim; 460c-d / Par- 
+menides, 504c-S0Sc / Theaelelus, 517d-534b 
+esp 517d-518b, S32a-S34b / Sophist, 564d- 
+574c / Statesman, 587a-b / Philebus, 632a-d / 
+Laws, BK X, 760a-765d esp 762b-765d 
+
+8 Aristotle: Physics, bk i, ch 2 [i 84 *’i 5 -i 85 ‘*i 4 ] 
+259b-d; ch 4-9 262a-268d; bk hi, ch 1-3 
+278a-280c; bk iv, ch ii [ 2 I 9 ’’ 9 - 3 i] 299b-d; 
+BK VI, CH 6 319c-321a / Heavens, bk iv, ch 3 
+[ 3 io’’ 22 - 3 ii“i 2 ] 402b-c; ch 4 [ 3 ii*’ 29 - 33 ] 403c 
+/ Generation and Corruption, bk ii, ch 10 
+[ 336 ’’ 25 - 34 ] 438d / Metaphysics, bk i, ch 3-10 
+501c-511d passim; bk iv, ch 2 [ioo 4 *’ 27 - 29 ] 
+523d; ch 5 [ioio“ 6 - 38 ] S29c-S30a; ch 8 
+[ioi 2 *’ 22 - 33 ] 532d; bk ix, ch 3 [io 47 “io- 29 ] 
+572b-c; ch 6 573c-574c; ch 8 [io 49 '’ 29 -io 5 o’' 3 ] 
+575c-d; ch 10 [io 5 i’’ 28 - 3 o] S78a; bk xi, ch 6 
+590d-592b; ch 9 593d-594d; ch 11-12 596a- 
+598a, c esp ch ii [io 67 ’’i 5 -io 68 “ 7 ] S96b-d, ch 
+12 [io 68 ’’ 2 o- 25 ] 597c-d; bkxii, ch 5 [io 7 o*’ 36 - 
+io 7 i'‘ 4 ] 600b-c / Soul, bk i, ch 3 [ 4 o 6 '’ii-i 4 ] 
+636a; bk hi, ch 7 [ 43 i'‘i- 8 ] 663c 
+
+9 Aristotle: Generation of Animals, bk v, ch i 
+[ 778 ’’ 2 - 7 ] 320c-d / Ethics, bk x, ch 4 [ii 74 '‘i 3 - 
+'’ 14 ] 428b-429a 
+
+10 Galen: Natural Faculties, bk i, ch 2 167b- 
+168c 
+
+11 Nicomachus: Arithmetic, bk i, 811b-d 
+
+12 Lucretius: Nature of Things, bk i [146-448J 
+2d-6c; BK II [62-332] I5d-19b; [1105-1174] 
+29a-30a,c; bk v [235-415] 64a-66c 
+
+12 Aurelius: Meditations, bk iv, sect 35-3(1 
+266d; SECT 42-43 267b; sect 46 267c; bk v, 
+SECT 23 272b; bk vi, sect 15 275a-b; bk vh, 
+SECT 18 281a; sect 50 283a; bk vhi, sect 6 
+285d-286a; bk ix, sect 19 293b; sect 28 
+293d-294a 
+
+16 Kepler: Harmonies of the World, 1051b 
+
+17 Plotinus: Second Ennead, tr r, ch 3-4 36b- 
+37b; TR V 57d-60c / Sixth Ennead, tr i, ch 
+15-22 260c-264c: TR HI, ch 21-28 293a-297b 
+
+18 Augustine: Confessions, bk iv, par 15-17 
+23a-c; bk vh, par 17-18 49a-b; bk xi, par 6 
+90c-d 
+
+19 Aquinas: Summa Theologica, part i, Q 2, 
+A 3, ANS 12c-14a; q 9, a i, ans and rep i 38c- 
+39c; Q 10, A 4, REP 3 43b-44b; a 5, ans 44b- 
+45c; Q 18, A I, ANS 104c-105c; a 3, rep i 
+106b-107c; q 23, a i, rep 3 I32c-133b; Q 53. 
+A I, REP 2-3 280d-282a; a 3, ans 283b-284d: 
+
+2 io 2 a Chapter 10 : 
+
+Q 65, A 4 342b-343c; q 67, a 3, rep i 3Slb- 
+352a; a 4, ans 352a-354a; q 73, a z, rep 2 
+370a-371a; a 2, ans 371b-d; q 79, a 9, ans 
+422b-423d; q 103, a 5, rep 2 53Ib-532b; 
+PART i-ii, Q 10, A I, REP 2 662d-663d; q 23, 
+
+AA 3-4 725c-727a; q 25, a i, ans and rep 2 
+730b-731b; q 31, a 3, rep 2 7S4a-d; a 8 
+7S8b-759a 
+
+20 Aquinas: Sttmma Thcohgica, part hi, q 15, 
+
+A 10, REP I 795b-796a; q 62, a 4 861a'862a; 
+part hi suppl, q 91, a 3, REP 2 1020d-1022c 
+
+22 Chaucer: Knight's Tale [2987-3040] 2093- 
+210a 
+
+25 Montaigne : 292d-294b 
+
+28 Galileo: Two New Sciences, third day- 
+fourth DAY 197a'260a,c esp third day, 224d 
+
+30 Bacon: Novum Oigamiin, bk i, aph 66 114d- 
+IlSc; BK II, aph 48 179d-18Sb 
+
+31 Descartes: Rules, xii, 24a 
+
+31 Spinoza: Ethics, part ii, lemma 3 378d-379a 
+
+33 Pascal: Geometrical Demonstration, 433b- 
+434a 
+
+34 Newton: Principles, definitions-bk ii Sa- 
+267a esp definitions, schol 8b-13a, law i 
+14a 
+
+35 Locke: Human Understanding, bk hi, ch iv, 
+sect 8-9 260d'261b 
+
+35 Berkeley: Human Knowledge, sect 102 
+432d-433a; sect 110-115 434b-43Sc 
+
+42 Kant: Pure Reason, 27a; 28b-c; 29c-d; 31d- 
+32a; 5Sc.56a; 72c-8Sd esp 74b-76c, 82a-83b; 
+91d-93c; 9Sa-d 
+
+46 Hegel: Philosophy of History, intro, 178a- 
+179d; 186d-190b 
+
+51 Tolstoy: War and Peace, bk xiv, 608a-b 
+
+S 3 James : Psychology, 882a-884b 
+
+2. The unchanging principles of change 
+
+7 P1.AT0: Phaedrus, 124b-c/ Ttmaeus, 4S5C'458a 
+/ Sophist, 564d-574c / Philebus, 610d-619d / 
+Laws, BK X, 760a-765d 
+
+8 Aristotle : Physics, bk i 259a-268d / Heavens, 
+BK 1, CH 3 [27o“i2-i7l 361b / Metaphysics, 
+BK III, ch 4 [999“24-*’24] 518a-c; bk xh, ch io 
+[ io75“25-34] 606a 
+
+10 Galen: Natural Faculties, bk i, ch 2 167b- 
+168c 
+
+12 Lucretius: Nature of Things, bk i [146-920J 
+2d-12b 
+
+12 Aurelius: Meditations, bk iv, sect 4 264a, 
+bk VI, sect 15 275a-b; bk ix, sect 28 293d- 
+294a; bk x, sect 7 297b-c 
+
+16 Kepler: Epitome, bk iv, 854b 
+
+17 Plotinus : Second Ennead, tr i, ch 1-4 35a- 
+37b; TR iv-v 50a-60c / Third Ennead, tr vi, 
+ch 7-19 110d-119a 
+
+19 Aquinas: Summa Theologica, part i, Q i9> 
+
+A 1, ANS 108d-109c; q 84, a i, REP 
+442a; q 86, a 3 463b-d: q ii3> a i. ans S76a-d; 
+
+Q 115, A 3, ANS and REP 2 S88c-589c 
+
+42 Kant: Pure Reason, 23a-33d esp 27a, 29c-d; 
+49c-51d esp 51c-d; 72c-76c; 82a-83b; 91d- 
+
+CHANGE 203 
+
+93c; 120C-129C esp 121a-124d, 126a-128b; 
+I41b,d-145c; 200c- 204c 
+
+2 a. The constituents of the changing thing 
+
+7 Plato: Timaeus, 458a-460d / Philebus, 610d- 
+619d 
+
+8 Aristotle: Physics, bk i, ch i 259 a-b; ch 6-9 
+264 c- 268 d; bk hi, ch 1-3 278 a- 280 c; bk iv, 
+ch 9 [2i7“20-'’27] 297 a-c; bk v, ch i [22^12- 
+29] 30 Sb-c; bk vi, ch io [24o'^8-24i'‘26] 324 c- 
+325 b / Heavens, bk i, ch 3 [27o“i2-i7] 361 b; 
+BK IV, ch 4 [3i2‘‘3-22] 403 c-d / Generation and 
+Corruption, bk i, ch i [3I4*’26-3I5“3] 410 a-b; 
+CH 3 413 c- 416 c esp [3i8‘*i-3i9*'4] 414 b- 416 c; 
+CH 4 [320*2-6] 417 a; bk ii, ch i [329“24-*’2] 
+429 a-b / Metaphysics, bk i, ch 6 [987'’30- 
+988*8] 506 a; ch 8 [988'>22-989'>24] 506 d-S 08 a: 
+BK HI, CH 4 [999“24-'>24] 51 Sa-c; bk iv, ch 5 
+[1009*22-38] 528 d; BK V, ch i [1013*3-7] 533 a; 
+ch 2 [1013*24-27] 533 b; ch 4 534 d-S 35 c; bk 
+VII, CH 8-10 SS 6 b- 559 d; ch 15 [i039*'20- 
+1040*8] S 63 C'S 64 a; bk viii-ix S 66 a- 578 a,c; 
+bkxi, ch 9 [io65'’25-3i] S 94 b; CH12 [io68'’io- 
+14] 597 c; BK XH, ch 1-5 598 a- 601 a; ch 10 
+[1075*25-34] 606 a 
+
+9 Aristotle: Generation of Animals, bk i, ch 18 
+[724“20-'’i3) 264 b-d; CH 20 [729“6]-ch 22 
+( 73 o’’ 33 ] 269 b- 271 a 
+
+10 Galen: Natural Faculties, bk i, ch 2-3 167 b- 
+169 a 
+
+12 Lucretius: Nature of Things, bk i [146-634] 
+2d-8d; BK II [62-1022] 15d-28a 
+12 Aurelius: Meditations, bk xii, sect 30 
+310a-b 
+
+17 Plotinus : First Ennead, tr viii, ch 8 30d-31c 
+/ Second Ennead, tr i, ch 1-4 35a-37b; tr iv, 
+CH 6-8 51d-53a; tr v, ch i-tr vi, ch 2 57d- 
+62b / Third Ennead, tr vi, ch 8-19 lllc-119a 
+/ Sixth Ennead, tr hi, ch 22 293d-294c; tr v, 
+cH8307d-308c 
+
+18 Augustine: Confessions, bk xii, par 3-16 99d- 
+103a 
+
+19 Aquinas: Summa Theologica, part i, q 9, 
+A I, ANS 38c-39c; q 19, a i, ans 108d-109c; 
+Q 29, A I, REP 4 162a-163b; q 45, a 2, rep 2 
+242d-244a; q 48, a 3, ans 261b-262a; q 58, 
+A 7, REP 3 305c-306b; q 62, a 7, rep i 322d- 
+323b; Q 66, a 2, ans 34Sd-347b; q 75, a 5, 
+REP 2 382a-383b; q 92, a 2, rep 2 489d-490c; 
+A 3, REP I 490c-491b; a 4, ans and rep i 
+491b'd; q 104, a i, ans and rep 1-2 534c- 
+536c; PART i-ii, Q I, A 3, ans 611b-612a; Q 10, 
+A I, REP 2 662d-663d 
+
+20 Aquinas: Summa Theologica, partii-ii, Q24, 
+All, ANS 498b-499c 
+
+23 Hobbes: Leviathan, part ih, 172b 
+28 Harvey: On Animal Generation, 494a-496d 
+esp 494b, 495c-496a 
+
+30 Bacon: Novum Organum, bk ii, aph 6 
+139b-c 
+
+34 Newton: Optics, bk hi, 541b 
+42 Kant: Pure Reason, 74b-76c 
+
+204 the great ideas Ih to 3 
+
+(2. The unchanging principles of changed) 
+
+2b. The factor of opposites or contraries in 
+change 
+
+7 Plato; Symposium, 165c-166b / P/iaedo,226d- 
+228a; 243c-246c / Republic, bk iv, 350d-35Ib 
+/ Theaetetus, 519d'520b / Sophist, 565a-c / 
+Laws, BK X, 760a-c; 762b-764c 
+
+8 Aristotle: Categories, ch 5 [4®io-'’i9] 8b-9a; 
+CH 10 [i3‘‘i7-37] 18d-19a; ch 14 [i5'’i-i6i 
+21b-c / Physics, bk i, ch 5-9 263c-2e8d; bk 11, 
+CH I (i93'’i9-22] 270a; bk hi, ch i [ 2 oi“ 4-8] 
+278c; BK IV, CH 9 [2i7‘'2o-*’26] 297a'C; bk v, 
+CH I [ 224*’27-225“i2] 304d-305a; [225'‘34-’’9] 
+305d; CH 2 [226“23-’’g] 306d-307a; ch 3 
+[226*’24-34] 307c; ch 5 310a-311a; ch 6 
+[23o''27-23i“2] 3I2b-c; bk vi, ch 4 [234*’io-2i] 
+316d-317a; bk viii, ch 2 [25a’’9-ii] 336b-c; 
+CH 7 [260^29-'’!] 346b-c / Heavens, bk 1 , ch 3 
+[270“i3-23] 361b c; ch 4 362a-c; ch 8 [277''i3- 
+34] 368b-c; ch 12 [283^17-23] 375c-d; bk iv, 
+CH 3 401c-402c; ch 4 [3ii*’29-3i2'‘22] 403c-d 
+/ Generation and Corruption, bk r, ch 4 416c- 
+417a; ch 7 421d 423b; bk n, ch 1-5 428b,d- 
+433d esp ch 4-5 431b-433d / Metaphysics, 
+BK I, ch 8 [98g’‘i8-29] 507b-c; bk n, ch 2 
+[9g4“i9-*’6] S12c-d; bk iv, ch 7 [ioii’’29-38] 
+S31d; bk VIII, ch 5 S6gb-d; bk ix, ch 9 
+[io5i“4-i3] 577a; bk x, ch 7 [i057“i8-34] 
+S84c-d; BK XI, ch 9 [io65*’5-i4] S93d-594a; 
+ch II 596a-d; bk xii, ch 2 S98c-S99a; ch 10 
+(io75“25-34] 606a / Soul, bk ii, ch 4 f4i6‘’i8- 
+**8] 646c-d / Longevity, ch 3 710d 711b 
+
+9 Aristotle: Generation of Animals, bk i, ch i 8 
+[724“20-‘’i3] 264b-d; bk iv, ch 3 [768*2-7] 
+309c / Ethics, bk viii, ch 8 [ii59'’i9-23] 411d 
+
+10 Galen: Natural Faculties, bk 1 , ch 2, 167b-d 
+
+17 Plotinus : Third Ennead, tr vi, ch 8 lllc-d / 
+Sixth Ennead, tr hi, ch 22 293d-294c; ch 27 
+296b-297a 
+
+19 Aquinas: Summa Theologica, part i, q ig, 
+A I, ANs 108d-109c; Q 23, A I, REP 3 132c-133b; 
+Q 26, A I, REP 2 150b c; Q 58, A 7, REP 3 305c- 
+306b; Q 62, A 7, REP I 322d-323b; part i-ii, 
+Q 18, A 8 , rep I 699d-700b; q 23 , a 2 724c- 
+725c 
+
+28 Harvey: On Animal Generation, 408c-d 
+
+31 Spinoza: Ethics, part hi, prop 4-6 398d- 
+399a; part iv, prop 29-35 431d-434a; part 
+V, AXIOM I 452c 
+
+42 Kant: Pure Reason, 27a; 76c-83b esp 76c-d; 
+91d-93c 
+
+46 Hegel: Philosophy of History, intro, 160c-d; 
+165a-b; 178a-d; 179b-d 
+
+3. Cause and effect in motion; the relation of 
+mover and moved, or action and passion 
+
+7 Plato: Phaedrus, 124b-c / Gorgias, 267c-268a 
+/ Timaeiis, 460c-d / Laws, bk x, 760a-765d 
+esp 761b-765d 
+
+8 Aristotle: Categories, cn 9 [ii'^i-y] 16c-d / 
+Physics, BK HI, ch i [ 2oo*’2g-32] 278b; ch 2 
+
+. • [202‘‘2]-cH3[202°29 ] 279c-280c;ek vh, ch 1-2 
+326a-329a; bk'viii,-CH 10 [266^27-267^21] 
+354b-d / Heavens, bk i, ch 3 [270*12-17] 361b; 
+CH 7 [275“i-'’29] 366a-367a; 'ch 8 [277’’i-S] 
+368c-d; bk hi, ch 2 [30o’’8-3oi“i 2] 391d-392c; 
+[30i*’2-32] 392d-393b; bk iv, ch 3 401c-402c / 
+Generation and Corruption, bk i, ch 6 [323*12- 
+34] 421b-c; CH 7-9 421d-426c; Bit 11 , ch g-io 
+436d-439c / Metaphysics, bk i, ch 6 [987*‘3o- 
+988*8] 506a; ch 7 [988*3i-’’i6] 506c-d; bk v, 
+CH 2 [roi3'^3-i6] 533c-d; bk ix, ch 1-5 
+570b,d-573c; ch 7 [i048*'35-i049*i8] 574c-d; 
+BK XI, ch 9 [1066*27-34] 594d; bk xii, ch 3 
+[io69'’35-i07o*9] 599a-b; [1070*21-30] 599c-d; 
+CH 4 [io7o*’22]-cH 8 [i074*’i4] 600b 60Sa; cn 
+10 [io75'’i-37] 606b-d / Soul, bk h, ch 5 
+647b-648d; bk hi, ch 2 [426*2-6] 658a-b 
+9 Aristotle: Motion of Animals, cn 8 (702*5- 
+22] 237b-c/ Generation of Animals, bk i, ch 20 
+[729*9]-CH 21 [729*’2i] 269b-270a; bk h, ch 4 
+[74 o’^i 8-26] 281c-d; bk iv, ch 3 [768’’i6-24] 
+310b-c 
+
+10 Galen; Natural Faculties, bk i, ch 2, 168b c; 
+BK HI, CH 7, 203b-c 
+
+12 Lucretius; Nature of Things, bk h [ 80-141] 
+16a-d; [184-293] 17b-18d 
+
+16 Kepler: Epitome, bk iv, S54b; 855b; 940b- 
+941a; 959a-960a 
+
+17 Plotinus: Sixth Ennead, tr i, ch 15-22 260c- 
+
+264c; TR HI, CH 23 294d-295a , , ' 
+
+19 Aquinas : Summa Theologica, part i, q 8 , a i, 
+ANS and REP 2 34d-35c; q 41 , a i, reP 2 217d- 
+218c; Q 44, A 2, REP 2 239b-240a; q 48, A 1, 
+REP 4 259b-260c; q 60, a i, rep 2 310b-311a; 
+Q 75, A I, REP 3 378b-379c; q 80, a 2 , ans 
+428a-d; 0 115 , a i 585d-587c; part i-h, q i, 
+A 3, ANS and REP I 611b-612a; A 6 , ans 614a-c: 
+Q 9, A 4, ANS 660a-d; q 22 720b,d-723b; Q 23, 
+A 4 726a-727a 
+
+20 Aquinas : Swwiifl Theologica, parti-ii, q 1131 
+A 8 367d-368c 
+
+28 Gilbert: Loadstone, bk ii, 26d-40b passim; 
+BK VI, 109a-b; 112d 1 
+
+28 Galileo: Two > New Sciences, third day, 
+202a-203a 
+
+28 Harvey: On Animal Generation, 423d 
+
+31 Descartes: Meditations, in, 87c-88a / Objec- 
+tions and Replies, axiom ii 131d; 212a 
+
+31 Spinoza: Ethics, part ii, AxioMA-g 373c-d; 
+LEMMA 3 378d-379a; part hi, dct 1-3 39Sd- 
+396a; prop 1-4 396a-398d; part iv, axiom- 
+prop 7 424c-426b; part v, axiovi 2 452c; 
+prop 3-4 453a-d 
+
+34 Newton: Principles, def ih-iv Sb-6a; law 
+i-iii 14a-b 
+
+35 Locke; Human Understanding, bk h, ch xxi, 
+' SECT 1-5 178b-179d; sect 74, 199d-200b; ch 
+
+xxH, SECT II 203c-d; cii xxiii, sect 28-29 
+211b-212a 
+
+35 Hume: Human Understanding, sect hi, div 
+18-SEcT A'lii, DIV 74 457c-484c passim, esp 
+sect VII, DIV 60 477a-c 
+
+4 /o 6 Chapter 10 
+
+42 Kant: Ptite Reason, ISa-b; 43a-b;'76c-83b; 
+91d-93c 
+
+4. Motion‘and rest: contrary motioas 
+
+7 Plato: Cratylus, n 2 b / Republic, bk iv, 350d- 
+351b /, Timaeus, 4S3b-c; 460c-d /-Sophist, 
+567a-S74c / Statesman, 587i589c esp S87a-b 
+
+8 Aristotle: Categories, ch 14 [i5’’i-i6] 21b-c 
+/ Physics, BK V, ch 5-6 310a-312d / Heavens, 
+BK I, CH 4 3b2a-c / Metaphysics, bk iv, ch 2 
+[ioo4''27-29] 523d; bk xi, ch 12 [io68'’20-25] 
+597c-d / Soul, bk i, ch 3 [4o6“22-27] 635c 
+
+f 10 Galen: Natural Faculties, bk i, ch 2, 167b-d 
+
+11 Nicomachus: Arithmetic, bk ii, 832c 
+
+16 Copernicus : Revolutions of the Heavenly 
+Spheres, bk i, 517b-518a; 519b-520b 
+
+16 Kepler: Epitome, bk iv, 931b 
+
+17 Plotinus : Ennead, tr hi, ch 24 295b-c; 
+
+CH27 296b-297a 
+
+19 Aquinas: Summa TJieologica, part i, q 10, 
+
+A 4 , REP 3 43b'44b; q 18 , a i, rep 2 104c-105c; 
+
+Q 53, A 3, ANS 283b-284d; Q 73, a 2, ans 
+371b-d; part i-ii, q 6, a i 644d-646a; a 4 
+647b-648a; q 9, a 4, rep 2 660a-d; q 41, a 3 
+799c-800b 
+
+20 Aquinas; Summa Theologica, part hi suppl, 
+
+Q 75, A 3, ANS and REP 3-5 938a-939d; q 84, 
+a 3, REP 2 985d-989b 
+
+23 Hobbes: Leviathan, part i, 50a 
+
+28 Gilbert: Loadstone, bk ii,'. 26a-b; bk vi, 
+110b 
+
+30^ Bacon: Novum Organtm, bk ii, aph 35, 163a 
+
+31 Spinoza; Ethics, part ii, axiom i 378c; 
+LEMMA 1-3 378c-379a 
+
+34 Newton: Pn««pfo, def hi Sb; law i 14a 
+
+5. The measure of motion , 
+
+5 rf. Time or duration as the measure of motion 
+
+, 7 Plato; Timaeus, 450c-451d / Parmenides, 
+504c-505c 
+
+8 Aristotle; Physics, bk iv, ch 10-14 297c- 
+304a,c; bk vi 312b,d-325d esp ch 2 314a-315d 
+/ Generation and Corruption, bk ii, ch 10 
+[337'^2-34] 439b'C / Metaphysics, bk v, ch 13 
+[i02o“25-33] 541c; bk x, ch i [1053V12I 
+, 579c; BK XII, ch 6 [io7i'’6-i2] 601b 
+
+I 9 Aristotle: Ethics, bk x, ch 4 [ii74‘'i2-*’i4l 
+428b-429a 
+
+12 Aurelius: Meditations, bk vi, sect 15 27Sa-b 
+
+17 Plotinus: Third Ennead, tr vii, ch 7”’'3 
+rl22d-129a / Fourth Ennead, tr iv, ch 15 
+
+165c-d / Sixth Ennead, tr i, ch 5, 254c-d; ch 
+16 260d-261c; tr hi, ch 22, 294c 
+
+18 Augustine: Confessions, bk xi, par 12-40 
+92b-99a; bkjxii, par 9 101b c / City of God, 
+BK XI, CH 6 325c-d; bk xii, ch 15 351b- 
+352d “ 
+
+19 Aquinas: Summa Theologica, part i, q 7* 
+
+A 3, REP 4 32c-33c; q 10, a i, ans 40d-41d; aa 
+4-6 43b-46d; q 53, a 3 283b-284d; q 57, a 3, 
+‘rep 2 297b-298a; Q 63, A 5, ans 329a-330c; 
+
+: CHANGE 205 
+
+A 6, REP 4 330c-331c; q 66, a 4 , rep 4 348d- 
+’ 349d; PART i-ii, Q 31 , A 2 , ANS and rep i 
+7S3c-754a 
+
+20 Aquinas: Theologica, parti-h, q 113, 
+
+, A 7, REP 5 366a-367c; part hi suppl, q 84, 
+
+A 3 985d-989b 
+
+21 Dante: Divine Comedy, paradise, xxvh 
+fio 6 -i 2 o] 148b-c 
+
+• 28 Galileo: Two New Sciences, third day, 
+201a-202a 
+
+. 30 Bacon: Novum Organtm, bk ii, aph 46 177c- 
+179a 
+
+31 Spinoza: Ethics, part ii, def 5 373b-c 
+
+32 Milton: Paradise Lost, bk v [580-582] 188a 
+
+33 Pascal: Geometrical Demonstration, 432b- 
+
+; 433b; 434a-439b passim 
+
+34 Newton; Principles, definitions, schol, 8b- 
+10a; 12a-b 
+
+35 Locke: Human Understanding, bk h, ch xiv, 
+SECT 22 159d; CH XVIII, SECT 2 174a-b 
+
+36 Sterne: Tristram Shandy, 292a-293a 
+
+42 Kant: Pure Reason, 27a; 29c-d; 72c-76c 
+
+45 .Fourier: Theory of Heat, 249a-251b 
+
+5b. The divisibility and continuity of motion 
+
+8 Aristotle: Physics, bk iv, ch ii [2I9“io-i 3] 
+298d-299a; bk v, ch 4 308b-310a; bk vi 
+312b,d-325d; bk vii, ch i [242“32-*’4] 326c-d; 
+BKViii, ch 7 [26i“28]-cH 8 [265''i2] 347c-352a 
+/ Metaphysics, bk v, ch 6 [ioi6'‘4-7] 536b-c; 
+ch 13 [i02o''25-33] 541c; bk x, ch i [io52''i 5- 
+2i] 578b; BK XII, ch 6 [1071^8-11] 601b 
+
+9 Aristotle: Ethics, bk x, ch 4 [ii74'’9-i4] 
+.428d-429a 
+
+17 Plotinus: Third Ennead, tr vh, ch 8-9 123b- 
+12Sd 
+
+19 Aquinas: Summa Theologica, part i, q 7, a 3, 
+REP 4 32c-33c; q 53 280d-284d 
+
+20 Aquinas: Summa Theologica, parti-ii, q 113, 
+A 7 366a-367c 
+
+28 Galileo: Two New Sciences, third day, 201a' 
+202a 
+
+30 Bacon: Noraw Organum, bk ii, aph 6 139b-c; 
+APH 41 173d-174b 
+
+31 Descartes: Meditations, hi, 87c-d / Objec- 
+tions and Replies, 213b-c 
+
+33 Pascal: Geometrical Demonstration, 434a- 
+439b 
+
+.34 Newton; Principles, bk i, lemma ii, schol, 
+31b-32a 
+
+42 Kant: Pure Reason, 26b-27a; 74b-76c 
+
+51 Tolstoy; War and Peace, bk xi, 469a-d 
+
+6. The kinds of change 
+
+7. Plato: Timaeus, 449b-450c esp 450a / Par- 
+menides, 492a-493b esp 492d-493b; 504c-505a 
+/ Theaetetus, 533a-b / Laws, bk x, 762b-763b 
+
+^ 8 Aristotle; Categories, ch 14 20d-21c / Phys- 
+ics, BK HI, CH i [2oo*’32-20i"i4] 278b-c; BK V, 
+CH 1-2 304a-307b; ch 5 310a-311a; bk vii, 
+CH 4 330d-333a / Heavens, bk i, ch 2 [268*'i5- 
+269“8] 359d-360a; bk iv, ch 3 401c-402c / 
+
+206 THE GREAT IDEAS 6a to 6d 
+
+(6. The hinds oj change^ 
+
+Generation and Corruption, bk i, ch 1-5 409a- 
+420b esp CH 4 [3i9*’32-32o“2] 417a / Metaphys- 
+ics, BK zi, CH 2 [994“i9-*’6] 512c-d; bk viz, 
+CH 9 [zo34’’8-Z9] 557d-5S8a; bk xz, ch 9 
+[zo65'’7-z4] 593d-594a; ch zi [io67*>i]-ch 12 
+[io68’’25] 596a-S97d; bk xii, ch 2 [io69’’8-i4] 
+598d / Soul, BK z, CH 3 [4 o 6 “z 2-2 z] 635c 
+
+9 Arzstotle: Generation of Animals, bk z, ch 18 
+264b-d 
+
+10 Galen: Natural Faculties, bk i, ch 2, 167b-d; 
+CH 5 169b-c 
+
+17 Plotznus: Sixth Ennead, tr zzz, ch 21-27 
+293a-297a 
+
+19 Aquinas : Sttntma Theologica, part i, q 44, 
+A 2, ANS 239b-240a; q 45, a i, rep 2 242a-d; 
+Q 66, A I, ANS 343d-345c; q 118, a 2, rep 2 
+601c-603b; part i-ii, q i, a 3, ans 611b-612a; 
+Q 23, A 2, ANS 724c-725c 
+
+20 Aquinas : Stimma Theologica, part i-ii, q 107, 
+A I, ans 32Sc-327b: part hi suppl, q 84, a 2, 
+REP 1,4 984c-985d; a 3, ans 985d-989b 
+
+28 Harvey: On Animal Generation, 407c-409b 
+
+30 Bacon: Novum Organum, bk i, aph 66 114d- 
+115c 
+
+35 Locke : Human Understanding, bk zi, ch xxii, 
+SECT II 203c-d 
+
+6a. The reducibility of all modes of motion to 
+one kind of change 
+
+8 Aristotle: Physics, bk vizi, ch 7 [26o“26-^i4) 
+346b-c / Generation and Corruption, bk i, ch 
+1-5 409a-420b 
+
+10 Galen: Natural Faculties, bk 1, ch 2, 167b- 
+168b 
+
+12 Lucretius: Nature of Things, bk i [418-448] 
+6b-c; BK II [730-1022] 24b-28a; bk hi [417- 
+869] 35c-41a; bk iv [522-817] 51a-54d 
+
+23 Hobbes: Leviathan, part i, 61a-c; part hi, 
+173a; part iv, 271a-b 
+
+30 Bacon: Novum Organum, bk i, aph 50 111b 
+
+34 Newton: Principles, lb'2a / Optics, bk hi, 
+541b 
+
+34 Huygens: Light, ch i, 553b-554a 
+
+45 Fourier: Theory of Heat, 169a-b; 182a-b 
+
+53 James: Psychology, 882a-884b 
+
+6b. The primacy of local motion 
+
+8 Aristotle: Physics, bk iv, ch i [208*28-33] 
+287a; bk vih, ch i [250*’i5-i 8] 334a; ch 7 
+346b-348a / Heavens, bk i, ch 2 [268*’i5-i7] 
+359d; bk iv, ch 3 [3io’’22-34] 402b / Genera- 
+tion and Corruption, bk ii, ch 10 437d'439c / 
+Metaphysics, bk xii, ch 6 [io7i*’2-ii] 601b; 
+[io7i°32-38] 601d; ch 7 [io72'’4-io] 602c; ch 
+8 [1073*24-39] 603c 
+
+9 Aristotle; Motion of Animals, ch 5 235c-d 
+
+19 Aquinas: Summa Theologica, part i, Q 67, 
+A 2, rep 3 3S0b-351a; q 78, a 3, ans 410a- 
+411d; Q no, a 3, ans 566d-S67b 
+
+20 Aquinas : Summa Theologica, part iii suppl, 
+Q 84, a 2, rep 1,4 984c-985d 
+
+6c. Comparison of change in living and non- 
+living things 
+
+8 Aristotle: Physics, bk vii, ch 2 [244'’!- 
+245*12] 328b-d; bk vih, ch 4 338d-340d; cn 
+6 [259“2o-*’3i] 345a-d / Heavens, bk i, ch 7 
+[275'’26-28] 367a; bk ii, ch 2 [284'’3o-285“i] 
+376c / Sotil, BK II, CH 4 [4I5*’22-4i6’’3i] 646a- 
+647b 
+
+9 Aristotle: Motion of Animals, ch i [698*15- 
+21] 233b; ch 4 [700*5-27] 235b-c; ch 6 235d- 
+236b; ch 7 [7oi''i]-ch 8 [702*’i2] 236d-238a / 
+Generation of Animals, bk i, ch 21-22 269c- 
+271a; bk ii, ch i [734*17-735*15] 274c-275d; 
+CH 4 [740*13-18] 281a 
+
+10 Galen: Natural Faculties, bk i, ch 7 170c- 
+171a; BK II, CH 3, 186c-d 
+
+12 Lucretius: Nature of Things, bk h [700-729] 
+23d-24b; [1105-1174] 29a-30a,c 
+
+19 Aquinas: Summa Theologica, part i, q 18, 
+A 1 104c-105c; Q 27, a 2, ans 154c-lS5b; part 
+I-II, Q 17, A 9, REP 2 692d-693d 
+
+27 Shakespeare: Othello, act v, sc ii [7-15] 
+239a 
+
+28 Gilbert: Loadstone, bk hi, 67b-d 
+
+28 Harvey: On Animal Generation, 412b-415b 
+
+30 Bacon: Novum Organum, bk h, aph 27 157b- 
+158d 
+
+31 Descartes: Discourse, part v, 59a-60c / 
+Objections and Replies, 156a-d 
+
+35 Locke: Human Understanding, bk ii, ch ix, 
+SECT II 140b-c; ch xxiii, sect 22 209d; sect 
+28-29 211b-212a; ch xxvi, sect 2 217b-d: 
+CH xxvn, SECT 5 220b-c; bk iv, ch x, sect 19 
+354a-c 
+
+42 Kant: judgement, S79d-580a; 582b-c 
+
+45 Faraday: Researches in Electricity, 836d 
+
+49 Darwin: Origin of Species, 62a-b 
+
+53 James: Psychology, 4a-6b; 68a-69b; 71a 
+
+6d. Comparison of the motions of matter with 
+changes in the order of mind 
+
+7 Plato: Laws, bk x, 764c-765a 
+
+8 Aristotle: Physics, bk vii, ch 3 [247'’!- 
+248*8] 330b-d / Generation and Corruption, bk 
+II, CH 6 [334*10-15] 435a / Metaphysics, bk ix, 
+ch 2 571c-S72a / Soul, bk i, ch 3 63Sb-637b; 
+CH 4 [4o8“29-*’3i] 638a-d; bk ii, ch 5 [417*21- 
+'’21] 647d-648b; bk hi, ch ii [434*16-22] 
+667a 
+
+12 Lucretius: Nature of Things, bk hi [177-207] 
+32b-d 
+
+17 Plotinus: Third Ennead, tr vi, ch 1-3 106b- 
+108c 
+
+19 Aquinas: Summa Theologica, part i, q i4> 
+A 15 89b-90b: Q 18, A I, ANS 104c-105c; a 3) 
+REP I 106b-107c; q 19, a 7 114d-115d; q 27, 
+AA 1-2 153b-155b; q 34, a i, rep 2 185b-187b; 
+Q 46, A 2, REP 3 253a-255a; q 50, a i, rep 2 
+269b-270a; q 73, a 2, ans 371b-d; Q 75* 
+A 5, REP 2 382a-383b; q 78, a 3, ans 410a- 
+411d; Q 82, A 2, rep 2-3 432d-433c; q 941 
+A 2, ANS 503a-S04a; part i-ii, q 22, a i, ans 
+
+Ijo lb Chapter 10; 
+
+and REP I 720d-721c; a 2, rep 3 721c'722c; 
+
+. Q 35, A 6, REP 2 777b-778c; q 36, a i, ans 
+780c-781b 
+
+20 Aquinas: Summa Theologica, part i-ii, q 52, 
+
+A I, ANS and REP 3 15d'18a; q 72, a 3, ans and 
+REP 1-2 113b-114a; q 113, a 7, ans and rep 1,4 
+366a-367c; part ii-ii, q 180, a 6 613a-614d; 
+part III SUPPL, Q 82, A 3, ANS and REP 2 
+971a-972d; q 84, a 3, ans and rep i 985d- 
+989b 
+
+21 Dante: Dwine Comedy, purgatory, xviii 
+[10-33] 80a 
+
+23 Hobbes: Leviathan, part i, 49a-d; 61a-c 
+31 Spinoza; Ethics, part 11, prop 7 37Sa-c; part 
+HI, 39Sa'd: prop 1-3 396a-398c; part iv, 
+PROP 7 426a-b; part v, prop i 4S2d 
+35 Locke: Human Understanding, bk ii, ch xu, 
+sect 1 147b-d; ch xxi, sect 74 199c-200b 
+35 Berkeley: //«!»«« Knowledge, sect 144 441d 
+46 Hegel; Philosophy of History, intro, 160c- 
+161a; 178a-179c; 186d-190b 
+53 James: Psychology, 9Sb-97a 
+
+7. The analysis of local motion 
+
+7a. Space, place, and void 
+
+7 Plato; Timaeus, 460c-d; 471b-c / Laws, bk 
+X, 762b-d 
+
+8 Aristotle: Physics, bk hi, ch 5 [205*10- 
+2o 6“8] 283b-284b; bk iv, ch 1-9 287a-297c / 
+Heavens, bk i, ch 7 [274*’30-33] 366a; [275‘’30- 
+276*18] 367a-b; ch 8 [276*22-27] 367b-c; 
+[277’’i4-23] 368d-369a: bk ii, ch 2 376b'377c; 
+BK HI, ch 6 [305*27-28] 396c; bk iv, ch 1-5 
+399a'404d / Metaphysics, bk v, ch 13 [1020* 
+25-33] 541c; BK IX, CH 6 [i048'’9-i7] 574a; 
+BK XI, CH 10 [1067*8-33] 595C'5g6a / Soul, 
+BK I, CH 3 [406*12-21] 635c 
+
+10 Galen: Natural Faculties, bk i, ch 16, 181a-d; 
+BK H, CH 1-2, 183b,d'184c; ch 6 I88c-19Ia; 
+BK III, CH 14 - 15 , 213b-214c 
+
+11 Nicomachus: Arithmetic, bk n, 832c 
+
+. 12 Lucretius; Nature of Things, bk i [329-44^! 
+Sb- 6 c; [ 958 - 1007 ] 12d-13b; [ 1052 - 1082 ] 14a-c; 
+BK II [ 80 - 250 ] 16a-18a; bk vi [ 830 - 839 ] 91b-c; 
+[ 998 - 1041 ] 93c-94a 
+16 pTOhRUV: Almagest, bk i, lOb-llb 
+16 Copernicus: Revolutions of the Heavenly 
+Spheres, bk i, 517b-S18a; 519a-520b 
+
+16 Kepler; Epitome, bk iv, 855b; 900b-903a; 
+922a-b; 931b-932a 
+
+17 Plotinus; Third Ennead, tr vh, ch 8, 123d- 
+124a 
+
+19 Aquinas: Summa Theologica, part i, q 8, 
+
+A i, REP 3 34d-35c; a 4 37c-38c; q 52, aa 1-2 
+
+■ 278d-280a; q 53, aa 1-2 280d-283b 
+
+20 Aquinas: Summa Theologica, part hi suppl, 
+
+Q 83, AA 2-5 976c-982c; Q 84, a 2, rep i 984c- 
+985d; a 3 985d-989b 
+
+23 Hobbes; Leviathan, part i, 30a; 61b; part 
+HI, 173a; part iv, 271d 
+
+28 Gilbert: Loadstone, bk h, 32c; bk vi, llOb-c 
+
+CHANGE 207 
+
+28 Galileo; Two New Sciences, first day, 157b- 
+160a passim; third day, 202d 
+
+30 Bacon: Novum Organum, bk h, aph 37 168d- 
+169c; aph 45 176a-177c; aph 48, 180a 
+
+31 Descartes: Rules, ix,.15c 
+
+33 Pascal: Vacuum, 366a-367a; 370a / Weight 
+of Air, 405b-41Sb passim 
+
+34 Newton: Principles, definitions, schol 8 b- 
+13a; BK HI, GENERAL scHOL, 370a-372a / 
+Optics, BK in, 520a-S22b; 542a-543a 
+
+35 Locke: Human Understanding, bk ii, ch xiii, 
+SECT 23 lS3c-d; CH xvii, sect 4 168b-d 
+
+35 Berkeley: Human Knowledge, sect 110-117 
+434b-436a 
+
+42 Kant: Pure Reason, 29c-d; 31d-32a; 55c-56a; 
+84b-c; 135d [fn 2 ] 
+
+45 Faraday; Researches in Electricity, S13d-514c; 
+685d-686c; 816b,d-819a,c; 824a-b; 855a,c 
+
+Ih. Natural and violent motion 
+
+7 Plato: Timaeus, 463d-464b 
+
+8 Aristotle: Physics, bk iv, ch i [2o8’’9-22] 
+287b: CH 8 [ 215 * 1 - 13 ) 294c-d: bk v, ch 6 
+[ 230 * 18 - 231 * 19 ] 311c-312d; bk vih, ch 4 
+338d-340d / Heavens, bk i, ch 2 [ 268 ’’i 2 ]- 
+CH 3 [ 270 * 13 ] 359d-361b; ch 7 [ 274 *’ 3 o- 33 ] 
+366a; [zyfia-zgl 366d-367a; ch 7 [ 276 * 8 ]- 
+CH 8 [ 277 '’ 25 ] 367b-369a; ch 9 [ 278 '’ 22 - 
+279 * 8 ] 370a-b: BK II, CH 13 [ 294 '’ 3 i- 2 ^ 5 “ 29 ] 
+386b-d; bk hi, ch 2 391c-393b; ch 5 [ 304 *’ 
+11 - 23 ] 395d-396a; ch 6 [ 305 * 22 - 28 ] 396c / 
+Generation and Corruption, bk 11 , ch 6 [333** 
+22 - 33 ] 434c-d / Soul, BK I, ch 3 [ 406 * 12 - 29 ] 
+63Sc-d 
+
+12 Lucretius: Nature of Things, bk i [ 1052 - 
+1094 ] 14a-c: bk II [ 184 - 215 ] 17b-d 
+16 Ptolemy: Almagest, bk i, lla-b; bk ih, 86 b; 
+BK IX, 270b 
+
+16 Copernicus; Revolutions of the Heavenly 
+Spheres, bk i, S17b-520b passim 
+
+16 Kepler: Epitome, bk iv, 929b-930b 
+
+17 Plotinus : Second Ennead, tr i, ch 8, 39d 
+
+19 Aquinas: Summa Theologica, part i, q 18 , 
+A I, rep 2 104c-10Sc; q 105 , a 4 , rep i 541c- 
+542a; a 6 , rep i 543b-544a; part i-ii, q 6 , 
+A I, ans and rep 3 644d-646a: a 4 647b-648a; 
+A 5 , ANS and REP 2-3 648b-649a; q 41 , a 3 
+799c-800b 
+
+20 Aquinas: Summa Theologica, part hi suppl, 
+Q 75 , A 3 , ANS and REP 3-5 938a'939d; q 91 , 
+A 2 , ANS and REP 6 1017c-1020c 
+
+21 Dante: Divine Comedy, paradise, i [94-142] 
+107b-d 
+
+23 Hobbes: Leviathan, part i, 50a; part iv, 
+271d 
+
+28 Gilbert: Loadstone, bk vi, 109a-b; llOb-d 
+28 Galileo: Two New Sciences, first day, 157d- 
+lS 8 a; THIRD day, 200a-d; 203d; fourth day, 
+238a-b 
+
+30 Bacon: Novum Organum, bk i, aph 66, llSb- 
+c; bk h, aph 36 164a-168d passim; aph 48 
+179d-188b 
+
+208 THE GREAT IDEAS Ictoli 
+
+Ic. Kinds of local motion 
+
+7c(l) Rectilinear and rotary or circular mo- 
+tion 
+
+7 Plato: Republic, bk iv, 350d-35lb / Parmen- 
+ides, 492d'493b / Laws, bk x, 762b d; 764b- 
+765a 
+
+8 Aristotle; Fhysies, bK iv, ch 5 [2i2“3i-3’2] 
+291d; BK vn, ch 4 i248“io-^6] 330d-331b; bk 
+vni, CH 8-9 348b-3S3b / Heavens, bk i, ch 2- 
+6 359d-365c: ch 7 [ 274 '’ 22 ' 29 ] 365d-366a; 
+[275’’i2-i8] 366d; ch 8 [ 277 “i 2 - 26 ] 368b c; 
+[277'’8 -i8] 368d / Metaphysics, bk xii, ch 6 
+[i 07 i'’io-n] 601b; CH 7 [io 72 “ 2 o- 22 ] 602b 
+/ Soul, BK I, CH 3 [ 4 o 6 ’’ 26 - 407 *'i 3 ] 636b- 
+637b 
+
+16 Ptolemy: Almagest, bk 1 , 6a; 7a-8b; bk lit, 
+86 b; BK IX, 270b 
+
+16 Copernicus: Revolutions of the Heavenly 
+Spheres, bk i, S14a; 517b-518a; 519b-520b 
+
+16 Kepler: Epitome, bk iv, 887a; 9l3a; 931b- 
+933a 
+
+17 Plotinus: Second Ennead, tr i, ch 3, 36b-c; 
+CH 8 39c-d; tr ii, ch i, 40b-c; ch 2 , 41b-c / 
+Sixth Ennead, tr hi, ch 24 2gSb-c 
+
+19 Aquinas: Summa Theologica, part 1, q 7, 
+A 3, ANs 32c-33c; Q 66, a 2, ans 34Sd-347b 
+
+28 Gilbert; Loadstone, bk vi, llOb-c 
+
+28 Galileo: Two New Sciences, fourth day, 
+240d; 245b c 
+
+30 Bacon; Novum Organum, bk ii, aph 35, 
+163a-d; aph 48, 186b-d 
+
+34 Newton: Principles, def hi 5b; dep v 6a-7a; 
+definitions, schol, llb-12a; law i 14a; 
+LAWS OF motion, SCHOL, 19b-20a; BK I, prop 
+1-3 and SCHOL 32b 35b; bk 11, prop 53, schol 
+266a-267a 
+
+7c(2) Uniform or variable motion 
+
+8 Aristotle: Physics, bk iv, ch 8 [2i5'‘24- 
+2 i 6 “ 2 t] 295a-d; bk v, ch 4 [ 228 ’’i 5 - 229 “ 7 ] 
+309d-310a 
+
+12 Lucretius: Nature of Things, bk ii [225-242] 
+17d-I8a 
+
+28 Galileo: Two New Sciences, first day, 157b- 
+160a; third day, 197b-198b; 200a-d; 203d; 
+20Sb-d; 209a-c; 224d 
+
+30 Bacon: Novum Organum, bk ii, aph 48, 
+186b-d 
+
+34 Newton: Principles, def iii-iv 5b-6a; law 
+i-ii 14a-b; corol iv-vi 18a-19b 
+
+7c(3) Absolute or relative motion 
+
+12 Lucretius; Nature of Things, bk iv [387-390] 
+49b 
+
+16 Copernicus: Revolutions of the Heavenly 
+Spheres, bk i, 514b-515a; S19a; bk h, 
+557a-b 
+
+16 Kepler; Harmonies of the World, 1015a-b 
+
+28 Gilbert: Loadstone, bk vi, ll5a-d 
+
+30 Bacon; Novum Organum, bk ii, aph 36 , 16 Sc- 
+166fa 
+
+34 Newton: Principles, definitions, schol 8b- 
+13a esp 9a-b; corol v-vi 19a-b; bk 1 , prop 
+57-61 lllb-114b 
+
+35 Locke: Human Understanding, bk 11 , cii xiii, 
+SECT 7-10 149d-150d passim 
+
+35 Berkeley: Human Knowledge, sect iio-hj 
+
+' 434b-435c 
+
+53 James; Psychology, Sllb-S12a 
+
+7c{4) Terrestrial and celestial motion 
+
+7 Plato: Statesman, 587a-b / Laws, bk vn, 
+729d-730d; bk x, 763d-765c 
+
+8 Aristotle: Heavens 359a-405a,c esp bk i, 
+ch 2-3 359d-362a / Metaphysics, bk ix, ch 8 
+[io5o’’ 20-28] 576c-d; bk xii, ch 2 [io69’’24- 
+27] 599a; ch 6 [io7i'!32]-ch 7 [io72“22] 601d- 
+602b / Soul, bk I, CH 3 [4o6*’26-407'’i 3] 636b- 
+
+' 637b 
+
+9 Aristotle: Motion of Animals, ch 3 234a c 
+16 Ptolemy; Almagest, bk i, Sa- 6 a; 7a-8b; 12a; 
+
+BK HI, 86b-87a; bk ix, 270b; bk xiii, 429a-b 
+16 Copernicus: Revolutions of the Heavenly 
+Spheres, bk i, 513b-S14b; S17b-S18a; 519b- 
+520b 
+
+16 Kepler: Epitome, bk iv, 888b-895b; 897a- 
+
+905a passim, esp 904b 90Sa; 929a-933a; 934b' 
+935b; 940b-941a; 959a 960a 1 ‘ 
+
+17 Plotinus: Second Ennead, tr i, ch 1-4 3Sa- 
+37b; tr I, ch 8-tr ii, ch 2 39c-41c 
+
+19 Aquinas: Summa Theologica, part i, q 66, 
+A 2 , ANS 345d-347b; q 70 , a 3 365b 367a 
+
+20 Aquinas: Summa Theologica, part i-ii, q 49, 
+
+A 4, ans 5a-6a ; part hi suppl, q 84, a 3, rep 2 
+985d-989b ; 
+
+28 Gilbert: Loadstone, bk vi, llOb-c 
+28 Galileo: Two New Sciences, fourth day, 
+245b-d 
+
+30 Bacon: Novum Organum, bk ii, aph 35 , 
+163a-b; aph 36 , 16Sd-166a; aph 48 , 186 b-d 
+34 Newton; Principles, la- 2 a; bk hi 269a-372a 
+passim, esp rule i-iii 270a-271a, prop 1-7 
+276a-282b, prop 35 , schol 320b-324a, gen- 
+eral schol, 371b-372a / Optics, bk hi, S40a- 
+541b 
+
+7d. The properties of variable motion: the laws 
+of motion 
+
+8 Aristotle: Physics, bk iv, ch 8 [2i5''24- 
+216 ^ 21 ] 295a-d; bk vii, ch 4 330d-333a 
+
+9 Aristotle: Motion of Animals, cii 1-4 233a- 
+235c passim / Gait of Animals, ch 3 243d-244a 
+
+, / Generation of Animals, bk iv, ch 3 [768'’i6- 
+
+24] 310b-c 
+
+12 Lucretius; Nature of Things, bk ii [80-99] 
+16a-b; [184-250] 17b-18b 
+16 Kepler: Epitome, bk iv, 894a; 899a-900a: 
+
+90Sa-906b; 933b-934b; 936a-937a; 938b-939a 
+23 Hobbes: parti, SOa; partiv, 271d 
+28 Gilbert: Loadstone, bk 11 , S 6 b-c 
+28 Galileo; Two New Sciences, first day, l 57 b- 
+172d passim; third pay-fourth day 197a- 
+7 260a, c . 
+
+8 io 9 Chapter 10: 
+
+30 Bacon: Nomm Organum, bk ii, aph 35, 
+163c-d; APH 36, 166b-c; 167b-c; aph 48 179d- 
+ISSb 
+
+31 Spinoza: Ethics, part ii, axiom i-lemma 7 
+378c-380b 
+
+34 Newton: Principles, def. hi 5b; laws of 
+motion 14a-24a; bk i, prop 1-17 and schol 
+32b-S0a; prop 30-69 and schol 76a-131a; 
+PROP 94-98 and SCHOL 152b-157b: bk ii 
+159a'267a passim / Optics, bk hi, S40a-S42a 
+
+34 Huygens : Light, ch i, 5S8b-563b 
+
+35 Locke: Human Understanding, bk ii, ch xxi, 
+SECT 4 178d'179c; ch xxih, sect 17 209a; 
+sect 22 209d; sect 28-29 21Ib-212a 
+
+35 Berkeley; Human Knowledge, sect 50 422c; 
+SECT 102 432d-433a 
+
+35 Hume: Human Understanding, sect iv, div 
+27, 460c; SECT vii, div 57, 47Sd-476b [fn 2] 
+38 Montesquieu: Spirit of Laws, bk i, lb 
+45 Fourier; Theory of Heat, 169a'b 
+51 Tolstoy: War and Peace, epilogue h, 694d- 
+695c 
+
+8. Change of size 
+
+Sa. The .increase and decrease of inanimate 
+bodies 
+
+I , 7 Plato: Timaeiis, 460C'd/ Laws, bkx, 762b-c 
+8 Aristotle: Physics, bk tv, ch i [209“27-29] 
+288a: ch 6 [2i3'>i9-22] 293b; ch 9 296b-297c; 
+BK VH, CH 2 [245 '‘i2-i 81 328d'329a; bk vih, 
+ch 3 [253‘>i2-23l 337d / Heavens, bk i, ch 3 
+[270'*23-36] 361c / Generation and Corruption, 
+BK n, CH 6 [333®35-'’3] 434b / Soul, bk ii, ch 4 
+[415*’28-4i6“i 8] 646a'C 
+
+, 10 Galen: Natural Faculties, bk i, ch 7 170c- 
+171a; BK H, ch 3, 186C'd 
+12 Lucretius: Nature of Things, bk i [311-328J 
+, Sa; bk II [62-79] 15d-16a; [1105-1174] 29a- 
+30a,c; bk v [235-323] 64a-65b 
+
+19 Aquinas: Sutnma Theologica, part i, q 119, 
+
+A I, ANS 604c-607b 
+
+20 Aquinas: Summa Theologica, part i-n, Q 52, 
+AA 1-2 15d-19a; part ii-h, q 24, a 5 492b- 
+493d; A 6, ans 493d-494b; part hi, q 7, a 12, 
+
+, REP I 754c-755c 
+
+23 Hobbes; Leviathan, part iv, 271d-272a 
+28 Galileo: Two New Sciences, first day, 
+139b-141d; 151c-154b 
+28 Harvey: On Animal Generation, 412b 
+30 Bacon; Novum Organum, bk ii, aph 40, 17Ia- 
+172d: APH 48, 180a-181a; 184a-c 
+34 Newton: Principles, bk hi, prop 6, corol iv 
+281b / Optics, bk III, 539b 
+45 Lavoisier: Elements of Chemistry, part i, 9a- 
+15c esp 9a-10b 
+
+1 45 Fourier: Theory of Heat, 184a-185b; 192a-b 
+
+8 i. Growth in living organisms 
+
+7 Plato: Timaeus, 471 d- 472 a 
+
+8 Aristotle: physics, bk h, ch * ^93 J3”*9l 
+269d-270a; bk vi, ch io [24I®32-“2] 32Sc; bk 
+
+CHANGE 209 
+
+VIH, CH 7 [26o“29-*’i] 346b-c / Generation and 
+Corruption, bk i, ch 2 [3i5''26-*’3] 410d-411a; 
+ch 5 417b-420b; bk h, ch 6 [333°35-'’3] 434b; 
+ch 8 [335"io-i4] 436c / Metaphysics, bk v, 
+CH 4 [ioi4'’2o-26] 53Sa / Soul, bk ii, ch 4 
+r4i5'’2S-4i6“i8] 646a-c 
+
+9 Aristotle: History of Animals, bk v, ch 19 
+
+f550*’26-3i] 77d; cii 33 84d-8Sa; 
+
+BK VH, ch I [582''2i-25] 107d / Motion of 
+Animals, ch 5 235c-d / Generation of Animals, 
+BK I, ch 18 [723“9-23] 263a-b: ch 22 [730*33- 
+•>9] 270d: BK II, cH I [733 ’’i-4] 273d; [735*13- 
+26] 27Sd-276a; ch 4 [739’’3 4-74 1*2] 280d' 
+281d; ch 6 [744'’2S-745*>9] 286a-d ‘ 
+
+10 Galen; Natural Faculties, bk i, ch 2, 167b-d; 
+ch 5 169b-c; ch 7 170c-l71a; ch 11 172b-d; 
+BK 11, CH3 185a-186d 
+
+12 Lucretius; Nature of Things, bk 1 [146-264] 
+2d-4b; bk 11 [1105-1174] 29a-30a,c: bkiv[858- 
+876] S5b-c, 
+
+28 Galileo: Two New Sciences, second day, 
+187b-d 
+
+28 Harvey: Circulation of the Blood, 320a-h / On 
+Antmal Generation, 3S3b-3S4a; 388c-d; 408c- 
+409b: 412b-415b esp 415a; 441a-443b; 494a-d 
+
+49 Darwin; Origin of Species, 71a-c 
+
+9. Change of quality 
+
+7 Plato: Parmenides, S09a-510a / Theaetetus, 
+533a'534a 
+
+8 Aristotle: Categories, ch 5 [f 10-^19] 8b-9a; 
+CH 14 [15*14-32] 20d-2]a / Topics, bk vi, ch 6 
+[145*2-13] 198c-d / Physics, bk i, ch 7 [i9o’’5- 
+9] 266b; BK V, ch 2 [226*26-29] 306d; [226'’!- 
+9] 307a; bk vi, ch io [241*26-32] 32Sb-c; 
+BK VH, ch 2 [244’’i-245“i2] 328b-d; CH 3 
+329a-330d; bk vih, ch 7 [26o“26-‘’i4] 346b-c 
+/ Heavens, bk i, ch 3 [270*26-36] 361c; ch 12 
+[283 '’i 7-23] 375c'd / Generation and Corrup- 
+tion, BK 1, CH 1-4 409a-417a esp cii 4 416c- 
+4I7a / Metaphysics, bk i, ch 8 [989*18-29] 
+507b-c; BK V, ch 21 544a-b; bk xi, ch 12 
+[io68’^i5-i9] S97c / Sense and the Sensible, ch 6 
+[446'’27-447*9] 685b-c 
+
+10 Galen: Natural Faculties, bk 1, ch 2, 167b- 
+168b 
+
+17 Plotinus: Third Ennead, tr vi, ch 8-10 111c- 
+113a 
+
+19 Aquinas: Summa Theologica, part i, q 48, 
+A 4, ANS and REP 3 262a-263a 
+
+20 Aquinas: Summa Theologica, part i-h, q 50, 
+A I, REP 3 6a-7b; q 52, a i, ans and rep 
+3 15d-18a; part hi suppl, q 82, a 3, ans and 
+REP 2 971a 9726; q 91, a i, rep 2,4 1016b- 
+1017c 
+
+23 Hobbes: Leviathan, part hi, 172b 
+
+34 Newton: Optics, bk hi, S41b 
+
+35 Locke: Human Understanding, bkh, chxxvi, 
+SECT 1-2 217a-d 
+
+35 Berkeley; Human Knowledge, sect 23- 
+33 417d-419a passim, esp sect 25-26 417d- 
+418a 
+
+210 THE GRE. 
+
+(9, Change of quality.) 
+
+9a. Physical and chemical change: compounds 
+and mixtures 
+
+7 Plato: Timaeus, 448b'd; 4S9d-462b 
+
+8 Aristotle: Topics, bk vi, ch 14 [i5i”20-32] 
+206a / Heavens, bk i, ch 3 [270*26-36] 361c; 
+'cH 5 [27 i'^i 8-23] 362d-363a; bk iiii ch 3 
+393c-d: CH S [3o 6'"22-29] 398a / Generation 
+and Corruption, bk 1, ch 2 [315*28-33] 410d; 
+CH 10 426c-428d; bk h, ch 6-8 433d-436d / 
+Meteorology, bk hi, ch 6 [378*i31-bk iv, ch 12 
+[39o’’2i] 482c-494d / Metaphysics, bk vii, ch 
+17 [io4i*’i2-33] 565d-566a,c / Sense and the 
+Sensible, ch 3 [440*33-'’l3] 677d-678a 
+
+9 Aristotle: Parts of Animals, bk ii, ch i 
+[646*12-24] 170a-b 
+
+12 Lucretius: Nature of Things, bk i [635-920] 
+8 d- 12 b; bk ii [730-864] 24 b- 26 a 
+
+12 Aurelius: Meditations, bk x, sect 7 297b-c 
+
+17 Plotinus: Second Ennead, tr i, ch 6-8 37d- 
+39d; TR VII, ch 1-2 62d-64b 
+
+19 Aquinas: Summa Theologica, part i, q 71, 
+
+A I, REP 1-2 367a-368b; Q 76, a 4, rep 4 
+393a-394c; q 91, a i 484a-485b 
+
+20 Aquinas : Summa Theologica, part i-ii, q 50, 
+
+A I, REP 3 6a-7b; part hi, q 2, a i, ans 710a- 
+711c; PART HI SUPPL, Q 74, A 1, REP 3 92Sc- 
+926c; A 5 929d-931b; q 8o, a 3, rep 3 9S8b- 
+9S9c; Q 82, A I, ANS 968a-970c 
+
+28 Gilbert: Loadstone, bk i, 13b-14d; bk ii, 
+29c-30a 
+
+28 Galileo: Two New Sciences, first day, 
+148c-d 
+
+28 Harvey: On Animal Generation, 49Sc-496d 
+
+30 Bacon: Novum Organum, bk i, aph 50 111b; 
+bk II, aph 7 139c-140a; aph 48, 181a-183a 
+
+34 Newton: Optics, bk hi, si7b-518a; 531b- 
+542a esp 541b 
+
+35 Locke : Human Understanding, bk ii, ch xxvi, 
+sect 1-2 217a-d 
+
+45 Lavoisier: Elements of Chemistry, part i-ii, 
+22c-86a,c: part hi, 87c-d; 103b-c; 105d; 
+117a-128c esp 117a-118a 
+
+45 Fourier: Theory of Heat, 169b 
+
+45 Faraday: Researches in Electricity, 309a-312a; 
+312c-313d; 314a-b; 315a-b; 327a-422a,c pas- 
+sim; 541b,d-584a,c passim 
+
+S3 James: Psychology, 68a-b; 104a-105a; 876a 
+
+9b. Biological change: vital alterations 
+
+7 Plato: Laws, bk h, 6S9C'd: bk vii, 713d 
+
+8 Aristotle: Physics, bk vii, ch 3 [246“io-’’i9] 
+329c-330a 
+
+9 Aristotle: History of Animals, bk v, ch 19 
+[55i“i3-552'’5] 78a-79b; ch 30 [556*’5-9] 83b; 
+BK VII, ch I 106b,d-108a; bk ix, ch 50 
+[631^19-632*32] 157a-c; cn 49B [632'’i4- 
+633*29] 157d-lS8c / Motion of Animals, ch 5 
+235c-d; ch 7 [70i*’i]-cii 8 [702*22] 236d-237c; 
+ch II [703’’8-2i] 239b-c / Generation of Ani- 
+mals, BK I, cii 18 [724"2o-*’i3] 264b-d; bk ii. 
+
+\T IDEAS 9 i7 to 10 
+
+CH I [733'’i-i 7] 273d-274a; ch 5 [74i’’5-i5] 
+282c; CH 6 [742*8-16] 283a; bk v, ch i [778* 
+15-20] 320a-b; ch 3 [782*1-20] 324a-b 
+10 Galen: Natural Faculties, bk i, ch 5, 169b; 
+
+ch 8 171a: BK HI, ch 7, 203c-204c 
+12 Lucretius: Nature of Things, bk iv [1030- 
+1057] 57c-d 
+
+25 Montaigne: Essays, 292d-293d 
+28 Harvey: On Animal Generation, 412a-41Sb; 
+450b-d 
+
+31 Spinoza: Ethics, part iv, prop 38-39 436b- 
+437a 
+
+49 Darwin: Origin of Species, lOa-c; 61d-62a: 
+219d-222a esp 221b-222a; 224b-c/ Descent of 
+Man, 354c-355a 
+
+51 Tolstoy: War and Peace, epilogue i, 66Sa-d 
+
+53 James: Psychology, 6Sb-73b 
+
+54 Freud: Beyond the Pleasure Principle, 655a- 
+657d esp 655b, 656b-657c / Civilization and 
+Its Discontents, 770b 
+
+10. Substantial change: generation and corrup- 
+tion 
+
+7 Plato: Symposium, 16Sc-166b / P/wei/o,226d- 
+228a / Republic, bk vih, 403a-b; bk x, 434c- 
+436a / Parmenides, 504c-d; S09a-d / Laws, 
+BK X, 761b-762c 
+
+8 Aristotle: Topics, bk vii, ch 3 [i53’’3i-34] 
+209a / Physics, bk ii, ch i [i93’’i9-22j 270a / 
+Generation and Corruption 409a-441a,c / 
+Metaphysics, bk i, ch 3 [983'’8-i9] SOld; ch8 
+[988’’22-989'>24] S06d-S08a; bk ii, ch 2 
+[994*i9-’’8] S12c-d; bk vii, ch 7-9 5SSa-5S8a: 
+bk XI, CH II 596a-d; bk xh, CH2-3 S98c-S99d 
+/ Soul, BK H, CH 4 [416^8-17] 646d-647a 
+
+10 Galen: Natural Faculties, bk i, ch 2, 167d- 
+168b; CH 5 169b-c; ch 12 172d-173c 
+12 Lucretius: Nature of Things, bk ii [569-580] 
+22b; [865-1022] 26a-28a; bk hi [117-129] 
+31c-d; [203-230] 32c-33a; [323-349] 34b-c; 
+[417-869] 35c-41a; bk v [783-836] 71b-72a 
+12 Aurelius: Meditations, bk vh, sect 23 281b; 
+sect 25 281c 
+
+18 Augustine: Confessions, bk vii, par 18 49a-b 
+
+19 Aquinas: Summa Theologica,' vakt 1, Q 15, 
+A I, ANS 91b-92a; q 19, a 9, ans 116d-117d: 
+Q 27, A 2 154c-I55b; q 33, a 2, rep 4 181c- 
+182b; Q 41, A 5, ANS and rep i 222b-223b; 
+Q 44, A 2, ANS 239b-240a; Q 45, a 2, rep 2 
+242d-244a; q 50, a 5, rep 3 274b-275a; Q 53, 
+A 3, ANS 283b-284d; q 65, a 4, ans 342b-343c; 
+Q 66, A I, ANS 343d-345c; a 2, ans 345d-347b: 
+Q 67, A 3, REP I 351b-3S2a: Q 71 . a b * 
+367a-368b; q 72, a i, rep 5 368b-369d; Q 75, 
+A 6, ANS 383c-384c; q 90, a 2, ans 481d-482c; 
+Q 96, A I, ans 510b-511b; q 119 604c-608d; 
+part i-ii, q 22, A I, ANS and rep 3 720d-721c 
+
+20 Aquinas: Summa Theologica, part i-ii, Q 53i 
+A 1 19d-21a; a 3 21d-22d: q 85, a 6 182d-184a; 
+Q no, A 2, REP 3 349a'd; part ii-h, q i, a 7, 
+REP 3 385c-387a; part hi suppl, Q 75, a 3, 
+ans 938a-939d; q 79, a i, rep 3-4 951b-953b; 
+
+10^7 to lOc Chapter 10: 
+
+A 2, REP I 953b-9SSc; q 8o, a 5, rep 3 9638- 
+964b; Q 82, A I, rep 2 968a-970c; q 86, a 2, 
+ANS and REP 1-2 993c-994d 
+
+22 Chaucer: Knight's Tale [3011-3034] 209b 
+
+23 Hobbes: Leviathan, part iv, 249b-2S0a 
+
+28 Gilbert: Loadstone, bk v, l04d'10Sd 
+
+30 Bacon: Novum Organum, bk 11, aph 35, J62c 
+
+31 Descartes; Objections and Replies, 127c-d 
+
+31 Spinoza: Ethics, part i, prop 6 356b-c 
+
+35 Locke: Human Understanding, bk ii, ch xxvi, 
+SECT 1-2 217a-d passim; bk hi, ch hi, sect 
+19 259C'260a 
+
+42 Kant: Pure Reason, 74b- 76c; 82a-83b 
+
+45 Lavoisier: Elements of Chemistry, part i, 
+41b-c 
+
+46 Hegel: Philosophy of History, intro, 187a-b; 
+189b-190a 
+
+53 James: Psychology, 95b-98a passim 
+
+54 Freud: Beyond the Pleasure Principle, 6S2b- 
+653c; 655a-65 7d 
+
+lOa. Substantial change in the realm of bodies: 
+the transmutation of the elements 
+
+7 Plato: Timaeus, 4S6b-c; 458b-460b 
+
+8 Aristotle: Heavens, bk i, ch 3 360d-362a; 
+
+BK III, CH I [298“24-299“i] 389b,d-390b; ch2 
+[301*'33-302®9] 393b; ch 6 [304*’23]-ch 8 
+(3o6'’29] 396a'398a/ Generation and Corruption 
+409a-441a,c esp bk i, ch 1-3 409a-416c, ch 6 
+[322*’i-2i] 420b-d, BK II, CH 4-11 43Ib-44Ia,c 
+} Meteorology, bk i, ch 3 [339“36-‘’3| 44Sd; bk 
+IV, CH i 482b,d-483c / Metaphysics, bk i, ch 3 
+[983‘>7-984“i6] S01d-502b; ch 8 [pSp^iS-apJ 
+507b-c 
+
+10 Galen; Natural Faculties, bk i, ch 2, 167d- 
+168b; BK II, ch 3, ISSc-d; ch 4, 187a-b; bk 
+HI, CH 7, 203c 
+
+12 Lucretius: Nature of Things, bk i [635-920] 
+8d-12b; bk ii [80-108] 16a-b; bk v [235-305] 
+64a-6Sa; [380-415] 66a-c 
+
+12 Epictetus: Discourses, bk hi, ch 13, 189a 
+
+12 Aurelius: Meditations, bk ii, sect 3 257a-b; 
+bk IV, sect 21 265b-c; sect 46 267c; bk v, 
+sect 13 27Ib; bk vh, sect 18 28Ia; sect 23 
+28Ib; sect 25 2Slc; sect 50 283a; bk x, 
+sect 7 297b-c 
+
+17 Plotinus: Second Ennead, tr i, ch 3-4 36b- 
+37b; TR IV, ch 6 51d-52a 
+
+19 Aquinas: Sumnia Theologica, part i, q 66, 
+
+A 2, ANs 345d-347b; q 67, a 2, ans 3S0b- 
+351a; q 91, a i, ans and rep 3 484a-485b 
+
+20 Aquinas : Summa Theologica, part hi suppl, 
+
+Q 74, A I, ANS and REP 3 92Sc-926c; a 5, ans 
+929d-931b; Q 91, a 5, ans and rep 4 1024a- 
+1025b 
+
+21 Dante: Divine Comedy, paradise, vii [ 121 - 
+148] 116b-c 
+
+22 Chaucer: Canon's Yeoman's Prologue 4/lb- 
+474a / Canon's Yeoman's Tale 474b-487a 
+
+30 Bacon: Advancement of Learning, 14b-c / 
+Novum Organum, bk i, aph 66 114d-115c; bk 
+II, aph 35, 162c 
+
+CHANGE 211 
+
+34 Newton: Optics, bk hi, 531a-b 
+
+35 Locke: Human Understanding, bk ii, ch ii, 
+SECT 2 128a-b; ch xxvi, sect 1-2 217a-d 
+passim 
+
+40 Gibbon: Decline and Fall, 148a-b 
+
+41 Gibbon: Decline and Fall, 299d-300a 
+
+42 Kant: Judgement, 582 b-c 
+
+44 Boswell: Johnson, 262c 
+
+45 Lavoisier: Elements of Chemistry, part i, 
+41 b-c 
+
+105. Plant, animal, and human reproduction 
+
+7 Plato: Timaeus, 476b-d / Statesman, 586c- 
+588a 
+
+8 Aristotle: Meteorology, bk iv, ch 1 [379*’6-8] 
+483c; CH 3 [38i''9-i3] 48Sd; ch ii [389“28-*>7] 
+493c / Metaphysics, bk vh, ch 9 [i034®32-'’8] 
+557c-d; BK ix, CH'7 [io49®i2-i8] 574d; bk 
+xii, CH 6 [io7i*’29-3i] 601c; ch 7 [io72'’3o- 
+io73“2j 603a 
+
+9 Aristotle: Generation of Animals255a-33la,c 
+passim, esp bk i, ch 1-2 255a-256c, ch 17-22 
+26lb-271a, bk ii, ch i [733’’23]-ch 5 [74i’’24] 
+274a-282d 
+
+10 Galen: Natural Faculties, bk i, ch 5-6 169b- 
+170c; BK II, CH 3 185a-186d 
+
+18 Augustine: City of God, bk xii, ch 25 358b- 
+359a; bk xxii, ch 24, 609c-610a 
+
+19 Aquinas; Summa Theologica, part i, q 41, 
+A 5, ANS and rep i 222b-223b; q 72, a i, rep 4 
+368b-369d; q 73, a 3, ans 371d-372c; q 78, 
+A 2, REP 2-3 409a-410a; q 90, a 2, ans 481d- 
+482c; Q 92, A I, ANS 488d-489d; a 4, ans and 
+REP I 49Ib-d; Q 98 S16d-519a; Q 115, a 2, 
+REP 3-4 587c-588c; a 3 588c-S89c; q 118, a i 
+600a-601c; q 119 604c-608d 
+
+21 Dante: Divine Comedy, purgatory, xxv 
+[ 34-78] 91d-92a; paradise, vii [121-141] 
+116b-c 
+
+28 Gilbert: Loadstone, bk i, 14b-c; bk v, lOSa-b 
+
+28 Harvey: Motion of the Heart, 278a / On Ani- 
+mal Generation 329a-496d passim, esp 331a-b, 
+383d-396a, 400c-429c, 496b-d 
+
+30 Bacon: Novum Organum, bk h, aph 50, 
+192a-b 
+
+32 Milton; Paradise Lost, bk iv [660-673] 166b- 
+167a 
+
+35 LocKf.-. Human Understanding, bk ii, chxxvi, 
+SECT2 217b-d 
+
+42 Kant: Judgement, 582b-c 
+
+54 Freud: Beyond the Pleasure Principle, 654c- 
+6S6d; 659d-660b 
+
+10 c. The incorruptibility of atoms, the heavenly 
+bodies, and spiritual substances 
+
+8 Aristotle: Heavens, bk i, ch 3 [270*12-36] 
+36lb-c; ch 9 [279*i2]-ch 12 [283*’24] 370b- 
+375d / Metaphysics, bk ix, ch 8 [io5o*‘2o-28] 
+576c-d; bk xii, ch 2 [io 6 g^ 2 /f- 2 y] 599a; ch 
+6-8 601b-60Sa 
+
+9 Aristotle: Motion of Animals, ch 4 [699''i2- 
+700*6] 234d-235b 
+
+11 io m 
+
+(10. Substantial change; generation and comtp- 
+. tion. 10c. The incorruptibility of atoms, the 
+heavenly bodies, and spiritual substances.) 
+
+10 Galen: Natural Faculties, bk i, ch i 2, 173a'b; 
+BK II, CH 6, 189c'190a 
+
+12 Lucretius: Nature of Things, bk i [483-634] 
+7a'8d; bk ii [842-864] 25c-26a 
+
+16 Ptolemy: Almagest, bk i, 5a'6a; bk xiii, 
+429a-b u 
+
+16 Kepler: Epitome, bk iv, 929b-930b 
+
+17 Plotinus: Second Ennead, tr i, ch 1-4 35a- 
+37b; CH 8 39c-d 
+
+19 Aquinas: Summa Theologica, part i, q 9 , 
+A 2 39c-40d; Q 10 , a 2 , rep 1-2 41d-42c; a 3 , 
+ANS 42c-43b; a 5 44b-45c; q 46 , a i, rep 
+2 - 3,5 2S0a-252d; q 50 , a 5 274b-275a; q 58 , 
+A 3 , ANS 301d-302d; q 63 , a i, rep 2 32Sc- 
+326c; Q 66 , A 2 345d-347b; q 68 , a r, ans 
+354a-35Sc; q 70 , a 3 365b-367a; Q 97 , a i, ans 
+S13c-514c; Q 104 , a 1 , rep 1,3 S34c-S36c 
+
+20 Aquinas; Summa Theologica, part i-ii, q 49, 
+A 4, ANS 5a-6a 
+
+21 Dante: Divine Comedy, paradise, vii [ 121 - 
+148 ] 116b-c; xiir [ 52 - 60 ] 126a 
+
+31 Spinoza: Ethics, part i 3S5a-372d passim, esp 
+DEF I 355a, DEF 3,6 355b, axiom 1-2 355c-d, 
+PROP 1-15 3S5d-361d 
+
+32 Milton: Paradise Lost, bk i [ 128 - 142 ] 96a-b; 
+BK II [ 81 - 105 ] 113a-b; bk vi [ 296 - 353 ] 202b- 
+204a esp [ 320 - 353 ] 203a-204a: [ 430 - 436 ] 205b 
+
+33 Pascal: Vacuum, 3S8a 
+
+34 Newton; Optics, bk hi, 541b 
+
+42 Kant: Pure Reason, 137a-140c 
+
+53 James: Psychology, 68a-b 
+
+11 . The apprehension of change: by sense, by 
+reason 
+
+7 Plato: Cratylus, 113c-114a,c / Phaedo, 231c- 
+
+- 232a / Timaeus, 447b-d; 457c-d / Sophist, 
+
+565a-569a esp 568a-569a / Laivs, bk x, 765a-b 
+
+8 Aristotle: Physics, bk iv, ch ii 298c-300a 
+/ Metaphysics, bk i, ch 6 [ 987 ® 29 -’’i 8 ] SOSb-d; 
+CH 9 [99 o‘’9-i5 ] 508d; bk in, ch 2 [ 996 * 1 8-‘’261 
+S14d-51Sb; bk iv, ch 5 S28c-530c; ch 8 [ 1012 '’ 
+23 - 32 ] 532d; bk XI, ch 6 [io63“io-*’8] 591b-d 
+/ Soul, BK HI, CH I [ 425 ®i 4 -‘’io] 657b-d 
+
+12 Lucretius: Nature of Things, bk i [ 311 - 328 ] 
+5a; BK II [ 62 - 141 ] lSd-I 6 d; [ 308 - 332 ] lOa-b 
+
+18 Augustine: Confessions, bk Vii, 92123 SOb-c; 
+BK XI, PAR 17-41 93b-99b / Christian Doctrine, 
+BK I, ch 8-9 626c-627a; bk ii, ch 38 654b-c 
+
+19 Aquinas: Summa Theologica, part i, q 14, 
+A 15, REP 2 89b-90b; q 78, a 3, rep 2 410a- 
+411d; Q 84, A I esp rep 3 440d-442a; q 86, 
+
+, A3 463b-d 
+
+28 Hobbes: Leviathan, part hi, 172b; part iv, 
+249c-d 
+
+25 Montaigne: Essays, 291b-294b 
+
+30 Bacon: Novum Organum, bk ii, aph 5-6 
+138b-139c; aph 23 153d-154c; aph 40-41 170c- 
+174b 
+
+31 Descartes: Rides, xii, 24a 
+35 Locke: Human Understanding, bk ii, ch v 
+131b; CH VII, SECT 8-9 132d-133a; ch vih, 
+sect 18 136a-b; ch xiv, sect 6-12 156b-lS7c; 
+CH XXIII, SECT 28-29 211b-212a; ch xxvi, 
+sect 1-2 217a-d 
+
+-r42 Kant; Pure Reason, 27a-33d esp 28b-c, 29c' 
+d; 43a'b; 55c-56a; 76c-83b esp 76c-d; 916- 
+93c 
+
+S3 James; Psychology, 405b-406b; 418b-419b; 
+SI0a-S12a; 563a-567a; 612a-616b esp 6 I 6 a; 
+634b-635a 
+
+12 . Emotional aspects of change 
+
+12 a. Rest and motion in relation to pleasure 
+and pain 
+
+7 Plato: Gorgias, 275c-277c / Timaeus, 463d- 
+
+- 464b / Phtlebus, 619d-620b; 626a-c; 631d- 
+
+632d / Laws, bk vii, 713c-715a 
+
+8 Aristotle: Topics, bk iv, ch i [121*27-39] 
+169b 
+
+9 Aristotle: Ethics, bk vii, ch ii [ii52*’8]-ch 
+12 [ 1153 * 17 ] 403c-404b; ch 14 [ir 54 ’’ 2 o- 3 o] 
+406c; BK X, ch 3 [ii 73 “ 29 -’’ 7 ] 427c-d; cii 4 
+[ii 74 *i 3 -*’i 4 ] 428b-429a / Politics, bk viii, 
+CH 5 [i 340 “i-'’i 9 ] 545c-S46a / Rhetoric, bk i, 
+CH II [i369'’33-i37o“i7] 613a-c; [ 1371 * 26 - 30 ] 
+614d 
+
+17 Plotinus: Fourth Ennead, tr iv, ch 18-21, 
+167a-168c 
+
+19 Aquinas: Summa Theologica, part i-ii, q 32, 
+A 2 7S9d-760d 
+
+23 Hobbes: Leviathan, part i, SOa 
+31 Spinoza: Ethics, part hi 39Sa-422a,c 
+35 Locke: Human Understanding, bk 11, CH xxi, 
+sect 29-48 184d-190d passim 
+SO Marx: Capital, 166b-c 
+
+53 James: Psychology, 410a 
+
+54 Freud: Narcissism, 403d-404a / General In- 
+troduction, 592c-593a / Beyond the Pleasure 
+Principle, 639b-640a; 648d-649c / Ego and Id, 
+701a-b 
+
+XZb. The love and hatred of change 
+
+5 Sophocles: Oedipus at Colonus [1211-1248] 
+125b-c 
+
+6 Herodotus; History, bk vii, 224d-225a 
+
+7 Plato; Republic, bk iv, 344b-d / Latvs, bk 
+VII, 717d-718d 
+
+9 Aristotle : JSV/hVt, bk vii, ch 14 [ii54’’2o-3o] 
+406c 
+
+10 Hippocrates: Fractures, par i 74b,d-7Sa / 
+Aphorisms, sect 11 , par 50 133d 
+12 Lucretius: Nature of Things, bk ii ( 1105 - 
+1174 ] 29a-30a,c; bk hi [ 912 - 977 ] 41d-42c; 
+[ 1053 - 1084 ] 43c-44a; bk v [ 156 - 173 ] 63a-b: 
+
+[ 1379 - 1435 I 79a-d 
+
+12 Aurelius: Meditations, bk ii, sect 14 258d; 
+sect 17 259b-d; bk iv, sect 3 263b-264a: 
+SECT 5 264b; sect 12 264c; sect 33 266c-d; 
+SECT 35-36 266d; SECT 42-43 267b; bk V, 
+
+] 2 hlo 13 Chapter 10 : 
+
+SECT 10 270c-d; sect 13 27lb,- sect 23 272b; 
+SECT 33 273b-c; bk vi, sect 15 275a-b; sect 
+36 277c: BK VII, sect 18-19 281a; sect 35 
+282a; SECT 49 282d; bk viii, sect 6 285d- 
+286a; sect 16,18 286d; bk ix, sect2i 293b-c; 
+sect 28 293d-294a; bk x, sect 7 297b-c; 
+sect 31 300a-fa; sect 34'301a 
+
+13 Virgil: Aeneid, bk i'[ 44 i- 462] llSa-b esp 
+[462] 115b 
+
+14 Plutarch: Aemilitts Pautus, 22Sb-c; 229a'C 
+
+17 Plotinus: First Ennead, tr iv I2b-19b 
+
+18 Augustine: Confessions, bk vni, par 18 S7d- 
+58a; par 25-26 60a-b / Christian Doctrine, bk 
+I, CH 9 627a 
+
+21' Dante: Divine Comedy, heLl, vn [61-96] 
+lOb-c; xlv [94-120] 20C'd; xxvi [90-142] 393- 
+c; PURGATORY, XI [73-117J 69c-70a; xiv [91- 
+126] 74c-75a; xxviii [76-148] 96d-97c; para- 
+dise, xv-xvi 128b-132a 
+
+22 Chaucer: Wife of Bath’s Prologue 
+256a-269b 
+
+23 Machiavelli: Prince, ch vi, 9b-c 
+
+23 Hobbes: Leviathan, Part i, 79c-d; part n, 
+150c; 154b-c; part iv, 271d 
+
+25 Montaigne: Essays, 33b-36a; 47a-51a: 131b- 
+132a; 281a-282a; 292d-294b; 318c-319b; 
+458b-c; 462c-46Sc; 478c-479c; 540d-541c 
+
+26 Shakespeare: 2nd Henry IV, act hi, sc i 
+[45—5^] 483 b 
+
+27 Shakespeare: Hamlet, act r, sc n [68-73] 
+
+32b; ACT V, sc i [202-240] 66c-d / Troilus and 
+Cressidit, act rrr, sc m 124a-c; act 
+
+IV, sc IV (26-50] 128c / King Lear, act iv, sc i 
+[10-12] 269c / Sonnets, xv S88b-c; xxv 590a; 
+XLix 593d; lx 595b-c; lxiv-lxv 596a-b; 
+cxvi 604a; cxxin 605a 
+
+28 Gilbert: Loadstone, pref, 2a 
+
+28 Harvey: Motion of the Heart, 274a; 28Sb-c 
+< 30 Bacon: Advancement of Learning, 14c-lSc esp 
+15a-b; 16c-d; 61b; 65b-c; gob-d / Novum 
+Organum, bk i, aph 90 124d-125a 
+
+31 Descartes: Discourse, part ii, 4Sd 
+
+31 Spinoza: Ethics, part hi, prop 4-11 398d- 
+400b; PART V, PROP 6, SCHOL 454a 
+
+33 Pascal: Pensees, 129-131 19Sb: 135 196a; 
+139-143 196b-200a; 164-172 202b'203b; 181 
+204b / Vacuum, 355a-358b 
+
+35 Locke: Civil Government, ch xix, sect 223 
+76c-d / Human Understanding, 85a-c 
+
+36 Swift: Gulliver, part in, lOSa-lOOb 
+
+38 Rousseau: Inequality, 335c 
+
+43 Declaration of Independence: (15-20] lb 
+
+43 Federalist: number 14, 62a-d 
+
+43 Mill: Liberty, 293b-302c passim / Repre- 
+sentative Government, 336b-c; 350c; 377d- 
+378a 
+
+46 Hegel: Philosophy of History, intro, 178a-c; 
+part i, 209b; 258b 
+
+47 Goethe: Faust, dedication la-b; part 11 
+[11,573-586] 281b-282a: [11,612-622] 282b- 
+283a 
+
+49 Darwin: Descent of Man, 302b; S77c-d 
+
+51 Tolstoy: War and Peace, bk v, 221b-d; bk vi, 
+238c-243d passim; 267c; bk vii, '27Sa-276b; 
+294a-b; bk viii,' 305b'-d; 307d-309c; bk ix, 
+- < 356b-d; BKx, 394d; 403a-405a: BK XII, 538a- 
+S39c; SS6d-557a: bk xv, 639c; epilogue i, 
+'645a-646c; 668a-669c 
+
+S3 ’James: Psychology, 524a-525a; 707b'708a 
+54 Freud: Beyond the Pleasure Principle, 6Slb-d 
+
+13 . The problem of the eteraity of motion or 
+I , change 
+
+' 7 Plato: Phaedrus," 124b-c / Timaetis, 4S0c- 
+- 451a;460c-d ’ 
+
+8 'Aristotle: Physics, bk iv, ch 13 [22a®29->>8] 
+302b; BK VIII, CH 1-4 334a'340d; ch 8 348b- 
+'352a / Hehvens, bk i, ch 2 [269*’2-io] 360c-d; 
+CH 3 [27o'’i-24] 361c-362a; bk i, ch 9 [279'>i2]- 
+bk II, CH I [284'’6] 370b-376a; bk n, cii 6 
+379c-380c / Generation and Corruption, bk ii, 
+CH lo-ii 437d'44Ia,c / Meteorology,' bk i, ch 
+14 [352“i6-353“27] 458b-459a,c passim ;'bk hi, 
+CH 3 l35l5’"2-357''4] 462b-c / Metaphysics, bk 
+IX, GH 8 [io50*’2o-28] S76c-d;'BK xii, ch 6 
+[io7i^3]-cH 7 [io72’“22] 601b-602b; ch 7 
+' [i073'‘2-34] 603a-c 
+
+12 Lucretius: Nature of Things, bk i [ 951-1051] 
+12d-14a esp [988-1007] 13b; 'bk ii [ 80-141] 
+16a-d; [294-302] 18d; [569-580] 22b 
+12 Aurelius: Meditations, bk v, sect 13 271b; 
+sect 23 272b; BK VI, sect 15 27Sa-b; bk tx, 
+sect 28 293d-294a; bk xi,'^sect 27 306b 
+16 Ptolemy : Almagest, bkxiii, 429a-b 
+
+16 Kbplbr; Epitome, bk iv, 888b-891a 
+
+17 Plotinus: Third Ennead, tr vii, ch 7-8 122d- 
+124c; ch 11-13 126a-129a'/ Fourth Ennead, 
+TR IV, ch 7-8 161d-I62d 
+
+18 Augustine: Confessions, bk xi, par 10-17 
+9ld-93c; BK XII, par 8-9 lOla-c; par 12-16 
+101d-103a; par 29 105d-106a; par 33 107b-c; 
+par 39-40 109a-110a / City of God, bk xi, 
+cH 4-4 324a-325d; bk xii, ch 10-20 348b- 
+357a 
+
+19 Aquinas: Summa Theologica, part i, q'io, 
+A 2 , rep 2 41d-42c; a 4, ans 43b-44b; q 14 , 
+a' 12, ANS 85d-86d; Q 46, aa T-2 250a-2SSa; 
+Q 75, A I, REP I 378b'379c 
+
+20 Aquinas: Summa Theologica, part hi suppl, 
+Q 77, A 2, ANS 945a-946b; q 91, a 2 1017c- 
+1020c _ 
+
+'28 Gilbert:' Loadstone, bk 11, S6b-c 
+28 Galileo: Two New Sciences, third day, 
+224d 
+
+30 Bacon: Novum Organum, bk ii, aph 35, 
+163a; aph 48, 186b-c 
+
+31 Descartes: Rules, xin, 27b-'c 
+
+34 Newton: Principles, law 1 14a; bk hi, prop 10 
+284a-28Sa / Optics, bk hi, 540a-541b 
+
+35 Locke: Human Understanding, bk ir, oh xiv, 
+
+sect 26 160c-d - ’ 
+
+42 Kant: Pure Reason, 135a-137a,c; lS2a-d; 
+,160b-161d 
+
+S3 James : Psychology, 882a 
+
+CHANGE 
+
+14. The theory of the prime mover: the order 
+
+and hierarchy of movers and moved 
+*1 Plato: Phaedms, 124b-c / Statesman, 587a- 
+589c / Laws, bk x, 758d-765c 
+
+8 Aristotle: Physics, bk vii, ch 1-2 326a-329a; 
+BK vTii 334a-355d / Heavens, bk ni, ch 2 
+[3oo*’8-30i®i2] 391d-392c / Generation and 
+Corruption, bk i, ch 7 421d-423b; bk ii, ch 6 
+l 334 “ 6 - 9 ] 435a / Metaphysics, bk iv, ch 8 
+[ioi 2 *’ 22 - 32 ] 532d; bk v, ch ii [ioi 8 '’i 9 - 22 j 
+S39c-d; BK IX, ch 8 [io 49 ’'i 7 - 28 ] 575b-c; 
+[io 3 o“ 3-*’6] 57Sd-S76b; bk xn, ch 4 [io 7 o’> 22 - 
+35] 600b; CH 5 [iopi'^^0-26] 601a; ch 6-8 
+601b-60Sa 
+
+9 Aristotle: Motion of Animals, ch i [ 6g8“io- 
+15] 233a; ch 3-6 234a-236b 
+
+12 Epictetus; Discourses, bk i, ch 14, 120d- 
+121a 
+
+16 Ptolemy: Almagest, bk i, 5a-b 
+
+19 Aquinas: Summa Theologica, part i, q 2, 
+A 3, ANS 12c-14a; Q 3, a i, ans 14b-15b; q 9, 
+A I, rep I 38c-39c; q 19, a i, rep 3 108d-109c; 
+Q 23, A 2, REP 3 144c-14Sb; q 46, a i, rep 5 
+250a-252d; q 51, a 3, rep 3 277a-278c; q 60, 
+A I, REP 2 3I0b-311a; q 75, a i, rep i 378b- 
+379c; QQ 105-119 538d-608d passim; part i-n, 
+Q I, A 4, ANS 6l2a-613a; a 6, ans 614a-c; q 6 , 
+A I, REP 3 644d-646a 
+
+20 Aquinas: Summa Theologica, part i-ii, q 
+109, A 1 , ans 338b-339c; part hi suppl, q 91, 
+A I, rep 2 1016b-l017o 
+
+21 Dante: Divine Comedy, paradise, j [ 103-142] 
+107b-d; XIII [52-841 126a-b; xxvn [106-120] 
+148b-c; xxviii [1-78] 148d-149c 
+
+23 Hobbes: Leviathan, part i, 79d-80a 
+
+28 Gilbert: Loadstone, bk vi, 107c-110d, 
+
+28 Harvey: On Animal Generation, 415b-4I7a 
+esp 416b-c; 426a-429b; 443a-c; 490d-493a csp 
+492b-c 
+
+32 Milton: Paradise Lost, bk v [469-505] 185b- 
+186a 
+
+33 Pascal: Pensees, 77 186a 
+
+42 Kant: Pure Reason, 140b,d-145c; 177b-179b; 
+239a-240b / Practical Reason, 334b-337a,c / 
+Judgement, 597d-599d; 610b-613a,c 
+
+15 . The immutable 
+
+ISa. The immutability of the objects of 
+thought: the realm of truth 
+
+Old Testament: Psalms, 100:5; 117:2; 119:160; 
+146:6— (D) Psalms, 116:2; 118:160; 145:7 
+/ Proverbs, 8 :22-30 
+
+Apocrypha: Ecclesiasticiis, 24:9— (D) OT, Eccle- 
+siastiais, 24:14 
+
+New Testament: JI John, 2 
+7 Plato: Cratylus, Wic-W^a, c / Phaedrtis, I25a- 
+b / Symposium, 167b-d / Phaedo, 231b-232b / 
+Republic, BK V, 371a-373c / Timaeus, 447a-d; 
+457b-4S8a / Parmenides, 487c-491a / Sophist, 
+
+14 to 154 
+
+568a-b / Philebtis, 634b-635b / Seventh Letter, 
+809c-810d 
+
+8 Aristotle: Categories, ch 5 [ 4 ''io-*’i 2 ] 8 b 9 a 
+/ Posterior Analytics, bk i, ch 8 104a-b / Meta- 
+physics, BK I, CH 6 505b-S06b; ch 9 508c-Sllc; 
+BK III, CH I [995''I3-i8] 514a; [ 995’’3 1 - 996 * 1 ] 
+514b; [ 996 ^ 4 - 9 ] [996“i3-i5] S 14 c; ch 2 
+[ 997 “ 34 - 998 “i 9 ] S16a-d; ch 3 [ 998 ‘'i 4 ]-cn 4 
+[ 999 '’ 24 ] SI7b-518c; ch 4 [iooi“ 4 ]-cn 6 
+[ioo 2 '* 3 i] 519d-S2Id; bk vii, ch 8 [i 033 '’i 9 - 
+I 034 “ 8 ] 5S6d-557b; ch 10 [i 035 '’ 32 -i 036 “i 2 j 
+559b-c; ch ii [io36*’32-io37'‘4] 560b c; ch 
+13-14 S62a-S63c; ch 15 [r 040 " 8 -'' 4 ] 564a-c; cii 
+16 [io4o’*28-io41“4] 564d-565a; bk ix, ch 8 
+Ii 05 o’’ 35 -io 5 i'' 2 ] 576d-577a; bk x, ch 10 
+586c-d; bk xi, ch 1 [io 59 '' 33 -''i 4 ] 587b-c; 
+BK xn, ch I [io69“30-'’2] 598b-c; ch 3 
+[io 7 o'‘ 4 - 3 o] 599b-d; bk xiii, ch 1-5 607a- 
+611d 
+
+9 Aristotle: Ethics, bk i, ch 6 341b-342c 
+
+11 Nicomachus: Arithmetic, bk i, 811b d; 813d- 
+814 b 
+
+17 Plotinus : Second Ennead, tr v, ch 3 58d-59c 
+/ Third Ennead, tr ix 136a-138a,c / Fifth 
+Ennead, tr vn, ch i 238a-b; tr ix, ch 5-13 
+248a-251c 
+
+18 Augustine: Confessions, bk i, par 9, 3a; bk 
+XI, par 9~ii 91c-92b / Christian Doctrine, dk i, 
+ch 8-10 626c-627b; bk ii, ch 38 654b c 
+
+19 Aquinas: Summa Theologica, part i, q 5 , 
+A 3 , REP 4 2Sa-d; Q 10 , A 3, REP 3 42c-43b; 
+Q 16 , AA 7-8 99a-100d; q 44 , a i, rep 3 
+238b-239a; q 84 , A i, ans and rep 3 440d- 
+442a; q 85 , a i, rep 2 451c-4S3c; q 86 , A 3 
+463b-d; Q 113 , A I, ANS 576a-d 
+
+20 Aquinas : Summa Theologica, part i-ii, q 53, 
+A I, ANS and REP 2-3 19 d- 21 a; q 94, aa 5-6 
+224 d- 226 b 
+
+30 Bacon: Advancement of Learning, 27d-28c; 
+43d-44c 
+
+31 Descartes: Discourse, part iv, 52d-53a / 
+Meditations, v 93a-96a / Objections and Re- 
+plies, 123b; 216d-217d; 228a-c; 229c-d 
+
+31 Spinoza: Ethics, part 1, dep 8 355c; prop 7 
+356c; prop 8, schol 2 356d-357d; prop 17, 
+SCHOL 362c-363c; part ii, prop 32 385c; prop 
+34 385d; prop 37-39 386b-387a; prop 40, 
+DEMONST 387a; prop 43-47 388c-391a 
+
+32 Milton: Areopagitica, 384a-b 
+
+33 Pascal: Vacuum, 358b 
+
+35 Locke: Human Understanding, bk 11, ch ii, 
+SECT 2 128a-b; bk hi, ch hi, sect 19 259c- 
+260a; ch vi, sect 6 269d-270a; bk iv, cii i, 
+SECT 9 30Sc-309b; ch hi, sect 31 323c-d; 
+CH XI, SECT 14 358b-c 
+
+42 Kant: Judgement, SSla-S53c 
+
+46 Hfcel: Philosophy of Right, additions, 1, 
+115a / Philosophy of History, intro, lS6d- 
+157b 
+
+47 Goethe: Faust, prelude [73-741 3 a 
+
+50 Marx-Encels: Communist Manifesto, 
+
+153 to 15c 
+
+S3 James: Psychology, 299a-304b esp 301a, 302a' 
+304fa; 869a; 879b-882a 
+
+15 b. The unaltcrabfJity of the decrees of fate 
+
+4 Homer; Iliad, bk xviii [52-126] 130c-131c; 
+BK XXII [131-223] I56c-157c 
+
+. 5 Aeschylus ; Prometheus Bound [507-525] 4Sa' 
+b/ Agamemnon [1018-1033] 63a 
+
+5 Euripides: Heracles Mad [1313-1353] 376c-d 
+/ Iphigenia Among the Tauri [1435-1499J 
+424a-d 
+
+6 Herodotus: History, bk 1, 6c-10a; 20b'22a; 
+BK II, 77a-b 
+
+12 Lucretius: Nature of Things, bk 11 [251-293 J 
+18b-d 
+
+12 Epictetus : Discourses, bk 1, ch 12 118d-120b; 
+BK II, CH 8 146a-147c 
+
+12 Aurelius; Meditations, bk hi, sect ii 262a' 
+b; BK X, sect 5 296d 
+
+13 Virgil: Aeneid, bk x [606-632] 318b-319b 
+
+14 Plutarch: Caesar, 601c-604d 
+
+18 Augustine: City of God, bk v, ch i-io 207d- 
+216c 
+
+19 Aquinas: Summa Theologica, parti, q 116, 
+A 3 S94c-S9Sa 
+
+22 Chaucer: Troilus and Ctessida, bk iv, stanza 
+136-154 106a-108b 
+
+32 Milton: Arcades [54-83] 26b-27s / Paradise 
+Lost, bk vn [170-173I 220b-221a 
+
+SI Tolstoy: M^ar and Peace, bk ix, 342a-344b; 
+epilogue I, 64Sa-6S0c; epilogue ii, 67Sa-c 
+
+15 c. The immutabilitj’ of God 
+Old Testament: Exodus, 15:18 / Deuteron- 
+omy, 32:39-40 / / Chronicles, 16:34-36— (O) 
+I Paralipomenon, 16:34-36 / Psalms, 9:5-8; 
+10:16; 29:10-11; 33:10-11; 45'6; 4® “P 4®'8. 
+48:14; 66:7; 89-90 esp 89:30-35, 90:1-4: 93:2; 
+102 esp 102:11-12, 102:26-27; 103:17-18; 136; 
+145-146 esp 145:13, 146:10— (Z7) Psalms, 9:6- 
+9; 9:16; 28:10; 32:10-11; 44:7: 47 47:9> 
+
+47:15; 65:7; 88-89 esp 88:31-36, 89:1-4; 92:2; 
+loi esp 101:12-13, 101:27-28: 102:17-18; 135; 
+144-145 esp 144:13, 145:10 / Ecclesiastes, 3-^4- 
+15 / Isaiah, 40:8,28; 43:10-13; 
+
+Isaias, 40:8,28; 43:10-13; 57‘*5 / Jeremiah, 
+10:10— (D) Jeremias, 10:10 / Lamentations, 
+5:19 / Daniel, 6:25-27 / Malachi, 3:6 (Z7) 
+Malachias, 3:6 
+
+Apocrypha; Ecclesiasticus, 36:17; 39:20; 42:21 
+(£)) OT, Ecclesiasticus, 36 :i8-i9 ; 39 •■25142 -21- 
+
+New Testament: Matthew^ 2^'.'^^/ John^ ^^“5 / 
+Romans, 1:21-25; 6:23 / Colossians, 1:16-17 / 
+/ Timothy, 1:17 / Hebrews, 1:10-12; 7 '■^ 3 '^°'’ 
+137-8 / James, 1:17 / I John, ! Ret'ela- 
+
+tion, I ;i7-i 8; 10 ;d; ii :i5-i8— (f>) Apocalypse, 
+1:17-18; 10:6; 11:15-18 ^ 
+
+S Sophocles : Oedipus at Coloniis [607-615] 120a 
+7 Plato: Republic, bk 11, 322d-323c; 324a-b 
+
+8 Aristotle: Physics, bk vin, ch 6 [258'’io- 
+259’’3i] 344b-345d / Heavens, bk i, ch g 
+[279®23-i’4] 370c'd; bk 11, ch 3 [286'‘8-13] 377c 
+/ Generation and Corruption, bk ii, ch io 
+[ 337''i5-23] 439a-b / Metaphysics, bk v, ch 5 
+[ioi5*’9-i 6] 536a; bk xii, ch 6-7 601b-603b; 
+ch 9 605a-d 
+
+9 Aristotle: Ethics, bk vii, ch 14 [ii54i’20- 
+
+30] 406c , , 
+
+15 Tacitus: Histories, sic v, 296a 
+
+17 Plotinus: Third Ennead, tr vii, ch r-6 H9b' 
+122d / Sixth Ennead, tr viii, ch 18-21 SSld- 
+353d 
+
+18 Augustine; Confessions, bk,i, par 10 3b-c; 
+bk IV, par 26 2Sc-d; par 29 26b; bk vii, par 
+
+, t-6 43b-45a; par 17-18 49a-b; par 23 50b-c; 
+par 26, 51c; bk xii, par ii lOld; par 18 103a-c; 
+BK XIII, par 44 122d / City of God, bk vii, ch 
+30 261b-d; bk vm, ch ii, 272c; bk x, ch i, 
+298b,d; bk xi, ch io 327d-328d; cH 21-22 
+333a'334c: bk xii, ch 1-3 342b,d-344b: ch 14 
+3S0d'351b; ch 17 353a-354a / Christian Doc- 
+trine, BK I, ch 5 625d-626a; ch 8 626c-627a; 
+ch io 627b; ch 22-23 629b-630c 
+
+19 Aquinas: Summa Theologica, part i, q 2, 
+A 3, ANS 12c'I4a; Q 3, A I, ANs and rep 4 14b- 
+I5b; QQ 9-10 38c-46d; q 14, a 7 81d-82b; a 15 
+89b-90b; q 18, a 3 106b-107c; Q ig, a 7 114d- 
+115d; Q 26, A I, REP 2 150b-c; q 43, a 2, rep 2 
+230d-231c; q 51, a 3, rep 3 277a-278c 
+
+20 Aquinas; Summa Theologica, parti-ii,>q 6i, 
+A 5, ANS 58b'59d; part m, q x, a i, rep 3 
+701 d- 703 a; q 2, a i, ans 710 a' 711 c 
+
+21 Dante: Divine Comedy, paradise, xiii [52- 
+84] 126a-b; xxiv [130-141] 144a; xxvni [1-78] 
+148d-149c; xxix [13-36] ISOb-c 
+
+22 Chaucer: Knight's Tale [2994-3015] 209a-b 
+
+23 Hobbes: Leviathan, part hi, 173a 
+
+25 Montaiguc: Essays, 292d-294b 
+
+31 Descartes: Discourse, part iv, 52b-d / 
+Meditations, in, 86a-87a; v 93a-96a esp 93d- 
+95b / Objections and Replies, 228a'C; 229c-d 
+
+31 Spinoza: Ethics, part i 355a-372d esp def r 
+355a, DEE 3,6-7 355b, prop 3 356a, prop 5-8 
+356b-357d, prop 11-15 358b-361d, prop 17 
+362b-363c, prop 19-20 365c'364a, prop 33, 
+schol I 367c-d, prop 34 369a; part v, prop 
+17 4S6c-d 
+
+32 Milton: Paradise Lost, bk hi [372-389] 143b- 
+144a 
+
+33 Pascal; Pensees, 469 256a 
+
+34 Newton; Principles, bk hi, general schol, 
+370a-371a 
+
+35 Locke: Human Understanding, bk ii, ch xvii, 
+sect 20 172d-173c: ch xxhi, sect 21 209c 
+
+35 Berkeley: Human Knowledge, sect 117 436a 
+
+42 Kant; Pure Reason, 175d-176c; 177b-179b; 
+190c; 192d; 201 b-c / Practical Reason, 352a'b 
+
+46 Hegel; Philosophy of Right, part hi, par 270, 
+8Sc / Philosophy of History, part hi, 306a 
+
+Chapter ii:
