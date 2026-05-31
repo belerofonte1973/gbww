@@ -365,3 +365,319 @@ Exercises in Formal Logic I, CH I-9 CH 6-8 of Empirical or Inductive LogU and
 Inference, PART n Pnncipia Mathematics ART n, SECT B, c, D, E; PAR of Logic PART
 i, CH 1-5, 9-10 ion to Logic, CH 2 Reality, PART n, CH 9 n Logical Theory, i-iv
 imental Logic, n-vi, xn-xr Philosophy, CH 6 of Inquiry, CH 6-14 to Logic, n-in
+
+REFERENCES
+============================================================
+
+1. Judgment as an act or faculty of the mind - its contrast with the act of conception or with the faculties of understanding and reason
+
+8 ARISTOTLE: Categories, CH 4 [2*4-10! & / 64d-66d; 99a-101b; 108a-112d esp llOd-lllc; Interpretation, CH i [16*9-18] 25a-b / Meta166c-171a; 193a-200c; 240b-243c / Fund, physics, BK vi, CH 4 [i027 b i8-28] 550a,c; Prtn. Metaphysic of Morals, 282b-c / JudgeBK ix, CH 10 577c-578a>c / Soul, BK III, CH 6 ment, 461a-475d esp 465c-467d, 474b-475d; 662d-663c 550a-5Sla,c; 558a; 572b-575b
+18 AUGUSTINE- Confessions, BK VII, par 23 50b-c; City of God, BK VIIi, 313b; 638a-b; 859a; 861b CH 6, 269b-c ,,,... , . %
+19 AQUINAS : Summa Theologica, PART i, Q 3, A 4, REP 2 16d-17c; Q 13, A 12, ANS 74c-75b; Q 14, and A 14 88d-89b; Q 16, A 2 95c-96b; Q 17, A 3  102d-103c; Q 58, A 2, ANS 301b-d; A 4, ANS
+20 AQUINAS: Summa Theologica, PART II-ii, Q i, BK III, CH 7 [43i b 2-i2] 664a-b; CH 9 [432^6- A 2 381a-c 433*9] 665c
+23 HOBBES: Leviathan, PART i, 66c-67a
+30 BACON: Advancement of Learning, 59c-61d esp 7 [1098*25-35] 343d; BK II, CH 2 [no3 b 26- 59c-60a; 64a-b 1104*9] 349b-c; BK vi, CH 2 [1139*21-31] 387d-
+35 LOCKE: Human Understanding, BK II, CH xx-, SECT 5 179c . d; BK IV< CH v> SECT 5 _ 6 32gdl 330b; CH xiv 364b-365a
+42 KANT- Pure Reason, 16d-19a; 34a-45b esp  39a-c, 41c-42c; 51d-52b; 59c-64a esp 60a-c;
+53 JAMES: Psychology, 178a-179a; 213b 214a; BK x, par 10 73d-74a /
+
+2. The division of judgments in terms of the distinction between the theoretic the Practical
+
+8 ARISTOTLE: Heavens, BK III, CH 7 [306*14-18] 302d-303c; Q 85, A 5, ANS and REP 3 457d- 397b-c / Metaphysics, BK i, CH i 499a-500b; 458d; A 6 458d-459c BK iv, CH 4 [1008^-32] 527d-528b / Soul,
+9 ARISTOTLE: Ethics, BK i, CH 3 339d-340b; CH
+20 AQUINAS: Summa Theologica, PART i-n, Q 57, A 5, REP 3 39a-40a; Q 90, A i, REP 2 205b- 206b; A 2, REP 3 206b-207a; Q 94, A 4, ANS 223d-224d; PART in, Q n, A i, REP 3 772b- 773a; Q 13, A i, REP 3 780a-781b
+31 DESCARTES . Rules, xn, 21d-22a / Meditations, 388a; CH 5 [i i40 b i 1-19] 389b-c; CH 8 [i 142*13- * xi, 81a; iv 89a-93a esp 89c-90a / Objections 19] 39 Ib and Replies i 124b-c; 141a; 215d-216c 19 AQUINAS: Summa Theologica, PART i, Q 14,
+31 SPINOZA: Ethics, PART II, PROP 48-49 391a- A 16 90b-91b; Q 79, AA 11-13 424d-427a; 394d PART i-u, Q 13, A 6, REP 2 676c-677b 3/o CHAPTER 41: JUDGMENT
+31 DESCARTES: Discourse, PART i, 44a-c / Objections and Replies, 126a-b; 237b-c; 243c-d
+35 LOCKE: Human Understanding, BK i, CH n, SECT i 103d-104a
+42 KANT- Pure Reason, 190c-191a / Fund Prm. Metaphysic of Morals, 260d-261b; 271a-c / Practical Reason, 297a-c, 300d [fn i]; 310a-b; 319c-321b; 329a-330c esp 329a-d; 343a-d / Judgement, 461a-475d esp 463a-467a, 474b- 475d
+43 MILL- Utilitarianism, 445c-d
+46 HEGEL: Philosophy of Right, PREP, 5c-6a; PART in, par 227 74b-d
+53 JAMES Psychology, 186a
+
+3. The analysis of practical or moral judgments - judgments of good and evil, means and ends; categorical and hypothetical imperatives
+
+8 ARISTOTLE: Topics, BK III, CH 1-4 162a-166b / Metaphysics, BK i, CH i 499a-500b; BK iv, CH 4 [ioo8 b 2-32] 527d-528b
+9 ARISTOTLE. Ethics, BK i, CH 3 339d-340b, BK II, CH 2 [no3 b 27-no4 a 9] 349b-c passim; BK vi, CH 2 [1139*21-31] 387d-388a; CH 5 [ii40 b 11-19] 389b-c; CH 8 [1142*13-19] 391b, CH lo-n 392b-393b, BK VII, CH 3 396c-398a / Politics, BK HI, CH n [i28i b 39-i282 a 23] 479d- 480a / RJietonc, BK i, CH 7 604c-607d
+17 PLOTINUS Third Ennead, TR vi, CH 1 106b-107a
+18 AUGUSTINE: Confessions, BK III, par 13 16c-d, BK VII, par 23 50b-c / City of God, BK VIII, CH 8 270a-d; BK xix, CH 1-14 507a-520d / Christian Doctrine, BK III, CH 10, 661d-662a
+19 AQUINAS.: Summa Theologica, PART i, Q 59, A 3, ANS and REP i 308b-309a; Q 79, AA 11-424d-427a; Q 83, A i, ANS 436d-438a, A 2, ANS and REP i 438a-d; A 3, ANS and REP438d-439c; PART i-n, Q 17, A i 686d-687c
+20 AQUINAS- Summa Theologica, PART i-n, Q 57, A 6, ANS and RFP 2-3 40a 41a
+22 CHAUCLR: Tale of Mehbeus 401a-432a esp par 7-13 402b-405a, par 17-36 407b-417b, par 59-78 427a-432a
+23 HOBBES: Leviathan, PART i, 53a-54a, 60d; 61d-62a; 65b-c; 66c-67d; 68b-c; 96a; PART II, 149b-c
+25 MONTAIGNE: Essays, 51a-55d esp 52c-53c; 136b-139b; 520b-522a
+27 SHAKESPEARE: Troilus and Cressida, ACT n, sc n 113c-115d
+30 BACON: Advancement of Learning, 86c-95b
+31 DESCARTES: Discourse, PART in, 49a-b / Ob- jections and Replies, 126a-b
+33 PASCAL: Pensees, 4 172b; 98 190b; 375-237b-239a; 456-457 254a; 505 261a-b
+35 LOCKE: Human Understanding, BK II, CH xxi,
+35 HUME: Human Understanding, SECT v, DIV 36, 465a-d [fn i]
+42 KANT: Pure Reason, 114d-115a; 190c-d; 236d- 237a / Fund. Prm. Metaphysic of Morals, 260a- 261d; 266a-267d; 268c-271a; 272a-b / Practical Reason, 318c-321b esp 320c-321b; 327d- 329a; 357c-360d / Pref Metaphysical Elements of Ethics, 367c; 368d; 369b-c; 373d; 377c-d / Intro. Metaphysic of Morals, 386b-d; 387 b, 387d-388a; 390b,d-391c; 392b-393a / Science of Right, 397b-398a; 416b-417b / Judgement, 477b-c; 557d [fni); 586a-b; 595a-d; 596c- 598b; 605d-606b [fn 2]
+43 FLDERALIST: NUMBER i, 29d
+43 MILL- Liberty, 275a-278c passim, esp 276b- 277b, 287b-c / Utilitarianism, 446d-447a; 455c-457b passim; 461c-462a
+46 HEGEL: Philosophy of Right, PART II, par49b-54a; PART in, par 191-192 66b-c / Philosophy of History, INTRO, 165a-166b; PART iv, 362d
+53 JAMES. Psychology, 202b; 794a-798b; 886b- 888a
+54 FREUD. Civilization and Its Discontents, 792b-c; 801d
+
+4. The distinction between the aesthetic and the teleological judgment
+
+42 KANT: Judgement, 471b-473a; 476a-483d; 485b-489a; 492b-493b; 513b-516b; 516d- 517c; 528b-c; 548c-549d, 550c-551a,c; 558a-b; 559c-560c; 562a-564c, 567c-570a; 572b-578a
+
+5. The nature of theoretic judgments
+
+    [sem referências]
+
+5a. The linguistic expression of judgments - sentences and propositions
+
+7 PLATO: Cratylus, 85d-86b; 109a-b / Sophist, 574d-577b
+8 ARISTOTLE: Interpretation, CH 4-5 26a-c / Prior Analytics, BK i, CH i [24 a i6- b i5] 39a-c / Posterior Analytics, BK i, CH 2 [72*7-14] 98c
+19 AQUINAS: Summa Theologica, PART i, Q 13, A 12 74c-75b, Q 85, A 2, REP 3 453d-455b
+20 AQUINAS: Summa Theologica, PART II-n, Q i, A 2 381a-c
+23 HOBBES: Leviathan, PART i, 56b; 60a; PART iv, 270a-c
+33 PASCAL: Geometrical Demonstration, 433 a- b
+35 LOCKE: Human Understanding, BK II, CH xxxin, SECT 19 251c-d; BK III, CH vn, SECT i 283a-b; BK iv, CH v 329a-331b passim; CH vi, SECT 1-3 331b-d
+38 ROUSSEAU: Inequality, 341b-342c
+53 JAMES: Psychology, 144a-b
+
+5b. The judgment as a predication - the classification of subjects and predicates
+
+8 ARISTOTLE: Categories, CH 2-3 5b-d; CH[2 a n-3 b 24] 6a-8a / Interpretation, CH 4-8 26a- 28a, CH n 31c-32c / Prior Analytics, BK i, CH 27 [43*25-44] 60c-d / Posterior Analytics, BK i, 5c to 7c (5. The nature of theoretic judgments. 5b. The judgment as a predication; the classification of subjects and predicates.) BK i, CH 4-9 144b-147b / Physics, BK i, CH[186*22-187*10] 261b 262a; CH 6 {189*28-33] 264d
+19 AQUINAS. Summa Theologica, PART i, Q 2, A i, ANS 10d-lld; Q 3, A 4, REP 2 16d-17c, Q 13, A66b-67d; A 12, ANS 74c-75b; Q 16, A 2 95c- 96b; A 6, ANS 98b-d; Q 58, A 2 301b-d; A302d-303c; Q 76, A 3, ANS 391a-393a; Q 85, A 5, REP 3 457d-4S8d
+23 HOBBES: Leviathan, PART iv, 270a-c
+31 DESCARTES; Objections and Replies, DEF IK 130d
+42 KANT: Pure Reason, 51d-52b; 180c-182b
+53 JAMES: Psychology, 144a-b; 313a-b; 638b; 861b; 870b-873a c. The judgment as relational - types of relation
+35 LOCKE. Human Understanding, BK iv, CH i, SECT 1-7 307a-308a; CH xn, SECT 6-8 360a-c
+35 HUME- Human Understanding, stcr iv, DIV458ab
+42 KANT: Pure Reason, 39c-41c csp 40c-d; 51d- 52b 53lAMEs - Psychology, 174b-176a; 302b-304b; 638b; 869a-873a esp 870b-871a, 872b; 878a- 879b; 889a-b
+
+6. The division of theoretic judgments according to formal criteria
+
+    [sem referências]
+
+6a. The division of judgments according to quantity - universal, particular, singular, and indefinite propositions
+
+8 ARISTOTLE. Categories, CH 2 5b-c / Interpretation, CH 7 [17*37-16! 26d-27a / Prior Analytics, BK i, CH i [24*16-21] 39a
+23 HOBBES: Leviathan, PART i, 55b*56a
+35 LOCKE: Human Understanding, BK iv, CH v, SECT 10 331a; CH vi 331b-336d passim; CH ix, SECT i 349a; en xi, SECT 13-14 357d-358c
+42 KANT: Pure Reason, 39c-41c esp 39d-40a
+
+6b. The division of judgments according to quality - positive, negative, and infinite propositions
+
+8 ARISTOTLE: Categories, CH 10 [i2 b 6-i5] 17d- 18a / Interpretation, CH 5 [17*8-9] 26b; CH26c-d; CH 10 29d-31c / Prior Analytics, BK i, CH 3 [25 b i9-26] 40c; CH 46 70b-71d / Posterior Analytics, BK i, CH 25 [86 b 3o-38] 118d
+19 AQUINAS: Summa Theologtca, PART i, Q 13, A 12, ANS 74c-75b
+30 BACON: Novum Organum, BK 11, APH161b-d
+35 LOCKE; Human Understanding, BK HI, CH VH, SECT i 283a-b; BK iv, CH v, SECT 5-6 329d- 330b passim
+42 KANT: Pure Reason, 39c-41c esp 40a-c; 210c-d
+46 HEGEL: Philosophy of Right, PART i, par25c-d
+
+6c. The division of judgments according to modality - necessary and contingent propositions; problematic, assertoric, and apodictic judgments
+
+8 ARISTOTLE: Interpretation, CH 12-13 32d*35c / Prior Analytics, BK i, CH 3 40a-c
+19 AQUINAS: Summa Theologica, PART i, Q 14, A 13, REP 2 86d-88c; Q 19, A 3, ANS HOb-lllc; A 8, REP 1,3 116a-d
+31 DESCARTES: Rules, xn, 22a-b; 23a-c
+42 KANT Pure Reason, 14c-l5c; 39c-41c esp 40d- 41c; 179c-180c, 193a-200c esp 194b-d; 217c-d / Judgement, 491c-49Sa,c
+53 JAMES: Psychology, 851a
+
+6d. The classification of judgments by reference to relation - simple and composite propositions; categorical, hypothetical, and disjunctive judgments
+
+8 ARISTOILE: Interpretation, CH 5 [17*20-24] 26c
+19 AQUINAS: Summa Theologica, PART i, Q 14, A 13, REP 2 86d-88c; Q 19, A 8, REP 1,3 116a-d
+42 KANT. Pure Reason, 39c-41c esp 40c-d, 44a-b; HOd-lllc esp lllb; 194b-c/ Fund. Pnn. Metaphysic of Morals, 265c-266d / Practical Reason, 297a-298a / Judgement, 483d-491c
+53 JAMES Psychology, 859b
+
+7. The order and connection of judgments
+
+    [sem referências]
+
+7a. The formal opposition of judgments - the square of opposition
+
+8 ARISTOTLE: Categories, CH 10 [i3 b i~35] 19a-c / Interpretation, CH 6-7 26c-27d; CH 10 29d- 31c; CH 12-14 32d-36d / Posterior Analytics, BK i, CH 2 [72*13] 98c
+20 AQUINAS: Summa Theologica, PART i-n, Q 64, A 3, REP 3 68b-69b
+42 KANT: Pure Reason, 64d-65c; 156d-157b; 174b-d
+
+7b. The conversion of propositions - the problem of immediate inference
+
+8 ARISTOTLE: Interpretation, CH 7 [i7 b 23~37] 27b-c; CH 10 [20*16-37] 30d-31b/ Prior Analytics, BK i, CH 2-3 39d-40c; BK II, CH 8-79b-81b; CH 22 [67 b 2o-68*24] 89b-d
+42 KANT: Pure Reason, 17d-18a; 109d-lllc csp 109d410a, HOd lllc
+
+7c. Reasoning as a sequence of judgments - the chain of reasoning
+
+8 ARISTOTLE: Categories, CH 3 [i b io-i6] 5c-d / Prior Analytics, BK i CH 1-3 39a-40c; CH[4o b 3o-4i*7] 57c-d / Posterior Analytics, BK i, CH 1-2 97a-99a CHAPTER 41: JUDGMENT
+19 AQUINAS: Summa Thtologica, PART i, Q 14, A 7, ANS 81d-82b; Q 58, A 3 301d-302d; A 4, ANS 302d-303c; Q 79, AA 8-9 421c-423d; Q 85, A 5, ANS 457d-458d
+23 HOBBES: Leviathan, PART i, 58a-c; 60a
+30 BACON: Advancement of Learning, 59c-60a
+31 DESCARTES: Rules, xiv, 28b-c
+35 LOCKE: Human Understanding, BK iv, CH n, SECT 2-8 309d-311a; CH xv, SECT i 365a-c; CH xvii, SECT 4, 373a-375a passim; SECT 15- 17 378d-379c
+42 KANT: Pure Reason, 110d-112d; 115d-119a / Practical Reason, 329a~d
+53 JAMES : Psychology, 313b; 666b-674b esp 667b- 668a, 672b; 868b-879b csp 870b-873a, 878a
+
+8. The differentiation of judgments according to origin, ground, or import
+
+    [sem referências]
+
+8a. Self-evident and demonstrable propositions - immediate and mediated, intuitive and reasoned judgments
+
+8 ARISTOTLE: Posterior Analytics, BK i, CH i 97a-d, CH 3 99b-100a; CH 15 109a-b; CH 19-lllc-115b; CH 23 [84 b i9-85 R i] 115c-116a; CH 31 [88*5-17] 120b-c; BK II, CH 9 128a b; CH136a-137a,c
+9 ARISTOTLE: Ethics, BK vi, CH 3 [ii39 b 25-34] 388c, CH 6 389d, CH 8 [1142*25-29] 391b-c; CH ii [H43 a 32- b 5] 392d-393a / Rhetoric, BK i, CH 2 [1356^6-27] 596b
+19 AQUINAS: Summa Theologica, PART i, Q 2, A i lOd-lld; Q 14, A i, REP 2 75d-76c; A 7, ANS 81d 82b; Q 17, A 3, REP 2 102d-103c; Q 79, A 12, ANS 425c-426b; Q 84, A 3, REP443d-444d, Q 85, A 6, ANS 458d-459c, Q 117, A i 595d-597c; PART I-H, Q i, A 4, REP 2 612a- 613a
+20 AQUINAS: Summa Theologica, PART i-n, Q 57, A 2 36a-37b; Q 94, A 2, ANS 221d-223a; A 4, ANS 223d-224d; PART II-ii, Q i, A 4, ANS 382c- 383b; Q 8, A i, REP 2 417a-d
+25 MONTAIGNE: Essays, 259d-261a; 272a*d
+30 BACON: Advancement of Learning, 59c-d; 97a
+31 DESCARTES: Rules, in, 4a-d; xn, 20d 25a / Objections and Replies, 123a-b; 125a-b
+33 PASCAL: Pensees, i 171a-172a
+35 LOCKE: Human Understanding, BK i, CH i, SECT 15-16 98d-99c; SECT 18 99d-100b; SECT 23 101b-102a; CH n, SECT i 103d-104a; SECT104d-106a; CH in, SECT 23 119b-120a; BK iv, CH i, SECT 9 308c-309b passim, csp 309b; CH n 309b-313a; CH in, SECT 2-4 313a-c; CH VH, SECT i-n 337a-342d passim; CH ix, SECT 2-349a-c; CH xv, SECT i 365a-c; CH xvii, SECT 2-3 371d-372b; SECT 14-17 378c-379c
+42 KANT: Pure Reason, 39a-c; 99a-c; HOd-lllc; 211c-218d / Judgement, 542d-543a
+43 FEDERALIST: NUMBER 31, 103c-d; NUMBER 83, 244b-c
+43 MILL: Utilitarianism, 446a-447a
+
+8b. Analytic and synthetic judgments - trifling and instructive propositions
+
+35 LOCKE* Human Understanding, BK iv, CH v, SECT 6, 330b; CH viu 345a-348d
+42 KANT: Pure Reason , 16d-19a; 31a-d; 64d-66d; 179c-182b / Practical Reason, 339a; 351c / Science of Right, 405b-c / Judgement, 516b-d
+53 JAMES: Psychology, 879b-880b [fn 2]
+
+8c. A priori and a posteriori, non-existential and existential judgments - the problem of a priori synthetic judgments
+
+35 LOCKE : Human Understanding, BK i, CH i, SECT 15-16 98d-99c; SECT 23 101b-102a; BK iv, CH i, SECT 1-7 307a-308a; CH in, SECT 7-21 315b-319c; CH ix, SECT i 349a; CH xi, SECT 13-14 357d-358c; CH xvn, SECT 2, 371d
+35 HUME. Human Understanding, SECT iv 458a- 463d passim, esp DIV 20-21 458a-c, DIV 30, 462a; SECT v, DIV 34-38, 464b-466c; SECT x, DIV 89 490b-c; SECT xn, DIV 131-132 508d- 509d passim
+42 KANT- Pure Reason, 5a-8b; 14a-108a,c esp 14a- 20c, 23a-24a, 25b-26b, 27b-28b, 29d-33d, 35b-36a, 41c-42b, 46a-48d, 57d-59b, 64b- 66d, 85d-88a; 108b-d; 110a-113b; 134c-d; 146a; 179c-182b; 192a-b; 211c-218d; 224a- 227a / Fund. Prtn Metaphysic of Morals, 268b-d; 280a-b; 283b / Practical Reason, 309b-d; 329d-330c; 351c / Pref. Metaphysical Elements of Ethics, 367d-368a / Science of Right, 405b-407a esp 405b-d / Judgement, 467a-475d; 570b-572d; 603a-b
+43 MILL- Utilitarianism, 445d-446d
+46 HEGEL- Philosophy of History, INTRO, 156d- 158a; 182d 183c
+53 JAMES: Psychology, 639a-641a esp 640b; 659a-660a; 851a-890a esp 851a-852a, 859a- 861b, 867a-869a, 879b, 880b-881a, 884b- 885a, 889b 890a; 897a-b
+
+8d. The division of judgments into the determinant and the reflective - judgments as constitutive or as regulative
+
+42 KANT: Pure Reason, 72c-74b; 193a-200c csp 193c-d, 194b-c; 201d-202a; 206a-207b / Judgement, 461a-475d esp 471b-474b; 550a- 551a,q; 558a, 559a-560c; 562a-d; 564a-c; 567b-568c; 570b-572c; 577b; 584d-585a; S88c; 597b-599b; 601d
+
+9. Degrees of assent - certainty and probability
+
+8 ARISTOTLE: Interpretation, CH 9 28a-29d / Topics, BK v, CH 3 [i3i b i9-3o] 182b-c / Metaphysics, BK xn, CH 8 [1074*14-16] 604c
+9 ARISTOTLE: Ethics, BK i, CH 3 [1094** 11-28] 339d-340a; CH 7 [1098*25-35] 343d; BK 11, CH 2 [ii03 b 27~i 104*9] 349b-c / Rhetoric, BK i, CH 2 [i357*23- b 24] 596d-597c; BK II, CH3-i 403*1) 652b-d (9. Degrees of assent - certainty an4 probability.)
+16 COPERNICUS: Revolutions of the Heavenly Spheres, 505a-506a
+19 AQUINAS. Summa Theologies PART i, Q 14, A 13 86d-88c; Q 57, A 3, ANS 297b-298a; Q 58, Ay, REP 3 305c-306b; Q 86, A 4, ANS 463d-464d; PART i-n, Q 17, A 6, ANS 690b-d
+20 AQUINAS: Summa Theologica, PART i-n, Q 51, A 3 14b-15a; Q 67, A 3, ANS 83b-84d; PART II-ii, Q i, AA 4-5 382c-384b; Q 4, A 8 409a- d; Q 9, A i, ANS and REP i 423c-424b, A 2, ANS 424b-425a; Q 18, A 4 464c-465a; PART HI, Q 7, A 3, REP 3 747b-748a
+23 HOB BBS: Leviathan, PARI i, 65b-c
+25 MONTAIGNE: Essays, 240c-242a; 272a-d; 292a-d; 499c-d
+31 DESCARTES: Rules, i~n la-3b, XH, 23a-c / Discourse, PART iv, 53c-d, PART vi, 63c-64d / Meditations, 74a,c, iv, 92c-93a / Objections and Replies, 125b-126b
+35 LocKt Human Understanding, INTRO, SFCT 2-6 93b-95a; BK iv, CH vi 331b-336d passim, esp SFCT 13 33Sc-d; CH xi, SECT 3 355a-b; SECT 8-12 356b-357d; CH xiv-xvi 364b- 371c; CH xvn, SECT 2 371d-372b; SECT 14-378c-379c; en xix, SECT i 384c-d
+35 HUME Human Understanding, SECT vi 469d- 470d, SECT x, DIV 86-91 488d-491c passim, esp DIV 87 489b-d
+38 ROUSSEAU: Inequality, 348a,c
+42 KANT. Pure Reason, 194b-c; 228c-d; 240b- 243c / Judgement, 600d-604b passim
+43 MILL. Liberty, 275a-277b
+53 JAMFS. Psychology, 636a 638b, 659a-660b
+54 FREUD* General Introduction, 463d / Beyond the Pleasure Principle, 661c-662a / New Introductory Lectures, 818c-819b
+
+10. The truth and falsity of judgments
+
+7 PLATO: Euthydemus, 71c-74a / Cratylus, 85d- 86d; 109a-b / Theaetetus, 541a-544a / Sophist, 561d-577b esp 575a-577b
+8 ARISTOTLE. Categories, CH 4 [2*4-10] 6a; CH[4 ft iob i9] 8b-9a / Interpretation, CH i [16*9- 18] 25a-b; CH 4-14 26a-36d passim, esp ci [17*1-4! 26b, CH 7 26d-27d, CH 9 28a-CH 14 35c-36d / Metaphysics, BK iv, ci [ion b 25-29] 531c; [1012*1-17] 531d-CH 8 [ioi2 a 29- b 22] 532 b-d; BK vi, CH 550a,c, BK ix, CH 10 [io5i ft 34- b i8]/ Soul, BK III, CH 3 (427 b i5-25J 660a; ci 662d-663c
+9 ARISTOTLE: Ethics, BK II, CH 7 [1107*27- 352d-353a; BK vi, CH 2 [1139*21-31] 38' 388a; CH 3 [11^14-18] 388b
+12 LUCRETIUS. Nature of Things, BK iv [353-48d-51a esp [469-521] 50b-51a
+18 AUGUSTINE City of God, BK VIII, CH 269b-c / Christian Doctrine, BK II, CH651d-653b
+19 AQUINAS: Summa Theologica, PART i, Q4, REP 2 16d-17c; Q 13, A 12 74c-75b; Q A 15, REP 3 89b-90b; Q 16, A 2 95c-96b; A ANS and REP 4 99a-d, A 8, REP 3-4 99d-10< Q 17, AA 3-4 102d-104b, Q 58, A 4, REI 302d-303c, A 5 303c-304c, Q 85, A i, RE 451c453c; A 5, REP 3 457d-458d, A459c; Q 94, A 4 505a 506a
+20 AQUINAS Summa Theologica, PARI i-ii, Q A 5, REP 3 39a-40a
+23 HOB BBS Leviathan, PART i, 56b; 57c;60a; 65b-c
+25 MONTAIGNE- Essays, 240c-242a, 259d-271b-272c; 292a-d
+31 DLSCARTFS- Rules, xn 18b-25a passim Discourse, PART iv, 52a / Meditations, in,85c, iv 89a-93a esp 90b-91b / Objections c Replies, 124b-c; 125b-126b; Dhb ix 13( 141a, 156d-158a, 168b-d; 215d-216c, 22< 230d
+31 SPINOZA Ethics, PART II, PROP 49 3910-39^
+35 LOCKE Human Understanding, BK ir, CH xx 243c-248b passim, esp SECT 1-3 243c-SECT 19-26 247a-248b; BK III, CH vn, si-c 283a-b, BK iv, CH v 329a-331b; en vi, SEC 331c-d; SECT 16 336d
+42 KANT: Pure Reason, 99a-100a, 108a-d; 193s 240b-243c
+53 JAMES. Psychology, 460a-469b esp 462b-468b-469a; 508a; 638a-b; 879a-881a <ref_end>
+
+
+ADDITIONAL READINGS
+
+Listed below are works not included in Great Booths of the Western World,
+
+idea and topics with which this chapter deals. These works are divided int
+
+I. Works by authors represented in this collection.
+
+II. Works by authors not represented in this collection
+
+For the date, place, and other facts concerning the publication of the wor
+
+the Bibliography of Additional Readings which follows the last chapter of
+
+SlGWART. LoglC, PART I
+
+AQUINAS. De Propositionibus Modalibus
+
+-
+
+JEVONS. Pure Logic, CH
+
+Studies in Deduct
+
+.
+
+HOBBES. Concerning Body, PART i, CH 3 KANT. Prolegomena to Any Future
+Mctaphysic, par -
+
+LOTZE. Logic, BK i, CH
+
+Outlines of Logic
+
+.
+
+BRADLEY. The Principle
+
+2-3 HEGEL. Science of Logic, VOL n, SECT i, CH 2 Essays, n-in, vi J.S. MILL. A
+System of Logic, BK i, CH 4-6 J. N. KEYNES. Studies a
+
+PART II
+
+**
+
+BOSANQUET. Logic, VOL CICERO. Academics, n (xlvii) SEXTUS EMPIRICUS. Against the
+Logicians JOHN OF SALISBURY. Metalogtcon
+
+-VENN. Symbolic Logic,
+
+.
+
+Principles
+
+CH 8-10
+
+SuAREZ. Disputationes Metaphysicae, vm-ix J. C. WILSON. Statement JOHN OF SAINT
+THOMAS. Cursus Philosophicus Tho WHITEHEAD and RUSSELL.
+
+misticus, Ars Logica, PART i, QQ 5-7 PART i, SECT c, D; P ARNAULD. Logic or the
+Art of Thinking, PART n iv-v LEIBNITZ. New Essays Concerning Human Under- ROYCE.
+The Principles
+
+standing, BK iv, CH 5 W. E. JOHNSON. Logic, T. REID. Essays on the Intellectual
+Powers of Man, vi MARITAIN. An Introduct W. HAMILTON. Lectures on Metaphysics
+and Logtc, WHITEHEAD. Process and
+
+VOL ii (13-14) DEWEY et al. Studies i BOOLE. An Investigation of the Laws of
+Thought, CH
+
+J.
+
+21
+
+H. NEWMAN. An Essay in Aid of a Grammar of
+
+-
+
+DEWEY. Essays in Exper
+
+- Reconstruction in
+
+.
+
+Logic, the Theory
+
+.
+
+Assent M. R. COHEN. A Preface a; UNIVERSAI ions, see INFINnd foi pothetical ir
+ing, see REASON ON 3; KNOWL the a posteriori tial judgments obability, set
+PARTICULAI but relevant to the o two groups: . ks cited, consult The Great Ideas
+-II 2, 7, 10, 12 ive Logic, CH 3-6 2 , i, CH 2 s of Logic, BK i; Tcrmina nd
+Exercises in Formal Logic I, CH I-9 CH 6-8 of Empirical or Inductive LogU and
+Inference, PART n Pnncipia Mathematics ART n, SECT B, c, D, E; PAR of Logic PART
+i, CH 1-5, 9-10 ion to Logic, CH 2 Reality, PART n, CH 9 n Logical Theory, i-iv
+imental Logic, n-vi, xn-xr Philosophy, CH 6 of Inquiry, CH 6-14 to Logic, n-in

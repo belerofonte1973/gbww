@@ -415,3 +415,558 @@ simal
 ( ]) Sage, vi n CH 2 -n
 
 i , CH 5 l
+
+REFERENCES
+============================================================
+
+1. The science of mathematics - its branches or divisions; the origin and development of mathematics
+
+5 AESCHYLUS: Prometheus Bound [442-472]
+6 HERODOTUS: History, BK II, 70b-c
+7 PLATO: Charmides, 7d-8a / Phaedrus, 138c-d 20 458b; SECT VH, DIV 48 470d-471c; SECT / Gorgias, 254a-c / Republic, BK VII, 391b- xn, DIV 131 508d-509a 397a / Timaeus, 451b-c / Statesman, 581a /
+8 ARISTOTLE: Posterior Analytics, BK i, CH 7 68a-69c esp 68c-69a; 211c-218d / Practical 103c-d; CH 27 119b / Metaphysics, BK i, CH i Reason, 295b-d; 330d-331a / Judgement, 553d [98i b i3~24] 500a; CH 9 [992*29-34] 510c; BK II, [fn i] CH 3 513c-d
+11 NICOMACHUS: Arithmetic, BK i, 812b-813d; 122d-123b / Philosophy of History, PART i, BK II, 831d-832a 219a
+16 COPERNICUS : Revolutions of the Heavenly _, . Spheres BK i 510a-b
+16 PTOLEMY: Almagest, BK i, 5a-6a
+17 PLOTIN'US: Fifth Ennead, TR ix, CH n, 250c-d
+18 AUGUSTINE: Christian Doctrine, BK II, CH 38
+19 AQUINAS: Summa Theologica, PART i-n, Q 35,
+31 DESCARTES 32a / Discourse PAR r If 43b . c; PART IIf 47b . d
+23 HOBBES: Leviathan, PART i, 72a-d; PART iv, BK II, CH 2 [193*22-194*11] 270a-c; CH 9 268c-d; 269b [200*15-29] 277c-d / Heavens, BK i, CH 10
+30 BACON: Advancement of Learning, 46a-c [279 b 32-28o*n] 371b-c / ^Metaphysics, BK i,
+31 DESCARTES: Rules, iv, 5c-d; 6c-7c; xiv, 31c- \bto\c  CH 8 [989^9-990*8] 508a; CH 9 [992 ft 29~ b 9] 510c-d; BK II, CH 3 [995*15-20] 513d; BK III, en 2 [996*21-36] 514d-515a; BK iv, CH i 522a; BK vi, CH i 547b,d-548c; BK xi, CH i [io59 b i5- 21 ] 587c-d; CH 3 [io6i tt 29- b i2] 589c-d; CH 4 589d-590a; CH 7 592b-593a; BK xn, CH 8 [io73 b i~7] 603d / Sow/, BK i, CH i [403 b io-i6] 632d
+31 SPINOZA: Mies, PART i, APPENDIX, 370b-c
+34 NEWTON: Principles, la-b
+35 HUME: Human Understanding, SECT iv, DIV
+35 LOCKE: Human Understanding, BK iv, en XH, 44c-d esp [459-460] 44d SECT 7 360b-c; SECT 15 363a-b
+41 GIBBON: Decline and Fall, 290a; 299b Philebus, 633b-634b
+42 KANT: Pure Reason, 5d-6b; 17d-18d; 46a-c;
+46 HEGEL: Philosophy of Right, ADDITIONS, 40
+53 JAMES: Psychology, 874a-878a
+
+1a. The distinction of mathematics from physics and metaphysics - its relation to logic
+
+7 PLATO: Euthydemus, 75b / Republic, BK vi, 654b-c 386d-388a; BK VII, 391b-398c
+8 ARISTOTLE: Posterior Analytics, BK i, CH 12 A 8, ANS 779c-780c [77^7-34] 107a; [78*10-13] 107b-c / Physics,
+9 ARISTOTLE: Ethics, BK vi, CH 8 [1142*12-19] 391b
+16 PTOLEMY: Almagest, BK i, 5a-6a
+19 AQUINAS: Summa Theologica, PART i, o i, A i, REP 2 3b 4a; Q 7, A 3, ANS 32c-33c; Q 44, A i, REP 3 238b-239a; o 85, A i, REP 2 451c-453c
+20 AQUINAS: Summa Thcologica, PART II-n, Q 9, A 2, REP 3 424b-425a; PART in, 0.7, A 12, REP i 754c-755c
+23 HOBBES - Leviathan, PART i, 56b-57a; 58a-c; 59b-c; 72a d; PART iv, 267a-b; 268c-269a
+28 GALILEO: Two New Sciences, SECOND DAY, 190b-c
+30 BACON: Advancement of learning, 46a-b
+31 DESCARTLS: Rules, n, 2d-3b; iv 5a-7d; vm, 12b 13a; xiv, 31c 32a / Discourse, PART II, 46c-47a / Meditations, 70b-c; i, 76b-c / Ob- jections and Replies, 128d-129a; 169c-170a
+33 PASCAL: Geometrical Demonstration, 445a-b
+34 NEWTON: Principles, la 2a
+35 LOCKE: Human Understanding, BK iv, CH in, SECT 29 322c-323a; CH xn, SECT 7 13 360b- 362d passim
+35 HUME: Human Understanding, SECT vn, DIV 48 470d-471c
+39 SMITH: Wealth of Nations, BK v, 335b- 337a
+42 KANT: Pure Reason, 5a-9a; 15c-16c; 17d-19a; 211c-218d csp 215d-217a; 243c-248d passim, csp 244d-245a, 248c / Practical Reason, 295b-d; 311d-313d / Pref. Metaphysical Elements of Ethics, 376c-d
+43 MILL: Utilitarianism, 445b-c
+53 JAMES: Psychology, 867a-870a esp 869a-870a
+
+1b. The service of mathematics to dialectic and philosophy - its place in liberal education
+
+7 PLATO: Republic, BK vi, 386d-388a; BK VII, 391b-398c; BK VIII, 403a-d / Timaeus, 448b- 450a; 453b-454a; 458b-460b / Theaetetus, 515a-d / Philebus, 633a-63Sa / Laws, BK v, 691d-692a; 695c-697a; BK VII, 728b-730d
+8 ARISTOTLE: Heavens, BK HI, en i [299*1- 30o a i9) 390b-391c; CH 7-8 396d-399a,c / Generation and Corruption, BK II, CH i [329*5- 24] 428d-429a / Metaphysics, BK i, CH 5-6 503d-506b; CH 8 [989 b 29-99O*32] 508a-c; CH 9 [992*24~ b 9] 510c-d; BK xn, CH 8 [1073^-7] 603d; BK xiv, CH 3 622d-623d; CH 5-6 624d- 626d / Soul, BK i, CH 4 [408^3-409*9] 638d
+9 ARISTOTLE: Ethics, BK vi, CH 8 [1142*12-19] 391b
+11 NICOMACIIUS: Arithmetic, BK i, 811a-813d
+16 PTOLEMY: Almagest, BK i, 5b-6a
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK i, 510a-b
+16 KEPLER: Epitome, BK iv, 863b-872b passim
+17 PLOTINUS: First Ennead, TR in, CH 3 lOd-lla
+18 AUGUSTINE: Confessions, BK iv, par 30 26b-c / Christian Doctrine, BK II, CH 16, 644d-645d; CH 38-39 654b-655b
+23 HOBBES - Leviathan, PART i, 56b-57a; 59b-c; PART II, 164c; PART iv, 268c-d; 269b
+24 RABELAIS: Gargantua and Pantagruel, BK i, 27d; BK iv, 278b
+25 MONTAIGNE: Essays, 70a-d
+28 GALILEO: Two New Sciences, SECOND DAY, 190b-c
+30 BACON: Advancement of Learning, 16a-b; 46a-c
+31 DESCARTES: Rules, n 2a-3b; iv 5a-7d; xiv, 29a-b / Discourse, PART i, 43b-c; PART II, 46c-48b / Geometry, BK i, 297a-b
+31 SPINO/A: Ethics, PART i, APPENDIX, 370b-c
+33 PASCAL: Pensecs, 1-2 171a 172b / Gcomcttical Demonstration, 442a-446b
+34 NEWTON: Principles, lb-2a
+36 SWIFT: Gulliver, PART in, 97a-b
+42 KANT: Pure Reason, 15c-16c; 46a-c; 211c-218d esp 215a-c / Judgement, 551a-552c
+51 TOLSTOY: War and Peace, BK i, 47b-48d
+53 JAMES: Psychology, 882a 883a
+
+1c. The certainty and exactitude of mathematical knowledge - the a priori foundations of arithmetic and geometry
+
+7 PLATO: Philebus, 633b-634b
+8 ARISTOTLE: Posterior Analytics, BK i, en 27 119b / Metaphysics, BK i, CH 2 [982*25-28] 500c; BK II, CH 3 513c-d; BK xin, CH 3 609a- 610a
+9 ARISTOTLE: Ethics, BK i, CH 3 [io94 b i2-28] 339d-340a
+11 NICOMACHUS: Arithmetic, BK i, 811a 814b
+16 PTOLEMY: Almagest, BK i, 5b-6a
+23 HOBBES - Leviathan, PART i, 56b; 59b-c; PART iv, 268c-d; 269b
+28 GALILEO: Two New Sciences, FOURTH DAY, 252ab
+30 BACON: Advancement of Learning, 61b-c; 65b / Not/urn Orgunum, BK i, APH 59 112b-c
+31 DESCARTES: Rules, n 2a-3b; iv 5a-7d / Discourse, PART i, 43b-c; PART II, 47b-c; PART iv, 52d-53a; PART v, 54c / Meditations, i, 76b-c; v, 93a-95b / Objections and Replies, 128a-129a / Geometry, BK II, 304a-b
+31 SPINOZA: Ethics, PART i, APPENDIX, 370b-c
+33 PASCAL: Pensees, 1-2 171a-172b; 33 176b / Geometrical Demonstration, 430a-434a; 442a- 446b \d to 2a
+35 LOCKE: Human Understanding, BK iv, CH 11, SECT 9-10 311b-c; CH in, SECT 18-20 317d- 319c passim; SECT 29 322c-323a; CH iv, SECT 6-9 325a-326b; CH xn, SECT 1-8 358c-360c passim, esp SECT 7 360b-c; en xm, SECT 3 364a
+35 BERKELEY: Human Knowledge, SECT 118 436b-c
+35 HUME: Human Understanding, SECT iv, DIV 20 458a-b; SECT vn, DIV 48 470d-471c; SECT xn, DIV 131 508d-509a
+36 SWIFT: Gulliver, PART in, 118b-119a
+42 KANT: Pure Reason, 5a-8d; 15c-16c; 31b-d; 35b-36a; 46a-b; 68a-69c; 86b-c; HOa; 211c- 218d / Practical Reason, 295b-d; 312c-d; 330d-331a / Pref. Metaphysical Elements of Ethics, 376c-d / Science of Right, 399a-b / Judgement, 551a-552a
+43 FEDERALIST: NUMBLR 31, 103c-104a; NUMBER 85, 257d-258d
+43 MILL: Liberty, 283d-284b / Utilitarianism, 445b-c
+45 LAVOISIER: Elements of 'Chemistry, PREF, la; 2b
+45 FOURIER : Theory of Heat, 1 73a- b
+53 JAMES: Psychology, 175a-176a; 874a-878a; 879b-882a
+
+1d. The ideal of a universal mathesis - the unification of arithmetic and geometry
+
+7 PLATO: Meno, 180d-182c / Theaetetus, 515a-c
+8 ARISTOTLE: Categories, CH 6 [4 b 2o-5*i \\ 9a-c / Posterior Analytics, BK i, CH 7 103c-d / Metaphysics, BK II, CH 3 513c-d; BK vi, CH i [io26 ft i8--27] 548b; BK xi, en 7 [io64 b 6-9] 592d-593a; UK xm, CH 2 [1077*9-10] 608b; CH 3 [i<>77 b i7-23] 609a
+11 EUCLID: Elements, BK II 30a-40b; BK v 81a- 98b; BK VII, DEFINITIONS, 16-19 127b
+11 NICOMACHUS: Arithmetic, BK II, 831d 841c
+16 KEPLER: Harmonies of the World, 101 2b- 1014b
+23 HOBBES: Leviathan, PART i, 58a-c
+31 DESCARTES: Rules la-40a,c csp n, 2d-3b, iv 5a-7d, vi 8a-10a, xiv-xxi 28a-40a,c / Discourse, PART 11, 46c-48b; PART in, 50d / Geometry 295a-353b esp BK i, 295a-298b
+33 PASCAL: Arithmetical Triangle, 447a 456a
+36 SWIFT: Gulliver, PART in, 109b-llla
+42 KANT: Pure Reason, 68a-69c
+45 FOURIER: Theory of Heat, 172a-173b
+
+2. The objects of mathematics - number, figure, extension, relation, order
+
+7 PLATO: Charmides, 7d-8a / Meno, 176d 177a; 180b-183c / Republic, BK vi, 387b-c; BK VII, 393d / Philebus, 633d
+8 ARISTOTLE: Categories, en 6 9a lla; en 8 [io tt n-i6] 15a-b / Physics, BK iv, CH n [2i9 b 5- 8] 299b / Metaphysics, BK III, CH i [<)96 ll i3- 15] 514c; CH 5 520c-521b passim; BK VII, CH 2 [io28 b i8-28] 551a-b; BK xi, CH 3 [io6i a 29- b 4] 589c
+9 ARISTOTLE: Rhetoric, BK i, CH 2 595b
+11 EUCLID: Elements, BK i, DEFINITIONS la-2a; BK VII, DEFINITIONS, 1-2 127a; BK XI, DEFINI- TIONS, i 301a
+11 NICOMACHUS: Arithmetic, BK i, 811d-812b
+16 PTOLEMY: Almagest, BK i, 5a-b
+18 AUGUSTINE: Christian Doctrine, BK II, CH 38 654b-c
+19 AQUINAS: Summa Theologica, PART i, Q 7, A 3, ANS 32c-33c; A 4, ANS 33d-34c; Q 30, A i, REP 4 167a-168a; Q 85, A i, REP 2 451c-453c
+23 HOBBES: leviathan, PART i, 72a-d
+30 BACON: Advancement of learning, 46a-c
+31 DESCARTES: Rules, n, 3a-b; iv, 7a-b; vi 8a- lOa; xiv, 30d-33b / Discourse, PART II, 47b-d; PART iv, 52d-53a / Meditations, i, 76b-c / Objections and Replies, 217b-d / Geometry, BK II, 304a 306a; 316a-b
+34 NEWTON: Principles, la b
+35 LOCKL: Human Understanding, BK II, en xn, SECT 3-5 147d-148b
+35 BERKELEY: Human Knowledge, SECT 118-132 436b-439c
+35 HUME: Human Understanding, SECT xn, DIV 131 508d-509a
+42 KANT: Pure Reason, 46a-c; 62a d; 68a-69c; 2llc213a
+53 JAMES: Psychology, 874a-878a esp 874a
+
+2a. The apprehension of mathematical objects - by intuition, abstraction, imagination, construction; the forms of time and space
+
+7 PLATO: Meno, 180b-183c / Republic, BK vi, 387b-d; BK VII, 393a-394a / Theaetetus, 535b-c
+8 ARISTOTLE: Posterior Analytics, BK i, CH 18 lllb-c / Metaphysics, BK ix, CH 9 [ic>5i tt 2$- 33] 577b-c; BK xm, CH 3 609a-610a / Memory and Reminiscence, CH 2 [452 b 7~23] 694b-d
+9 ARISTOTLE: Ethics, BK III, CH 3 [iii2 b 2o-24] 358d; BK vi, en 8 [ii42 tt i3-iQl 391b
+11 EUCLID: Elements, BK i, POSTULATES, 1-3 2a
+19 AQUINAS: Summa Theologica, PART i, Q i, A i, REP 2 3b-4a; Q 85, A i, REP 2 451c-453c
+31 DESCARTES: Rules, xiv-xv 28a~33d / Discourse, PART II, 46d / Meditations, v, 93a-d; vi, 96b-d / Objections and Replies, 217b-d; 218c; 228c d
+33 PASCAL: Pensees, 1-2 171a-172b
+35 LOCKE: Human Understanding, BK i, CH i, SECT 16 99b-c; BK II, CH xm, SECT 5-6 149b-d; CH xvi 165c-167c passim
+35 BERKELEY: Human Knowledge, INTRO, SECT 15-16 409a-d; SECT 12-13 415b-c; SECT 118- 122 436b-437c
+35 HUME: Human Understanding, SECT xn, DIV 122 505c-d; DIV 124-125 506a 507a esp DIV 125, 507b [fn i]
+42 KANT: Pure Reason, 16a-c; 17d-18d; 24d-25b; 31b d; 35b~36a; 46a-c; 55c-56a; 62a d; 68a- 69c; 86b-c; 87b-c; HOa; 211c-212a / Practical 56 2b to 2c  Reason, 295b-d / Science of Right, 399a / Judgement, 551a-553c
+52 DOSTOEVSKY: Brothers Karamazov, BK v, 121a-b
+53 JAMES: Psychology, 302a-304b; 549a-552a esp 552b [fn ij; 869a-870a; 874b-878a passim
+
+2b. The being of mathematical objects - their real, ideal, or mental existence
+
+7 PLATO: Phaedo, 228b-230c; 242c-243c / Re- public, BK vi, 387b c; BK VII, 391b-398c / Theaetetus, 535b-c; 541b-d / Sophist, 562c / Phtlebus, 636b-c / Seventh Letter, 809c-810b
+8 ARISTOTLE: Prior Analytics, BK i, 01141 [49 b 32- 37] 68c / Posterior Analytics, BK i, en 10 J76 b 39- 77*3] 105d; CH 13 [79*6-10] 108c; ciu8 [81*40- b 5) lllb-c / Topics, BK vi, CH 6 [i43 b n -33] 197b-c / Physics, BK u, en 2 [i93 b 23-i94*n] 270a-c; BK III, CH 5 [204*8-34] 282a-b; BK iv, CH i [2o8 b i9-24] 287b-c; en u [2i9 b 5-8] 299b; CH 14 [223*21-29] 303a / Heavens, BK III, CH i [299*1-300*19] 390b-391c; CH 7 [306*1- b 2] 397b-d /'Metaphysics, BK i, CH 5 (985 b 22- 986*21] 503d-504b; CH 6 [987 b io-34] 505c- 506a; cn8 [989 b 29-99o*32] 508a c; CH 9 [9$i b 9~992 b i8] 509d-511a; BK III, CH i [995 b i3- 18] 514a; [996*13-15] 514c; CH 2 [996*22-36] S14d-515a; [997^2-998*19] 516b-d; CH 5 [iooi b 26]-cii 6 [ioo2 b 25] 520c-521c; BK VII, CH 2 [io28 b i8-28] 551a-b; en 10 [io35 b 32-1036*12] 559b-c; CH u [io36 b 32-i 037*4] 560b-c; BK xi, CH i [io59 b 2-i3] 587b-c; CH 2 [io6o ft 36- b i9] 588c-d; CH 3 [io6i*29- b 4] 589c; BK xn, CH i [1069*30-37] 598b; BK xn, CH 10 [io75 b 25]-BK xin, CH 3 [io78 b 5] 606c-610a; BK xin, CH 6-9 611d-618c; BK xiv 619b,d- 626d / Soul, BK III, CH 7 [431^3-19] 664b
+9 ARISTOTLE: Ethics, BK i, CH 6 [1096*17-19] 341b; BK vi, CH 8 [1142*13-19] 391b
+11 EUCLID: Elements, BK i, POSTULATES, 1-3 2a
+11 NICOMACHUS: Arithmetic, BK i, 811a-812a; 813d-814b
+18 AUGUSTINE: Confessions, BK x, par 19 76a-b / Christian Doctrine, BK II, CH 38 654b-c
+19 AQUINAS: Summa Theologica, PART i, Q 5, A 3, REP 4 25a-d; Q 10, A 6, ANS 45c-46d; Q u, A i, REP i 46d-47d; A 3, REP 2 49a-c; Q 30, A i, REP 4 167a-168a; Q 44, A i, REP 3 238b<239a; Q 85, A i, REP 2 451c-453c
+20 AQUINAS: Summa Theologica, PART in, Q 7, A 12, REP i 754c-755c; PART in SUPPL, Q 83, A 2, ANS 976c-978c; A 3, REP 2 978c-980d
+31 DESCARTES: Rules, xiv, 30b-32a / Discourse, PART iv, 52d-53a / Meditations, i, 76b-c; v, 93a-d; 96a / Objections and Replies, 169c-170a; 217b-d; 218c; 228c-229a
+31 SPINOZA: Ethics, PART i, APPENDIX, 370b-c
+33 PASCAL: Vacuum, 373a-b
+35 LOCKE: Human Understanding, BK i, CH in, SECT 6 113c-d; BK III, CH in, SECT 19 259c- 260a; BK iv, CH iv, SECT 5-8 324d-325c
+35 BERKELEY: Human Knowledge, INTRO, SECT 12-16 408a-409d; SECT 12-13 415b-c; SECT 118-128 436b-438d passim, esp SECT 121-122 436d-437c, SECT 125-126 438a-c
+35 HUME : Human Understanding, SECT iv, DIV 20 458a-b; SECT xn, DIV 122 505c-d; DIV 124-125 506a-507a esp DIV 125, 507b [fn i]
+42 KANT: Pure Reason, 16a-c; 24a-33d esp 31d- 32c;35b-36a; 46a-c; 62a-d;87b-c; 91c-d;94b- 95a; 211c-213a esp 211c-212a / Practical Reason, 295b-d; 312c-d / Judgement, 551a-553c
+45 FOURIER: Theory of Heat, 183a b
+53 JAMLS: Psychology, 874a-878a esp 875a-876b; 880b881a
+
+2c. Kinds of quantity - continuous and discrete quantities; the problem of the irrational
+
+7 PLATO: Meno, 180d-181c / Republic, BK VIII, 403a-d / Parmenides, 499d-500c / Theaetetus, 515a-c
+8 ARISTOTLE: Categories, CH 5 [3 b 32~4*9] 8a-b; CH 6 [4 b 23-5*i4] 9a-c; CH 8 [io b 26 -11*14] 15d - 16b / Physics, BK iv, CH 4 [2ii*29- b 4] 290c; CH 5 [2i2 b 3~6] 291d; BK v, CH 3 [227*10-34] 307d-308b; BK vi, CH 1-2 312b,d-315d / Heavens, BK i, cn i [268*6-11] 359a; BK III, CH i [299 a i-3oo tt i9] 390b-391c; CH 7 [306*26- b 2] 397c-d; CH 8 [3o6 b i7-26] 398a / Generation and Corruption, BK i, CH 2 [3i5 b 25~3i7*i7] 411b 413a; BK 11, CH 10 [337^2-34] 439b-c / Metaphysics, BK i, en 2 [983*11-20] 501b-c; BK II, en 2 [994^3-26] 513a; BK III, CH 4 [100^7-25] 520b-c; BK v, CH 6 [1015^5-1016* 17] 536b-c; [ioi6 b 6~32] 537a-b; CH 13 [1020* 9-14] 541b; BK VIII, CH 3 [io43 b 33-io44*i4] 568b-d; BK x, CH i [1052*15-37] 578b,d; CH 3 [1054*20-29] 581a; BK xi, CH 12 [io68 b 26- io()9 ft i8] 597d-598a,c; BK xiv, CH i [io87 b 34- 1088*14] 620a-b
+11 EUCLID: Elements, BK v, DEFINITIONS, 4-5 81a; BK VII, DEFINITIONS, 2 127a; 20 127b; BK x 191a-300a esp PROP i 191b-192a
+11 ARCHIMEDES: Sphere and Cylinder, BK i, AS- SUMPTIONS, 5 404b / Spirals, 484b / Quadrature of the Parabola, 527a-b
+11 NICOMACHUS: Arithmetic, BK i, Slid 812a
+17 PLOTINUS: Second Ennead, TR iv, CH 7, 52c / Fourth Ennead, TR u, CH i, 139d / Sixth En- nead, TR i, CH 4 253b-254b; TR in, CH 13, 287d-288a; CH 15 289a c
+19 AQUINAS: Summa Theologica, PART i, Q 3, A i, REP 1 14b-15b; Q 7, A 3, REP 3-4 32c-33c; A 4, ANS 33d-34c; Q 11, A 2, REP 2 47d-48d; Q 30, A 3, ANS 169b-170c; Q 42, A i, REP i 224b- 225d; Q 48. A 4, REP 3 262a-263a; Q 52, A i 278d-279b
+20 AQUINAS: Summa Theologica, PART 11-11, 3to3a CHAPTER 52: MATHEMATICS 57 Q 24, A 4, REP i 491d-492b; PART in, Q 7, A 12, REP i 754c-755c
+28 GALILEO: Two New Sciences, FIRST DAY, 139c- 153a passim; THIRD DAY, 201a-202a
+31 DESCARTES: Discourse, PART iv, 52d-53a / Meditations, v, 93b
+31 SPINOZA: Ethics, PART i, PROP 15, SCHOL 360b- 361d
+33 PASCAL: Geometrical Demonstration, 434a- 439b
+34 NEWTON: Principles, BK i, LEMMA i 25a; LEMMA ii, SCHOL, 31a-32a
+35 LOCKE: Human Understanding, BK II, CH xv, SECT 9 164b-d; en xvi, SECT 3-4 165d-166b
+35 BERKELEY: Human Knowledge, SECT 123-152 437c-439c
+42 KANT: Pure Reason, 66d-72c; 124d-125b; 135a-137a,c; 152a-d; 161d-163a
+51 TOLSTOY: War and Peace, BK xi, 469a-d
+
+3. Method in mathematics - the model of mathematical thought
+
+7 PLATO: Meno, 179d-183a / Republic, BK vi, 387b-d / Theaetetus, 515b-c
+8 ARISTOTLE: Prior Analytics, BK i, CH 41 [49** 32-50*4] 68c / Posterior Analytics, BK i, CH 10 104d-105d / Physics, BK II, en 9 [200*15-29] 277c-d / Metaphysics, BK III, CH 2 [996*22- 36] 514d-515a; BK ix, on 9 [1051*22-34] 577b-c; BK xi, CH 3 [io6i a 29- b 4] 589c; BK xni, CH 3 609a-610a
+9 ARISTOTLE: Ethics, BK III, CH 3 [ni2 b 2o-24] 358d
+11 ARCHIMEDUS: Method 569a-592a esp 569b- 570a
+23 HOBBES: Leviathan, PART i, 56b; 58a-c; 59b c
+28 GALILEO: Two New Sciences, FOURTH DAY, 252a-b
+30 BACON: Advancetncnt of Learning, 65b / Novum Otganum, BK i, APH 59 112b-c
+31 DESCARTES: Rules la-40a,c csp n 2a-3b, iv, 5c-7d, xiv-xxi 28a-40a,c / Discourse, PART H, 46c-48b / Meditations, 73a / Objections and Replies, 128a-129a / Geometry 295a-353b esp BK i, 295a-298b, BK II, 304a-306a, 316a-317a, BK III, 331b, 353a
+31 SPINOZA: Ethics, PART i, APPENDIX, 370b-c
+33 PASCAL: Pensees, 1-3 171a-172b / Geometrical Demonstration, 430a-434a; 442a-446b / Arithmetical Triangle, 451b-452a; 458b-459b; 464a- 466a
+34 NEWTON: Principles, BK 11, LEMMA 2 and SCHOL 168a-170a
+35 LOCKE: Human Understanding, BK iv, CH n, SECT 9-10 311b-c; CH in, SECT 18-20 317d- 319c passim; SECT 29-30 322c-323c passim; CH iv, SECT 6-9 325a-326b; CH vn, SECT n, 340c-341a; CH XH, SECT 1-8 358c-360c passim; SECT 14-15 362d-363b; CH xvn, SECT n 378b
+35 BERKELEY: Human Knowledge, INTRO, SECT 12 408a-b; SECT 19 410c; SECT 118-132 436b- 439c passim
+35 HUME: Human Understanding, SECT iv, DIV 20 458a-b; SECT vn, DIV 48 470d-471c; SECT XH, DIV 131 508d-509a
+36 SWIFT: Gulliver, PART in, 118b-119a
+42 KANT: Pure Reason, 5a-8d; 17d-18d; 46a-b; 211c-218d / Practical Reason, 302d-303b; 330d-331a / Science of Right, 399a-b
+43 MILL: Liberty, 283d-284a
+45 LAVOISIER: Elements of Chemistry, PREF, 2b
+45 FOURIER: Theory of Heat, 172a-173b
+51 TOLSTOY: War and Peace, BK xi, 469a-d; EPILOGUE n, 695b-c
+53 JAMES: Psychology, 175a-176a; 874a 878a
+
+3a. The conditions and character of demonstration in mathematics - the use of definitions, postulates, axioms, hypotheses
+
+7 PLATO: Mcno, 183b-c / Republic, BK vi, 386d- 388a; BK VII, 397c-d
+8 ARibTorLh - Prior Analytics, BK i, CH 41 [\(?> 32-37] 68c / Posterior Analytics, BK i, CH i [71*1-16] 97a-b; CH 2 [72*22-24] 98d; CH 5 101b-102b; en 10 104d-105d; CH 12 106c-107c; CH 23 [84^9] llSb-c; CH 24 [8 5 n 2o-3i] 116b<c;[85 b 4-i 4 ]116d-117a; [86*22-30] 117d- 118a; en 31 187^3-39] 120a; BK II, CH $ [91*1- 5] 124b; en 7 [92^12-25] 126c-d; CH 9 [9^21- 25] 128a-b / Topics, BK i, CH i [roi a 5~i7] 143c-d; BK v, en 4 [i ^32-34] 183b; BK vi, 0114 [i4i b 3-22J194d-195a; BKVII, CH 3 [153*6- n] 208a-b; BK VIII, cn i [157^1-3] 213a; en } [i58 l) 29-i59 tt i] 215c / Sophistical Refutations, cn n [I7i b i2-i8]236b;[i7i b 34-i72' l 7]236d/ Physics, BK II, CH 9 [2oo tt i5-29] 277c-d / Heavens, UK in, CH 4 (302 b 27-3i] 394a / Metaphysics, BK HI, CH 2 [996*2 1-36] 514d- 515a; [990 h i8-2ij 515b; CH 3 [998^5-27! 517a; BK v, cn 5 [1014*36^1] 534c; BK VII, CH 10 [io^b ll 2 -i}| 559b-c; BK xi, CH 3 [io6i a 29^4] 589c; cn 4 [io6i b i7-25] 589d-590a; CH 7 [io63 b 36-io64 ft 9] 592b; BK xni, CH 2 [io77 b il-cH 3 [1078^2] 608d-609d; BK xiv, CH 2 [1089^2-26] 621c-d
+9 ARISTOTLE: Generation of Animals, BK 11, CH 6 [742 b 23-33] 283d-284a / Ethics, BK VII, CH 8 [ii5i tt i5-i9] 402a
+11 EUCLID: Elements la-396b esp BK i, DEFINI- TIONS-COMMON NOTIONS la~2a
+11 ARCHIMEDES: Sphere and Cylinder, BK i, DEFI- NITIONS-ASSUMPTIONS 404a-b / Spirals, 484b / Quadrature of the Parabola, 527a-b / Method, 569b-570a; PROP i 571a-572b csp 572b
+19 AQUINAS: Summa Theologica t PART i, Q 85, A 8, REP 2 460b-461b
+23 HOBBES: Leviathan, PART i, 56b; 58a-c; 59b-c
+28 GILBERT: Loadstone, PREF, Ib-c
+28 GALILEO: Two New Sciences, FOURTH DAY, 252ab
+31 DESCARTES: Rules, n, 3a; xiv-xxi 28a-40a,c / Discourse, PART i, 43b-c; PART II, 46d; 47b-c; PART iv, 52d-53a / Mediations, 70b-d; 73a; 58 v, 93a-d / Objections and Replies, 128a-d / Geometry, BK 11, 304a-b; 316a-b; BK III, 353a
+33 PASCAL: Pensees, 1-5 171a-173a / Vacuum, 365b-366a; 373a-b / Geometrical Demonstration, 430a-434a; 442a-446b / Arithmetical Triangle, 451b-452a; 458b-459b; 464a-466a
+34 NEWTON: Principles, la-b
+34 HUYGENS: Light, PREF, 551b-552a
+35 LOCKE: Human Understanding, BK II, CH xvi, SECT 4 166a-b; BK iv, CH i, stcr 9 308c-309b; CH n, SECT 9-10 311b-c; en in, SECT 29, 322c; CH vn, SECT ii, 340c-341a; CH xn, SECT 1-8 358c-360c passim; SECT 14-15 362d-363b
+35 BERKELEY: Human Knowledge, INTRO, SECT 12 408a-b; SECT 15-16 409a-d; SECT 118 436b-c
+35 HUME: Human Understanding, SECT vn, DIV 48 470d-471c; SFCT xn, DIV 131 508d-509a
+42 KANT: Pure Reason, 17d-18d; 46a-b; 68a-69c; 91c-d; llOa; HOd-llla; 211c-218d / Practical Reason, 302d-303b; 330d-331a / Pref. Metaphysical Elements of Ethics, 376c-d
+43 FEDERALIST: NUMBER 31, 103c
+43 MILL: Utilitarianism, 445 b-c
+45 LAVOISIER: Elements of Chemistry, PREF, 2b
+53 JAMES: Psychology, 869a-870a; 874a-878a
+
+3b. The role of construction - its bearing on proof, mathematical existence, and the scope of mathematical inquiry
+
+7 PLATO: Meno, 180b-182c / Republic, BK vi, 387b-c
+8 ARISTOTLE: Heavens, BK i, CH 10 [279^32- 280*12] 371 b-c / Metaphysics, BK ix, CH 9 [1051*22-34] 577b-c
+11 EUCLID: Elements, BK i, POSTULATES, 1-3 2a; PROP i 2b-3a
+23 HOKBES: leviathan, PART iv, 267a~b
+31 DESCARTES: Rules, xiv-xvin 28a-39d / Geometry, BK II, 304a-306a; 316a-b; BK III, 331b-332b
+33 PASCAL: Vacuum, 373a b
+34 NEWTON: Principles, la-b
+42 KANT: Pure Reason, 31b-d; 68a-69c; 86b-c; 91c-d; 94b-95a; 211c-215a; 217c-d / Science of Right, 399a-b / Judgement, 551a-553c
+53 JAMES: Psychology, 673b
+
+3c. Analysis and synthesis - function and variable
+
+9 ARISTOTLE: Ethics, BK III, CH 3 [ni2 b 2o-24] 358d
+11 ARCHIMEDES: Sphere and Cylinder, BK II, PROP i 434b-435b; PROP 3-7 437a-443b / Method, 569b-570a; PROP i, 572b
+11 APOLLONIUS: Conies, BK ii, PROP 44-47 710b- 713a; PROP 49-51 714b-726a; BK III, PROP 54- 56 793b-798b
+31 DESCARTES: Rules, iv, 5c-7a; vi 8a-10a; xn, 20d-23b; 24a-b; xm 25b-27d; xiv, 31a-33b; xvi-xxi 33d-40a,c / Objections and Replies, 128a-d / Geometry 295a-353b csp BK i, 296b- 297b, 298b-304a, BK II, 308a 314b
+33 PASCAL: Geometrical Demonstration, 430a
+34 NEWTON: Principles, BK i, LEMMA 19 57b-58b / Optics, BK III, 543a-b
+35 LOCKE: Human Understanding, BK iv, CH xn, SECT 15 363a-b; CH xvn, SECT n 378b
+45 LAVOISIER: Elements of Chemistry, PREF, la; 2b
+45 FOURIER: Theory of Heat, 172a-173b; 196a- 251b
+
+3d. Symbols and formulae - the attainment of generality
+
+8 ARISTOTLE: Prior Analytics, BK i, CH 41 [49^2-37] 68c / Posterior Analytics, BK i, CH 10 [76 b 39-77 a 2] 105d
+11 NICOMACIIUS: Arithmetic, BK II, 832a
+23 HOBBES: Leviathan, PART i, 56a
+31 DESCARTES: Rules, xiv-xxi 28a-40a,c / Discourse, PART II, 46d; 47b-d / Geometry 295a- 353b esp BK i, 295a-298b, BK II, 314a-b, BK III, 353a
+35 LOCKE: Human Understanding, BK iv, CH in, SECT 19 318b-319a
+35 BERKELEY: Human Knowledge, INTRO, SECT 16 409b-d; SECT 121-122 436d-437c
+42 KANT: Pure Reason, 68a-69c; 211d-212a; 212d-213a
+45 FOURIER: Theory of Heat, 172b-173b; 181a-b; 233b-240b
+
+4. Mathematical techniques
+
+    [sem referências]
+
+4a. The arithmetic and algebraic processes
+
+8 ARISTOTLE: Topics, BK VIII, CH 14 [i63 b 2}-28] 222b
+11 EUCLID: Elements, BK vii-ix 127a-190b
+11 ARCHIMEDES: Measurement of a Circle, PROP 3 448b-451b / Conoids and Spheroids, LEM- MA 455b-456a; LEMMA to PROP 2 456b-457b / Spirals, PROP 10-11 488a-489b / SandReckoner 520a-526b
+11 NICOMACHUS: Arithmetic, BK i, 814b-821d
+16 KEPLER: Epitome, BK v, 990a b
+23 HOBBES: Leviathan, PART i, 56a; 58a-b
+28 GALILEO: Two New Sciences, SECOND DAY, 193bc
+31 DESCARTES: Rules, xvi 33d-35c; xvm 36b- 39d / Discourse, PART 11, 46d; 47b-d / Geometry, BK i, 295a-296a
+33 PASCAL: Arithmetical Triangle 447a-473b esp 451b-452a, 458b-459b, 464a-466a / Correspondence with Fermat 474a-487a passim
+35 LOCKE: Human Understanding, BK iv, CH xvn, SECT ii 378b
+35 BERKELEY: Human Knowledge, INTRO, SECT 19 410c; SECT 121-122 436d-437c
+42 KANT: Pure Reason, 17d-18d; 68a-69c; 212d- 213a; 217c-d
+53 JAMES: Psychology, 874b-876b
+
+4b. The operations of geometry
+
+7 PLATO: Meno, 180b 183c / Republic, BK vi, 387b-c
+8 ARISTOTLE: Categories, CH 7 [7^29-33] 12c-d
+11 EUCLID: Elements, BK i-iv la-80b esp BK i, POSTULATES 2a, PROP 1-4 2b-4b, PROP 9-12 7a-9a, PROP 22-23 13b-15a, PROP 31 19b, PROP 42 24b-25a, PROP 44-46 2Sb-28a, BK II, PROP 14 40a-b; BK vi 99a~126a esp PROP 9-13 106b-109a, PROP 18 112a-b, PROP 25 119a-b, PROP 28-29 121a-123a; BK XI-XHI 301a-396b
+11 ARCHIMEDES: Sphere and Cylinder, BK i-n 403a-446a / Measurement of a Circle 447a- 451b / Conoids and Spheroids 452a-481b / Spirals 482a-501a / Quadrature of the Parabola 527a-537b / Boof( of Lemmas 561a-568b
+11 APOLLONIUS: Conies 603a-804b esp BK i, PROP 11-13 615a-620a
+28 GALILEO: Two New Sciences, FIRST DAY, 149d-150d
+31 DESCARTES: Rules, xvi 33d-35c; xvm 36b- 39d / Discourse, PART iv, 52d-53a / Geometry 295a-353b esp BK i, 295a-296a, 297b 298b, BK ii, 304a-308a
+34 NEWTON: Principles, la-b; BK i, LEMMA 15- PROP 29, SCHOL 50a-75b esp LEMMA 19 57b- 58b
+42 KANT: Judgement, 551a-552a
+53 JAMES: Psychology, 550b [fn i]; 673b; 876b- 878a
+
+4c. The use of proportions and equations
+
+8 ARISTOTLE: Posterior Analytics, BK II, en 17 [99*8-10] 135a / Topics, BK VIII, CH 3 [i58 b 29- 351 215c
+9 ARISTOTLE: Ethics, BK II, CH 6 [1106*26-36] 351d-352a; BK v, CH 3 [n3i a 3O- b i5] 378d- 379b
+11 EUCLID: Elements, BK v-vi 81a-126a esp BK v, DEFINITIONS, 5 81a, 7 81a-b, BK vi, PROP 23 117a-b; BK VII, DEFINITIONS, 20 127b; PROP 11-14 134b-136a; PROP 17-22 137a-140a; PROP 33 145a-146a; BK VIII, PROP 1-13 150a- 161b; PROP 18-27 163b-170a; BK ix, PROP 8-13 174a-180a; PROP 15-19 181a-183b; PROP 35-36 188b-190b; BK x, PROP 5-9 195a-198b; PROP ii 199b; PROP 14 201a-202a; BK xi, PROP 25 320b-321b; PROP 32-34 327b-332b; PROP 37 335b-336a; BK xu 338a-368b
+11 ARCHIMEDES: Conoids and Spheroids, PROP 4 459b-460b
+11 APOLLONIUS: Conies 603a-804b passim
+11 NICOMACHUS: Arithmetic, BK I-H, 821d-831d; BK II, 841c-848d
+16 KEPLER: Harmonies of the World, 1012b- 1014b
+31 DESCARTES: Rules, vi 8a-10a; xiv, 28b-29a; xvm-xxi 36b-40a,c / Discourse, PART ii, 47b-d / Geometry 295a-353b esp BK III, 33 2 b- 341b
+51 TOLSTOY: War and Peace, BK xiv, 590a-c
+
+4d. The method of exhaustion - the theory of limits and the calculus
+
+11 EUCLID: Elements, BK x, PROP i 191b~192a; BK xu, PROP 2 339a-340b; PROP 10-12 351b- 359a; PROP 18 367a-368b
+11 ARCHIMEDES: Sphere and Cylinder, BK i, AS- SUMPTIONS, 5 404b; PROP 13-14 411a-414a; PROP 33-34 424b-427a; PROP 42 431b-432b; PROP 44 433a-b / Measurement of a Circle, PROP i 447a-448a / Conoids and Spheroids, PROP 4 459a-460b; PROP 21-22 470a-471b; PROP 25-30 473a-479b / Spirals, PROP 18-20 492b-495b; PROP 24-27 496b-500a / Equilibrium of Planes, BK, i, PROP 6-7 503b-504b / Quadrature of the Parabola 527a-537b esp PROP 16 533b-534a, PROP 24 537a-b / Method 569a-592a passim
+16 KEPLER: Epitome, BK v, 973a~975a; 979b- 983b
+28 GALILEO: Two New Sciences, SECOND DAY, 193b-194d; THIRD DAY, 205b-d; 224b-c
+31 DESCARTES: Geometry, BK II, 316b-317a
+33 PASCAL: Equilibrium of Liquids, 395a*b
+34 NEWTON: Principles, BK i, LEMMA i-n and SCHOL 25a-32a esp LEMMA n, SCHOL, 31a-b; BK II, LEMMA 2 and SCHOL 168a-170a
+45 FOURIER: Theory of Heat, 172b; 177a; 181a-b; 221a-248b
+51 TOLSTOY: War and Peace, BK xi, 469a-d; EPILOGUE n, 695b
+
+5. The applications of mathematics to physical phenomena - the utility of mathematics
+
+7 PLATO: Republic, BK VII, 391b-398c; BK VIII, 403b-d; BK ix, 424d-425b / Timaeus, 448b- 450a; 453b-454a / Statesman, 585a-b / Philebus, 633c-d / Laws, BK v, 691d-692a; 695c- 697a; BK VII, 728b-730d
+8 ARISTOTLE: Posterior Analytics, BK i, CH 9 [76-3-25] 104b-d; CH 13 [78^1-79*16] 108b-c; CH 27 [87*32-33] 119b / Physics, BK II, CH 2 [194*7-11] 270b-c; BK VII, CH 5 333a-d / Heavens, BK ii, CH 14 [297*4-7] 388c/ Meteorology, BK III, CH 3 477a-478a; CH 5 480a- 481c/ Metaphysics, BKIII, CH2 [997 b i2-998 a i9] 516b-d
+9 ARISTOTLE: Gait of Animals, CH 9 247a-248a / Politics, BK v, CH 12 [1316*1-17] 518d-519a
+11 ARCHIMEDES: Equilibrium of Planes 502a< 519b / Floating Bodies 538a-560b
+11 NICOMACHUS: Arithmetic, BK i, 812d-813a
+14 PLUTARCH: Marcellus, 252a-255a
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK i, 510b
+16 KEPLER: Epitome, BK v, 964b-965a
+18 AUGUSTINE: Confessions, BK v, par 3-6 27c- 28c / Christian Doctrine, BK II, CH 29 650d- 651c 60 5a to 5b
+19 AQUINAS: Summa Theologica, PART i-n, Q 35, A 8, ANS 779c-780c
+20 AQUINAS: Summa Theologica, PART II -n, Q 9, A 2, REP 3 424b-425a
+23 HOBDES: Leviathan, PART i, 73b; PART iv, 267a-b; 268c-d
+24 RABELAIS: Gargantua and Pantagruel, BK iv, 278b
+28 GALILEO: Two New Sciences, FIRST DAY, 131d- 132a; SECOND DAY-FOURTH DAY 178a-260a,c
+30 BACON: Advancement of Learning, 46b-c
+31 DESCARTES: Rules, iv, 7a-b; xiv, 31b-d / Discourse, PART i, 43b-c / Objections and Re- plies, 169c-170a / Geometry, BK II, 322b-331a
+34 NhwroN: Principles, ,la-2a; DEF vui 7b-8a; COROL n 15a-16b; BK i, PROP 69, SCHOL, 131a; BK III 269a-372a
+34 HUYGENS: Light 551a-619b
+35 BERKELEY: Human Knowledge, SECT 120 436d; SECT i }i 439b c
+35 HUME: Human Understanding, SECT iv, DIV 27 460c-d
+36 SWIFT: Gulliver, PART II, 78b; PART in, 94b- 103a
+40 GIBBON: Decline and Fall, 661c-662c
+42 KAN r - Pure Reason, 68a-69c / Practical Reason, 300d [fn i]; 330d-331a / Judgement, 551a-552a
+45 FOURIER: Theory of Heat, 169a-173b; I75b; 177a-251b esp 183a-184a
+45 FARADAY: Researches in Electricity, 831b-c
+51 TOLSTOY: War and Peace, BK xi, 469a-d; BK xiv, 589c-590c; 609b; EPILOGUE n, 694d-695c
+53 JAMES: Psychology, 348a-359a; 882a-884b
+
+5a. The art of measurement
+
+5 ARISTOPHANES: Birds [992-1020] 555a-b
+6 HERODOTUS: History, BK II, 70b-c; BK iv, 139b-c
+7 PLATO: Republic, BK x, 431b-d / Statesman, 594a-595a / Philebus, 633a-634d / Laws, BK v, 691d-692a; 695c-697a
+8 ARISTOTLE: Physics, BK iv, CH 12 [220^5-31] 300c-d; CH 14 [223 b i2-224 fl i] 303c-d; BK VII, CH 4 330d333a / Heavens, BK II, en 14 [298"! 5 20] 389d / Metaphysics, BK III, CH 2 [997 b 27-3$] 516c; BK v, CH 6 [ioi6 b i8-3i] 537b; BK x, CH i [io52 b i 5-1 053*31] 579a- 580a
+11 EUCLID: Elements, BK v 81a-98b esp DEFINI- TIONS, 5 81a, 7 81b; BK VH, DEFINITIONS, 20 127b
+11 ARCHIMEDES: Sand-Reckoner 520a-526b
+13 VIRCJIL: Aeneid, BK vi [847-853] 233b-234a
+16 PTOLEMY: Almagest, BK i, 14a-28b; BK II, 38b-39b; BK v, 143a-144a; 165a-176a; BK VIIvin, 233a-258b
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK i, 532b-556b; BK II, 558b-559b; 567b; 586b-621b; BK iv, 705a-725a
+19 AQUINAS: Summa Theologica, PART i, Q 3, A 5, REP 2 17c-18b; Q 10, A 6, ANS and REP 4 45c- 46d; Q 66, A 4, REP 3 348d-349d
+28 GILBERT: Loadstone, BK iv, 85c-89c; BK v, 92a-95a
+28 GALILEO: Two New Sciences, FIRST DAY, 136d-137c; 148d-149c; 164a-166c; THIRD DAY, 207d-208c
+28 HARVEY: Motion of the Heart, 286c-288c
+30 BACON: Novum Organum, BK II, APH 44-48 175d-188b
+31 DESCARTES: Rules, xiv, 31b-33b / Geometry, BK i, 296a
+33 PASCAL: Great Experiment 382a-389b
+34 NEWTON: Principles, la-b; LAWS or MOTION, SCHOL, 20a-22a; BK II, GENERAL SCHOL 211b- 219a; PROP 40, SCHOL 239a-246b
+34 HUYCJLNS: Light, CH i, 554b-557b
+35 LOCKE: Human Understanding, BK II, CH xvi, SECT 8 167c
+39 SMITH: Wealth of Nations, BK i, 14b
+42 KANT: Judgement, 497a-498d esp 498b-d
+45 LAVOISIER: Elements of Chemistry, PART i, 14a-c; 33b-36a; 41a-44d; PART in, 87d-90a; 91a-95a; 96b 103b
+45 FOURIER: Theory of Heat, 184b-185b; 249a- 251b
+50 MARX: Capital, 20b
+
+5b. Mathematical physics - the mathematical structure of nature
+
+7 PLATO: Timaeus, 448b-4SOa; 453b-454a; 458a-460b
+8 ARISTOTLE: Posterior Analytics, BK i, CH 9 104b-d; CH 13 [78^1-79*16] 108b-c / Physics, BK ii, CH 2 [194*7-11] 270b-c / Heavens, BK III, CH i [299*1-300*19] 390b-391c / Metaphysics, BK i, CH 9 [992*29 - b 9] SlOc-d; BK II, CH 3 [995*15-17] 513d; BK III, CH 2 [997 b i2- 998*19] 516b-d; BK xn, CH 8 [io73 b i-i7] 603d-604a; BK xin, CH 3 609a-610a
+11 NIOOMACHUS: Arithmetic, BK i, 812b-d; 813d- 814a
+16 KEPLER: Epitome, BK iv, 863b-872b / Harmonies of the World, 1023b-1080b passim
+16 PTOLEMY: Almagest, BK i, 5b-6a
+19 AQUINAS: Summa Theologica, PART i, Q i, A i, REP 2 3b-4a; Q 32, A i, REP 2 175d-178a; PART i-n, Q 35, A 8, ANS 779c-780c
+20 AQUINAS: Summa Theologica, PART II-H, Q 9, A 2, REP 3 424b-425a
+23 HOBBES: Leviathan, PART i, 72a-d; PART iv, 268c-d
+28 GALILEO: Two New Sciences, FIRST DAY, 131b-132a; 133b; FOURTH DAY, 245b-d; 252a b
+30 BACON: Advancement of Learning, 46b-c / Novum Organum, BK 11, APH 8 140b
+31 DESCARTES: Rules, iv, 7a-c / Discourse, PART i, 43b-c; PART in, 50d / Objections and Replies, 169c-170a
+33 PASCAL: PensSes, 119 195a 5b
+34 HUYGENS: Light, PREP, 551b~552a
+34 NEWTON: Principles, la-2a; DBF vm 7b-8a;
+35 BERKELEY: Human Knowledge, SECT 119
+35 HUME: Human Understanding, SECT iv, DIV
+42 KMIT: Judgement, 551a-552a BK i, lllb; PROP 69, SCHOL, 131aj BK III,
+45 FARADAY: Researches in Electricity, 831b-c
+45 FOURIER: Theory of Heat, 169a-b; 172a-173b; 269a; GENERAL SCHOL, 371b 372a 175b; 177a; 183a 184a
+52 DOSTOEVSKY: Brothers Karamazov, BK v, 436c 121a-b
+53 JAMES: Psychology, 126a~b; 348a*359a; 675b; 27 460c-d 876a-b; 882a 884b <ref_end>
+
+
+ADDITIONAL READINGS
+
+Listed below are works not included in Great Booty of the Western World, but
+
+idea and topics with which this chapter deals. These works are divided into
+
+I. Works by authors represented in this collection.
+
+II. Works by authors not represented in this collection.
+
+For the date, place, and other facts concerning the publication of the works
+
+the Bibliography of Additional Readings which follows the last chapter of Th
+
+J. S. MILL. A System
+
+*'
+
+. An Examination AQUINAS. On the Trinity of Boethius, QQ 5-6 Philosophy, CH 27
+HOBBES. Six Lessons to the Savilian Professors of
+
+Mathematics NEWTON. The Method of Fluxions and Infinite Series R. BACON. Opus
+Majus, PAR
+
+. Universal Arithmetic ORME. Treatise on the Bre BERKELEY. A Defence of Free
+Thinking in Mathe- SUAREZ. Disputationes Met
+
+matics XL (3, 5-6), XLI (4), X KANT. Prolegomena to Any Future Metaphysic, par
+BARROW. Lectiones Mathema
+
+6-13 . Thirteen Geome HEGEL. The Phenomenology of Mind, INTRO LEIBNITZ. Early
+Mathemati
+
+61 551a-552a f Heat, 169a-b; 172a-173b; 3a 184a es in Electricity, 831b-c ers
+Karamazov, BK v, , 126a-b; 348ab359a; 675b; ; i foundations ee NECESSITY s, see
+BEING ded, see s and inite and infinite E 3a-3C. ESIS 3; chniques TY 1b, role of
+meas- , 6c; relevant to the two groups: cited, consult e Great Ideas. of Logic,
+BK i, CH 5 of Sir William Hamilton's " T iv adth of Forms aphysicae, iv (9), x
+(3), LVII (13) ticae trical Lectures cal Manuscripts
+
+62 SACCHLRI. Euclides Vindicates ( Vindication of Euclid) O. VhBLLN and LENNES.
+Introduction to Infinite VOLTAIRE. "Geometry," in A Philosophical Dic- Analysis
+
+tionary KLLIN. Famous Problems of Elementary Geometry EULER. Elements of Algebra
+Elementary Mathematics from an Advanced
+
+.
+
+CARNOT. Reflexions snr la metaphysique du calciil in- Standpoint
+
+finitesimal PoiThNfckRL Science and Hypothesis, PARI
+
+GAUSS. Vntersuchungen uber Cohere Anthmetik The Value of Science, PART i, cir i;
+PAR
+
+.
+
+SCHOPI NMAUhR. The World as Will and Idea, VOL 11, Science and Method, BK i, en
+2-3; BK n,
+
+.
+
+SUP, en 1 3 C \SSIRLR. Substance and Function, PARI i, en DE MORGAN. On the
+Study and Difficulties of Mathe- Sl'P \I
+
+matics E. V. IIuNTiNoroN. The Continuum, and Other Ty COMTE. The Philosophy of
+Mathematics of Serial Order
+
+The Positive Philosophy, BK i
+
+. The Fundamental Propositions of Algebr
+
+.
+
+LOBACIIEVSKI Geometrical Researches on the Theory J. \V. YOUNG Lectures on
+Fundamental Concepts
+
+of Parallels Algebra and Geometry WIIEWELL. The Philosophy of the Inductive
+Sciences, JOUKDMN. The Nature of Mathematics
+
+VOL I, BK II, CH 11-12, 14 O. Vi BLI N and YOUNG. Projativc Geometry G. PLACOCK.
+A Treatise on Algebra B. RIJSSLIL. Pumiplt''; of Mathematics, en i B. PEIRCE. An
+Elementary Treatise on Curves, func- Philosophical E**ay*, en 3
+
+.
+
+tions, and Forces My*tiam and Logic, CH k-5
+
+.
+
+W. R. HAM [LI ON. Lectures on Quaternions Intfoduction to Mathematical
+Philosophy,
+
+.
+
+RICMVNN. Vbcr die Ilypothcsen wclchc do Geometric N. R. (kA\ii'Bi L. What Is
+Scicmt'V* en 6-7
+
+i
+
+zu Grundc liegen (The Hypotheses of Geometry) MARI MN i . in Introduction to Ph
+
+BOOLE. A Treatise on Different tal Equations . Thta this, (Confirmations of a
+
+A Treatise on the Calculus of Finite Differences
+
+. NIC on Foundation of G comet t y and Indm tio DEDLKIND. E*saks on the Theory
+of Numbers \YiniriiLkn. A Treatise on Uwretuil Algebra CLIM-ORD. Preliminary
+Sketch of Bujuaicrrnons . An IntrodiKtion to Mathematics
+
+.On the Canonical Form and Dissection of a . Science and the Modem \Votld
+
+Ricrnann's Surface Ci. N. I.LNVIS. The Anatomy of Sucine, LSSAY i JLVONS. On
+Geometrical Reasoning IIiiHLRi and A(.KIRMAN. Gmneknge der thcorctiLEWIS
+CARROLL. Euclid and His Modern Rivals schen Logil{ GIBBS. Collected Wor{s Burn
+\\ \\. Poetr y and Mathematics C. S. PEIRCE. Collected Papers, VOL in, par
+553-5621, M. R. COHLN Reason and Nature, BK n, en
+
+609-645 A. E. TAkLOR. Philosophical Studies, en in
+
+FREGE. Grundgesetze der Anthrnetuk CJILSON. The Unity of Philosophical
+tiipcncnce BURNSIDE. Theory of Groups of Finite Order DEWEV. Logic, the Theory
+of Imjmry, en 20 CANTOR. Contributions to the Founding of the Theory C \KNAP.
+Foundation oflj)gic and Mathematics *
+
+of Transfmitc Numbers BLLL. The Development of Mathematics
+
+HILBERT. The Foundations of Geometry G. II. HkRDV. A Course of Pure Mathematics
+PtANo. Arithmetics Pnncipia . A Mathematician's Apology . Formulatt e de
+rnathernatique K \SkER and NLWMkN. Mathematics and the Imag, Anthmelica generate
+e algebra elementarc ination
+
+BONOLA. Non-Euclidean Geometry G)URAM ,md ROBBINS. What It Mathematics'?
+
+E. W. HOBSON. The Theory of Functions of a Real WEYL. The Philosophy of
+Mathematics and Natura Variable and the Theory of Fourier's Series Science
+
+simal
+
+11 T u en } 2 3; pes a of rn 18 ilosophy, p \R i 1 1
+
+( ]) Sage, vi n CH 2 -n
+
+i , CH 5 l

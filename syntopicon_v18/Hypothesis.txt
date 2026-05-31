@@ -282,3 +282,248 @@ NORTHROP. Science and First Principles
 
 EINSTEIN. On the Method of Theoretical Physics FISHER. The Design of Experiments
 DEWEY. Logic, the Theory of Inquiry, CH 7
+
+REFERENCES
+============================================================
+
+1. The use of hypotheses in the process of dialectic
+
+7 PLATO: Charrmdes, 9d-10a / Protagoras, 49a / Meno, 183b-190a,c / Phaedo, 242b-243c / Republic, BK iv, 350d-351b; BK vi, 383d-388a esp 386d-388a; BK VII, 397a-398c / Ttmaeus, 462b-c / Parmemdes, 491a-511d / Sophist, 570a-d
+8 ARISTOTLE* Prior Analytics, BK i, CH i [24*21- b i6] 39a-c / Posterior Analytics, BK i, CH[75*18-28] 103a-b / Topics 143a-223a,c esp BK i, CH 1-3 143a-144b, CH IO-H 147b-148c, CH 14 149a-d, BK VIIi 211a-223a,c
+12 EPICTETUS: Discourses, BK i, CH 7 112b-113d
+42 KANT. Pure Reason, 227a-230c esp 227d-228b / Science of Right, 457 a-b / Judgement, 603b-c
+
+2. Hypothetical reasoning and hypothetical constructions in philosophy
+
+7 PLATO: Meno, 183b-190a,c / Phaedo, 242b- 243c / Republic, BK vi, 386d-388a; BK VII, 397a-398c / Parmemdes, 491a-511d
+8 ARISTOTLE: Posterior Analytics, BK i, CH[72*19-21] 98d; BK II, CH 6 125d-126b / Heavens, BK i, CH 12 [28i b 3-25] 373a-b / Metaphysics, BK iv, CH 3 [ioo5 b 5-i7] 524c-d
+19 AQUINAS: Summa Theologtca, PART i-n, Q 14, A 6, ANS 680c-681a
+25 MONTAIGNE: Essays, 258d-259a
+31 DESCARTES' Rules, xn, 23a-c / Discourse, PART II-iii, 44c-50b passim; PART vi, 66a-b / Meditations, 72b,d; i-n, 75a-78a / Objections and Replies, 123d-124c
+35 LOCKE. Civil Government, CH i, SECT i 25a-c / Human Understanding, BK II, CH i, SECT123b-d; CH xm, SECT 19-20 152c-d; CH xxm, SECT 1-2 204a-c
+35 HUME: Human Understanding, SECT xi, DIV 107 499c-500b
+38 ROUSSEAU: Inequality, 3 2 9a -33 Id passim, esp 329d-330b; 333d-334a; 348a,c
+42 KANT. Pure Reason, 7a-d; 176d-177b; 186d- 187a; 194b-200c, 227a-230c; 232c-233d / Science of Right, 4$7a-b / Judgement, 603 b-c
+46 HEGEL: Philosophy of History, INTRO, 156d- 158a
+53 JAMES. Psychology, 84a-119b passim; 221a- 238b; 820b-827a; 880b-886a esp 884b-886a
+
+3. The foundations of mathematics - postulates, assumptions
+
+7 PLATO: Meno, 183b-c / Republic, BK vi, 386d- 388a; BK VII, 397c-d
+8 ARISTOTLE: Posterior Analytics, BK i, CH i [71*1-16] 97a-b; CH 2 [72*19-24] 98d; CH104d-105d; CH 12 [77*36^15] 106c-d; BK II, CH 9 [93 b 2i-25] 128a-b / Physics, BK i, CH[185*1-3] 259c-d / Heavens, BK III, CH[302 b 27~3i] 394a / Metaphysics, BK xi, CH4/04* (3. The foundations of mathematics; postulates, assumptions.) [io6i a 29- b 4] 589c; BK xm, CH 2 [io77 b n]- CH 3 [1078*31] 609a-d
+9 ARISTOTLE: Ethics, BK VII, CH 8 [1151*15-19] 402a
+11 EUCLID: Elements, BK i, POSTULATES-COMMON NOTIONS 2a
+11 ARCHIMEDES: Sphere and Cylinder, BK i, AS- SUMPTIONS 404b / Spirals, 484b / Quadrature of the Parabola, 527a-b
+31 DESCARIES- Rules, n, 2d-3b / Meditations, 73a / Geometry, BK II, 304a-305a; 316a b
+33 PASCAL- Pensees, 1-5 171a-173a / Vacuum, 365b-366a / Geometrical Demonstration, 430b- 439b passim, 442a-443b
+34 NEWTON: Principles, la-b
+34 HUYGENS: Light, PREF, 551b-552a
+35 LOCKE: Human Understanding, BK iv, CH xn, SECT 1-7 358c-360c passim
+42 KANT- Pwr<? Reason, 17d-18d; 24c-25b; 46a-c; HOa, 211c-218d esp 217a-c / Practical Reason, 302d-303b; 312c-d, 330d-331a / Pref. Metaphysical Elements of Ethics, 376c-d /Judgement, 551a-553c
+43 FEDERALIST: NUMBER 31, 103c-104a
+43 MILL: Utilitarianism, 445b-c
+45 FOURIER: Theory of Heat, 175b
+52 DOSTOEVSKY. Brothers Karamazov, BK v, 120d- 121b
+53 JAMES: Psychology, 869a-870a; 874a-878a
+
+4. The role of hypotheses in science
+
+7 PLATO: Meno, 183b-c / Republic, BK vi, 386d- 388a / Timaeus, 447a-d
+8 ARISTOTLK- Meteorology, BK i, CH 7 [344*5-9] 450b / Metaphysics, BK xn, CH 6 [io7i b i2]-CH 7 [io72 ft 22] 601b 602b; CH 8 603b-605a
+10 HIPPOCRATES: Prognostics, par i 19a-b; par26a,c
+16 COPERNICUS: Revolutions of the Heavenly Spheres, 505a-506a
+19 AQUINAS: Summa Theologica, PART i, Q 32, A i, REP 2 175d-178a; PART i-n, Q 14, A 6, ANS 680c-681a
+30 BACON: Novum Organum, BK i, APH 105-128b-c
+31 DESCARTES: Rules, xn, 23a-c / Discourse, PART vi, 66a-b
+33 PASCAL: Vacuum, 368b-370a
+34 NEWTON: Principles, BK III, RULE i 270a; RULE iv 271b; GENERAL SCHOL, 371b-372a / Optics, BK III, 543a b
+35 LOCKE: Human Understanding, BK iv, CH m, SECT 16 317a-c; CH xn, SECT 12-13 362a-d
+36 SWIFT: Gulliver, PART in, 118a-119a
+42 KANT: Pure Reason, 7a-d / Judgement, 603b-c
+45 LAVOISIER: Elements ofChemtstry, PREF, 2a-b; 6d-7a; PART i, 23b-c
+45 FOURIER: Theory of Heat, 184a
+45 FARADAY: Researclies in Ekctncity % 467a-b; 607a,c; 851a*c
+49 DARWIN- Origin of Species, 239c / Descent of Man, 590a
+51 TOLSTOY. War and Peace, BK xm, 563a-b
+53 JAMES Psychology, 324b; 862a-866a; 882a- 884b
+54 FREUD- Interpretation of Dreams, 3Slc / Nor* cissism, 400d-401a / Beyond the Pleasure Principle, 661c-662b
+
+4a. Theories, provisional assumptions, fictions, relocations
+
+7 PLATO. Meno, 183b-c / Republic, BK vi, 386d- 388a; BK VII, 397c-d / Timaeus, 447d-4SOc / Laws, BK VII, 730a-c
+8 ARISTOTLE: Posterior Analytics, BK i, CH[76 b 22~77 a 4] 105c-d / Heavens, BK i, CH[28i b 3-25] 373a-b; BK II, CH 5 379b-c / Metaphysics, BK vi, CH i [i025 b i-i3] 547b, BK xi, CH 7 [io64 ft 4~9] 592b; BK xn, CH 6 [ic>7i b i2]- CH 7 [1072*22] 601b-602b; CH 8 603b-605a
+11 ARCHIMEDES- Equilibrium of Planes, BK i, POSTULATES 502a-b / Floating Bodies, BK i, POSIULATE i 538a; POSTULATE 2 541 b
+16 PTOLEMY. Almagest, BK III, 83a; 86b-87a, BK ix, 270b-273a, 291a-292a; BK xm, 429a-b
+16 COPLRNICUS: Revolutions of the Heavenly Spheres, BK i, 513b-514b; BK III, 628b-629a; BK iv, 675b-678a, BK v, 740a-b, 784b-785b
+16 KEPLER. Epitome, BK iv, 863b-872b, 890b- 892a; 929a-b, 932a-933a, BK v, 964b; 966a- 967a, 984b-985b, 991a-994b / Harmonies o the World, 1023b-1080b
+19 AQUINAS: Summa Theologica, PART i, Q 32, A i, RFP 2 175d-178a
+25 MONTAIGNE- Essays, 258d-259a
+28 GILBERT- Loadstone, BK vi, 108b-110b
+28 GALILEO: Two New Sciences, SECOND DAY, 179c-d; THIRD DAY, 200a-d; 203d-205b; FOURTH DAY, 240d-241c
+28 HARVEY: Circulation of the Blood, 316a-318b passim, csp 316a-b / On Animal Generation, 383d
+30 BACON* Novum Organum, BK i, APH 66 114d- 115c; BK II, APH 36, 165d-166b; APH 46, 178c
+31 DLSCARTES: Rules, xii, 23a-c
+33 PASCAL Pensees, 72, l&2b/ Vacuum, 367 &-370a
+34 NFWTON. Principles, BK II, HYPOTHESIS 259a; BK III, HYPOTHESIS I 285a, HYPOTHESIS II 331b, GENERAL SCHOL, 371b-372a / Optics, BK i, 379a; BK III, 516a-544a esp 520a-522b, 525b-530b
+34 HUYGENS: Light, CH i, 557b-560b
+35 LOCKE: Human Understanding, BK iv, CH in, SECT 16 317a-c; CH xii, SECT 13 362c-d
+36 SWIFT: Gulliver, PART in, 118a-119a
+42 KANT: Pure Reason, 227d-228b / Science of Right, 457a-b / Judgement, 603b-c
+43 MILL: Utilitarianism, 445b-c
+45 LAVOISIER! Elements of Chemistry, PART i, 9a- lOb
+45 FARADAY: Researches in Electricity, 273a-277a; 758a-759c; 777d-778c; 830b-832c; 850b,d- 855a,c esp 850b,d-851c
+49 DARWIN: Origin of Species, 42a
+53 JAMES : Psychology, xiiib-xiva; 95a; 231b [fn 3]
+54 FREUD- Narcissism, 400 d -401 d / Instincts, 412a-b / General Introduction, 483d-485a / New Introductory Lectures, 818c-819b
+
+4b. The purpose of hypotheses - saving the appearances; the formulation of predictions
+
+7 PLATO: Meno, 183b-c / Republic, BK vi, 386d* 388a, BK vu, 397a-398c / Ttmaeus, 447a-d
+8 ARISTOTLE* Heavens, BK 11, CH 5 379b-c; BK III, CH 7 [}o6 a i 1 8] 397b-c / Meteorology, BK i, en 7 [344*5-9] 450b
+10 HIPPOCRAIES. Ancient Medicine, par i la-b / Prognostics, par i 19a-b, par 25 26a,c
+16 PTOLEMY: Almagest, BK III, 83a; BK ix, 270b- 273a; BK xin, 429a-b
+16 COPERNICUS: Revolutions of the Heavenly Spheres, 505a-506a
+16 KEPLER. Epitome, BK iv, 852a-b; 888b-890b; 911a-b; 929a; BK v, 964b
+18 AUGUSTINE- Confessions, BK v, par 4 27d-28a
+19 AQUINAS: Summa Theohgtca, PART i, Q 32, A i, REP 2 175d-178a
+28 GILBERT. Loadstone, BK vi, 119a-b
+28 HARVLY. Circulation of the Blood, 316a-b
+30 BACON: Novum Organum, BK II, APH 18, 149d; APH 36, 16Sd-166a
+31 DESCARTFS- Discourse, PART vi, 66a b
+32 MILTON: Paradise Lost, BK VIII [66-84] 233b- 234a
+34 NEWTON. Principles, BK III, GENLRAL SCHOL, 371b-372a / Optics, BK i, 379a 34HuYGFNs - Light, PREP, 551b-552a, CH i, 553a-b
+35 LOCKF- Human Understanding, BK iv, on in, SECI 16 317a-c, GH xn, SHCI 13 362c d
+35 BERKELEY Human Knowledge, SLGI433b-c
+35 HUME: Human Understanding, si ci iv, DIV460b-c; SECT ix, DIV 82 487b-c; SECI \i, DIV 107, 499d-500a
+36 STERNE. Tristram Shandy, 272b-273b
+38 ROUSSEAU. Inequality, 329d-330a, 333d 334a
+42 KANT Pure Reason, 228b-c / Science of Right, 457a-b
+45 LAVOISIER* Elements of Chemistry, PART i, 9d- lOa; PART ii, 62a-63a
+45 FARADAY- Researches in Electricity, 850 b,d- 851c
+49 DARWIN Origin of Species, 42a, 239c
+53 JAMES: Psychology, 357b; 367b [fn 5]; 655a; 862a-863a; 883a-884b
+54 FREUD: General Introduction, 483d-484a / Group Psychology, 686c-d / New Introductory Lectures, 840a-b
+
+4c. Consistency, simplicity, and beauty as standards in the construction of hypotheses
+
+16 PTOLEMY: Almagest, BK III, 93a; BK xin, 429a-b
+16 COPERNICUS: Revolutions of the Heavenly Spheres, 505a-506a; 507a-508a; BK iv, 675b- 678a esp 677b-678a; BK v, 740a-b; 784b-785b
+16 KEPLER: Epttome, BK iv, 888b-890a; BK v, 984b-985b
+42 KANT. Pure Reason, 227d-228d / Judgement, 551a-553c
+45 LAVOISIER: Elements of Chemistry, PART II, 62a-63a
+53 JAMES: Psychology, 655a-659a csp 655a, 657b- 658b
+54 FREUD: Narcissism, 400d-401a
+
+4d. The task of verification - the plurality of hypotheses
+
+6 HERODOTUS: History, BK II, 49a-c
+8 ARISTOTLE. Heavens, BK II, CH 14 387d-389d; BK HI, CH 7 [3o6 a 6-i8j 397b-c
+10 GALEN: Natural Faculties, BK i, CH 14, 177a- 178d
+11 ARCHIMEDES. SandReckoner, 520a-b
+12 LUCRETIUS: Nature of Things, BK vi [703-711] 89c-d
+16 PIOLEMY- Almagest, BK i, 9a-12b; BK III, 86b- 93a; BK iv, 120a-122b
+16 COPERNICUS- Revolutions of the Heavenly Spheres, 505a-506a, BK i, 514b-515b, BK III, 653b-656b
+16 KFPLI H Epitome, BK iv, 852a-b; 857b-860b, 907b-916a / Harmonies of the World, 1014b- 1016a
+18 AUGUSTINE: Confessions, BK v, par 3-6 27c-28r
+19 AQUINAS. Summa Thcologica, PARI i, Q 32, A i, REP 2 175d-178a
+28 GALILEO Two New Sciences, THIRD DAY, 203d-205b
+28 HARVEY- Motion of the Heart, 268d-273c esp 268d, 273c; 286b-304a,c esp 286b c, 295d- 296a / Circulation of the Blood, 311c 312c; 324c-d
+30 BACON- Novum Organum, BK II, APH 36 164a- 168d
+31 DESCARTES 'Discourse, PART vi,61d 62c;66a-b
+32 MILTON. Paradise Lost, BK VIII [66-178] 233b- 236a
+33 PASCAL. Vacuum, 368b-370a / Weight of Air, 404a-405b; 425a-429a
+34 NEWTON Principles, BK II, PROP 52, SCHOL, 265a-b; PROP 53, SCHOL 266a-267a; BK III, GENERAL sciiOL, 369a / Optics, Bk i, 453a- 455a; BK III, 525b-530b, 543a-b
+34 HUYGENS: Light, PREF, 551b-552a
+35 LOCKE - Human Understanding, BK iv, CH XH, SECT 13 362c-d
+36 SWIFT: Gulliver, PART in, 118b~119a
+42 KANT: Pure Reason, 8d [fn 2]
+43 MILL: Liberty, 283d-284b
+45 LAVOISIER: Elements of Chemistry, PREF, 2a-b
+45 FOURIER: Theory of Heat, 181b
+45 FARADAY: Researches in Electricity, 385b-c; 440b,d; 830b-832c
+49 DARWIN: Origin of Species, 42a-b; 239c
+53 JAMES: Psychology, 655a-659a esp 655a-b; 863a-865a, 882a-884b 58a-b; CH 29 62d-63d; CH 44 68d-69b; BK 11, CH 11-14 81b-84b / Posterior Analytics, BK II, CH 6 125d-126b
+19 AQUINAS: Summa Theologica, PART i, Q 14, A 13, REP 2 86d-88c; Q 19, A 8, REP 1,116a-d
+42 KANT: Pure Reason, 39c-41c esp 40d-41c; 51d-52a; llOd-lllc esp lllb; 129c-d; 179c-180c; 193a-200c esp 194b-d; 232c-233c / Fund. Prm. Metaphysic of Morals, 265c- 267a esp 266a-c / Practical Reason, 297a- 298a (4. The role of hypotheses in science. 4d, The task of verifications the plurality of hypotheses.)
+54 FREUD: Narcissism, 401a / General Introduction, 502d-503c / New Introductory Lectures, 815a-b; 818c-819b
+
+5. Hypothetical propositions and syllogisms - the distinction between the hypothetical and the categorical
+
+8 ARISTOTLE: Prior Analytics, BK i, CH i [24*21- b i6] 39a-c; CH 23 [40^3-29] 57b-c; [41*21-41] <ref_end>
+
+
+ADDITIONAL READINGS
+
+Listed below are works not included in Great Boo
+
+idea and topics with which this chapter deals. T
+
+I. Works by authors represen
+
+II. Works by authors not repr
+
+For the date, place, and other facts concerning
+
+the Bibliography of Additional Readings which fo
+
+I.
+
+DESCARTES. The Principles of Philosophy, PART in, 43-47
+
+HOBBES. Concerning Body, PART iv, CH 26 SPINOZA. Correspondence, vi, xin KANT.
+Introduction to Logic, x J. S. MILL. A System of Logic, BK in, CH 14
+
+II.
+
+ARNAULD. Logic or the Art of Thinking, PART n BOYLE. Reflections upon the
+Hypothesis of Alkali and Acidum
+
+T. REID. Essays on the Intellectual Powers of Man, i, CH3
+
+BROWN. Lectures on the Philosophy of the Human Mind, VOL i, pp 220-241
+
+HERSCHEL. A Preliminary Discourse on the Study of Natural Philosophy, par 202,
+208, 210, COMTE. The Positive Philosophy, BK m, CH i WHBWELL. The Philosophy of
+the Inductive Sciences, VOL II, BK XIII
+
+. On the Philosophy of Discovery, APPENDIX H 58a-b; CH 29 62d-63d; CH 44
+68d-69b; BK 11,
+
+CH 11-14 81b-84b / Posterior Analytics, BK n,
+
+CH 6 125d-126b
+
+19 AQUINAS: Summa Theologica, PART i, Q 14,
+
+A 13, REP 2 86d-88c; Q 19, A 8, REP 1,3
+
+116a-d
+
+42 KANT: Pure Reason, 39c-41c esp 40d-41c;
+
+51d-52a; llOd-lllc esp lllb; 129c-d;
+
+179c-180c; 193a-200c esp 194b-d; 232c-233c
+
+298a / Fund. Prm. Metaphysic of Morals, 265c267a esp 266a-c / Practical Reason,
+297aons, and hypotheses, see JUDGMENT tic and philosophy, see DIALECTIC 23(2); n
+between scientific and dialectical LOGIC 43; MATHEMATICS 33; snd for othetical
+reasoning, see JUDGMENT 6d; rical science, see ASTRONOMY 2b; 4b-4d; SCIENCE 46,
+56. ths of the Western World, but relevant to the hese works are divided into
+two groups: ted in this collection esented in this collection. the publication
+of the works cited, consult llows the last chapter of The Great Ideas. BERNARD.
+Introduction to Experimental Medicine, PART I, CH 2 TYNDALL. Scientific Use of
+the Imagination JEVONS. The Principles of Science, CH 23 BRADLEY. The Principles
+of Logic, BK i, CH 2 BOSANQUET. LoglC, VOL II, CH 5 C. S. PEIRCE Collected
+Papers, VOL n, par 619-644, 669-693, 755-791 VOL vi, par 7-34 ; VENN. Principles
+of Empirical or Inductive Logic, CH 1 6 POINCARE". Science and Hypothesis, PART
+iv, CH 9-10 MACH. Erfynntnis und Irrtum (Die Hypothese)
+
+DUHEM. La theone physique, son objet sa structure PARETO. The Mind and Society,
+VOL i, CH 4-5 N. R. CAMPBELL. Physics; the Elements, CH 6
+
+,What Is Science?, CH 5 BOHR. Atomic Theory and the Description of Nature
+NORTHROP. Science and First Principles
+
+EINSTEIN. On the Method of Theoretical Physics FISHER. The Design of Experiments
+DEWEY. Logic, the Theory of Inquiry, CH 7

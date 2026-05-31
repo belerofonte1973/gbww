@@ -199,6 +199,529 @@ of medicine
 historical record on disease and its treatment:
 epidemics, plagues, pestilences
 
+REFERENCES
+============================================================
+
+1. The profession of medicine, its aims and obligations - the relation of physician to patient; the place of the physician in society
+
+0 APOCRYPHA: Ecclesiasticus, 38:1-15 (D) OT, Ecclesiasticus, 38:1-15
+5 AESCHYLUS: Prometheus Bound [442-506] 44c-45a csp [478-483] 44d
+5 ARISTOPHANES: Plutus [400-414] 633d
+6 HERODOTUS: History, BK II, 65c; BK III, 117a-118a
+7 PLATO: Charmides, 7d; lOd-lla / Lysis, 21d; 22d-23a / Laches, 27c / Protagoras, 55d-56a / Symposium, 155d-156b / Gorgias, 261a-d; 268d-270b; 287c-288a / Republic, BK i, 298a-b; 303a-304a; BK m, 335b-338a / Statesman, 599a-b; 600b-d; 601d-602c / Laws, BK iv, 684c-685a; BK ix, 745a-b / Seventh Letter, 803c-804b
+8 ARISTOTLE: Topics, BK i, CH 10 [104*33-37] 147d; BK II, CH 2 [110*14-22] 154d; CH 3 [no b 16-19] ISSc; BK v, CH 7 [i36 b 33~i37 a 7] 189a
+9 ARISTOTLE: Parts of Animals, BK i, CH i [639** 16-21] 161d-162a / Politics, BK i, CH 9 [i257 b 25-30] 451d; [1258*10-14] 452b; CH 10 [i258 a 23-33] 452b-c; BK III, CH 6 [i278 b 36-i279* 2] 476b; CH n [i28i b 4o-i282 a 6] 479d; CH 16 ] 485d-486a; BK VII, CH 2 [1324** 27-31] 528d
+10 HIPPOCRATES: The Oath xiiia-b / Ancient Medicine, par 1-5 la-2d; par 7 3a / Prognostics, par i 19a-b / Regimen in Acute Diseases, par 2-3 26d-27c / Epidemics, BK i, SECT n, par 5 46c-d / Fractures, par 36, 89a / Articulations, par 44, 105a; par 78, 119d / Aphorisms, SECT i, par i 131a / The Law 144a-d
+10 GALEN: Natural Faculties, BK i, CH 14, 178d- 179a; BK III, CH 10 207b-d
+13 VIRGIL: Aeneid, BK xn [391-397] 364b
+15 TACITUS: Annals, BK vi, 98d
+17 PLOTINUS: Third Ennead, TR in, CH 5, 96a-b
+18 AUGUSTINE: Christian Doctrine, BK i, CH 14 627d-628b
+22 CHAUCER: Prologue [411-444] 166b-167a / Tale ofMelibeus, par 10, 403a
+24 RABELAIS: Gargantua and Pantagruel, BK i, 29b-c; BK II, 76b; 124d-125b; BK III, 186a-b; BK iv, 232a-233b; 234a-c
+25 MONTAIGNE: Essays, 365b-379a,c esp 375b-d; 401b-402c; 523c-524a; 532a-b
+27 SHAKESPEARE: All's Well That Ends Well, ACT i, sc i [14-36] 142a-c; sc HI [227-262] 147d-148b; ACT n, sc i {71-189] 149b-150c; sc HI [46-57] 151d-152a / Macbeth, ACT iv, sc HI [140-159] 304d-305a 122
+28 HARVEY: Motion of the Heart, 267b,d-268d
+29 CERVANTES : Don Quixote, PART u, 345a-346b
+30 BACON: Advancement of Learning, 50c-53d esp 52d-53a
+31 DESCARTES: Discourse, PART vi, 61b-c
+36 SWIFT: Gulliver, PART i, 3a-b; PART iv, 155b- 157a
+36 STERNE: Tristram Shandy, 412a-414b
+37 FIELDING: Tom Jones, 33c-34c; 70c-71b; 86a-c; 161d-162b
+38 MONTESQUIEU: Spirit of Laws, BK xxix, 266a
+39 SMITH: Wealth of Nations, BK i, 44c
+44 Bos WELL: Johnson, 13b-c; 261a-b
+47 GOETHE: Faust, PART i [997-1010] 25b; [2011- 2036] 47b-48a; PART II [7345-7348] 180a
+49 DARWIN: Descent of Man, 323c-d
+51 TOLSTOY: War and Peace, BK i, 38b-d; 43d- 44a; 45b-c; BK v, 215c-d; 225c-227a; BK VIII, 307a-c; BK ix, 372a-373b; 374c-d; BK x, 448d; 449b-c; 464a-d; BK xi, 524c-525a; BK xn, 533d-534a; 535b-c
+52 DOSTOEVSKY: Brothers Karamazov, BK xn, 356d-359c
+54 FREUD: Origin and Development of PsychoAnalysis, 19d / Hysteria, 64b-c; 71d-72b; 78b-81c passim; 107a-c / PsychoAnalytic Therapy, 125b-127a,c esp 127a,c/ "HW PsychoAnalysis 128a-130d esp 130b-c / General Introduction, 449a-b; 451b-c; 623d-625b esp 624d-625a / Ego and Id, 713b [fn i] / New Introductory Lectures, 866b-c; 870d-871a
+
+2. The art of medicine
+
+    [sem referências]
+
+2a. The scientific foundations of the art of medicine - the contrast between the empiric and the artist in medicine
+
+0 APOCRYPHA: Eccksiasticus, 38:1-15 (D) OT, Ecclesiasticus, 38:1-15
+7 PLATO: Charmides, 6d-7b / Lysis, 17c-18a / Phaedrus, 136b-c / Gorgias, 261a-262a; 280d- 281c; 287d-288.b / Republic, BK i, 303a-304a; BK III, 337b-c / Theaetetus, 516a / Statesman, 601d-602c / Phikbus, 633b-c / Laws, BK iv, 684c-685a; BK ix, 745a-b
+8 ARISTOTLE: Posterior Analytics, BK i, CH 13 [79*10-16] 108c; BK II, CH 19 [100*3-9] 136c / Meteorology, BK iv, CH 12 493d-494d / Metaphysics, BK i, CH i [981*5-24] 499b-c / Sense and the Sensible, CH i [436*16-^2] 673b / Youth, Life, and Breathing, CH 27 [48o b 2i~3i] 726d
+9 ARISTOTLE: Ethics, BK i, CH 6 [1096*29-33] 341c; CH 13 [1102*15-26] 347c; BK II, CH 2 [1104*1-9] 349b-c; BK HI, CH 3 [ni2*3o- b 2o] 358b-c; BK vi, CH i [ii38 b 25-34J 387b; CH 7 [1141*20-34] 390a-b; CH 10 [n 42^4-1 143*4] 392b; BK x, CH 9 [1180^3-28] 435b-c / Politics, BK HI, CH n [i28i b 4o-i282*6] 479d; CH 15 [1286*10-15] 484b; CH 16 485d-486a; BK VII, CH 13 [i33i b 3o-38] 536c / Rhetoric, BK i, CH 2 [i355 b 26~32] 595b; [1356^8-32] 596b-c
+10 HIPPOCRATES: Ancient Medicine, par 1-8 la3b; par 12-15 4b-5d; par 20-24 7b-9a,c / Airs, Waters, Places, par 1-2 9a-c / Prognostics, par i 19a-b; par 25 26a,c / Regimen in Acute Diseases, par 2-3 26d-27c; par n, 31d-32a / Epidemics, BK i, SECT n, par 5 46c-d; SECT in, par i 49c-d; BK III, SECT in, par 16 59b-c / Surgery, par i 70b / Fractures, par 31, 87a-b / Articulations, par 10, 94d; par 58, 112d / Aphorisms, SECT i, par 1 131a / The Law 144a-d
+10 GALEN: Natural Faculties, BK i, CH 13, 175c- 177a; BK II, CH 8-9 191b-199a,c esp CH 9, 195c-196a
+17 PLOTINUS: Second Ennead, TR ix, CH 14 74b-d
+18 AUGUSTINE: City of God, BK xxn, CH 24, 610c-611a; CH 30, 618a
+19 AQUINAS: Summa Theologica, PART i, Q 57, A 3, ANS 297b-298a; Q 117, A i, ANS and REP i 595d-597c; PART i-ii, Q 14, A 4, ANS 679b-d
+25 MONTAIGNE: Essays, 371c-372b; 377a-d; 450d-451a; 523c-524a
+28 GILBERT: Loadstone, BK II, 27b-c
+28 HARVEY: Motion of the Heart, 289d-292a esp 289d, 291d-292a / Circulation of the Blood, 305a-d / On Animal Generation, 376d-377a
+30 BACON: Advancement of Learning, 5b-c; 48d- 49b; 50c-51d; 52b-d; 53a-b; 56c-57b / Novum Otganum, BK i, APH 1-9 107a-d; APH 64 114b; APH 66, 114d-115a
+31 DESCARTES: Discourse, PART vi, 61b-c; 66d- 67a
+35 HUME: Human Understanding, SECT v, DIV 36, 465a-d [fn i]
+36 STERNE: Tristram Shandy, 412a-414b
+37 FIELDING: Tom Jones, 157a 158a
+51 TOLSTOY: War and Peace, BK ix, 372a-373b
+54 FREUD: PsychoAnalytic Therapy, 123b-125a esp 123b,*125a / "Wild" PsychoAnalysis 128a-130d esp 130b-d / General Introduction, 451b-c; 549d-550c; 606c-d / New Introductory Lectures, 871 d
+
+2b. The relation of art to nature in healing - imitation and cooperation
+
+6 HERODOTUS: History, BK III, 117a-c
+7 PLATO: Symposium, 155d-156c / Gorgias, 260a-262a / Republic, BK m, 335c-337a / Timaeus, 475c-d / Statesman, 599a-b
+8 ARISTOTLE: Physics, BK II, CH i [i92 b 8~3i] 268b,d-269a; [i93 b i2-i7] 269d-270a; CH 2 [194*22-27] 270c; CH 8 [199^6-31] 277a / Metaphysics, BK VII, CH 7 [io32 b 6-29] 555c-d; CH 9 [1034*8-29] 557b-c
+10 HIPPOCRATES: Ancient Medicine, par 3 ld-2b; par 20 7b-d /. Prognostics, par i 19a-b / In- juries of the Head, par 17 68d-69a / Surgery, par 15 73b-c / Fractures, par 1-3 74b,d-76a / 2c to 3a CHAPTER 55: MEDICINE 123 Articulations, par 2-3 92a-c; par 14 96d-97d; par 42 104b-c / Aphorisms, SECT i, par 1 131a; SECT n, par 4 132b; par 51 133d
+17 PLOTINUS: Fourth Ennead, TR iv, CH 31, 175a
+18 AUGUSTINE: Christian Doctrine, BK II, CH 30 651c-d
+19 AQUINAS: Summa Theologica, PART i, Q 117, A i, ANS and REP i 595d-597c
+20 AQUINAS: Summa Theologica, PART i-n, Q 51, A i, ANS 12b-13c
+24 RABELAIS: Gargantua and Pantagruel, BK III, 207c-d
+25 MONTAIGNE: Essays, 52c-d; 368d-369a; 369c- 370a; 528c-529b
+27 SHAKESPEARE: King Lear, ACT iv, sc iv [1-15] 272b-c
+28 HARVEY: Circulation of the Blood, 305a-d / On Animal Generation, 438c
+30 BACON: Advancement of Learning, 53b-d / Novum Organum, BK i, APH 1-9 107a-d
+31 DESCARTES: Discourse, PART vi, 61b-c; 66d- 67a
+36 STERNE: Tristram Shandy, 195b
+37 FIELDING: Tom Jones, 34b; 86b-c
+38 ROUSSEAU: Inequality, 336b-337a
+51 TOLSTOY: War and Peace, BK ix, 372a-373b; BK x, 449b-c
+54 FREUD: Origin and Development of PsychoAnalysis, 2a / Inhibitions, Symptoms, and Anxiety, 746b-c
+
+2c. The comparison of medicine with other arts and professions
+
+7 PLATO: Charmides, 6d-7b / Lysis, 17c-18a / Phaedrus, 136b-137c / Gorgias, 260a-262a; 268d-270b; 282c-d; 289c-d / Republic, BK i, 298a~299a; BK III, 337b-338a; BK v, 36 Id- 362a / Theaetetus, 515d-517b; 525d / Sophist, 556d-558d / Statesman, 599a-602c / Philebus, 633b-c / Laws, BK iv, 684c-685a / Seventh Letter, 803c-804b
+8 ARISTOTLE: Topics, BK i, CH 3 144a-b; BK v, CH 7 [136^33-137*7] 189a; BK vi, CH 5 [142^0- 143*9] 196b-c / Physics, BK i, CH 8 [i9i a 33- b 9] 267b; BK II, en i [i92 b 23~32] 268d-269a; [i93 b i3-i9] 269d-270a; CH 8 [ / Metaphysics, BK VII, CH 7 555b-d
+9 ARISTOTLE: Parts of Animals, BK i, CH i 15-24] 161d-162a / Ethics, BK i, CH i [1094*6- 9] 339a; CH 6 [1096*29-33] 341c; CH 7 [1097* 15-23] 342c; CH 13 [1102*15-26] 347c; BK II, CH 2 [1104*1-9] 349b-c; BK HI, CH 3 [1112*30- b i9] 358b-c; BK v, CH n [ii38*29- b 4] 386d- 387a; BK vi, CH i [ii38 b 25-34] 387b; CH 7 [1141*20-34] 390a-b; CH 12 [1143^1- 1144*5] 393b-c passim; CH 13 [n 45*6-12] 394d; BK x, CH 9 [Ii8o b 7-ii8i b 7] 435b-436a / Politics, BK i, CH 9 [i257 b 25-3o] 451d; [1258*10-14] 452b; CH 10 [1258*23-33] 452b-c; BK II, CH 8 [i268 b 33-37] 464d; BK III, CH 6 [i278 b 36- 1279*2] 476b; CH n [I28i b 40-i282*6] 479d; CH 15 [1286*10-15] 484b; CH 16 [i287*32- b 3] 485d-486a; BK VII, CH 2 [i324 b 27~3i] 528d; CH 13 [i33i b 30~38] 536c / Rhetoric, BK i, CH i [i355 b 9~ I 4] 594d-595a; CH 2 [i355 b 26- 36] 595b; [1356^8-35] 596b-c
+10 HIPPOCRATES : Ancient Medicine, par i la-b; par 9 3b-d / Regimen in Acute Diseases, par 3 27a-c / The Law, par 1-3 144a-d
+13 VIRGIL: Aeneid, BK XH [391-397] 364b
+14 PLUTARCH: Lycurgus, 34b / Pericles, 129b-d / Demetrius, 726a-d
+17 PLOTINUS: Fifth Ennead, TR ix, CH n 250c- 251a
+18 AUGUSTINE: Christian Doctrine, BK II, CH 30 651c-d
+19 AQUINAS: Summa Theologica, PART i, Q 117, A i, ANS and REP i 595d-597c; PART i-n, Q 14, A 4, ANS 679b-d
+24 RABELAIS: Gargantua and Pantagruel, BK II, 76b-c; BK HI, 186a-c
+25 MONTAIGNE: Essays, 450d-451a
+30 BACON: Advancement of Learning, 5b-6a; 50c- 51d; 52d-53b; 77d-78d
+33 PASCAL: PensSes, 33 176b
+36 SWIFT: Gulliver, PART in, 112b-113a
+37 FIELDING: Tom Jones, 86a-c; 90b
+39 SMITH: Wealth of Nations, BK i, 44c
+51 TOLSTOY: War and Peace, BK x, 448d
+54 FREUD: Hysteria, 108a-b
+
+3. The practice of medicine
+
+    [sem referências]
+
+3a. The application of rules of art to particular cases in medical practice
+
+7 PLATO: Statesman, 599a-b; 600b-d / Laws, BK iv, 684c-685a
+8 ARISTOTLE: Metaphysics, BK i, CH i [981*5-24] 499b-c
+9 ARISTOTLE: Parts of Animals, BK i, CH i [639 b i6-2i] 161d-162a / Ethics, BK II, CH 2 [1104*1-9] 349b-c; BK III, CH 3 [ni2*3o- b 2o] 358b-c; BK vi, CH i [ii38 b 25-34J 387b; CH 7 [ii4i b i4-2i] 390c-d; BK x, CH 9 [n8o b 7~23] 435b-c / Politics, BK III, CH 15 [1286*10-15] 484b; BK VII, CH 13 [i33i b 30-38] 536c / Rhetoric, BK i, CH 2 [i356 b 28-32] 596b-c
+10 HIPPOCRATES: Ancient Medicine, par 12 4b-c; par 20-21 7b-8a / Airs, Waters, Places, par 2 9b-c / Regimen in Acute Diseases, par 18 34d- 35b / Epidemics, BK i, SECT in, par i 49c-d; BK III, SECT in, par 16 59b-c / Articulations, par 10 94d-95a; par 71, 117c / Aphorisms, SECT i, par 9 131c
+12 EPICTETUS: Discourses, BK II, CH 17, 159a-b
+30 BACON: Advancement of Learning, 52a-53c
+36 SWIFT: Gulliver, PART in, 112b-113a
+36 STERNE: Tristram Shandy, 372b-373a
+37 FIELDING: Tom Jones, 70c-71b
+42 KANT: Pure Reason, 60b-c
+51 TOLSTOY: War and Peace, BK ix, 372a-373b
+54 FREUD: Hysteria, 32a-c / General Introduction, 607a-b / New Introductory Lectures, 871 d 124 (3. The practice of medicine.)
+
+3b. General and specialized practice - treating the whole man or the isolated part
+
+6 HERODOTUS: History, BK II, 65c
+7 PLATO: Charmides,~2&3b / Phaedrus, 136b-c / Gorgias, 282c-d / Timaeus, 474d-475d / Laws, BK x, 767d
+10 HIPPOCRATES: Ancient Medicine, par 20 7b-d / Epidemics, BK i, SECT HI, par i 49c-d / Injuries of the Head, par 20 69d
+25 MONTAIGNE: Essays, 373c-d
+44 Bos WELL: Johnson, 350c-d
+46 HEGEL: Philosophy of History, PART i, 250c
+51 TOLSTOY: War and Peace, BK ix, 372a-373b
+52 DOSTOEVSKY: Brothers Karamazov, BK xi, 340c-d
+54 FREUD: Hysteria, 62b-c / General Introduction, 451b-452a; 620b-c / New Introductory Lectures, 871d-872a
+
+3c. Diagnosis and prognosis - the interpretation of symptoms; case histories
+
+0 OLD TLSTAMENT: Leviticus, 13-14
+6 HERODOTUS: History, BK i, 44d-45a
+6 THUCYDIDES: Peloponnesian War, BK 11, 399c- 400c
+7 PLATO: Protagoras, 59b-c / Laws, BK iv, 684c- 685a
+8 ARISTOTLE: Prior Analytics, BK II, CH 27 [70*3-39] 92a-c passim / Prophesying, CH i [463 a 3- b io] 707b-708a
+9 ARISTOTLE: History of Animals, BK iv, CH 10 [537 b i4~2o] 64b; BK VII, CH 12 [588*10-12] 114c; BK VIII, CH 18 [6oi b 6-8] 127c; CH 21 [6o3 b 20-24] 129c; CH 23 [6o4 a i2]-CH 24 [6o4 b 2o] 13Qa-c / Rhetoric, BKI, CH2 [i357 b i4~2i]597b-c
+10 HIPPOCRATES: Airs, Waters, Places, par 10-11 13b-14b / Prognostics 19a-26a,c csp par i 19a-b, par 15 22d~23a, par 25 26a,c / Regimen in Acute Diseases, APPENDIX, par 9-14 38b 40d / Epidemics, BK i, SECT 11, par 5 46c-d; SECT HI, par I-CASE xiv 49c-53d; BK III, SECT i-n 53d-56d; SECT in, par i6-cASE xvi 59b-63d / Injuries of the Head, par 5 65a; par 8 65c; par 10-12 65d-67a; par 19 69b-c / Fractures, par 5 76d-77a / Articulations, par 10 94d-95a; par 26 99a-b; par 30 99c-100b; par 51 109a-b; par 54 Ilia; par 57 llld-112b; par 58, 112d; par 59 113b / Instruments of Reduction, par 4-24 122d-126c passim / Aphorisms, SECT i, par 2 131a; par 12 131d; SECT 11 132b-134a passim; SECT iv, par I7-SECT v, par 15 135d- 138b; SECT v, par 30-SECT vn, par 86 138d- 144a,c passim
+12 LUCRETIUS: Nature of Things, BK vi [1138- 1214] 95b-96b
+19 AQUINAS : Summa Thcologica, PART i, Q 13, A 5, ANS 66b-67d; A 6, ANS 67d-68c; Q 57, A 3, ANS 297b-298a; A 4, ANS 298a~299a
+24 RABELAIS: Gargantua and Pantagruel, BK III, 197a
+25 MONTAIGNE: Essays, 370c-d; 372b-373b; 531d-532b
+30 BACON: Advancement of Learning, 49b-50b; 52a; 52c d
+36 SWIFT: Gulliver, PART in, 112b-113a; 114b; PART iv, 156b-157a
+37 FIELDING: Tom Jones, 33c-34a; 70c-71b; 14Sb-146a; 157a-158a; 373c-d
+51 TOLSTOY: War and Peace, BK i, 38c-d; BK VIIi, 307a-c; BK ix, 372a-373b; BK xi, 524c-525a
+52 DOSTOEVSKY: Brothers Karamazov, BK xi, 340c
+54 FREUD: Origin and Development of PsychoAnalysis, lb-2b / Hysteria, 31b-d; 38d-40a; 50b-c; 54b-56c; 60b-62c csp 60b-d; 87a-90d esp 87a-d / Psycho -Analytical Therapy, 124b / "Wild" PsychoAnalysis,' 128a-l29d esp 129c-d / Interpretation of Dreams, 151a-c / General Introduction, 550d-557a esp 556a-b; 593b-c; 605b-607b passim, esp 606c-607b / New Introductory lectures, 872d-873a
+
+3d. The factors in prevention and therapy
+
+#3d(1) Control of regimen - climate, diet, exercise, occupation, daily routine
+0 OLD TESTAMENT: Proverbs, 16:24; 17:22
+0 APOCRYPHA: Ecclesiasticus, 30:25; 31:19-22; 37:29-31 (D) OT, Ecclcsiasticus, 30:27; 31:22-27137:32-34
+6 HERODOTUS: History, BK II, 64c-d
+7 PLATO: Protagoras, 50d / Symposium, 155c-d / Gorgias, 261a d; 289c-d / Republic, UK HI, 334b-337a; BK w, 345b-c / Timaeus, 474d- 475d / Laws, BK II, 656b-c / Seventh Letter, 803c-804b
+8 ARISTOTLE: Heavens, BK II, CH 12 [292*14- b i8] 383d-384b
+9 ARisroTLb - History of Animals, BK VII, CH 12 114c; BK VIII, CH 21 [6o3 b 25-34J 129d / Ethics, BK ii, CH 2 [1104*10-26] 349c-d; BK vi, CH 7 [ii4i b i4-2i] 390c-d / Politics, BK VII, CH n [i33 a 34-4 I ] 535a; CH 16 [i335 b i2-i9] 540c; CH 17 [1336*4-39] 541a-c; BK VIIi, CH 4 [i338 b 39-1339*10] 544b-c / Rhetoric, BK i, CH 6 [1362*29-33] 603a; CH 7 [1364*3-5] 605b
+10 HIPPOCRATES: Ancient Medicine, par 3-11 Id- 4b; par 13-16 4c-6b; par 20 7b-d / Airs, Waters, Places, par i 9a-b; par 3-7 9c-12a; par 9-10 12d-14a; par 12 14b-d; par 15 15b-c; par 19-21 16c-17b / Regimen in Acute Diseases 26a-44a,c esp par 9 29d-30c, APPENDIX, par 1 8 41a-d / Epidemics, BK i, SECT i, par i 44a-b; SECT n, par i 45a-c; par 7-8 47a-c; BK III, SECT in, par 1-2 56d-57a; par 15 59b / Surgery, par 20 73d / Fractures, par 7 77c- 78a; par 9 78c-d; par 36 88d-89a / Articulations, par 9 94b-c; par 50, 108b-d; par 55 llla-c; par 58 112b-113a; par 81 120d / Aphorisms, SECT i, par 3-11 131a-c; par 13-19 131d-132a; SECT n, par 4 132b; par 16-17,22 132d; par 36 133b; par 38,45 133c; par 49-50 125 133d; SECT in, par 1-19 134a-d; SECT v, par 16-29 138b-d; SECT vn, par 56 143a; par 66 143c / Ulcers, par i, 145a / Sacred Disease, 160b-d
+10 GALEN: Natural Faculties, BK 11, CH 8 191b- 195c
+14 PLUTARCH: Lycurgus, 34b-d; 40c-42a / Caesar, 583d-584b
+22 CHAUCER: Nun's Priest's Tale [14,827-852] 450a-b
+24 RABELAIS: Gargantua and Pantagruel, BK i, 26d-29d; 48d-49a; BK II, 68a-69a,c; BK III, 134d-135a; 152a-153b; 188d-191c
+25 MONTAIGNE: Essays, 66c-67a; 374a-375a; 524b; 527a-528a
+28 HAPVEY: On Animal Generation, 433c
+29 CERVANTES: Don Quixote, PART II, 345a-346b
+30 BACON: Advancement of Learning, 26c-d; 47a-b; 53d-54a / New Atlantis, 201b; 211b- 212c
+32 MILTON: Paradise Ijost, BK xi [524-534] 310b- 311a
+36 SWIFT: Gulliver, PART iv, 163a
+36 STERNE: Tristram Shandy, 525a-526b
+37 FIELDING: Tom Jones, 70c-71b; 145b-146a
+38 ROUSSEAU: Inequality, 335a-b; 336d-337a
+39 SMITH: Wealth of Nations, BK iv, 293d-294b
+44 BOSWELL: Johnson, 171c-d
+48 MELVILLE: Moby Dicl(, 353b-354a
+49 DARWIN: Descent of Man, 356d 357b
+50 MARX: Capital, 324a-325c
+51 TOLSTOY: War and Peace, BK i, 52d; BK v, 215c-d; BK ix, 372a-373b
+54 FREUD: Hysteria, 64d~65a
+#3d(2) Medication - drugs, specifics
+0 APOCRYPHA: Wisdom of Solomon, 16:12 (D) OT, Boof( of Wisdom, 16:12 / Ecclesiasticus, 38:4-8 (D) OT, Ecclesiasticus, 38:4-8
+4 HOMER: Iliad, BK iv [188-219] 25d-26b; BK v [899-906] 39c; BK xi [842-848] 81c
+6 HERODOTUS: History, BK iv, 143a; 157a dTuucYDiDEs - Peloponnesian War, BK II, 400b-c
+7 PLATO: Timaeus, 474d-475d / Statesman, 601d-602a
+9 ARISTOTLE: History of Animals, BK III, CH 21 [522 b 9~i3] 47d; BK iv, CH 5 [53o b 6-io] 57b; BK VIII, CH 21 [6o3 b 9-i6] 129c; CH 24 [604** 26-29] 130c; CH 26 131a; CH 29 [607*21-34] 132c-d; BK ix, CH 6 [6i2 b i5~i8] 138b / Ethics, BK vi, CH i [ii38 b 25-34] 387b
+10 HIPPOCRATES: Ancient Medicine, par 13 4c~5a; par 24 8d-9a,c / Regimen in Acute Diseases, par i 26a-d; par 4-7 27c-29c; par 14-17 32c- 34c; APPENDIX, par n 39c-40b; par 16 40d; par 26-39 43a-44a,c / Fractures, par 27, 85b-c; par 29 85d-86a / Articulations, par 36 101 d; par 63 114d-115b / Aphorisms, SECT n, par 22 132d/ Ulcers, par 1 145a-c; par 4-13 146b-149b / Fistulae, par 2-12 150b-152d / Hemorrhoids, par 2-3 152b,d-153b; par 6-7 153d-154a,c
+10 GALEN: Natural Faculties, BK i, CH 13, 176a- 177a; CH 14, 179a-b; BK II, CH 9, 195d-196a; BK III, CH 13, 209c
+22 CHAUCER: Prologue [411-444] 166b-167a / Tale ofMelibeus, par 10, 403a
+24 RABELAIS: Gargantua and Pantagruel, BK i, 26d; BK II, 92b-c; 96a-d; 124d-125d; BK III, 140 b; 173d 174a; 189a c; 196d; 225a; 226d; BK iv, 246d-247a; 310d-311c
+25 MONTAIGNE: Essays, 90d-91b; 365b-379c passim, esp 369c-370a
+27 SHAKESPEARE: All's Well That Ends Well, ACT i, sc in [227-262] 147d-148b; ACT n, sc i [71-189] 149b-150c; sc in [46-57] 151d-152a / King Lear, ACT iv, sc iv [I-IQ] 272b-c
+28 GILBERT: Loadstone, BK i, 19c-21c; BK II, 35b-c
+28 HARVEY: Motion of the Heart, 297d
+30 BACON: Advancement of learning, 26c-d; 47a-b; 51d-53d esp 53a-c / New Atlantis, 201b; 212c
+36 SWIFT: Gulliver, PART in, 108b-109a; 112b- 113a; PART iv, 156b-157a; 161b-162a; 169a
+36 SrERNE: Tristram Shandy, 372b-373a
+37 FIELDING: Tom Jones, 63a-c; 76b; 83b
+38 ROUSSEAU: Inequality, 336d-337a
+44 BOSWELL '.Johnson, 257c-d
+49 DARWIN: Descent of Man, 323c
+51 TOLSTOY: War and Peace, BK i, 38b-d; BK v, 215c-d; BK VIII, 337d-338a; BK ix, 372a- 373b; 374a-d; BK x, 449b-c; BK XH, 533d- 534a; 535b-c; BK xiv, 595a-b; BK xv, 630b
+54 FREUD: Hysteria, 40a-b
+#3d(3) Surgery
+4 HOMER: Iliad, BK xi [842-848] 81c
+7 PLATO: Republic, BK III, 336a-b / Statesman, 599a-b; 60 Id- 60 2a
+9 ARISTOTLE: History of Animals, BK III, CH 4 [5 I 4 a 34~ b 5l 38c; BK VIII, CH 21 [6o3 b 5-i6] 129b-c; BK ix, CH 50 [63i b i9-632*32] 157a-c
+10 HIPPOCRATES : Prognostics, par 23 25a-b / Regimen in Acute Diseases, par 7 28d-29c; APPENDIX, par 2-6 35d-37a; par n 39c-40b; par 24 42d; par 29 43a-b / Injuries of the Head, par 9 65c-d; par 13-21 67b-70a,c / Surgery 70b,d-74d esp par 2 70b, par 4 71a-b, par 6 71b, par 10 72a-b / Fractures 74b,d- 91d esp par i 74b,d-75a, par 47-48 90d-91d / Articulations 91b,d-121d esp par 61 113d- 114a, par 79 120b / Instruments of Reduction 121b,d-130d esp par 40 129d-130c / Aphorisms, SECT v, par 68 140a; SECT vi, par 22 140d; par 31 141a; par 47 141c; SECT vn, par 46,48 142d; par 53 143a; par 87 144c / Ulcers, par 14-17 149b-150a,c / Fistulae, par 5 151a-b / Hemorrhoids, par 2-6 152b,d-154a
+18 AUGUSTINE: Christian Doctrine, BK i, CH 14, 627d-628a
+24 RABELAIS: Gargantua and Pantagruel, BK II, 119b-c; BK III, 196c
+25 MONTAIGNE: Essays, 330b-d; 373a-b 126 (3< The factors in prevention and therapy. 3</(3) Surgery.)
+28 HARVEY: Motion of the Heart, 289d-290a / On Animal Generation, 376d-377a; 438b-c
+30 BACON: Advancement of Learning, 52b-c / New Atlantis, 211d
+36 SWIFT: Gulliver, PART in, 113b; PART iv, 148b
+37 FIELDING: Tom Jones, 70c-71b; 162a-c
+38 ROUSSEAU: Inequality, 336d-337a
+51 TOLSTOY: War and Peace, BK x, 464a-465c
+53 JAMES: Psychology, 844a
+54 FREUD: Hysteria, 81b-c
+
+4. The concept of health - normal balance or harmony
+
+7 PLATO: Charmides, 2d-3b / Symposium, 155d- 157a / Meno, 175b / Gorgias, 282c-283a / Republic, BK HI, 334b-337a; BK iv, 355b-d; BK ix, 422c-d; 427a / Timaeus, 472a-c; 474d- 475d / Philebus, 616d-617a / Laws, BK v, 690a-c
+8 ARISTOTLE: Categories, CH 8 [8 b 25-9 a 28] 13d- 14b / Topics, BK HI, en i [n6 b i7-22] 163a-b / Physics, BK VH, CH 3 [246 a iob i9] 329c-330a / Metaphysics, BK v, CH 20 [io22 b io-i3] 544a / Soul, BK i, CH 4 (407 b 3 1-408*2] 637c; BK II, CH 2 [414*4-14] 644a-b / Sense and the Sensible, CH 5 [445*16-31] 683a-b
+9 ARISTOTLE: History of Animals, BK HI, CH 19 [52o b i9-52i a i4] 45c-46a; BK VII, CH i [58i b 25-582*4] 107b-c / Parts of Animals, BK i, CH i [640*4-7] 162d; BK II, CH 5 [65i a 37- b i8] 176c; en 7 177c-179a; BK iv, CH 2 [677*5- b i] 206d-207b / Ethics, BK II, CH 2 [1104*10-26] 349c-d; BK v, CH i [1129*12-25] 376b-c; CH n [1138*28-32] 386d; BK vi, CH 12 [i 143^1- 1144*5] 393 b-c passim / Rhetoric, BK i, CH 5 [i 3 6i b 3 -26] 602a-b; CH 7 li&fu-^ft] 605b
+10 HIPPOCRATES: Ancient Medicine, par 13-19 4c-7b / Regimen in Acute Diseases, par 9, 29d / Sacred Disease, 156b-c
+10 GALEN: Natural Faculties, BK II, CH 8, 194c-d; CH 9, 195c-196a
+12 LUCRETIUS : Nature of Things, BK III [558- 565] 37b
+12 AURELIUS: Meditations, BK v, SECT 8 269d- 270b
+18 AUGUSTINE: City of God, BK xix, CH 13 519a- 520a; BK xxn, CH 24, 610c-611a / Christian Doctrine, BK i, CH 16 628c-d
+20 AQUINAS : Summa Theologica, PART i-n, Q 49, A 2 2b-4a; A 3, REP 3 4b-5a; A 4, ANS 5a-6a; Q 50, A i, ANS and REP 2-3 6a-7b; A 3, REP 2 8b-9a; Q 51, A i, ANS 12b-13c; Q 52, A i, ANS and REP 3 15d-18a; A 2, ANS 18a-19a; Q 54, A i, ANS 22d-23d; Q 73, A 2, ANS 120d- 121c; A 3, ANS 121c-122b; Q 82, A i, ANS and REP i 168a-d
+24 RABELAIS: Gargantua and Pantagruel, BK HI, 137d-139b; BK iv, 234a-235a; 239d-240a
+25 MONTAIGNE: Essays, 233c-236a; 368d; 369d- 370a
+28 HARVEY: Motion of the Heart, 296d-297a / On Animal Generation, 493a-b
+30 BACON: Advancement of Learning, 50c-51d; 72b
+32 MILTON: Paradise Lost, BK xi [524-543] 310b-311a / Areopagitica, 407b
+36 SWIFT: Gulliver, PART iv, 155b-156a; 170b- 171b
+36 STERNE: Tristram Shandy, 412a-417a
+38 ROUSSEAU: Inequality, 336b~d / Political Economy, 368d-369a
+39 SMITH: Wealth of Nations, BK iv, 293d-294b
+42 KANT: Pref. Metaphysical Elements of Ethics, 368d-369a /judgement, 509c-d
+51 TOLSTOY: War and Peace, BK x, 449b-c
+53 JAMES: Psychology, 799a-b
+54 FREUD: General Introduction, 635b-c
+
+5. The theory of disease
+
+    [sem referências]
+
+5a. The nature of disease
+
+6 THUCYDIDES : Peloponnesian War, BK II, 400b-c
+7 PLATO: Lysis, 21d / Republic, BK iv, 354d- 355c; BK VIII, 409a; BK x, 435a-d / Timaeus, 472a-474d
+8 ARISTOTLE: Physics, BK VII, CH 3 [246*10- b i9] 329c-330a
+9 ARISTOTLE: Generation of Animals, BK v, CH 4 [784*3 i- b 34] 326b-d / Ethics, BK II, CH 2 [1104*10-19] 349c; BK v, CH i [1129*12-25] 376b-c
+10 HIPPOCRATES: Ancient Medicine, par 14 5a-c; par 1 6 5d-6b; par 19 6d-7b / Fractures, par 31, 87a / Sacred Disease, 159b
+10 GALEN: Natural Faculties, BK II, CH 8, 193d; 194c-d; CH 9, 195c-196a; BK III, CH 12 208b- 209b esp 208d 17PLOTiNus - Second Ennead, TR ix, en 14 74b-d
+20 AQUINAS: Summa Theologica, PART I-H, Q 71, A i, REP 3 105d-106c; Q 72, A 5, ANS 115a- 116b; Q 73, A 2, ANS 120d-121c; A 3, ANS 121c-122b; Q 77, A 3, ANS 147c-148b; Q 82, A i, ANS and REP i 168a-d; A 4, REP 2 170b- 171a; Q 88, A i, ANS 193a-194b; PART in SUPPL, Q 8 1, A 4, REP 4 966d-967d
+25 MONTAIGNE: Essays, 528c-529b
+28 HARVEY: Circulation of the Blood, 305a-d
+32 MILTON: Paradise Lost, BK xi [477-543] 309b~311a
+36 SWIFT: Gulliver, PART iv, 155b-157a
+39 SMITH: Wealth of Nations, BK iv, 293d-294b
+51 TOLSTOY: War and Peace, BK ix, 372a-b
+53 JAMES: Psychology, 799a-807b csp 799a-800a, 806a-b; 815a
+54 FREUD: Narcissism, 403a-b 5b to 5d CHAPTER 55: MEDICINE 127
+
+5b. The classification of diseases
+
+7 PLATO: Timaeus, 472a-474d
+8 ARISTOTLE: Topics, BK iv, CH 3 [i23 b 34~37] 172c
+9 ARISTOTLE: History of Animals, BK VIII, CH 18-27 127b-131b / Ethics, BK VII, CH 8 [ii5o b 29 -35] 401c-d
+10 HIPPOCRATES : Airs, Waters, Places, par 3-6 9c-lla / Regimen in Acute Diseases, par 1-2, 26c-d / Epidemics, BK i, SECT in, par 2 49d- 50a / Injuries of the Head, par 4-8 64d-65c / Fractures, par 31, 87a / Articulations, par 51 109a-b; par 61 113d-114a / Aphorisms, SECT in 134a-135b
+10 GALEN: Natural Faculties, BK II, CH 8, 193c- 194c
+20 AQUINAS: Summa Theologica, PART I-H, Q 73, A 3, ANS 121c-122b; A 7, ANS 124d~125c
+30 BACON: Advancement of learning, 51d 52a
+36 SWIFT: Gulliver, PART HI, 112b 113a; PART iv, 155b-157a
+54 FREUD: Hysteria, 87a-d; 114d / General Introduction, 605b-606d passim, csp 606c-d
+
+5c. The disease process - onset, crisis, aftereffects
+
+0 OLD TESTAMENT: Leviticus, 13-14 6TnucYDiDEs - Peloponnesian War, BK II, 399c-400c
+10 HIPPOCRATES: Prognostics 19a-26a,c esp par 15-20 22d-24c / Regimen in Acute Diseases, APPENDIX, par i 35c-d; par 9-15 38b-40d; par 22 42b-c / Epidemics 44a-63d esp BK i, SECT in, par 2-3 49d-50b / Injuries of the Head, par 19 69b-c / Fractures, par 31 86d- 87d / Articulations, par 69 116b-117a / Aphorisms, SECT i, par 7-12 131b-d; SECT n, par 13 132c; par 23-32 132d~133b; SECT in, par 28 135a b; SECT iv, par 22-82 136a-137d esp par 30 136b, par 36 136b-c, par 64 137b
+10 GALEN: Natural Faculties, BK i, CH 14, 177c
+12 LUCRETIUS: Nature of Things, BK III [487- 505] 36b-c; BK vi [1138-1214] 95b-96b
+30 BACON: Advancement of Learning, 51d-52a
+37 FIELDING: Tom Jones, 86a-c
+48 MELVILLE: Moby Dic{, 350b-354a
+49 DARWIN: Descent of Man, 256c
+54 FREUD: Narcissism, 402d-403a / General In- troduction, 618c
+
+5d. The causes of disease - internal and external factors
+
+0 OLD TESTAMENT: Leviticus, 26:16 / Numbers, 12:10-15; 16:46-50 / Deuteronomy, 28:21- 22,27-28,35,58-62 / // Kings, 5:27-(D) IV Kings, 5:27 / / Chronicles, 21:14-15 (D) I Paralipomenon, 21:14-15 / // Chronicles, 26:18-21 (D) // Paralipomenon, 26:18-21 / Job, 2:7 / Psalms, 107:17-20 (D) Psalms, 106:17-20
+0 APOCRYPHA: // Maccabees, 3:27-29; 9 (D) OT, II Machabees, 3:27-29; 9
+0 NEW TESTAMENT: Matthew, 9:32-33; 17:14-18 / / Corinthians, 1 1 125-30
+4 HOMER: Iliad, BK i [33-100] 3b-4b
+5 SOPHOCLES: Oedipus the King [1-215] 99a- lOla
+6 HERODOTUS: History, BK i, 32c-d; 38a-b; BK II, 64c-d; BK iv, 135c-d; 157a
+7 PLATO: Symposium, 155d-157a / Republic, BK 11, 318c-319a; BK HI, 334b-335d; BK iv, 345b-c; BK VIII, 412d; BK x, 434d-435c / Timaeus, 472a-474d; 476b-d
+8 ARISTOTLE: Meteorology, BK iv, CH 7 [384 tt 25-34] 488c
+9 ARISTOTLE: History of Animals, BK III, CH 15 [5 I 9 bl 5~ I 9l 44c; CH 19 [521*10-32] 46a-b; BK VII, CH i [58i b 22-582 a 5] 107b-c; CH 12 114c; BK VIII, CH 18-27 127b-131b passim; CH 29 132c-d / Parts of Animals, BK II, CH 5 [65i*37- b i8] 176c; CH 7 [653 b i-7] 178d- 179a; BK III, CH 7 [67o b 5-ii] 199a; BK iv, en 2 [677 tt 5- b i] 206d-207b / Generation of Animals, BK iv, CH 7 317d-318b; BK v, CH 4 [7 8 4 tt 3i- b 34l 326b-d / Ethics, BK II, CH 2 [1104*10-19] 349c
+10 HIPPOCRATES: Ancient Medicine, par i la-b; par 3 Id 2b; par 6 2d-3a; par 9-11 3b-4b; par 13-22 4c-8d / Airs, Waters, Places, par i-io 9a-14a esp par 10 13b-14a; par 22 17b- 18a / Regimen in Acute Diseases, par 9-10 29d-30d; APPENDIX, par i 35c-d; par 6 36c- 37a; par 17 40d-41a / Epidemics, BK i, SECT i, par i 44a-b; SECT n, par 7-8 47a-c; BK III, SECT in, par 1-2 56d-57a; par 15 59b / Surgery, par 20 73d / Articulations, par 12 96a-b; par 58, 113a / Aphorisms, SECT n, par 51 133d; SECT in, par 1-19 134a-d; SECT v, par 16-24 138b-c / Fistulae, par i 150a / Hemorrhoids, par i 152b / Sacred Disease 154a-160d esp 155d-156a
+10 GALEN: Natural Faculties, BK i, CH u, 172b-c; BK II, CH 8-9 191b-199a,c esp CH 8, 194c-d, CH 9, 195c-196a
+12 LUCRETIUS: Nature of Things, BK vi [769- 829] 90c-91b; [1090-1137] 94d-95b
+17 PLOTINUS: Second Ennead, TR ix, CH 14 74b-d
+20 AQUINAS: Summa Theologica, PART i-n, o 81, A i, ANS 163a-164d; Q 82, A 2, ANS 168d- 169c; A 4, REP 2 170b-171a; Q 83, A 4, ANS 173c-174b; Q 85, AA 5-6 181d-184a
+22 CHAUCER: Prologue [411-444] 166b-167a
+23 HOBBES: Leviathan, PART 11, 148d; 151b-c; 152b
+24 RABELAIS: Gargantua and Pantagruel, BK i, 53a-c
+25 MONTAIGNE: Essays, 367b-368a; 371c-d
+28 HARVEY: Motion of the Heart, 296a-d / Circulation of the Blood, 305a-d; 316c-d; 321d- 322a / On Animal Generation, 386d-387a; 407a; 423 b; 433a-c; 455d-456a; 493a-b 128
+30 BACON: Advancement of Learning, 49d-50b; 52b-d
+31 DESCARTES: Discourse, PART vi, 61c
+32 MILTON: Paradise Lost, BK xi [477-548] 309b- 311a
+36 SWIFT: Gulliver, PART in, 112b-113a; PART iv, 155b-157a; 161b-162a; 163a
+36 STERNE: Tristram Shandy, 413b-414b
+38 ROUSSEAU: Inequality, 336a-337a esp 336b-c; 364b-c
+39 SMITH: Wealth of Nations, BK i, 34d-35b
+41 GIBBON: Decline and Fall, 70d-71a
+44 BOSWELL: Johnson, 306d-307a
+48 MELVILLE: Moby Dtc{, 350b-351b
+49 DARWIN: Origin of Species, 9d 10a / Descent of Man, 256a; 325c-327a passim; 351a-355a; 356d-357b
+50 MARX: Capital, 115c; 118b-124a; 142b,d [fn 4]; 178b [fn i]; 194b-195b; 204a-c; 229c; 236c-237d; 324a-330d passim
+51 TOLSTOY : War and Peace, BK i, 52d
+53 JAMES: Psychology, 69a-b; 535a; 895a
+54 FREUD: General Introduction, 604c-605c
+#5d(1) The humoural hypothesis - temperamental dispositions
+7 PLATO: Timaeus, 472a-474d
+9 ARISTOTLE: Parts of Animals, BK iv, CH 2 [677V b i] 206d-207b
+10 HIPPOCRATES: Ancient Medicine, par 13-20 4c-7d; par 22 8a-d; par 24 8d-9a,c / Airs, Waters, Places, par 10 13b-14a / Regimen in Acute Diseases, APPENDIX, par i 35c-d; par 3 35d-36a; par 5-6 36b-37a / Epidemics, BK HI, SECT HI, par 14 59b / Aphorisms, SECT in, par 2 134a; par n 134b; par 14 134c / Sacred Disease, 155d-160d esp 159a-b
+10 GALEN: Natural Faculties, BK 11, CH 8-9 191b-199a,c
+12 LUCRETIUS: Nature of Things, BK III [487- 505! 36b-c
+14 PLUTARCH: Alexander, 542a-c
+19 AQUINAS: Summa Theologica, PART i, Q 119, A i, REP 3 604c-607b; PART i-n, Q 46, A 5, ANS and REP i 815d-816d
+20 AQUINAS : Summa Theologica, PART i-u, Q 73, A 2, ANS 120d-121c; A 3, ANS 121c-122b; Q 77, A 3, ANS 147c-148b; Q 82, A i, REP i 168a-d; A 4, REP 2 170b-171a; PART HI SUPPL, Q 80, A 3 958b-959c; Q 82, A i, ANS and REP 4 968a-970c
+22 CHAUCER: Prologue [411-444] 166b-167a
+24 RABELAIS: Gargantua and Pantagruel, BK HI, 138a-d
+25 MONTAIGNE: Essays, 371c-d
+28 HARVEY: On Animal Generation, 435b-c
+30 BACON: Advancement of Learning, 26c-d; 52b-c; 77a-c
+32 MILTON : Samson Agonistes [599-605] 352b
+36 SWIFT: Gulliver, PART in, 112b-113a; PART iv, 163a
+36 STERNE: Tristram Shandy, 380a; 412a-417a esp 412a-414b
+37 FIELDING: Tom Jones, 283a-b
+#5d(2) The psychogenesis of bodily disorders
+0 APOCRYPHA: Ecclesiasticus, 30:21-24 (D) OT, Eccksiasticus, 30:22-26
+7 PLATO: Charmides, 2d-3b / Timaeus, 474d- 475c
+10 HIPPOCRATES : Epidemics, BK III, SECT m, CASE xi 62b-c; CASE xv 63b-c / Sacred Disease, 158a
+12 LUCRETIUS: Nature of Things, BK III [147- 160] 32a
+19 AQUINAS: Summa Theologica, PART i, Q 117, A 3, REP 3 598c-599b; PART i-n, Q 28, A 5, ANS 743c-744b
+25 MONTAIGNE: Essays, 36c-42a; 234c-235a; 332d-333c; 532a-b
+28 HARVEY: Motion of the Heart, 296d / Circulation of the Blood, 321d<322a
+30 BACON: Advancement of Learning, 49d-50b
+36 SWIFT: Gulliver, PART iv, 163a
+37 FIELDING: Tom Jones, 253d
+44 BOSWELL: Johnson, 350c-d
+51 TOLSTOY: War and Peace, BK III, 142d; BK v, 220b-c; BK vi, 247d-248a; BK VII, 301b- 302d passim; BK ix, 373a-b; BK xm, 567d- 568c esp 568b; BK xv, 617a-b
+52 DOSTOEVSKY: Brothers Karamazov, BK xi, 331d-332a
+53 JAMES: Psychology, 132a-135b esp 132a-b; 847b-848a
+54 FREUD: Origin and Development of PsychoAnalysis, lb-6b esp 4c-5a / Hysteria, 25a-59d esp 25a-27a, 30a-d, 35b-c, 37d-38d, 56b-58c; 82d-83c; 88c-89c; 90b-d / Narcissism, 403a-c / Repression, 426b-c / General Introduction, 572a-b / Inhibitions, Symptoms, and Anxiety, 718a-719d; 728c-729a / New Introductory Lectures, 852a-b
+
+5e. The moral and political analogues of disease
+
+0 OLD TESTAMENT: Psalms, 147:3 (O) Psalms, 146:3 / Isaiah, 1:4-6 (D) Isaias, 1:4-6 / Jeremiah, 8:21-22; 30:12-17; 33:6; 46:11 (D) Jeremias, 8:21-22; 30:12-17; 33:6; 46:11
+5 SOPHOCLES: Oedipus the King 99a-113a,c esp [1297-1415] lllb-112b
+7 PLATO: Gorgias, 268b-c / Republic, BK iv 345a-d; 354d-355c; BK VIII, 409a; 412d; BK x, 435a-d / Timaeus, 474b-d / Sophist, 556d- 558d / Laws, BK iv, 684c-685a; BK v, 690d- 691b
+8 ARISTOTLE: Metaphysics, BK iv, CH 4 [ioo8 b 25-32] 528b
+9 ARISTOTLE: Ethics, BK II, CH 2 [1104*10-26] 349c-d; BK v, CH n [ii38 B 29- b 4] 386d-387ar BK VII, CH 8 Jii5o b 29-ii5i a 4] 401c-d 6to6c CHAPTER 55: MEDICINE 129
+12 AURELIUS: Meditations, BK v, SECT 8 269d- 270b
+14 PLUTARCH: Agesilaus, 495c-d / Phocion, 605a-b / Aratus, 834d
+15 TACITUS: Annals, BK III, 57d-58b
+18 AUGUSTINE: Christian Doctrine, BK i, CH 14 627d-628b; CH 16 628c-d
+20 AQUINAS: Summa Theologica, PART I-H, Q 71, A i, REP 3 105d-106c; Q 72, A 5, ANS 115a- 116b; Q 73, A 2, ANS 120d-121c; A 3, ANS 121c-122b; Q 77, A 3 147c-148b; Q 82, A i, ANS and REP i 168a-d; A 4, REP 2 170b-171a; Q 88, A i, ANS 193a-194b
+22 CHAUCER: Tale ofMelibeus, par 10, 403a
+23 HOBBES: Leviathan, PART i, 68d-69a; PART u, 148c-153a
+25 MONTAIGNE: Essays, 330b-d; 462c-465c passim; 504c-505d
+27 SHAKESPEARE: Hamlet, ACT in, sc iv [144- 152] 56a-b / Othello, ACT in, sc in [321-333] 225c-d
+36 SWIFT: Gulliver, PART in, 112b-113a
+36 STERNE: Tristram Shandy, 215b-216a; 380a
+38 ROUSSEAU: Political Economy, 368d-369b / Social Contract, BK HI, 419c-d
+39 SMITH: Wealth of Nations, BK iv, 293d-294b
+43 FEDERALIST: NUMBER 38, 122b-123c
+
+6. Mental disease or disorder - its causes and cure
+
+    [sem referências]
+
+6a. The distinction between sanity and insanity - the concept of mental health and the nature of madness
+
+7 PLATO: Timaeus, 474b-d
+8 ARISTOTLE: Physics, BK VII, CH 3 [247 b i- 248*9] 330b-d / Dreams, CH 2 [46o B 32- b i8] 704b-c
+9 ARISTOTLE: Ethics, BK VII, CH 5 399a-d passim
+10 HIPPOCRATES : Sacred Disease, 159a-b
+12 EPICTETUS: Discourses, BK 11, CH 15 155c- 156b
+19 AQUINAS: Summa Theologica, PART i, Q 84, A 7, ANS 449b-450b; Q 115, A 5, REP i 590d- 591c; PART i-n, Q 6, A 7, REP 3 650a-d; Q 10, A 3, ANS and REP 2 664d-665c; Q 24, A 2, ANS 727d-728c; Q 28, A 3, ANS and REP i 742a-d; Q 37, A 4, REP 3 785d-786d; Q 48, AA 3-4 824c-826a,c
+20 AQUINAS: Summa Theologica, PART i-n, Q 74, A 5, REP i 131d-132b
+23 HOBBES: Leviathan, PART i, 66d-67b; 68b-69c
+24 RABELAIS: Gargantua and Pantagruel, BK III, 201b-d
+25 MONTAIGNE: Essays, 166a-167a; 235b-c
+30 BACON: Advancement of Learning, 72b
+31 DESCARTES: Objections and Replies, 155d- 156a
+31 SPINOZA: Ethics, PART iv, PROP 44, SCHOL 437d-438a
+35 LOCKE: Human Understanding, BK II, CH xi, SECT 13 146b-c; CH xxxm, SECT 3-4 248c-d
+35 HUME: Human Understanding, SECT n, DIV u, 455b-c
+37 FIELDING: Tom Jones, 68c-d
+43 MILL: Liberty, 299d-300b [fn i]
+44 BOSWELL: Johnson, 13c-14a; Hid; 354c-355a
+48 MELVILLE: Moby Dick, 388b-389b
+51 TOLSTOY: War and Peace, BK xi, 525c
+52 DOSTOEVSKY: Brothers Karamazov, BK xn, 356d-359b
+53 JAMES: Psychology, 137a; 241b-258b esp 242a- 244a; 749a-750b; 799a-807a esp 799a-800a, 806a-b
+54 FREUD: Origin and Development of PsychoAnalysis, 18c-19a / Hysteria, 86a-d; 102a- 106c / Interpretation of Dreams, 174d-176d; 289a-b; 364c-d / Narcissism, 399b-d / Un- conscious, 433c; 440a-442b / General Introduction, 593c; 624c-625d; 633d-635c esp 635b-c / War and Death, 760b / New Introductory lectures, 81 2a; 830d-832a
+
+6b. The classification of mental diseases
+
+7 PLATO: Timaeus, 474b-d
+9 ARisToTLE: Ethics, BK VII, CH 5 399a-d passim
+10 HIPPOCRATES: Sacred Disease, 159b-c
+23 HOBBLS: Leviathan, PART i, 67b; 68c-d
+53 JAMES: Psychology, 241b
+54 FREUD: Hysteria, 60b-61c; 87a-d / Narcissism, 403b-d / General Introduction, 451d; 568c; 605b-606d esp 606c-d; 620c-d
+
+6c. The process and causes of mental disorder
+
+0 NEW TESTAMENT: Marl^ 9:17-29 (D) Mar\, 9:16-28
+5 AESCHYLUS: Choephoroe [1021-1076] 80a-d
+5 SOPHOCLES: Ajax [1-332] 143a-146a
+5 EURIPIDES: Bacchantes 340a-352a,c esp [847- 1326] 347b-351b / Heracles Mad [815-1145] 371d-374d esp [822-873] 372a-c / Orestes [i- 426] 394a-398b
+6 HERODOTUS: History, BK 11, 86b; BK III, 95d-98a; BK vi, 199c-201c esp 201b-c
+7 PLATO: Timaeus, 474b-d
+8 ARISTOTLE: Categories, CH 8 [9 b 34-io a 6] 15a / Dreams, CH 2 [46o a 32- b i8] 704b-c
+9 ARISTOTLE: Ethics, BK VII, CH 5 399a-d passim
+10 HIPPOCRATES: Sacred Disease 154a-160d esp 155d-156a, 159a-b
+12 LUCRETIUS: Nature of Things, BK III [487- 505] 36b-c
+19 AQUINAS: Summa Theologica, PART i, Q 115, A 5, REP i 590d-591c; PART i-n, Q 6, A 7, REP 3 650a-d; Q 10, A 3, ANS and REP 2 664d- 665c; Q 24, A 2, ANS 727d-728c; Q 28, A 3, ANS and REP i 742a-d; Q 37, A 4, REP 3 785d- 786d; Q 48, AA 3-4 824c-826a,c
+23 HOBBES: Leviathan, PART i, 67b; 68b-71b
+25 MONTAIGNE: Essays, 235b-c
+26 SHAKESPEARE: Midsummer-Night's Dream, ACT v, sc i [1-27] 370d-371a
+27 SHAKESPEARE: Hamlet, ACT n, sc 11 [171- 221] 42b-d; ACT in, sc iv {102-144] 55d-56a; 130 ACT iv, sc v [1-75] 59c-60b; [154-200] 61b-d; ACT v, sc ii [237-254] 70b-c / King Lear, ACT n, sc iv [274-289] 261c-d; ACT in, sc iv 264a-266b; ACT iv, sc iv [1-19] 272b-c; sc vi [80-294] 274b-276c; sc vn [14-82] 276d- 277c / Macbeth, ACT v, sc i 306b-307a; sc in [^7-54] 308a-b
+28 HARVEY: On Animal Generation, 347c
+29 CERVANTES: Don Quixote esp PART i, la-3b, 32c-33a, 83a c, 88b 89a, PART II, 205a-209d f 252c-257a, 258d
+31 DESCARTES: Meditations, i, 75d
+31 SPINOZA: Ethics, PART iv, PROP 44, SCHOL 437d-438a
+35 LOCKK: Human Understanding, BK II, en xi, SECT 13 146b-c; en xxxin, SECT 3-4 248c-d
+37 FIELDING: Tom Jones, 68c-d
+40 GIBBON: Decline and Fall, 598a-b
+44 BOSWELL: Johnson, 127a-b; 214b-c; 356b-c
+48 MELVILLE: Moby Dic\, 122b-124b; 135a- 138a; 232b-235a; 306a-307a
+51 TOLSTOY: War and Peace, BK xv, 616a-617a
+52 DOSTOIEVSKY: Brothers Karamazov, BK i, 4c- 5a; BK II, 21d-22b; BK III, 62d 63b; BK xi, 337a-348d passim; BK xn, 364d-365d; 376a- 377b
+53 JAMES: Psychology, 132a 138b passim, esp 13 7a; 244b-252a passim, esp 251b-252a; 258a-b; 533a-538b; 753b-754b; 800a 806b passim; 828b-829a
+54 FREUD: Origin and Development of PsychoAnalysis, lb-19a esp 4a-5a, 6a-b, 8a, 14b, 18b- 19a / Hysteria, 25a-106c passim, esp 25a-27a, 35b-c, 37d-38a, 53b-c, 81c-87a, 93d-96a, 97b- 106c; 110d-118a,c / Narcissism, 402d-404d / Unconscious, 440a-443d esp 440a-b / General Introduction, 451d-452a; 546b~623b esp 567d- 569c, 585b-591a, 593b-596b, 599d-600d, 602d 607b, 611a-615a, 616b-c / Beyond the Pleasure Principle, 641a-c; 648d-650a esp 649c / Group Psychology, 690d-691c; 695b- 696a,c / Ego and Id, 712c-715c; 716d-717a,c / Inhibitions, Symptoms, and Anxiety, 720a- 752c esp 720a-723d, 744b-747b / Civilization and Its Discontents, 774c-d; 798c-799a / New Introductory Lectures, 830d 832a; 866b- 867a
+#6c(1)  Somatic origins of mental disease
+6 HERODOTUS: History, BK HI, 96c
+7 PLATO: Timaeus, 474b-d
+8 ARISTOTLE: Physics, BK VII, CH 3 [247^3- 248*6] 330c-d
+9 ARISTOTLE: Parts of Animals, BK II, CH 7 [653 b i-7] 178d-179a / Ethics, BK VII, CH 3 [H47'i4-i 7 ]397b
+10 HIPPOCRATES: Sacred Disease, 155d-160d esp 159a-b
+12 LUCRETIUS: Nature of Things, BK III [459- 4751 36a
+19 AQUINAS: Summa Theologica, PART i, Q 84, A 7, ANS 449b-450b; Q 115, A 5, REP i 590d- 591c
+23 HOB BBS: Leviathan, PART i, 68c
+27 SHAKESPEARE: King Lear, ACT 11, sc iv [106- ii3]259cf (
+28 HARVEY :\On Animal Generation, 347c
+30 BACON: Advancement of learning, 49d-50b
+31 DESCARTES: Meditations, i, 75d
+31 SPINOZA: Ethtky, PART iv, PROP 39, SCHOL 436c-437a; PROP\44, SCHOL 437d-438a
+32 MILTON: Samson Ahonistes [599-605] 352b
+36 SWIFT: Gulliver, PAR\T w, 163a
+49 DARWIN: Descent of Mum, 291a; 299c; 318b
+51 TOLSTOY: War and Peace, EMJ xi, 524c-527a
+53 JAMES: Psychology, 2b-3a; 23b-/Uvh esp 25b; 32a-34a; 35b-37b; 40b-41a
+54 FREUD: Hysteria, 60d-61a; 90d-97b esp 94b- 95d; lllb-115a esp 114a-115a / Narcissism, 403a-d / General Introduction, 604c-606a esp 605c-606a / Beyond the Pleasure Principle, 641a; 649c / Inhibitions, Symptoms, and Anxiety, 744b-745d / Civilization and Its Discontents, 773a-b
+#6c(2) Functional origins of mental disease
+54 FREUD: Origin and Development of PsychoAnalysis la-20d esp 4a-5c, 7a-9a, 18b-19a / Hysteria, 25a-106c passim, esp 25a-27a, 35b- c, 37d-38d, 52c-53c, 81c-87a, 97b-106c / In- terpretation of Dreams, 364d-365c; 370b-c; 380d-382a esp 381d-382a / Narcissism, 406d- 410  esp 409c d / Repression, 425c-427a,c / Unconscious, 434c-436b / General Introduction, 546b-623b esp 550d-569c, 577a-591a, 599d- 600d, 604c-605b, 611a-615a, 620b-623b / Group Psychology, 690c-691c / Ego and Id, 699a-c; 704d; 712c-714a / Inhibitions, Symptoms, and Anxiety, 720a-752c esp 720a-723d, 728b-731d, 746c-747b
+
+6d. The treatment of functional disorders - psychotherapy as a branch of medicine
+
+12 LUCRETIUS: Nature of Things, BK III [31-93] 30b-31b esp [87-93] 31b; [510-522] 36c-d; BK vi [1-42] 80a-c
+19 AQUINAS: Summa Theologica, PART i-n, Q 38 786d-789d
+24 RABELAIS: Gargantua and Pantagruel, BK III, 188d-191c
+25 MONTAIGNE: Essays, 37c-39a; 401b-406a
+27 SHAKESPEARE: King Lear, ACT iv, sc iv [1-19] 272b-c / Macbeth, ACT v, sc i 306b- 307a esp [79-83] 307a; sc in [37-54] 308a-b
+30 BACON: Advancement of Learning, 77d-78d
+44 BOSWELL: Johnson, 127a-b; 284c-d; 297d- 298a; 354c-355a
+48 MELVILLE: Moby Dic{, 357b-358b
+51 TOLSTOY: War and Peace, BK xv, 614a-d; 616a-618b esp 616b, 617a-b, 618b CHAPTER 55: MEDICINE 131
+52 DOSTOEVSKY: Brothers Karamazov, BK II, 21d-23c
+53 JAMES: Psychology, 132b; 135a-b
+54 FREUD: Origin and Development of PsychoAnalysts la-20d csp 2a-3a, 6c-7a, 8d-9a, lOc- lla, 13c-14a, 19a-20c / Hysteria, 26c-d; 30d- 81c esp 30d-31a, 59d-81c; 106c-lllb csp 107a-108b / Psycho-Analytic Therapy 123a- 127a,c / "Wild'' PsychoAnalysis 128a-130d / General Introduction, 449a-452a; 545a- 550c; 560c-561b; 563a-566a; 606a-c; 623c- 638a,c / Beyond the Pleasure Principle, 643d- 644a / Group Psychology, 695c / Ego and Id, 712c-713a esp 713b [fn i] / Inhibitions, Symptoms, and Anxiety, 748b-d / New Introductory Lectures, 840a; 864a-873d esp 871a-873d
+
+7. The historical record on disease and its treatment - epidemics, plagues, pestilences
+
+0 OLD TESTAMENT: I^eviticus, 13-14
+4 HOMER: Iliad, BK iv [188-219] 25d-26b; BK v [899-906! 39c; BK xi [842-848] 81c
+6 HERODOTUS: History, BK i, 44d-45a; BK II, 64c-d; 65c; BK III, 117a-118a; BK iv, 135c-d; 157a CTHUCYDIDES: Peloponnesian War, BK II, 399b-401b; BK m, 438d
+7 PLATO: Republic, BK III, 335c-336a 9ARISTOTLU: Hhtoty of Animals, BK VIIi, CH 19 [6o2 b i2-i9] 128c / Politics, BK III, CH 15 [i286 a io-i5)484b
+10 HIPPOCRATES: Ancient Medicine, par 1-3 la2b / Regimen in Acute Diseases, par i 26a-d / Epidemics 44a-63d / Sacred Disease, 154a- 155d; 160b d
+12 LUCRETIUS: Nature of Things, BK III [459- 525] 36a-d; BK vi [769-829] 90c-91b; [1138- 1286] 95b-97a,c
+14 PLUTARCH: Romulus, 26d-27a / Camillus, 113d / Pericles, 138b-140c / Coriolanus, 179c- 180a / Timoleon, 212c-d / Pyrrhus, 31Sc / Caius Marius, 334c / Sulla, 386c-d / Agesilaus, 492d / Alexander, 549a-c; 575d-576d / Caesar, 583d-584a; 593c-594a / Marcus Brutus, 812c
+15 TACITUS: Annals, BK xvi, 178d-179a / Histories, BK II, 239c-d; BK iv, 292c-293a
+23 HOIJUES: Leviathan, PART i, 69c-71a; PART iv, 260d
+24 RAUELAIS: Gargantita and Panfagruel, BK II, 124a-b
+25 MONTAKJNE: Essays, 343c-344a; 3b5b 368c; 371c-372b; 508a-509a; 529b 537d passim
+30 BACON: Advancement of Learning 50c 53d esp 52d-53d / New Atlantis, 200d-201d
+36 SIT.RNE: Tristram Shandy, 41 2a 414b
+38 MoMTLsyiiiEu - Spirit of Laws, BK xiv, 106b-107a
+38 ROUSSEAU: Inequality, 336c-d; 364 b c
+40 GIBBON: Decline and Pall, 114a,c
+41 GIBBON: Decline and Fall, 70a-71a,c; 298a- 300a; 355a-c
+44 BOSWLLL: Johnson, 7a; 13a-14a
+51 TOLSTOY: War and Peace, UK v, 222b; 225c- 227a
+54 FREUD: Origin and Development of PsychoAnalysis, 6a-b / Hysteria, 107a / Genet al Introduction, 550d 55 la <ref_end>
+
+
 CROSS-REFERENCES
 
 For: Discussions bearing on learned professions or pro

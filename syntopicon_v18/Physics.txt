@@ -389,3 +389,225 @@ Philosophy of Physics, CH i
 .
 
 Scientific Autobiography SCHLICK. Philosophy of Nature
+
+REFERENCES
+============================================================
+
+1. Physics as the general theory of becoming and the order of nature or change - philosophical physics, the philosophy of nature, pure or rational physics
+
+7 PLATO: Republic, BK vu, 391b-398c/ Timaeus, PART iv, 271d 447a-477a,c
+8 ARISTOTLE: Physics, BK i, CH i 259a-b; CH 2 40a-c; 42c-43d [i84 b 25-i85 ft i9] 259c-260a; CH 9 [i92*33- b 2] / Heavens* BK m, CH i J298 b i3-3o] 390a-b / Metaphysics, BK i, CH 8 [989 b 2i-990 a 8] 507d-508a; BK 11, CH 3 [995* 15-20] 513d; BK vi, CH i 547b,d-548c; BK VII, CH ii [io37 a io-i8] 560d; BK xi, CH 3 [io6i a 29- b i2] 589c-d; CH 4 589d-590a; CH 7 592b-593a; BK xn, en i [io69 a 3o- b 2] 598b-c / Soul, BK i, CH i [403 a 25~ b i9] 632b d
+9 ARISTOTLE: Parts of Animals, BK i, CH i
+16 PTOLEMY: Almagest, BK i, 5a-6a CH 2 [i94 b 8-i5] 271a; CH 7 [198*22-31] 275b-c;
+18 AUGUSTINE: City of God, BK VIII, CH 2 265b- BK m, CH 5 [20434- b 3] 282b-c; BK VIII, CH i 266a; CH 4 266d-267c; CH 5-6, 268b-269c; 372 \b to la [25o b n -251*8] 334a-c BK XI) CH 25 3355.3
+19 AQUINAS: S umma Theologica, PARTI, Q i, A i,REP 2 35.43
+23 HOBBES: Leviathan, PART i, 71c-d; 72a-d;
+30 BACON: Advancement of Learning, 33b-34b;
+31 DESCARTES: Rules, xiv, 31c-d / Discourse, 268c-d; BK ii, CH 2 270a-271a; 0117-9 275b- PART vi, 61b-62c / Meditations, i, 76c / 278a,c; BK III, CH i [20o b i2-24] 278a; CH 5 Objections and Replies, 215a-b; 285b-d [204*34~ b 3] 282b-c; BK iv, CH i [208*27-33] ^ L r . .. Soul, BK i, CH i [403*25^19] 632b-d / Sense and the Sensible, CH i [ 43 6*i6- b 2] 673b / Youth, Life, and Breathing, CH 27 [48o b 2i~3i]
+35 LOCKE -.Human Understanding, BK iv, CH xxi, 287a; BK VIII, CH 3 [253*32- b 6] 337c / Heavens, SECT 1-2 394d; SECT 5 395c BK i, CH i [268*1-7! 359a; CH 5 [27i b i-i8]
+35 BERKELEY: Human Knowledge, SECT 101-117 362c-d; BK III, CH i [298 b i3~3o] 390a-b; CH 7 432c-436b [306*1-18] 397b-c / Metaphysics, BK i, CH 9
+42 KANT: Pure Reason, 5a-13d esp 5d-6c; 18d- [992*2o- b 9] 510c-d; BK II, CH 3 [995*15-20] 19a / Fund. Prin. Metaphysic of Morals, 513d; BK vi, CH i 547b,d-548c; BK vu, CH n 253a-d; 271a-c / Judgement, 578a-b [1037*10-18] 560d; BK xi, CH 3 [io6i*29~ b i2
+53 JAMES: Psychology, 882a-886a; 889a-890a 589c-d; CH 4 589d-590a; CH 7 592b-593a /
+
+1a. The relation of the philosophy of nature to metaphysics and dialectic
+
+7 PLATO: Phaedo, 240d-242b / Republic, BK vi, 726d 385c-388a; BK vu, 391b-398c
+8 ARISTOTLE: Physics, BK i, CH 2 [i 84^5-185* 161a-165d esp [639^2-640*10] 162a-b 19] 259c-260a; CH 9 [i92*33- b 2] 268c-d; BK ir,
+16 PTOLEMY: Almagest, BK i, 5a-6a
+19 AQUINAS: Summa Theologica, PART i, Q 85, A i, REP 2 451c-453c
+23 HOBBES: leviathan, PART i, 72a-d
+30 BACON: Advancement of Learning, 33b-34b; 42c-43d / Novum Organum, BK II, APH i 137a; APII 9 140b-c
+42 KANT: Pure Reason, 17d-19a / Fund. Prin. Metaphysic of Morals, 253a-d / Practical Reason, 351b-352c / judgement, 561c-562a,c; 578a-b
+51 TOLSTOY: War and Peace, EPILOGUE n, 693d- 694d
+53 JAMES: Psychology, 862a-866a; 884b-886a esp 886a
+
+1b. The relation of the philosophy of nature to mathematics - mathematical method and mathematical principles in natural philosophy
+
+7 PLATO: Republic, BK vii, 391b-398c / Timaeus, 449b-450b; 453b-454a; 458a-460b
+8 ARISTOTLE: Physics, BK II, CH 2 270a-271a; CH 9 [2oo a i5~29] 277c-d / Heavens, BK III, CH i [299 a i-30o a i9] 390b-391c / Metaphysics, BK i, CH 9 [992 tt 29~ b 9] 510c-d; BK II, CH 3 513c-d; BK vi, CH i 547b,d-548c; BK xi, CH 3 [1061*291 CH 4 Iio6i b 33] 589c-590a; CH 7 592b-593a; BK xn, CH 8 [io73 b i-i7] 603d- 604a; BK xui, CH 3 609a-610a / Soul, BK i, CH i [403 b io~i9] 632d
+9 ARISTOTLE: Parts of Animals, BK i, CH i [639** 6-12] 161c-d
+11 NICOMACHUS: Arithmetic, BK i, 812b-d; 813d- 814a
+19 AQUINAS: Summa Theologica, PART i, Q i, A i, REP 2 3b-4a; Q 7, A 3, ANS 32c-33c
+23 HOBBES: Leviathan, PART i, 72a-d; PART iv, 268c-d
+28 GALILEO: Two New Sciences, FIRST DAY, 133b; THIRD DAY, 236d-237a; FOURTH DAY, 252a-b
+31 DESCARTES: Rules, iv, 7a-c; xiv, 31c-d / Objections and Replies, 169c-170a
+34 NEWTON: Principles, la-2a; BK HI, 269a
+42 KANT: Pure Reason, 5a-13d; 17d-19a; 211c- 218d
+51 TOLSTOY: War and Peace, EPILOGUE n, 695b-c
+53 JAMES: Psychology, 882a-883a
+
+2. Experimental physics and the empirical natural sciences - the relation of experimental and philosophical physics
+
+7 PLATO: Republic, BK VII, 391b-398c
+8 ARISTOTLE: Heavens, BK II, CH 13 [293 a i5~3i] 384d; BK III, CH 7 [3o6 a 3-i8] 397b-c / Generation and Corruption, BK i, CH 2 [3i6 a 5~i4] 411c-d
+9 ARISTOTLE: Parts of Animals, BK i, CH i 161a- 165d esp [639 b 32-64o a io] 162a-b
+28 GILBERT: Loadstone, PREF, la-b; BK II, 27b-c
+28 GALILEO: Two New Sciences, THIRD DAY, 202d 203a; 214d
+30 BACON: Advancement of Learning, 16a-b; 30d- 31a; 33b-34b; 42a-43d; 46c-47c / Novum Organum, PREF 105a-106d; BK i, APH 15 108a; APH 51 lllc; APH 54 lllc-d; APH 63 64 113d-114b; APH 66 114d-115c; APH 80 120a-b; APH 95 126b-c; APH 107 128c; APH 109 128d- 129c; BK II, APH i-io 137a-140d esp APH i 137a, APH 9 140b-c
+31 DESCARTES: Discourse, PART vi, 61d-62c
+34 NEWTON: Principles, la-2a; BK III, 269a; RULE in-iv 270b-271b; GENERAL SCHOL, 371b-372a / Optics, BK III, 542a-543b
+35 LOCKE: Human Understanding, BK iv, CH in, SECT 24-29 320c-323a esp SECT 26 321b-c; CH vi, SECT 13 335c-d; CH xn, SECT 9-13 3 60 d 362 d passim, esp SECT 10 361 b-c
+35 BERKELEY: Human Knowledge, SECT 59 424b
+35 HUME: Human Understanding, SECT iv, DIV 23-27 459a-460d esp DIV 26 460b-c; SECT xn, DIV 131-132 508d-509d
+39 SMITH: Wealth of Nations, BK v, 336b-c
+41 GIBBON: Decline and Fall, 299a
+42 KANT: Pure Reason, 5a-13d esp 5c-6c; 17d- 19a / Fund. Prin. Metaphysic of Morals, 253a-d / Intro. Metaphysic of Morals, 387a-b / Judgement, 561c-562a,c; 578a-b
+45 LAVOISIER: Elements of Chemistry, PREF, lc-2d
+49 DARWIN: Origin of Species, 239c
+50 MARX: Capital, 6c
+53 JAMES: Psychology, xiiib-xiva; 883b
+54 FREUD: Narcissism, 400d-401a / General Introduction, 545c-d / Inhibitions, Symptoms, and Anxiety, 722a-b / New Introductory Lectures, 873d-875a esp 874d-875a
+
+2a. The derivation of definitions, distinctions, and principles from the philosophy of nature - the metaphysics of the scientist
+
+8 ARISTOTLE: Heavens, BK III, CH 7 [3o6 a 3-i8] 397b-c / Sense and the Sensible, CH i [436* i6- b i7] 673b-c / Youth, Life, and Breathing, CH 27 [48(^21-30] 726d
+10 HIPPOCRATES: Ancient Medicine, par 1-2 la-d
+28 GILBERT: Loadstone, BK v, 104b-105d; BK vi, 109a-b
+28 GALILEO: Two New Sciences, FIRST DAY, 135b-136b; THIRD DAY, 197a-b; 200a-c
+33 PASCAL: Vacuum, 366a-368b
+34 NEWTON: Principles, BK HI, RULE I-HI 270a- 271a; GENERAL SCHOL, 369b-372a / Optics, BK i, 409b; BK III, 540a; 541b-542a
+34 HUYGENS: Light, CH i, 553b-554a
+35 BERKELEY: Human Knowledge, SECT 102 432d-433a
+42 KANT: Intro. Metaphysic of Morals, 387a-b
+45 LAVOISIER: Elements of Chemistry, PART i, 36b; 41b c
+45 FOURIER: Theory of Heat, 172a
+45 FARADAY: Researches in Electricity, 582b-584a; 595a; 670a; 673d; 824a-b; 837b-c; 839b-c
+53 JAMES: Psychology, viib-viiia; 69b-70a; 84a- 119b esp 89b-90a, 95a; 882a-886a; 889a-890a
+54 FREUD: Narcissism, 400c-401d / Instincts, 412a-b
+
+2b. The treatment of causes in philosophical and empirical physics - description and explanation, theory and prediction
+
+7 PLATO: Phaedo, 240d-246c / Republic, BK vi-vn, 383d-398c / Timaeus, 455a-b
+8 ARISTOTLE: Posterior Analytics 97a-137a,c passim, esp BK i, CH 13 107c-108c, BK II, CH 1-2 122b,d-123c, CH 9 128a-b, CH n 128d- 129d, CH 16-18 134b-136a / Physics, BK II, CH 3 [i94 b i6-23J 271a-b; CH 7-9 275b-278a,c; BK iv, CH 4 [211*6-11] 290a / Metaphysics, BK i, CH i [98i ft 24-982 a i] 499c-500b; CH 2 [982 28-30] SOOc; BK III, CH 2 [996 a i8- b 26] 514d- 515b; BK vi, CH i [io25 b i-i8] 547b,d; BK VII, CH 17 [i04i*iob ii] 565b-d; BK viii, CH 4 [i(>44 a 33- b 2o] 569a-b; BK xi, CH 7 [1063^6- 1064*9] 592b
+9 ARISTOTLE : Parts of Animals, BK i, CH i [639 b io-642 b 4] 161d-165d esp [642*1-30] 165a-c / Gait of Animals, CH i 243a b / Generation of Animals, BK i, CH i [715*1-18] 255a- b; BK iv, CH i [765*35~ b 5] 306c; BK v, CH i [778 b 7-io] 320d
+10 GALEN: Natural Faculties, BK i, CH 4 169a
+12 LUCRETIUS: Nature of Things, BK v [509-533] 67d-68a; BK vi [703-711] 89c-d
+16 COPERNICUS: Revolutions of the Heavenly Spheres, 505a-506a
+16 KEPLER: Epitome, BK iv, 959a-960a
+19 AQUINAS: Summa Theologica, PART i, Q 32, A i, REP 2 175d-178a; Q 57, A 3, ANS 297b- 298a; Q 86, A 4, ANS 463d-464d
+23 HOB BBS: Leviathan, PART i, 60a-b; PART iv, 267a-b
+28 GILBERT: Loadstone, BK i, 6a-7a; BK II, 27b-c
+28 GALILEO: Two New Sciences, THIRD DAY, 202d-203a; FOURTH DAY, 252a b
+28 HARVEY: Circulation of the Blood, 319c / On Animal Generation, 335c-336c; 393b-c; 425a
+30 BACON: Advancement of Learning, 42a-c; 43a-d; 45a-46a; 46c-47c / Novum Organum, BK i, APH 48 HOd-llla; APH 99 127b-c; BK II, APH 2 137b-c / New Atlantis, 210d
+31 DESCARTES: Rules, ix, 15b-d / Discourse, PART vi, 61b-62c; 66a-b / Meditations, iv, 90a-b / Objections and Replies, AXIOM i 131d; 215a-b
+31 SPINOZA: Ethics, PART i, APPENDIX 369b-372d
+34 NEWTON: Principles, la-2a; DEF vin 7b-8a; BK III, RULE i -n 270a; GENERAL SCHOL, 371b- 372a / Optics, BK III, 542a; 543a-b
+34 HUYGENS: Light, CH i, 553b~554a
+35 LOCKE: Human Understanding, BK iv, CH HI, SECT 28-29 322a-323a
+35 BERKELEY: Human Knowledge, SECT 32 418d-419a; SECT 50-53 422c-423a passim; SECT 60-66 424b-426a passim; SECT 101-109 432c-434b passim
+35 HUME: Human Understanding, SECT i, DIV 9 454c-4S5a; SECT iv, DIV 26 460b-c; SECT vn, DIV 57, 475d-476b [fn 2]; DIV 60, 477a; SECT vin, DIV 67 480c-481a
+42 KANT: Pure Reason, 46d-47c / Practical Reason, 311d-314d /Judgement, 557c-558b; 564a- c; 581a-582c
+45 LAVOISIER: Elements of Chemistry, PART i, 9d-10b
+45 FOURIER: Theory of Heat, 169a; 183a-b
+49 DARWIN: Origin of Species, 239c-240d
+51 TOLSTOY: War and Peace, BK ix, 344a-b; BK xi, 470a-c; BK xm, 563a-b; EPILOGUE i, 650b-c; EPILOGUE n, 694d-696d
+53 JAMES: Psychology, 69b-70a; 89b-90a; 742a-b; 745b; 882a-884b passim, esp882b-883a, 884 b; 885a-886a
+54 FREUD: General Introduction, 454b-c; 484a
+
+3. The role of mathematics in the natural sciences - observation and measurement in relation to mathematical formulations
+
+8 ARISTOTLE: Posterior Analytics, BK i, CH 9 [76*3-25] 104b-d; CH 13 [78^1-79*16] 108b-c / Physics, BK II, CH 2 [194*7-11] 270b-c; BK VII, CH 5 333a-d / Metaphysics, BK xm, CH 3 [1078*5-17] 609b-c
+9 ARISTOTLE: Gait of Animals, CH 9 247a-248a
+11 ARCHIMEDES: Equilibrium of Planes 502a- 519b / Floating Bodies 538a-560b / Method 569a-592a
+14 PLUTARCH: Marcellus, 252a-255a
+16 KEPLER: Epitome, BK v, 964b-965a
+18 AUGUSTINE: Confessions, BK v, par 3-6 27c- 28c / Christian Doctrine, BK II, CH 29, 651b*c
+19 AQUINAS: Summa Theologica, PART i, Q 32, A i, REP 2 175d-178a; PART I-H, Q 35, A 8, ANS 779c-780c
+20 AQUINAS: Summa Theologica, PART II-n, Q 9, A 2, REP 3 424b-425a
+23 HOBBES: Leviathan, PART i, 72a-d; 73 b; PART iv, 268c-d
+28 GALILEO: Two New Sciences, FIRST DAY, 131b-132a; 133b; FOURTH DAY, 245 b-d; 252a-b 374 (3. The role of mathematics in the natural sciences; observation and measurement in relation to mathematical formulations.)
+30 BACON: Advancement of Learning, 46b-c / Novum Organum, BK i, APH 109, 129b; BK II, APH 8 140b; APH 39, 170b-c
+31 DESCARTES: Rules, iv, 7a-c; xiv, 31c-d / Discourse, PART i, 43b-c; PART in, 50d / Objections and Replies, 169c-170a
+34 NEWTON: Principles, la-2a; DEF vm 7b*8a; BK i, PROP 69, SCHOL, 131a; BK III, 269a
+34 HUYGENS: Light, PREF, 551b-552a
+35 HUME: Human Understanding, SECT iv, DIV 27 460c-d
+36 SWIFT: Gulliver, PART in, 94b-103a
+41 GIBBON: Decline and Fall, 299b-c
+42 KANT: Judgement, 551a-552a
+45 LAVOISIER: Elements of Chemistry, PART i, 14a-c; 33b-36a; 41a-44d; PART in, 96b-103b
+45 FOURIER: Theory of Heat, 169a-b; 172a-173b; 175b; 177a; 182b-184a; 249a-b
+45 FARADAY: Researches in Electricity, 831b-c
+50 MARX: Capital, 170a-c
+51 TOLSTOY: War and Peace, BK xi, 469a-d
+53 JAMES: Psychology, 126a-b; 348a-359a esp 351a 354a; 675b; 876a-b; 882a-884b
+
+4. The experimental method in the study of nature
+
+    [sem referências]
+
+4a. The distinction between simple observation and experimentation - the art of creating ideal or isolated physical systems
+
+28 GALILEO: Two New Sciences, FIRST DAY, 148d-149c; 166d-167b
+28 HARVEY: Circulation of the Blood, 320b
+50 MARX: Capital, 6c
+53 JAMES: Psychology, 126a-127b
+54 FREUD: New Introductory Lectures, 815a-c
+
+4b. Experimental discovery - inductive generalization from experiment; the role of theory or hypothesis in experimentation
+
+10 HIPPOCRATES : Ancient Medicine, par 1-8 la-3b
+28 GILBERT: Loadstone, PREF, la b; BK i, 6a- 7a; BK II, 27c-28a
+28 GALILEO: Two New Sciences, FIRST DAY, 131a 138b; 157b-171b passim; THIRD DAY, 203d- 205 b; 207d-208a
+28 HARVEY: Motion of the Heart, 273c-d; 280c-d; 285c-d / On Animal Generation, 331b-333d; 336b-d; 383d; 451b-c
+30 BACON: Advancement of Learning, 16a; 30d- 31a; 34b; 42a-c; 56c-59c / Novum Organum, PREP-BK 1 105a-136a,c esp BK i, APH 64 114b, APH 70 116b-117a, APH 82 120d-121b, APH 99-100 127b-c; BK II, APH 11-14 140d-148d; APH 36 164a-168d
+31 DESCARTES: Discourse, PART vi, 61d-62c
+33 PASCAL: Vacuum, 359a-365b / Equilibrium of Liquids 390a-403a passim
+34 NEWTON: Principles, BK III, RULE ni-iv 270b- 271b; GENERAL SCHOL, 371b-372a / Optics, BK i, 379a; 386b-404b; 424a-440a; 450a-453a; BK II, 457a-478b; BK u-iii, 496a-516a; BK III, 543a-b
+34 HUYGENS: Light, PREF, 551b-552a
+35 LOCKE: Human Understanding, BK III, CH vi, SECT 46-47 281d-282b; BK iv, CH xn, SECT 9-13 360d-362d passim
+42 KANT: Intro. Metaphysic of Morals, 387a-b
+45 LAVOISIER: Elements of Chemistry, PREF, 2a-b; PART i, 10d-12d; 17a-20d esp 17a; 22d-24a; 29d33b
+45 FOURIER: Theory of Heat, 172a; 175b; 184a
+45 FARADAY: Researches in Electricity, 265a-273a esp 272c-273a; 277a-300a; 319b,d-330d; 347a-351c; 362d-366c; 371d-377d; 440b,d; 607a,c; 659a; 774d-775a; 851a-c
+49 DARWIN: Origin of Species, 136b-139a passim
+53 JAMES: Psychology, 126a-127a; 265a-268a; 341a-344b; 348a-357b passim; 385a-b
+
+4c. Experimental testing and verification - the crucial experiment
+
+10 GALEN: Natural Faculties, BK i, CH 13 173d- 177a; BK III, CH 2 199d 200a; CH 4 201b-202c; CH 8 205a-207b
+21 DANTE: Divine Comedy, PARADISE, 11 [46-105] 108b-d
+28 GALILEO: Two New Sciences, FIRST DAY, 148c-149c; 166d-168a; THIRD DAY, 200a-b; 202d-203a; 203d-205b; 207d 208c
+28 HARVEY: Motion of the Heart, 268d-273c esp 268d, 273c; 286b-304a,c esp 286b-c, 295d- 296a / Circulation of the Blood, 311c-312c; 324c-d
+30 BACON: Novum Organum, BK II, APH 36 164a-168d
+31 DESCARTES: Discourse, PART vi, 61c-62c; 66a-b
+33 PASCAL: Vacuum, 368b-370a / Great Experiment 382a-389b / Weight of Air, 404a-405b; 425a-429a
+34 NEWTON: Principles, LAWS OF MOTION, SCHOL, 19b-22a; BK II, GENERAL SCHOL 211b-219a; PROP 40, SCHOL 239a-246b / Optics, BK i, 392a-396b; 408a-410b; 412a-416b; 453a- 455a; BK III, 543a-b
+34 HUYGENS: Light, PREF, 551b-552a
+35 LOCKE: Human Understanding, BK iv, CH xii, SECT 13 362c-d
+45 LAVOISIER: Elements of Chemistry, PREF, 2a-b; PART i, 17a-b; 32a-33a
+45 FOURIER: Theory of Heat, 181 b; 184a
+45 FARADAY: Researches in Electricity, 300b-316a; 334b-335c; 377d-383a; 385b-c; 388c-389d; 440b,d; 467a-b; 830b-832c
+49 DARWIN: Origin of Species, 12b-c; 149d-150a
+53 IAMES: Psychology, 865a; 882a-884b
+54 FREUD: Interpretation of Dreams, 291d-292a / Narcissism, 401a / New Introductory Lectures, 815a b; 818c-819b Uto 5 CHAPTER 67: PHYSICS 375
+
+4d. Experimental measurement - the application of mathematical formulae
+
+28 GILBERT: Loadstone, BK iv, 85c 89c; BK v, 92a-93b
+28 GALILEO: Two New Sciences, FIRST DAY, 136d-137c esp 137b-c; 148d-149c; 164a-166c esp 165c-166c; THIRD DAY, 207d 208c
+28 HARVEY: Motion of the Heart, 286c 288c
+34 NEWTON: Principles, LAWS OF MOTION, SCHOL, 20a-22a; BK II, GENLRAL SCHOL 211b-219a; PROP 40, SCHOL 239a-246b
+45 LAVOISIER: Elements of Chemistr\, PART i, 14a-c; 17a-20b; 22d-24a; 30a-32d; 33b-36a; PART in, 87d-90a; 91a-95a; 96b-103b
+45 FOURIER: Theory of Heat, 175b; 184b-185b
+45 FARAUAY: Researches in Electricity, 277d-279a; 316b-318c; 366d-371d; 444a-451a; 465d- 467a,c; 768d 773d; 778b,d-793c
+53 JAMES: Psvchology, 56a-66a esp 61b-64a; 126a; 265a-268b; 341a-344b; 348a-359a
+
+5. The utility of physics - the invention of machines; the techniques of engineering; the mastery of nature
+
+14 PLUTARCH: Marcellus, 252a 255a
+28 GILBERT: Loadstone, BK III, 75a b; BK iv, 85c-89c; BK v, lOOc-lOld
+28 GALILEO: Two New Sciences, FIRST DAY, 160d-161a; SECOND DAY, 191b-193b
+30 BACON: Advancement of learning, 34b / Not'um Organum, BK i, APH 81 120b>c; APH 124 133c-d; APH 129 134d-135d; BK II, APH 39, 170b-c - APH 44-51 175d-194c / New At- lantis, 210d-214d
+31 DF.SC \RTts - Discourse, PART vi 60d-67a,c esp 61b-c 33 P \SCAL: Equilibrium of Liquids, 392b-393a
+34 NJAVI-ON: Optics, BK i, 412a 423b
+35 LOCKK: Human Undet standing, BK iv, en xn, SFCT n-12 361c 362c
+36 SWIFI : Gulliver, PART in, 99b 112a
+39 SMI in - Wealth of Nations, IK i, 5d-6a
+40 GIBBON: Decline and Vail, 661c 663c
+41 GIBBON: Decline and Fall, 291d-292c; 509d- 510a,c
+45 LAVOISIER: Elements of Chemistry, PART i, 26c-27a - 4la-44d; 45c-d
+45 FOURIER: Theory of Heat, 170a-172a; 184a; 213b 45 F\R\DAY: Researches in Electricity 390b; 433a- 440a,c
+50 MARX: Capital, 170a c; 180d 188c; 239c-d
+50 MARX-ENGELS: Communist Manifesto, 421d
+54 FREUD: Civilization and Its Discontents, 777a; 778b-779a <ref_end>

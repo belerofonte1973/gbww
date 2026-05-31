@@ -336,3 +336,669 @@ Probability, PART n,
 CH 12-14 SANTA YANA. Scepticism and Animal Faith, CH 1 3 MEYERS ON. Du
 cheminement de la pensee ophy, CH 14 B. RUSSELL. Introduction to Mathematical
 Philos. An Inquiry into Meaning and Truth, CH 24
+
+REFERENCES
+============================================================
+
+1. Definitions or descriptions of reasoning: the process of thought
+
+7 PLATO: Phaedo, 244c-245c / Republic, BK vi372b vir, 383d-398c / Theaetetus, 537d-538a /
+8 ARISTOTLE: Prior Analytics, BK i, CH i[ 24 b i8- 119a-b, 129c-130c, 158a-159d, 173b-174a, 22] 39c / Topics, BK i, CH 1 143a-d / Sophistical 185b-c, 187a-c, 193d-194b, 199a-c; 224a-227a Refutations, en i [165*1-3] 227b; CH 2 227d- /Judgement, 551a-552c; 570b-572c 228a
+12 EPICTETUS: Discourses, BK i, CH 7 112b-113d
+17 PLOTINUS: Fourth Ennead, TR iv, CH 12, 164b 300a
+18 AUGUSTINE: Christian Doctrine, BK II, CH 31
+19 AQUINAS: Summa Theologica, PART i, Q 14, 664a-693b esp 666b-668a, 672b-678b, 690a-b A 7 81d-82b; Q 58, A 3 301d-302d; A 4, ANS
+20 AQUINAS: Summa Theologica, PART 11-11, Q 2, A i 391a-392a; Q 8, A i, REP 2 417a-d; PART Q n, A 3 773d-774c
+23 HOBBES: Leviathan, PART i, 56d-57a; 58a-c;
+28 HARVEY: On Animal Generation, 332a-335c [415*7-12] 645b / Memory and Reminiscence,
+31 DESCARTES: Rules la-40a,c passim, esp v- CH 2 [453*5-! 4l 695b vn 7d-12a, x-xn 15d-25a, xiv, 28b-29a, 32d
+35 LOCKE: Human Understanding, BK iv, CH n, \b to \c 390a~b; BK VH, CH 3 [ii47 b 2-5J 397d CH XVII 3 7 lc ,3 8 od pa ssim, esp SECT 2 371d- / Politics, BK vii, CH 13 [i332*39- b 8] 537a-b
+38 ROUSSEAU: Inequality, 337d-342c Sophist, 570a-577b / Statesman, 594d-595d
+45 LAVOISIER: Elements of Chemistry, PREF, la
+42 KANT: Pure Reason, 15d-16c; 20a; 34c-35b; / Seventh Letter, 809c-810d 108a-209d esp 109d-112d, 115d-116a, 118a-c, SFCT 2 _ I3 30 9d-312b; CH xv, SECT i 365a-c;
+49 DARWIN: Descent of Man, 292b-293d; 299b-
+53 JAMES: Psychology, 146a-187a esp 161a-176a, 651d-652b 179b-184a, 186a; 360a-362b; 381b-385b;
+54 FREUD: Interpretation of Dreams, 337a; 363b- 302d-303c; Q 79, AA 8-9 421c-423d; A 10, 364b esp 364a-b; 367b-c; 377c-379c esp REP 2-3 423d-424d; Q 84, A 3, REP 3 443d- 379a-c; 384c-385c / Unconscious, 442d-443a 444d; Q 85, A 5, ANS 457d-458d / Ego and Id, 700a-701d esp 701d
+#1a - Human reasoning compared with the reasoning of animals
+8 ARISTOTLE: Metaphysics, BK i, CH i (98o b 25- 60a 27] 499b / Soul, BK II, CH 3 [414*17-20] 644d;
+9 ARISTOTLE: History of Animals, BK i, CH i ' Objections and Replies, 137a [488^0-27] 9d / Ethics, BK vi, CH 7 [1141*22-
+10 GALEN: Natural Faculties, BK i, CH 12, 173a-c
+12 AURELIUS: Meditations, BK v, SECT 16 271c-d; BK vi, SECT 23 276b; BK ix, SECT 9 292b-d
+19 AQUINAS: Summa Theologtca, PART i, Q 76, A 5, REP 4 394c-396a; Q 78, A 4, ANS and REP 5 411d-413d; Q 81, A 3, ANS and REP 2 430c- 431d; Q 86, A 4, REP 3 463d-464d; Q 96, A i, REP 4 510b-511b; PART i-n, Q 13, A 2, REP 3 673c-674c
+20 AQUINAS: Summa Theokgica, PART i-n, Q 50, A 3, REP 2 8b-9a
+23 HOBBES: Leviathan, PART i, 52b; 53a-b; 53d- 54a; 57d; 59b-c; 63a; 64a-c; 79b-c; PART 11, lOOa-c; PART iv, 267b
+25 MONTAIGNE: Essays, 215a-223b passim, esp 220b-223b
+30 BACON: Novum Organum, BK II, APH 35, 163d
+31 DESCARTES: Discourse, PART v, 59a-60c / Objections and Replies, 156c-d
+32 MILTON: Paradise Lost, BK VII [449-549] 227a- 229a; BK VIII [369-451] 240a-242a; BK ix [549- 566] 259b
+33 PASCAL: PensSes, 339-344 233a-b
+35 LOCKE: Human Understanding, BK II, CH xi, SECT ii 145d-146a; CH xxvn, SECT 8 221a- 222a; BK iv, CH xvn, SECT i 371c-d
+35 BERKELEY: Human Knowledge, INTRO, SECT n 407b-408a
+35 HUME: Human Understanding, SECT ix 487b- 488c
+36 SWIFT: Gulliver, PART iv, 151b-152a; 159b- 160a
+38 ROUSSEAU: Inequality, 337d-338a; 341d-342a / Social Contract, BK i, 393b-c
+42 KANT: Pure Reason, 199c-200c / Pref. Metaphysical Elements of Ethics, 372a-b / Judgement, 602b,d [fn i]
+49 DARWIN: Descent of Man, 292b-297c csp 292b-294c; 400a-c
+51 TOLSTOY: War and Peace, EPILOGUE n, 689c- 690a
+53 JAMES: Psychology, 665a-666b; 676b-677a csp 677a; 679a-686b esp 679a-683a, 686a-b; 873a
+
+1b. Discursive reasoning contrasted with immediate intuition
+
+7 PLATO: Republic, BK vi, 386d-388a / Seventh Letter, 809c-810d
+8 ARISTOTLE: Metaphysics, BK ix, CH 6 [1048** 18-34]. 574a-c; CH 9 [1051*22-34] 577b-c; BK xn, CH 7 [1072*14-29] 602d-603a; CH 9 605a-d
+17 PLOTJNUS: Fourth Ennead, TR HI, CH 18 151b-c; TR iv, CH i 159a-d; CH 12, 164b / Fifth Ennead, TR in, CH 3 216c-217b; TR v, - . CH.i-2 228b-229d passim.; CH 7 231d-232b; TR vi 235b-237d
+18 AUGUSTINE: Confessions, BK ix, par 23-25 68a-c; BK xn, par 16 102d~103a / City of God, BK ix, CH 22 296d-297a; BK xi, CH 2 323a-c; CH 7 326a-c; CH 21 333a-d; CH 29 339a-b; BK xvi, CH 6 426c-427a; BK XXH, CH 29, 614b-d
+19 AQUINAS: Summa Theologtca, PART i, Q 14, A 7 81d-82b; Q 34, A i, REP 2 185b-187b; Q 46, A 2, REP 3 253a-255a; Q 58, A 3 301d-302d; A 4, ANS 302d-303c; Q 79, A 8, ANS and REP 3 421c-422b; Q 85, A 5, ANS 457d-458d; PART i-n, Q 14, A i, REP 2 677b-678a; Q 15, A 4, REP i 683b ; 684a
+21 DANTE: Divine Comedy, PARADISE, n [43-45] 108a
+30 BACON: Advancement of Learning, 17b-c / Novum Organum, BK II, APH 15 149a
+31 DESCARTES: Rules, in, 4a-d; xi 17b-18b; xn, 23b-c / Objections and Replies, 123a-b
+31 SPINOZA: Ethics, PART 11, PROP 40, SCHOL 2 388a-b; PART v, PROP 28 459b
+32 MILTON: Paradise Lost, BK v [469-505] 185b- 186a
+33 PASCAL: Penstes, 1-5 171a-173a; 277-288 222b-224b
+35 LOCKE: Human Understanding, BK i, CH in, SECT 23 119b-120a; BK iv, CH i, SECT 9, 309b; CH ix, SECT 2-3 349a-c; CH xvn, SECT 14-17 378c-379c
+36 STERNE: Tristram Shandy, 318b-319a
+42 KANT: Pure Reason, 33a-d / Practical Reason, 320c-321b; 337a-c; 350c-351b / Judgement, 572d-574b; 579a
+
+1c. The role of sense, memory, and imagination in reasoning: perceptual inference, rational reminiscence, the collation of images
+
+7 PLATO: Meno, 179d-183a; 188d-189a / Phaedo, 224a-225c; 228a-230a / Republic, BK III, 333b-d; BK vi-vn, 383d-398c / Seventh Letter, 809c-810d
+8 ARISTOTLE: Posterior Analytics, BK II, CH 19 136a-137a,c / Soul, BK i, CH i [403*2-16] 632a-b; BK HI, CH 7 [43i tt i4- b i9] 663d-664b / Sense and the Sensible, CH i [436^1 7-437*1 7] 673d-674a / Memory and Reminiscence, CH 2 [453 a 5-i5l 695b
+12 LUCRETIUS: Nature of Things, BK iv [353-521] 48d-51a esp [469-521] 50b-51a
+18 AUGUSTINE: Confessions, BK x, par 10 73d- 74a; par 16-19 7Sb-76b; par 26-38 78a-81a / City of God, BK VIII, CH 6, 269b-c
+19 AQUINAS: Summa Theologtca, PART i, Q 78, A 4, ANS and REP 4-5 411d-413d; Q 81, A 3, ANS and REP 2 430c-431d
+23 HOBBES: Leviathan, PART i, 52b-54c; 60a-b; PART iv, 267b
+28 HARVEY: On Animal Generation, 332a-335c esp 334c-d
+31 DESCARTES: Rules, xn, 18b-c; 20b-d; xiv 28a-33b / Discourse, PART i, 41d / Objections and Replies, 229d-230c 558 2to3a (I. Definitions or descriptions of reasoning: the process of thought. Ic, The role of sense, memory, and imagination in reasoning: perceptual inference, rational reminiscence, the collation of images!)
+35 LOCKE: Human Understanding, BK II, CH xi, SECT 13 146b-c
+36 STERNE: Tristram Shandy, 234b-236b
+38 ROUSSEAU: Inequality, 341d-342a
+42 KANT: Pure Reason, 23a-24a; 34a-c; 54b 64a; llld-112a / Practical Reason, 352c-353a
+49 DARWIN: Descent of Man, 292d-293d
+53 JAMES: Psychology, 381b-385b; 525a-526b; 664a-666b csp 664b-665b; 667b-674a; 676a- 686b esp 677a-678b
+
+2. The rules of reasoning: the theory of the syllogism
+
+7 PLATO: Phaedo, 244c-245c
+8 ARISTOTLE: Categories, CH 3 [i b io-i6] 5c-d / Prior Analytics 3fca-93a,c / Posterior Analytics, BK i, CH 14 108d-109a
+9 ARISTOTLE: Rhetoric, BK i, CH 2 596a
+12 EPICTETUS: Discourses, BK i, CH 7 112b- 113d
+18 AUGUSTINE: Christian Doctrine, BK u, CH 31- 34 651d-653b
+23 HOBBES: Leviathan, PART i, 56b-58a; 58d- 60b
+30 BACON: Advancement of Learning, 56c-58b esp 57b-58b; 59c-60a; 96d-97a / Novum Organum, BK i, APH 14 107d-108a; APH 104-106 128a-c; BK II, APH 27-32 157b-161b esp APH 32 161a-b
+31 DESCARTES: Rules la-40a,c passim, esp v-vn 7d-12a, X-XH 15d-25a, xiv, 28b-29a, 32d / Discourse 41a-67a,c esp PART i, 41d-42b, PART II, 45b-c, 46c-48b, PART in, 50b-51a, PART iv, 52a
+33 PASCAL: Geometrical Demonstration, 430b- 434a; 442a-443b
+35 LOCKE: Human Understanding, BK iv, CH xvn, SECT 4-8 372c-377d
+36 STERNE: Tristram Shandy, 318b-319a
+41 GIBBON: Decline and Fall, 299b
+42 KANT: Pure Reason, 59c-108a,c; 110d-112d esp llOd-lllc; 115d-119a / Fund. Prin. Metaphysic of Morals, 253a-b / Judgement, 600d- 603d esp 601d-602b
+53 JAMES: Psychology, 667b-668a; 868b-873a esp 869b-870a, 871a, 872b-873a; 878b-879a
+
+2a. The structure of a syllogism: its figures and moods
+
+8 ARISTOTLE: Prior Analytics, BK i, CH 1-26 39a-60b
+24 RABELAIS: Gargantua and Pantagruel, BK i, 22b-c
+30 BACON: Advancement of Learning, 59c-60a
+35 LOCKE: Human Understanding, BK iv, CH xvn, SECT 4, 373c-375a; SECT 8 377b-d
+42 KANT: Pure Reason, 110d-112d esp llOd-lllc; 118a-c
+#2a(1) The number of premises and the number of terms: the middle term in reasoning
+8 ARISTOTLE: Prior Analytics, BK i, CH 4 [25* 32-39] 40d; CH 25 58d-59d; CH 32 65a-d / Metaphysics, BK v, CH 3 [ioi4*35- b 3] 534c
+30 BACON: Advancement of Learning, 59c-60a
+35 LOCKE: Human Understanding, BK iv, CH xvn. SECT 4, 374d-375a; SECT 8, 377c-d
+36 STERNE: Tristram Shandy, 318b-319a
+42 KANT: Pure Reason, 110d-112d esp llOd-lllc, 112a; 118a-c
+53 JAMES: Psychology, 667b<668a; 672b
+#2a(2) Affirmation, negation, and the distribution of the middle term: the quantity and the quality of the premises
+8 ARISTOTLE: Prior Analytics, BK i, CH 4-7 40d- 45b; CH 24 58b-d; CH 26 59d-60b; CH 33 65d-66a / Posterior Analytics, BK i, CH 14 108d-109a
+19 AQUINAS: Summa Theologica, PART i, Q 86, A i, REP 2 461c-462a
+35 LOCKE: Human Understanding, BK iv, CH xvn, SECT 8, 377b-c
+42 KANT: Pure Reason, 39c-41c esp 39d-40c
+
+2b. The kinds of syllogism: categorical, hypothetical, disjunctive, modal
+
+8 ARISTOTLE: Prior Analytics, BK i, CH 23 57b- 58b; CH 27-29 60b-63d; CH 44 68d-69b
+42 KANT: Pure Reason, llOd-lllc esp lllb; 175c-d
+
+2c. The connection of syllogisms: sorites, prosyllogisms and epi-syllogisms
+
+8 ARISTOTLE: Prior Analytics, BK i, CH 25 [42 b i-26] 59c-d / Posterior Analytics, BK i, CH 25 [86 a 33- b 29J 118a-c
+35 LOCKE: Human Understanding, BK iv, CH xvn, SECT 4 373a-374d; SECT 15, 379a-b
+42 KANT: Pure Reason, llld-112d; 115d-119a
+53 JAMES: Psychology, 872b-873a
+
+3. The truth and cogency of reasoning
+
+    [sem referências]
+
+3a. Formal and material truth: logical validity distinguished from factual truth
+
+8 ARISTOTLE : Prior Analytics, BK II, CH 2-4 72d-77a / Posterior Analytics, BK i, CH 12 [77 b i6-34] 106d-107a / Physics, BK i, CH 2 [185*5-12] 259d; CH 3 [i86 ft 4 -9] 260d-261a
+10 GALEN: Natural Faculties, BK i, CH 14, 178c-d
+12 EPICTETUS: Discourses, BK i, CH 7 112b-113d
+18 AUGUSTINE: Christian Doctrine, BK u, CH 31- 34 651d-653b CHAPTER 77: REASONING 559
+30 BACON: Advancement of Learning, 57d-58a; 59c~60c / Novum Organum, BK i, APH 14 107d-108a
+31 DESCARTES: Rules, x, 16d-17a / Objections and Replies, 126b-127c
+35 LOCKE : Human Understanding, BK II, CH xi, SECT 13 146b-c
+42 KANT: Pure Reason, 36a-37d esp 36b-37b; 180c-182b; 193a-b
+44 BOSWELL: Johnson, 134c-d
+51 TOLSTOY: War and Peace, EPILOGUE n, 683d- 684a
+53 JAMES: Psychology, 872b; 879b-885a esp 880b-882a
+
+3b. Lack of cogency in reasoning: invalid syllogisms; formal fallacies
+
+8 ARISTOTLE: Prior Analytics, BK II, CH 16-21 85c-89b / Posterior Analytics, BK i, CH 12 [77 b i6-34] 106d-107a / Physics, BK i, CH 2 [185*5-12] 259d; CH 3 [186*4-9] 260d-261a
+9 ARISTOTLE: Rhetoric, BK II, CH 24 649d-651d
+12 EPICTETUS: Discourses, BK i, CH 7 112b- 113d
+18 AUGUSTINE: Christian Doctrine, BK 11, CH 31- 34 651d-653b
+24 RABELAIS: Gargantua and Pantagruel, BK i, 23b-c
+31 DESCARTES: Objections and Replies, 126b-127c
+33 PASCAL: Vacuum, 368b-369a
+42 KANT: Pure Reason, 109b-c; 133d
+53 JAMES: Psychology, 108a-b; 227b-228a; 236b [fn i]; 526b [fn i]
+
+3c. Lack of truth in reasoning: sophistical arguments; material fallacies
+
+7 PLATO: Euthydemus 65a-84a,c / Phaedo, 237b- 238a
+8 ARISTOTLE: Prior Analytics, BK i, CH 34-35 66b-d; BK II, CH 18 87a-b / Posterior Analytics, BK i, CH 16-17 109b-lllb / Topics, BK i, CH i [ioo b 23-ioi*i8] 143b-d; BK VIII, CH 10 [i6o b 23-39] 218b-c; CH 12-13 220c-221d / Sophistical Refutations 227a-253d / Physics, BK i, CH 2 [185*5-12] 259d; CH 3 [186*4-9] 260d-261a
+9 ARISTOTLE: Rhetoric, BK H, CH 24 649d-651d
+12 EPICTETUS: Discourses, BK i, CH 7 112b- 113d
+18 AUGUSTINE: Christian Doctrine, BK II, CH 31 651d-652b
+23 HOBBES: Leviathan, PART i, 56b-d; 58d-60c
+30 BACON: Advancement of Learning, 60a-61d / Novum Organum, BK i, APH 38-69 109c-116b
+31 DESCARTES: Rules, x, 16d-17a / Objections and Replies, 126b'U7c
+33 PASCAL: Vacuum, 367a-368b
+35 LOCKE: Human Understanding, BK II, CH i, SECT 10, 123c; CH xi, SECT 13 146b-c; BK iv, CH XVH, SECT 19-21 379d-380a
+35 HUME: Human Understanding, SECT vin, DIV 75, 484c; SECT xn, DIV 132 509a*d
+42 KANT: Pure Reason, 36d-37d; 109b-c; 120c- 121c; 133d
+
+3d. Necessity and contingency in reasoning: logical necessity; certainty and probability
+
+8 ARISTOTLE: Prior Analytics, BK i, CH i [24**! 8- 26] 39c; CH 8-22 45b-57b; CH 30 [46 a 3-io] 63d; BK II, CH 25 91a-b / Posterior Analytics, BK i, CH 2 [72 a 25- b 4] 98d-99a; CH 6 [75*12-28] 103a-b / Topics, BK i, CH i [ioo a 25- b 23J 143a-b; BK II, CH 5 [112*16-23] 157b-c; BK VIH, CH 12 [i62 a 35- b 2J 220c / Physics, BK II, CH 9 [200*1^-29] 277c-d / Metaphysics, BK v, CH 5 [ioi5 b 6-8] 535d-536a; BK VH, CH 15 [io39 b 3 1-1040*8] 563d-564a; BK xn, CH 8 [1074*14-16] 604c
+9 ARISTOTLE: Ethics, BK i, CH 3 [io94 b i2-27] 339d-340a; CH 7 [1098*25^7] 343d-344a; BK vi, CH 3 388b-c / Rhetoric, BK i, CH i [1355*3- 18] 594b; CH 2 [i357 B i4-3o] 596d-597a; BK II, CH 25 [i402 b i3-i403*i7] 652b-6S3a
+12 EPICTETUS: Discourses, BK i, CH 7, 112d*113d; CH 26, 13 Ib
+16 COPERNICUS: Revolutions of the Heavenly Spheres, 505a-506a
+19 AQUINAS: Summa Theologica, PART i, Q 12, A 7, ANS and REP 2 56a-57b; Q 19, A 8, REP 3 116a-d; Q 44, A i, REP 2 238b 239a; Q 47, A i, REP 3 2S6a-257b; Q 82, A 2, ANS 432d-433c; PART i-ii, Q 13, A 5, ANS 675c-676b; A 6, REP 1-2 676c-677b
+20 AQUINAS: Summa Theologica, PART i-n, Q 94, A 4, ANS 223d-224d; PART II-H, Q 4, A 8 409a-d; PART HI, Q 9, A 3, REP 2 765b-766b
+23 HOBBES: Leviathan, PART i, 65c-d; 71c
+31 DESCARTES: Rules, n 2a-3b; xn, 23b / Discourse, PART II, 46c-48b / Meditations, i, 76c
+33 PASCAL: Vacuum, 368b-369a
+34 HUYGENS: Light, PREP, 551b-552a
+35 LOCKE: Human Understanding, BK iv, CH xv, SECT 1-3 365a-d esp SECT i 365a-c; CH xvi 366d-371c passim; CH XVH, SECT 2 371d- 372b; SECT 15-17 378d-379c
+35 HUME: Human Understanding, SECT iv, DIV 20-21 458a-c; SECT vi 469d-470d esp 469d [fn i]; SECT x, DIV 87-88 489b-490b
+38 ROUSSEAU: Inequality, 348a,c
+42 KANT: Pure Reason, 14d; 17d-18a; 194b-d / Intro. Metaphysic of Morals, 387a-d
+53 JAMES: Psychology, 878a-884b
+
+4. The types of reasoning, inference, or argument
+
+    [sem referências]
+
+4a. Immediate inference: its relation to mediated inference or reasoning
+
+7 PLATO: Euthyphro, 196d
+8 ARISTOTLE: Interpretation, CH 7 [i7 b 23~37] 27b-c; CH 10 [20*16-37] 30d-31b / Prior 560 Analytics, BK i, CH 2-3 39d-40c; BK II, CH 8-10 79b-81b; CH 22 [67 b 26-68*24] 89b-d
+42 KANT: Pure Reason, 17d-18a; 109d-lHc esp 109d-110a, HOd-lllc
+
+4b. The direction and uses of reasoning: the distinction between proof and inference, and between demonstration and discovery
+
+7 PLATO: Republic, BK vi, 383d-388a
+8 ARISTOTLE: Posterior Analytics, BK i, CH 3 [72 b 25-33] 99c / Topics, BK i, CH 2 143d-144a / Sophistical Refutations, CH 2 227d-228a; CH lo-n 234d-237c
+9 ARISTOTLE: Ethics, BK i, CH 4 [i<>95 ft 3o- b i3] 340c-d
+11 ARCHIMEDES: Method, 569b-570a
+23 HOB BBS: Leviathan, PART iv, 267a-b
+30 BACON: Advancement of Learning, 56c-58b; 59c-d; 96d-97a / Novum Organum, PREP 105a-106d; BK i 107a-136a,c esp APH 11-26 107d-108d, APH 29-30 109a, APH 69 116a-b, APH 103-106 127d-128c
+31 DESCARTES: Rules, 11, 2c-3a; x, 16d-17a; xiv, 28b-c / Discourse, PART II, 46c-48b
+33 PASCAL: PensSes, i 171a-172a; 40 177b- 178a
+35 LOCKE: Human Understanding, BK iv, CH vn, SECT n, 340c-341a; CH XVH, SECT 2-3 371d- 372b; SECT 6-7 376c-377b
+42 KANT: Pure Reason, 15d-16c; llOd-lllc; 119a-b; 193a-200c esp 193d-194b, 199a-c / Practical Reason, 294a-b / Judgement, 570b- 572b; 572d-574b; 600d-603d esp 603b-c
+53 JAMES: Psychology, 381b-385b esp 382a, 384a- 385b; 672b-673b
+
+4c. Inductive and deductive reasoning
+
+8 ARISTOTLE : Prior Analytics, BK II, CH 23 90a-c / Posterior Analytics, BK i, CH i [71*1-11] 97a; CH 3 [72 b 25~33] 99c; CH 18 lllb-c; BK II, CH 7 [92 a 34- b i] 126b / Topics, BK i, CH 12 148d; CH 18 [io8 b 7~i2] 152d; BK VIII, CH 14 [164*11-16] 222d
+9 ARISTOTLE: Ethics, BK i, CH 4 [1095*30- b 8] 340c; en 7 [i098*35- b 3] 343d; BK vi, CH 3 388b-c / Rhetoric, BK i, CH 2 [1356*36- 1358*35] 596a-598b; BK II, CH 20-22 640d- 645a
+28 GALILEO: Two New Sciences, FOURTH DAY, 252a-b
+28 HARVEY: Motion of the Heart, 280c
+30 BACON: Advancement of Learning, 42a-c; 57b- 58b; 61d; 96d-97a / Novum Organum, BK i 107a-136a,c esp APH 11-26 107d-108d, APH 69 116a-b, APH 103-106 127d-128c
+31 DESCARTES: Rules, n, 2d-3a; in, 4c-d; vix 10b-12a; xi 17b-18b; xn, 23b-24c / Discourse, 4b to 4/ 61d-62c / Objections and Replies, PART VI, 167c-d
+34 NEWTON: Principles, BK III, RULE iv 271b / Optics, BK III, 543a-b
+35 LOCKE: Human Understanding, BK iv, CH xn, SECT 6-13 360a-362d
+35 HUME: Human Understanding, SECT i, DIV 9 454c-455a; SECT in, DIV 19, 458a; SECT iv, DIV 26 460b-c; SECT vni, DIV 65, 479b-c; SECT ix, DIV 82 487b-c; SECT xn, DIV 131-132 508d-509d passim
+42 KANT: Pure Reason, 45b-46a; 195d-197b
+43 MILL: Utilitarianism, 445a-447b passim; 475b,d [fn i] passim
+45 FARADAY: Researches in Electricity, 659a
+51 TOLSTOY: War and Peace, EPILOGUE n, 690b
+53 JAMES : Psychology, 674a-675b esp 675b
+
+4d. Direct and indirect argumentation: proof by reductio ad absurdum; argument from the impossible or ideal case
+
+8 ARISTOTLE: Prior Analytics, BK i, CH 23 57b- 58b; CH 29 62d-63d; BK II, CH 11-14 81b- 84b; CH 17 86b-87a / Posterior Analytics, BK i, CH 26 118d-119b / Topics, BK VIII, CH 2 [i57 b 34~i58 a 2] 214b-c / Metaphysics, BK iv, CH 4 [1006*12-29] 525b-c; BK xi, CH 5 [io6i b 34-1062*12] 590a-b
+9 ARISTOTLE: Ethics, BK VII, CH 2 [1146*22-30] 396b
+33 PASCAL: Vacuum, 368b
+36 STERNE: Tristram Shandy, 227a-228a
+
+4e. Refutation: disproof
+
+7 PLATO: Sophist, 558b-d
+8 ARISTOTLE: Prior Analytics, BK II, CH 20 87c-d; CH 26 91b-d / Sophistical Refutations, CH 4-1 1 228b-237c
+9 ARISTOTLE: Ethics, BK VH, CH i [ii45 b i~7] 395b / Rhetoric, BK II, CH 22 [i396 b 2o]-CH 26 [1403*34] 644d-653a,c esp CH 25 [1402*29]-^ 26 [1403*34] 651d-653a,c
+10 GALEN: Natural Faculties, BK i, CH 14, 177a- 179d
+31 DESCARTES: Objections and Replies, 208a c
+33 PASCAL: Vacuum, 368b
+
+4f. Reasoning by analogy: arguments from similarity
+
+7 PLATO: Republic, BK II, 316a-b; BK iv, 350a-b; BK vi-vn, 383d-391b
+8 ARISTOTLE: Prior Analytics, BK II, CH 24 90c- 91a / Topics, BK i, CH 18 [io8 b 6-i9) 152d- 153a
+9 ARISTOTLE: Rhetoric, BK i, CH 2 [i357 b 25~ 1358*2] 597c-d; BK xi, CH 20 [1393*22-1394*8] 640d-641d
+20 AQUINAS: Summa Theologica, PART HI SUPPL, Q 75, A 3, REP 2 938a-939d
+23 HOBBES: Leviathan, PART i, 60c; 67c
+30 BACON: Novum Organum, BK i, APH 34 109b; BK ii, APH 27, 158a-b
+34 NEWTON: Principles, BK HI, GENERAL SCHOL, 370b-371a
+35 LOCKE: Human Understanding, BK 11, CH xi, SECT 2 144a-c; BK iv, CH xvi, SECT 12 370b- 371a
+35 BERKELEY: Human Knowledge, SECT 105-106 433b-d
+35 HUME: Human Understanding, SECT ix, DIV 82 487b-c; SECT xi, DIV 113 502a-d; DIV 115 503b-c
+42 KANT: Judgement, 547b-548c; 600d-603d esp 601d-602a, 602b [fn i]
+49 DARWIN: Origin of Species, 26a; 241 b
+53 JAMES: Psychology, 295a-b; 677a-678a; 686b- 690a esp 688a-689a
+54 FREUD: Civilization and Its Discontents, 801b-c / New Introductory Lectures, 819a
+
+5. Reasoning in relation to knowledge, opinion, and action
+
+    [sem referências]
+
+5a. The fact and the reasoned fact: mere belief distinguished from belief on rational grounds
+
+7 PLATO: Meno, 188b-189a / Republic, BK v, 370d-373c
+8 ARISTOTLE: Posterior Analytics, BK i, CH 6 [75*12-37] 103a-c; CH 13 107c-108c; BK II, CH 1-2 122b,d-123c / Soul, BK II, CH 2 [413*11- 19] 643a-b
+9 ARISTOTLE: Ethics, BK i, CH 4 [io95*30- b i3] 340c-d; CH 7 [io98 a 35- b 4] 343d; BK vi, CH 3 388b-c; CH n 392c-393b
+11 ARCHIMEDES: Method, 569b-570a; PROP i, 572b
+20 AQUINAS : Summa Theologica, PART in, Q 9, A 3, REP 2 765b-766b
+31 DESCARTES: Rules, xvi, 35a-b
+35 LOCKE: Human Understanding, BK II, CH xxni, SECT 25 210c-d
+35 HUME: Human Understanding, SECT iv 458a- 463d passim, esp DIV 28-33 460d-463d; SECT v 463d-469c passim, esp DIV 38 466b-c, DIV 45 469c
+36 SWIFT: Gulliver, PART iv, 165a-b
+42 KANT: Pure Reason, 228c-d; 240b-243c / Judgement, 601d-607c
+43 MILL: Liberty, 283c-288c passim / Utilitarianism, 445d-446b
+46 HEGEL: Philosophy of History, INTRO, 156d- 160b
+53 JAMES: Psychology, 689b-690a
+
+5b. Scientific reasoning: the theory of demonstration
+
+7 PLATO: Meno 174a-190a,c / Republic, BK vi, 386d-388a / Parmenides 486a-511d esp 491a-c / Philebus, 610d-613a
+8 ARISTOTLE: Prior Analytics, BK i, CH 30 63d- 64b / Posterior Analytics 97a-137a,c / Metaphysics, BK vi, CH i [io25 b i-i3] 547b; BK VII, CH 15
+9 ARISTOTLE: Ethics, BK vi, CH 3 388b-c; CH 6 389d 23HoBBEs: Leviathan, PART i, 58a-c; 60a-b; 60d; 65c-d; PART iv, 267a-c
+28 HARVEY: On Animal Generation, 332a- 337a,c
+30 BACON: Advancement of Learning, 42a-c; 56c-59c; 61d / Novum Organum, PREP 105a- 106d; BK i 107a-136a,c esp APH 11-26 107d- 108d, APH 69 116a-b, APH 103-106 127d- 128c
+31 DESCARTES: Rules, i-xm la-27d / Discourse, PART vi 60d-67a,c
+33 PASCAL: Vacuum, 365b-366a; 368b-369a / Geometrical Demonstration, 430b-434a; 442a- 443b
+34 NEWTON: Principles, BK III, RULES 270a-271b / Optics, BK III, 543a-b
+35 LOCKE: Human Understanding, BK HI, CH xr, SECT 16 303c-d; BK iv, CH i, SECT 9, 308d* 309b; CH n, SECT 2-13 309d-312b; en iv, SECT 7 325b; en vn, SECT n, 340c-341a; CH XH, SECT 6-13 360a-362d; CH xv, SECT i 365a~c; CH xvn 371c-380d passim, esp SECT 2-4 371d-376c, SECT 15 378d-379b
+35 HUME: Human Understanding, SECT iv, DIV 20 458a-b; DIV 30, 462a; SECT xn, DIV 131-132 508d-509d
+42 KANT: Pure Reason, la-13d; 190c-191a; 194b-c; 211c-218d esp 217c-d / Fund. Prin. Metaphysic of Morals, 264d / Pref. Metaphysical Elements of Ethics, 365a-366a / Judgement, 463a-467a; 542c-543a; 603b-c
+43 MILL: Utilitarianism, 445 b-d
+53 JAMES: Psychology, 674a-675b; 677b; 862a- 865a
+#5b(1)  The indemonstrable as a basis for demonstration
+7 PLATO: Cratylus, 112a
+8 ARISTOTLE: Prior Analytics, BK i, CH i [24*21- b i6] 39a-c / Posterior Analytics, BK i, CH 3 99b-100a; en 7 [7538- b 7] 103c; CH n 105d- 106b; CH 19-23 lllc-116a; BK II, CH 19 136a- 137a,c / Physics, BK II, CH i [193*1-9] 269b / Heavens, BK i, CH 5 [27i b i-i3J 362c-d / Metaphysics, BK i, CH 9 [992 b 24-993i] 511a-b; BK III, CH 2 [996 b 26-997 a i4] 515b-d; BK iv, CH 4 [1006*4-12] 525a-b; CH 6 [1011*3-14] 530d; BK xi, CH 6 [io63 b 7~i2] 591d; BK xin, en 4 [io78 b 28~3i] 610b-c / Soul, BK i, CH 3 [407* 22-30] 636d-637a
+9 ARISTOTLE: Generation of Animals, BK II, CH 6 [742 b i7-35] 283d-284a / Ethics, BK vi, CH 3 388b-c; CH 6 389d; CH n 392c-393b
+19 AQUINAS: Summa Theologica, PART i, Q 17, A 3, REP 1-2 102d-103c; Q 36, A 3, REP 4 194c-195d; PART i-n, Q i, A 4, REP 2 612a- 613a
+20 AQUINAS: Summa Theologica, PART i-n, Q 94, A 2, ANS 221d-223a; Q 112, A 5, ANS 359c- 360c 562 (5&. Scientific reasoning: the theory of demonstration. 56(1) The indemonstrable as a basis for demonstration^
+28 HARVEY: On Animal Generation, 333d-334d csp 334a
+30 BACON: Advancement of Learning, 39c-d; 97a
+31 DESCARTES: Rules, u 2a-3b / Discourse, PART II, 46c-47a / Meditations, i, 76c / Objections and Replies, 123a-b; 224b,d
+35 LOCKE: Human Understanding, BK iv, CH n, SECT i, 309 d; SECT 7-8 310d-311a; CH in, SECT 4 313b-c; CH xv, SECT i 365a-c; SECT 3 365d; CH xvn, SECT 15 378d-379b
+42 KANT: Pure Reason, 217c-d / Practical Reason, 307d-310c esp 309b / Judgement, 542d-543a
+43 FEDERALIST: NUMBER 31, 103c-104a
+43 Mu L: Utilitarianism, 446d-447a; 461c-462a; 475b,d [fn i]
+44 Bos WELL -.Johnson, 82b
+46 HEGEL: Philosophy of Right, ADDITIONS, 3 116a
+#5b(2) Definitions used as means in reasoning: definitions as the end of reasoning
+7 PLATO: Sophist, 551a-552c / Seventh Letter, 809c-810d
+8 ARISTOTLE: Prior Analytics, BK i, CH 43 68d / Posterior Analytics, BK i, CH 2 [72*19-24] 98d; en 8 [75 b 2i~32] 104a; CH 10 [76^35-77*4] 105c-d; CH 22 [82 b 36-83 a i] 113b; CH 33 [89* I7~ b 5] 121d-122a,c; BK II, CH 3-10 123c-128d / Topics, BK vii, CH 5 [i54 a 23- b i3] 209d-210a; [155*17-23] 210d; BK VIII, CH 3 214d-215d / Metaphysics, BK i, CH 9 [992 b 3<>-993 a i] Sllb; BK III, CH 2 [996 b i8-2i] 515b; BK iv, CH 4 [ioo5 b 35-ioo7 b 2o] 525a-527a; CH 7 [1012*18- 24] 532a-b; CH 8 [ioi2 b 5~8] 532c; BK xi, CH 5 590a-d; BK xm, CH 4 [io78 b 23~3o] 610b-c / Soul, BK i, CH i [402 b i 6-403*2] 631d-632a; CH 3 [407*22-30] 636d-637a; CH 5 [409*3i- b i8] 639b c; BK II, CH 2 [413*11-19] 643a-b
+9 ARISTOTLE: Parts of Animals, BK i, CH i [639 b 7-642 b 5] 161d-165d
+19 AQUINAS: Summa Theologica, PART i, Q 2, A i, REP 2 lOd-lld; A 2, REP 2 lld-12c; Q 3, A 5, ANS 17c-18b; Q 17, A 3, REP 1-2 102d-103c; Q 85, A 6 458d-459c
+23 HOBBES: Leviathan, PART i, 56b-60c; 65d
+31 DESCARTES: Objections and Replies, I28c-129a
+33 PASCAL: Penstes, i 171a-172a / Geometrical Demonstration, 430b-434b
+35 LOCKE: Human Understanding, BK III, CH xi, SECT 15-17 303b-304a csp SECT 16 303c-d; BK IV, CH III, SECT 20, 319b
+35 HUME: Human Understanding, SECT vii, DIV 48 470d-471c; SECT vm, DIV 74 484a-c; SECT XH, DIV 131 508d-509a
+42 KANT: Pure Reason, 179d-182b; 211c-218d / Practical Reason, 293c-294b
+51 TOLSTOY: War and Peace, EPILOGUE n, 690b
+54 FREUD: Instincts, 412a-b to 53(4)
+#5b(3) A priori and a posteriori reasoning: from causes or from effects; from principles or from experience; analysis and synthesis
+7 PLATO: Phaedo, 242b-243c
+8 ARISTOTLE: Posterior Analytics, BK i, CH 3 [72^5-33] 99c / Physics, BK i, CH i 259a-b / Generation and Corruption, BK i, CH 2 [316*5- 14] 411c-d / Metaphysics, BK VII, CH 3 [1029* 33- b i2] 552a
+9 ARISTOTLE: Ethics, BK i, CH 3 [i 094^9-1 095* 12] 340a-b; CH 4 [1095*30-^13] 340c-d; BK III, CH 3 [ni2 b 20-24] 358d; BK vi, CH 8 [1142* 12-19] 391b / Politics, BK i, CH i [1252*17-24] 445b
+10 GALEN: Natural Faculties, BK i, CH 14, 177a- 178d esp 177c, 178c-d; BK III, CH 1-2, 199c-d
+19 AQUINAS: Summa Theologica, PART I-H, Q 14, A 5 680a-c
+23 HOBBES: Leviathan, PART i, 60a-b; PART iv, 267a-b
+28 HARVEY: On Animal Generation, 332a-335c
+30 BACON: Novum Organum, BK i, APH 104-106 128a-c
+31 DESCARTES: Rules, n, 2d-3a; iv-v 5a-8a / Objections and Replies, 128a-129a
+33 PASCAL: Vacuum, 368b-369a
+34 NEWTON: Optics, BK III, 543a-b
+34 HUYGENS: Light, PREF, 551b-552a
+35 LOCKE: Human Understanding, BK II, CH i, SECT 10, 123c; BK iv, CH xn, SECT 6-13 360a- 362d
+35 BERKELEY: Human Knowledge, SECT 21 417a
+35 HUME: Human Understanding, SECT iv 458a- 463d passim, esp DIV 20-21 458a-c, DIV 30, 462a; SECT v, DIV 34-38, 464a-466c; SECT xi 497b-503c passim, esp DIV 105 498d-499a; SECT xn, DIV 131-132 508d-509d passim
+42 KANT: Pure Reason, 14a-20c; 34a-36a; HOd- lllc; 115d-120c; 129a; 135a-173a esp 158a- 160b, 172c-173a; 174a; 179c-182b; 190c-191a; 192a-b; 193d-200c; 211c-218d / Fund. Prin. Metaphysic of Morals, 253a-254d esp 253d- 254a; 262a-287d esp 263a-264d, 268b-d / Practical Reason, 294a-b; 307d-308b; 309b-d; 329d-330c / Science of Right, 405b-d / Judgement, 600d-603d esp 603a-b
+43 MILL: Utilitarianism, 445c-446b
+46 HEGEL: Philosophy of History, INTRO, 182d- 183c
+53 JAMES: Psychology, 91a-94b esp 94b; 673a- 674b; 872a-873a
+54 FREUD: Narcissism, 400d
+#5b(4) The role of causes in demonstration and scientific reasoning
+7 PLATO: Timaeus, 455a-b; 465d-466a
+8 ARISTOTLE : Posterior Analytics 97a-137a,c esp BK II, CH 11-18 128d-136a / Physics, BK II, CH 7 275b-d / Metaphysics, BK HI, CH 2 [996 a i8- b 26] 514d-515b; BK vi, CH i [io25 b i- 5*(4) to 5c 13] 547b; BK VII, CH 17 [i04i ft iob n] 565b-d; BK VIH, CH 4 [iQ44 a 33- b 2o] 569a-b
+9 ARISTOTLE: P0r of Animals, BK i, CH i [639 b 7-642 b 5] 161d-165d esp [639 b 34-^40*9] 162b, [640 b 5-i2] 163a, [642*14-21] 165b / Ethics, BK i, CH 7 [1098*25]-^ 8 [io98 b 35J 343d-344b
+16 COPERNICUS: Revolutions of the Heavenly Spheres, 505a-506a
+19 AQUINAS: Summa Theologica, PART i, Q 2, A 2, ANS and REP 2-3 lld-12c; Q 14, A 7 81d-82b; A n, ANS 84c-85c; Q 19, A 5, ANS and REP 2 112d-113c; Q 44, A i, REP i 238b-239a; Q 57, A 2, ANS 295d*297a; PART i-n, Q 14, A 5 680a-c
+20 AQUINAS: Summa Theologica, PART I-H, Q 55, A 4 28c-29d; PART in, Q 9, A 3, REP 2 765b- 766b
+23 HOB BBS: Leviathan, PART i, 60a-b; PART iv, 267a-b
+28 GALILEO: Two New Sciences, THIRD DAY, 202d-203a; FOURTH DAY, 252a-b
+28 FTARVEY: Circulation of the Blood, 319c / On Animal Generation, 335c-336c; 393b-c; 425a
+30 BACON: Advancement of Learning, 45a-46a; 46c-47c / Novum Organum, BK i, APH 48 HOd-llla; APH 99 127b-c
+31 DESCARTES: Discourse, PART iv, 52a-d; PART vi, 61d-62c; 66a-b / Meditations, in 81d-89a esp 84b-85a, 87c<88c; iv, 90a-b / Objections and Replies, 108b-112a; 120c-122c; AXIOM v 131d-132a; 212c; 215a-b
+31 SPINOZA: Ethics, PART i, AXIOM 2,4 355d; PROP 8, SCHOL 2 356d-357d esp 357b-d; APPENDIX 369b-372d; PART HI, 395a-d; PART iv, PREF, 422b,d-423c; APPENDIX, i 447a
+34 NEWTON: Principles, BK III, RULE I-H 270a; GENERAL SCHOL, 371b-372a / Optics, BK III, 541b-542a; 543a-b
+35 LOCKE: Human Understanding, BK iv, CH xn, SECT 9 360d-361b; CH xvii, SECT 2 371d- 372b
+35 HUME: Human Understanding, SECT vn, DIV 60, 477a; SECT ix, DIV 82 487b-c; SECT xn, DIV 132, 509b-c
+38 ROUSSEAU: Inequality, 348a,c
+42 KANT: Pure Reason, 46d-47c; 164a-171a; 183b [fn i] / Fund. Prin. Metaphysic of Morals, 285c- 286a / Practical Reason, 310d-311d; 339a / Judgement, 574a-b; 578a-d
+45 LAVOISIER: Elements of Chemistry, PART i, 9b- lOb
+45 FOURIER: Theory of Heat, 169a; 183a-184a
+49 DARWIN: Origin of Species, 217d-218a; 239b- 240d
+50 MARX: Capital, 10b-llb esp lib
+53 JAMES: Psychology, 89b-90a; 668a-671a esp 670a-b; 745b; 824b-825a; 884b-886a
+54 FREUD: General Introduction, 454b-c; 483d- 484a
+$5b(5) Demonstration in relation to essence and existence: demonstrations propter quid and quia
+8 ARISTOTLE: Metaphysics, BK III, CH 2 [996 b i2- 21) 515a-b; BK vi, CH i [io25 b i-i8] 547b,d
+19 AQUINAS: Summa Theologica, PART i, Q 2, A 2 lld-12c; Q 3, A 4, REP 2 16d-17c; A 5, ANS 17c- 18b; Q 46, A 2, ANS 253a-255a
+21 DANTE: Divine Comedy, PURGATORY, in [34- 45] 56b
+23 HOBBES: Leviathan, PART i, 78d-79a; 79d- 80b
+31 DESCARTES: Meditations, i, 76c; in 81d-89a; vi 96b-103d / Objections and Replies, HOb-c; 216d-218b; 261a
+35 LOCKE: Human Understanding, BK II, CH xvn, SECT 20, 173a; CH xxxi, SECT 6 240d- 241d esp 241a-b; SECT n 242d-243a; BK III, en xi, SECT 15-17 303b-304a esp SECT 16 303c-d; BK iv, CH iv, SECT 8 325b c; CH xn, SECT 6-9 360a-361b esp SECT 9 360d-361b
+35 HUME: Human Understanding, SECT iv 458a- 463d passim, esp DIV 20-21 458a-c, DIV 30 461d-462b; SECT xn, DIV 131-132 508d-509d
+42 KANT: Pure Reason, 85d-88a; 95a-d; 179c- 182b
+53 JAMES: Psychology, 667b
+
+5c. Dialectical reasoning: the opposition of rational arguments
+
+7 PLATO: Euthydemus 65a~84a,c / Phaedrus, 134b-c / Phacdo, 242b-243c / Republic, BK vi-vn, 383d-398c / Parmenides, 491a-511d / Theaetetus, 525d-526b / Sophist, 558b-d / Statesman, 594d-595d
+8 ARISTOTLE: Prior Analytics, BK i, CH i [24*21- b i6] 39a-c; CH 30 [46*3-10] 63d / Posterior Analytics, BK i, CH 6 [75*21-28] 103b; CH n [77 a 25-35] 106b / Topics 143a-223a,c / Sophistical Refutations, CH 2 227d-228a; CH 9 234b-d; CH n 236a-237c / Heavens, BK i, CH 10 [279 b 4-i2] 370d / Generation and Corruption, BK i, CH 2 [316*5-14] 411c-d/ Metaphysics, BK iv, CH 2 [ioo4 b i8-27] 523d; BK xi, CH 3 [io6i b 8-i2] 589d; BK xin, CH 4 [io78 b i8-28] 610b
+9 ARISTOTLE: Rhetoric, BK i, CH i [1355*28-39] 594c-d
+12 EPICTETUS: Discourses, BK i, CH 8 113d-114c; BK II, CH 12, 151d 152a
+19 AQUINAS : Summa Theologica, PART i, Q 83, A i, ANS 436d-438a
+20 AQUINAS : Summa Theologica, PART in, Q 9, A 3, REP 2 765b-766b
+24 RABELAIS: Gargantua and Pantagruel, BK II, 101b-106a
+30 BACON: Advancement of Learning, 47d-48d
+31 DESCARTES : Discourse, PART i, 43d
+35 LOCKE: Human Understanding, BK iv, CM xvi, SECT 9 369b*c 564 5dto5e(2) (5. Reasoning in relation to knowledge, opinion, and action. 5c. Dialectical reasoning: the opposition of rational arguments.)
+33 HUME: Human Understanding, SECT x, DIV 86-91 488d-491c
+42 KANT: Pure Reason, la-b; 36d-37d; 108a>d; 120c-173a csp 129c-130b, 133c; 174b-177b; 187a-192d; 200c-209d; 219a-220b; 229b-c; 231c-232a / Fund. Prin. Mctaphysic of Morals, 260d-261b; 283d-284d / Practical Reason, 291a-292a; 302a-d; 331c-337a,c; 340a-342d; 348d-349a / Science of Right, 407a-408b / Judgement, 540a-546d; 562a-578a esp 562d- 564c, 575b-578a; 584c-d
+46 HEGEL: Philosophy of Right, PART II, par 135 47b-d
+54 FREUD: General Introduction, 545d
+
+5d. Rhetorical reasoning: the rational grounds of persuasion
+
+7 PLATO: Protagoras, 50d-52d; 57a-c / Phaedrus 115a-141a,c esp 129d-141a,c / Meno, 176d- 177a / Gorgias 252a-294d / Timaeus, 457c / Sophist, 558a-561a
+8 ARISTOTLE : Prior Analytics, BK II, CH 27 92a- 93a,c / Posterior Analytics, BK i, CH i [71*1-10] 97a / Metaphysics, BK iv, CH 5 [1009*16-22] 528c
+9 ARISTOTLE: Ethics, BK i, CH 3 [io94 b 23~27] 339d-340a / Rhetoric, BK i 593a-622d esp CH i [1355*4 b 22] 594b-595a; BK II, CH 18-26 639a- 653a,c; BK HI, CH 15 669d-670c; en 17-19 672a-675a,c
+10 GALEN: Natural Faculties, BK i, CH 16, 180c- 181a
+12 EPICTETUS: Discourses, BK i, CH 5 llOb-c; CH 8 113d-114c
+18 AUGUSTINE: Christian Doctrine, BK II, CH 36- 37 653d-654b; BK iv, en 4 676d-677a
+19 AQUINAS: Summa Theologica, PART i, Q 83, A i, ANS 436d-438a; PART i-n, Q 7, A i, REP i 651d-652c 23HosBEs: Leviathan, PART i, 67c; PART II, 127d; 128d
+25 MONTAIGNE: Essays, 446d-450a; 453c-454d
+30 BACON: Advancement of Learning, 58c-59a; 66c-67c
+31 DESCARTES: Rules, x, 16d-17a
+33 PASCAL: Geometrical Demonstration, 440b- 442a
+35 LOCKE: Human Understanding, BK III, CH x, SECT 34 299d-300a
+36 STCRNE: Tristram Shandy, 227a-228a
+37 FIELDING: Tom Jones, 261c-d; 320c 321b
+42 KANT: Pref. Metaphysical Elements of Ethics, 376c-d
+43 FEDERALIST: NUMBER 14, 62a-d
+43 MILL: Liberty, 284b-c
+44 Bos WELL \Johnson, 209a
+51 TOLSTOY: War and Peace, BK vi, 243b; EPI- LOGUE i, 672a-b
+
+5e. Practical reasoning
+
+8 ARISTOTLE: Topics, BK HI, CH 1-4 162a-166b / Metaphysics, BK VII, CH 7 [io32 a 25~ b 22] 555b-d / Soul, BK i, CH 3 [407*22-23] 636d; BK III, CH 9 [432 b 26-433*5] 665c
+9 ARISTOTLE: Motion of Animals, CH 7 [701*5- 39] 236b d / Ethics, BK i, en 3 [i094 b i2-27] 339d-340a; CH 4 [io95*3o- b i3] 340c-d; en 7 [io98 a 20- b 8] 343c-344a; BK 11, CH 7 [1107*27- 32] 352d-353a; BK x, CH i [i 172*34^7] 426b-c
+12 EPICTETUS: Discourses, BK III, CH 2 177c- 178d
+23 HOBBES: leviathan, PART i, 53a-54a; 60b-61a; 66c-68a; 78a-d
+30 BACON: Advancement of Learning, 57d-58b; 81d82a
+31 DESCARTES: Discourse, PART in, 48b-50b
+33 PASCAL: Provincial Letters, 27a-80b; 90a-127a
+42 KANT: Pure Reason, 60a-c; 149d-150a; 190c- 191a / Fund. Prin. Metuphysic of Morals, 253a- 255d; 260d-2Glb; 264b-265b; 266b-d; 271a- c; 277d-279d; 283d 287d esp 283d-284d / Practical Reason, 291a-297c; 298a-300a; 300d [fn i]; 306d-307a; 307d-321b esp 307d-309b, 309d-310b; 329a-337a,c esp 329b-d; 338c- 343d; 349b-350c / Pref. Metaphysical Elements ofEihics, 372b-d / Intro. Mctaphysic Oj Morals, 383a-d; 388d; 390b,d-391a; 393a / Science of Right, 398c-399c; 416b-417a / Judgement, 461a-467a esp 463a-467a; 596c- 598b
+43 MILL: Utilitarianism, 445c-d; 456a-457b
+53 JAMES: Psychology, 186a; 381b-385b csp 382a
+#5e(1)  The form of the practical syllogism
+8 ARISTOTLE: Soul, BK III, CH n [434*16-22] 667a
+9 ARISTOTLE: Motion of Animals, CH 7 [701*5- 39] 236b-d / Ethics, BK vi, CH 9 391c-392b esp [ii42 b 2o-26] 392a; BK vii, CH 3 [1146^4- Ii47 b i9] 396d-398a passim
+19 AQUINAS: Summa Theologica, PART i, Q 81, A 3, ANS and REP 2 430c-431d; Q 86, A i, REP 2 461c-462a
+20 AQUINAS: Summa Theologica, PART i-n, Q 76, A i, ANS 141a-c; Q 77, A 2, REP 4 145d-147c
+#5e(2) Deduction and determination in legal thought
+9 ARISTOTLE: Ethics, BK v, CH 7 382c-383a; CH 10 385c-386b / Politics, BK III, CH n [i282 b i- 6] 480b-c; CH 15 [1286*10-37] 484b-d; CH 16 [1287*23-28] 485d; [i287 b i5-25] 486a-b
+20 AQUINAS : Summa Theologica, PART i-n, Q 95, A 2 227c-228c; A 4 229b-230c
+23 HOBBES: Leviathan, PART i, 86c-87b; 91a- 96b esp 95c-96b; PART 11, 130c-136b esp 130c; 164a,c; PART in, 165a
+30 BACON: Advancement of Learning, 94d-95b
+38 MONTESQUIEU: Spirit of Laws, BK i, 3a; 3c; BK xxvi, 214b,d 5*(3) to 6b
+42 KANT: Pure Reason, 149d-150a
+43 MILL: Utilitarianism, 445c-446b; 456a-457b; 475b,d [fn r]
+46 HEGEL: Philosophy of Right, PART HI, par 214 71a-c; par 216 71d-72a; par 222 73b-c; par 225-229 73d-75b csp par 227 74b-d; ADDI- TIONS, 134 138b-c; 140 139b-c
+#5e(3) Deliberation: the choice of alternative means; decision
+5 EURIPIDES: Phoenician Maidens [528-593] 382c-383a
+9 ARISTOTLE: Ethics, BK III, CH i [1110*28-35] 356a; CH 2-3 357b-359a; BK vi, CH 1-2 387a- 388b; CH 5 389a-c passim; CH 7 [ii4i b 8-2i] 390c-d; CH 8-9 390d-392b; CH 12 [1144*6-37] 393d-394a
+12 AURELIUS: Meditations, BK iv, SECT 12 264c
+19 AQUINAS: Sumtna Theologica, PART i, Q 19, A 5, ANS 112d-113c; A 7, ANS 114d-115d; Q 82, A 2, REP 3 432d-433c; Q 83, A i, ANS 436d- 438a; PART i-n, QQ 13-15 672d-684a; Q 44, A 2 808b-d
+22 CHAUCER: Tale of Melibeus 401a-432a csp par 9-36 403a-417b
+23 HOBBES: Leviathan, PART i, 53a; 64a-65c; 77d
+26 SHAKESPEARE: Merchant of Venice, ACT 11, sc vii [1-75] 416a-417a; sc ix [19-72] 417d-418b; ACT HI, sc ii [73-139] 420d-421b
+30 BACON: Advancement of Learning, 81d-95b
+31 DESCARTES: Discourse, PART in, 48b-50b
+35 LOCKE: Human Understanding, BK II, CH xxi, SECT 48 190c-d; SECT 53 191d-192b; SECT 57 193b-c; SECT 60-73 194a-199c passim
+42 KANT: Pure Reason, 60a-c; 169c-170a / Fund. Prin. Metaphysic of Morals, 260d-261b; 266b- 267d; 268b / Practical Reason, 327d-329a / Science of Right, 398a-399c / Judgement, 58Ga-. b; 588b [fn 2]; 595a d
+43 MILL: Liberty, 276b-277a; 294d-295b / Utilitarianism, 456a-457b
+46 HEGEL: Philosophy of Right, PART II, par 122 44a
+53 JAMES: Psychology, 794a-798b esp 794a, 796a-b
+
+6. The character of reasoning in the various disciplines
+
+    [sem referências]
+
+6a. Proof in metaphysics and theology
+
+7 PLATO: Parmenides 486a-511d csp 491a-c / Sophist, 570a-d / Seventh Letter, 809c-810d
+8 ARISTOTLE: Metaphysics, BK iv, CH 2 [1004* 25-31] 523b-c; BK vi, CH i [io25 b i-i8] 547b,d; BK ix, CH 6 [io48*25- b 9] 573c-574a; BK xi, CH 3 [1061*10-18] 589b; CH 7 [1064*1-9] 592b
+19 AQUINAS: Summa Theologica, PART i, Q i 3a- lOc; Q 2, A 2 lld-12c; Q 32, A i, REP 2 175d- 178a; Q 46, A 2 253a-255a CHAPTER 77: REASONING 565
+20 AQUINAS : Summa Theologica, PART II-ii, Q 2 A 10 399b-400b; PART in SUPPL, Q 75, A 3 REP 2 938a-939d
+23 HOBBES: Leviathan, PART i, 78d-79a; 79d-80a; PART II, 163a-b; PART in, 165b
+29 CERVANTES: Don Quixote, PART i, 122b-c
+30 BACON: Advancement of Learning, 95d-101c
+31 DESCARTES: Meditations, 69a-71a,c / Objections and Replies, 119d; 128a-129a
+31 SPINOZA: Ethics, PART i, PROP u, SCHOL 358d- 359b
+33 PASCAL: Vacuum, 355b-356b
+35 HUME: Human Understanding, SECT i, DIV 2 451b-c; DIV 4 451d-452c
+40 GIBBON: Decline and Pall, 308c-d
+42 KANT: Pure Reason, 15c-16c; 85d-88a; 179c 182b; 190a-200c; 211c-218d esp 215d-216d / Fund. Prin. Metaphysic of Morals, 264d / Practical Reason, 293c-294b; 35lb-352c / Pref. Metaphysical Elements of Ethics, 365a- 366a / Judgement, 600d-603d
+
+6b. Demonstration in mathematics: analysis and synthesis
+
+7 PLATO: Meno, 180b-183c / Republic, BK vi, 386d-388a; BK VII, 392a-395c; 397c-d
+8 ARISTOTLE: Prior Analytics, BK i, CH 41 [49 b 32-37] 68c / Posterior Analytics, BK i, CH i [71*11-16] 97a-b; CH 10 104d-105d csp [76 b 39-77*2] 105d; CH 12 106c-107c; CH 18 lllb-c; BK ii, CH 9 [93 b 2i-25] 128a-b / Topics, BK v, CH 4 [132*32-34] 183b; BK vi, CH 4 [i4i b 3-22] 194d-195a; BK vii, CH 3 [153*6-11] 208a b; BK VIII, CH i [157*1-3] 213a / Physics, BK II, CH 9 [200*15-29] 277c-d / Heavens, BK III, CH 4 [302 b 27-3i] 394a / Metaphysics, BK III, CH 2 [996*21-36] 514d-515a; [996^18-21] 515b; BK VII, CH 10 [1036*2-8] 559b-c; BK ix, CH 9 [1051*22-34] 577b-c; BK xi, CH 3 [1061*29 - b $| 589c; CH 4 589d-590a; CH 7 [io63 b 36-io6.j ft 9J 592b; BK xiii, CH 2 [io77 b i-io] 608d-609a; CH 3 609a-610a
+9 ARISTOTLE: Generation of Animals, BK II, en 6 [742 b 23-35] 283d-284a / Ethics, BK i, CH j [io94 b i9-27] 339d-340a; BK HI, CH 3 [ni2 b 20-24] 358d; BK vii, CH 8 [1151*15-19] 402a
+11 ARCHIMEDES: Method, 569b-570a; PROP i, 572b
+11 APOLLONIUS: Conies, BK II, PROP 44-47 710b- 713a; PROP 49-51 714b-726a
+23 HOBBES: Leviathan, PART i, 56b; 58a-c; 59c
+28 GILBERT: Loadstone, PREF, Ib-c
+31 DESCARTES: Rules la-40a,c passim, esp n, 3a, iv, 7c, vi 8a-10a, xiv, 30d-33b, xvi-xxi 33d-40a,c / Discourse, PART i, 43b-c; PARTII, 46c-47c; PART iv, 52d-53a / Meditations, 73a; i, 76c; v, 93a-d / Objections and Replies, 128a- 129a / Geometry 295a-353b csp BK i t 295a- 298b, BK ii, 304a-b, BK HI, 353a 566 6c to 6d (6. The character of reasoning in the various disciplines. 66. Demonstration in mathematics: analysis and synthesis.)
+33 PASCAL: Petuecs, 1-5 171a-173a / Vacuum, 365b-366a / Geometrical Demonstration, 430a- 434a; 442a-443b
+34 NEWTON: Principles, la-b / Optics, BK III, 543a-b
+35 LOCKE: Human Understanding, BK II, CH xvi, SECT 4 166a-b; BK iv, CH i, SECT 9, 308d- 309b; CH ii, SECT 9-10 311b-c; CH HI, SECT 18-20 317d-319c passim; CH XH, SECT 1-8 358c-360c passim, csp SECT 7 360b-c; SECT 14-15 362d-363b; CH xvn, SECT n 378b
+35 BERKELEY: Human Knowledge, INTRO, SECT 12 408a-b; SECT 15-16 409a-d
+35 HUME: Human Understanding, SECT iv, DIV 20 458a-b; SECT vn, DIV 48 470d-471c; SECT XH, DIV 131 508d-509a
+42 KANT: Pure Reason, 15c-16c; 17d-18d; 46a-b; 68a-69c; 211c-218d esp 215d-217a / Practical Reason, 295b-d; 330d-331a / Pref. Metaphysical Elements of Ethics, 376c-d / Science of Right, 399a-b / Judgement, 551a-553c
+43 FEDERALIST: NUMBER 31, 103c-104a
+43 MILL: Utilitarianism, 445a-d
+45 LAVOISIER: Elements of Chemistry, PREF, 2b
+45 FOURIER: Theory of Heat, 173a-b
+51 TOLSTOY: War and Peace, BK xi, 469a-d; EPILOGUE n, 695b-c
+53 JAMES: Psychology, 874a-878a passim
+
+6c. Inductive and deductive inference in the philosophy of nature and the natural sciences
+
+8 ARISTOTLE: Physics, BK II, CH 7-9 275b-278a,c / Heavens, BK II, CH 5 379b-c; BK HI, CH 7 [306*1-18] 397b-c / Generation and Corruption, BK i, CH 2 [316*5-14] 411c-d / Metaphysics, BK II, CH 3 [995*1 5-17] 513d
+9 ARISTOTLE: Generation of Animals, BK III, CH 10 [760^9-32] 301d-302a
+10 HIPPOCRATES: Ancient Medicine, par 1-8 la3b
+10 GALEN: Natural Faculties, BK HI, CH 1-2 199a-200a csp 199c-d
+16 COPERNICUS: Revolutions of the Heavenly Spheres, 505a>506a
+19 AQUINAS: Summa Theologica, PART i, Q i, A i, REP 2 3b-4a; Q 32, A i, REP 2 175d-178a
+28 GALILEO: Two New Sciences, THIRD DAY, 207d-208c; FOURTH DAY, 252a-b
+28 HARVEY: Motion of the Heart, 267b,d-268a; 280c; 285c-d; 295d-296a / On Animal Generation, 332a-335c; 336b-d; 383d
+30 BACON: Advancement of Learning, 16a; 34b; 42a-c; 56c-59c; 96d-97a / Novum Organum 105a-195d esp PREF 105a-106d, BK i, APH 11- 26 107d-108d, APH 69 116a-b, APH 103-106 127d-128c, BK II, APH 1-9 137a-140c, APH 36 164a-168d, APH 52 194c-195d
+31 DESCARTES: Discourse, PART vi 60d-67a,c csp 61d-62c / Objections and Replies, 215a-b
+33 PASCAL: Vacuum, 365b-371a
+34 NEWTON: Principles, BK HI, RULES 270a-271b; GENERAL scHOL, 371b-372a / Optics, BK III, 541b-542a; 543a-b
+34 HUYGENS: Light, PREF, 551b<552a
+35 LOCKE: Human Understanding, BK II, CH i, SECT 10 123b-d; BK iv, CH in, SECT 25-29 321a-323a passim; CH vi, SECT 13 335c-d; CH xii, SECT 9-13 360d-362d
+35 BERKELEY: Human Knowledge, SECT 107, 434a
+35 HUME: Human Understanding, SECT i, DIV 9 454c-455a; SECT m, DIV 19, 458a; SECT iv, DIV 26 460b-c; SECT vn, DIV 48 470d-471c; DIV 60, 477a; SECT ix, DIV 82 487b-c
+36 SWIFT: Gulliver, PART iv, 165a-b
+42 KANT: Intro. Metaphysic of Morals, 387a-b / Judgement, 578d~582c esp 579b-c
+45 FARADAY: Researches in Electricity, 659a; 774d-775a
+49 DARWIN: Origin of Species, 42a; 239c
+50 MARX: Capital, 6a-c
+51 TOLSTOY: War and Peace, BK xi, 469a-d
+53 JAMES: Psychology, 91a-94b esp 94b; 126a- 127a passim; 295a-b; 324b; 385a-b; 674a- 675b esp 675b; 677b; 862a-865a; 882a-884b passim
+54 FREUD: Narcissism, 400d-401b / Instincts, 412a-b / General Introduction, 483d-485a esp 484c-48Sa; 502d-503d; 54Sc / Beyond the Pleasure Principle, 661c-662a / New Introductory lectures, 879c
+
+6d. Induction and demonstration in the moral sciences
+
+9 ARISTOTLE: Ethics, BK i, CH 3 [io94 b i2-27] 339d-340a; CH 4 [i095 a 30- b i3] 340c-d; CH 7 [io98 fl 25- b 7] 343d-344a; BK VII, CH i [ii45 b 1-7] 395b; BK x, CH i [ii72*34- b 7] 426b-c / Politics, BK i, CH i [1252*17-24] 445b
+23 HOBBES: Leviathan, PART i, 58a-b; PART II, 130c-136b; 153c-154a; 164a,c; PART m, 165a
+35 LOCKE: Human Understanding, BK i, CH n, SECT i 103d-104a; SECT 4 104d-105a; BK III, CH xi, SECT 15-17 303b-304a esp SECT 16 303c-d; BK iv, CH m, SECT 18-20 317d-319c; CH iv, SECT 7 325b; CH xn, SECT 8 360c
+35 HUME: Human Understanding, SECT i, DIV 1-5 451a-453b passim; DIV 9, 454d-455a; SECT v, DIV 36, 465a-d [fn i]; SECT vn, DIV 48 470d- 471c; SECT xn, DIV 131-132 508d-509d passim, esp DIV 132, 509c-d
+38 MONTESQUIEU: Spirit of Laws, xxib-c
+42 KANT: Pure Reason, 169b [fn i] / Fund. Prin. Metaphysic of Morals, 253d-254b; 265c-266d / Practical Reason, 293c-294b; 304d-305a; 306d-307a; 307d-309b; 309d-310b; 317b- 318b; 320c-321b; 330d-331a / Pref. Metaphysical Elements of Ethics, 372b-d; 376c-d / 6d CHAPTER 77: REASONING 567 Intro. Metaphysic of Morals, 390b; 393a / 71a-c; par 222 73b-c; par 225-229 73d-75b Science of Right, 397a-b; 398c-399c; 413d- csp par 227 74b-d; ADDITIONS, 134 138b-c; 414a; 416b-417a / Judgement, 593a-d 140 139b-c
+43 FEDERALIST: NUMBER 31, 103c-104a; NUMBER 50 MARX: Capital, 6a-c 85, 257d-258d 51 TOLSTOY: War and Peace, EPILOGUE n, 683d-
+43 MILL: Utilitarianism, 445a-447b passim; 461c- 684a; 690b 463d passim; 475b,d [fn i] 53 JAMES: Psychology, 886b-888a esp 887a-888a,
+46 HEGEL: Philosophy of Right, PART HI, par 214 888b [fn ij <ref_end>
+
+
+ADDITIONAL READINGS
+
+Listed below are works not included in Great Booths ofthe Western World, but
+
+idea and topics with which this chapter deals. These works are divided into
+
+I. Works by authors represented in this collection.
+
+II. Works by authors not represented in this collect
+
+For the date, place, and other facts concerning the publication of the works
+
+the Bibliography of Additional Readings which follows the last chapter of Th
+
+HOBBES. Six Lessons t
+
+*
+
+Mathematics, ii-v AQUINAS. De Fallacies . The Art of Sop SPINOZA. Ofthe
+Improvement of the Understanding LOCKE. Conduct of th HOBBES. Concerning Body,
+PART i, CH 4 KANT. Introduction t
+
+567 22 73b-c; par 225-229 73d-75b 74b-d; ADDITIONS, 134 138b-c; 6a-c d Peace,
+EPILOGUE n, 683d- gy, 886b-888a esp 887a-888a,
+
+LANGUAGE i; e or rational, e DEFINITION 5; DEA 5a-5b; ge, see EXnd probability
+ND SYMon between /kEXPERIENCE 5; INFINITY 2c; , 30-3k OPINION EVIL 5c; JUDGb. c;
+IMMORTALITY ICS 2c; 33; WORLD 6c. relevant to the two groups: ion. cited,
+consult e Great Ideas. o the Savilian Professors of histry e Understanding o
+Logic, xi HEGEL. Science of Logic, VOL n, SECT i, CH 3 J. S. MILL. A System of
+Logic, BK 11, v FARADAY. Observations on the Education of the
+
+Judgment W. JAMES. "The Sentiment of Rationality," in
+
+The Will to Relieve
+
+II.
+
+QUINTILIAN. Institutio Oratorio (Institutes of Oratory), BK V,
+
+CH IO-I4; BK VII, CH 8
+
+SEXTOS EMPIRICUS. Against the Logicians, BK n,
+
+CH 3-6
+
+.Outlines of Pyrrhonism, BK I-H
+
+PETRUS HISPANICUS. Summulae Logicales (Logical
+
+Treatises)
+
+SUAREZ. Disputationes Metaphysicae, xix (5-6), xxix, xxx (2, 8)
+
+JOHN OF SAINT THOMAS. Cursus Philosophicus Tho-misticus,An Logica, PART i, QQ 6,
+8; PART n,
+
+QQ 24-25
+
+ARNAULD. Logic or the Art of Thinking, PART in-iv standing, BK n, CH 19
+
+LEIBNITZ. New Essays Concerning Human UnderEULER. Letters to a German Princess
+T. REID. Essays on the Intellectual Powers of Man, VII
+
+MAINE DE BIRAN. The Influence of Habit on the
+
+Faculty of Thinking
+
+SCHOPENHAUER. The World as Will and Idea, VOL n, SUP, CH 10
+
+BROWN. Lectures on the Philosophy of the Human Mind, VOL n, pp 497-525 BENTHAM.
+Rationale of Judicial Evidence
+
+. The BooJ( of Fallacies WHATELY. Elements of Logic, BK i, CH 3; BK iv
+
+W. HAMILTON. Lectures on Metaphysics and Logic, VOL n (15-23) WHEWELL. The
+Philosophy of the Inductive Sciences,
+
+VOL I, BK i; VOL II, BK XI, XIII COURNOT. Essai sur les fondements de nos
+connaissances et sur les characteres de la critique philosophique
+
+S MANSEL. Prolegomena Logica. An Inquiry into the Psychological Character of
+Logical Processes G. C. LEWIS. A Treatise on the Methods of Observation and
+Reasoning in Politics BOOLE. An Investigation of the Laws of Thought DE MORGAN.
+Formal Logic, CH 5-6 A Budget of Paradoxes
+
+. TAINE. On Intelligence SlGWART. Logic, PART I, CH 3; PART III, CH 3-4 JEVONS.
+The Substitution of Similars The Principles of Science, CH 4, 6-7, n
+
+. CLIFFORD. Seeing and Thinking LOTZE. LoglC, BK I, CH 3; BK II, CH 4-7 Outlines
+of Logic, DIV i, CH 3
+
+. VENN. Symbolic Logic C. S. PEIRCE. Collected Papers, VOL n, par 435-618; VOL
+iv, par 21-79; VOL v, par 151-212
+
+A. SIDGWICK. Fallacies The Use of Words in Reasoning
+
+. J. C. WILSON. Statement and Inference, PART i, HI DEWEY et al. Studies in
+Logical Theory, i-iv WHITEHEAD and RUSSELL. Principia Mathematica, PART I, SECT
+A BRADLEY. The Principles of Logic, BK II-IH; Terminal Essays, i .
+
+Appearance and Reality, BK n, CH 15
+
+. Collected Essays, VOL 1(12)
+
+. Essays on Truth and Reality, CH 12
+
+DEWEY. How We Thinly
+
+Essays in Experimental Logic, n-vi . PARETO. The Mind and Society, VOL i-in
+BOSANQUET. Logic, VOL II, CH I-2, 6-7 Implication and Linear Inference . W. E.
+JOHNSON. Logic, PART i, CH 14; PART n, CH 1-6 J.M. KEYNES. A Treatise on
+Probability, PART n,
+
+CH 12-14 SANTA YANA. Scepticism and Animal Faith, CH 1 3 MEYERS ON. Du
+cheminement de la pensee ophy, CH 14 B. RUSSELL. Introduction to Mathematical
+Philos. An Inquiry into Meaning and Truth, CH 24

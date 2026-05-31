@@ -331,3 +331,379 @@ of Geometry . Principles of Mathematics, CH 44-52 . The Analysis of Matter, CH
 28-29, 32, 36
 
 . Human Knowledge, Its Scope and Limits, PART III, CH 6; PART IV, CH 6-7
+
+REFERENCES
+============================================================
+
+1. Space, place, and matter
+
+    [sem referências]
+
+1a. Space or extension as the essence or property of bodies - space, the receptacle, and becoming
+
+7 PLATO: Timaeus, 455c-458b
+8 ARISTOTLE: Physics, BK i, CH 9 [192*9-14] 268a; BK iv, CH 2 [209 b 5-2iori] 288b-d; CH 4 fciiV 212 * 2 ! 290c-291a
+17 PLOTINUS: Third Ennead, TR vi, CH 13 114c- 115b; CH 19 118c-119a
+19 AQUINAS: Summa Theologica, PART i, Q 66, A i, REP i 343d-345c
+23 HOBBES: Leviathan, PART iv, 270d-271a
+31 DESCARTES: Rules, xiv, 29b-32a / Discourse, PART iv, 52d-53a / Meditations, n, 78c-d / Ob- jections and Replies, DBF vn 130c-d; 135d- 136a; 154a
+33 PASCAL: Vacuum, 370a
+35 LOCKE: Human Understanding, BK II, CH xm, SECT 11-27 150d-154d; CH xv, SECT 4, 162d- 163a; CH xvn, SECT 20 172d-173c; BK III, CH vi, SECT 5, 269b-c; SECT 21 273c-d; CH x, SECT 6, 293b
+42 KANT: Pure Reason, 28b-33d
+
+1b. Place as the envelope or container of bodies - place as a part of space or as relative position in space
+
+8 ARISTOTLE: Physics, BK iv, CH 1-5 287a-292c esp CH 4 289d-291c / Heavens, BK i, CH 7 [275 b 5-i2] 366d
+17 PLOTINUS: Fourth Ennead, TR in, CH 20, 152b-c / Sixth Entiead, TR i, CH 14 260b-c
+19 AQUINAS: Summa Theologica, PART i, Q 8, A 2, ANS and REP 3 35c-36b; Q 50, A i, REP 3 269b-270a; Q 52 278d-280d; Q 53, A i, ANS 280d-282a; Q 66, A 4, REP 5 348d-349d
+20 AQUINAS : Summa Theologica, PART in SUPPL, Q 83, A 2, ANS and REP 5 976c-978c; A3, REP 3-4 978c-980d; A 5, ANS 981b-982c; Q 84, A 2, REP i 984c-985d
+23 HOBBES: Leviathan, PART HI, 172b; PART iv, 270d-271c
+31 DESCARTES: Rules, XH, 23c-d; xm, 26b-c / Meditations, n, 78c-d / Objections and Replies, 228c-229a
+33 PASCAL: Vacuum, 375a-376a
+34 NEWTON: Principles, DEFINITIONS, SCHOL, 9a; lOa-lla
+35 LOCKE: Human Understanding, BK II, CH iv, 820 Ic tola (1. Space, place, and matter. \b. Place as the envelope or container of bodies - place as a part of space or as relative position in space.) SECT 2 129c-d; SECT 5 130d-131a; CH xm, SECT 7-10 149d-150d; CH xv, SECT 5-8 163b- 164b
+35 BERKELEY: Human Knowledge, SECT in, 434c
+42 KANT: Judgement, 611d-612a
+53 JAMKS: Psychology, 139a-140a; 626b
+
+1c. The tridimensionality of bodies - the indeterminate dimensions of pure space or prime matter
+
+7 PLATO: Timaeus, 455c-458b
+8 ARISTOTLE: Topics, BK vi, CH 5 [i 42^0-29] 196b / Physics, BK iv, CH i |20()*5-7] 287d / Heavens, BK i, CH i 359a-c / Metaphysics, BK v, CH 6 [ioi6 b 25-3i] 537b; CH 13 [1020*7-14] 541b; BK VII, CH 3 [1029*11-19] 551c-d
+11 NICOMACHUS: Arithmetic, BK 11, 832c
+17 PLOTINUS: Second Ennead, TR iv S0a-57c esp CH 7-9 52a-53b, CH 15 56c-57a
+18 AUGUSTINE: Confessions, BK xn, par 3-4 99d- lOOa; par 15 102b-c
+19 AQUINAS: Summa Theologica, PART i, Q 3, A 2, CONTRARY 15c-16a; Q 66, A i, REP i 343d-345c
+20 AQUINAS: Summa Thcologica, PART HI SUPPL, Q 79, A i, REP 3 951b-953b; Q 80, A 5, REP 3 963a-964b; Q 83, A 2, ANS 976c-978c; A 3, REP 1-2 978c-980d; A 5, ANS 981b 982c
+23 HOUSES: Leviathan, PART iv, 269d
+31 DhscARTEs - Rules, xiv, 29b-c; 31d / Meditations, v, 93b
+31 SPINOZA: Ethics, PART i, PROP 15, SCHOL, 360b
+33 PASCAL: Vacuum, 370a
+35 LocKh - Human Understanding, BK II, CH iv, SECT 5 130d-131a; CH xiv, SECT 26 160c-d; CH xv, SLOT 1-8 162b-164b passim; CH xvn 167d-174a passim
+35 BERKELEY: Human Knowledge, SECT 117 436a
+52 DOSIOEVSKY: Brothers Karamazov, BK v, 121a-b
+
+1d. The exclusiveness of bodily occupation of space - impenetrability
+
+8 ARISTOTLE: Physics, BK iv, CH i [209*5-7] 287d; en 6 [2i3 b 4~i2] 293a
+17 PLOHNUS: Fourth Ennead, TR H, CH i, 139d
+19 AQUINAS: Summa Theologica, PART i, Q 8, A 2, ANS 35c-36b; Q 52, A 3, REP i 280a-d
+20 AQUINAS: Summa Theologica, PART in SUPPL, Q 83, AA 2-4 976c-981b; A 5, ANS and REP 2 981b-982c; A 6, ANS and REP 2 982c-983b
+23 HOBBES: Leviathan, PART i, 54b-c; PART iv t 271b-c
+28 GALILEO: Two New Sciences, FIRST DAY, 153a; 156d-157b
+30 BACON: Novum Organum, BK II, APH 36, 167b; APH 48, 179d-180a
+31 DESCARTES: Meditations, n, 78c-d
+33 PASCAL: Pcnsees, 512 262a / Vacuum, 370a
+34 NEWTON: Principles, BK HI, RULE in, 270b
+35 LOCKE: Human Understanding, BK II, en iv 129b-131a; CH xv, SECT n l""vb; BK iv, CH vn, SECT 5 338b
+45 FARADAY : Researches in Electricity, 854c-855a,c
+
+2. Space, void, and motion
+
+    [sem referências]
+
+2a. The role of space or place in local motion - the theory of proper places; absolute and relative space
+
+7 PLATO: Timaeus, 453c; 455c-458b; 460c-d / Laws, BK x, 762b-c
+8 ARISTOTLE: Physics, BK III, CH 5 [205*10- 2o6 fi 8J 283b-284b; BK iv, CH i [2o8 b i -24] 287a-c; CH 2 [210*2-4] 288d; CH 4 [211*4-6] 290a; [212*20-28] 291c; CH 5 [2i2 b 29-2i3*4J 292b; CH 8 [2i4 b i3~i8j 294b; [215*1-19] 294c-d; BK vi 312b,d-325d passim / Heavens, BK i, CH 2 [268 b n]-cH 3 [270*13] 359d-361b; CH 7 [274 b 30-33] 366a; CH 7 [275 h ^o]-cH 8 [277^5] 367a-369a; CH 9 [278^2-279*8] 370a-b; BK II, CH 2 376b-377c; BK HI, CH 5 [304 b n-23]395d-396a; CH 6 [305*22-28] 396c; BK iv, CH i 399a-d; en 3-5 401c-404d / Metaphysics, BK v, CH 13 [1020*25-33] 541c; BK xi, CH 10 [1067*8-33] 595c-596a / Soul, BK i, CH 3 [406*12-29] 635c-d
+9 ARISTOTLE: Ethics, BK x, CH 4 [ii74 a 29- b 5] 428d
+11 NICOMACHUS: Arithmetic, BK II, 832c
+12 LUCRETIUS: Nature of Things, UK i [988-1007] 13b; [1052-1082] 14a-c; BK II [184-250] 17b- 18b
+16 PTOLLMY: Almagest, BK i, lOb-llb
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK i, 517b-518a; 519b-520b
+16 KEPLER: Epitome, BK iv, 855b; 931b 932a
+17 PLOTINUS: Third Ennead, TR vn, CH 8, 123d- 124a
+19 AQUINAS: Summa Theologica, PART i, Q 53 280d-284d
+20 AQUINAS: Summa Theologica, PART in SUPPL, Q 84, A 2, REP 1,4-5 984c-985d; A 3, ANS and REP 2-3 985d-989b
+21 DANTE: Divine Comedy, PURGATORY, xvin [22-33] 80a; PARADISE, i [94-142] 107b-d; iv [73-87] lllb-c; xxni [40-45] 141d
+23 HOBBES: Leviathan, PART i, 50a; 61b; PART in, 173a; PART iv, 271a-b; 271 d
+28 GILBERT: Loadstone, BK vi, HOb-c
+28 GALILEO: Two New Sciences, FIRST DAY, 162d; 164a-c; THIRD DAY -FOURTH DAY 197a-260a,c esp THIRD DAY, 197b-d, 200b-c, 203a-b, 205b- 208c
+30 BACON: Novum Organum, BK II, APH 35, 163a-d; APH 36, 166b-c; APH 45 176a-177c; APH48,179d-180d;181d
+34 NEWTON: Principles, DEFINITIONS-LAWS OF MOTION 5a-24a esp DEFINITIONS, SCHOL 8b- 13a; BK i-n 25a-267a passim, esp BK i, PROP 1-17, SCHOL 32b-50a, PROP 32-39 81a 88a 2b to 2c CHAPTER 89: SPACE 821
+35 LOCKE: Human Understanding BK II, CH xm, SECT 7-10 149d-150d; SECT 27, 154c; CH xv, SECT 5-8 163b-164b
+35 BERKELEY: Human Knowledge, SECT 110-117 434b-436a
+42 KANT: Pure Reason, 29c-d; 31d-32a; 55c-56a; 84b-c; 135d [fn 2]
+51 TOLSTOY: War and Peace, BK xi, 469a-d
+
+2b. The issue of the void or vacuum
+
+#2b(1) The distinction between empty and filled space
+8 ARISTOTLE: Physics, BK iv, CH i [2o8 b 25~26] 287c; CH 6-9 292c-297c esp CH 7 [2i3 b 30- 214*16] 293b-c / Heavens, BK i, CH 9 [279*12- 18] 370b-c; BK HI, CH 2 [30i b 32-302 a 9] 393b
+12 LUCRETIUS: Nature of Things, BK i [329-369] 5b-c; [418-448] 6b-c; [503-550] 7b-d
+17 PLOTINUS: Fourth Ennead, TR in, CH 20, 152c
+19 AQUINAS: Summa Theologica, PART i, Q 46, A i, REP 4 250a-252d
+20 AQUINAS: Summa Theologica, PART HI SUPPL, Q 83, A 2, ANS 976c-978c
+31 SPINOZA: Ethics, PART i, PROP 15, SCHOL, 361 b-d
+33 PASCAL: Vacuum, 359b-361a; 363b-365b; 370a;373b-376a
+35 LOCKE: Human Understanding, BK ii, CH iv, SECT 2-5 129c-131a; CH xin, SECT 11-27 150d- 154d esp SECT 21-27 152d-154d; CH xiv, SECT 26 160c-d; CH xv, SECT 1-4 162b 163b passim; CH xvn, SECT 4 168b-d; SECT 20 172d-173c
+35 BRRKELEY: Human Knowledge, SECT 116-117 435d-436a
+42 KANT: Pure Reason, 71b-72a; 84b-c; 135d [fn 2]; 152c-d
+#2b(2) The indispensability of void or vacuum for motion and division - the absence of void in atoms
+8 ARISTOTLE: Physics, BK iv, CH 6 292c-293b; CH 7 [2i 4 a i6]-CH 8 [216*26] 293d-295d / Heavens, BK i, CH 7 [275 b 3o-276 a 5] 367a; BK III, en 2 [3oi b 32~302 a 9] 393b; BK iv, CH 2 [3o8 b 2o-3io a i3] 400b-401c / Generation and Corruption, BK i, CH 8 [325 a 24- b n] 423d-424b
+12 LUCRETIUS: Nature of Things, BK i [329-397] 5b-6a; [418-448] 6b-c; [483-550] 7a-d; [988- 1007] 13b; [1052-1082] 14a-c; BK vi [998- 1041] 93c-94a
+20 AQUINAS: Summa Theologica, PART in SUPPL, Q 84, A 3, REP 2 98Sd-989b
+28 GALILEO: Two New Sciences, FIRST DAY, 138b- 141d; 151c-153a; 156d 160a passim
+30 BACON: Novum Organum, BK 11, APH 48, 187c
+31 SPINOZA: Ethics, PART i, PROP 15, SCHOL, 361bd
+33 PASCAL: Vacuum, 359a-381b / Weight of Air, 405b-415b
+34 NEWTON: Principles, BK III, PROP 6, COROL in-iv 281b / Optics, BK III, 541b
+35 LOCKE: Human Understanding, BK II, CH xin, SECT 23 153c-d; CH xvn, SECT 4 168b-d
+45 LAVOISIER: Elements of Chemistry, PART i, 9a-b
+45 FARADAY: Researches in Electricity, 850b,d- 855a,c esp 851a-b
+#2b(3) The denial of void or vacuum in favor of a plenum
+7 PLATO: Timaeus, 460c-d; 470d-471c
+8 ARISTOTLE: Physics, BK iv, CH 6-9 292c- 297c / Heavens, BK i, CH 9 [279*12-18] 370b-c; BK HI, en 2 [30^32-302*9] 393b; CH 6 [305* 14-22] 396b-c
+10 GALEN: Natural Faculties, BK II, CH 6, 188c- 189c
+12 LUCRETIUS: Nature of Things, BK i [370-383] 5c-d
+19 AQUINAS: Summa Theologica, PART i, Q 46, A i, REP 4 250a-252d; Q 52, A 3, REP 2 280a-d
+23 HOBBES: Leviathan, PART HI, 172b; PART iv, 269d
+30 BACON: Novum Organum, BK II, APH 8 140b; APH 48, 180a; 187c
+31 DESCARTES: Meditations, vi, lOOd
+31 SPINOZA: Ethics, PART i, PROP 15, SCHOL, 361b-d
+33 PASCAL: Vacuum, 376a-b; 379a-380a
+35 BERKELEY: Human Knowledge, SECT 116-117 435d-436a
+42 KANT: Pure Reason, 71b-72a; 84b-c; 135d [fn 2]
+45 FARADAY: Researches in Electricity, 850b,d- 855a,c esp 854a-855a,c
+
+2c. Space as a medium of physical action - the ether and action-at-a-distance; the phenomena of gravitation, radiation, and electricity
+
+8 ARISTOTLE: Physics, BK VIII, CH 10 [266^5- 267^0] 354b-d / Heavens, BK III, CH 2 [}oi b 16-31] 393a-b/ Soul, BK 11, CH 7 [4i8 a 27]-cn 8 [42o a 26] 649b-651c; BK III, CH 12 [434^*22- 435*10] 667c-668a / Dreams, CH 2 [459 a 28-34] 703b
+12 LUCRETIUS: Nature of Things, BK i [440-448] 6c; BK vi [906-1041] 92b-94a
+16 KEPLER: Epitome, BK iv, 897b-905a esp 900b- 901b; 906a-b; 922a-b; 934b; BK v, 965a-b
+19 AQUINAS: Summa Theologica, PART i, Q 8, A i, REP 3 34d-35c
+28 GILBERT: Loadstone, BK II, 26d-40b esp 30a* 32c; 43a-c; 45d-47b; 51a-c; 54d-55c; BK v, 102d-104b; BK vi, 112d
+28 GALILEO: Two New Sciences, THIRD DAY, 202d
+30 BACON: Novum Organum, BK II, APH 36, 167b-c; APH 37 168d-169c; APH 45 176a-177c; APH 48, 183a-c; 186a
+31 DESCARTES: Rules, ix, 15c
+33 PASCAL: Vacuum, 366a-367a
+34 NEWTON: Principles, DBF v-vin 6a-8a; BK i, PROP 69, SCHOL 130b-131a; BK III, GENERAL 822 (2. Space, void, and motion. 2c. Space as a medium of physical action - the ether and action-at-a-distance; the phenomena of gravitation radiation, and electricity.) SCHOL, 371b-372a / Optics, BK III, 516a-b; 520a-522b esp 521a-b; 525b-529a; 531b- 542a passim, esp 531 b
+34 HUYGENS: Light, CH i, 553b-560b
+35 BERKELEY: Human Knowledge, SECT 102-108 432d-434a passim
+35 HUME: Human Understanding, SECT VH, DIV 57, 475d [fn 2]
+36 SWIFT: Gulliver, PART in, 118b 119a
+42 KANT: Pure Reason, 8d [fn 2]; 227b
+45 LAVOISIER: Elements of Chemistry, PART i, 9b-c
+45 FARADAY: Researches in Electricity, 441a-442b; 451a-454a; 463d-465d; 513d-514c; 521a-524a; 528c-532a; 604b-c; 631b-c; 648b-d; 685d- 686c; 816b,d-819a,c; 819a-d; 824a-b; 832a-c; 840c-842c; 855a,c
+51 TOLSTOY: War and Peace, EPILOGUE 11, 687d; 695c
+
+3. Space, quantity, and relation
+
+    [sem referências]
+
+3a. The finitude or infinity of space - the continuity and divisibility of space
+
+8 ARISTOTLE: Categories, CH 6 [5*6-23] 9b-c / Physics, BK III, CH 5 [205io-2o6 a 8] 283b-284b; BK iv, en 5 [2i2 b n -21] 292a / Heavens, BK i, CH g [279*12 - b t] 370b-d / Metaphysics, BK v, CH i } [1020*25-33] 541c; BK xi, CH 10 [1067*8- 3^| 595c-596a
+11 ARCHIMEDES: SandReckoner 520a-526b passim
+12 LUCRETIUS: Nature of Things, BK i [951-1007] 12d-13b; BK II [89-94] 16a-b; [1048-1063] 28b-c; BK vi [647-652] 89a
+16 PTOLEMY: Almagest, BK i, lOb
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK i, 516a-517b
+16 KFPLER: Epitome, BK iv, 882a-886b
+18 AUGUSTINE: City of God, BK xi, CH 5 324d- 325c
+19 AQUINAS: Summa Theologica, PART i, Q 8, A 4, REP 3 37c-38c; Q 46, A i, REP 8 250a-252d; O 52, A i 278d-279b; Q 53, A i, ANS and REP i 280d-282a; A 2, ANS and REP i 282a 283b
+20 AQITINAS: Summa Theologica, PART in SUPPL, Q 84, A 3, CONTRARY 985d~989b
+23 HOBBES: Leviathan, PART i, 54b-c; 61b; PART II, 162b; PART iv, 271b
+30 BACON: Novum Organum, BK i, APH 48 HOd- llla
+31 DESCARTES: Objections and Replies, 112b
+33 PASCAL: Pensfes, 121 195a; 205-206 211a / Geometrical Demonstration, 434b-439b
+34 NEWTON: Principles, DEFINITIONS, SCHOL, 8b- lla / Optics, BK III, 543a
+35 LOCKE: Human Understanding, BK II, CH xm, SECT 4 149b; SECT 21 152d 153b; CH xiv, SECT 26 160c-d; CH xv, SECT 1-8 162b-164b passim; CH xvi, SECT 8 167c; CH xvn 167d- 174a passim, esp SECT 3-%, .68b-d, SECT n 170c
+35 BERKELEY: Human Knowledge, SECT 117 436a
+42 KANT: Pure Reason, 24c-d; 28b-29c; 135a- 137a,c; 152a-d; 160b-163a esp 162b / Judgement, 501 a-b
+51 TOLSTOY: War and Peace, EPILOGUE n, 693c- 694a passim
+53 JAMES : Psychology, 631a
+54 FREUD: General Introduction, 562c-d
+
+3b. The relation of physical and mathematical space - sensible and ideal space
+
+8 ARISTOTLE: Physics, BK iv, CH i [209*5-7] 287d; CH 8 [2i6 b 2-ii] 296a-b / Metaphysics, BK xiv, CH 5 [io92 tt i8-2i] 625a
+20 AQUINAS: Summa Theologica, PART in SUPPL, Q 83, A 2, ANS 976c-978c; A 3, REP 1-2 978c- 980d
+31 DESCARTES: Rules, xiv 28a-33b / Discourse, PART iv, 52d-53a / Objections and Replies, 169c-170a
+33 PASCAL: Vacuum, 370a; 373a-374a
+34 NEWTON: Principles, DEFINITIONS, SCHOL 8b- 13a esp 8b-9a, 12a-b
+35 LOCKE: Human Understanding, BK II, en iv, SECT 5 130d-131a; CH xiv, SECT 26 160c-d; CH xv, SECT 1-8 162b-164b passim
+35 BERKELEY: Human Knowledge, SECT 110-117 434b-436a; SECT 124-128 437d-438d
+42 KANT: Pure Reason, 24a-26b; 161d-163a / Judgement, 574b-575a
+53 JAMES: Psychology, 877b
+
+3c. Geometrical space, its kinds and properties - spatial relationships and configurations
+
+8 ARISTOTLE: Categories, en 6 [5*1-23] 9b-c / Heavens, BK i, CH i 359a-c / Metaphysics, BK v, CH 6 [ioi6 b 25-3i] 537b
+11 EUCLID: Elements, BK i, DEFINITIONS, 1-2,5 la; 14 Ib; POSTULATES esp 5 2a; COMMON NOTIONS, 4 2a; PROP 4 4a-b; PROP 8 6b-7a; PROP 16 lOb-lla; PROP 26 16a-17b; PROP 29 18b-19a; BK x, PROP i 191b 192a; BK xi, DEFINITIONS, I 301a
+11 ARCHIMEDES: Sphere and Cylinder, BK i, AS- SUMPTIONS esp 5 404b / Spirals, 484b / Quadrature of the Parabola, 527b
+11 NICOMACHUS: Arithmetic, BK u, 832b-d
+16 KEPLER: Epitome, BK iv, 865a-b
+17 PLOTINUS: Sixth Ennead, TR in, CH 13-14 287d-289a
+19 AQUINAS: Summa Theologica, PART i, Q 85, A 8, REP 2 460b-461b
+31 DESCARTES: Rules, xiv 28a-33b esp 30d-32a / Discourse, PART iv, 52d-53a / Meditations, v, 93a d; vi, 96b-d / Objections and Replies, 217a c; 228c 229a 3d to 5 CHAPTER 89: SPACE 823
+35 LOCKE: Human Understanding, BK II, CH xm, SECT 5-6 149b-d
+35 BERKELEY: Human Knowledge, SECT 123-1^2 437c-439c
+35 HUME: Human Understanding, SECT XH, DIV 124-125 506a-507a passim
+42 KANT: Pure Reason, 24a-26b
+52 DOSTOEVSKY: Brothers Karamazov, BK v, 121a-b
+53 JAMES: Psychology, 550b-551b [fn 1-2]; 876b- 878a esp 877b
+
+3d. The measurement of spaces, distances, and sizes - trigonometry; the use of parallax
+
+16 PTOLEMY: Almagest, BK v, 165a-176a; BK ix, 270a-b
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK i, 516a~b; 521b-529a; BK iv, 705a- 714b
+16 KEPLER: Epitome, BK iv, 861a-863b; 868b- 887a / Harmonies of the World, 1016b-1018a
+30 BACON: Novum Organum, BK i, APH 109, 129b; BK II, APH 39, 170b-c; APH 45 176a-177c
+31 DESCARTES: Rules, xiv, 31b-33b
+34 NEWTON : Principles, BK III, LEMMA 4 333a- 337b
+41 GIBBON: Decline and Fall, 299b-c
+53 JAMES: Psychology, 551a-b; 673b
+
+4. The knowledge of space and figures
+
+    [sem referências]
+
+4a. Space as the divine sensorium and space as a transcendental form of intuition - the a priori foundations of geometry
+
+34 NEWTON: Principles, BK III, GENERAL SCHOL, 370a-371a / Optics, BK HI, 529a; 542a-543a
+42 KANT: Pure Reason, 16a-c; 17d-18d; 23a-26b; 31b-d; 46a-c; 55c-56a; 62a-d; 68a-69c; 86b-c; 87b-c; 94b-95a; 99a-101b; HOa; 131a-c; 135d [fn 2]; 136c-137c [antithesis]; 153c-155a; 186d- 187a; 211c-218d esp 211c-212a, 213d-215a / Practical Reason, 307d-308b; 312c-313d / Judgement, 471b-c; 551a-553c; 574b-575a
+53 JAMES: Psychology, 629a-631a; 874a; 876b- 878a
+
+4b. The controversy concerning innate and acquired space-perception
+
+42 KANT: Pure Reason, 23a-24a; 25c-26a; 31d- 32c / Practical Reason, 307d-308b
+53 JAMES: Psychology, 474a-475a; 627a-635a esp 628b-631a, 633a~635a; 852b-853a; 860b-861a
+
+4c. The perception of space - differences between visual, auditory, and tactual space; perspective and spatial illusions
+
+8 ARISTOTLE: Sense and the Sensible, en 6 [445 b 4-i8] 683b-d / Memory and Reminiscence, CH 2 [452 b 7-i8] 694b-c
+12 LUCRETIUS: Nature of Things, BK II [308-332] 19a-b; BK iv [230-255] 47b-c; [269-291] 47d- 48a; [353-452] 48d-50a
+17 PLOTINUS: Second Ennead, TR vin 64c-65c
+35 LOCKE: Human Understanding, BK II, CH xni, SECT 2 149a; SECT 5 149b-c
+35 BERKELEY: Human Knowledge, SECT 42-44 420c-421a
+53 JAMES: Psychology, 318b; 400a; 406b; 410a-b; 471b-479a esp 474a-477b; 540a>635a esp 541a, 548b-552a, 560a-575a, 627a-635a
+
+5. The mode of existence of geometrical objects - their character as abstractions; their relation to intelligible matter
+
+7 PLATO: Republic, BK vi, 387b-c; BK VII, 394b c / Philebus, 636b-c / Seventh Letter, 809c-810b
+8 ARISTOTLE: Posterior Analytics, BK i, en i$ [71/6-10] 108c; CH 18 [8i ft 4o- b 5] lllb-c / Topics, BK vi, CH 6 [i43 b n-33l 197b-c / Physics, BK II, CH 2 [i93 b 2 3-1 94*11] 270a-c; BK III, CH 5 [204*17-19] 282a-b; BK iv, CH i [208^9-24] 287b-c / Heavens, BK HI, CH i [299*1-17] 390b-c / Metaphysics, BK i, en 6 J987 b i4-i9] SOSd; en 8 [989 b 29-33J 508a; CH 9 [99i b 9~992 b i8] 509d-511a; BK III, CH i [995 b i3-i8] 514a; [996*13-15] 514c; CH 2 [997 b i2-998*i9] 516b-d; CH 5 [iooi b 26] -CH 6 [ioo2 b 25] 520c-521c; BK VII, CH 2 [io28 b i8 28] 551a-b; en 10 [io35 b 32 -1036*12] 559b-c; CH n [1036^2-1037*4] 560b-c; BK xi, CH 2 [io6o a 3 6- b i9] 588c-d; CH 3 [io6i*2 9 - b 4] 589c; BK xn, CH i [1069*30-37] 598b; BK xin, CH 1-3 607a-610a; CH 6 [io8o b 2?-3o] 612c; CH 9 616d-618c; BK xiv, CH 3 622d-623d passim; CH 5 [1092*18-21] 625a; CH 6 [109^24-29] 626d / Soul, BK HI, CH 7 [4^i b i3~i9] 664b
+9 ARISTOTLE: Motion of Animals, en i [698*24- b r] 233b-c / Ethics, BK vi, CH 8 [1142*16-19] 391b
+11 NICOMACHUS: Arithmetic, BK i, 81 la 81 2a
+18 AUGUSTINE: Confessions, BK x, par 19 76a-b
+19 AQUINAS: Summa Theologica, PART i, Q 5, A 3, REP 4 25a-d; Q n, A 3, REP 2 49a-c; Q 44, A i, REP 3 238b-239a; Q 85, A i, REP 2 451c- 453c
+20 AQUINAS: Summa Theologica, PART in SUPPL, Q 83, A 2, ANS 976c-978c; A 3, REP 2 978c-980d
+31 DESCARTES: Rules, xiv 28a-33b esp 30d-32a / Discourse, PART iv, 52d-53a / Meditations, i, 76b-c; v, 93a-d; v-vi, 96a-d / Objections and Replies, 169c-170a; 217a-d; 218c; 228c- 229a
+35 LOCKE: Human Understanding, BK II, CH xni, SECT 5-6 149b-d; BK III, CH in, SECT 19 259c- 260a; BK iv, CH iv, SFCT 5-8 324d-325c
+35 BERKELEY: Human Knowledge, INTRO, SECT 12-16 408a-409d; SECT 12-16 415b-416a; SECT 123-128 437c-438d esp SECT 125-126 438a-c
+35 HUME: Human Understanding, SECT iv, DIV 20 458a-b; SECT xn, DIV 122 505c-d; DIV 124-125 506a-507a esp DIV 125, 507b [fn i]
+42 KANT: Pure Reason, 16a-c; 17d-18d; 24d-25b; 31b-d; 35b-36a; 46a-c; 55c; 62a-d; 68a-69c; 86b-c; 87b-c; 91c-d; 94b-95a; 211c-213c; 824 (5, The mode of existence of geometrical objects - their character as abstractions; their relation to intelligible matter.) 217c-d / Practical Reason, 312c-d / Judgement, 551a-552c
+53 JAMES: Psychology, 876b-878a; 880b-881a
+
+6. The spiritual significance of place, position, and space
+
+7 PLATO: Timaeus, 455b-c
+8 ARISTOTLE: Heavens, BK i, CH 3 [27o b i-i2] 361c-d; BK II, CH i 375b,d-376a; CH 13
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK i, 520b; 526a-528a
+16 Kiii'LER: Epitome, BK iv, 853b-854a; 857b- 860b; 915b-916a / Harmonies of the World, 1080b-1085b
+18 AUGUSTINE: Confessions, BK VII, par 20-21 49d-50a
+19 AQUINAS: Summa Theologica, PART i, Q 3, A i, REP 5 14b-15b; Q 8, A i, REP 3 34d-35c; Q 61, A 4 316d-317c; Q 66, A 347b-348d; Q 102 523d-527a,c
+20 AQUINAS: Summa Theologica, PART in SUPPL, Q 84, A 2, REP 5 984c-985d
+21 DANTE: Divine Comedy, HELL, v [1-15] 7a; vi [77-87] 9a-b; ix [16-33] 12b-c; PURGATORY, iv [1-96] 57c-58c; xvm [22-33] 80a-b; xx [i24]-xxi [72] 84c-85d; PARADISE, i [64-142] 106d-107d; in [14-90] 109d-110b; iv [28-48] Ilia; xxvni 148d-150b; xxx-xxxn 151d- 156a
+32 Mmrou - Paradise Lost, BK II [850-1009] 129b- 133a; BK III [523-539] 146b-147a; BK VIIi [114- Ho]234b-235a
+33 PASCAL: Pensees, 194, 207b; 205-206 211a
+42 KANT: Practical Reason, 360d-361d
+46 HEGEL: Philosophy of History, INTRO, 186c-d
+54 FREUD: General Introduction, 562c-d <ref_end>
+
+
+ADDITIONAL READINGS
+
+Listed below are works not included in Great Booty of the W
+
+idea and topics with which this chapter deals. These works
+
+I. Works by authors represented
+
+II. Works by authors not represen
+
+For the date, place, and other facts concerning the publica
+
+the Bibliography of Additional Readings which follows the l
+
+B
+
+I.
+
+DESCARTES. The Principles of Philosophy, PART n, H
+
+4-19, 21 M HOBBES. Concerning Body, PART 11, CH 7 HUME. A Treatise of Human
+Nature, BK i, PART P
+
+ii BERKELEY. An Essay Towards a New Theory of
+
+Vision C
+
+. Siris KANT. On the First Grounds of the Distinction of }
+
+Regions in Space
+
+. De Mundi Sensibilis (Inaugural Dissertation) R
+
+.
+
+Metaphysical Foundations of Natural Science W W. JAMES. Collected Essays and
+Reviews, xxi S
+
+E
+
+II.
+
+W SEXTUS EMPIRICUS. Against the Physicists, BK n,
+
+CH I
+
+Outlines of Pyrrhonism, BK in, CH 1-20
+
+. SuARhz. Disputationes Mctaphysicae, xxx (7), B
+
+xxxix, XL (7), I.I-LIII
+
+LEIBNITZ. New Essays Concerning Human Understanding, BK II, CH I } E
+
+Correspondence with Clarke
+
+.
+
+D'ALEMBERT. Traite de dynamique
+
+VOLTAIRE. "Space," in A Philosophical Dictionary WHEWLLL. The Philosophy of the
+Inductive Sciences, G VOL I, BK II, CH 2-6 S
+
+RIEMANN, IJber die Hypothesen welche der Geometric L zu Grunde hegcn (The
+Hypotheses of Geometry)
+
+HODGSON. Time and Space B HELMIIOLTZ. Popular Lectures on Scientific Subjects, n
+CLIFFORD. The Common Sense of the Exact Sciences, B CH 2, 4
+
+LOTZE. Metaphysics, BK n, CH 1-2; BK in, CH 4 STALLO. Concepts and Theories of
+Modem Physics, CH 13-15
+
+ACE estern World, but relevant to the are divided into two groups: in this
+collection. ted in this collection. tion of the works cited, consult ast chapter
+of The Great Ideas. RADLEY. Appearance and Reality, BK i, CH 4; BK n, CH 1 8
+ILBERT. The Foundations of Geometry ACII. Space and Geometry in the Light of
+Physiological, Psychological and Physical Inquiry OINCARE. Science and
+Hypothesis, PART n . The Value of Science, PART i, CH 3-4 . Science and Method,
+BK 11, CH i ASSIRLR. Substance and Function, PART i, CH 3; SUP iv-v . W. YOUNG.
+Lectures on Fundamental Concepts of Algebra and Geometry, LECT xvi-xvn OBB. A
+Theory of Time and Space LYL. Space Time Matter . ALEXANDER. Space, Time, and
+Deity DDINGTON. Space, Time, and Gravitation HITEHEAD. The Organization of
+Thought, CH 8 ral Knowledge, en 1 4
+
+. An Enquiry Concerning the Principles of Natu. The Concept of Nature, CH 5-6
+ERGSON. Time and Free Will . Duree et simultaneite, a propos de la theorie
+d'Einste in, CH 6 INSTEIN. Relativity: The Special and the General Theory .
+Sidelights on Relativity . The Meaning of Relativity
+
+. N. LEWIS. The Anatomy of Science, ESSAY n ANTA YANA. The Realm of Matter, CH 4
+ENZEN. The Nature of Physical Theory, PART n, CH II ORING. The Physical
+Dimensions of Consciousness, CH 4 , RUSSELL. An Essay on the Foundations
+of Geometry . Principles of Mathematics, CH 44-52 . The Analysis of Matter, CH
+28-29, 32, 36
+
+. Human Knowledge, Its Scope and Limits, PART III, CH 6; PART IV, CH 6-7

@@ -397,3 +397,530 @@ CH 5 WFISS, Reality, BK ii, CH 6 B. RUSSELL. The Analysis of Matter, CH 28-29, 3
 Scope and Limits,
 
 PART III, CH 5; PART IV, CH 5, 7
+
+REFERENCES
+============================================================
+
+1. The nature of time - time as duration or as the measure of motion; time as a continuous quantity; absolute and relative time
+
+7 PLATO: Timaeus, 450c-451d
+8 ARISTOTLE: Categories, CH 6 [5 n 6-i4] 9b-c / Physics, BK iv, CH lo-ij, 297c-304a,c; BK vt 312b,d-325d passim / Generation and Corruption, BK ii, CH 10 [337*22- 34] 439b-c / Metaphysics, BK v, CH 13 11020*25-33] 541c; BK xn, CH 6 [io7i b 6-i2] 601b
+17 PLOTINUS: Third Ennead, TR VH, CH 8-13 123b-129a / Sixth Ennead, TR i, CH 5, 254c-d; CH 16 260d-261c
+18 AUGUSTINE: Confessions, BK xi, par 17-40 93b-99a; BK xii, par 8, 101 b / City of God, BK xi, CH 6 325c-d; BK xn, CH 15 351b- 352d
+19 AQUINAS: Summa Theologica, PART i, Q 7, A 3, REP 4 32c-33c; Q 10, A i, ANS 40d-41d; A 4 43b-44b; A 6, ANS 45c-46d; Q 53, A 3 283b- 284d; Q 57, A 3, REP 2 297b-298a; Q 63, A 5, ANS 329a-330c; A 6, REP 4 330c-331c; Q 66, A 4, REP 4 348d-349d; PART i-n, Q 31, A 2, ANS and REP i 753c-754a
+20 AQUINAS: Summa Tkeologica, PART I-H, Q 113, A 7, REP 5 366a-367c; PART in SUPPL, Q 84, A 3 985d-989b
+28 GALILEO: Two New Sciences, THIRD DAY, 201a-202a
+31 DESCARTES: Objections and Replies, 213b-c
+31 SPINOZA: Ethics, PART i, DM 8 355c; PROP 21 364a-c; PART II, DEF 5 373b-c; PROP 45, SCHOL 390b; PART in, PROP 8 399b; PART v, PROP 23 458b-d
+33 PASCAL: Geometrical Demonstration, 432b- 435b
+34 NEWTON: Principles, DEFINITIONS, SCHOI, 8b; 9b-10a; 12a-b; BK i, LEMMA n, SCHOL, 31b- 32a
+35 LOCKE: Human Understanding, BK IT, CH xiv 155b-162a esp SECT 21-22, 159b-d; en xv 162b-165c passim
+35 BERKELEY: Human Knowledge, SECT 97-98 431d-432a
+35 HUME: Human Understanding, SECT xn, DIV 124-125 506a-507a esp DIV 125, 506d
+36 STERNE: Tristram Shandy, 292a-293a
+42 KANT: Pure Reason, 26b-33d esp 26d, 28a-b; 74b-76c
+46 HEGEL: Philosophy of History, INTRO, 188c- 189b; 206c
+53 JAMES: Psychology, 399a-b; 407a 906
+
+2. The distinction between time and eternity - the eternity of endless time distinguished from the eternity of timelessoess and immutability
+
+0 APOCRYPHA: Ecclesiasticus, 1:2; 18:10 (D) OT, Ecclesiasticus, 1:2; 18:8
+7 PLATO: Timaeus, 450b-451d
+8 ARISTOTLE: Physics, BK iv, CH 12 [221*19]- CH 13 [222^9] 301a-302c; BK vi, CH 2 [233*13- b i6] 315a-c; en 7 [237 b 23-238 a i9] 321a-c; CH 10 [24i b n-2o] 325d; BK VIII, CH 1-2 334a- 337b; CH 6 344b-346b; CH 8 348b-352a / Heavens, BK i, CH 12 372d-375d esp [282*22- 283*2] 373d-374c, [283^-22] 375c-d; BK II, CH 3 [286*8-13] 377c / Generation and Corruption, BK II, en 9 [335*33- b 2] 436d-437a / Metaphysics, BK v, CH 5 [ioi5 b 9-i6] 536a; BK ix, CH 8 [io5o b 6-27] 576b-d; BK xi, CH 10 [1067*33-38] 596a; BK xn, CH 6 [io7i b 2-n] 601b; CH 7 [1072*18-23] 602a-b; [1073*3-11] 603a-b; BK xiv, CH 2 [io88 b i4-28] 620d- 621a
+12 AURELIUS: Meditations, BK vi, SECT 15 275a-b; SECT 36 277c
+16 KEPLER: Harmonies of the World, 1071b
+17 PLOFINUS: First Ennead, TR v, CH 7 20a-c / Third Ennead, TR vn 119b-129a / Fourth En- nead, TR iv, CH 7-8 161d-162d; CH 15-16 165c-166b
+18 AUGUSTINE: Confessions, BK VII, par 21 49d- 50a; BK xi 89b-99b csp par 8-17 91b-93c, par 39-41 98c-99b; BK XH, par 13-20 102a- 103d; par 40 109b-110a; BK xm, par 44 122d / City of God, BK xi, CH 5-6 324d-325d; en 21 333a-d; BK xn, CH 12-19 349b-355a
+19 AQUINAS: Summa Theologica, PART i, Q 10, AA 1-5 40d-45c csp A i, REP 5 40d-41d, A 2, REP 2 41d-42c, A 3, REP 2 42c-43b, A 4 43b- 44b; Q 14, A 9, ANS 83b-d; A 13, ANS and REP 3 86d-88c; Q 42, A 2, REP 2-4 225d-227a; Q 46, A 2, REP 5 253a-255a; Q 79, A 8, REP 2 421c-422b
+21 DANTE: Divine Comedy, PURGATORY, xi [106-108] 69d; PARADISE, xxix [10-45] 150b-c
+23 HOBBES: Leviathan, PART iv, 271b
+25 MONTAIGNE: Essays, 292d-294a
+29 CERVANTES: Don Quixote, PART II, 366d- 367a
+30 BACON: Novum Organum, BK i, APH 48 llOd- llla
+31 DESCARTES: Objections and Replies, 216d-217a
+31 SPINOZA: Ethics, PART i, DBF 8 355c; PROP 20, COROL 1-2 364a; PART II, PROP 44, COROL 2 and DEMONST 390a; PART v, PROP 23 458b-d; PROP 29, DEMONST 4S9CJ PROP 34, SCHOL 460d
+32 MILTON: On Time 12a-b / Paradise Lost, BK vii [70-98] 218b-219a; BK xn [553-556] 331a
+33 PASCAL: Pensfa, 121 195a; 205-206 211a
+34 NEWTON: Principles, DEFINITIONS, SCHOL, 8b
+35 LOCKE: Human Understanding, BK II, CH xiv, SECT 26-27 160c-161a; SECT 30-31 161c-162a; CH xv, SECT 3-8 162d-164b; SECT 11-12 165a-c; CH xvn 167d-174a passim, esp SECT 5 168d-169a, SECT 10 170b-c, SECT 16 172a-b; CH xxix, SECT 15 237a
+42 KANT: Pure Reason, 26d; 130b-133c; 135a- 137a,c; 152c; 160b-161d; 185a-b
+46 HEGEL: Philosophy of History, INTRO, 190a-b; 206c
+51 TOLSTOY: War and Peace, BK VII, 295b-c
+
+2a. Aeviternity as intermediate between time and eternity
+
+18 AUGUSTINE: Confessions, BK xn, par 9 lOlb-c; par 12-15 101d-102c; par 18-22 103b-104b / City of God, BK xn, en 15 351b-352d
+19 AQUINAS: Summa Theologica, PART i, o 10, A 2, REP 1-2 41d-42c; A 3, ANS 42c-43b; AA 5-6 44b-46d
+
+2b. Arguments concerning the infinity of time and the eternity of motion or the world
+
+0 OLD TESTAMENT: Genesis, 1:1-2 / Nehcmiah, 9:6-(D) // Esdras, 9:6 / Job, 38:1-13 / Psalms, 90:2; 95:4-5; 102:25-26; 104:5-6; 119:90-91; 136:5-9; 148:1-6 (D) Psalms, 89: 2; 94:4-5; 101:26-27; 103:5-6; 118:90-91; 135:5-9; 148:1-6 / Proverbs, 3:19; 8:22-29 / Isaiah, 45:12,18; 48:13; 65:17-25 (D) Isaias, 45:12,18; 48:13; 65:17-25 / Jeremiah, 51:15 (D) Jeremias, 51:15
+0 APOCRYPHA: Wisdom of Solomon, 7:17-18 (D) OT, Book of Wisdom, 7:17-18 / Ecclesiasticus, 23:19-20; 24:9 (D) OT, Ecclesiasticus, 23: 28-29; 24:14 / // Maccabees, 7:23 (D) OT, // Machabees, 7 223
+0 NEW TESTAMENT: Matthew, 13:24-30,36-43,49- 50; 24:3-35 / Mark 13:3-33 / Lul^e, 21:5-33 /John, 1:1-3 / Colossians, 1:16-17 / Hebrews, 1:10-12 / II Peter, 3:3-13 / Revelation, 10:5- 6 (D) Apocalypse, 10:5-6
+7 PLATO: Phaedrus, 124b-c / Timaeus, 447b-c; 450c-451a; 460c-d
+8 ARISTOTLE: Topics, BK i, CH n [io4 b i3~i8] 148a-b / Physics, BK iv, CH 13 [222*29- b 8] 302b; BK vi, CH 10 [24i*27- b 2o] 325b-d; BK VIII, CH 1-2 334a-337b; CH 6 344b-346b; CH 8 348b-352a / Heavens, BK i, CH 2 [269^-10] 360c-d; CH 3 [27o b i-26] 361c-362a; CH 9 [279*i2]-cH 12 [283 b 23] 370b-375d; BK II, CH 6 [288*23-25] 379d / Generation and Corruption, BK II, CH lo-u 437d-441a,c / Meteorology, BK i, CH 14 [352*16-353*27] 458b-459a,c; BKII, CH3 [356 b 2-357*4]462b-d/ Metaphysics, BK ix, CH 8 [io50 b 2o-28] 576c-d; BK xi, CH 6 [1063*13-16] 591b; CH 10 [1067*33-38] 596a; BK xn, CH 6-8 601b-605a csp CH 7 [1072*1 9^14] 602a-d, [1073*5-11] 603b
+9 ARISTOTLE: Motion of Animals, CH 4 [699**! 5- 700*6] 234d-235a; CH 6 [700^9-701*7] 236a-b Ic to 3a CHAPTER 93: TIME 907
+12 LUCRETIUS: Nature of Things, BK i [146-264] 2d-4b; [483-634] 7a-8d; [951-1051] 12d-14a csp [988-1007] 13b; BK ii [89-141] 16a-d; [294-307] 18d-19a; [569-580] 22b; [1048-1063] 28b-c; [1105-1174] 29a-30a,c; BK v [1-431] 61a-66d esp [55-70] 61d-62a, [235-246] 64a-b, [351-379] 65d-66a; BK vi [535-607] 87c-88b
+12 AURELIUS: Meditations, BK v, SECT 13 271b; SECT 23 272b; BK vi, SECT 15 275a-b; BK ix, SECT 28 293d-294a; BK x, SECT 7 297b-c; SECT 27 299d
+16 PTOLEMY: Almagest, BK xm, 429a-b
+16 KEPLER: Epitome, BK iv, 847b-848b; 888b- 891a
+17 PLOTINUS: Second Ennead, TR i 35a-39d esp CH 1-5 35a-37c; TR ix, CH 7-8 69c-70d
+18 AUGUSTINE: Confessions, BK VII, par 21 49d- 50a; BK xi 89b-99b esp par 12-17 92b-93c, par 40 98d-99a / City of God, BK xi, CH 4-6 324a-325d; BK xn, CH 10-20 348b-357a
+19 AQUINAS: Summa Thcologica, PART i, Q 10, A 2, REP 2 41d-42c; A 4, ANS 43b-44b; Q 14, A 12, ANS 85d-86d; Q 46 250a-255d esp A i 250a- 252d; Q 61, A 2 315c-316a; Q 66, A 4 348d- 349d; Q 75, A i, REP i 378b-379c
+20 AQUINAS: Summa Theologica, PART in SUPPL, Q 77, A 2, ANS and REP i 945a-946b; Q 91, A 2 1017c-1020c
+23 HOBBES: Leviathan, PART i, 50a; PART II, 162b
+28 GALILEO: Two New Sciences, THIRD DAY, 224d
+30 BACON: Novum Organum, BK 11, APH 35, 163a; APM 48, 186b-d
+31 DESCARTES: Objections and Replies, 228a-c
+32 MILTON: Paradise Lost, BK i [6-10] 93b; BK v [577-599] 187b-188a; BK VII [70-97] 218b- 219a
+33 PASCAL: Pensees, 121 195a
+34 NEWTON: Principles, DEFINITIONS, SCHOL, 8b; LAW i 14a / Optics, BK III, 540a-541b
+35 LOCKE: Human Understanding, BK II, CH xiv, SECT 26 160c-d; CH xxix, SECT 15 237a
+42 KANT: Pure Reason, 20a; 26d; 130b-133c; 135a-137a,c; 152a-d; 160b-161d / Practical Reason, 334b-335c
+51 TOLSTOY: War and Peace, EPILOGUE n, 693c- 694a passim
+53 JAMES: Psychology, 882a
+
+2c. The creation of time - the priority of eternity to time; the immutability of the world after the end of time
+
+0 APOCRYPHA: Wisdom of Solomon, 7:1 7-18 (D) OT, Boot^of Wisdom, 7:17-18
+7 PLATO: Timaeus, 450c-451a
+17 PLOTINUS: Third Ennead, TR vn, CH 1 119b-c; CH 6, 122c-d; CH n, 126a; CH 13, 128c / Fourth Ennead, TR iv, CH 15-16 165c-166b
+18 AUGUSTINE: Confessions, BK VII, par 21 49d- 50a; BK xi, par 12-16 92b-93a; par 40 98d- 99a; BK xii, par 40 109b-110a / City of God, BK xi, CH 4-6 324a-325d; BK xn, CH 12 349b- 350a; CH 15-17 351b-354a; BK xxn, CH 30, 618a-d
+19 AQUINAS: Summa Theologica, PART i, Q 22, A 1, REP 2 127d-128d; Q 46 250a-255d; Q 61, A 2 315c-316a; Q 66, A 3, REP i 347b-348d; A 4 348d-349d
+20 AQUINAS : Summa Theologica, PART in SUPPL, Q 84, A 3, REP 5 985d-989b; Q 91, A 2 101 7c- 1020c
+21 DANTE: Divine Comedy, PARADISE, xxix [10- 45] 150b-c
+32 MILTON: Paradise Lost, BK v [577-594] 187b- 188a; BK VII [70-108] 218b-219b
+
+3. The mode of existence of time
+
+7 PLATO: Timaeus, 450c-451a
+8 ARISTOTLE: Categories, CH 4 [i b 25~26| 5d; CH 6 [5*6-7] 9b / Physics, BK iv, CH 10 [2 17^9- 2i8 a 8] 297c-d; CH 14 [223*21-29] 303a
+12 LUCRETIUS: Nature of Things, BK i [449-482] 6c-7a
+17 PLOTINUS: Third Ennead, TR vn, CH 11-13 126a-129a
+18 AUGUSTINE: Confessions, BK xi, par 12-40 92b-99a / City of God, BK xi, CH 6 325c-d
+19 AQUINAS: Summa Theologica, PART i, Q 10, A i, REP 5 40d-41d; A A 4-5 43b-45c
+25 MONTAIGNE: Essays, 293d-294a
+34 NEWTON: Principles, DEFINITIONS, SCHOL, 8b
+35 LOCKE: Human Understanding, BK II, CH xiv, SECT 1-5 155b-156b
+35 BERKELEY: Human Knowledge, SECT 98 432a
+42 KANT: Pure Reason, 26b-33d esp 28a-b
+46 HEGEL: Philosophy of Right, ADDITIONS, 25 121a / Philosophy of History, INTRO, 186d-190b
+53 JAMES: Psychology, 398a-399b
+
+3a. The parts of time - its division into past, present, and future
+
+7 PLATO: Timaeus, 450c-451a / Parmenides, 494c-495b; 502a
+8 ARISTOTLE: Categories, CH 6 [5*26-29] 9c / Physics, BK iv, CH n J2i9 a iob 2] 298d-299b; CH 12 [22o b 5-8] 300b; [22ii4-i9] 300d-301a; CH 14 [222 b 30-223*i5J302d-303a
+12 AURELIUS: Meditations, BK II, SECT 14 258d
+17 PLOTINUS : Sixth Ennead, TR i, CH 13 259d-260b
+18 AUGUSTINE: Confessions, BK xi, par 17-38 93b-98c
+19 AQUINAS: Summa Theologica, PART i, Q 10, A 2, REP 4 41d-42c; A 4, ANS and REP 2 43b- 44b; A 5, ANS 44b-45c
+31 DESCARTES: Meditations, in, 87c-d / Objections and Replies, AXIOM n 131d; 213b-c
+35 LOCKE: Human Understanding, BK II, CH xv, SECT 9 164b-d
+42 KANT: Pure Reason, 26b-d; 131a
+46 HEGEL: Philosophy of History, INTRO, 153a- 156d
+53 JAMES: Psychology, 398a-399a passim; 413a >08
+
+3b. The reality of the past and the future in relation to the existence of the present
+
+8 ARISTOTLE: Physics, BK iv, en 10 [2iy b 29 -218* 8] 297c~d; CH 12 [22i b 33~222 a 3] 301d; CH 14 Ib to 5a
+9 ARISTOTLE: Ethics, BK vi, en 2 [ii39 b io-n] 388b
+12 AIIRELIUS: Meditations, BK II, SECT 14 258d
+18 AUGUSTINE: Confessions, BK xi, par 17-38 93b-98c
+19 AQUINAS: Snmma Theologica, PART i, Q 10, A 4, ANS 43b-44b; A 5, ANS and REP 3 44b-45c; Q 25, A 4 147a-d
+23 HOBBES: leviathan, PART i, 53c
+25 MONTAIGNE: Essays, 293d-294a
+46 HEGLL: Philosophy ofllistorv, INTRO, 190a-b
+53 JAMES: Psychology, 219b; 398a~b; 413a; 421a
+
+3c. The extent of the present moment - instantaneity
+
+7 PLATO: Parmenides, 505a-c
+8 ARISIOILL: Physics, BK iv, en 10 [218*1-29] 297d 298a; ( n u [zi()V-22o a 24] 299b-300a; en 13 [222 !l io-23l 301d-302a; [222^-14] 302b-c; BK vr, OH 3 [2 3 3^3-23 4*2 3] 315d- 316b; BK VIII, CH i [25i b i6-28J 335b; CH 8 [2()3 b 26-2(>4 tt 6] 350c-d / Metaphysics, UK ni, CH 5 [ioo2 b 5-8] 521b
+18 AUGUMINE: (Confessions, BK xi, par 17 93b-c; par 19-20 93d-94b
+19 AQUINAS: Sunima Theologica, PART i, Q S, A 2, REP 2 35c-36b; Q 10, A i, REP 5 40d-41d; Q 42, A 2, RF-P 4 225d 227a
+25 MONTAIGNE: Essays, 293d-294a
+35 LOCKL: Unman Understanding, BK II, en xiv, stcr 10 157a; cu xv, SECT Q 164b-d
+53 JAMF.S: Psychology, 398a-399a; 420a-b
+
+4. The measurement of time - sun, stars, and clocks
+
+0 OLD TESTAMENT: Genesis, 1:3-5,14-18 / Psalms, 104:19-20; 136:8-9 (D) Psalms, 103:19 20; 135^-9
+0 APOCRYPHA: Ecclesiastictts, 43:1-10 csp 43:6-8 (I)) OT, Ecclesiasticus, 43:1 -n esp 43:6-9
+5 AESCHYLUS: Prometheus Bound [454-461] 44c-d
+5 ARISTOPHANES: Clouds [606-626] 496a-b
+6 HERODOTUS: History, BK II, 49d-50a; 70c; 79c
+6 THUCYDIDES: Peloponnesian War, BK v, 487d
+7 PLATO -.Republic, ML vn, 394d-396b/ Timaetis, 450c-451d
+8 ARISTOTLE: Physics, BK iv, CH 12 [220^5-31] 300c-d; CH 14 [22 3 b i 2-224*1] 303c-d / Metaphysics, BK x, CH i [io52 b 34-io53*i2] 579b-c
+9 ARISTOTLE: Generation of Animals, BK iv, CH 10 [777 b i6-24] 319d-320a
+14 PLUTARCH: Numa Pompilius, 58d-59a / Solon, 74a / Caesar, 599d-600a
+16 PTOLEMY: Almagest, BK II, 34b-38a; BK m, 77a-86b; 104b-107a
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK i, 510b; BK II, 568a-576a; BK III, 646a-652b; 672a-674b
+17 PLOTINUS: Third Ennead, TR vn, CH 7-8 122d- 124c; CH 11-13 126a-129a
+18 AUGUSTINE: Confessions, BK xi, par 18-21 93c-94b; par 27-38 95b-98c / City of God, BK xi, CH 6 325c-d; BK xii, CH 15, 351d-352a
+19 AQUINAS: Summa Theologica, PART i, Q 10, A 6, ANS and REP 3-4 45c-46d; Q 67, A 4 352a- 354a; Q 70, A 2, ANS and REP 3,5 364b-365a
+20 AQUINAS: Summa Theologica, PART in SUPPL, Q 91, A 2, REP 3 1017c-1020c
+21 DANTE: Divine Comedy, HELL, i [37-45] Ib-c; PURGATORY, n [1-9] 54c; xv [1-15] 75b-c; xxv [1-9] 91b c; xxvn [1-6] 94c; PARADISE, x [28- 33! 120c; xxvii [106-120] 148b-c
+23 HOBBIES: Leviathan, PART iv, 267a-b
+24 RABKLAIS: Gargantua and Pantagniel, BK II, 69b,d-70a
+25 NfoNTAicjNt - Essays, 497b-c 28 G \LILEO: Two New Sciences, FIRST DAY, 148b- 149c; 167a-168a; THIRD DAY, 208b-c
+30 BACON: Novum Organum, BK IT, APH 46 177c- 179a
+32 MILTON: Song on May Morning 15b / Comus [iii-nH| 35b-36a / Paradise Lost, BK HI [555- 587] 147b-148a; [726-732] 151a; BK v [166- 170] 179a; BK VIII [66-69] 233b
+34 NEWTON: Principles, DEFINITIONS, SCIIOL, 8b; 9b-10a; 12a-b; BK III, PROP 20 291b-294b
+34 HUYGLNS: Light, en i, 554b-557b
+35 LOCKE: Human Understanding, BK 11, CH xiv, SECT 17-31 158a-162a passim; CH xv, SECT 5-10 163b-165a passim; cu xxvi, SECT 3 217d- 218a
+35 BERKELEY: Human Knowledge, SECT 98 432a
+36 SWIFT: Gulliver, PART iv, 169a
+36 STERNE: Tristram Shandy, 229a
+41 GIBBON: Decline and Fall, 376a-b
+46 HEGEL: Philosophy of History, PART i, 219a-b; 251a-b
+53 JAMES: Psychology, 400a; 407a-408a
+
+5. Temporal relationships - time as a means of ordering
+
+    [sem referências]
+
+5a. Simultaneity or coexistence - the simultaneity of cause and effect, action and passion, knowledge and object known
+
+7 PLATO: Theaetetus, 519d-520b; 533b-c
+8 ARISTOTLE: Categories, CH 7 [7 b i5-8 ft i2] 12b- 13a; cu 13 20b-d / Posterior Analytics, BK II, CH 12 [95*10-23] 129d-130a; CH 16 [98 H 35- b 24J 134b-c / Physics, BK iv, CH 10 [218*8-29] 297d- 298a / Metaphysics, BK v, CH 2 [1014*20-25] 534b-c; BK ix, CH 9 [1051*4-13] 577a; BK xn, CH 3 [1070*21-24] 599c
+19 AQUINAS: Summa Theologica, PART i, Q 12, A 10 59a-d; Q 46, A 2, REP i 253a-255a 5b to 6a CHAPTER 93: TIME 909
+34 NEWTON: Optics, BK r, 379a
+42 KANT: Pure Reason, 26b-d; 32a-b; 83b-84d / Practical Reason, 312a-c; 339a-b
+53 JAMES: Psychology, 862b-863b [fn 2]
+
+5b. Succession or priority and posteriority - the temporal order of cause and effect, potentiality and actuality
+
+8 ARISTOTLE: Categories, CH 7 (7 b i5-8i2] 12b- 13a; CH 12 19d-20b / Posterior Analytics, BK II, CH 12 129d-131b; CH 16 [98 b i6-2 4 J 134c / Physics, BK II, en 6 [198*5-13] 275a; BK iv, CH 14 [223*1-14] 302d-303a / Metaphysics, BK v,cii2 [ioi4 a 20-25]534b-c;cim [roi8 b i5-i9] 539c; BK VII, CH 3 [1029*5-6] 551c; BK ix, en 8 [1049^8-1050*3] 575b-d; [io5o b 2-6] 576b; CH 9 577a-c; BK XH, CH 3 [io7o2i-24] 599c; BK xin, CH 2 [io77 tt i4-i9] 608b-c; [1077*24- 30] 608c
+9 ARISTOTLE: Parts of Animals, BK II, CH i [64625- b io] 170b-c / Generation of Animals, BK II, en 6 [742 ll i6- b i7] 283b-d
+19 AQUINAS: Summa Theologica, PART i, Q 3, A i, ANS 14b-15b; Q 46, A 2, REP i 253a-255a; Q 85, A 3 455b-457a
+20 AQUINAS: Summa Theologica, PART i-n, Q 50, A 2, REP 3 7c-8a
+28 GALILEO: Two New Sciences, FIRST DAY, 135c- 136b
+28 HARVEY: On Animal Generation, 390c; 445c; 447a-b
+31 DESCARTES: Meditations, HI, 87c-d / Objections and Replies, 159c-d
+34 NEWTON: Optics, BK i, 379a
+35 HUME: Human Understanding, SECT vn 470d- 478a csp DIV 60 477a-c
+42 KANT: Pure Reason, 26b-d; 32a-b; 63b; 67d- 68b [fn i]; 76c-83b; 95a d; 214b,d [fn i] / Practical Reason, 31 1 d-314d ; 331c-333a ; 339a-b
+53 JAMES: Psychology, 399a
+
+5c. Succession and simultaneity in relation to the association of ideas
+
+31 SPINOZA: Ethics, PART II, PROP 18, SCHOL 382a-b
+35 LOCKE: Human Understanding, BK II, CH ix, SECT 9-10 139d-140b
+35 HUME: Human Understanding, SECT in, DIV 19, 457d
+53 JAMES: Psychology, 361b-364a csp 362b-363b; 367a-370b esp 367a, 369a-b; 559a-560a; 559b- 561b [fn 2]; 852b-853a; 860b-861a
+54 FRLUD: Hysteria, 74a-b / Interpretation of Dreams, 352 b-c
+
+5d. Comparison of temporal with non-temporal simultaneity and succession - the prior in thought, by nature, or in origin
+
+8 ARISTOTLE: Categories, CH 12-13 19d-20d / Interpretation, CH 13 [23*18-26] 35b-c / Posterior Analytics, BK i, CH 2 [7i b 33-72*5] 98b-c; CH 27 119b / Topics, BK iv, CH 2 [123*13-19] 171c; BK vi, CH 4 194c-196a / Metaphysics, BK III, CH 3 [999*6-14] 517d; BK v, CH n 539c-540a; BK ix, CH 8 575b-577a; BK xiu, CH 2 [1077*14^14] 608b-609a
+9 ARISTOTLE: Parts of Animals, BK II, CH r [646*2 5~ b io] 170b-c / Generation of Animals, BK II, CH 6 [742*i6- b i8] 283b-d / Politics, BK III, CH i [i275*35- b 2] 472b
+11 NICOMACHUS: Arithmetic, BK i, 813a-d
+18 AUGUSTINE: Confessions, BK xi, par 8 91 b-c; par 11-12 92a-b; par 14 92c-d; BK xn, par 20 103c-d; par 40 109b-110a / City of God, BK x, en 31 319b-d
+19 AQUINAS: Summa Theologica, PART i, Q 3, A i, ANS 14b-15b; A 6, ANS and REP 2 18c-19a; Q 16, A 4 97a-c; Q 45, A 3, REP 3 244 a- d; Q 46, A 2, REP i 253a-255a; Q 66, A 4, REP 4 348d- 349d; Q 85, A 3, REP i 455b-457a; Q 94, A 3, ANS 504a-505a
+20 AQUINAS: Summa Theologica, PART i-n, Q 50, A 2, REP 3 7c-8a; Q no, A 4, REP 4 350d-351d
+28 GALILEO: Two New Sciences, FIRST DAY, 135c- 136b
+28 HARVEY: On Animal Generation, 390c; 445c; 447a-b
+31 DESCARTES: Objections and Replies, 228a-b
+31 SPINOZA: Ethics, PART i, PROP i 355d
+46 HEGEL: Philosophy of Right, INTRO, par 32-33 20a-d
+
+6. The knowledge of time and the experience of duration
+
+    [sem referências]
+
+6a. The perception of time by the interior senses - the difference between the experience and memory of time intervals
+
+8 ARISTOTLE: Physics, BK iv, CH n [219*4-9] 298d; [219^3-31] 299c-d / Sense and the Sensible, CH 7 [448*2o- b i6] 687a-d / Memory and Reminiscence, cn 2 [452 b 7~453 tt 4] 694b-695a
+12 LUCRETIUS: Nature of Things, BK i [459-463] 6d
+17 PLOTINUS: Fourth Ennead, TR iv, CH 8 161d- 162d
+18 AUGUSTINE: Confessions, BK xi, par 12-40 92b-99a
+19 AQUINAS: Summa Theologica, PART i, Q 10, A 2, REP i 41d?42c; Q 79, A 6, ANS and REP 2 419b-420d
+31 SPINOZA: Ethics, PART iv, PROP 62, SCHOL 443c-d
+35 LOCKE: Human Understanding, BK II, CH vn, SECT 9 133a; CH xiv, SECT 1-16 155b-158a
+35 BERKELEY: Human Knowledge, SECT 97-98 431d-432a
+36 STERNE: Tristram Shandy, 292a-293a
+42 KANT: Pure Reason, 26b-29d; 74b-76c
+53 JAMES: Psychology, 130a-b; 131b; 396a-420b esp 396a, 399a-400b, 405b-407a, 409a-b, 411b'418a,420a-b
+54 FREUD: Beyond the Pleasure Principle, 648a-b / New Introductory Lectures, 837c; 838b 910 (6. The knowledge of time and the experience of duration.)
+
+6b. Factors influencing the estimate of time elapsed - empty and filled time; illusions of time perception; the variability of experienced durations
+
+6 HERODOTUS: History, BK II, 77a-b
+8 ARISTOTLE: Physics, BK iv, CH n [2i8 b 2i- 219*1] 298c-d
+18 AUGUSTINE: Confessions, BK xi, par 36, 98a
+21 DANTE: Divine Comedy, PURGATORY, iv [i- 18] 57c
+26 SHAKESPEARE: Richard H, ACT i, sc in [258- 261] 326b / As You L% //, ACT in, sc n [319-351] 612c-d
+35 LOCKE: Human Understanding, BK II, CH xiv, SECT 4 155d-l56a; SECT 7-12 156c-157c
+36 STERNE: Tristram Shandy, 292a-293a
+53 IAMES: Psychology, 264b-268a esp 268b-269b [fn 2); 400a-411a csp 408a-411a; 417a-420a esp 418a-420a
+54 FREUD: Interpretation of Dreams, 147d-148a; 164c; 335b-336d
+
+6c. Time as a transcendental form of intuition - the a priori foundations of arithmetic; the issue concerning innate and acquired time perception
+
+35 LOCKE: Human Understanding, BK II, en xiv, SECT 2-4 155b-156a; SECT 31 161d-162a
+42 KANT: Pure Reason, 26b-29d; 61a-62d; 68a- 69c csp 68c-69a; 94b-95d; lOOd-lOlb; 213d- 215a / Practical Reason, 307d-308b; 313a-d
+53 JAMES: Psychology, 420a-b; 852b-853a; 860b- 861a
+54 FREUD: Beyond the Pleasure Principle, 648a-b / New Introductory Lectures, 83 7c
+
+6d. The signifying of time - the distinction between noun and verb; the tenses of the verb
+
+7 PLATO: Timaeus, 450c-451a / Parmenides, 495a / Sophist, 575d-576b
+8 ARISTOTLE : Interpretation, CH 2 [16*19-20] 25b; CH 3 [i6 b 6-i9] 25d
+19 AQUINAS: Summa Theologica, PART i, Q 13, A n, ANS 73c-74b; Q 14, A 15, REP 3 89b- 90b
+25 MONTAIGNE: Essays, 293d- 294a
+
+6e. Knowledge of the past - the storehouse of memory; the evidences of the past in physical traces or remnants
+
+6 HERODOTUS: History, BK i, la-2b
+6 THUCYDIDES: Peloponnesian War, BK i, 349a- 355a passim
+7 PLATO: Laches, 36c / Critias, 479d / Thcaetetus, 538d-544a
+8 ARISTOTLE: Memory and Reminiscence 690a- 695d csp CH i [449^-29] 690a-c 6b to 6f
+9 ARISTOTLE: Rhetoric, BK ir, CH 19 [1392*14- 34] 640b-c
+12 LUCRETIUS: Nature of Things, BK i [449-482] 6c-7a
+15 TACITUS: Annals, BK II, 38d-39a
+17 PLOTINUS: Fourth Ennead, TR vi, CH 3 190b- 191c
+18 AUGUSTINE: Confessions, BK x, par 12-36 74b-80d esp par 23-25 77a-d
+19 AQUINAS: Summa Theologica, PART i, Q 78, A 4, ANS 411d-413d; Q 79, A 6, ANS and RLP 2 419b-420d
+20 AQUINAS: Summa Theologica, PART HI, Q 12, A i, REP 3 776c-777b
+23 HOBBES: leviathan, PART i, 53c; 54a; 65b-c
+25 MONTAIGNE: Essays, 41c-d; 439c-440a; 483b- 484b
+30 BACON: Advancement of Learning, 32d; 61d- 62c
+31 SPINOZA: Ethics, PART iv, DEF 6 424b; PART v, PROP 21 458a
+35 LOCKE: Human Understanding, BK II, CH xv, SECT 12 165b-c; BK iv, CH xi, SHOT n 357b-c
+36 SWIFT: Gulliver, PART II, 79a-80a
+38 ROUSSEAU: Social Contract, BK iv, 428a
+40 GIBBON: Decline and Fall, 88a-d; 96b,d; 413b-d
+41 GIBBON: Decline and Fall, 337c 42 K\Nr - Judgement, 579d-580a; 583d-584c
+44 BOSWELL: Johnson, 151c
+46 HEGEL: Philosophy of History, INTRO, 153a- 156d; 181b-182c; 190a-b; PART i, 237a-b; 239c-241a; 247b-c
+47 GOETHE: Faust, PART i [570-585] 16a
+49 DARWIN: Origin of Species, 13c-14a; 42a; 152a- 180d passim, esp 153a-156a, 160d-162a, 165d- 166a,c, 179b-180d; 217b-229a,c passim, esp 229c; 231d-233b; 238b-239a; 242c-243a / Descent of Man, 255a-265d esp 255a-b, 265a-d; 332b-335a esp 332b-c, 335a; 336c- 337a; 348d-349d
+50 MARX: Capital, 86c
+53 JAMES: Psychology, 145a; 396a-397a; 421a- 427a esp 424b-425b
+54 FREUD: Origin and Development of PsychoAnalysis, 4a-b / General Introduction, 526c- 52 7c; 599a-b / War and Death, 760a-b / Civilization and Its Discontents, 769a-770c
+
+6f. Knowledge of the future - the truth of propositions about future contingents; the probability of predictions
+
+5 SOPHOCLES: Oedipus the King [463-5 12] 103c-d
+5 EURIPIDES: Medea [1415-1419] 224c / Alcestis [1159-1163] 247c / Helen [1688-1692] 314c / Andromache [1284-1288] 326c / Bacchantes [1388-1392] 352a,c
+6 THUCYDIDES : Peloponnesian War, BK i, 354c
+7 PLATO: Laches, 36c / Theaetetus, 531a-532a
+8 ARISTOTLE: Interpretation, CH 9 28a-29d CHAPTER 93: TIME
+9 ARISTOTLE: Rhetoric, BK II, CH 19 [1393*1-8] 640c
+10 HIPPOCRATES: Prognostics, par i 19a-b / Epidemics^ BK III, SECT in, par 16 59b-c
+16 COPERNICUS: Revolutions of the Heavenly Spheres, 505a-506a
+18 AUGUSTINE: Confessions, BK xi, par 23-25 94c-95a / Christian Doctrine, BK 11, CH 30 651c-d
+19 AQUINAS: Summa Theologica, PART i, Q 14, A 13 86d-88c; Q 57, A 3 297b-298a; Q 86, A 4 463d-464d; Q 89, A 3, REP 3 475d-476c; A 7, REP 3 478d-479c
+20 AQUINAS: Summa Theologica, PART HI, Q 12, A i, REP 3 776c-777b
+21 DANTE: Divine Comedy, PARADISE, XVH [13- 45] 132b-c
+23 HOBBES: leviathan, PART i, 53c-d; 65b-c
+31 SPINOZA: Ethics, PART II, PROP 30-31 385a-c; PART iv, DBF 6 424b; PROP 62, SCHOL 443c-d; PROP 66, DEMONST 444c
+34 NEWTON: Principles, la-2a; BK III, RULE iv 271b; GENERAL SCHOL, 371b-372a 34HuYGENs - Light, PREF, 551b-552a
+35 LOCKE: Human Understanding, BK II, CH xv, stcT 12 165b-c
+35 BERKELEY: Human Knowledge, SECT 44 420d- 421a; SECT 105 433b-c
+35 HUME: Human Understanding, SECT iv-vn 458a-478a passim, esp SECT iv, DIV 21 458b-c, SECT vi 469d-470d
+44 BOSWELL: Johnson, 277c
+45 FOURIER: Theory of Heat, 177a-b; 184a
+47 GOETHE: Faust, PART II [8591-8603] 209b
+48 MELVILLE: Moby Dicl(, 366b
+49 DARWIN: Origin of Species, 59d-60a; 243b-c
+51 TOLSTOY: War and Peace, BK xm, 584d-585b; EPILOGUE n, 685a
+53 JAMES: Psychology, 852b; 883a-884b
+54 FREUD: Interpretation of Dreams, 387a,c
+
+7. The temporal course of the passions - emotional attitudes toward time and mutability
+
+5 SOPHOCLES: Oedipus at Colonus [607-623] 120a; [1211-1248] 125bc
+5 EURIPIDES: Trojan Women [643-683] 275c-d
+6 HERODOTUS: History, BK i, 7b-8a; BK VII, 224d-225a
+7 PLATO: Symposium, 154d-155a; 165b-166a / Republic, BK i, 295d-296c / Theaetetus, 528c- 529a / Laws, BK VII, 717d-718d
+8 ARISTOTLE: Topics, BK III, CH 2 [117*26-34] 164a
+9 ARISTOTLE: Parts of Animals, BK III, CH 6 [669*18-20] 197c / Ethics, BK i, CH 3 [i094 b 28- 1095*12] 340a-b;cH9(i099 b 32-noo*9] 345b-c; BK iv, CH 9 [ii28 b i5-2i] 376a; BK vi, CH 8 [1142*12-19] 391b; CH ii [ii43 b 6-i4] 393a; BK VII, CH 3 [1147*18-24] 397b-c; CH 14 [u54 b 8-15] 406a; [ii54 b 20-3o] 406c; BK VIH, CH 3 2- b 5] 407d-408a; CH 6 [ / Rhetoric, BK 11, CH 3 [i38o b 5-7] 626a; CH 12-14 636a-638a
+10 HIPPOCRATES: Fractures, par i 74b,d-75a
+12 LUCRETIUS: Nature of Things, BK II [1105- 1174] 29a-30a,c; BK III [912-977] 41d-42c; [1053-1094] 43c-44a,c; BK iv [1058-1072] 57d- 58a; BK v [170-173] 63b
+12 AURELIUS: Meditations, BK II, SECT 3 257a-b; SECT 12 258b-c;sECTi4258d; SECT 17 259b-d; BK III, SECT 14 262c; BK iv, SECT 3 263b-264a; SECT 5 264b; SECT 32-33 266b d; SECT 35-36 266d; SECT 42-43 267b; BK v, SECT 10 270c-d; BK vi, SECT 15 275a-b; BK VII, SECT 18 281a; SECT 35 282a; BK VIII, SECT 6 285d-286a; BK ix, SECT 19 293b; SECT 21 293b-c; BK x, SECT 7 297b-c; SECT 27 299d; BK xi, SECT 27 306b
+13 VIRGIL: Aeneid, BK i [441-462] 115a-b esp [462] 115b
+14 PLUTARCH: Aemilius Paulus, 225b-c; 229a-c
+17 PLOTINUS: First Ennead, TR iv, CH 4, 14c
+18 AUGUSTINE: Confessions, BK iv, par 10 21c-d; par 13 22c-d; BK VIIi, par 18 57d-58a; par 25-26 60a-b; BK ix, par 32-34 70a-d
+19 AQUINAS: Summa Theologica, PART i-n, Q 40, A 6 796c-797a
+21 DANTE: Divine Comedy, HELL, vn [61-96] lOb-c; xiv [94-120] 20c-d; xv [22-99] 21b-22a; xxvi [90-142] 39a-c; PURGATORY, xi [73-117] 69c-70a; xiv [91-126] 74c-75a; xxvin [134- 144] 97c; PARADISE, xv-xvi 128b432a; xxvn [121-148] 148c-d
+22 CHAUCER: Troilus and Cressida, BK III, STANZA 122-124 70b / Wife of Bath's Prologue [5583- 6410] 256a-269b
+23 HOBBES: Leviathan, PART i, 63d; 79c-d; PART II, 150c; 154b-c; PART iv, 271d
+25 MONTAIGNE: Essays, 6d-7a; 33b-36a; 292d- 294b; 394a-395b; 403d-404b; 458b-c; 478c- 479c; 540d-541c
+26 SHAKESPEARE: Richard //, ACT i, sc in [258- 261] 326b; ACT v, sc v [41-66] 350a-b / 1st Henry IV, ACT v, sc iv [77-86] 465a-b / 2nd Henry IV, ACT in, sc i [45-56] 483b / Henry V, ACT i, sc i [22-69] 533b-c / As You Lit^e It, ACT in, sc n [319-351] 612c-d
+27 SHAKESPEARE: Hamlet, ACT i, sc n [68-73] 32b; ACT in, sc n [196-223] 51a-b; ACT iv, sc vn [111-124] 63c-d; ACT v, sc i [202-240] 66c-d / Troilus and Cressida, ACT in, sc HI [145-174] 124a-b; ACT iv, sc iv [26-50] 128c; sc v [221-226] 132c / Othello, ACT n, sc in [376-387] 220d / Macbeth, ACT v, sc v [15-28] 308d-309a / Winter's Tale, ACT iv, sc i 505c-d / Tempest, ACT iv, sc i [148-158] 543b / Sonnets, i-xix 586a-589a; xxv 590a; XLIX 593d; LV 594c-d; LIX-LX 595b-c; LXIII-LXV 595d-596b; cxv-cxvi 603d-604a; cxxni 605a
+30 BACON : Advancement of Learning, 15c-d 912 (7. The temporal course of the passions - emotional attitudes toward time and mutability.)
+31 SPINOZA: Ethics, PART iv, PROP 9-13 426d- 428a; PROP 16-17 428b-d; PROP 62, SCHOL 443c-d; PROP 66 444c-d; PART v, PROP 7 454b-c
+32 MILTON: On Time 12a-b / Sonnets, vn 63b / Paradise Lost, BK xi [527-543] 310b 311a
+33 PASCAL: Pensees, 122-123 195a; 129-131 195b; 135 196a; 139-143 196b-200a; 164-172 202b- 203b; 181 204b; 205-208 211a-b; 210 211b
+35 LOCKE: Human Understanding, BK II, CH xxxni, SECT 13 250a-b 3<5 STERNE: Tristram Shandy, 536a
+37 FIELDING: Tom Jones, 35a-c; 401a-b
+38 ROUSSSEAU: Inequality, 335c
+40 GIBBON: Decline and Vail, 339c
+43 MILL: Utilitarianism, 449c-450a
+44 BOSWELL: Johnson, 102a-b; 254b-c; 350d- 351b
+46 HEGEL: Philosophy of History, INTRO, 178a-c; FART i, 258b
+47 GOETHE: Faust, DEDICATION la-b; PART II [4613-4678] 115a-116b; [11,573-586] 281b- 282a
+49 DARWIN: Descent of Man, 302b
+51 TOLSTOY: War and Peace, BK v, 221 b-d; BK vi, 262c; 267c; BK VIII, 305b-d; BK ix, 356b-d; BK x, 394d; BK xn, 559d; BK xv, 639c
+53 JAMES: Psychology, 324a; 433a; 711b; 759a- 760b
+54 FREUD: Origin and Development of PsychoAnalysis, 16b-c; 17b-18a / Interpretation of Dreams, 379c-380a / General Introduction, 579b-581b / Ego and Id, 704d-706d / Inhibitions, Symptoms, and Anxiety, 740 b-c; 743a- 744a / War and Death, 758a-d; 760a-b / Civilization and Its Discontents, 768b-770c / New Introductory Lectures, 837c
+
+8. Historical time
+
+    [sem referências]
+
+8a. Prehistoric and historic time - the antiquity of man
+
+5 ARISTOPHANES: Birds [466-492] 548a-c
+6 HERODOTUS: History, BK II, 49a-52a; BK iv, 124d-132b; BK v, 161b
+6 THUCYDIDES: Peloponnesian War, BK i, 349a- 354b
+7 PLATO: Critias, 480a-d
+12 LUCRETIUS: Nature of Things, BK v [783- 1160] 71b-76b
+40 GIBBON: Decline and Fall, 88a-d; 413b-d
+46 HEGEL: Philosophy of History, INTRO, 164b-c; 179d-182c; 188c; PART i, 209b; 235d-236a; PART ii, 260b-262c
+48 MELVILLE: Moby Dic{, 171b
+49 DARWIN: Origin of Species, 13c; 153a-155b / Descent of Man, 336a-337a; 343a<c; 349a-d; 589a
+54 FREUD: New Introductory Lectures, 881a
+
+8b. The epochs of history - myths of a golden age; the relativity of modernity
+
+7 PLATO: Cratylus, 92b-d / Timaeus, 444a- 446d / Critias 478a-485d passim / Statesman, 586c-589c / Laws, BK iv, 681 b-d
+8 ARISTOTLE: Sophistical Refutations, CH 34 [i83 b i6-i84 b 8] 253a-d / Heavens, BK i, CH 3 [27o b i2-26] 361d-362a; CH 9 [279*23-33] 370c; BK II, CH i 375b,d-376a; BK iv, CH 2 [3o8 b 29-32] 400b / Meteorology, BK II, CH i [354* 2 7-3 2 l 460b / Metaphysics, BK i, CH 9 [992*29-34] 510c; BK xn, CH i [1069*25-29] 598b
+9 ARISTOTLE: Parts of Animals, BK i, CH i [64o b 5-7] 163a
+10 HIPPOCRATES: Ancient Medicine, par 12 4b-c / Regimen in Acute Diseases, par i, 26b-c
+10 GALEN: Natural Faculties, BK II, CH 8, 193c; CH 9, 196b; BK III, CH 10 207b-d
+11 NICOMACHUS: Arithmetic, BK i, 811a
+12 LUCRETIUS: Nature of Things, BK v [324-337] 65b-c
+13 VIRGIL: Eclogues, iv 14a-15b / Georgics, i [118-146] 40a-41a / Aeneid, BK i [254-296] HOa-llla; BK VIII [306-336] 267a-268a
+15 TACITUS: Annals, BK III, 5lb; 58c-d; BK iv, 72a-b; BK xi, 106b-d; BK xiv, 146b-147a; 151 d / Histories, BK II, 232d-233a; BK III, 255b-c
+16 PTOLEMY: Almagest, BK i, 7a
+16 KEPLER: Epitome, BK iv, 909a
+18 AUGUSTINE: Confessions, BK xm, par 49-51 124a-d / City of God, BK x, CH 14 307c-308a; CH 25 313c-314c; BK xv-xvin 397b,d-507a,c esp BK xv, CH 1-3 397b,d-399c, CH 21 415b- 416a, BK xvi, CH 26 438c-439a, CH 37 444b- 445a, BK xvii, CH 1-4 449a-455c, BK xvm, CH n 477c-d; BK xxn, en 30, 618c d
+19 AQUINAS: Summa Thcologica, PART i, Q 14, A 15, REP 3 89b-90b; Q 75, A i, ANS 378b- 379c
+20 AQUINAS: Summa Theologica, PART i-n, Q 97, A i, ANS 236a-d
+21 DANTE: Divine Comedy, HELL, xiv [94-120] 20c-d; PURGATORY, xxn [130-154] 87d-88a; xxvi [91-114] 93d-94a; xxvm [136-148] 97c; PARADISL, xvi [16-39] 130a-c
+22 CHAUCER: Troilus and Cressida, BK II, STANZA 4 22a 23HoBBEs - Leviathan, PART iv, 267c-d; CON- CLUSION, 282d
+24 RABELAIS: Gargantua and Pantagruel, BK II, 81d-82b; BK III, 143b-d
+25 MONTAIGNE: Essays, 215b
+29 CERVANTES: Don Quixote, PART i, 27b-28a; PART II, 208a-c
+30 BACON: Novum Organum, BK i, APH 78 119b-c
+32 MILTON: Paradise Lost, BK xi [334]-BK xn [605] 306b-332a
+33 PASCAL: Penstcs, 655 292b; 699 302b / Vacuum, 357b 358a
+35 HUME: Human Understanding, SECT xi, DIV 182c; 186c-d; 188c; PART i, 209b-c; 231b- 107 499c-500b 232a; 241b-d; PART II, 259c-d; 274a-275a;
+36 SWIFT: Gulliver, PART in, 118a-119a 278a-b; 282d-284a,c; PART in, 286c-287a;
+40 GIBBON: Decline and Fall, 79b-c; 900a,c PART iv, 315b-317d; 348a-b [n 163-164] 50 MARX: Capital, 86d [fn 4]
+46 HEGEL: Philosophy of History, INTRO, 180c- 51 TOLSTOY: War and Peace, BK vi, 265b <ref_end>
+
+
+ADDITIONAL READINGS
+
+Listed below are works not included in Great Books of the Western World,
+
+idea and topics with which this chapter deals. These works are divided i
+
+I. Works by authors represented in this collection.
+
+II. Works by authors not represented in this collecti
+
+For the date, place, and other facts concerning the publication of the w
+
+the Bibliography of Additional Readings which follows the last chapter o
+
+KANT. De Mundi Scnsibi
+
+*
+
+Metaphysical Foun
+
+.
+
+AUGUSTINE. On Music DIV i AQUINAS. De Aeternitate Mundi HOBBES. Concerning Body,
+PART n, CH 7 SPINOZA. Cogita Mctaphysica, PART i, CH 4; PART n, SEXTUS
+EMPIRICUS. Agai
+
+en i Outlines of Pyrrh
+
+.
+
+HUME. A Treatise of Human Nature, BK T, PART n PROCLUS. The Elements
+
+913 8c; PART i, 209b-c; 231b- RT n, 259c-d; 274a-275a; a,c; PART in, 286c-287a;
+7d; 348a-b 6d [fn 4] Peace, BK vi, 265b NGE 53; MECHANICS ONOMY y; the problem
+of the ATION 5a; and CHANGE 13; ETERect, potentiality and EDUCATION 5d;
+IMAGINATION i ; of intuition and to EMATICS 1c; etween noun and PHECY ATH 6b-6c;
+RESS 5. ORY 3.1; KNOWLforeknowledge and ON yc; HISTORY but relevant to the nto
+two groups: on. orks cited, consult f The Great Ideas. lis (Inaugural
+Dissertation) dations of Natural Science nst the Physicists, BK n, CH 3 onism,
+BK in, CH 1-20 of Thcologty, (F)
+
+914 MAIMONIDES. The Guide for the Perplexed, PART 11,
+
+CH 13 CRESCAS. Or Adonai, PROPOSITION 15
+
+SUAREZ. Disputationes Metaphysicae, xv (3), xxxix,
+
+XL (9), L JOHN OF SAINT THOMAS. Cursus Philosophtcus
+
+Thomisticus, Philosophia Naturalis, PART i, Q
+
+18 standing BK n, CH 14-15
+
+LEIBNITZ. New Essays Concerning Human UnderWHEWELL. The Philosophy of the
+Inductive Sciences, VOL i, BK n, CH 7-10
+
+} IODGSON. Time and Space LOTZE. Metaphysics, BK n, CH 3 FRAZER. The Golden
+Bough, PART iv, BK HI, CH 2 BRADLEY. Appearance and Reality, BK i, CH 4; BK n,
+CH 18
+
+BOSANQUET. Science and Philosophy, 7
+
+ROYCE. The World and the Individual, SERIES n (3)
+
+POINCARR. The Value of Science, PART i, CH 2 MEYERSON. Identity and Reality, en
+6 CASSIRER. Substance and Function, SUP v ROBB. A Theory of Time and Space WEYL.
+Space Time Matter S. ALEXANDER. Space, Time, and Deity
+
+PROUST. Remembrance of Things Past
+
+AS WHITEHEAD. An Enquiry Concerning the Principles of
+
+Natural Knowledge, CH 6
+
+The Concept of Nature, CH 3
+
+. EINSTLIN. Relativity: The Special and the General
+
+Theory
+
+.
+
+Sidelights on Relativity MARITAIN. Theonas, Conversations of a Sage, vi
+MCTAGGART. The Nature of Existence, en 33 BERGSON. Time and Free Will
+
+. Creative Evolution
+
+. Duree et simultaneite, il propos de la thtorie
+
+d* Einste in, CH 1-5 MANN. The Magic Mounta in DEWEY. Experience and Nature, CH
+1-3, 7, 9 G. N. LEWIS. The Anatomy of Science, ESSAY in HEIDEGGER. Sein und Zeit
+EDDINGTON. Space, Time, and Gravitation
+
+The Nature of the Physical World, CH 3
+
+. MEAD. Philosophy of the Present SANTAYANA. The Realm of Matter, CH 4 BORING.
+The Physical Dimensions of Consciousness,
+
+CH 5 WFISS, Reality, BK ii, CH 6 B. RUSSELL. The Analysis of Matter, CH 28-29, 3
+2
+
+36
+
+. Human Knowledge, Its
+
+Scope and Limits,
+
+PART III, CH 5; PART IV, CH 5, 7

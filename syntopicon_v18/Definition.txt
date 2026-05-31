@@ -311,3 +311,299 @@ I SECT 44 PART III, CH I
 Mathematical Philosophy, CH cerning the Principles of -13 re, CH 4 T i, CH 7-8
 eaning of Meaning Knowledge, CH 3 x of Language, PART i, PART III, SECT 2p 1
 eory of Inquiry, CH 13-14, g and the Known,
+
+REFERENCES
+============================================================
+
+1. The theory of definition
+
+7 PLATO: Meno, 174a-177d / Theaetetus, 544d- 809c-810d
+8 ARISTOTLE: Posterior Analytics, BK II, CH 3-10 cerned with essence 123c-128d; CH 13 131b-133c / Topics, BK vi7 PLATO: Cratylus, 104d-105b; 113a-114a,c / vn 192a-211a,c / Metaphysics, BK vii, CH 4-6 Gorgias, 252d-253b / Republic, BK vi, 384a- 552b-555a; CH 10-17 558a-566a,c; BK VIIi, 387d; BK ix, 426d-427b / Timaeus, 457b- CH 2-3 566d-568d; CH 6 569d-570d 458b / TheaeUtus, 514b-515c; 547c-549c /
+9 ARISTOTLE: Parts of Animals, BK i, CH 2-4 Sophist, 551a-d / Philcbus, 610d-613a / Laws, 165d-168c BK x, 763c-d / Seventh Letter, 809a-810b
+12 AURELIUS: Meditations, BKIII, SECTII 262a-b 8 ARISTOTLE: Categories, CH 5 [2*i9~3 b 24] 6b-
+18 AUGUSTINE: Christian Doctrine, BK II, CH 35 8a / Posterior Analytics, BK I, CH22 113b-115b; 653b-c CH 33 [88 b 3o-89i] 121b-c; BK II, CH 3-10 123c-
+23 HOBBES: Leviathan, PART i, 56b-d 128d; CH 13 131b-133c / Topics, BK F,'CH
+30 BACON : NoVum Organum, BK II 137a-195d esp [10^17-23] 144b-c; CH 5 [ioi b 37-ro2*5] APH 17 149b-d, APH 22-51 153b-194c 144d; CH 8 [io3 b i-n] 146d; CH 18 [io8*38->9]
+31 DESCARTES: Rules, xn, 23c-24a 152d;[io8 b io-32)153a,c;BKVj, CHI [139*24-34]
+31 SPINOZA: Ethics, PART i, PROP 8, SCHOL 2 192a; BK vi, CH 4-BK VII, CH 5 194c-211a,c 356d-357d; PART II, PROP 40, SCHOL i 387b- passim / Physics, BK II, CH i [n)3*3o- b i9] 388a 269c-270a / Generation and Corruption, ftk i,
+33 PASCAL: Geometrical Demonstration, 430b- CH 2 [317*17-27] 413b / Meteorology, BK iv, 434b; 442a-443b CH 12 493d-494d / Metaphysics, BK i, CH
+35 LOCKE: Human Understanding, BK III, CH [986 b 8-987*i] 504c-505a; (087*19-27] 50Sb; in-vi 254d-283a passim > CH 6 [987 b i-io] 505c; [987*30-3$] 506a; BK
+35 HUME: Human Understanding, SECT vn, DIV n, CH 2 t994 b i6-27] 513a-b; BK III, CH 2 [996** 48-49 476d-471d 12-21] 515a-b; BK iv, CH 4 525a-528b; K vi, lafo ic (1. The theory of definition. la. The object of definition; definitions as arbitrary and nominal or real and concerned ivitk essence.) CH i [io25 b 28-io26*6] 547d-548a; BK VII, CH i [1028*31-37] 550d; CH 4-6 552b-555a; CH 10-17 558a-566a,c; BK VIII, CH 2-3 566d- 568d; CH 6 569d-570d; BK x, CH i [i052 b i- 15] 578d-579a; BK xr, CH 5 590a-d; BK xin, CH 4 [io78 b i8-32] 610b-c / Soul, BK i, CH i 631a-632d; BK III, CH 6 [43o b 26~3i] 663b-c
+42 KANT: Pure Reason, 44c-45b; 215d-217a
+44 BOSWELL; Johnson, 82a-c
+53 JAMES: Psychology, 314a-b; 668a-673b 549d / Sophist 551a-579d / Statesman 580a- , 608d / Laws, BK x, 763c-d / Seventh Letter,
+
+1a. The object of definition - definitions as arbitrary and nominal or real and concerned with essence
+
+9 ARISTOTLE: Parts of Animals, BK i, CH i [641*14-31] 163d-164a; CH 2-4 165d-168c
+19 AQUINAS: Summa Theologica, PART i, Q i, A 7, REP i 7a-c; Q 2, A i, REP 2 10d-lld; A 2, REP 2 lld-12c; Q 3, A 3, ANS 16a-d; A 5, ANS 17c-18b; Q 17, A 3 102d-103c; Q 29, A i, REP 1,3-4 162a-163b; A 2, REP 3 163b-164b; Q 44, A i, REP i 238b-239a; A 3, REP 3 240b- 241a; Q 58, A 5 303c-304c; Q 75, A 4, ANS 381b-382a; Q 85, A 6 458d-459c; Q n6, A i, CONTRARY 592d-593d
+20 AQUINAS: Summa Theologica, PART II-H, Q 4, A i, ANS 402a-403d; PART in, Q 2, A 2, ANS 711d-712d; Q 60, A 4, REP i 849c-850b
+23 HOBBRS: Leviathan, PART i, 55b-c; 56b; 59c-d; PART iv, 270a-c
+25 MONTAIGNE: Essays, 518d-519a
+28 GALILEO: Two New Sciences, FIRST DAY, 142d- 143a
+30 BACON: Novum Qrganum, BK 11, APH 4 137d- 138b
+31 DESCARTES: Rules, xin, 26b-c / Objections and Replies, POSTULATE iv 131a-b
+31 SPINOZA: Ethics, PART i, PROP 8, SCHOL356d-357d; PART II, PROP 40, SCHOL i 387b- 388a; PART HI, PROP 4 398d
+33 PASCAL: Vacuum, 372b-373b; 376b-377a / Geometrical Demonstration, 430b-431b
+35 LOCKE: Human Understanding, BK II, CH xxxi, SECT 6-13 240d-243b, CH xxxn, SECT 18 246c-247a; SECT 24 247c-d; BK III, CH in, SECT 11-20 257a-260a esp SECT 18-259b-260a; CH v, SECT 14 267b-c; CH vi 268b-283a; CH x, SECT 17-21 295d-297b; CH xi, SECT 15-24 303b-305d; BK iv, CH iv, SECT 11-17 326b-328d passim; c*f vi, SECT 4-16 331d-336d passim; CH xn, SECT 9 360d-
+35 BERKELEY: Human Knowledge, INTRO, SECT 18 410a-c
+42 KANT: Pure Reason, 179d-182b; 215d-216c / Science of Right, 404d; 423d-424b ,
+45 LAVOISIER: Elements of Chemistry, PART i, lOa-b
+46 HEGBL: Philosophy of History \ INTRO, 176c; 184d-185a
+49 DARWIN: Origin of Species, 27b-29a csp 29a
+51 TOLSTOY: War and Peace, EPILOGUE n,
+53 JAMES: Psychology, 106a; 185a-b; 668a-671a;
+
+1b. The purpose of definition - the clarification of ideas
+
+7 PLATO: Phaedrus, 120a-b / Meno, 174a-179b / Euthyphro, 193c / Seventh Letter, 809c-810b
+8 ARISTOTLE: Posterior Analytics, BK 11, CH[98*1-2] 133c-d / Topics, BK i, CH 18 [io8 a 17-37] 152b-d; BK vi, CH i [i39 b n-i5] 192b-c; CH 4 [141*26-32] 194c; BK VIII, CH[158*31-159*2] 214d-215c / Metaphysics, BK iv, CH 4 525a-528b; BK xi, CH 5 590a-d / Soul, BK i, CH i [402 b 1 5-403*2] 631d-632a
+9 ARISTOTLE: Parts of Animals, BK II, CH[648 b i~5] 172d / Rhetoric, BK II, CH 23 [1398* 15-27] 646c
+12 AURELIUS. Meditations, BK HI, SECT n 262a-b
+19 AQUINAS: Summa Theologtca, PART i, Q 85, A 3, REP 3 455b-457a
+23 HOBBES: Leviathan, PART i, 56b; 58d-59a; PART iv, 269b-c
+28 GALILEO: Two New Sciences, FIRST DAY, 142d-143a
+30 BACON: Advancement of Learning, 60b-c; 61b-c / Novum Organum, BK i, APH112b-c
+31 DESCARTES. Rules, xn, 23c-24a; xin, 26b-c
+33 PASCAL: Geometrical Demonstration, 430b- 434 b passim
+34 NEWTON* Principles, DEFINITIONS, SCHOL, 8b
+35 LOCKE: Human Understanding, BK HI, CH iv, SECT 6-14 260d-263a
+35 HUME- Human Understanding, SECT vin, Div62478b-c; Div74484a-c
+42 KANT: Pure Reason, 113b-c / Practical Reason, 293c-294b
+44 BOSWELL: Johnson, 377d
+45 LAVOISILR: Elements of Chemistry, PREF, 4a- SC;PARTI, lOa-b; 21a-22c
+45 FARADAY. Researches in Electricity, 361a-b
+46 HEGEL. Philosophy of Right, INTRO, par9b-10a
+49 DARWIN: Origin of Species, 207d-208a
+51 TOLSTOY. War and Peace, EPILOGUE n, 694b-d
+53 JAMES: Psychology, 314a-b; 669a-671a; 871a-b
+
+1c. The limits of definition - the definable and the indefinable
+
+7 PLATO: Republic, BK vi, 384a-388a / Theaetetus, 544c-547c / Seventh^ Letter, 809c-810b SARisTOTiE- Metaphysics, BK i, CH 24-993*1] 511a-b; BK 11, CH513a-b; BK v, CH 3 [ioi4 b 3-i3) 534d; BK VII, CH 4-5 552b-554a; CH 10-11 558a-561a; CH 13 [1039*15-23] 563a; CH 15 563c-564c; BK VIII, CH 3 [io43 b 23~33] 568b; BK x, CH 8-585b-586c
+17 PLOTINUS: Fifth Ennead, TR v, CH 6 231b d
+19 AQUINAS: Summa Theologica, PART i, Q i, A 7, REP i 7a-c; Q 2, A i, REP 2 10d-lld; A 2, REP 2 lld-12c; Q 3, A 3, ANS 16a-d; A 5, ANS 17c-18b; Q 29, A i, REP i 162a-163b; A 2, REP 3 163b-164b; Q 44, A 3, REP 3 240b- 241a; Q 85, A i, REP 2 451c-453c b \dtolb CHAPTER 15: DEFINITION 2*
+30 BACON: Novum Organum, BK i, APH 59 112b*c
+31 DESCARTES: Rules, xn, 23c-24a
+31 SPINOZA: Ethics, PART i, AXIOM 2 355d
+33 PASCAL: Geometrical Demonstration, 431b- 434b; 442a-443b
+35 LOCKE: Human Understanding, BK II, CH 11, SECT i 127d-128a; CH iv, SECT 6 131a; CH xx, SECT i 176b-c; BK III, CH iv, SECT 4-260b-263c; CH vi 268b-283a passim, csp SECT 7-10 270b-271b; CH xi, SECT 13-302d-306c
+35 HUME: Human Understanding, SECT vn, DIV 49 471c-d
+42 KANT- Pure Reason, 29d-33d; 53b-54b; 179d-182b; 215d-216c /Judgement, 603a-604b
+43 FEDERALIST: NUMBER 37, 119b-120b
+44 Bosw ELL: Johnson, 82b
+49 DARWIN: Origin of Species, 242a/ Descent of Man, 346d-347b
+51 TOLSTOY: War and Peace, EPILOGUE n, 694b-d
+53 JAMES: Psychology, 314a
+
+1d. The unity of a definition in relation to the unity of the thing defined
+
+7 PLATO: Laches, 32a-33a / Cratylus 85a-114a,c esp 85a-89a, 104b-114a,c / Meno, 174a-179b / Theaetetus, 514b-515d / Sophist, 559a-c
+8 ARISTOTLE: Posterior Analytics, BK II, CH[92*28-33] 126b; CH 10 [93 b 28-94*7] 128b-c; CH 13 [97 b 6-25] 133a-b / Topics, BK vi, CH 4 [i4i a 26- b 2] 194c-d; CH 5 [142^0-143*12] 196b-c; CH 13-14 204c-206d; BK VII, CH[153*6-22] 208a-b; [154*3-11] 209b / Physics, BK i, CH 3 [i86 b i4~3o] 261c-d / Metaphysics, BK i, CH 5 [986 b 8-987 a i] 504c-505a, BK v, CH 6 [ioi6 a 33- b n] 536d-537a; BK VII, CH 4-552b-555a; CH 10-17 558a-566a,c; BK VIII, CH 2-3 566d-568d; CH 6 569d-570d, BK x, CH r [1052*28-37] 578d / Soul, BK II, CH[4i4 b 20-4i5*i4] 644d-645b
+30 BACON Novum Organum, BK II, APH 35 162a- 164a
+35 LOCKE: Human Understanding, BK II, CH xxn, SECT 4 201c-d; CH xxni, SECT 1-204a-c; BK III, CH v, SECT 4 264b; CH vi, SECT 21 273c-d; SECT 28-30 276a-277b
+35 BERKELEY. Human Knowledge, SECT i 413a-b
+53 JAMES: Psychology, 503a-b
+
+1e. The truth and falsity of definitions
+
+7 PLATO- C/Ytfy/wj85a-114a,cesp 85a-89a, 104b- 114a,c / Seventh Letter, 809c-810b ' 8 ARISTOTLE: Topics, BK vi-vn 192a-211a,c passim, csp BK vi, CH 4-14 194c-206d / Metaphysics, BK v, CH 29 [i024 b 27~38] 546d-547a; BK vi, CH 4 [iO27 b i7-28] 550a,c; BK ix, CH 10 [105 i b i 8-33] 577d-578a / Soul, BK III, CH 6 [43o b 26-3o] 663b-c
+19 AQUINAS: Sumrna Theologica, PART i, Q 2, A r, REP 2 lOd-lld; Q 17, A 3 102d-103c; Q 58, A 5 303c-304c; Q 85, A 6 458d-459c
+23 HOB RES: Leviathan, PART i, 56b-d
+28 GALILEO: Two New Sciences, THIRD DAY, 200a-b
+30 BACON* Novum Organum, BK i, APH 59 112b- c; BK II, APH 35 162a-164a
+31 DESCARTES: Rules, xm, 26bc
+31 SPINOZA* Ethics, PART i, PROP 8, SCHOL 2, 357b-d; PART II, PROP 40, SCHOL 1-2 387b- 388b
+33 PASCAL Geometrical Demonstration, 430b- 431b
+35 LOCKE* Human Understanding, BK II, CH xxxn 243c-248b passim
+42 KANT* Pure Reason, 179d-182b
+43 MILL Utilitarianism, 469a-b
+44 BOSWFLL: Johnson, 82a-c
+46 HEGEL: Philosophy of Right, IN IRQ, par 2 9b- 10a
+53 JAMES: Psychology, 669a-671a
+
+2. The various methods of definition or classification
+
+    [sem referências]
+
+2a. The use of division or dichotomy in definition
+
+7 PLATO: Phaedrus, 134a-c / Sophist, 552b-561d; 577c-579d / Statesman 580a-608d / Philcbus, 610d-613a
+8 ARISTOTLE. Prior Analytics, BK i, CH64b-65a / Posterior Analytics, BK II, CH 5 125b- d; CH 13 [96 b 25~97 b 6] 132a-133a / Topics, BK vi, CH 6 [i43 b i 1-144*4] 197b-c / Metaphysics, BK VII, CH 12 [io37 b 28-io38 B 35] 561c-562a
+9 ARISTOTLE* Parts of Animals, BK i, CH 2-165d-168c
+17 PLOIINUS First Ennead, TR in, CH 4 lla-c / Sixth Ennead, TR in, CH 8-10 285a-286d; CH 16-18 289c-291d
+18 AUGUSTINE: Christian Doctrine, BK II, CH653b-c
+
+2b. Definition by genus and differentia - properties
+
+7 PLATO- Theaetetus, 548c - 549d
+8 ARISTOTLE- Categories, CH 3 [i b i6-24] 5d; CH 5 [2*n-3 b 24] 6a-8a; CH 13 [i4 b 32-i5 a 8] 20c-d / Prior Analytics, BK i, CH 27 [43*25-44] 60c-d / Posterior Analytics, BK i, CH 22 113b- 115b; BK 11, CH 13-14 131b-134a / Topics, BK i, CH 4-9 144b-147b; CH 18 [io8 a 38- b 9] 152d; [io8 b i9-32] 153a,c; BK iv-vn 168b,d-211a,c / Physics, BK i, CH 3 [i86 b i4-34] 261c-262a / Metaphysics, BK III, CH i [995 b 27-3i] 514b; CH3 517a-518a; BK v, CH 3 [toi4 b 3~i3] 534d; CH 25 [io23 b 22-25] 545c; CH 28 [i024*37- b 9J 546b-c; BK VII, CH 4 [1030*7-14] 552d; CH 12-14 561b-563c; BK VIIi, CH 3 [i043 b 24~i044* 14] 568b-d; CH 6 569d-570d; BK x, CH 8-585b-586c; BK xi, CH i [1059^21-1060*1] 587d-588a / Soul, BK i, CH i [402*15-403*2] 631d-632a
+9 ARISTOTLE : History of Animals, BK i, CH i [486*15-487*1] 7b-d / Parts of Animals, BK i, (2. The various methods of definition or classification. 2b, Definition by genus and differentia; properties!) CH i [641*14-31] 163d-164a;cH2~4l65d-168c/ Ethics* BK II, CH 5 [no5 b i9J-CH 6 [1107*9] 351b-352c
+17 PLOIINUS: Sixth Ennead, TR in, CH i, 281a-b; CH 8-io 285a-286d; CH 16-18 289c-291d
+19 AQUINAS: Summa Theologica, PART i, o 3, A 4, REP i 16d-l7c; A 5, ANS 17c-18b; Q 29, A i, REP 3-4 162a-163b; Q 50, A 2, REP i 270a- 272a; A 4, REP i 273b-274b; Q 66, A 2, REP 2 345d-347b; Q 75, A 3, REP i 380c-381b; Q 76, A 3, ANS and REP 2,4 391a-393a; Q 77, A i, REP 7 399c-401b; Q 85, A 3 455b-457a; Q 88, A 2, REP 4 471c-472c; PART i-n, Q i, A } 611b-6l2a? Q 18, AA 5-11 697a-703a passim, csp A 7 698c-699c; Q 23 723c-727a passim, esp A i 723c-724c; Q 35, A 4 774d- 775d; A 8, ANS and REP 3 779c-780c
+20 AQUINAS: Summa Theologica, PARI i-n, Q 49, AA 1-2 lb-4a; Q 52, A i, ANS and REP15d-18a; Q 53, A 2, REP 3 21a-d; Q 54 22d- 25d passim; Q 55, A 4, ANS and REP 1-28c-29d; QQ 60-6 1 49d-59d passim; Q 71, A 6 HOb-lllb; Q 72 lllb-119b passim; Q 95, A 4, ANS 229b-230c; PART ii-n, Q 4, A i 402a-403d; PART in, Q 2, A i, ANS 710a-711c
+30 BACON: Novum Organum, BK II 137a-195d pasMm, csp APH 20-52 150d-195d
+31 DESCARTES: Objections and Replies, 154a-b
+35 LOCKE: Human Understanding, BK III, CH in 254d-260a passim, esp SECT 6-10 255c-257a; CH vi 268b-283a passim, esp SECT 6 269d- 270a, SECT 30-32 276d-278b
+42 KANT: Pure Reason, 193a-200c; 215d-216c
+45 LAVOISIER. Elements of Chemistry, PREF, 4a- SC;PARTI, 21d,25c-d
+46 HEGEL: Philosophy of History, INTRO, 176c
+48 MELVILLE- Moby Dick, 98a-b; 104a
+49 DARWIN: Origin of Species, 12c-13a; 25d-29a esp 28b-29a; 30d-31d; 207d-210b csp 207d- 208a / Descent of Man, 331b-332a; 346d- 347c
+53 JAMES: Psychology, 344b-345b; 669a-671a; 869a-871a esp 870a 871a
+
+2c. Definition by accidental or extrinsic signs or by component parts
+
+8 ARISTOTLE: Topics, BK vi, CH 6 [144*23-27] 197d; [I44 b 3-i45 b 33] 198a-199c; CH 13 [150*1]- CH 14 [151*32] 204c-206a / Metaphysics, BK VH, CH 12 [1038*8-30] 561d-562a
+9 ARISTOTLE: Politics, BK iv, CH 4 [i29o b 25~36] 489d-490a
+19 AQUINAS: Summa Theologica, PART i, Q 29, A i, REP 3 162a-163b; Q 77, A i, REP 7 399c- 401b; PART i-n, Q 35, A 8, ANS and REP779c-780c
+31 SPINOZA: Ethics, PART II, PROP 40, SCHOL 1-2, 387b-388a
+35 LOCKE: Human Understanding, BK II, CH xxii, SECT 3 201b-c; SECT 9 202c-203a; CH xxin, SECT 3-10 204c-206d; SECT 14-208b-209a; SECT 37 213d-214b; BK HI, CH in, SECT 10 256c-257a; CH iv, SECT 12-262b-263a; CH vi 268b-283a passim, esp SECT 2-3 268c-d, SECT 29 276b-d; CH xi, SECT 19- 22 304b-305a; SECT 25 305d-306c
+35 HUME: Human Understanding, SECT vn, DIV 49 471c-d
+45 LAVOISIER: Elements of Chemistry, PART i, 21a-22c; 25c-29d
+48 MELVILLE- Moby Dic{, 95b-105b
+49 DARWIN: Origin of Species, 207a-210b esp 207a, 208b, 210b; 212d-215a / Descent of Man, 332b-c
+53 JAMES: Psychology, 503a-b; 742a-b
+
+2d. The appeal to genesis, origin, cause, or end in definition
+
+7 PLATO: Theaetetus, 544c-548d
+8 ARISTOTLE: Topics, BK vi, CH 5 [143*9-12] 196c; CH 6 [145*19-27] 198d-199a; [145*32- b 2o] 199a-b; CH 8 [i46 b 9-i 47*11] 200c-201a; CH 12 [i49 b 3i~39] 204b-c / Meteorology, BK iv, CH 12 493d-494d / Metaphysics, BK i, CH[983*24-29] 501c; BK v, CH 28 [io24 a 29- b 9] 546b-c; BK VIII, CH 2 [1043*2-17] 567b-c; CH 4 [i044 b i2-i"5] 569b; BK xn, CH 3 [1070* 21-24] 599c / Soul, BK i, CH i [403*25- b 7] 632b-c; BK II, CH 2 [413*11-19] 643a-b
+9 ARISTOTLE: Politics, BK i, CH 1-2 445a-446d; BK III, CH 9 [1280*25-1281*2] 477d-478c
+19 AQUINAS: Summa Theologica, PART i, Q 44, A i, REP i 238b-239a; PART i-n, Q i, A611b-612a
+20 AQUINAS: Summa Theologica, PART i-, Q 55, A 4 28c-29d
+30 BACON: Advancement of Learning, 43a-d / No- rum Organum, BK i, APH 63 113d-114a
+31 SPINOZA Ethics, PART i, PROP 8, SCHOL356d-357d; APPENDIX 369b-372d
+35 LOCKE- Human Understanding, BK III, CH iv, SECT 10 261 b-d; SECT 16 263b-c; CH vi, shCT23 274b-c
+42 KANT- Judgement, 574a-b; 579b-c
+49 DARWIN- Origin of Species, 207a-229a,c esp 207d-208a, 211b-c, 217d-218a, 228c-d; 238b- 239a / Descent of Man, 331b-333a esp 332b-c; 337a-341d passim
+53 JAMES: Psychology, 742a-b
+
+2e. Definition by reference to purpose or interest
+
+31 SPINOZA: Ethics, PART i, APPENDIX 369b-372d; PART II, PROP 40, SCHOL i 387b-388a
+35 LOCKE: Human Understanding, BK II, CH xvin, SECT 7 174d-175a; CH xxii, SECT 5-201d-202b; BK HI, CH v 263d-268a passim, csp SECT 6 264c-265a; CH vi, SECT 30 276d- 277b esp 277a-b
+47 GOETHE: Faust, PART i [1942-1945) 46a CHAPTER 15: DEFINITION
+49 DARWIN: Origin of Species, 27c-29a passim, esp29a
+53 JAMES: Psychology, 184a-186a; 314a-b; 668a- 671a
+
+3. The grammatical or verbal aspects of definition
+
+7 PLATO Charmides, 6b-d / Cratylus 85a-114a,c / Theaetetus, 544d-545b / Laws, BK x, 763c-d / Seventh Letter, 809c-810b
+8 ARISTOTLE: Categories, CH i 5a-b; CH 5 [3* 32 - b p] 7c-d / Posterior Analytics, BK II, CH 13 [97 b 27~39] 133b-c; CH 14 (98*13-23] 133d- 134a / Topics, BK i, CH 5 [ioi b 37-io2*n] 144d; CH 15 149d-152a, CH 18 [108*17-37] 152b-d; BK iv, CH 3 [123*27-29] 171d; CH[i27 b 5-6] 177a; BK vi, CH i [i39 b i2-i8] 192b- c; CH 2-14 192c-206d passim, esp CH 10-202 b- 2 03d; BK VII 206b,d-211a,c passim; BK VIII, CH 3 [i58 b 8-i59 a 2] 215b-c / Metaphysics, BK iv, CH 4 525a-528b; CH 7 [1012*22-24] 532b; BK VII, CH 4-5 552b-554a; CH[1040*9-14] 564a; BK x, CH i [io52 b i-i5] 578d-579a; BK xi, CH 5 590a-d / Soul, BK i, CH i [402 b 5-8] 631c-d
+20 AQUINAS Summa Theologica, PART II-u, Q 4, A i, ANs402a-403d
+23 HOBBBS: Leviathan, PART i, 56b-57c; PART iv, 269b-c, 270a-c
+31 DESCARTES: Rules, xn, 23c-24a; xm, 26b-c
+35 LOCKE: Human Understanding, BK II, CH xxn, SECT 3-10 201b-203c passim; BK HI, CH m, SECT 10 256c-257a; CH iv, SECT 6-7 260d; CH v, SECT 4 264 b; SECT 10-11 266b-d; CH vi, SECT 32 277c-278b
+43 FEDERALIST: NUMBER 37, 119b-120b
+44 Bosw ELL. Johnson, 82a-c
+45 LAVOISIER: Elements of Chemistry, PREF, 4a- 5d; PART i, lOa; 21a-22c; 25c-29d
+45 FARADAY: Researches in Electricity, 361a- 362c
+53 JAMES: Psychology, 171b-172a
+
+4. The search for definitions and the methods of defending them
+
+7 PLATO: Charmides, 4a-13d / Laches, 31c-37c / Meno 174a-190a,c esp 174a-179b / Republic, BK i-iv 295a-356a esp BK iv, 346a-355a / Theactetus 512a-550a,c / Sophist, 552b-579d / Statesman 580a-608d
+8 ARISTOTLE: Posterior Analytics, BK II, CH i-io 122b,d-128d; CH 13-14 131b-134a / Topics, BK i-vn 143a-211a,c esp BK i, CH 4-9 144b-147b / Metaphysics, BK i, CH 5 [987*19-27] 505b, CH 6 [987 b i-io] 505c; [987 b 3o-33] 506a; BK ix, CH 6 [1048*25^9] 573c-574a; BK xm, CH[io78 b i8-32] 610b-c / Soul, BK i 631a-641d esp CH i 631a-632d; BK II, CH i (4i2 a i]-CH[415*23] 642a-645c
+9 ARISTOTLE: Parts of Animals, BK i, CH 2-165d-168c
+12 AURELIUS: Meditations, BK III, SECT 11 262a-b
+17 PLOTINUS: First Ennead, TR in, CH 4 lla-c / Fifth Ennead, TR v, CH 6 231b-d / Sixth En- nead, TR in, CH 6-10 284a-286d
+19 AQUINAS : Summa Theologica, PART i,< Q 10, A i 40d-41d; Q 29, A i 162a-163b
+20 AQUINAS: Summa Theologica, PART i~n, Q 49, AA 1-2 lb-4a; Q 55, A 4 28c-29d; Q 71, AHOb-lllb; Q 90 205a-208b; PART II-n, Q 4, A i 402a-403d
+25 MONTAIGNE: Essays, 518d-519a
+28 GALILEO: Two New Sciences, THIRD DAY, 200a-203d esp 200a-b
+30 BACON: Advancement of Learning, 61b-c / No- vum Organum, BK i, APH 59 112b-c; APH128b-c; BK II, APH 10-20 140c-153a; APH 24-154c-155d
+31 DESCARTFS: Rules, xn, 23c-24a
+31 SPINOZA: Ethics, PART II, PROP 40, SCHOL 1-387b-388b
+35 LOCKE: Human Understanding, BK III, CH xi, SECT 24 305b-d
+35 HUME- Human Understanding, SECT vn 470d- 478a
+38 ROUSSEAU: Inequality, 330a-d
+42 KANT. Pure Reason, 215d-216d / Practical Reason, 293c-294b
+43 FEDLRALIST: NUMBER 37, 119b-120b
+49 DARWIN: Origin of Species, 241d-242a
+51 TOLSTOY- War and Peace, EPILOGUE n, 683d-684c; 690b
+
+5. Definition and demonstration - definitions as principles and as conclusions
+
+8 ARISTOTLE: Prior Analytics, BK i, CH 31 64b- 65a; CH 43 68d / Posterior Analytics, BK i, CH 2 [72*19-24] 98d; CH 8 [75 b 2i~32] 104a; CH 10 [76 b 35-77 a 4] 105c-d; CH 22 113b-115b; CH 33 [88 b 3o-89 ft i] 121b-c; [89 R i7- b 5] 121d- 122a,c; BK 11, CH 3-10 123c-128d / Topics, BK vi, CH 4 [141*26-32] 194c; BK vu, CH 3 208a- 209b; CH 5 [i54 B 23- b n] 209d-210a; [155*17- 23] 210d; BK VIII, CH 3 [158*31-150*2] 214d- 215c / Metaphysics, BK i, CH 9 [992^30-993*1] Sllb; BK III, CH 2 [996 b 8-2i] 515a-b; BK iv, CH 4 525a-528b; CH 7 [1012*18-24] 532a-b; CH 8 [ioi2 b 5-8] 532c; BK xi, CH 5 590a-d; BK xm, en 4 [io78 b i7~3o] 610b-c / Soul, BK i, CH i [402*10-23] 631b; [402 b i 5-403*2] 631d-632a; CH 3 [407*22-30] 636d-637a; CH(409*3i- b i8] 639b-c; BK II, CH 2 [413*11-19] 643a-b
+9 ARISTOTLE: Parts of Animals, BK i, CH i [639 b 7-6"42 b 5] 161d-165c
+17 PLOTINUS: Sixth Ennead, TR v, CH 2 306a-b
+19 AQUINAS: Summa Theologica, PART i, Q i, A 7, REP I 7a-C; Q 2, A I, REP 2 lOd-lld,' A 2, REP 2 lld-12c; Q 3, A 5, ANS 17c-18b; Q 17, A 3, REP i-2 102d-103c; Q 58, A 5 303c<304c; Q 85, A 6 4S8d-459c
+23 HOBBES: Leviathan, PART i, 56b-60c; 65c-d
+31 DESCARTES: Objections and Replies, 128c- 129a
+33 PASCAL: Pensees, i I71a-172a / Geometrical Demonstration, 430b-434b passim, esp 430b, 431b-432a; 442a<443b
+35 LOCKE: Human Understanding, BK III, CH ix, SECT 15-16 288d-289c; CH xi, SECT 15-303b-304a; BK iv, CH in, SECT 20, 319b
+35 HUME: Human Understanding, SECT xn, DIV 131 508d-S09a
+42 KANT: Pure Reason, 179d-182b; 211c-218d csp 215d-216d / Practical Reason, 293c-294b
+46 HEGEL- Philosophy of Right, INTRO, par 2 9b- 10a
+51 TOLSTOY: War and Peace, EPILOGUE n, 690b
+54 FREUD: Instincts, 412a-b
+
+6. The character of definitions in diverse disciplines
+
+    [sem referências]
+
+6a. The formulation of definitions in physics, mathematics, and metaphysics
+
+7 PLATO: Seventh Letter, 809c-810b
+8 ARISTOTLE: Topics, BK vi, CH 4 [i4i*26- b 24] 194c-195a; BK VII, CH 3 [153*6-11] 208a-b / Physics, BK i, CH 9 [i92*25~ b 2] 268c-d; BK II, CH 2 270a-271a; BK III, CH 1-2 278a-279c; CH 6 [2o6 b 33-207*14] 285b-c; BK iv, CH 1-287a-292c; CH n 298c-300a / Meteorology, BK iv, CH 12 493d-494d / Metaphysics, BK iv, CH 4 525a-528b, BK v, CH I-BK vi, CH i 533a-548c; BK ix, CH 6 [i048 a 25~ b 9] 573c- 574a; BK xi, en 5 590a-d; CH 7 592b-593a; BK xm, CH 2 [io77 b i]-cH 3 [1078*32] 608d- 609d / Soul, BK i, CH I-BK ii, CH 3 631a-645b esp BK i, CH i 631a-632d ARISTOTLE: Parts of Animals, BK i, CH 2-165d-l68c / Ethics, BK i, CH 7 [i 098*20^8] 343c-344a
+11 EUCLID: Elements, BK i, DEFINITIONS la-2a csp 1-2,4,10 la, 15 Ib, 23 2a; BK II, DEFINI- TIONS 30a; BK III, DEFINITIONS 41a-b esp 2-3 41a; BK iv, DEFINITIONS 67a-b; BK v, DEFINITIONS 81a-82a csp 3-7 81a-b; BK vi, DEFINITIONS 99a; BK VII, DEFINITIONS 127a- 128a esp 1-2 127a, 11-12,20 127b; BK x, DEF- INITIONS 1 191a-b esp 1,3 191a; DEFINITIONS n 229a; DEFINITIONS in 264b; BK xi, DEFINI- TIONS 301a-302b esp 14 301b, 18,21 302a
+11 ARCHIMEDES: Sphere and Cylinder, BK r, DEF- INITIONS 404a / Conoids and Spheroids, 452a- 454a passim; DEFINITIONS 455a-b / Spirals, DEFINITIONS 490a / Equilibrium of Planes, BK II, 51 la / Sand-Reckoner, 524a-b / Quadrature of the Parabola, DEF 534b-535a
+11 APOLLONIUS: Conies, BK i, FIRST DEFINI- TIONS 604a-b esp i 604a; SECOND DEFINITIONS 626a
+11 NICOMACHUS* Arithmetic, BK i, 814b-c
+16 KEPLER: Epitome, BK v, 986b*1004a passim
+17 PLOTINUS: Sixth Ennead, TR in, CH i, 281 a- b
+19 AQUINAS: Summa Theologica, PART ii Q i, A 7, REP I 7a-C, Q 2, A 2, REP 2 lld-12c,* Q 3, A 5, ANS 17c-18b; Q 10, A i 40d-41d; Q 29, A i 162a-163b; o 75, A 4, ANS 381b-382a; o 85, A i, REP 2 451c-453c; A 8, REP 2 460b- 461b
+23 HOBBES: Leviathan, PART i, 56b; PART iv, 269b-c
+28 GALILEO: Two New Sciences, FIRST DAY, 142d-143a; THIRD DAY, 197b-c; 200a-203d
+30 BACON: Advancement of Learning, 43a-d
+31 DESCARTES: Rules, xn, 23c-24a; xin, 26b-c / Objections and Replies, 128c-129a
+31 SPINOZA: Ethics, PART i, APPENDIX 369b- 372d; PART II, PROP 40, SCHOL 1-2 387b-388b
+33 PASCAL: Pensees, i 171a-172a/ Vacuum, 372b- 373b; 376b-377a / Geometrical Demonstration, 430b-434b passim, esp 430b-431b
+34 NEWTON- Principles, DEFINITIONS 5a-13a / Op- tics, BK i, 379a-380b
+35 HUME : Human Understanding, SECT vn, DIV 48- 49 470d-471d
+42 KANT: Pure Reason, 15c-16c; 17d-19a; 68a- 69c; 215d-217a; 245c-248d
+
+6b. The use of definition in speculative philosophy and empirical science
+
+7 PLATO: Theaetetus, 544c-549d / Statesman, 595b-c / Seventh Letter, 809c-810b
+8 ARISTOTLE: Posterior Analytics, BK II, CH 13-131b-134a / Soul, BK i 631a-641d esp CH i 631a-632d; BK 11, CH 1-3 642a-645b
+9 ARISTOTLE. Parts of Animals, BK i, CH 1-161a-168c passim / Politics, BK iv, CH[1290^5-40] 489d-490a
+28 GILBERT* Loadstone, BK II, 43c-44d
+28 GALILEO* Two New Sciences, THIRD DAY, 200a-203d
+30 BACON: Novum Organum, BK i, APH 63 113d- 114a; BK II, APH 10-20 140c-153a; APH179d-188b
+31 DESCARTES: Rules, xn, 23c-24a; xin, 26b-c
+31 SPINOZA* Ethics, PART 11, PROP 40, SCHOL 1-387b-388b
+33 PASCAL: Vacuum, 372b-373b, 376b-377a
+34 NEWTON: Principles, DEFINITIONS 5a-13a/ Op- tics, BK i, 379a-380b
+35 LOCKE: Human Understanding, BK II, CH - xxin, SECT 3-10 204c-206d; SFCT 14-18 208b- 209a; SECT 37 213d-214b; BK III, CH ix, SECT 15-17 288d-290a; CH xi, SECT 10 302b; SECT 19-25 304b-306c
+35 HUME: Human Understanding, SECT 11, DIV 17, 457b,d [fn i]; SECT vn, DIV 48-49 470d- 471d; SECT vin, DIV 74 484a-c
+42 KANT: Pure Reason, I5c-16c; 215d-216d; 243c-244c / Practical Reason, 293c-294b / In- tro. Metaphysic of Morals, 388a-c /Judgement, 603b-d
+43 FEDERALIST: NUMBER 37, 119b-120b
+45 LAVOISIER: Elements of Chemistry, PART I, lOa- b; 21a-22c; 6c CHAPTER 15: DEFINITION
+45 FOURIER: Theory of Heat, 184a-187b
+45 FARADAY: Researches in Electricity, 361a-d
+46 HEGEL: Philosophy of Right, INTRO, par9b-10a
+51 TOLSTOY: War and Peace, EPILOGUE u, 690b; 694bd
+53 JAMES : Psychology, 3b-4a, 869a-871a csp 870a- 871a
+54 FREUD: Narcissism, 400d-401a / Instincts, 412a-413b
+
+6c. The role of definitions in practical or moral philosophy and the social sciences
+
+7 PLATO- Phacdrus, 120a-c / Seventh Letter, 809c-810b
+9 ARISTOTLE: Ethics, BK i, CH I-BK II, CH339a-352d passim; BK x, CH 1-8 426a-434a / Politics, BK i, CH 1-2 445a-446d; BK III, CH 1-6 471b,d-476c; CH 9 [1280*25-1281*2] 477d- 478c
+12 AVRELIUS: Meditations, BK III, SECT n 262a-b
+18 AUGUSTINE: City of God, BK xix, CH 21-524b-528c esp CH 21 524b-525a, CH 24 528b-c
+20 AQUINAS Swnma Theologica, PART i-n, Qla-6a; Q 55, A 4 28c-29d; Q 71, A 6 llOb- lllb; Q 90 205a-208b; PART II-ii, Q 4, A i 402a-403d
+23 HOBBBS: Leviathan, PART i, 57d-58a
+35 LOCKE: Human Understanding, BK III, CH xi, SECT 17 303d-304a; BK iv, CH HI, SECT 20, 319b
+35 HUME: Human Understanding, SECT VH, DIV 48-49 470d-471d
+38 MONTESQUIEU: Spirit of Laws, BK II, 4a
+38 ROUSSEAU: Inequality, 330a-d
+42 KANT: Fund. Prin. Metaphy sic of Morals, 271a- c, 280d-281a / Practical Reason, 297a-314d; 330d-331a / Intro. Metaphy sic of Morals, 386b- d; 390b,d-391a / Science of Right, 398c-399c
+43 FEDERALIST: NUMBER 37, 119b-120b; NUMBER 39 125a-128b passim, esp 125b*c; NUMBER 42, 137a-b
+43 MILL: Utilitarianism, 469a-b
+46 HEGEL: Philosophy of Right, INTRO, par 2 9b- 10a / Philosophy of History, INTRO, 158a-162a
+50 MARX: Capital, 6c-lld passim; 178d-179c passim; 265a-266a; 267c-d
+51 TOLSTOY: War and Peace, BK ix, 365a-b; EPILOGUE n, 683d-684a, 690b
+53 JAMES: Psychology, 887a-888a <ref_end>

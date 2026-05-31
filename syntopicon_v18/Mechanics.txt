@@ -393,6 +393,574 @@ theory of heat, magnetism, and electricity
  (4) The relation of electricity to heat and light: thermoelectricity
  (5) The measurement of electric quantities
 
+REFERENCES
+============================================================
+
+1. The foundations of mechanics
+
+    [sem referências]
+
+1a. Matter, mass, and atoms - the primary quahties of bodies
+
+8 ARISTOTLE: Heavens, BK HI, CH 4 [303 B 3- b 8] 394b-d / Generation and Corruption, BK I, CH 2 410d-413c; CH 8 423b-425d
+10 GALEN: Natural Faculties, BK i, CH 12, 173a-b
+12 LUCRETIUS: Nature of Things, BK i [146-328] 2d-5a; [483-634] 7a-8d; BK II [333-568] i9b- 22b
+19 AQUINAS: Summa Theologica, PART i, Q 115, A i, ANS and REP 3,5 585d-587c
+23 HOBBES: Leviathan, PART i, 72a-d; PART HI, 172a-b; PART iv, 269d
+28 GILBERT : Loadstone, *K n, 29c-34b esp 29c-30a
+28 GALILEO: Two New Sciences, FIRST DAY, 134a-153a passim
+30 BACON: Novum Organum, BK i, APH 66 114d- 115c; BK II, APH 8 140b; APH 48 179d-188b
+31 DESCARTES: Meditations, n, 78c-d / Objeclions and Replies, DEF vn 130c-d; 231a-232a
+33 PASCAL: Vacuum, 367a-368b
+34 NEWTON: Principles, DEF i 5a; DEF m 5b; BK i, PROP 73, SCHOL 133b-134a; BK II, GENERAL SCHOL, 218a-219a; PROP 40, SCHOL, 246a-b; BK HI, RULE HI 270b-271a; PROP 6, COROL HI-IV 281b; PROP 7 281b 282b / Optics, BK II, 479b-485b; BK III, 520a-522a; 52 8b; 53 la543a esp 537a-b, 541b-542a 34HuYGENs - Light, CH i, 558b-560a; CH m, 566b-569b; CH v, 601b-603b
+35 LOCKE: Human Understanding, BK II, CH iv 129b-131a; CH vm, SECT 7-26 134b-138b passim; CH xm, SECT 11-27 150d-154d passim; CH xxi, SECT 2-4 178c-179c; CH xxm, SECT 7-17 205d-209a passim; SECT 22-32 209d-212d; CH xxxi, SECT 2, 239d; BK III, CH x, SECT 15 295a-c
+35 BERKELEY: Human Knowledge, SECT 9-18 414d-416c passim; SECT 50 422c; SECT 102 432d 433a
+45 LAVOISIER: Elements of Chemistry, PREP, 3b- 4a; PART i, 9a-15c passim, esp 9b-c, 13a b; 16b-c; 41b-c
+45 FOURIER: Theory of Heat, 169a-170a
+45 FARADAY: Researches in Electricity, 685d 686c; 850b,d-855a,c
+53 JAMES: Psychology, 68a-b
+54 FREUD: Narcissism, 400d-401a ,
+
+1b. The laws o f motion - inertia; the measure of force; action and reaction
+
+8 ARISTOTLE: Physics, BK VIII, CH 10 [266*27- 267*21] 354b-d / Heavens, BK III, CH 2 [30i*2i- b 3i] 392c-393b 102 \c to la (1. The foundations of mechanics, Ib. The laws of motion - inertia; the measure of force; action and reaction!)
+9 ARISTOTLE: Motion of Animals, CH 2-4 233c- 235c / Gait of Animals, CH 3 243d-244a / Generation of Animals, BK iv, en 3 [768 b i6-24] 310b-c
+12 LUCRETIUS: Nature of Things, BK II [80-99] 16a-b; [184-250] 17b-18b
+16 KEPLER: Epitome, BK iv, 894a-895b; 899a- 900a; 905a-906b; 933b-934b; 936a-937a; 938b-939a
+20 AQUINAS: Summa Theologica, PART HI, Q 84, A 3, REP 2 985d-989b
+23 HOBBES: Leviathan, PART i, 50a; 72a-d; PART iv, 271d
+28 GILBERT: Loadstone, BK 11, 56b-c
+28 GALILEO: Two New Sciences, THIRD DAY, 209a-210a; 224d-225d; FOURTH DAY, 240a-d
+30 BACON: Novum Organum, BK H, APH 35-36 162a-168d passim; APH 48 179d-188b
+34 NEWTON: Principles, DLF in 5b; LAWS OF MOTION 14a-24a; BK u, PROP 40, SCIIOL, 246a-b / Optics, BK III, 541b-542a
+35 LOCKE: Human Understanding, BK II, en xxi, SECT 2-4 178c-179c; en xxm, SECT 17 209a
+35 BLRKELEY: Human Knowledge, SECT in, 434d
+35 HUME: Human Understanding, SECT iv, DIV 27, 460c; SECT vii, DIV 57, 475d-476b [fn 2]
+38 MONTESQUIEU: Spirit of Laws, BK i, Ib
+45 FOURIER: Theory of Heat, 169a-b
+51 TOLSTOY: War and Peace, EPILOGUE n, 695a-c
+
+1c. Space and time in the analysis of motion
+
+8 ARISTOTLE: Physics, BK vi 312b,d~325d
+28 GALILEO: Two New Sciences, THIRD DAY, 201a202a
+30 BACON: Novum Organum, BK II, APH 45 46 176a-179a
+33 PASCAL: Geometrical Demonstration, 434a- 439b
+34 NLWTON: Principles, DEFINITIONS, SCHOL 8b- 13a; UK in, GENERAL SCHOL, 370a~371a / Op- tics, UK in, 528b 529a; 542a-543a
+35 BERKLLEY: Human Knowledge, SECT 110-117 434b-436a
+42 KANT: Pure Reason, 24a-29d; 74b-76c; 160b- 163a
+45 FOURIER: Theory of Heat, 249a-251b
+51 TOLSTOY: War and Peace, BK xi, 469a-d
+
+2. The logic and method of mechanics
+
+28 GALILEO: Two New Sciences, SECOND DAY, 179c d; THIRD DAY, 200a-b; 202d 203a
+30 BACON: Advancement of Learning, 34b / No- vum Oiganum, PREF 105a-106d; BK i, APH 8 107c-d; APH 50 lllb; APH 64 114b; APH 70 116b-117a; APH 82 120d-121b; APH 99-100 127b-c; APH 121 132b-d; BK II 137a-195d / New Atlantis, 210d-214d
+31 DESCARTES: Rules, vin, 12b 13a / Discourse, PART vi, 61d 62c
+33 PASCAL: Vacuum, 355a 358b passim; 365b- 366a
+34 NEWTON: Principles, la-2a; BK i, PROP 69, SCHOL 130b-131a; BK III, 269a-b; RULES 270a-271b; GENERAL SCHOL, 371b-372a / Op- tics, BK III, 531b; 543a-b 34HuYGENs - Light, PREF, 551b-552a; CH i, 553b-554a
+35 LOCKE: Human Understanding, BK iv, CH in, SECT 16 317a-c; SECT 25-29 321a-323a passim; CH xn, SECT 9-13 360d-362d
+35 BERKELEY: Human Knowledge, SECT 104 433a-b; SECT 107 433d-434a
+35 HUME: Human Understanding, SECT iv, DIV 23-27 459a-460d esp DIV 26-27 460b-d; SECT vn, DIV 57, 475d-476b [fn 2]
+42 KANT: Pure Reason, 6b c; 17d-18d; 32a; 69c- 72c esp 71b-72a
+45 FOURIER: Theory of Heat, 169a 170a
+45 FARADAY: Researches in Electricity, 440b,d; 758a-759c; 831a-d; 850b,d-855a,c esp 850b,d- 851c
+49 DARWIN: Origin of Species, 239c
+53 JAMES: Psychology, 882a-884b
+54 FREUD: Instincts, 412a-b
+
+2a. The role of experience, experiment, and induction in mechanics
+
+28 GILBERT: Loadstone, PREF, la-b; BK i, 6a-7a esp 6d-7a; BK 11, 27b-c
+28 GALILEO: Two New Sciences, THIRD DAY, 200a-b; 207d-208a
+30 BACON: Advancement of Learning, 16a; 33d- 34b;42a-c
+31 DESCARTES: Rules, vin, 12b-13a / Discourse, PART vi, 61d-62c
+33 PASCAL: Vacuum, 356a-357a
+34 NEWTON: Principles, BK i, PROP 69, SCHOL 130b 131a; BK III, RULL iv 271b; GENERAL SCHOL, 371b-372a / Optics, BK i, 379a; BK III, 542a; 543a-b
+34 HUYGENS: Light, CH i, 553a
+35 LOCKE: Human Understanding, BK iv, CH in, SECT 16 317a-c; SECT 25-29 321a 323a passim; CH xn, SECT 9-13 360d-362d
+35 BERKELEY: Human Knowledge, SECT 58-59 424a-b; SECT 104 433a-b; SECT 107 433d- 434a
+35 HUME: Human Understanding, SECT iv, DIV 24-27 459b-460d esp DIV 26 460b-c; SECT vn, DIV 57, 475d-476b [fn 2]
+42 KANT: Pute Reason, 6b-c; 227b-c
+45 LAVOISIER: Elements of Chemistry, PREF, Ic- 2b; PART i, 23c; PART in, 87b-c
+45 FOURIER: Theory of Heat, 175b; 181b; 184a
+45 FARADAY: Researches in Electricity, 385 b-c; 440b,d; 467a-b; 607a,c; 659a; 774d-775a
+53 JAMES: Psychology, 864a 2b to 3t> CHAPTER 54: MECHANICS 103
+
+2b. The use of hypotheses in mechanics
+
+12 LUCRETIUS : Nature of Things, BK v [509-533] 67d-68a
+28 GALILEO: Two New Sciences, FOURTH DAY, 240d-241c
+33 PASCAL: Vacuum, 367a-370a
+34 NEWTON: Principles, BK III, RULE iv 271b; GENERAL scHOL, 371b-372a / Optics, BK i, 379a; BK III, 528b; 543a
+34 HUYGENS: Light, PREF, 551b-552a
+35 LOCKE: Human Understanding, BK iv, CH in, SECT 16 317a-c; CH xn, SECT 12-1 } 362a-d
+35 BERKELEY: Human Knowledge, SECT 50 422c; SECT 105-106 433b-d
+35 HUME: Human Understanding, SECT vn, DIV 57, 475d-476b [fn 2]
+36 SWIFT: Gulliver, PART in, 118b-119a
+42 KANT: Pure Reason, 227b-c
+45 LAVOISIER: Elements of Chemistry, PART i, 9d- lOb
+45 FOURIER: Theory of Heat, 181b; 184a
+45 FARADAY: Researches in Electricity, 467a-b; 607a,c; 758a-759c; 777d-778c; 850b,d-855a,c esp 850b,d-851c
+49 DARWIN: Origin of Species, 239c
+53 JAMES : Psychology, 884a-b
+54 FREUD: Narcissism, 400d-401a
+
+2c. Theories of causality in mechanics
+
+12 LUCRETIUS: Nature of Things, BK v [509-533] 67d-68a
+28 GALILEO: Two New Sciences, THIRD DAY, 202d-203a
+31 DESCARTES: Discourse, PART v, 59a
+34 NEWTON: Principles, DEF vm, 7b~8a; BK i, PROP 69, SCHOL 130b-131a; BK III, RULE i-n 270a; GENERAL SCHOL, 369b-372a / Optics, BK III, 528b-529a; 531b; 541b-542a
+34 HUYGENS: Light, CH i, 553b-554a
+35 LOCKE: Human Understanding, BK II, CH xxi, SECT 1-4 178b-179c; BK iv, CH in, SECT 25-26 321a-c
+35 BERKELEY: Human Knowledge, SECT 50-53 422c-423a passim; SECT 60-66 424b-426a; SECT 102-109 432d-434b
+35 HUME: Human Understanding, SECT iv, DIV 24-27 459b-460d esp DIV 26 460b-c; SECT vn, DIV 55, 474c-d; DIV 56-57 475a-d esp DIV 57, 475d [fn 2]; SECT vm, DIV 64, 478d
+36 SWIFT: Gulliver, PART in, 118b-119a
+45 FOURIER: Theory of Heat, 169a; 183a-b
+51 TOLSTOY: War and Peace, EPILOGUE n, 687d; 695b-c
+53 JAMES: Psychology, 885b-886a
+
+3. The use of mathematics in mechanics - the dependence of progress in mechanics on mathematical discovery
+
+8 ARISTOTLE: Posterior Analytics, BK i, CH 9 104b-d; CH 13 [78 b 3 1-79*1 6] 108b-c / Physics, BK ii, CH 2 [194*7-11] 270b-c; BK VII, CH 5 333a-d / Metaphysics, BK xin, CH 3 [1078*5- 17] 609b-c
+11 ARCHIMEDES: Equilibrium of Planes 502a- 519b / Floating Bodies 538a-560b / Method 569a-592a
+14 PLUTARCH: Marcellus, 252a-255a
+16 KEPLER: Epitome, BK v, 964b-965a
+19 AQUINAS : Summa Theologica, PART I-H, Q 35, A 8, ANS 779c-780c
+23 HOBBES: Leviathan, PART i, 72a-d; 73b; PART iv, 268c-d
+28 GALILEO: Two New Sciences, FIRST DAY, 131b-132a; 133b; SECOND DAY -FOURTH DAY 178a-260a,c
+30 BACON: Advancement of Learning, 46b-c
+31 DESCARTES: Rules, iv, 7a; xiv, 31c-d / Discourse, PART i, 43b-c; PART in, 50d / Objections and Replies, 169c-170a / Geometry, BK II, 322b-331a
+34 NEWTON: Principles, la-2a; DEF vm 7b-8a; BK i, PROP 1-17 and SCHOL 32b-50a; PROP 30-
+98 and SCHOL 76a-157b esp PROP 69, SCHOL 130b-131a; BK 11 159a 267a; UK in, 269a-b
+35 HUME: Human Understanding, stcr w, DIV 27 460c-d
+36 SWIFT: Gulliver, PART in, 94b-103a
+42 KANT: Judgement, 551a-552a
+45 FOURIER: Theory of Heat, 169a b; 172a-173b; 175b; 177a; 182b-184a; 249a-b
+45 FARADAY: Researches in Electricity, 831a-d
+50 MARX: Capital, 170a-c
+51 TOLSTOY: War and Peace, BK xi, 469a-d
+53 JAMES: Psychology, 675b; 876a-b; 882a-883a
+
+3a. Number and the continuum - the theory of measurement
+
+11 EUCLID: Elements, BK v 81a 98b rsp DLMNI- TIONS, 5 81a; BK VII, DEFINITIONS, 20 127b; BK x, PROP 1-2 191b-193a; PROP 5-9 195a-198b
+11 ARCHIMEDES: Measurement of a Cm If, PROP 3 448b-451b / Conoids and Spheroids, PROP 3-6 458b-460b / Equilibrium of Planes, BK i, PROP 6-7 503b-504b
+16 PTOLEMY: Almagest, BK i, 18b-20b
+28 GALILEO: Two New Sciences, THIRD DAY, 197b-200a; 205b 206c
+31 DESCARTES: Rules, xiv, 31b-33b / Geometry, BK i, 295a-296b
+34 NEWTON: Principles, BK i, LLMMA i 25a 42 K\NT: Judgement, 551a-552a
+45 FOURIER: Theory of Heat, 183a-b
+51 TOLSTOY: War and Peace, BK xi, 469a-d
+
+3b. The geometry of conies - the motion of planets and projectiles
+
+11 ARCHIMEDES: Quadrature of the Parabola 527a-537b
+11 APOLLONIUS: Conies 603a-804b
+16 KEPLER: Epitome, BK v, 975a-979b
+28 GALILEO: Two New Sciences, SECOND DAY 191c-195c; FOURTH DAY 238a-260a,c passim, esp 238b-240a 104 3c to 4<r (3. The use of mathematics in mechanics - the dependence of progress m mechanics on mathematical discovery. 36. The geometry of conies - the motion of planets and projectiles!)
+31 DESCARTES: Geometry, BK i-n, 298b-314b
+34 NEWTON: Principles, BK i, PROP 11-29 and SCHOL 42b-75b esp PROP 11-13 42b-46a; BK III, PROP 13 286a-b; PROP 40 337b-338a 34HuYGENs - Light, CH v, 583b-598a; 604b- 606b; CH vi, 607b-611a
+42 KANT. Judgement, 551a-552a
+
+3c. Algebra and analytic geometry - the symbolic formulation of mechanical problems
+
+31 DESCARTES: Rules, iv, 5c-d; xiv, 30d-33b; xvi 33d-35c; xvm 36b-39d / Geometry 295a- 353b esp BK i-n, 298b-314b, BK II, 322b- 331a
+34 NEWTON: Principles, BK i, LEMMA 19 57b- 58b
+34 HUYGENS: Light^ CH vi, 610a-b
+45 LAVOISIER: Elements of Chemistry, PREP, la
+45 FOURIER: Theory of Heat, 172a-173b; 177a- 251b
+
+3d. Calculus - the measurement of irregular areas and variable motions
+
+11 ARCHIMEDES: Equilibrium of Planes, BK i, PROP 7 504b / Quadrature of the Parabola 527a-537b
+16 KEPLER: Epitome, BK v, 973a-975a; 979b- 983b
+28 GALILEO: Two New Sciences, SECOND DAY, 193b-194d; THIRD DAY, 205b-d; 224b-c
+33 PASCAL: Equilibrium of Liquids, 395a-b / Geometrical Demonstration, 434b-435b
+34 NEWTON: Principles, BK i, LEMMA i-n and SCHOL 25a*32a esp LEMMA n, SCHOL, 31a-b; BK ii, LEMMA 2 and SCHOL 168a-170a
+45 FOURIER: Theory of Heat, 172b; 177a; 181a-b; 183a-b; 221a-248b
+51 TOLSTOY: War and Peace, BK xi, 469a-d; EPILOGUE ii, 695b-c
+
+4. The place, scope, and ideal of the science of mechanics - its relation to the philosophy of nature and other sciences
+
+23 HOBBES: Leviathan, PART i, 72a-d
+30 BACON: Advancement of Learning, 16a-b; 33d- 34b / Novum Organum, BK i, APH 74 118b; BK II, APH 9 140b-c / New Atlantis, 210d- 214d
+31 DESCARTES: Rules, iv, 7a; v, 8a / Discourse, PART v, 54d-56a; 59a
+34 NEWTON: Principles, lb-2a; BK i, PROP 69, SCHOL 130b-131a / Optics, BK III, 541b-542a
+34 HUYGENS: Light, CH i, 553b-554a
+35 HUME: Human Understanding, SECT i, DIV 9, 454c-d
+36 SWIFT: Gulliver, PART in, 94b-103a
+42 KANT: Pure Reason, 32a; 69c-72c esp 71b-72a / Judgement, 563a-564c
+45 FOURIER: Theory of Heat, 169a-b; 172a-173b; 182a-184a
+45 FARADAY: Researches in Electricity, 468d-469a
+53 JAMES: Psychology, 69b-70a; 882a-886a esp 883a-884b; 889a-890a
+
+4a. Terrestrial and celestial mechanics - the mechanics of finite bodies and of particles or atoms
+
+9 ARISTOTLE: Motion of Animals, CH 3 [699*11]- CH 4 [7oo ft 5] 234a-235a
+16 KEPLER: Epitome, BK iv, 888b-905a passim; 919b; 929a-933a; 935b; 940b-941a; 959a- 960a
+28 GALILEO: Two New Sciences, FOURTH DAY, 245b-d
+30 BACON: Novum Organum, BK H, APH 5 138b- 139a; APH 35 162a-164a; APH 36, 165c-166c; APH 46, 178c; APH 48, 186c-d
+34 NEWTON: Principles, BK HI, RULES 270a-271b; PROP 7 281b-282b / Optics, BK III, 539a- 542b
+51 TOLSTOY: War and Peace, BK xm, 563a-b; EPILOGUE ii, 694d-696d
+
+4b. The explanation of qualities and qualitative change in terms of quantity and motion
+
+8 ARISTOTLE: Metaphysics, BK i, CH 4 [985 b 3~i9] 503c-d / Sense and the Sensible, CH 4 [442*30- b 24] 680a-c
+10 GALEN: Natural Faculties, BK i, CH 2, 167b- 168b
+12 LUCRETIUS: Nature of Things, BK ii [398-521] 20a-21c; [677-687] 23c-d; [730-1022] 24b- 28a; BK iv [522-721] 51a-53d
+23 HOBBES: Leviathan, PART i, 49b-d; PART in, 172b
+31 DESCARTES: Objections and Replies, 231a-b
+34 NEWTON: Optics, BK i, 431a-455a esp 450a- 453a
+34 HUYGENS: Light, CH i, 553b-554a
+35 LOCKE: Human Understanding, BK ii, CH vm, SECT 4 133d; SECT 7-26 134b-138b; CH xxi, SECT 3 178d; SECT 75 200b-d; CH xxm, SECT 8-9 206a-c; SECT n 206d-207a; SECT 37 213d- 214b; CH xxxi, SECT 2 239b-d esp 239d; BK III, CH IV, SECT 10 261b-dj BK IV, CH II, SECT 11-13 311c-312b; CH in, SECT 6, 314b; SECT 12-14 316a-d; SECT 28 322a-c
+35 BERKELEY: Human Knowledge, SECT 25 417d- 418a; SECT 102 432d-433a
+45 FOURIER: Theory of Heat, 169b; 182a-b
+
+4c. The mechanistic account of the phenomena of life
+
+7 PLATO: Phaedo, 240d-242b / Sophist, 567a- 568a
+8 ARISTOTLE: Sense and the Sensible, CH 4 a-c 5to5d CHAPTER 54: MECHANICS 105
+9 ARISTOTLE: Parts of Animals, BK i, CH i [640** 5-641*19] 163a-164a / Motion of Animals, CH 7 [70i b i-3<>] 236d-237b; CH 8 [702*22]- cn 10 [703 b i] 237c-239a / Gait of Animals 243a-252a,c / Generation of Animals, BK II, CH i [734 b 3-2o] 275a-b; CH 5 [74i b 5-io] 282c
+10 GALEN: Natural Faculties, BK i, CH I2-BK II, CH 8 172d-195c esp BK i, en 12 172d-173c, BK II, CH 3, 185a, CH 6 188c-191a; BK III, CH 14-15, 213b-214c
+12 LUCRETIUS: Nature of Things, BK II [865- 1022] 26a-28a; BK III [94-869] 31b-41a; BK v [783-836] 71b-72a
+23 HOB BBS: Leviathan, INTRO, 47a-b
+28 HARVEY: On Animal Generation, 355b-d; 495c-496d
+31 DESCARTES: Discourse, PART v, 56a-60b
+34 NEWTON: Optics, BK i, 384b-385b; 428a-b; BK HI, 518b-519b; 522a
+35 LOCKE: Human Understanding, BK II, CH ix, SECT ii 140b-c; CH x, SECT 10 143c-d; CH xi, SECT ii 145d-146a; CH xxvn, SECT 5 220b-c; BK iv, CH in, SECT 25 321a-b
+38 ROUSSEAU: Inequality, 337d-338a / Political Economy, 368d-369a
+42 KANT: Judgement, 571c-572a; 575b-578a; 578d-582c
+45 LAVOISIER: Elements of Chemistry, PART i, 14a
+45 FARADAY: Researches in Electricity, 440 b,d; 540a-541a,c
+49 DARWIN: Origin of Species, 89b-c
+51 TOLSTOY: War and Peace, BK x, 449b-c; EPILOGUE n, 689c-690a
+53 IAMES: Psychology, 5a-6b; 9a-17b; 44a-52a; 68a-71a; 95b-98a'
+54 FREUD: Instincts, 412c-414c / Beyond the Pleasure Principle, 651d-657d passim, csp 651d, 652d; 659d-661c esp 660a / Ego and Id, 708d-709b; 711c-d
+
+5. The basic phenomena and problems of mechanics - statics and dynamics
+
+    [sem referências]
+
+5a. Simple machines - the balance and the lever
+
+8 ARISTOTLE: Physics, BK VIII, CH 4 [255*20-22] 339d
+10 HIPPOCRATES: Fractures, par 31, 87c
+11 ARCHIMEDES: Equilibrium of Planes, BK i, POSTULATES, 1-3 502a; 6 502b; PROP 1-3 502b-503a; PROP 6-7 503b-504b
+14 PLUTARCH: Marcellus, 252c-d
+16 KEPLER: Epitome, BK iv, 933b-934b; BK v, 970b-972a
+28 GALILEO: Two New Sciences, SECOND DAY, 178b-180c; THIRD DAY, 209a-210a; FOURTH DAY, 258c d
+33 PASCAL: Equilibrium of Liquids, 390a 394b
+34 NEWTON: Principles, COROL n 15a-16b; LAWS OF MOTION, SCHOL, 23a-24a
+35 HUME: Human Understanding, SECT iv, DIV 27, 460c
+50 MARX: Capital, 181a
+
+5b. The equilibrium and motion of fluids - buoyancy, the weight and pressure of air, the effects of a vacuum
+
+8 ARISTOTLE: Heavens, BK iv, CH 6 404d-405a,c
+10 GALEN: Natural Faculties, BK i, CH 16, 181a d; BK II, CH 1-2, 183b,d-184c; CH 6 188c-191a; BK III, CH 14-15, 213b-214c
+11 ARCHIMEDES: Floating Bodies 538a-560b
+28 GALILEO: Two New Sciences, FIRS r DAY, 135b- 138b; 163a-166c
+30 BACON: Novum Organum, BK II, APH 48, 180a
+33 PASCAL: Vacuum, 359a-365b / Great Experiment 382a-389b / Equilibrium of Liquids 390a- 403a / Weight of Air 403a-429a
+34 NEWTON: Principles, BK II, PROP 19-23 and SCHOL 194b-203a; PROP 36 226a-231b; HY- POTHESIS-PROP 53 and SCHOL 259a 267a; BK III, PROP 41, 356b-357b/ Optics, BK III, 518a-b
+35 LOCKE: Human Understanding, BK II, CH xxm, SECT 23-24 209d-210c
+45 LAVOISIER: Elements of Chemistry, PART i, lOc- 12d; 15c-16d; PART m, 88d-89d; 96b 99a
+
+5c. Stress, strain, and elasticity - the strength of materials
+
+28 GALILEO: Two New Sciences, FIRST DAY, 131a- 139c; SECOND DAY 178a-196d passim
+30 BACON: Novum Organum, BK II, APH 48, 180a-d; 187d
+34 NEWTON: Principles, LAWS OF MOTION, SCHOL, 21b-22a; BK II, PROP 23 and SCHOL 201b 203a / Optics, BK III, 540b-541a
+34 HUYOENS: Light, CH i, 558b-559b
+35 LOCKE: Human Understanding, BK II, en xxm, SECT 23-27 209d-211b
+45 LAVOISIER: Elements of Chemistry, PARTI, 14c- 15c; PART in, 96b 99a
+45 FOURIER: Theory of Heat, 192a-b
+
+5d. Motion, void, and medium - resistance and friction
+
+7 PLATO: Timaeus, 460c-d
+8 ARISTOTLE: Physics, BK iv, CH 6-9 292c-297c / Heavens, BK III, CH 2 [301*2 i- b 3i] 392c 393b / Dreams, CH 2 [459*28-34] 703b
+12 LUCRETIUS: Nature of Things, BK i [329-448] 5b-6c; [951-1051] 12d-14a; BK II [142-166] 16d-17a; [225-242] 17d-18a; BK vi [830-839] 91b-c
+16 KEPLER: Epitome, BK iv, 857a-b
+20 AQUINAS: Summa Theologica, PART in, Q 84, A 3, REP 2 985d-989b
+28 GILBERT: Loadstone, BK vi, HOc
+28 GALILEO: Two New Sciences, FIRST DAY, 134a- 135b; 157b-171b; FOURFH DAY, 241d-243c
+30 BACON: Novum Organum, BK II, APH 8 140b; APH 36, 167b-c; APH 48, 186a; 187a; 187c
+34 NEWTON: Principles, BK II 159a-267a passim, CSp GENERAL SCHOL 211b-219a; BK III, PROP 6, COROL in 281b; PROP 10 284a-285a / Optics, BK HI, 521b-522a; 527a-528b 106 5e to (5. The basic phenomena and problems of mechanics - statics and dynamics, id. Motion, void, and medium - resistance and friction.)
+35 LOCKE: Human Understanding, BK H, CH XIH, SECT 22-23 153b-d; CH xvn, SECT 4 168b d
+42 KANT: Pure Reason, 71b-72a
+
+5e. Rectilinear motion
+
+8 ARISTOTLE: Physics, BK v, CH 4 [228 b i 5-229*7] 309d-310a; BK VIH, CH 8 [261*27-26?$] 348b- 349c / Heavens, BK i, CH 2 [268 b i5-24] 359d
+28 GALILEO: Two New Sciences, FIRST DAY, 157b- 171b; THIRD DAY 197a-237a,c
+30 BACON: Novum Organum, BK II, APH 48, 186b-c
+34 NEWTON: Principles, LAW I-H 14a-b; BK i, PROP 32-39 81a-88a; BK II, PROP 1-14 159a- 189a passim
+#5e(1)  Uniform motion - its causes and laws
+28 GALILEO: Two New Sciences, FIRST DAY, 162c- 163a; THIRD DAY, 197b-200a
+34 NEWTON: Principles, DEF m-iv 5b-6a; LAW i 14a; COROL iv-v 18a-19a; BK H, PROP i, COROL 159a; PROP 2 159b 160a; PROP 5-6 165a-167a; PROP 11-12 183a-184b
+#5e(2) Accelerated motion - free fall
+8 ARISTOTLE: Physics, BK iv, CH 8 [215*24- 216*21] 295a-d / Heavens, BK III, CH 2 [301** 16-31] 393a-b
+12 LUCRETIUS: Nature of Things, BK II [225-242] 17d-18a
+16 PTOLEMY: Almagest, BK i, lOb-llb
+19 AQUINAS: Summa Theologica, PART i, Q 115, A i, REP 3 585d-587c
+28 GALILEO: Two New Sciences, FIRST DAY, 157b- 171 b; THIRD DAY, 200a-237a,c
+30 BACON: Novum Organum, BK II, APH 36, 166b-c; APH 48, 181d
+34 NEWTON: Principles, DEF iv 6a; LAW n 14a~b; COROL vi 19b; BK i, PROP 32-39 81a-88a; BK II, PROP 3-4 160b-165a; PROP 8-10 170a-179a; PROP 13-14 184b-189a; PROP 32-40 and SCHOL, 219a-246b esp PROP 40, SCHOL 239a-246b; PROP 41-50 and SCHOL 247a-259a
+
+5f. Motion about a center - planets, projectiles, pendulum
+
+8 ARISTOTLE: Physics, BK VIH, CH 8-10 348b- 355d / Heavens, BK i, CH 2 359d-360d; CH 4 362a-c; BK II, CH 3-12 377c-384c / Metaphysics, BK XH, CH 8 603b-605a / Soul, BK i, CH 3 [4o6 b 26-407 b i3] 636b-637b
+16 KEPLER: Epitome, BK iv, 895b-905a passim; 913a; 914b-915a; 918b-928a passim; 933a- 946a csp 939a 940b; BK v, 965a 966a / Harmonies of the World, 1015b-1023a
+28 GALILEO: Two New Sciences, FOURTH DAY, 240ad
+30 BACON: Novum Organum, BK II, APH 36, 167b-r; APH 46, 177c-178a; APH 48, 186b-d
+34 NEWTON: Principles, DEF v 6a-7a; LAWS OF MOTION, SCHOL, 19b~20a; BK I, LEMMA I-II and SCHOL 25a-32a; PROP 1-3 and SCHOL 32 b- 3Sb esp PROP 3, SCHOL 35b; PROP 46 lOla-b; BK II, PROP 51-53 and SCHOL 259a~267a csp PROP 53, SCHOL 266a-267a; BK m, PHENOM- ENA 272a-275a; PROP 13 286a-b 5/(l) Determination of orbit, force, speed, time, and period
+12 LUCRETIUS: Nature of Things, BK v [614-649] 69a-c
+16 KEPLER: Epitome, BK iv, 905a-907a; BK v, 968a-985b esp 975a-979b
+28 GALILEO: Two New Sciences, FIRST DAY, 166d-168a; 171b-172d; THIRD DAY, 203d- 205b; 235b-d; FOURTH DAY 238a-260a,c
+30 BACON: Novum Organum, BK II, APH 48, 186bd
+34 NEWTON: Principles, LAWS OF MOTION, SCHOL, 19b-22a; BK i, PROP 1-17 and SCHOL 32b-50a; PROP 30-31 and SCHOL 76a-81a; PROP 40-42 88b-92b; PROP 46-47 and SCHOL 101a-102a; PROP 51-56 105b Ilia; BK II, PROP 4 161b- 165a; PROP 10 and SCHOL 173b-183a; LEMMA 3-PROP 1 8 189b-194b; PROP 24-GENERAL SCHOL 203a-219a; BK III, PROP 1-5 and SCHOL 276a-279a; PROP 13 286a-b; PROP 20 291 b- 294b; LEMMA 4-PROP 42 333a-368b
+35 LOCKE: Human Understanding, BK II, CH xiv, SECT 21 159a-d
+35 BERKELEY: Human Knowledge, SECT in, 434d 5/(2) Perturbation of motion - the two and three body problems
+16 KEPLER: Epitome, BK iv, 920b 921b; 922b- 926a; 957b-959a
+28 GILBERT: Loadstone, BK II, 54c-d; 55c-56b
+34 NEWTON: Principles, BK i, PROP 43-45 92b- lOla; lllb; PROP 57-69 and SCHOL lllb-131a; BK III, PROP 5, COROL HI 279a; PROP 12-14 and SCHOL 285a-287b; PROP 21-39 294b-333a
+45 FARADAY : Researches in Electricity, 817a-b
+
+6. Basic concepts of mechanics
+
+    [sem referências]
+
+6a. Center of gravity - its determination for one or several bodies
+
+11 ARCHIMEDES: Equilibrium of Planes 502a- 519b / Method, PROP 6 578a-579a; PROP 8-9 580b-582b
+31 DESCARTES : Objections and Replies, 231c~d
+33 PASCAL: Equilibrium of Liquids, 393b-394a
+34 NEWTON: Principles, COROL iv 18a-19a; BK HI, HYPOTHESIS I-PROP 12 285a-286a
+
+6b. Weight and specific gravity - the relation of mass and weight
+
+7 PLATO: Timaeus, 462d-463c S ARISTOTLE: Physics, BK iv, CH 8 [216*12-20] 295c-d / Heavens, BK i, CH 3 [269 b i8-270*i2] 360d-361b; CH 6 [273*22-274*18] 364c-365b; 6c to 6d(2) CHAPTER 54: MECHANICS 107 BK HI, CH 2 [301*2 i- b 32] 392c-393b; BK iv, CH 1-3 399a-402c
+12 LUCRETIUS: Nature of Things, BK i [358-369] 5c; BK ii [80-108] 16a-b; [294-296] 18d
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK i, 52 la
+16 KEPLER: Epitome, BK v, 970b
+19 AQUINAS : Summa Theologica, PART i-n, Q 26, A 2, ANS 734d-735c
+23 HOBBES: Leviathan, PART iv, 2 7 Id
+28 GILBERT: Loadstone, BK vi, 115d-116a
+28 GALILEO: Two New Sciences, FIRST DAY, 158b-c; 160a-164a passim
+30 BACON: Novum Organum, BK II, APH 24, 154d-155a; APH 35, 163c-d; APH 36, 166b-c; APH 40, 172a-b
+31 DESCARTES: Objections and Replies, 231b 232a
+34 NEWTON: Principles, DBF i 5a; BK II, PROP 24 203a 204a; BK III, PROP 6 279b-281b; PROP 8 282b-283b; PROP 20 291b-294b passim
+45 LAVOISIER: Elements of Chemistry, PART in, 88d-89d
+45 FOURIER: Theory of Heat, 249a-251b
+45 FARADAY : Researches in Electricity, 632a
+
+6c. Velocity, acceleration, and momentum - angular or rectilinear, average or instantaneous
+
+8 ARISTOTLE: Physics, BK iv, CH 8 [215*24- 216*21] 295a-d; BK v, CH 4 [228*20-229*7] 309b-310a; BK vi, CH 1-2 312b,d-315d; BK vii, CH 4 330d-333a
+28 GALILEO: Two New Sciences, FIRST DAY, 166d- 168a; THIRD DAY, 197b-c; 200a-207d; 209a- 210a; 224b-225d; FOURTH DAY, 240a-d; 243d- 249b
+30 BACON: Novum Organum, BK II, APH 46, 177d- 178d
+34 NEWTON: Principles, DBF n 5b; DEF vn-vin 7a-8a; LAW n 14a-b; COROL in 16b-17b; LAWS OF MOTION, SCHOL, 20a~22a; BK i, LEMMA 10 28b-29a; LEMMA n, SCHOL, 31b-32a; PROP i, COROL i 33a / Optics, BK III, 540a-541b
+35 HUME: Human Understanding, SECT iv, DIV 27, 460c
+51 TOLSTOY: War and Peace, BK xi, 470d-471a; BK xiv, 589d
+
+6d. Force - its kinds and its effects
+
+8 ARISTOTLE: Physics, BK vu, CH 5 333a-d; BK viu, CH 10 [266*25-267*20] 353c-354d / Heavens, BK III, CH 2 [30^2-32] 392d-393b
+9 ARISTOTLE: Motion of Animals, CH 3 234a-c
+16 KEPLER: Epitome, BK iv, 938b-939a; BK v, 969a-971b
+19 AQUINAS: Summa Theologica, PART i, Q 105, A 4, REP i 541c-542a; PART i-n, Q 23, A 4 726a-727a
+20 AQUINAS: Summa Theologica, PART in, Q 84, A 3, REP 2 985d 989b
+28 GILBERT: Loadstone, BK II, 26d-40b passim
+31 DESCARTES: Rules, ix, 15c / Objections and Replies, 231c-232a
+34 NEWTON: Principles, DEF ni-vm 5b-8a; DEF- INITIONS, SCHOL, lla-13a; LAW n 14a b; BK i, LEMMA 10 28b-29a; PROP 6 37b-38b; BK III, PROP 6, COROL v 281b; GENERAL SCHOL, 371b- 372a / Optics, BK III, 531b; 541b-542a
+35 BERKELEY: Human Knowledge, SECT 103-106 433a-d
+36 SWIFT: Gulliver, PART in, 118b-119a
+45 FARADAY: Researches in Electricity, 338a-b; 514d-532a; 595a; 603d; 646b 655d; 670a- 674a; 685d-686b; 817a-818d; 819b,d; 850b,d- 855a,c esp 855a,c
+54 FREUD: Narcissism, 400d-401a
+#6d(1)  The relation of mass and force - the law of universal gravitation
+16 KEPLER: Epitome* BK iv, 910b
+28 GILBERT: Loadstone, BK II, 51c-52c
+30 BACON: Novum Organum, BK II, APH 24, 154d-155a; APH 36, 166b-c; APH 40 170c-173d
+31 DESCARTES: Objections and Replies, 231c-232a
+34 NEWTON: Principles, BK i, PROP 69-93 an< ^ SCHOL 130a-152b csp PROP 75-76 134b-136a; BK III, PROP 1-7 276a-282b esp PROP 7 281b- 282b; GENERAL SCHOL, 371b / Optics, BK HI, 531b-543a csp 541b-542a
+35 BERKELEY: Human Knowledge, SECT 103-106 433a-d
+35 HUME: Human Understanding, SECT vn, DIV 57, 475d [fn 2]
+45 FARADAY: Researches in Electricity, 850b,d- 855a,c esp 855a,c
+49 DARWIN: Origin of Species, 239c
+51 TOLSTOY: War and Peace, EPILOGUE n, 695c
+54 FREUD: Narcissism, 400d-401a
+#6d(2) Action-at-a-distance - the field and medium of force
+8 ARISTOTLE: Physics, BK VIII, CH 10 [266^7- 267*21] 354b-d / Heavens, BK III, CH 2 [3oi b i6~3i] 393a b / Dreams, CH 2 [459*28- 34] 703b
+12 LUCRETIUS: Nature of Things, BK vi [906- 1089] 92b-94c
+16 KEPLER: Epitome, BK iv, 897b-905a esp 900b- 901b; 906a-b; 922a b; 934b
+19 AQUINAS: Summa Theologica, PART i, Q 8, A i, REP 3 34d-35c
+28 GILBERT: Loadstone, BK i, lOa-c; BK II, 26d- 40b esp 30a-32c; 42b-43c; 45d-47b; 51a-c; 54d-55c; BK v, 102d-104b; BK vi, 112d
+28 GALILEO: Two New Sciences, THIRD DAY, 202 d
+30 BACON: Novum Organum, BK II, APH 37 168d- 169c; APH 45 176a-177c; APH 48, 183a-c; 186a
+31 DESCARTES: Rules, ix, 15c / Discourse, PART v, 55c
+34 NEWTON: Principles, DBF V-VIH 6a-8a; BK i, PROP 69, SCHOL 130b-131a; BK III, GENERAL SCHOL, 371b-372a / Optics, BK III, 507a-516b; 520a-522a esp 521a-b; 531b-542a passim
+35 HUME: Human Understanding, SECT vn, DIV 57, 475d [fn 2]
+42 KANT: Pure Reason, 227b 1U8 UKbAl (6d. force - its kinds and its effects. 6d(2) Actionat-a-distance - the field and medium of force)
+45 LAVOISIER: Elements of Chemistry, PART i, 9b-c
+45 FARADAY: Researches in Electricity, 441a-442b; 451a-454a; 463d-465d; 513d-514c; 521a-524a; 528c-532a; 604b-c; 631b-c; 648b-d; 685d- 686c; 816b,d-819a,c; 819a-d; 824a-b; 832a c; 840c-842c; 855a,c
+#6d(3) The parallelogram law - the composition of forces and the composition of velocities
+16 KEPLER: Epitome, BK v, 969a 970a
+28 GALILEO: Two New Sciences, THIRD DAY, 224d-225c; FOURTH DAY, 240a-d; 243d-249b passim
+34 NLWTON: Principles, COROL I-H 15a-16b
+45 FARADAY: Researches in Electricity, 691b 692a; 788c-793c; 817a-b
+51 TOLSTOY: War and Peace, BK xin, 570d
+53 jAMhs - Psychology, 105a
+
+6e. Work and energy - their conservation; perpetual motion
+
+28 GILBERT: Loadstone, BK II, 56b-c
+71 DESCARFLS: Rules, xm, 27c
+33 PASCAL: Equilibrium of Liquids, 392b-394b
+34 NLWTON: Principles, COROL n 15a-16b; LAWS OF MOTION, SCHOL, 23a~24a
+45 FARADAY: Researches in Electricity, 582b-584a; 837b c; 837d-840c
+53 JAMES: Psychology, 884a
+
+7. The extension of mechanical principles to other phenomena - optics, acoustics, the theory of heat, magnetism, and electricity
+
+    [sem referências]
+
+7a. Light - the corpuscular and the wave theory
+
+8 ARISTOTLE: Soul, BK II, CH 7 [418*26-419*24] 649b-650b
+12 LUCRETIUS: Nature of Things, BK iv [364- 378] 48d-49a
+16 KEPLER: Epitome, BK iv, 896b; 901a-903a; 922b-926a passim
+17 PLOTINUS: Fourth Ennead, TR v 183a~189b
+19 AQUINAS: Summa Theologica, PART i, Q 53, A 3, ANS and REP 2 283b-284d; Q 67 349d- 354a; Q 104, A i, ANS and REP 1,4 534c-536c
+20 AQUINAS: Summa Theologica, PART in SUPPL, Q 92, A i, REP 15 1025c 1032b
+28 GILBERT: Loadstone, BK 11, 43a-b
+30 BACON: Novum Organum, BK II, APH 36, 167a-b; APH 37, 169a-c; APH 48, 185a-c / New Atlantis, 212d-213a
+31 DESCARTES: Discourse, PART v, 54d-55b
+33 PASCAL: Vacuum, 366b-367a
+34 NEWTON: Principles, BK i, PROP 94-98 and SCHOL 152b-157b; BK II, PROP 41-42 247a- 249b; PROP 50, SCHOL, 257b / Optics 377a- 544a passim, esp BK i, 379a, BK II, 492a-495b BK III, 525b-531b
+34 HUYGENS: Light 551a-619b passim, csp CH i 553a-563b
+35 LOCKE: Human Understanding, BK HI, CH iv, SECT 10 261b-d; BK iv, CH n, SECT 11-13 311c- 312b
+45 LAVOISIER: Elements of Chemistry, PART i, lOb-c
+45 FARADAY: Researches in Electricity, 595a- 607a,c; 817b-c
+49 DARWIN: Origin of Species, 239c
+#7a(1)  The laws of reflection and refraction
+7 PLATO: Timaeus, 454c-455a
+8 ARISTOTLE: Meteorology, BK III, CH 2-6 476b- 482d / Soul, BK II, CH 8 [419^8-33] 651a
+12 LUCRETIUS: Nature of Things, BK iv [269-323] 47d-48b; [436-442] 49d-50a
+20 AQUINAS : Summa Theologica, PART in SUPPL, Q 82, A 4, REP 5 972d-974c
+21 DANTE: Divine Comedy, PURGATORY, xv [16- 24] 75c
+31 DESCARTES: Rules, vm, 12b-13a / Geometry, BK II, 322b-331a
+34 NEWTON: Principles, BK i, PROP 94 152b-153b; PROP 96-98 and SCHOL 154b-157b / Optics, BK i, 379a-423b passim, esp 379a-386b, 409a- 412a; BK H, 478b-479b; 485b-495b; BK HI, 520b; 522b-530b passim
+34 HUYGENS: Light, CH n-vi 563b 619b esp CH ii-m 563b-575a
+#7a(2) The production of colors
+7 PLATO: Meno, 177b-c / Timaeus, 465b-d
+12 LUCRETIUS: Nature of Things, BK II [730-841] 24b-25c; BK vi [524-526] 87b
+16 KEPLER: Epitome, BK iv, 901b
+19 AQUINAS: Summa Theologica, PART i, Q 14, A 6, ANS 80a-81c
+30 BACON: Novum Organum, BK II, APH 23, 154a-b
+31 DESCARTES: Discourse, PART v, 55c-d / Objections and Replies, 231b
+34 NEWTON: Optics, BK I-H 379a-506b passim, esp BK i, 424a-428b, 440a-441b, 453a-455a, BK II, 481a~482a; BK III, 519a-b
+48 MELVILLE: Moby Dic^, 144b-145a
+#7a(3) The speed of light
+12 LUCRETIUS: Nature of Things, BK iv [176-208] 46c-47a; BK vi [164-172] 82b-c
+28 GALILEO: Two New Sciences, FIRST DAY, 148b- 149c
+30 BACON: Novum Organum, BK II, APH 46, 178a-b
+31 DESCARTES: Discourse, PART v, 55b
+34 NEWTON: Principles, BK i, PROP 96, SCHOL, 155a / Optics, BK i, 379b; BK II, 488b-492a
+34 HUYGENS: Light, CH i, 554b-557b; CH HI, 570a-575a
+45 FARADAY: Researches in Electricity, 81
+#7a(4) The medium of light - the ether
+8 ARISTOTLE: Soul, BK 11, CH 7 [418*27-419*24) 649b-650b; BK III, CH 12 [434 b 22-435 a n] 667c-668a / Sense and the Sensible, CH 3 676a- 678b; CH 6 [446"20-447 B i2] 684c-685c
+12 LUCRETIUS: Nature of Things, BK v [449-508] 67a-c
+16 KEPLER: Epitome, BK iv, 857a-b; 901a-b
+19 AQUINAS: Summa Thcohgica, PART i, Q 14, A 6, ANS 80a-81c
+30 BACON: Novum Organum, BK II, APH 48, 186a
+33 PASCAL: Vacuum, 366a-367a
+34 NEWTON: Principles, BK III, GENERAL SCHOL, 372a / Optics, BK III, 520a-522b; 525b-529a
+34 HUYGENS : Light) CH i, 553b-560b esp 557b- 560b
+45 FARADAY: Researches in Electricity, 595b [fn 2]
+
+7b. Sound - the mechanical explanation of acoustic phenomena
+
+7 PLATO: Meno> 177b-c / Timaeus, 471 b
+8 ARISTOTLE: Soul, BK II, CH 8 650c-652c
+9 ARISTOTLE: Generation of Animals, BK v, CH 7 328c-330b
+12 LUCRETIUS: Nature of Things, BK iv [524- 614] 5la-52b
+17 PLOTINUS: Fourth Ennead, TR v, CH 5 186b d
+28 GALILEO: Two New Sciences, FIRST DAY, 172b-177a,c
+30 BACON: Novum Organum, BK II, APH 46, 178a; APH 48, 185a-c; 186a / New Atlantis, 213b
+31 DESCARTES: Rules, xin, 25c
+34 NEWTON: Principles, BK II, PROP 41-50 and SCHOL 247a-259a passim / Optics, BK HI, 525b-526a
+34 HUYGENS : Light, CH i, 554b-558b passim
+45 FARADAY: Researches in Electricity, 485b-486b
+
+7c. The theory of heat
+
+#7c(1)  The description and explanation of the phenomena of heat - the hypothesis of caloric
+7 PLATO: Timaeus, 462c-d / Theaetetus, 533b-c
+8 ARISTOTLE: Heavens, BK II, CH 7 380c-d
+12 LUCRETIUS: Nature of Things, BK v [592- 613] 68d-69a; BK vi [132-322] 82a-84c; [848- 905] 91c-92b
+19 AQUINAS: Summa Theologica, PART i, Q 67, A 3, ANS and REP 1,3 351b-352a; Q 104, A i, ANS 534c-536c
+30 BACON: Novum Organum, BK 11, APH 10-20 140c-153a; APH 24, 154c-d; APH 26, 157a; APH 33, 161c; APH 36, 168b-d; APH 48, 182 b; 183d; 184d-185a; APH 50, 190b-192b
+31 DESCARTES: Objections and Replies, 231a-b
+34 NEWTON: Principles, BK III, GENERAL SCHOL, 372a / Optics, BK m, 516b-518b; 520a-b; 541a-b 109
+45 LAVOISIER: Elements of Chemistry, PART i, 9a-16d
+45 FOURIER: Theory of Heat 169a-251b passim
+45 FARADAY: Researches in Electricity, 812b-c; 813b-815b; 857a 858d
+51 TOLSTOY: War and Peace, BK xin, 587b-c; EPILOGUE n, 687d
+#7c(2) The measurement and the mathematical analysis of the quantities of heat
+33 PASCAL: Great Experiment, 388a
+45 LAVOISIER: Elements of Chemistry, PART i, 14a-c; 33b-36a; PART HI, 99d-103b *
+45 FOURIER: Theory of Heat, 184b 185b
+
+7d. Magnetism - the great magnet of the earth
+
+10 GALEN: Natural Faculties, BK i, CH 14, 177a- 178c
+12 LUCRETIUS: Nature of Things, BK vi [906- 1089] 92b-94c
+28 GILBERT: Loadstone, BK i, 23b-25d; BK vi 106a-121a,c
+30 BACON: Novum Organum, BK II, APH 36, 166c-167a; APH 45, 176b-c; APH 48, 183b-c
+36 SWIFT: Gulliver, PART in, 100a-102a
+45 FARADAY: Researches th Electricity, 286a-294a; 697b-757d
+#7d(l) Magnetic phenomena - coition, verticity, variation, dip
+7 PLATO: Ion, 144b / Timaeus, 471 b-c
+8 ARISTOTLE: Physics, BK VIII, CH 10 [266^0- 267*2] 354b-c
+16 KEPLER: Epitome, BK iv, 897b-898b; 935a- 936a; 941b-942a
+28 GILBERT: Loadstone, BK i-v 3a-105d passim
+30 BACON: Novum Organum, BK II, APH 25, 155c-d; APH 35, 163c-d; APH 36, 166c-167a; APH 37, 169b-c; APH 42, 174b-c; APH 45, 176b-c; APH 48, 182c; 183b-c; 184a; 185a-d
+45 FARADAY: Researches in Electricity, 595a*600a; 607a-669d; 673b,d-757d; 812b-c; 813b-815b; 855a-866a,c
+#7d(2) Magnetic force and magnetic fields
+16 KEPLER: Epitome, BK iv, 897b-898b; 935a- 936a; 941b-942a
+28 GILBERT: Loadstone, BK II, 26d-43c esp 38a- 39b; 45d-47b; 54d-55c; BK v, 102d-105d
+30 BACON: Novum Organum, BK II, APH 37, 169b-c; APH 45, 176b-c
+34 NEWTON: Principles, BK i, PROP 69, SCHOL, 130b; BK II, PROP 23, SCHOL 202b-203a; BK III, PROP 6, COROL v 281b; PROP 7, COROL i 282a / Optics, BK III, 53 Ib
+45 FARADAY: Researches in Electricity, 281c-282c; 298d-301a; 302a-d; 528c-532a; 603d-604c; 679a-b; 690a-697b; 758a-795d; 816b,d-824b; 830b848a,c
+48 MELVILLE: Moby Dic% 376b-379a 110 7eto7e(5) (7. The extension of mechanical principles to other phenomena - optics, acoustics, the theory of heat, magnetism, and electricity)
+
+7e. Electricity - electrostatics and electrodynamics
+
+28 GILBERT: Loadstone, BK II, 26d-34b
+34 NEWTON: Principles, BK III, PROP 7, COROL i 282a; GENERAL SCHOL, 372a / Optics, BK III, 531b; 542a
+45 FARADAY: Researches in Electricity, 514d-528c
+#7e(1)  The source of electricity - the relation of the kinds of electricity
+45 FARADAY: Researches in Electricity, 269a-273a; 277a-316a esp 281d-282c, 302a-d, 315d-316a; 386c-422a,c; 433a-440a,c; 532b-539b; 541b,d- 594d; 813a-b; 824b-830b esp 826a-b, 829d- 830a
+49 DARWIN: Origin of Species, 89b-c
+#7e(2) Electricity and matter - conduction, insulation, induction, electrochemical decomposition
+30 BACON: Novum Organum, BK II, APH 48, 181b-c
+45 FARADAY: Reseafthes in Electricity, 265a- 269a; 273a-277a;306a; 309a-312a;312c-313d; 314b; 315a-b; 319b,d-345d; 361a-432d; 440b,d-514c;' 515a-d; 522b,d-532d; 541b,d- 584a,c; 8 24 b 830 b; 848b,d-855a,c
+#7e(3) The relation of electricity and magnetism - the electromagnetic field
+28 GILBERT: Loadstone, BK II, 26d-34b
+34 NEWTON: Principles, BK III, PROP 7, COROL i 282a
+45 FARADAY: Researches in Electricity, 266b-d; 269a-302d; 305d-306a; 307a-309a; 313d- 314c; 315a; 520b-521a; 528c-532a; 595a; 615a-619c; 658b,d-667c; 685d-686b; 759c- 788c; 795b,d-813a; 816b,d-819a,c
+#7e(4) The relation of electricity to heat and light - thermoelectricity
+34 NEWTON: Principles, BK III, GENERAL SCHOL, 372a / Optics, BK HI, 516b-517a
+45 FARADAY: Researches in Electricity, 305b-d; 306d-307a; 313d-314a; 314c-d; 315a; 404b- 405a; 476a-506a; 515d-516a; 518a-d; 561b,d- 569b; 580d-582b; 595a-607a,c
+51 TOLSTOY: War and Peace, EPILOGUE n, 687d
+#7e(5) The measurement of electric quantities
+45 FARADAY: Researches in Electricity, 277d- 279a; 316b-318c; 366d-371d; 377d-390d; 444a-451a; 465d-467a,c; 768d-773d; 778b,d- 788c <ref_end>
+
+
 CROSS-REFERENCES
 
 For: Considerations relevant to the basic concepts and laws of mechanics, see

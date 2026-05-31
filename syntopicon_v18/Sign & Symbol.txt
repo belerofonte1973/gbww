@@ -412,3 +412,686 @@ Foundations of Logic and Mathematics
 .
 
 Meaning and Necessity DEWEY and BENTLEY. Knowing and the Known
+
+REFERENCES
+============================================================
+
+1. The theory of signs
+
+    [sem referências]
+
+1a. The distinction between natural and conventional signs
+
+0 OLD TESTAMENT: Genesis, 2:19-20; 11:1-9
+6 HLRODOTUS: History, BK 11, 49a-c
+7 PLATO: Cratylus 85a-U4a,c
+8 ARISTOTLE: Interpretation, CH i [16*4-9] 25a
+11 NICOMACIIUS: Arithmetic, BK II, 832a
+18 AUGUSTINE: Christian Doctrine, BK i, CH 2 624d-625a; BK II, CH 1-2 636b,d-637c
+19 AQUINAS: Summa Theologica, PART i, Q 34, A i, ANS 185b-187b
+20 AQUINAS: Summa Thcologica, PART in, Q 60, A 4, RLP i 849c-850b
+30 BACON: Advancement of Learning, 62c-63a
+31 DESCARTES: Discourse, PART v, 59c-60b
+38 ROUSSEAU: Inequality, 341a-b
+46 HEGEL: Philosophy of History, PART i, 252c-d; PART II, 269c-d l.The intentions of the mind: ideas and images as natural signs
+8 ARISTOTLE: Interpretation, CH i [16*4-9] 25a / Soul, BK III, CH 8 664b-d / Memory and Reminiscence, CH i [450*25-451*19] 691a- 692b
+17 PLOTINUS: First Ennead, TR n, CH 3, 8a
+18 AUGUSTINE: Christian Doctrine, BK i, CH 13 627d
+19 AQUINAS: Summa Theologica, PART i, Q 13, A i, ANS 62c-63c; A 4 65c-66b; Q 14, A i, ANS and REP 3 75d-76c; A 2, ANS and REP 2-3 76d-77d; Q 27, A i, ANS 153b-154b; A 2, ANS and REP 2 154c-155b; A 3, ANS 155c-156a; A 4, ANS and REP 2 156b-d; Q 34, A i 185b-187b; Q 37, A i, ANS 197c-199a; Q 107, A i 549b-550b; PART I-II, Q 22, A 2, ANS 721C-722C
+20 AQUINAS: Summa Theologica, PART i-n, Q 93, A i, REP 2 215b,d-216c
+31 DESCARTES: Meditations, in 81d-89a passim/ Objections and Replies, DEF in-iv 130b; AXIOM vi 132a; PROP n 132c
+31 SPINOZA: Ethics, PART II, DEF 3 373b; PROP 5 374c-d
+35 LOCKE: Human Understanding, BK II, CH xxx, SECT 2 238b-c; CH xxxn, SECT 8 244d; SECT 14-16 245c-246b; BK iv, CH n, SECT 14 312b-d; CH xxi, SECT 4 395a,c
+35 BERKELEY: Human Knowledge, SECT 15 415d- 416a; SECT 43-44 420d-421a; SECT 65-66 425d-426a; SECT 145-154 441d-444b passim, esp SECT 148 442b-d
+53 JAMES: Psychology, 161a-176a esp 164a-165b, 166a-b, 168b-169a, 175a-176a; 299a-311a esp 3003-3013, 307a-308a, 310b-311a; 313a; 41 la; Icto \c  741 478a-b; 502a-503a; 553b-558b esp 555a-b, 558b-561b [fn 2]; 573b-574a; 606b-610b esp 608a-609a; 620b-621a; 664b-665b
+
+1c. The things of nature functioning symbolically: the Book of nature
+
+5 AESCHYLUS: Prometheus Bound [442-506] 44c- 45a
+5 ARISTOPHANES: Birds [708-715] 551d
+8 ARISTOTLE: Prior Analytics, BK II, CH 27 92a- 93a,c
+16 KEPLER: Epitome, BK iv, 853b-856b / Harmonies of the World, 1080b-1085b passim
+18 AUGUSTINE: Christian Doctrine, BK i, CH 2 624d-625a; BK II, CH i 636b,d-637a
+19 AQUINAS: Summa Theologica, PART i, Q i, A 10 9c-10c; Q 57, A 4, ANS and REP 3 298a- 299a
+20 AQUINAS: Summa Theologica, PART in, Q 12, A 3, REP 2 778b-779a; Q 60, A 2, ANS and REP i 848a-d; A 4, RLP i 849c-850b
+21 DANTE : Divine Comedy, HELL, xxiv [1-21] 34d
+25 MONTAIONE: Essays, 212a-c
+26 SHAKLSPEARE: 3rd Henry VI, ACT v, sc vi [44-79] 103c-104a / Richard II, ACT n, sc iv [7-17] 334c-d / 1st Henry IV, ACT in, sc i [12- 49] 450a-c / 2nd Henry IV, ACT i, sc i [60-103] 468d-469b
+27 SHAKESPEARE: King Lear, ACT i, sc n [112- 166] 249a-c
+29 CLRVANTES: Don Quixote, PART II, 381a-b
+33 PASCAL: Pensees, 173 203b-204a
+35 BERKELEY: Human Knowledge, SECT 43-44 420d-421a; SECT 65-66 425d-426a; SECT 108- 109 434a-b; SECT 146-154 442a-444b passim, esp SECT 148 442b-d
+36 SWIFT: Gulliver, PART m, llla-b
+46 HEOEL: Philosophy of History, INTRO, 203a-c; PART i, 235d-236c; 252c-d; PART II, 263d- 265c
+47 GOETHE: Faust, PART II [4679-4727] 116b- 117b
+48 MELVILLE: Moby Dick, la-3a; 115b-122b esp 120a-b; 135a-137a; 138b-145a; 204a-205a; 231a; 236a-238a; 331a-332a
+
+1d. The conventional notations of human language: man's need for words
+
+0 OLD TESTAMENT: Genesis, 2:19-20; 11:1-9
+6 HERODOTUS: History, BK II, 49a-c; BK v, 171a-b
+7 PLATO: Cratylus, 107c-114a,c / Phaedrus, 138c- 139b / Philebus, 612d-613a
+8 ARISTOTLE: Interpretation, CH i [16*4-8] 25a / Soul, BK II, CH 8 [42o b i6-22] 652a
+12 LUCRETIUS: Nature of Things, BK v [1028- 1090] 74c-75b
+15 TACITUS : Annals, BK xi, 103c-d
+18 AUGUSTINE: Confessions, BK x, par 19 76a-b; BK XIH, par 34 119d-120b / City of God, BK x, CH 13, 307b / Christian Doctrine, BK II, CH 1-4 636b,d-638a; CH 24 648d-649a
+19 AQUINAS: Summa Theologica, PART i, Q 107, A i, REP 1-3 549b-550b
+20 AQUINAS: Summa Theologica, PART in, Q 60, A 6, ANS 851b-852b
+21 DANTE: Divine Comedy, PARADISE, xxvi [124- 138] 147a-b
+23 HOBBES: Leviathan, PART i, 54c-56a
+25 MONTAIGNE: Essays, 300c
+30 BACON: Advancement of Learning, 62d-63a
+31 DESCARTES: Discourse, PART v, 59c-60b
+33 PASCAL: Geometrical Demonstration, 430b- 431b
+35 LOCKE: Human Understanding, BK II, CH xvi, SECT 5-7 166b-167b; CH xvm, SECT 7 174d- 175a; CH xxn, SECT 5-7 201d-202b; CH xxm, SECT 36 213c-d; CH xxvni, SECT 2 228c-229a; BK III, CH i, SECT i-cii n, SECT 2 251b,d-253c; CH ii, SECT 8-CH in, SECT 5 254b-255c; CH v, SECT 8 265c-266a; en vi, SECT 43-51 280c- 283a; CH x, SECT 24 298b; SECT 27 298c-d; SECT 31 299a; CH xi, SECT 5 300d; BK iv, CH v, SECT 10 331a; CH xxi, SECT 4 395a,c
+35 BERKELEY: Human Knowledge, SECT 121 436d-437b
+36 SWIFT: Gulliver, PART HI, llla-b
+38 ROUSSEAU: Inequality, 339d-342c; 349d-350a
+40 GIBBON: Decline and Fall, 675d [n 83]; 756a
+45 LAVOISIER: Elements of Chemistry, PREF, la-c
+46 HEGEL: Philosophy of Right, PART i, par 78 32d-33a / Philosophy of History, PART i, 218a-c
+49 DARWIN: Descent of Man, 298d-299b; 329a-b; 592a
+53 JAMES: Psychology, 650b; 683b-685a
+54 FREUD: General Introduction, 516b-c
+
+1e. The invention of non-verbal symbols: money, titles, seals, ceremonies, courtesies
+
+4 HOMER: Iliad, BK II [84-109] lOd-lla; BK xvm [478-613] 135a-136d
+5 AESCHYLUS: Seven Against Thebes [375-675] 31b-34b / Agamemnon [905-957] 61c-62b
+5 EURIPIDES: Hecuba [299-331] 355b-c / Phoenician Maidens [1098-1140] 387d-388a
+6 HERODOTUS: History, BK iv, 146d-147a; BK v, 174b; BK VIII, 264c; BK ix, 306b-c
+6 THUCYDIDES : Peloponnesian War, BK 11, 395c-d; BK v, 485b-c
+7 PLATO: Cratylus, 104d-105a
+9 ARISTOTLE: Ethics, BK v, CH 5 [ii33 a 5- b2 9l 380d-381c / Rhetoric, BK i, CH 5 [i36i a 27- b 2J 601d-602a
+17 PLOTINUS : Fifth Ennead, TR vin, CH 6 242c~d
+18 AUGUSTINE : Christian Doctrine, BK II, CH i 636b,d-637a; CH 3 637c-d; CH 25 649b-d
+19 AQUINAS: Summa Theologica, PART i-n, Q 2, AA 1-2 615d-617b
+20 AQUINAS: Summa Theologica, PART in, Q 62, A i, ANS 858c-859d
+23 HOBBES: Leviathan, PART i, 73c-75d 742 (1. The theory of signs. I e. The invention of nonverbal symbols: money f titles, seals, ceremonies, courtesies.)
+24 RABELAIS: Gargantua and Pantagruel, BK i, lld-14b; BK ii, 101b-106a
+25 MONTAIGNL: Essays, 215b-216b
+26 SHAKESPEARE: Richard II, ACT in, sc n [160- 177] 337b; ACT iv, sc i [181-211] 343b-c / King John, ACT iv, sc 11 [1-34] 394b-d / Merchant of Venice, ACT n, sc vn [48-60] 416d; sc ix [20-52] 417d-418a; ACT in, sc n [7.3-107] 420d-421a / hi Henry IV, ACT v, sc iv [77 -101] 465a-b / 2nd Henry IV, ACT in, sc i [4-31] 482d-483a; ACT iv, sc v [21-47] 494c-d / Henry V, ACT iv, sc i [250-301] 554a-c
+27 SHAKLSPLARE: Hamlet, ACT iv, sc v [175-186] 61c; ACT v, sc i [241-266] 66d-67a / Timon of Athens, ACT i, sc n [15-18] 397a; ACT iv, sc in [23-44] 410d-411a / Winter's Tale, ACT iv, sc iv [73-108] 508c-509a
+35 LOCKH: Civil Government, CH v, SECT 37 33a-b; SECT 46-51 35a-36a; CH xvi, SECT 184 68bd
+37 FIFLDINC;: Tom Jones, 310c
+38 MONTI;SQUIFU: Spirit of Laws, BK xvin, 128b c; BK xxir, 174b-175a
+38 ROUSSLAU: Inequality, 341a-b
+39 SMITH: Wealth of Nations, BK i, 10b-12c; BK II, 123b d
+40 GIBBON: Decline and Fall, 154d-155a; 240c- 244c
+41 GIBBON: Decline and Fall, 75b-d; 178b; 307b; 317b-319b; 322a; 389b-390a
+43 MILL: Utilitarianism, 462c
+46 Hi (, EL: Philosophy of Right, PART r, par 58 27a; par 64 28c-d; par 78 32d-33a; PART in, par 164 59a-d; par 217 72b-c; ADDITION'S, 37 122c; 40 122d-123b; 49 124b-c; 106 134a
+48 MLLVILLL: Moby Dic{, 138b-139b; 385b
+50 MARX: Capital, 40c-41a; 41d-44a; 44d-45c; 58a60a
+51 TOLSIOY: War and Peace, BK v, 198b-203a; 206b-c; 212a-c; 230b; 232a-233b; BK vi, 244b c; 248b-249a; BK ix, 355b-c; BK x, 423d-424a;424c-d
+52 DosroEvsKv: Brothers Karamazov, BK 11, 36b-c; BK vi, 147c-d; BK VII, 171a-c
+54 FREUD: Origin and Development of PsychoAnalysis, 4a-b / General Introduction, 510c; 555a / New Introductory Lectures, 815c-d
+
+1f. Natural signs as the source of meaning in conventional signs: thought as the medium through which words signify things
+
+7 PLATO: Cratylus, 104d-114a,c/ Seventh Letter, 809c-810d
+8 ARISTOTLE: Interpretation, CH i [16*4-8] 25a / Soul, BK II, CH 8 [42o b 29-42i a i] 652b / Sense and the Sensible, CH i [437*11-17] 674a If to 2c
+18 AUGUSTINE: Christian Doctrine, BK II, CH 3 637c-d
+19 AQUINAS: Summa Theologica, PART i, Q 13, A i, ANS 62c-63c; A 4, ANS and REP i 65c-66b; A 10, RF.P 5 72c-73c: Q 27, A i, ANS 153b- 154b; Q 85, A 2, REP 3 453d-455b
+20 AQUINAS: Swnma Theologica, PART i-n, Q 93, A i, RIP 2 215b,d-216c; PART HI, Q 60, AA 6-8 851 b 854d passim
+31 DESCARTFS: Discourse, PART v, 59c-60b
+35 LOCKE: Unman Understanding, BK II, CH xi, SECT Q 145b-c; en xxxn, SEC r 8 244d; BK HI, en n, SLCT 5 253d-254a; CH in, SPOT 13 257c-258a; en iv, SECT 2 260b; CH v, SECT 12 266d-267a; en xr, SECT 24 305b-d
+35 BFUKELF.Y: Human Knowledge, INTRO, SECT 18-19 410a-c
+53 JAMES: Psychology, 18b
+
+2. The modes of signification
+
+    [sem referências]
+
+2a. The first and second imposition of words: names signifying things and names signifying names
+
+23 HOBBES: Leviathan, PART i, 57b; PART iv, 270a-b
+
+2b. The first and second intention of names: words signifying things and words signifying ideas
+
+19 AQUINAS: Summa Theologica, PART i, Q 29, A i, RI;P ^ 162a-163b; A 2, ANS 163b-164b; Q 30, A 4, ANS 170c-171b; Q 85, A 2, RLP 2 453d- 455b
+23 HOBBES: Leviathan, PART i, 57d-58a; PART iv, 270ab
+24 RAULLAIS: Gargantua and Pantagruel, BK 11, 79c; BK III, 150a
+35 LOCKE: Human Understanding, BK III, CH n 252d-254c passim; CH in, sicr n 257a-b; CH iv, SFCT 2 260b; CH v, SM.T 12 266d-267a; SFCT 14 267b-c; CH vi, SLCT IQ, 273b; SLCT 48-50 282b-d; CH xi, SECT 10 302b; ST-CT 24 305b-d
+45 LAVOISIER: Elements of Chemistry, PRLF, 4b-c
+53 JAMES: Psychology, 127b-128a
+
+2c. Intrinsic and extrinsic denominations: the naming of things according to their natures or by reference to their relations
+
+0 OLD TESTAMENT: Genesis, 2:19-20
+7 PLATO: L>d/>'/wj85a-114a,c/ Theaetetus, 520b
+8 ARISTOTLE: Categories, CH i [1*13-16] 5b / Topics, BK i, CH 15 [106*1-9] 149d; [io6 h 29~ I07 a 2] 150d-151a
+19 AQUINAS: Summa Theologica, PART i, Q 13, AA 2-3 63c-65c; A 5, ANS 66b-67d; A 6, ANS and REP 2-3 67d-68c; A A 7-8 68d-71b; A 10 72c-73c; A n, REP 3 73c-74b; Q 29, A i, REP 3 162a-163b; A 4 165c-167a; Q 34, A 3 188b-189a; Q 40, A 2, ANS 214b-215b 2d to 3a CHAPTER 85: SIGN AND SYMBOL 743
+35 LOCKE: Human Understanding, BK II, CH xxv 214d-217a passim; BK III, CH i, SECT 5 252b-c; CH vi 268b-283a passim
+35 BERKELEY: Human Knowledge, INTRO, SECT 15 409a-b
+
+2d. Proper and common names
+
+8 ARISTOTLE: Categories^ CH 5 [2*11-18] 6a-b / Interpretation, CH 7 [17*37-40] 26d / Sophistical Refutations, CH 22 [i78 b 38-i 79*10] 246c / Metaphysics, BK vii, CH 10 [io35 b 28-32] 559b; CH ii [1037*5-9] 560c; CH 15 [io40 fl 8-i3l 564a
+19 AQUINAS: Summa Theologica, PART i, Q 13, A i, REP 3 62c-63c; A 9 71b-72c; A 11 73c-74b; Q 30, A 4 I70c-171b; Q 33, AA 2-3 18Ic-183c; Q 34, AA i 2 185b-188a; Q 108, A 5, ANS and REP i 555d-558b
+20 AQUINAS: Summa Theologica, PART ii-n, Q 9, A2,ANs424b-425a
+22 CHAUCER: Second Nun's Prologue [15,553- 587] 462b-463a
+23 HOBBES: Leviathan, PART i, 55b-c
+35 LOCK E: Human Understanding, BK i, en i, SECT 15 98d-99a; BK II, en xi, SECT 9 145b-c; BK III, CH i, SLCT 3 251d-252a; CH in, SECT 1-9 254d-256c; SECT 11-12 257a-c; CH vi, SECT 42 280b-c
+35 BERKELEY: Human Knowledge, INTRO, SECT 11-12 407b-408b; SECT 15 409a-b; SLCT 18-19 410a-c; SECT 122 437b-c
+35 HUME: Human Understanding, SECT xn, DIV 125, 507b [fni]
+36 STERNE: Tristram Shandy, 217b-221a; 351a- 353b
+38 ROUSSEAU: Inequality, 341b-342b
+45 LAVOISIER: Elements of Chemistry, PRFF, 4b-c
+53 JAMES: Psychology, 310a-311a; 447b-448a
+
+2e. Abstract and concrete names
+
+8 ARISTOTLE: Prior Analytics, BK i, CH 34 66b-c
+19 AQUINAS: Summa Theologica, PART i, Q 3, A 3, REP i 16a-d; Q 13, A i, REP 2 62c-63c; A 9, ANS 71b-72c; Q 31, A i, RLP 5 171c-172b; Q 32, A 2 178a-179b; Q 39, AA 4-6 205c-209a; Q 40, A 2, ANS 214b-215b; Q 54, A i, REP 2 285a-d
+23 HOBBES: Leviathan, PART i, 55b-c; 57a
+35 LOCKE: Human Understanding, BK HI, CH vin 284b-285a
+38 ROUSSEAU: Inequality, 341b-c
+53 JAMES: Psychology, 305a-308b; 689a
+54 FREUD: General Introduction, 516b-c
+
+3. The patterns of meaning in human discourse
+
+    [sem referências]
+
+3a. Verbal ambiguity: indefiniteness or multiplicity of meaning
+
+5 ARISTOPHANES: Knights [960-1089] 482a- 483c / Wasps [471-507] 513a-c / Birds [959- 991] 554c-555a; [1372-1409] 559b-c / Frogs [923-935] 575a-b / Plutus [1-55] 629a-d
+6 HERODOTUS: History, BK i, llb-d; 21b-22a
+7 PLATO: Euthvdemiis 65a-84a,c / Cratylus, 107d-109a / Phaedrus, 132c-133a; 138c-141a,c / Republic, BK i, 297b-300b / Critias, 478c-d / Theaetetus, 520b / Sophist, 552b-c / Philebus, 609d-610a / Seventh Letter, 809c-810b
+8 ARISTOTLE: Topics, BK i, CH 15 149d-152a; CH 18 [io8i8-36] 152b-d; BK H, CH 3 154d- 155d; BK VIII, CH 3 [i58 b 8-24] 215b; CH 7 217c-d / Sophistical Refutations, CH i [165*')- 13] 227b-c; CH 33 [i82 b i3~3i] 251d / Heavens, BK i, CH n [28o b i-7] 371d-372a / Metaphysics, BK i, CH 9 [992 B i-9] 510b; BK iv, CH 4 [ioo6 B 29- b i8] 525c-d; BK VII, CH n [io37 a 5-9l 560c; BK VIII, CH 3 [1043*29 - b 4] 567d / Soul, BK III, CH 2 [425 b 26-426 a 26] 658a-c
+9 ARISTOTLE: Parts of Animals, BK II, CH 2 [648 a 37]-cH 3 [649^2] 172d-174b / Ethics, BK v, CH i [ii29 a i8~3i] 376b-d / Politics, BK II, CH 3 456c-457a; BK HI, CH 3 [1276*8 -24] 473a / Rhetoric, BK III, CH 2 [1404^8-39] 655b; CH 5 657d-658c
+10 GALEN: Natural Faculties, BK i, CH 2, 168c
+18 AUGUSTINE: Christian Doctrine, BK II, CH 6 638a-d; CH 10 640d-641a; BK III 657a- 674d
+20 AQUINAS: Summa Theologica, PART in, Q 60, A 3, REP i 848d-849c
+23 HOBBLS: leviathan, PART i, 55b; 57d-58a; 60c; PART II, lOOb; 127a; 135c; 157c; PART in, 172a
+25 MONTAIGNE: Essays, 253c-254a; 284d-285a; 517b-519a
+26 SHAKESPEARE: Taming of the Shrew, ACT i, sc ii [1-44] 205b-c / Two Gentlemen of Verona, ACT i, sc i [70-158] 230a-d / Romeo and Juliet, ACT n, sc iv [38-140] 297d-298d / Richard II, ACT ii, sc i [69-99] 328b-d / Julius Caesar, ACT i, sc i [1-36] 568b,d
+27 SHAKESPEARE: Hamlet, ACT v, sc i [127-149] 65d-66a
+30 BACON: Advancement of Learning, 60b-c / Novum Organum, BK i, APH 43 109d-110a; APH 59-60 112b-113a
+31 DESCARTES: Meditations, ii, 80d-81a / Objections and Replies, 208c-d
+31 SPINOZA: Ethics, PART II, PROP 47, SCHOL 390c-391a
+35 LOCKE: Human Understanding, BK II, CH iv, SECT 5, 131a; CH xm, SECT n, 150d-151a; SECT 18 152a-c; SECT 28 155a-b; CH xxix, SECT 6-12 234d-236c; BK III, CH vi, SLCI* 28 276a-b; SECT 30-31 276d-277c; SECT 47-51 282a-283a; CH vn, SECT 4-6 283c-284b; CH ix 285a-291c; CH x, SECT 5 292d-293a; SECT 22 297c-298a; CH xi, SECT 3-7 300b-301c; SECT 9 301d-302a; BK iv, CH in, SLCT 19 318b-319a; CH vin, SECT ii 348b-c
+35 BERKELEY: Human Knowledge, SECT 143 441c-d
+35 HUME: Human Understanding, SECT vn, DIV 48 470d-47lc; SECT vin, DIV 62-63 478b-d
+36 SWIFT: Gulliver, PART iv, 154a 744
+36 STERNE: Tristram Shandy, 234b-236b; 307b- 308b
+37 FIELDING: Tom Jones, 38d-39a; 264b
+38 MONTESQUIEU: Spirit of Laws, BK XH, 89c-d
+42 KANT: Pure Reason, 113b-c / Practical Reason, 294b-c; *315d-316a / Science of Right, 400d
+43 FEDERALIST: NUMBER 37, 120a-b
+43 MILL: Utilitarianism, 447b-d
+46 HEGLL: Philosophy of History, PART i, 218a-c
+50 MARX: Capital, 104d [fn 4]
+53 JAMES: Psychology, 549b-550a
+54 FREUD: Interpretation of Dreams, 277d-278a / General Introduction, 517c-518b; 540c- 541b
+
+3b. The distinction between uni vocal and equivocal speech
+
+8 ARISTOTLE: Categories, CH i [i a i-i2] 5a / In- terpretation, en i [16*4-8] 25a / Topics, BK vi, CH 10 [i48 a 23- b 4J 202 b-c / Metaphysics, BK i, CH 9 [99o b 33-<)9i R 8] 509a-b; BK xi, CH 3 [io6o b 3i-36] 589a
+19 AQUINAS: Summa Theologica, PART i, Q i, A 10, REP i 9c-10c; Q 13, A 5 66b-67d; A 10 72c-73c; Q 29, A 4, ANS and REP 4 165c- 167a
+30 BACON: Advancement of learning, 60b-c
+31 SPINOZA: Ethics, PART i, PROP 17, SCHOL 362o 363c
+35 LOCKE: Human Understanding, BK H, CH iv, SECT 5, 131a; CH xxix, SECT 9 235c-d; BK III, CH ix, SECT 15-16 288d-289c; CH x, SECT 5 292d-293a; CH xi, SECT 3-7 300b-301c; BK iv, CH vn, SECT 15 343d-344a; CH vm, SECT 11 348b-c
+35 HUME: Human Understanding, SECT vm, DIV 62-63 478b-d
+36 STERNE: Tristram Shandy, 307b-308b
+42 KANT: Science of Right, 400d
+53 JAMES : Psychology, 875b-876a
+
+3c. The types of equivocation
+
+#3c(1) The same word used literally and figuratively: metaphors derived from analogies or proportions and from other kinds of similitude
+8 ARISTOTLE: Categories, CH i [i a i-6] 5a / Topics, BK vi, CH 2 [i39 b 33-i4o a 6] 192d-193a
+9 ARISTOTLE: Ethics, BK v, CH 11 [ii38 b 5~i4] 387a,c / Rhetoric, BK III, CH 2 [i 404^7- I45 b 3l 655a-d; CH 3 [i4o6 b 5]-cH 4 [i407 a i6] 657a-d; CH 6 [1408*2-9] 659a; CH 10-11 662c- 666b / Poetics, CH 21 [i457 b i-33] 693a-c; CH 25 [1461*8-20] 697c-d $b to 3c(3)
+18 AUGUSTINE: Confessions, BK v, par 24 34a-b; BK vi, par 6 36c-d / City of God, BK xvn, CH 3 450c-451c; BK xx, CH 21, 549d / Christian Doctrine, BK II, CH 10 640d-641a; BK III, CH i 657b; CH 5-37 659d-674d
+19 AQUINAS: Summa Theologica, PART i, Q i, AA 9-10 8d-10c; Q 3, A i, REP 1-5 14b-15b; A 2, REP 1-2 15c-16a; A 3, REP i 16a-d; Q 13, A 2, ANS and REP i 63c-64d; A 3 64d-65c; A 6, ANS and REP 2 67d-68c; A 10, CONTRARY 72c- 73c; Q 34, A i, ANS and REP 1,4 185b-187b; Q 67, A i 349d-350b; A 2, REP 3 350b-351a; Q 68, A 4, ANS 358b-359b
+20 AQUINAS: Summa Theologica, PARTI-II, Q 100, A 2, REP 2 252b-253a; PART HI, Q 8, A i, REP 2 756d-757c
+23 HOBBES: Leviathan, PART i, 55b; 59d; 61c; PART in, 176d-177d; 181d; 193d-195d
+25 MONTAIGNE: Essays, 422c-423c
+28 HARVEY: Motion of the Heart, 267a-b
+30 BACON: Advancement of Learning, 65b-c
+35 LOCKE: Human Understanding, BK III, CH i, SECT 5 252b-c
+35 BERKELEY: Human Knowledge, SECT 144 441d
+36 SWIFT: Gulliver, PART in, 114b-115b
+40 GIBBON: Decline and Fall, 775c-d [n 173]
+42 KANT: judgement, 547b-548c
+53 JAMES: Psychology, 380a-381a; 689a-b
+54 FREUD: General Introduction, 510b-c; 51 2d- 513a
+#3c(2) The same word used with varying degrees of generality and specificity: the broad and narrow meaning of a word
+9 ARISTOTLE: Ethics, BK v, CH 1-2 376a-378c / Poetics, CH 21 [i457 b 7-i6] 693b
+18 AUGUSTINE: Christian Doctrine, BK III, CH 34-35 670c 672d
+19 AQUINAS: Summa Theologica, PART i, Q 27, A 2, ANS 154c-155b; Q 67, A i 349d-350b; A 2, REP 3 350b-351a; Q 68, A 4 358b-359b; Q 115, A 2, ANS 587c-588c
+20 AQUINAS: Summa Theologica, PART i-n, Q 49, A i lb-2b; PART u-ii, Q 9, A 2, ANS and REP 2 424b-425a; Q 186, A i, ANS 650c-651d
+39 SMITH: Wealth of Nations, BK II, 123b-d
+43 MILL: Utilitarianism, 447b-d
+54 FREUD: General Introduction, 509d
+#3c(3) The same word used to signify an attribute and its cause or effect
+8 ARISTOTLE: Topics, BK i, CH 15 [106*1-9] 149d; [io6 b 33-io7 8 8] 150d-151a; BK v, CH 2 [i29 b 30-i3o a i] 180a / Metaphysics, BK iv, en 2 [ioo3 a 33- b n] 522b; BK VII, CH 4 [1030*31- b 3] 553a-b; BK xi, CH 3 [io6o b 36-io6i a 7] 589a-b
+19 AQUINAS: Summa Theologica, PART i, Q 13, A 5, ANS 66b-67d; A 6, ANS and REP 3 67d-68c; CHAPTER 85: SIGN AND SYMBOL 745 A 10, ANS 72c-73c; Q 16, A 6, ANS 98b-d; PART i-n, Q 20, A 3, REP 3 713c-714c
+20 AQUINAS: Summa Theologica, PART in, Q 60, A i, ANS 847b-848a 3< The significance of names predicated of heterogeneous things: the analogical as intermediate between the univocal and the equivocal
+8 ARISTOTLE: Interpretation, CH 3 [i6 b i9-26] 25d-26a / Topics, BK i, CH 15 149d-152a passim / Sophistical Refutations, CH 7 [169*22-25] 232d / Physics, BK i, CH 2 [i85 a 2o]-cn 3 [i87io] 260a-262a; BK VII, CH 4 [248 b 7-249 tt 24] 331b-332b / Metaphysics, BK i, CH 9 [992 b i8-24] Slla; BK III, CH 3 [998 b 22-27] 51 7c; BK iv, CH 2 [1003^3-34] 522d; BK v, CH 6-7 536a~538b; en 9 538c-539a; BK VH, CH i 550b,d-551a; BK x, CH i [i052 b i-i5] 578d- 579a; CH 2 580b-d; UK xi, CH 2 [io6o a 36- b io] 588c; BK xn, CH 4-5 599d-601a
+9 ARISTOTLE: Ethics, BK i, CH 6 [1096*17-29] 341b-c
+19 AQUINAS: Summa Theologica, PART i, Q 3, A 4, REP i 16d-17c; A 6, REP i 18c-19a; Q 4, A 3, ANS 22b-23b; Q 13, AA 5-6 66b-68c; A 10 72c-73c; Q 29, A 4, REP 4 165c-167a
+20 AQUINAS: Summa Theologica, PART i-n, Q 61, A r, REP i 54d-55c
+35 LOCKE: Human Understanding, BK II, CH xin, SECT 18 152a-c
+42 KANT: Pure Reason, 181b-182b
+
+4. The determination of meaning in science and philosophy
+
+    [sem referências]
+
+4a. The relation between univocal meaning and definition
+
+7 PLATO: Sophist, 552b-c
+8 ARISTOTLE: Categories, CH 5 [}*32- b 9] 7c-d / Posterior Analytics, BK II, CH 13 [97 b 37~39] 133c / Topics, BK iv, CH 3 [i23 a 27-29] 171d; CH 6 [i27 b 5-6] 177a; BK vi, en 2 192c-193b; CH 10 [i48*22- b 22] 202b-203a; BK VII, CH 4 [154*14-18] 209c; BK VIII, en 3 [i58 b 8-i59*2] 215b-c / Soul, BK i, CH i [402 b i-8] 631c-d
+9 ARISTOTLE: Parts of Animals, BK i, CH 2-3 165d-167d
+19 AQUINAS: Summa Theologica, PART i, Q 13, A i, ANS 62c-63c 23HoBBEs: leviathan, PART i, 56b; PART iv, 269b-c
+33 PASCAL: Geometrical Demonstration, 430b- 434a
+35 LOCKE: Human Understanding, BK m, CH xi, SECT 12 302d
+35 BERKELEY: Human Knowledge, INTRO, SECT 18 410a-c
+43 FEDERALIST: NUMBER 37, 120a-b
+49 DARWIN: Descent of Man, 347a-c
+53 JAMES: Psychology, 121b-122a
+
+4b. The dependence of demonstration on univocal terms: formal fallacies due to equivocation
+
+8 ARISTOTLE: Prior Analytics, BK i, CH 34 66b-c / Posterior Analytics, BK i, CH 1 1 [77*5-9] 105d-106a / Topics, BK VIII, CH 3 [i58 b 8-i7J 215b / Sophistical Refutations, CH 4 [165^4- i66 b 2i] 228b-229c; CH 24 [179^8-180*7] 247d-248a / Heavens, BK i, CH n J28o b i-7J 371d-372a / Metaphysics, BK iv, CH 4 [ioo6 a 33- b i2] 525c-d
+9 ARISTOTLE: Rhetoric, BK II, CH 24 [1401*13-23] 650b
+12 EPICTETUS: Discourses, BK i, CH 7 112b-113d
+19 AQUINAS: Summa Theologica, PART i, Q i, A 10, REP i 9c-10c; Q 13, A 5, ANS 66b-67d
+23 HOBBES: Leviathan, PART i, 57d-58a; PART in, 172a
+35 LOCKE: Human Understanding, BK HI, CH ix, SECT 15-16 288d~289c; CH x, SECT 22 297c- 298a; en xi, SECT 7-26 301a-306d passim
+35 HUME: Human Understanding, SECT vm, DIV 62-63 478b-d
+36 STERNE: Tristram Shandy, 307b-308b
+
+4c. The nature and utility of semantic analysis: the rectification of ambiguity; the clarification and precision of meanings
+
+7 PLATO: Protagoras, 52d-57a / Euthydemus, 68c-d / Cratylus, 107c-114a,c / Phaedrus^ 120a-b
+8 ARISTOTLE: Categories, CH i [1*13-16] 5b; 0117 [6 b 26-7 b i4] llb-12b; en 8 [io a 26- b n] 15b-c / Topics, BK i, CH 15 149d-152a; CH 18 [108*18- 36] 152b-d; BK II, CH 3 154d-155d; BK v, CH 4 [i33 b i 5-134*4] 184d-185b; BK vi, CH 10 [148* 23- b 22] 202b-203a / Sophistical Refutations, CH 19-23 243d-247a / Physics, BK VII, CH 3 [245 b 9-246 a 4] 329a-b / Heavens, BK i, CH n 371d-372d; CH 12 [28^2-15] 373a-b / Metaphysics, BK i, CH 9 [992 b i8-24] Slla; BK iv, CH 4 [ioo6*33- b 4] 525c-d; BK v 533a-547d; BK ix, CH 7 [i049 a i9~ b i] 574d-575a / Soul, BK II, CH 4 [\ 16^0-25] 647a
+9 ARISTOTLE: Ethics, BK v, CH i [1129*18-31] 376b-d
+10 GALEN: Natural Faculties, BK i, CH i 167a-b
+12 EPICTLTUS: Discourses, BK I,CH 17, 122d-123c
+18 AUGUSTINE: Christian Doctrine, BK III 657a- 674d
+19 AQUINAS: Summa Theologica, PART i, QQ 27-43 153a-237a,c passim; PART I-H, Q 22, A i, ANS 720d-721c
+20 AQUINAS: Summa Theologica, PART i-n, Q 49, A i lb-2b
+23 HOBBES: Leviathan, PART i, 54c-58a; 58d-60a; 60c; PART II, 157c-d; PART iv, 269b-272b; 273a-b; 274a-b
+30 BACON: Advancement of Learning, 60b-c; 63a-b 746 W to 5a (4. The determination of meaning in science and philosophy. 4c. The nature and utility of semantic analysis: the rectification of ambiguity; the clarification and precision of meanings.)
+33 PASCAL: Provincial Letters ', la-14a / Geometrical Demonstration, 430b-434a
+35 LOCKE: Human Understanding, BK HI, CH i, SECT 6 252c-d; CH v, SECT 16 267d-268a; CH vi, SECT 28 276a-b; CH ix, SECT 3 285b-c; SECT 15-16 288d-289c; CH xi 300a-306d passim, esp SECT 7 301a-c
+35 BERKELEY: Human Knowledge, SECT 122 437b-c
+35 HUME: Human Understanding, SECT vin, DIV 62-63 478b-d; DIV 74 484a-c
+36 STERNE: Tristram Shandy, 418a-419b
+38 ROUSSEAU: Social Contract, BK III, 419b-c
+42 KANT: Pure Reason, 115b-c / Practical Reason, 294b-c; 339b-d / Judgement, 546d-547d
+43 MILL: Utilitarianism, 465c-469b passim
+44 Bos WELL \Johnson, 81b-82c
+45 LAVOISIER: Elements of Chemistry, PREP, la-c; 4a-5d; 7c
+53 JAMES: Psychology, 121b-122b
+
+4d. The use of metaphors and myths in science and philosophy
+
+7 PLATO: Protagoras, 44a-45a / Phaedrus, 124a- 129d; 138c-139a / Symposium, 157b-159b / Phaedo, 246d-250a / Gorgias, 260a-262a; 292b-294d / Republic, BK vi-vn, 383d-391b; BK x, 437c-441a,c / Timaeus, 444c-446b; 477a,c / Critias, 478b-d / Theaetetus, 542a- 544a / Sophist, 565a-b / Statesman, 586d- 589c
+8 ARISTOTLE: Posterior Analytics, BK II, CH 13 [97 b 38-39J 133c / Topics, BK VIII, CH 3 [i58 b 8- 17] 215b
+9 ARISTOTLE: Rhetoric, BK HI, CH 2 [140^27- I405 b 2o] 655a-656a; CH 3 [i4o6 b 5)-cH 4 [1407*16] 657a-d; CH 10-11 662c~666b
+19 AQUINAS: Summa Theologica, PART i, Q i, A 9 8d-9c; Q 13, A 3 64d-65c; A 6, ANS and REP 2 67d-68c; A 9, ANS and REP i 71b-72c; A 10 72c-73c; Q 34, A i, ANS and REP 1,4 185b- 187b; Q 67, A i 349d-350b; A 2, REP 3 350b- 351a; Q 68, A 4, ANS 358b-359b
+20 AQUINAS: Summa Theologica, PART in, Q 60, A 5, REP i 850b-851b 23HoBBEs: Leviathan, PART i, 57d-58a; 61c; 67c
+25 MONTAIGNE: Essays, 422c-423c
+28 HARVEY: On Animal Generation, 336d-337a
+35 LOCKE: Human Understanding, BK HI, CH i, SECT 5 252b-c
+42 KANT: Judgement, 575b-c
+45 FARADAY: Researches in Electricity, 758a-759c; 777d-778c
+49 DARWIN: Origin of Species, 40c-d; 242b
+53 IAMBS: Psychology, 153b; 686b-687b
+54 FREUD: General Introduction, 510b-d passim; 566d-567b / Beyond the Pleasure Principle, 662a-b
+
+4e. The use of signs in reasoning: necessary and probable signs; the interpretation of symptoms in medicine
+
+7 PLATO: Protagoras, 59b-c
+8 ARISTOTLE: Prior Analytics, BK II, CH 27 92a- 93a,c / Posterior Analytics, BK i, CH 6 [75*28- 35] 103b-c
+9 ARISTOTLE: History of Animals, BK iv, CH 10 [537 b i4-2o] 64b; BK VH, CH 12 [588 B 9-i2] 114c; BK VIIi, CH 18 [6oi b 6-8] 127c; CH 21 [6c>3 b 20-24] 129c; CH 23 [6(>4 a i8]-cH 24 [6o4 b 2o] 130a-c / Rhetoric, BK i, CH 2 [1357*23- b 24J 596d-597c; BK II, CH 24 [i4oi b 8-i4] 650d; CH 25 [i402 b i3-i403 a i7] 652b-653a
+10 HIPPOCRATES: Prognostics 19a-26a,c esp par i 19a-b, par 25 26a,c / Regimen in Acute Diseases, APPENDIX, par 9-14 38b-40d / Epidemics, BK i, SECT n, par 5 46c-d; SECT in, par i 49c-d; BK III, SECT in, par 16 59b-c / Injuries of the Head, par 5 65a / Articulations, par 10 94d-95a; par 26 99a-b; par 30, lOOa; par 51 109a-b; par 54 Ilia; par 57 llld-112b; par 59 113b / Instruments of Reduction, par 4-24 122d-126c passim / Aphorisms, SECT i, par 12 131 d; SECT n 132b-134a passim; SECT iv, par I7-SECT v, par 15 135d-138b; SECT v, par 30-sECT VH, par 86 138d-144a,c passim
+19 AQUINAS: Summa Theologica, PART i, Q 57, A 4, ANS 298a-299a
+23 HOBBES: Leviathan, PART i, 53d
+24 RABELAIS: Gargantua and Pantagruel, BK III, 197a
+25 MONTAIGNE: Essays, 372b-373b; 531d-532b
+30 BACON: Advancement of Learning, 49b-50b; 77d-78d
+36 SWIFT: Gulliver, PART HI, 112b-113a; 114b
+37 FIELDING: Tom Jones, 145b-146a
+53 JAMES: Psychology, 324b
+54 FREUD: Origin and Development of PsychoAnalysis, lb-2b / Hysteria, 31b-d; 38d-40a; 50b-c; 54b-55d; 56b-c; 60c-62c passim; 87a- 90d esp 87b-d / Psycho -Analytic Therapy, 124b / General Introduction, 550d-557a esp 556a-b; 593b-c; 605b-607b passim
+
+5. Symbolism in theology and religion
+
+    [sem referências]
+
+5a. Natural things as signs of divinity
+
+0 OLD TESTAMENT: Genesis, 9:8-17 /Job, 12:7-9; 37-41 / Psalms, 8; 19:1-4; 75:1; 104; 135:6-7; 147:7-9 (D) Psalms, 8; 18:1-5; 74:2; 103; 134:6-7; 146:7-9
+0 APOCRYPHA: Wisdom of Solomon, 13:1-5 (D) OT, Boof( of Wisdom, 13:1-5 / Ecclesiasticus, 42:15-43:33 (Z>) OT, Ecclesiasticus, 42:15- 43:37 / II Maccabees, 7'.2S-(D) OT, // Machabees, 7:28 CHAPTER 85: SIGN AND SYMBOL 747
+0 NEW TESTAMENT: Matthew, 6:26-30 / 12:24-28 / Romans, 1:18-20 6TnucYDiDEs: Peloponnesian War, BK m, 438d-439a
+12 LUCRETIUS: Nature of Things, BK II [589-660] 22c~23b; BK v [110-145] 62c-63a 12EpicTETUs: Discourses, BK i, CH 16-17 121d-124a; BK III, CH i 177a-c
+12 AURELIUS: Meditations, BK xn, SECT 28 310a
+16 KEPLER: Epitome, BK iv, 853b-854a; 860a / Harmonies of the World, 1009b-1010a; 1049b- 1050a; 1061a; 1080b-1085b passim
+18 AUGUSTINE: City of God, BK xi, CH 24-28 335c-338d; BK xvi, CH 26 438c 439a
+19 AQUINAS: Sumrna Theologica, PART i, Q i, A 10, ANS and REP 1 9c-10c; Q 3, A i, REP 1-5 14b- 15b; Q 12, A 3, REP 2-3 52c-53b; Q 13, A 2 63c-64d; A 4, ANS 65c-66b; Q 27, A i, ANS 153b-154b; Q 34 185a-189a; Q 47, A i, ANS and REP 2 256a-257b; Q 65, A i, REP 3 339b- 340b; Q 103, A i, ANS 528b-529a
+20 AQUINAS: Summa Theologica, PART in, Q 12, A 3, REP 2 778b-779a; Q 60, A 2, ANS and REP i 848a-d; A 5, REP i 850b-851b; PART in SUPPL, Q 92, A 2 1032b-1034b
+21 DANTE: Divine Comedy, PARADISE, xxvin [1-78] 148d-149c
+23 IIoBBEs: Leviathan, PART i, 78d-79a; 81a-c
+25 MONTAIGNL: Essays, 212a-c
+28 HARVEY: On Animal Generation, 421d; 490d- 494a csp 491 a-b, 492c-493a
+30 BACON: Advancement of Learning, 2c-4c; 38a; 41b-d / New Atlantis, 203a-b
+32 MILTON: Paradise Lost, BK VIII [114-130] 234b-235a; BK ix [780-794] 264b; [990-1004] 269a; BK xi [181-207] 303a-b
+33 PASCAL: PensSes, 643-646 290b-291b; 652- 657 292a-293a; 670 295a-b; 675 296b-297a; 693-736 301b-317b
+35 BERKELEY: Human Knowledge, SECT 32 418d-419a; SECT 146-154 442a-444b passim, csp SECT 148 442b-d
+37 FIELDING: Tom Jones, 186c-d
+40 GIBBON: Decline and Fall, 81d; 346d-347a
+42 KANT: Pure Reason, 187a-190a
+46 HEGEL: Philosophy of History, PART i, 228a-c; 235d-236c; 252a-255b; PART II, 263d-265c; 266a-267a; 268b-271c
+47 GOETHE : Faust, PART i [3432-3468] 84a-b
+51 TOLSTOY: War and Peace, BK vi, 248d-249a
+
+5b. Supernatural signs: omens, portents, visitations, dreams, miracles
+
+0 OLD TESTAMENT: Genesis, 4:1-16 csp 4:14-15; 9:8-17; 28:10-22; 37:1-11; 40-41 / Exodus, 3:1-4:9; 7-17 passim; 31:18; 32:15-16; 40:34- 38 (D) Exodus, 3:1-4:9; 7-17 passim; 31:18; 32:15-16; 40 ^2-36 / Numbers, 9:15-23; 11-12; 16-17; 20:1-13; 22; 26:9-11 / Deuteronomy, 4:9-14,32-39; 5:22-27; 6:20-25; 7 :I 7-23J 10:20-11:9; 13:1-5; 28:1-29:9 / Joshua, 3-4; 5:13-6:20; 10:12-14 (D) Josue, 3-4; 5:13- 6:20; 10:12-14 /Judges, 6:11-24,36-40; 7:13- 15; 13 / / Samuel, 10:1-16; 12:12-20; 28 (D) I Kings, 10:1-16; 12:12-20; 28 / I Kings, 13:4-6; 17; 18:16-39 esp 18:30-39; 19 (D) /// Kings, 13:4-6; 17; 18:16-39 esp 18:30-39; 19 / II Kings, 1-6 passim; 13:20-21; 20:1-11 (D) IV Kings, 1-6 passim; 13:20-21; 2o:i-n/ // Chronicles, 32:9-22 esp 32:21-22 (D) // Paralipomenon, 32:9-22 esp 32:21-22 / Job, 4:13-21; 38:1-42:8 / Psalms, 105 esp 105:16- 41; 135:8-12 (D) Psalms, 104 esp 104:16-41; 134:8-12 / Isaiah, 6; 7:10-16; 38:1-8 (D) Isaias, 6; 7:10-16; 38:1-8 /Jeremiah, 32:16-24 (D) Jeremias, 32:16-24 / Ezefyel passim, csp 1-3, 11:22-24, 40:1-48:35 (D) Ezechiel passim, esp 1-3, 11:22-24, 40:1-48:35 / Daniel, 2-12 passim (D) Daniel, 2:1-3:23 passim; 3:91-12:13 passim / Hosea, 1-3 (D) Osee, 1-3 / Amos, 7-8 / Jonah (D) Jonas / Zechariah, 1-6 (D) Zacharias, 1-6
+0 APOCRYPHA: Rest of Esther, w-n(D) OT, Esther, 10:4-11:12 / Bel and Dragon, 30-42 (D) OT, Daniel, 14:30-42 / // Maccabees, 1:18-22; 15:11-17 (D) OT, // Machabees, 1:18-22; 15:11-17
+0 NEW TESTAMENT: Matthew passim, esp 1:20-21, 2:12-13, 2:19-23, 8:1-17, 8:23-9:8, 9:18-34, 10:1, 12:22-29, 12:38-40, 14:13-33, 15:22-16: 4, 17:1-8, 17:14-20, 20:29-34 / Mart( passim, esp 1:23-2:12, 5:1-43, 7:24-8:26,9:1-9, 9:16- 29, 10:46-52, 16:16-18 / Lu^e passim, esp 1:5-66, 4:33-5:26, 7:1-23, 8:22-56, 9:28-43, 11:16, 11:29, 14:1-6, 17:11-19, 18:35-43 / John passim, esp i .-43-2:11, 2:18, 2:22, 3:14-18, 4:46-54, 5:36, 6:30, 9:1-41, 11:1-48, 12:27-30, 12:37-40, 20:1-9 / Acts passim, esp 2:1-24, 3:2-11, 5:15-24, 7:55-5 6 > 8:6-8, 8:13, 9:3-8, 9:33-42, 10:1-48, 13:9-12, 14:7-10, 18:9-11, 19:11-20, 20:9-12, 28:3-10 / / Corinthians, 1:22-24 / Hebrews, 2:3-4 / Revelation (D) Apocalypse
+4 HOMER: Iliad, BK i [33-100] 3b-4b; BK II [i- 83] lOa-d; [301-332] 13a-b; BK VIII [167-183] 52d-53a; [245-252] 53c-d; BK xn [195-250] 84a>d / Odyssey, BK 11 [146-207] 189c-190b; BK iv [787-841] 207a-d; BK xvn [541-550] 282d; BK xix [509-581] 294c-295a,c; BK xx [91-121] 297a-b; [240-246] 298c; [345-3571 299d; BK xxiv [520-548] 322c-d
+5 AESCHYLUS: Persians [176-230] 17a-c / Seven Against Thebes [24-29] 27b / Prometheus Bound [484-499] 45a; [645-668] 46d-47a / Agamemnon [104-159] 53a-d / Choephoroe 15H-55 2 ] 75a ' c
+5 SOPHOCLES: Oedipus the King [976-986] 108b / Oedipus at Colonus [1447-1666] 127b-129b / Antigone [988-1097] 139c-140c / Electra [404-515] 159b-160a
+5 EURIPIDES : Iphigenia Among the Tauri [42- 60] 411c-d; [1234-1283] 422b-c
+5 ARISTOPHANES: Birds [708-722] 551d-552a 748 5b to 5c (5. Symbolism in theology and religion. 5b. Supernatural signs: omens, portents, -visitations, dreams, miracles.)
+6 HERODOTUS: History, BK i, 4d; 8a-b; 12b-d; 17a-b; 18b; 20d-21a; 38a-b; 39c-40a; BK 11, 60d-61b; 79a-c; 83b-c; 86c-87a; BK III, 90d- 91a; 95d; H6a-b; BK iv, 124d-125a; 126d- 127a; 135b-c; 138a-b; 150b-d; 154c-d; 155b-c; BK v, 170c-d; 176c-d; 183d-184a; BK vi, 190c-d; 200d-201a; 204b-c; 208b; BK vii, 219a-c; 238d-239a; BK VIII, 266b-d; 267a; 270c-271a; 283d; BK ix, 289d-290a; 302c; 309d-310a; 313d-314a
+7 PLATO: Euthydemus, 66a / Apology, 207b-c; 211a b / Timaeus, 467a-c
+8 ARISTOTLE: Prophesying 707a-709a,c
+9 ARISTOTLE: History of Animals, BK HI, CH n [5 1 8*32-36] 43a; CH 20 [522*13-19] 47a-b
+12 LUCRETIUS: Nature of Things, BK v [1161- 1240] 76b-77b; BK vi [43-79] 80d-81b; [379- 422] 85b-d
+12 EPICTETUS: Discourses, BK i, CH 17, 123c- 124a; BK III, CH i, 177a-b
+13 VIRGIL: Aencid, BK i [387-401] .113b-114a; BK ii [162 233] 128b-130b; [679-704] 143b- 144a; UK in [90-101] 149b-150a; [135-191] 150bl52b; [388-393] 157b-158a; [523-547] 161b-162a; BK vi [190-211] 216a-b; BK VII [59-80) 237b-238a; BK VIII [26-89] 259b- 261b; [520-540] 273a-b; BK xn [244-265] 360b-361a
+14 PLUTARCH: Numa Pompilius, 52b-c / Poplicoh, 82a-b / Timoleon, 198c-d / Pelopidas, 239d-240c / Aristides, 268a-d / Sulla, 371d- 372c / Lucullus, 404d-405a; 405c / Agesilaus, 483a-b / Alexander, 568a-b / Demosthenes, 698b-699a / Dion, 781d-782a / Marcus Bnitus, 818a-b; 822b
+15 TACITUS: Annals, BK i, 9a-b; BK II, 26c; 27b; BK iv, 79b; BK vi, 95d-96a; BK xi, 105c; BK xn, 112d-l 13a; 119b; 124b; BK xiv, 149b-c; BK xv, 168d-169a / Histories, BK i, 206a; 212d- 213a; BK II, 228a-b; 235a-c; BK III, 256d; BK iv, 293a-294a
+18 AUGUSTINE: Confessions, BK HI, par 19-20 18b-19a / City of God, BK x, en 8 303a-d; CH 12-13 306d-307c; CH 16-18 308b-310d; BK xi, CH 2, 323b; BK xxii, CH 8-10 591d-599b
+19 AQUINAS: Summa Theologica, PART i, Q 51, A 2, REP i 276b-277a; Q 104, A 4, ANS 538a-c; Q 105, A 7 544a-d; Q 106, A 3, ANS and REP 2 547c-548b; Q no, A 4 567c-568b
+21 DANTE: Divine Comedy, PURGATORY, ix [13- 69] 66a-c; xix [1-63] 81c-82a; xxvn [91-108] 95c
+22 CHAUCER: Troilus and Cressida, BK v, STANZA 52-55 127a-b; STANZA 177-186 143b-144b; STANZA 207-219 147a-149a; STANZA 245 152a
+23 HOBBES: Leviathan, PART i, 51b-52a; 80b-d; 81d-82b; PART II, 160b; PART in, 165d-167a; 177a-c; 183b-187a; 188a-191a
+26 SHAKESPEARE: Julius Caesar, ACT i, sc in [1-71] 572c-573b; ACT iv, sc m [275-289] 591c; ACT v, sc i [71-89] 592d
+27 SHAKESPEARE: Hamlet, ACT i, sc i [64-125] 30b-31a / Macbeth, ACT 11, sc iv [1-20] 294a-b / Cymbeline, ACT v, sc iv [91-122] 482a-b
+29 CERVANTES: Don Quixote, PART II, 381a-b
+30 BACON: Advancement of Learning, 8c; 19b; 41b-c; 54c-d; 55b-d / New Atlantis, 202c- 203c
+32 MILTON: Paradise Lost, BK i [594-599] 106b; BK v [28-128] 176a-178a; BK xi [193-366] 303b-307a / Areopagitica, 389a-b
+33 PASCAL: Pensees, 803-856 328b-341b passim
+35 LOCKE: Human Understanding, BK iv, CH xvi, SECT 13 371a-b; CH xix, SECT 15 388a-c
+35 BERKELEY: Human Knowledge, SECT 63 425b-c
+35 HUME: Human Understanding, SECT x, DIV 92-101 491c-497b esp DIV 98-101 495d-497b
+40 GIBBON: Decline and Fall, 180b-c; 189b-190d; 206b-d; 294a-296b; 445d-446b; 465d-467a; 547a-b; 571a; 605b-d; 614b-c
+41 GIBBON: Decline and Pall, 232a-c; 398b-399b
+44 BOSWELL: Johnson, 126b-c
+47 GOETHE: Paust, PART i [430-513] 12b-14b
+51 TOLSTOY: War and Peace, BK ix, 377b-379a; BK xii, 561b-562a
+52 DOSTOEVSKY: Brothers Karamazov, BK i, lla-b; BK v, 129c-135a
+54 FREUD: Interpretation of Dreams, 138a-c / General Introduction, 477b-c
+
+5c. The symbolism of the sacraments and of sacramental or ritualistic acts
+
+0 OLD TESTAMENT: Genesis, 17 19-14 / Exodus, 12 :i- 13:16; 20:8-11; 24:5-8; 31:13-17 / Leviticus passim, esp 16, 23 / Numbers, 15:37-41; 16:37- 40 / Deuteronomy, 5:12-15; 6:5-9; 11:18-21; 16:1-17 / Joshua, 4:1-9 (D) Josue, 4:1-9 / Esther, 9:20-32 / Eze\iel, 20:12,20 (D) Ezechiel, 20:12,20
+0 APOCRYPHA: Rest of Esther, 16:20-22 (D) OT, Esther, 16:20-22 / II Maccabees, 1:18-22 (D) OT, // Machabees, 1:18-22
+0 NEW TESTAMENT: Matthew, 26:26-28 / Mar\, 14:22-24 / Luke, 22:19-20 / John, 3:3-7; 6:30- 59 / Acts, 2:38-39; 22:16 / Romans, 6:3-4 / / Corinthians, 10:16-17; 11:23-27
+18 AUGUSTINE: City of God, BK x, CH 5-6 301b- 302d; CH 19-20 310d-311c; BK xvi, CH 26 438c-439a; BK xxi, CH 20 575c-d; CH 25 579d-581a / Christian Doctrine, BK II, CH 3 637c-d; BK III, CH 5-9 659d-661c; BK iv, CH 2i,690d-691b
+19 AQUINAS: Summa Theologica, PART i, Q 92, A3, ANs490c-491b
+20 AQUINAS : Summa Theologica, PART I-H, QQ 101-103 265d-304a; PART in, QQ 60-65 847a ' 884a,c
+22 CHAUCER: Parson's Tale, par 1-22 495a-510b esp par 22, 510b 5dto5f CHAPTER 85: SIGN AND SYMBOL 749
+23 HOBBES: Leviathan, PART in, 177d-178a; 180c-d; 206c-207a; 211c-212a; PART iv, 249b- 250c; 263d-264a
+32 MILTON: Paradise Lost, BK xn [436-445] 328b-329a
+33 PASCAL: Provincial Letters, 71b-80b; 128b- 137b / Pensees, 862, 343a; 870 344a-b; 923 351b
+35 HUME: Human Understanding, SECT v, DIV 41, 468a-b; DIV 43, 468c
+40 GIBBON: Decline and Fall, 82a; 294b-d
+41 GIBBON: Decline and Fall, 83d; 334b
+46 HEGEL: Philosophy of History, PART iv, 331d- 332c;338a-d
+51 TOLSTOY: War and Peace, BK v, 198b-203a; BK vi, 244b-c; 248b-249a
+54 FREUD: General Introduction, 512a
+
+5d. The symbolism of numbers in theology
+
+0 OLD TESTAMENT: Exodus, 20:8-11
+0 APOCRYPHA: Wisdom of Solomon, 11:20 (D) OT, Bool( of Wisdom, 11:21
+0 NEW TESTAMENT: Revelation (D) Apocalypse
+14 PLUTARCH: Numa Pompilius, 56d-57a
+16 KEPLER: Epitome, BK iv, 853b-854a / Harmonies of the World, 1049b-1050a; 1077b
+18 AUGUSTINE: Confessions, BK III, par 16, 17c / City of God, BK xi, CH 30-31 339c-340b; BK xn, CH 18 354b-d; BK xv, CH 20, 414d- 415b; BK xx, CH 7 535b-536d; BK xxn, CH 30, 618c-d / Christian Doctrine, BK II, CH 16, 644d- 645d; BK III, CH 35 672a-d
+19 AQUINAS: Summa Theologica, PART i, Q 5, A 5, REP i 26c-27c; Q 74, A 3, REP 3 375a- 377a,c
+20 AQUINAS : Summa Theologica, PART in SUPPL, Q 96, A 4 1054b-1055c
+21 DANTE: Divine Comedy
+36 STERNE: Tristram Shandy, 259a-b
+51 TOLSTOY: War and Peace, BK vi, 248b-c; BK ix,377c-378c
+54 FREUD: General Introduction, 51 Ic
+
+5e. The interpretation of the word of God
+
+0 OLD TESTAMENT: Daniel, 2:47; 5 : 5~ 2 ^
+0 NEW TESTAMENT: Matthew, 12:1-12; 13; 15:10- 20; 18:23-35; 19:3-9; 20:1-16; 21:28-45; 22:1- 14,31-32; 25:1-30 / Marl(, 2:23-28; 4:1-34; 10:2-9; 12:1-12,18-27 / Luke, 6:1-5,39-49; 8:4-18; 12:16-21,36-48; 14:7-11,15-33; 15- 16; 18:1-8; 19:11-27; 20:9-19,37-38 / John, . 36 / Romans, 4; 9-11 passim; 12:19-20; 14:10- 13; 15:1-4 / Galatians, 3-4 passim / / Peter, 1:10-16; 2:5-8 / II Peter, 1:19-21
+5 AESCHYLUS: Prometheus Bound [645-668] 46d- 47a
+5 SOPHOCLES '.Oedipus the King [463-5 12] 103c-d; [1432-1445] 112b-c
+5 ARISTOPHANES: Knights [40-222] 470c-472c; [960-1089] 482a-483c / Peace [1043-1126] 537d-539a / Birds [959-991] 554c-555a / Lysistrata [762-780] 593a-b / Plutus [1-55] 629a-d
+6 HERODOTUS: History, BK i, llb-c; 21b-22a; BK vi, 199d-201a; BK ix, 295d-296c 6TnucYDiDEs: Peloponnesian War, BK II, 392a~b; 401a-b
+7 PLATO: Apology, 201d-203a
+18 AUGUSTINE: Confessions, BK III, par 9 15a-b; BK v, par 24 34a-b; BK vi, par 6 36c-d; BK xii, par 32-36 107a-108c; BK xn, par 4I-BK xiii, par 53 110a-125a,c / City of God, BK xi, CH 30-32 339c-340d; BK xm, CH 21 371a-c; BK xv, CH 2-3 398c-399c; CH 25-27 419a-421d; BK xvi, CH 2 422b-423d; CH 6 426c-427a; CH 37 444b-445a; BK xvn, CH 3 450c-451c; BK xvni, CH 42-44 496d-498c; BK xx 530a- 560a,c esp CH 21, 549d, CH 28-29 556c-5S7c / Christian Doctrine, BK 1-111 624a-674d
+19 AQUINAS: Summa Theologica, PART i, Q i, AA 9-10 8d-10c; Q 3, A i, REP 1-5 14b-15b; Q 29, A 3, REP i 164c-165c; Q 51, A 2, REP i 276b-277a; QQ 65-74 339a-377a,c passim, csp Q 68, A i, ANS 354a-355c, A 2, ANS 355d-357a
+20 AQUINAS: Summa Theologica, PART II-ii, Q i, AA 9-10 388d-390d; PART in, Q 60, A 4, ANS 849c-850b; A 5, REP i 850b-851b
+21 DANTE: Divine Comedy, PARADISE, iv [28-48] Ilia
+23 HOBBES: Leviathan, PART i, 70c-71a; PART II, 160b-c; PART in, 165a-188a; 191b-199a; 215b- 216b; 246c; PART iv, 247a-258b; 259a-260c
+27 SHAKLSPEARE: Cymbeline, ACT v, sc v [426- 485] 488b-d
+30 BACON: Advancement of Learning, 2c-4c; 17b- 20a; 98a-100b
+33 PASCAL: Provincial Letters, 78b-80b; 163a- 164b / Pensecs. 570-588 273b-277b; 642-692 290b-301a; 775 323b-324a
+35 LOCKE: Toleration, 21c-22d / Human Understanding, BK III, CH ix, SECT 9 286d-287b; SECT 23 291b-c; CH x, SECT 12 294b-c
+36 STERNE: Tristram Shandy, 256a-258a
+41 GIBBON: Decline and Fall, 329d-330a
+42 KANT: judgement, 547b-d
+43 MILL: Liberty, 290a-b
+47 GOETHE: Faust, PART i [1220-1237] 30a-b
+51 TOLSTOY: War and Peace, BK ix, 377c-378c
+52 DOSTOEVSKY: Brothers Karamazov, BK v, 129c-135a; BK vi, 150d453d 5/. The names of God: the use of words to signify the divine nature
+
+5f. The names of God: the use of words to signify the divine nature.) 51:19 (D) jeremias, 10:16; 16:21; 23:6; 31:35; ^' I(S ; 3V2; 5^34; 51=19 / Daniel, 7:9,1 3 / Amos, 4:1 3; 5:8; 9:6
+
+0 OLD TESTAMENT: Exodus, 3:13-14; 6:2-3; J 5 : 3J 20.7; 34:5-7,14 / Leviticus, 19:12; 21:6; 22:32 / Deuteronomy, 5:11; 28:58-59 / // Samuel, 22:2-3; 23:3 (D) // Kings, 22:2-3; 2 3 : 3 / Psalms, 8 esp 8:9; 68:4; 83:15-18; 135:13 (>) Psalms, 8 esp 8:10; 67:5; 82:16-19; *34 :I 3 / Isaiah, 41:4; 42:8; 44:6; 47:4; 48:2; 51:15; 54:5; 63:i6-(D) Isaias, 41:4; 42:8; 44:6; 47:4; 48:2; 51:15; 54:5; 63:16 /Jeremiah, 10:16; 16:21; 23:6; 31:35; 32:18; 33:2; 50:34; 750
+0 APOCRYPHA: Wisdom of Solomon, 14:20-21 (D) OT, Uool( of Wisdom, 14:20-21 Niw Ti.siAMhNr: Matthew, 6:9 / Lul^e, 11:2 / Revelation, 1:8; 21:6; 22:13 (D) Apocalypse, 1:8; 21 -ft; 22:13
+5 ALSUIYLUS: Agamemnon [160-183] 53d-54a
+6 Hi-.RODoriis: History, BK 11, 49d-50a; 60a-d; 80a-c; UK iv, 134a
+7 PLA-IO: Cratylus, 91c-d; 93d-97d
+18 AUMTSTINI-.: Christian Doctrine, BK i, en 6 626a-b
+19 AOUINAS: Surnrna Theologica, PART i, o 3 A 2, KI-P i 2 15c-16a; A 3, REP i 16a-d; A 6, RBI i 18c 19a; g 4, A r, RI.P i 20d 21b; A 3, ANS 22b 23b; Q 5, A 2, RM i 24b-25a; g 13 62b-75b; g i j, A i, RLI* 1-2 75d-76c; PART i ii, Q 14, A i, RHP 2 677b-678a; g 47, A i, KM- i 819c820b 21 D\NIK: 7)/r/w Comedy, PARADISIC iv [28 48] Ilia; xxvi [124-138] 147a-b; xxx [34-99] 152ad
+23 HOHHI-S: Leviathan, PART i, 54b; 78d-79a; 79d 80b passim; PART II, I62a-163b; PART in, 172d 173a; 183d 184a '
+25 MONI-AIC.NI : Essays, 238d-239b
+28 HARVT Y: On Animal Generation, 443c
+31 SIM NO/A: Ethits, PART i, PROP 17, SCIIOL 362c- 363c
+34 NKWION: Principles, UK in, C.LNLRAL SCHOL, 370a 371a
+35 LOC.KL: Human Understanding, BK II, en \m, si rr 18 152a-c
+38 Roi'sstAu: Social Contract, BK iv, 435b
+42 RANI: Pine Reason, 176a-b
+47 CJoi IUK: l : atist, PART i [3432-3468] 84a-b csp |3455 3457] 84b
+51 TOLSTOY. War and Peace, BK vi, 248d
+
+6. Symbolism in psychological analysis
+
+54 FREUD: Origin and Development of PsychoAnalysis, 9b Ha csp 9d, lOd-lla, 12c-d, 13c d / PsychoAnalytic Thcrapv, 123d-124a / Interpf elation of Dreams, 279b 291 c / Genet al Introduction, 504d-513d csp 508c-513b; 526d / Civilization and Its Discontents, 778b,d [fn 2] / Ncu> Introductory Lectures, 815a-816b; 848c- 849b
+
+6a. The symbolism of dreams: their latent and manifest content
+
+4 HOMER: Odyssey, BK xix [509-581] 294c- 295a,c
+5 ARSCHYLUS: Persians [176-230] 17a-c / Choephoroe [523-552] 75b-c
+5 SOPHOCLLS: Oedipus the King [977-982] 108b
+5 EURIPIDES: Iphigenia Among the Taun [42- 66] 411c-d
+6 HERODOTUS: History, BK i, 25b-d; 28c-29a; 47a-c; BK u, 78d; BK vii, 218b-220b csp 219a-c
+7 PLATO: Crito, 213b-d / Phaedo, 221d 222a
+8 ARISTOTLE: Prophesying 707a-709a,c csp en 2 [464^-18] 709c
+14 PLUTARCH: Pyrrhus, 329c-d / Cimon, 398d- 399b / Eumenes, 473a-b / Alexander, 548d- 549a / Demosthenes, 702c-703b / Demetrius, 727b-d
+21 DANTE: Divine Comedy, PURGATORY, ix [i^- 69] 66a-c; xix [1-63] 81c-82a; XXVH [91-108] 95c
+22 CHAUCER: Ttoilus and Cressida, BK v, STANZA 52-55 127a-b; STAN/A 177-186 143b-144b; STANZA 207-219 147a-149a; STANZA 245 152a / Nun's Priest's Tale [14,898-15,162] 451a- 455b
+25 MONTAIGNE: Essays, 533d-534a
+26 SHAKLSPEARL: 2nd Henry VI, ACT i, sc n [17-55) 36c-37a '/ Richard III, ACT i, sc iv [1-7 }] 114d-115b / Romeo and Juliet, At r i, sc iv [49 103] 291a-c / Midsummer-Night's Dream, ACT n, sc n [145 156] 360b-c / Julius Caesar, ACT n, sc n [58 107] 578d-579b
+27 SIIAKI.SPE\KL: Miiibclh, ACT v, sc i 306b- 307a / Cvmhehne, M.V v, sc iv [30-150] 481c- 482c; M/v[|26-485]488bd
+32 MIL i ON: Paradise Lo*t, BK v [28-128] 176a- 178a csp [100-109] 177b
+46 ULCJKL: Philosophy of History, PART II, 263d- 265c
+48 MhLviLLt.: Moby Dii1{, 19a-20a
+51 TOLSTOY: War and Peace, BK II, 86a; BK vi, 249a-250a; BK xi, 481a-482a; BK xii, 561b- 562a; BK xiv, 608a-b; F.PILOGUE i, 673d- 674a,c
+54 FREUD: Origin and Development of PsychoAnalysis, lla-13a csp lld-12c / Interpretation of Dreams, 173a-174d; 178a-205c csp 178a- 179c, 189b 190a, 194b d, 197b-198d, 204c-d; 230b-231c; 252c-340a csp 252c-253a, 264c- 272c,282a-285b,332a-333b,339b-340a;356d- 373a passim / General Introduction, 476a-478b; 489c494d esp 492d-493c; 504d-526c esp 504d-506c, 518d-519d; 539c-544d esp 539c- 540a, 541 b / Netv Introductory lectures, 808d- 817a csp 809b, 810b-d, 812d, 813d-814b
+
+6b. The symbolism of apparently normal acts: forgetting, verbal slips, errors
+
+54 FREUD: Origin and Development of PsychoAnalysis, 13a-c / General Introduction, 453b- 476a,c csp 467d-468a; 546b-547a / New Introductory lectures, 852a-b
+
+6c. The symbolism of anxieties, obsessions, and other neurotic manifestations
+
+5 EURIPIDES: Orestes [1-423] 394a-398b esp [255-259] 396c, [385-400] 397c-398a 6c CHAPTER 85: SIGN AND SYMBOL 751
+12 LUCRLTIUS: Nature of Things, UK in [978- 370b-c/ Repression, 42Sc-427a,c/ Unconscious, 1023] 42d-43b 440b-442b / General Introduction, 550d-557a;
+27 SHAKESPEARE: Macbeth, ACT v, so i 306b- 558d-562c esp 559d 560a, 562b c; 568a 569c; 307a 571d-572c; 593b-594c; 596d-597b; 609c-615b
+54 FREUD: Origin and Development of Psychoesp 612c-d, 615a-b / Inhibitions, Symptoms, Analysis, lb-5a esp 3a. 4a; 8b-9a / Hysteria, and Anxiety, 718a-747b esp 719b-c, 720a, 25a-26a; 31b-38d; 43b-49b esp 46c-d; 54b- 721a, 721c, 723c, 724a-727c, 729a-b, 731d 59d esp 58b-c; 83a; 83d-85d esp 84b; 116b- 732 d, 742a-c / New Introductory Lectures, 118a,c / Interpretation of Dreams, 200a-d; 841a 843c esp 841b-d; 848b-849b; 852a-b <ref_end>
+
+
+ADDITIONAL READINGS
+
+Listed below are works not included in Great Boofe of the Western World, b
+
+idea and topics with which this chapter deals. These works are divided int
+
+I. Works by authors represented in this collection.
+
+II. Works by authors not represented in this collection
+
+For the date, place, and other facts concerning the publication of the wor
+
+the Bibliography of Additional Readings which follows the last chapter of
+
+AQUINAS. Quacstiones Di
+
+*
+
+DANIE. Convivio (The Ba AUGUSTINE. Concerning the Teacher en i, 14-16
+
+The Harmony of the Gospels
+
+. .
+
+Epistle to Can Gra AQUINAS. Summa Contra Gentiles, BK i, CH 22-25 HOBBES.
+Concerning Body ion, 42Sc-427a,c/ Unconscious, eral Introduction, 550d-557a; 59d
+560a, 562b c; 568a 569c; -594c; 596d-597b; 609c-615b a-b / Inhibitions,
+Symptoms, 8a-747b esp 719b-c, 720a, c, 724a-727c, 729a-b, 731d / New
+Introductory Lectures, 41b-d; 848b-849b; 852a-b ntional in GE 10; MEDICINE see
+IDF A $a. es and between AR 2c, 511. and equivocal f how names can RELATION 1d;
+ion, see DhriNions in the use of e exposition of 3c. cred Scripture, MAGINATION
+nt to the inter- RY AND ut relevant to the o two groups: . ks cited, consult The
+Great Ideas. sputatae, De Veritate, Q 4 nquet), SECOND TREATISE, nde della Scala
+, PART i, en 2
+
+752 J. S.MILL. A System of Logic, BK i FRLUD. The Psychopathology of Everyday
+Life, CH
+
+8-12
+
+A Review of "The Antithetical Sense of Primal
+
+.
+
+Words"
+
+. A Connection Between a Symbol and a Symptom
+
+II.
+
+PIIILODEMUS. On Methods of Inference
+
+tory), BK vn, CH 9
+
+QUINHLIAN. Institutio Oratona (Institutes of OraSux'ius KMPIRICUS. Against the
+Logicians, BK 11, CH 2
+
+MAIMONIDRS. The Guide for the Perplexed, PART i, CH 1-30, 37-45, 61-64
+
+BONAVHNTURA. Brcviloquium, PROLOGUE . Itincranum Mentis in Deum (The Itinerary
+of
+
+the Mind to God}
+
+DUNS Scoius. Opus Oxoniense, BK iv OCKIIAM. Studies and Selections, Logic, CH
+11-12 THOMAS OP KRUJRI. Grammatica Spcculativa NICOLAS OF CUSA. De Docta
+Ignorantia, BK i, en 12
+
+CAJEI-AN. De Nominum Analogia SUAKPZ. Disputationes Mctaphysicac, xxvm (3), xxx
+(i$), XKXII (2), xxxix (3)
+
+Bo EH VIE. The Signature of All Things JOHN or SAINT THOMAS. Cursus
+Philosophicus Thomisticus, Ars Logica, PART i, OQ 1-3; PART n, QQ 21-22
+
+ARNAULD. Logic or the Art of Thinking, PART i,
+
+CH 11, 15 Lht UNITZ. Characteristica
+
+. New Essays Concerning Human Undo standing, BK III
+
+CON DILL AC. Essai sur Vorigine des connaissances humaines, PART n
+
+J. HARRIS. Hermes,
+
+or A Philosophical Inquhy Concerning Universal Grammar VOLTAIKK "Allegories,"
+"Figure in Theology," in A Philosophical Dictionary
+
+T. REID. Essays on the Intellectual Powers of Man, i,
+
+CH i ; vi, en 5 CRP.UZER. Symbolil( und Mythologie dcr alien Voider
+
+EMERSON. Nature
+
+VENN, Symbolic Logic C. S. PEIRCE. Collected Papers, VOL n, par 219-444; VOL v,
+par 388-410 FRAZER. The Golden Bough, PART i, CH 3, 8-21; PART II, CH 5-6; PART
+III, CH 8| PART IV, BK I, CH 41 PART V, CH I-9 BRLAL. Semantics ROYCE. The World
+and the Individual, SERIES i (7) ;
+
+Supplementary Essay (2) J. C. WILSON. Statement and Inference, PART n (18)
+WHITEHEAD and RUSSELL. Pnncipia Mathematica, CH 3 WLLBY-GREGORY. What Is
+Meaning?
+
+Signifies and Language
+
+. W. E. JOHNSON. Logic, PART i, CH 6-8; PART n, cii3 WITTGENSTEIN. Tractatus
+Logico-Philosophicus QGDEN and RICHARDS. The Meaning of Meaning SANTAYANA.
+Scepticism and Animal Paith, CH 18 EATON. Symbolism and Truth EUDINGFON. The
+Nature ofthe Physical Woild, CH 12 WHITEHEAD. An Enquiry Concerning the
+Principles of Natural Knowledge, CH i
+
+.
+
+Symbolism, Its Meaning and Effects
+
+. Process and Reality, PART n, CH 8 PENIDO. Lerole de I' analogic en theologie
+dogmatique RICHARDS. Mencius on the Mind BUCHANAN. The Doctrine of Signatures,
+CH 1-2, 5-6 DEWEY. Essays in Experimental Logic, iv
+
+.
+
+Experience and Nature, CH 5
+
+.
+
+Logic, the Theory of Inquiry, CH 18 B. RUSSELL. Principles of Mathematics, CH
+4-8, 27
+
+. The Analysis of Mind, LECT 10
+
+. An Inquiry into Meaning and Truth, CH 1-6, 13-15,22 MARITAIN. The Degrees of
+Knowledge, en 2
+
+.
+
+Ransoming the Time, CH 9 M. R. COHEN. A Preface to Logic, H-IV CASSIRER.
+Language and Myth
+
+. An Essay on Man
+
+.The Myth of the State, PART i (1-3) AYER. Thinking and Meaning CARNAP.
+Foundations of Logic and Mathematics
+
+. Introduction to Semantics
+
+.
+
+Meaning and Necessity DEWEY and BENTLEY. Knowing and the Known

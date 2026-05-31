@@ -438,3 +438,733 @@ Astronomy and Cosmogony
 System and Its Orig in ABETTI. The Sun: Its Phenomena and Physical Features
 HUBBLE. The Realm of the Nebulae GAMOW. The Birth and Death of the Sun B.
 RUSSELL, Human Knowledge, Its Scope and Limits, PART i, CH 2
+
+REFERENCES
+============================================================
+
+1. The end, dignity, and utility of astronomy
+
+0 OLD TESTAMENT:^, 38:4-
+7 PLATO: Symposium, 156d / Gorgias, 254c / Republic, BK VII, 394d-396b/ Timaeus, 447a- 452b; 455b-c / Laws, BK VII, 728b-c; 729d- 730d; BK xn, 797c-798b
+8 ARISTOILE: Metaphysics, BK i, CH 2 [982 b n- 17] SOOd; BK xi, CH 6 [1063*10-17] 591b, BK xu, CH 8 [107^1-7] 603d
+9 ARISTOTLE: Parts of Animals, BK i, CH[644 b 2i-645 a 5] 168c-d
+10 HIPPOCRATFS- Airs, Waters, Places, par9b-c
+11 NICOMACHUS: Arithmetic, BK i, 812b-813a
+12 LUCRETIUS: Nature of Things, BK v [509-771] 67d-71a
+12 AURELIUS: Meditations, BK xi, SECT 27 306b
+13 VIRGIL: Aeneid, BK vi [847-853] 233b-234a
+14 PLUTARCH: Ntcias, 435b-d
+16 PTOLEMY: Almagest, BK i, 5a-6b; BK III, 83a; BK iv, 135b; BK ix, 270b-273a; BK xin,429a-b
+16 COPERNICUS: Revolutions of the Heavenly Spheres, 505a-506a; 509a-b; BK i, 510a-511a
+16 KEPLER: Epitome, BK iv, 846a-851a; 852a- 853a; 888b-890a; 929a-b; BK v, 961a-965a / Harmonies of the World, 1080a-b
+18 AUGUSTINE: Confessions, BK v, par 3-6 27c-28c / Christian Doctrine, BK II, CH 29 650d-651c
+19 AQUINAS. Summa Theologtca, PART i, Q 32, A i, REP 2 175d-178a
+21 DANTE: Divine Comedv, PARADISE, n [46-148] 108b-109b; x [i -27] 120b-c
+25 MONTAIGNE: Essays, 69d-70c; 213d-215a; 257d-259d
+31 DESCARTES* Meditations, i, 76c
+32 MILTON: Paradise Lost, BK VIIi [1-202] 232a- 236b
+33 PASCAL Pensees, 72 181a-184b; 242 217b-218a
+34 NEWTON- Principles, la-2a
+36 SWIFT: Gulliver, PART in, 94b-103a passim
+36 STERNE: Tristram Shandy, 229a
+41 GIBBON? Decline and Fall, 299b-c
+42 KANT: Pure Reason, 175b [fn i] / Practical Reason, 360d-361c
+46 HEGEL: Philosophy of Right, ADDITIONS, 120, 136c
+48 MELVILLE: Moby Dic^, 365b-367a
+54 FREUD: General Introduction, 562c / Civilization and Its Discontents, 779c / New Introductory Lectures, 832a; 876b-d
+
+2. The method of astronomy
+
+    [sem referências]
+
+2a. Observation and measurement - ments and tables instru
+
+7 PLATO: Republic, BK VH, 394d-396b/ Timaeus, 2bto2c (2. The method of astronomy . 2a, Observation and measurement - instruments and tables)
+8 ARISTOTLE: Prior Analytics, BK i, CH(46*18-27] 64a / Posterior Analytics, BK i, CH(78 b 3 1-79*7] 108b-c / Heavens, BK i, CH[270^1-24] 361c-362a; BK 11, CH 4 [287 a 3i- b i4J 379a; CH n 383b; CH 12 [292*2-9] 383c / Metaphysics, BK XH, CH 8 [io73 b i7-ic>74 a i7] 604a*c
+9 ARISTOTLE: Pans of Animals, BK i, CH i [639*7-12] 161c-d
+16 PTOLEMY: Almagest, BK i, 24b-26a; BK i-m, 29a-86b; BK III-iv, 93a-119b; BK iv-vm, 123a-269a; BK ix, 273a-290b; BK ix-xin, 296a-465b
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK ii-iu, 557b-626a; BK HI, 631b- 652b; 657b-674b; BK iv-v, 680a-739b; BK v, 744b-812a; BK vi, 818a-838a
+16 KEPLER: Epitome, BK iv, 907b-908b
+18 AUGUSTINE: Confessions, BK v, par 3-6 27c-28c / Christian Doctrine, BK II, CH 29, 651b-c
+19 AQUINAS* Summa Theologica, PART i, Q 32, A i, REP 2 175d-178a
+21 DANTE: Divine Comedy, PARADISE, n [46-105] 108b-d
+22 CHAUCER: Franklin's Tale [11,582-605] 360b
+23 HOB BBS; Leviathan, PART iv, 267a-b
+24 RABELAIS: Gargantua andPantagruel, BK i,29c
+28 HARVEY: Circulation of the Blood, 320b
+30 BACON: Novum Organum, BK i, APH 109, 129b; BK II, APH 39, 170b-c; APH 45, 176a; APH 46, 178a-b
+32 MILTON: Paradise Lost, BK i [284-291] 99 b; BK III [588-590] 148a; BK v [261-263] 181a
+33 PASCAL: Vacuum, 358a
+34 NEWTON: Principles, BK III, PHENOMENA 272a- 275a; PROP 41-42 342e-368b / Optics, BK i, 412a-423b
+35 BERKELEY: Human Knowledge, SECT 58-424a-b
+36 SWIFT: Gulliver, PART in, 102a
+41 GIBBON: Decline and Pall, 299b-c
+48 MELVILLE: Moby Dic{, 365b-367a
+54 FREUD: New Introductory Lectures, 81 5a
+
+2b. The use of hypotheses - the heliocentric and geocentric theories
+
+7 PLATO: Phaedo, 241c-242b; 247c / Republic, BK vi, 386d-387d; BK VII, 395c-396b; BK x, 438c-439a/ Timaeus, 447b-d; 452a-b / Laws, BK xn, 797d-798a
+8 ARISTOTLE: Heavens, BK i, CH 3 [270 b i-24) 361c-362a; BK II, CH i 375b,d-376a; CH381a-382a; CH n [29i b io]-CH 13 [293 b 33] 383b-385b; CH 14 [296*24-297*9] 387d>388c / Meteorology, BK i, CH 7 [344*5-9] 450b / Metaphysics, BK xn, CH 8 [1073*17-1074*17] 604a<c
+9 ARISTOTLE: Motion of Animals, CH 3 234a-c
+11 ARCHIMEDES: Sand-Reckoner, 520a-b
+12 LUCRETIUS: Nature of Things, BK v [526-533] 67d-68a; [720-730] 70c
+14 PLUTARCH: Numa Pompihus, 55a-b
+16 PTOLEMY: Almagest, BK i, 7a-8b; 9a-12b; BK III, 83a; 86b-93a; BK iv, 120a-122b; BK ix, 270b-273a; 291a-296a; BK xm, 429a-b
+16 COPERNICUS: Revolutions of the Heavenly Spheres, 505a-506a; 507a-508b; BK i, 513b- 515b; 517b-521a; BK III, 628b-629a; 653b- 656b; BK iv, 675b-678a; BK v, 740a-b
+16 KEPLER: Epitome, BK iv, 852a-853a; 857b- 860b; 887a-890a; 907b-916a; BK v, 964b; 966a-967a / Harmonies of the World, 1014b- 1016a
+19 AQUINAS: Summa Theologica, PART i, Q 32, A i, REP 2 175d-178a
+25 MONTAIGNE: Essays, 257d-261c; 276c
+28 GILBERT: Loadstone, BK vi, 107c-116a
+30 BACON: Novum Organum, BK II, APH 5, 139a; APH 36, 165c-166b; APH 46, 178b-c; APH 48, 186b-d
+32 MILTON: Paradise Lost, BK III [552-587] 147b- 148a; BK iv [589-597] 165a-b; BK VIII [66-178] 233b-236a esp [122-158] 234b-235b
+33 PASCAL: Provincial Letters, 165a / Vacuum, 368b-369a
+34 NEWTON: Principles, BK III, PHENOMENON in 273d-274a; GENERAL SCHOL, 371b-372a
+36 STERNE: Tristram Shandy, 226b-227a
+42 KANT: Pure Reason, 8d [fn 2]
+43 MILL: Liberty, 284a-b
+49 DARWIN- Origin of Species, 239c
+51 TOLSTOY: War and Peace, BK xm, 563a-b; EPILOGUE n, 694d-696d
+
+2c. The relation of astronomy to mathematics - the use of mathematics by astronomy
+
+7 PLATO: Republic, BK VII, 394d-396b / Tmaeus, 451b-c;455b
+8 ARISTOTLE' Posterior Analytics, BK i, CH[78^1-79*16] 108b-c / Physics, BK II, CH1*93 25-194*11] 270a-c / Heavens, BK II, CH[297*3-9] 388c / Metaphysics, BK HI, CH[997 b i3-998 a i9] 516b-d; BK xn, CH 8 [io73 b i- 17] 603d-604a; BK xm, CH 3 [1078*9-14] 609c
+9 ARISTOTLE: Pans of Animals, BK i, CH i [639 b 6-i2] 161c-d
+11 NICOMACHUS: Arithmetic, BK i, 813d-814a
+16 PTOLEMY: Almagest, BK i, 5a-6a; 14a-24b; 26a-28b
+16 COPERNICUS: Revolutions of the Heavenly Spheres, 507a-508a; BK i, 510a-b; 532b- 556b
+16 KEPLER: Epitome, BK v, 964b-965a; 968a- 986b passim
+18 AUGUSTINE: Confessions^ BK v, par 3-6 27c-28c / Christian Doctrine, BK II, CH 29, 651b-c
+19 AQUINAS: Summa Theologica, PART i, Q 32, A i, REP 2 175d-178a; PART I-H, Q 35, A 8, ANS 779c-780c
+20 AQUINAS: Summa Theologica, PART IX-H* Q 9, A 2, REP 3 424b-425a
+30 BACON: Advancement of Learning, 37 b; 46b-c
+31 DESCARTES: Meditations, i, 76c
+34 NEWTON: Principles, la-2a; BK III 269a~372a
+36 SWIFT. Gulliver, PART in, 94b-103a passim
+42 KANT: Practical Reason, 361c / Judgement, 551a-552a
+
+3. Causes in astronomy
+
+    [sem referências]
+
+3a. Formal archetypal causes - the number and the music of the spheres
+
+7 PLATO. Phaedo, 241b-242b / Republic, BK VH, 395d-396b; BK x, 438c-439a / Ttmaeus, 447a- 452b
+8 ARISTOTLE' Heavens, BK i, CH 2-5 359d-364a; BK II, CH 1-12 375b,d-384c / Metaphysics, BK i, CH 5 [985 b 22-986 B 2i] 503d-504b; en[989 b 29-99o a i2] 508a-b, BK xii, CH 8 603b- 605a
+11 NICOMACHUS- Arithmetic, BK i, 811a-814b
+16 PTOLEMY: Almagest, BK i, 8a; BK ix, 270b
+16 COPFRNICUS: Revolutions of the Heavenly SpJieres, BK i, 511b
+16 KhPLFR: Epitome, BK iv, 846a-847b, 857b- 860b, 863b-887a passim, 913a-b, 915b-916a; 925b-928a; 932a-933a / Harmonies of the World, 1016b-1018a; 1023b-1085b esp 1049b- 1050b
+18 AUGUSTINE: Confessions, BK v, par 3-6 27c-28c 21 D\NTE Divine Comedy, P\RADISE, i [76-126] 107a-c, xxvin [1-78] 148d-149c
+30 BACON: Novum Organum, BK II, APH 48, 185c-d
+31 SPINOZA Ethics, PART i, APPENDIX, 371d-372a
+32 MILTON. Chnsts Nativity [117-140] 4b-5a / At a Solemn Musu^ 13a-b / Arcades [54-83] 26b- 27a / Comus [238-243] 38b / Paradise Lost, BK iv [660-688] 166b-167b; BK v [153-184] 178b-179a; [616-627] 188b-189a, BK VIII [15- 168] 232b-235b
+34 NEWTON. Principles, BK III, GENERAL SCHOL, 369b-370a
+35 HUME: Human Understanding, SECT i, DIV 9, 454c-d
+36 SWIFT: Gulliver, PART in, 96b-97a
+47 GOETHE: Faust, PROLOGUE [243-246] 7a
+
+3b. Physical efficient causes - gravitation and actiona t-a-di stance
+
+8 ARISTOTLE- Heavens, BK 11, CH 8 381a 382a; CH 12 [292 b 26-293*i2] 384b-c / Meteorology, BK i, CH 4-8 447d-452d / Metaphysics, BK xn, CH 8 603b-605a csp [io73 b i7-io74*i7] 604a-c
+12 LUCRETIUS: Nature of Things, BK v [509-533] 67d-68a
+16 KEPLER: Epitome, BK iv, 895b-905a; 922a-b; 935a-952a passim; 959a-960a; BK v, 965a-967a
+28 GILBERT: Loadstone, BK vi 106a 121a,c
+30 BACON: Novum Oiganum, BK II, APH 35-162a-169c; APH 45 176a-177c; APH 48, 183b~c
+31 DESCARTES : Rules, ix, 15c / Discourse, PART v, 55b-c
+32 MILTON: Paradise Lost, BK III [573-587] 148a; BK VIII [122-158] 234b-235b
+34 NEWTON: Principles, BK III, PROP 1-9 276a- 284a esp PROP 7 281b-282b; PROP 35, SCHOL 320b-324a; GENERAL SCHOL, 371b-372a / Optics, BK III, 531b; 540a-541b
+35 BERKELEY: Human Knowledge, SECT 102-432d 434a passim
+35 HUME: Human Understanding, SECT i, DIV 9, 454c-d
+36 SWIFT- Gulliver, PART in, 94b-103a; 118b- 119a
+42 KANT: Pure Reason, 8d [fn 2]
+45 FARADAY Researches in Electricity, 670a-673d; 817a-b; 824a-b, 832b [fn i]
+51 TOLSTOY. War and Peace, EPILOGUE n, 694c- 695c
+
+4. The relation of astronomy to the other liberal arts and sciences - the place of astronomy in the educational curriculum
+
+7 PLATO- Gorgias, 254b-c / Republic, BK VII, 391b-398c csp 394d-396b / Laws, BK VII, 728b-730d; BK xn, 797b-798b
+8 ARISTOTLE. Physus, BK II, CH 2 [i93 b 25~ 194*11] 270a-c / Metaphysics, BK xi, CH[io63 a io-i7] 591b; BK xn, CH 8 [io73 b i-7] 603d
+11 NICOMACHUS: Arithmetic, BK i, 812b-813d
+13 VIRGIL: Aeneid, BK vi [847-853] 233b-234a
+16 PTOLEMY: Almagest, BK i, 5a-6a
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK i, 510a-b
+18 AUGUSTINE: Christian Doctrine, BK II, CH 29, 651b-c
+20 AQUINAS: Summa Theologica, PART II-n, Q 9, A 2, REP 3 424b-425a
+23 HOBBES- leviathan, PART i, 72a-d
+24 RABELAIS. Gargantua and Pantagruel, BK i, 29c, BK 11, 82c-d
+25 MONTAIGNE Essays, 69d-70c; 257d-259d
+30 BACON- Novum Organum, BK i, APH 80 120a-b
+31 DESCARIES Meditations, i, 76c
+
+5. Astronomy and cosmology - the theory of the world or universe as reflecting astronomical conceptions
+
+7 PLATO: Ttmaeus, 447a-452b; 455a-b
+8 ARISTOTLE: Physics, BK iv, CH 5 [2i2 b 7~2i] 291d-292a / Heavens 359a-405a,c / Meteorology, BK i, CH 1-3 445a-447d / Metaphysics, BK xii, CH 8 603b-605a
+11 ARCHIMEDES: SandReckoner, 520a-b
+12 LUCRETIUS: Nature of Things, BK i [951-1113] 12d<14d; BK II [1048-1104] 28b-29a; BK vi [647-652] 89a
+14 PLUTARCH: Numa Pompilius, 55a-b
+16 PTOLEMY. Almagest, BK i, lOb
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK i, Sllb; 516a-529a esp 5l6a-517b
+16 KEPLER: Epitome, BK iv, 853b-857b; 882a- 886b 6/(5. Astronomy and cosmology - the theory of the world or universe as reflecting astronomical conceptions.)
+17 PLOTINUS: Second Ennead, TR i 35a-39d
+21 DANTE: Divine Comedy, PARADISE, x [7-21] 120b-c
+25 MONTAIGNE: Essays, 213d<215a
+31 DESCARTES : Discourse, PART v, 54d 56a
+32 MILTON: Paradise Lost, BK II [890-920] 130b- 13U; (1010-1055) 133a-134a; BK III [418-429] 144b; [501-539! 146b-147a; [552-587] 147b- 148a; BK VII [261-273] 222b-223a; [551-557] 229a; [617-625] 230b; BK VIII [66-178] 233b- 236a; BK x [282-329] 280b-281b
+33 PASCAL: Pensets, 72 181a-184b
+34 NEWTON: Principles, BK HI, HYPOTHESIS i- PROP 12 285a-286a
+35 LOCKE: Human Understanding, BK iv, CH in,
+42 KANT: Practical Reason, 360d-361a
+51 TOLSTOY: War and Peace, EPILOGUE 11, 695c-d
+54 FREUD: General Introduction, 562c
+
+6. Astronomy and theology - astronomy as affecting views of God, creation, the divine plan, and the moral hierarchy
+
+0 OLD TESTAMENT: Genesis, i .1-19 / Joshua, 10.12- i$(D)]osuc, 10:12-13 /Job, 9:6-9; 38:1-/ Psalms, 19:1-6; 147:4 (D) Psalms, 18:1-7; 146:4 /Jeremiah, 33:22; 51:15 (D) Jeremias, 33:22; 51.
+0 APOCRYPHA: Ecclesiasticus, 43 (D) OT, Ecclesiasticus, 43 / Song of Three Children, 34-(D) OT, Daniel, r5 6- n
+0 NEW TESTAMENT* / Corinthians, 15:40-
+7 PLATO: Republic, BK VII, 396a / Timaeus, 455b-c / Statesman, 586c-589c / Laws, BK vu, 729d-730d; BK XH, 797d-798b
+8 ARISTOTLE- Physics, BK H, CH 4 [i96 m 25~ b 4] 272d-273a; BK VIII 334a-355d esp CH 4-338d-346b, CH 10 353b-355d / Heavens, BK II, CH i 375b,d-376a / Metaphysics, BK XH, CH 6-8 601b-605a
+11 NICOMACHUS: Arithmetic, BK i, 811a-814b
+12 LUCRETIUS: Nature of Things, BK v [55-771] 61d-71a esp [55-234] 61d-64a; [1161-1217] 76b-77a
+12 AURELIUS: Meditations, BK xi, SECT 27 306b
+14 PLUTARCH: Nicias, 435b-c
+15 TACITUS: Histories, BK v, 295c
+16 PTOLEMY: Almagest, BK i, 5a-6b passim
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK i, 510a-511a
+16 KEPLER: Epitome, BK iv, 853b-854a; 915b- 916a; 933a / Harmonies of the World, 1017b- 1018a; 1025a-b; 1048a; 1061a; 1071b; 1080b- 1085b
+17 PLOTINUS: Second Ennead, TR n, CH i 40a- 41a; TR ix, CH 8-9 70a-72a / Fourth Ennead, TR HI, CH 17 150d-151b
+18 AUGUSTINE: Confessions, BK v, par 3-6 27c- 28c; BK xiii, par 6-48 112a-124a / Christian Doctrine, BK H, CH 16, 644d-645a; CH650d-651c
+19 AQUINAS: Summa Theologica, PART i, Q 23, A 7, ANS and REP 2 138d-140a; Q 50, A 3, ANS and REP 3 272a-273b; Q 58, A i 300c-301a; Q 63, A i, REP 2 325c-326c; A 7, ANS 331c-332b; QQ 66-68 343d-359b; Q 70 362c-367a; Q 102, A 2, REP i 525a-526a; Q no, A i, REP 2-564c-565d; Q 115, AA 3-6 588c-592d
+20 AQUINAS: Summa Theologica, PART HI, Q 5, A 2 736d-737c; PART in SUPPL, Q 77, AA 1-943a-947a; Q 91, AA 2-3 1017c-1022c
+21 DANTE: Divine Comedy, HELL, vn [67-96] lOb-c; xxxiv [100-139] 52b-d; PARADISE, i [94-142] 107b-d; ii [46-148] 108b-109b; iv [22-63] HOd-lllb; vm [16-39] 116d-117a; [91-148] 117d-118c; x [1-45] 120b-d; xm [52- 84] 126a-b; xxn [124-154] 140d-141b; xxvn [97-120] 148b-c; xxvni 148d-150b
+25 MONTAIGNE: Essays, 213d-215a
+27 SHAKESPEARE- Troilus and Cressida, ACT i, sc in [85-101] 109a
+30 BACON: Novum Organum, BK i, APH 89 124a-d
+31 DESCARTES. Discourse, PART v, 54d-56a
+32 MILTON. Paradise Lost, BK III [694-732] 150b- 151b; BK v [153-184] 178b-179a; BK VIII [66-178] 233b-236a esp [66-84] 233b-234a
+33 PASCAL: Pensees, 72 181a-184b; 194, 207b, 242 217b-218a
+34 NEWTON: Principles, BK III, GENERAL SCHOL, 369b-371a / Optics, BK III, 542a-543a
+41 GIBBON: Decline and Pall, 226a-b; 227b-c
+42 KANT: Practical Reason, 360d-361a
+47 GOETHE: Faust, PROLOGUE [243-266] 7a-b
+49 DARWIN: Origin of Species, 239c-d
+51 TOLSTOY* War and Peace, EPILOGUE n, 695d- 696d
+54 FREUD: General Introduction, 562c / New In- troductory Lectures, 832a, 876b-d
+
+7. Astronomy and the measurement of time - calendars and clocks; days and seasons
+
+0 OLD TESTAMENT: Genesis, 1.4-5,14-18 / Isaiah, 38:7-8; 60:19-21 (D) Isaias, 38:7-8; 60:19- 21 /Jeremiah, 33:20,25 (D) Jeremias, 33:20,
+0 APOCRYPHA: Ecclesiasticus, 43:6-8 (D) OT, Ecclesiasticus, 43:6-
+0 NEW TESTAMENT: Revelation, 21:23-24; 22:(D) Apocalypse, 21:23-24; 22:
+5 AESCHYLUS: Prometheus Bound [454-461] 44c-d
+5 ARISTOPHANES: Clouds [607-626] 496a-b
+6 HERODOTUS: History, BK II, 49d-50a; 79c
+6 THUCYDIDES: Peloponnesian War, BK v, 487d
+7 PLATO: Republic, BK VII,394d-396b/ Timaeus, 451a-d
+8 ARISTOTLE: Physics, BK iv, CH 14 [223 b i2- 224*1] 303c-d / Metaphysics, BK x, CH i 2] 579b-c CHAPTER 5: ASTRONOMY
+9 ARISTOTLE: Generation of Animals, BK iv, CH 10 [777 b i6~778 a 9] 319d-320a,c
+12 LUCRETIUS: Nature of Things, BK v [614-750] 69a-70d
+14 PLUTARCH: Numa Pompilius, 58d-59c / Solon, 74a / Caesar, 599d-600a
+16 PTOLEMY: Almagest, BK II, 34b-38a; BK HI, 77a-86b; 104b-107a
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK i, SlOb; BK II, 568a-576a; BK III, 646a-652b; 672a-674b
+17 PLOTINUS: Third Ennead, TR VH, CH 7-8 122d- 124c; CH 11-13 126a-129a
+18 AUGUSTINE: Confessions, BK xi, par 29-95d-96c / City of God, BK xi, CH 6 325c-d; BK xn, CH 15 351b-352d
+19 AQUINAS: Summa Theologica, PART i, Q 10, A 6, ANS 45c-46d; Q 67, A 4, ANS and REP 2-352a-354a; Q 70, A 2, ANS and REP 3,5 364b- 365a
+20 AQUINAS : Summa Theologica, PART in SUPPL, Q 77, A 2, ANS 945a-946b; Q 91, A 2, REP 1-3, 5,8 1017c-1020c
+21 DANTE: Divine Comedy, HELL, i [37-45] Ib-c; PURGATORY, i [13-21] 53a-b; n [1-9] 54c; iv [55-84] 58a-b; ix [1-12] 65d-66a; xv [1-15] 75b-c; xxv [1-9] 91b-c; xxvn [1-6] 94c; PARA- DISE, i [38-48] 106c; x [28-33] 120c ; xxv [97-120] 148b-c
+23 HOBBES: leviathan, PART iv, 267b
+24 RABELAIS: Gargantua and Pantagruel, BK 11, 69b,d-70a
+25 MONTAIGNE: Essays, 497b-c
+30 BACON: Novum Organum, BK II, APH 46, 177c-178b
+32 MILTON: Paradise Lost, BK III [40-44] 136b; [555-623] 147b-149a; [726-732] 151a; BK v [166-179] 179a; BK VIIi [66-84] 233b-234a; BK x [651-679] 288b-289a
+34 NEWTON: Principles, DEFINITIONS, SCHOL, 9b- lOa; BK III, PROP 20 291b-294b
+35 LOCKE: Human Understanding, BK II, CH xiv, SECT 17-31 158a-162a
+36 SWIFT: Gulliver, PART iv, 169a
+36 STERNE: Tnstram Shandy, 229a
+41 GIBBON: Decline and Fall, 376a-b
+46 HEGEL: Philosophy of History, PART i, 219a-b; 251a-b
+
+8. The heavenly bodies in general
+
+    [sem referências]
+
+8a. The special character of matter in the supra-lunar spheres
+
+0 NEW TESTAMENT: / Corinthians, 15:40-
+7 PLATO: Phaedo, 247b-248c / Timaeus, 448a- 449c; 451d-452a / Laws, BK XH, 797d-798a
+8 ARISTOTLE: Heavens, BK i, CH 3 [27o a i2- b 26] 361b-362a; BK i, CH 9 [279*i2]-BK 11, CH i [284 b 6) 370b-376a; BK II, CH 7 380c-d / Metaphysics, BK VIIi, CH 4 [i<>44 b 2-8] 569a-b; BK ix, CH 8 [i<>50 b 6-27] 576b-d; BK XI,CH 6 [io63*io17] 591b; BK xn, CH a [1069^4*27] 598d-599a
+9 ARISTOTLE: Parts of Animals, BK i, CH[6 44 b 2i-645 a 5] 168c-d
+12 LUCRETIUS: Nature of Things, BK i [418-448] 6b-c; [1052-1094] 14a-c; BK v [534-563] 68a-b
+16 PTOLEMY- Almagest, BK i, 5a-6a; 8b; lOb-llb; BK xin, 429a-b
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK i, 517b-518a; 519b-520a
+16 KEPLER: Epitome, BK iv, 853b-857b; 888b- 890b; 894a-b; 904b-905a; 919b; 929b-930b; 931b-932a;934b-935b
+17 PLOTINUS: Second Ennead, TR i 35a-39d / Third Ennead, TR v, CH 6 103b-104a
+19 AQUINAS: Summa Theologica, PART i, Q 10, A 5, ANS 44b-45c; A 6, REP 2 45c-46d; Q 46, A i, REP 2-3,5 250a-252d; Q 55, A 2, ANS 289d-290d; Q 58, A i, ANS 300c-301a; A 3, ANS 301d-302d; Q 63, A i, REP 2 325c-326c; Q 66, A 2 345d-347b; Q 68, A i, ANS 354a-355c; Q 70, A 3, ANS and REP 2 365b-367a; Q 75, A 6, ANS 383c-384c; Q 84, A 3, REP i 443d-444d; Q 97, A i, ANS 513c-514c; Q 104, A i, REP 1,534c-536c; Q 115, A 3, ANS 588c-589c; Q 119, Ai,ANs604c-607b
+20 AQUINAS: Summa Theologica, PART i-ii, Q 49, A 4, ANS 5a-6a; PART in, Q 5, A 2, ANS and REP 3 736d-737c; PART in SUPPL, Q 91, A 3, REP1020d-1022c
+21 DANTE: Divine Comedy, PURGATORY, in [28- 30] 56a; PARADISE, n [19-45] 108a; [112-148] 109a-b; xxvin [1-78] 148d-149c
+25 MONTAIGNE: Essays, 213d-215a; 257d-258b
+28 GILBERT: Loadstone, BK vi, HOb-c
+30 BACON: Novum Organum, BK II, APH 13, 146c- 147a
+33 PASCAL: Vacuum, 358a
+34 NEWTON: Principles, BK III, RULE in 270b- 271a; PROP 1-7 276a-282b esp PROP 7 281b- 282b
+41 GIBBON: Decline and Fall, 226b
+
+8b. Soul and intellect in the heavenly bodies
+
+7 PLATO Phaedrus, 124c-d/^/>o/o^,204d-205a / Timaeus, 449b-450c; 451d-452b / Philebus, 618b-619c / Laws, BK x, 762b-765c csp 764a- 765c; BK xn, 797c-798b
+8 ARISTOTLE: Heavens, BK II, CH 1-2 375b,d- 377c; CH 12 383b-384c / Metaphysics, BK xn, CH 8 603b-605a / Soul, BK i, CH 3 [406^6- 407 b i3] 636b-637b
+12 LUCRETIUS : Nature of Things, BK v [76-90) 62a-b; [110-145] 62c-63a
+13 VIRGIL: Aenetd, BK vi [724-738] 230b
+16 KEPLER: Epitome, BK iv, 854b-856a; 890a- 895b; 896a-897a; 914a-b; 930 b; 932a-933a; 959a-960a / Harmonies of the World, 1080b- 1085b esp 1083b-1085b
+17 PLOTINUS: Second Ennead, TR H-III 40a-50a / Third Ennead, TR n, CH 3, 84b; TR iv, CH 6, 99d; TR v, CH 6 103b-104a / Fourth Ennead, TR iv r CH 6-8 161b-162d; CH 22-27 168d-172a; (8. The heavenly bodies in general. 8b. Soul and intellect in the heavenly bodies.) CH 30 174b-c; en 35, 177c; CH 42 180d-181b; TR VIII, CH 2, 202a
+18 AUGUSTINE: City of God, BK VII, CH 6 248a-b
+19 AQUINAS: Sumtna Theologica, PART r, Q 18, A i, REP 1 104c-105c, Q 47, A i, ANS 256a-257b; Q 50, A 3 272a-273b; Q 51, A 3, REP 3 277a- 278c; Q 52, A 2 279b-280a; Q 66, A 2, ANS 345d-347b; Q 70, A 3 365b-367a; Q no, A i, REP 2-3 564c-565d; A 3, ANS 566d-567b; Q 115, A 4, REP i 589d-590c; Q 117, A 4, REP i 599b-d; PART i-n, Q 6, A 5, REP 2 648b-649a
+20 AQUINAS- Sumtna Theologica, PART HI SUPPL, Q 79, A i, ANS 951b-953b; Q 91, A 2, REP1017c-1020c
+21 DANTE: Divine Comedy, HELL, vn [67-96] lOb-c; PARADISE, i [103-126] 107b-c, n [112- 138] 109a; vni [16-39] 116d-117a, [97-114] 118a, xin [52-72] 126a, XXVIH 148d-150b, xxix [37-45] 150c
+25 MONIAIGNE. Essays, 213d-215a
+28 GILBERT' Loadstone, BK II, 38b; BK v, 104b- 105d
+33 PASCAL: Pens^es, 482 258a
+41 GIBBON: Decline and Fall, 226b
+47 GOETHE: Faust, PROLOGUE [243-270] 7a-b
+
+8c. Celestial motion - periodicity and the great year
+
+7 PLATO Republic, BK x, 438c-439a / Ttmaetts, 451a-452b / Statesman, 586c-587b / Laws, BK VII, 730a-c SARisroiLh- Heavens, BK i-n 359a-389d / Metaphysics, BK XH, CH 8 603b-605a
+9 ARISTOTLE: Motwn of Animals, CH 3 [699*11]- CH 4 [700*5] 234a-235a
+12 LUCRETIUS. Nature of Things, BK v [509-533] 67d-68a, [614-6 19] 69a-c
+12 AURELIUS* Meditations, BK vi, SFCT 13 271b; BK xi, SECT 27 306b
+16 PTOLFMY: Almagest, BK i, 7a-8b; 12b-14a; BK iv, 109a-112b
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK i, 513b-514b
+16 KEPLER Epitome, BK iv, 928a-933a
+17 PLOTINUS- Second Ennead, TR n, CH i 40a-41a / Fourth Ennead, TR iv, CH 8, 162 b-d
+18 AUGUSTINF Confessions, BK v, par 3-6 27c-28c / Christian Doctrine, BK II, CH 29, 65lb-c
+19 AQUINAS: Summa Theologica, PART i, Q 32, A i, REP 2 175d-178a; Q 115, A 3, ANS 588c- 589c
+20 AQUINAS. Summa Theologica, PART II-n, Q 2, A 3, ANS 392d-393c
+21 DANTE: Divine Comedy, PARADISE, n [112- 148] 109a-b; xxvn [97-120] 148b-c; xxvm [1-78] 148d-149c
+28 GILBERT: Loadstone, BK vi, HOb-c
+28 GALILEO: Two New Sciences, FOURTH DAY, 245b-d
+30 BACON: Novum Organum, BK II, APH 46, 177d; APH 48, 185c-d
+32 MILTON: Paradise Lost, BK III [726-732] 151a; BK VII [339-386] 224b-225b
+34 NEWTON. Principles, BK 11, PROP 53, SCHOL 266a-267a
+35 LOCKE: Human Understanding, BK II, CH xiv, SECT 19-22 158b-159d passim
+54 FREUD: Civilization and Its Discontents, 779c
+#8c(1)  The eternity of celestial motion
+7 PLATO: Timaeus, 447b-c; 450b-451a; 460c-d
+8 ARisroTLE'P^/a,BKVin,cH i-2 334a-337b; CH 8-9 348b-353b / Heavens, BK i, CH[269 b 2-io] 360c-d; CH 3 [27o b i7~26] 361d- 362a; CH 9 [279*i2- b 4] 370b-d; BK II, CH i 375b,d-376a; CH 6 379c-380c / Metaphysics, BK ix, CH 8 [io5o b 20-27] 576c-d, BK xu, CH[1073*3-10] 603a-b; CH 8 [1073*26-38] 603c
+12 LUCRETIUS* Nature of Things, BK v [55-70] 61d-62a; [110-125] 62c-d; [235-246] 64a-b, [351-379] 65c-66a; [1209-1217] 76d-77a; BK vi [601-607] 88b
+12 AURELIUS: Meditations, BK ix, SECT 28 293d- 294a
+16 PTOLEMY: Almagest, BK xm, 429a-b
+16 KEPLER: Epitome, BK iv, 846a-848b; 888b- 891a
+17 PLOIINUS Second Ennead, TR ix, CH 3-5, 67b- 68b; CH 7-8 69c-70d / Third Ennead, TR vn, CH 7-8 122d-124c; CH 11-13 126a-129a / Fourth Ennead, TR iv, en 7-8 161d-162d
+19 AQUIN\S Summa Theologica, PART i, Q 10, A 2, RIP 2 41d-42c; A 4, ANS 43b-44b; A 5, ANS 44b-45c
+20 AQUINAS: Summa Theologica, PART in SUPPL, Q 77, A 2, ANS 945a-946b, Q 91, A 2 1017c-1020c
+21 DANTE Divine Comedy, PARADISE, i [73-81] 107a
+30 BACON: Novum Organum, BK II, APH 35, 163a-b
+34 NhwioN: Principles, BK HI, PROP 10 284a- 285a / Optics, BK III, 540a-541b
+36 SWIPT: Gulliver, PART HI, 98a-b
+#8c(2) The form of celestial motion - circles, the equant, ellipses
+7 PLATO Republic, BK VII, 394d-396b; BK x, 438c-439a / Timaeus, 451a-452b / Laws, BK VII, 730a-d
+8 ARISTOTLE : Physics, BK VIII, CH 8-9 348b-353b / Heavens, BK i, CH 2-5 359d-364a; BK II, CH[287*2-31] 378c-379a; CH 5 379b-c; CH 8 381a- 382a; CH 12 [293*4-14] 384c/ Metaphysics, BK xu, CH 6 [io7i^32]-CH 7 [1072*22] 601d-602b; CH 8 [1073^*17-1074*14] 604a-c
+16 PTOLEMY: Almagest, BK i, 7a-8b; BK III, 83a; 86b; BK v, 148b-157a; BK ix, 270b; 291a-296a
+16 COPERNICUS: Revolutions of the Heavenly Spheres, 507a-508a; BK i, 513b-514b; BK III, 628b-629a; BK iv, 675b-678a esp 677b~678a; BK v, 740a-b; 784b-785b 8<r(3) to 9a
+16 KEPLER: Epitome, BK iv, 888b-893b; 929a- 933a; BK v, 968a-979b esp 975a-977b; 984b- 985b / Harmonies of the World, 1018a-b
+17 PLOTINUS: Second Ennead, TR i, CH 8 39c-d
+19 AQUINAS: Summa Theologica, PART i, Q 66, A 2, ANS 345d-347b
+20 AQUINAS: Summa Theologica, PART in SUPPL, Q 77, A 2, ANS 945a-946b
+28 GILBERT: Loadstone, BK vi, HOb-d
+28 GALILEO: Two New Sciences, FOURTH DAY, 245b-d
+30 BACON: Novum Organum, BK II, APH 48, 186b-d
+32 MILTON- Paradise Lost, BK v [616-627] 188b- 189 a
+33 PASCAL: Pensees, 72, 181a
+34 NEWTON. Principles, BK i, PROP n 42b-43b; PROP 17 48b-50a
+#8c(3) The laws of celestial motion - celestial mechanics
+16 KEPLER- Epitome, BK iv, 888a-895b passim, 897a-907a passim, esp 897a, 904b-905a; 933a- 952a passim; BK v, 975a-979b / Harmonies of the World, 1018a-b; 1019b-1020b
+34 NEWTON- Principles, BK i, PROP 1-3 and SCHOL 32b-35b; PROP 4, COROL vi 36a; PROP 11-42b-46a esp PROP n 42b-43b; PROP 15 46b- 47a; PROP 17 48b-50a; BK II, PROP 51-53 and SCHOL 259a-267a, BK III 269a-372a passim, esp RULE i-in 270a-271a, PHENOMENON I-PROP272a-282b, PROP 13 286a-b, PROP 35, SCHOL 320b-324a, PROP 40 337b-338a, GENERAL SCHOL, 369a, 371b-372a
+35 HUME: Human Understanding, SECT i, DIV 9, 454c-d
+42 KANT: Pure Reason, 8d [fn 2]
+51 TOLSTOY: War and Peace, BK xni, 563b; EPILOGUE ii, 694d-695c
+
+8d. The creation of the heavens
+
+0 OLD TESTAMENT: Genesis, 1:1-8,14-19; 2-1-4 / Nehemiah, 9:6 (D) // Esdras, 9:6 /Job, 26*7; 37:18; 38 / Psalms, 8:3-4; r 9 :i 89:11; 102:25; 136:5-9; 148:1-6 (D) Psalms, 8:4-5; 18-2; 88:121101:26; 135:5-9; i $\i-6/ Proverbs, y 19', 8:27 / Jeremtah, 31:35; 51:15 (D) Jeremtas, 31:35; 51:15 / Amos, 5:
+0 NEW TESTAMENT: Acts, 14:15; 17:24 (D) Acts, 14:14; 17:24 / Hebrews, 1:10 / // Peter, 3:5 / Revelation, 14:7 -(D) Apocalypse, 14:
+7 PLATO: Timaeus, 450c-452b
+8 ARISTOTLE: Physics, BK VIII, CH i [25i b i3-i9J 335b / Heavens, BK i, CH 10-12 370d-375d
+9 ARISTOTLE: Parts of Animals, BK i, CH i [64^13-29] 164c-d
+12 LUCRETIUS: Nature of Things, BK v [416-508] 66c-67c; [1204-1213] 76d
+18 AUGUSTINE: Confessions, BK xi, par 4-90a-92b; BK xn, par 2-9 99c-101c; par 14-102b-110a*, BK XIH, par 6-48 112a-124a / City of God, BK xi, CH 7 326a-c; CH 9 326d-327d; CHAPTER 5: ASTRONOMY CH 19-21 332b-333d; CH 23 334c-335c; BK xn, CH 15 351b-352d
+19 AQUINAS: Summa Theologica, PART i, Q 46, A i, REP 2-3,5 250a-252d; A 3, ANS and REP i 255a-d; Q 66, A i, ANS and REP to CONTRARY 343d-345c; A 3 347b-348d; A 4, ANS and REP348d-349d; Q 67, A 4 352a-354a; Q 68, A i 354a-355c; Q 70, A A 1-2 362c-365a
+21 DANTE: Divine Comedy, HELL, vn [73-81] lOb; PARADISE, vii [121-148] 116b-c; x [1-6] 120b; xxix [13-45] 150b-c
+28 GALILEO: Two New Sciences, THIRD DAY, 214d
+30 BACON: Advancement of Learning, 17b-d
+31 DESCARTES: Discourse, PART v, 54b-56a
+32 MILTON: Paradise Lost, BK HI [708-735] 150b- 151b; BK VII [192-386] 221b-225b; BK VIII [15-178] 232b-236a
+34 NEWTON: Optics, BK III, 542a-543a
+
+9. The particular heavenly bodies
+
+    [sem referências]
+
+9a. The sun - its position, distance, size, and mass
+
+0 OLD TESTAMENT- Joshua, 10:12-14 (D) Josuc, 10:12-14 / Psalms, 136:7-8 (D) Psalms, 135:7-8 / Isaiah, 13:9-11; 30:26; 60:19-(D) Isaias, 13:9-11; 30:26; 60:19-20 / Joel, 2:10,31; 3-15 / Amos, 8:
+0 APOCRYPHA- Ecclesiasticus, 43:1-5 (D) OT, Ecclesiasticus, 43:1-
+0 NEW TESTAMENT: Matthew, 24:29-30 / MarJ^ 13:24-25/1^,23:44-
+6 HERODOTUS: History, BK II, 53d-54b; 79c; BK iv, 130d-l3la
+6 THUCYDIDES: Peloponnesian War, BK II, 394c
+7 PLATO: Cratylus, 98a / Apology, 204d-205a / Republic, BK vi, 385c-386c / Timaeus, 451b-d
+8 ARISTOTLE: Heavens, BK II, CH 7 [289*26-35] 380d; CH 12 [29i b 29~292 b 27]383c-384b; CH[293^4-294*12] 385c / Meteorology, BK i, CH[345 b i-9] 451c-d
+11 ARCHIMEDES: Sand-Reckoner, 520a-b
+12 LUCRETIUS: Nature of Things, BK v [564-574] 68b-c; [592-704] 68d-70b; [751-771] 70d-71a
+14 PLUTARCH: Pericles, 138d
+16 PTOLEMY: Almagest, BK III 77a-107a; BK v, 171b-182b; BK vi, 215a-222b
+16 COPERNICUS : Revolutions of the Heavenly Spheres, BK i, 520b-529a; BK III, 646a-674b; BK iv, 710b-714a; 716a-731a
+16 KEPLER: Epitome, BK iv, 854b-856a; 857b- 860b; 873a-876a; 882a-883b; 885b-886b; 895b-905a; 907b-916a passim / Harmonies of the World, 1014b-1016a; 1080b-1085b
+18 AUGUSTINE: City of God, BK III, CH 15, 176d- 177a
+19 AQUINAS : Summa Theologica, PART i, Q 70, A i, REP 5 362c-364b; Q 119, A r, ANS 604c-607b
+20 AQUINAS: Summa Theologica, PART HI SXTPPL, Q 91, A i, REP i 1016b-1017c; A 2 1017c-1020c
+21 DANTE: Divine Comedy, PURGATORY, iv [55- 84] 58a-b; PARADISE, i {38-63] 106c-d; x [1-48] 120b*d to 9d (9. The particular heavenly bodies. 9a. The sun - it$ position, distance, size, and mass.)
+25 MONTAIGNE: Essays, 257d-258b
+28 GILBERT: Loadstone, BK vi, 112d-113a
+30 BACON: Novum Organum, BK II, APH 36, 165c-166b
+31 DESCARTES: Discourse, PART v, 54d-56a passim / Objections and Replies, 231a; 233c
+32 MILTON: Paradise Lost, BK HI [555-623] 147b- 149a; BK iv [539-543] 164a; BK VII [354-373] 224b 225a; BK VIII [66-168] 233b-235b
+33 PASCAL: PensSes, 72, 181a
+34 NEWTON: Principles, BK i, PROP 66 118a-128b; BK III, PHENOMENON in 273d-274a; PROP276a-b; HYPOTHESIS I-PROP 12 285a-286a; PROP 25 299b-300b; PROP 36 324a-b; PROP337b-338a / Optics, BK III, 518a-b
+36 SWIFT. Gulliver, PART HI, 98a-b
+45 FARADAY: Researches in Electricity, 819d
+#9b, The moon - its irregularities
+0 OLD TESTAMENT: Genesis, 1:14-18 / Psalms, 1367-9 (D) Psalms, 1357-9 / Isaiah, iv9- n; 30:26; 60:19-20 (D) Isaias, 13-9-11; 30-26; 60: 1 9-20 /Joel, 2-10,31; 3:
+0 APOCRYPHA: Ecclesiasticus, 43.6-8 (D) OT, Ecclesiasticus, 43*6-
+0 NEW TESTAMENT: Matthew, 24:29-30 / Mar\, 13.24-
+7 PLATO. Cratylus, 98a-b/ Apology, 204d-205a / Timaeus, 451b-d
+8 ARISIOFLE: Heavens, BK II, CH n [29i b i8-23] 383b; en 12 [29i b 29~292 b 27] 383c-384b; CH
+12 LUCRETIUS. Nature of Things, BK v [471-479] 67b; [575-584] 68c; [629-649] 69b-c; [705- 771] 70b-71a
+14 PLUTARCH: Solon, 74a / Aemilius Paulus, 220d-221b / Ntctas, 435b-d / Dion, 789b- 790a
+16 PTOLEMY: Almagest, BK iv-vi 108a-222b
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK iv 675a-731a
+16 KEPLLR: Epitome, BK iv, 876a-878a; 918a- 928a; 952a-960a
+17 PLOTINUS: Second Ennead, TR in, CH 5, 43d- 44a
+19 AQUINAS: Summa Theologica, PART i, Q 70, A i, REP 5 362c-364b
+21 DANTE: Divine Comedy, PARADISE, n [46-148] 108b-109b
+24 RABELAIS: Gargantua and Pantagruel, BK III, 188c
+26 SHAKESPEARE: Romeo and Juliet, ACT n, sc n [107-110] 295b / Midsummer-Night's Dream, ACT ii, sc i [103-114] 357a-b
+30 BACON: Novum Organum, BK II, APH 36, 167a-b
+32 MILTON: Paradise Lost, BK II (662-666] 125b; BK III [708-735] 150b-151b; BK v [257-266] 180b-181a; BK VII [346-386] 224b-225b; BK VHI [122-158] 234b-235b / Samson Agonistes [86-89] 341b
+33 PASCAL: Provincial Letters, 164a / Pensees,174b-175a; 817, 330b
+34 NEWTON: Principles, BK i, PROP 43-45 92b- lOla; PROP 66 118a-128b; BK HI, PHENOMENON vi 275a, PROP 3-4 and SCHOL 276b-278b; PROP 22-38 294b-329a
+34 HUYGENS: Light, CH i, 554b-555a
+
+9c. The planets - their eccentricities, retrogradations, and stations
+
+7 PLATO: Republic, BK x, 438c-439a / Timaeus, 451a-d
+8 ARISTOTLE- Heavens, BK 11, CH 2 [285^8-33] 377b-c; CH 7-12 380c-384c / Metaphysics, BK xii, CH 8 603b-605a
+16 PTOLEMY: Almagest, BK ix-xin 270a-465b
+16 COPERNICUS- Revolutions of the Heavenly Spheres, BK i, 521b-529a; BK v-vi 732a-838a
+16 KFPLLR: Epitome, BK iv, 860b 872b, 878b- 88 2a; 888b-905a; 907b-910a; 928a-952a passim; BK v 961a-1004a / Harmonies of the World, 1015b-1080b
+17 PLOHNUS: Second Ennead, TR HI, CH 5, 44a
+19 AQUINAS: Summa Theologica, PART i, Q 32, A i, REP 2 175d-178a
+21 DANTE. Divine Comedy, PARADISE, n [46-148] 108b-109b; x [1-27] 120b-c; xxn [124-154] 140d-141b
+24 RABELAIS. Gargantua and Pantagruel, BK i, 29c
+30 BACON: Novum Organum, BK II, APH 36, 165c-166b
+31 DESCARTES: Discourse, PART v, 54d-56a passim
+32 MILTON: Paradise Lost, BK HI [481-483] 146a; [573-587] 148a; BK v [166-170] 179a; [618-627] 188b-189a; BK VII [557-564] 229a-b; BK VIII [122-152] 234b-235b; BK ix [48-51] 248b; BK x [657-661] 288b
+33 PASCAL: Vacuum, 368b-369a
+34 NEWTON: Principles, BK i, PROP 1-3 and SCHOL 32b-35b; PROP 4, COROL vi 36a; PROP ii 42b-43b; PROP 15 46b-47a; PROP 17 48b- 50a; PROP 57-63 lllb 115a; PROP 65-116b-130b; BK HI, PHENOMENON i-v 272a- 275a; PROP 1-2 276a-b; PROP 5-6 278b- 281 b; PROP 8-10 282b-285a; PROP 13-19 286a- 291b
+34 HUYGENS: Light, CH i, 556a-557b
+36 SWIFT: Gulliver, PART in, 102a
+36 STERNE: Tristram Shandy, 227a
+45 FOURIER: Theory of Heat, 171b
+45 FARADAY: Researches in Electricity, 632b
+51 TOLSTOY: War and Peacc> BK xin, 563b
+
+9d. The earth - its origin, position, shape, and motions
+
+0 OLD TESTAMENT: Genesis, 1:1-10 I Job, 38:4-7 / Psalms, 90:2; 102:25; 119:90 (D) Psalms, 89:2; 101 :26; 118:90 / Proverbs, 3:19; 8:23-29 / 9<r toCHAPTER 5: ASTRONOMY Isaiah, 45:12; 48:13 (D) Isaias, 45:12; 48:/ Jeremiah, 51 .-15 (D) Jcremtas, 51:
+0 NEW TESTAMENT: Hebrews, i .
+7 PLATO: Phaedo, 241b-242b; 247b-c/ Timaeus, 452a-b
+8 ARISTOTLE' Heavens, BK 11, CH 13-14 384d- 389d
+9 ARISTOTLE : Motion of 'Animals, CH 3 [699*27]- CH 4 [699^9] 234b-23Sa
+11 ARCHIMEDES Sand-Reckoner, 520a-b
+12 LUCRETIUS. Nature of Things, BK v [416-508] 66c-67c; [534-563] 68a-b
+14 PLUTARCH: Numa Pompihus, 55a-b
+16 PTOLEMY: Almagest, BK i, 8b-12b; BK II, 40a- 44b
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK i, 511b-513a, 514b-521a; 529a- 532a
+16 KEPLER- Epitome, BK iv, 854a-b; 873a-876a; 911b-928a
+17 PLOTINUS: Fourth Ennead, TR iv, CH 26-171b-172a
+28 GILBERT: Loadstone, BK i, 23b-25d; BK vi 106a-121a,c
+30 BACON Novum Organum, BK II, APH 36, 165c-166b
+31 DESCARILS: Discourse, P\RT v, 54d-56a passim
+32 MILTON: Paradise Lost, BK III [702 -734] 150b- 151b; BK iv [996-1004] 174a, BK v [577-579] 187b-188a; BK VII [216-337] 221b-224b; BK VIII [15-38] 232b-233a, [66-168] 233b-235b; BKIX [99-118] 249b-250a; BK x [668-678] 289a
+33 PASCAL: Provincial Letters, 165a/ Pensees, 72, 181a / Vacuum, 368b-369a
+34 NEWTON: Principles, BK i, PROP 66, COROL xxn 127b-128b, BK III, PROP 18-21 288b-294b
+35 BERKELEY: Human Knowledge, SECT424a-b
+36 SWIFT Gulliver, PARI in, 98a-b
+45 FARAD \Y* Researches in Electricity, 819d
+51 TOLSTOY: War and Peace, BK xm, 563b; EPILOGUE n, 695d-696d
+
+9e. The fixed stars - the precession of the equinoxes
+
+0 OLD TESTAMENT: Genesis, 1*14-18 / Psalms, 1367-9 (D) Psalms, 135:7-
+0 APOCRYPHA. Ecclesiasticus, 43:9-10 (D) OT, Ecclesiasticus, 43:9-
+7 PLATO: Timaeus, 451d-452a
+8 ARISTOTLE: Heavens, BK 11, CH 7-12 380c- 384c / Meteorology, BK i, CH 8 [345 b i~9] 451c-d
+11 ARCHIMEDES: Sand-Reckoner, 520a b
+12 LUCRETIUS: Nature of Things, BK v [509-533] 67d-68a; [585-591] 68d
+14 PLUTARCH: Lysander, 358d-359c
+16 PTOLEMY: Almagest, BK i, 7a-8b; BK III, 77a- b; BK VII-viii 223a-269a
+16 COPERNICUS: Revolutions of the Heavenly Spheres, BK i, 517b-520b; BK II, 585b-621b; BK III, 622a-652b esp 622a-646a
+16 KEPLER: Epitome, BK iv, 882a-887a; 88 7 b- 888a; 918a 19AguiN\s - Summa Theologica, PART i, Q 70, A i, REP 5 362c-364b
+21 DAN i E* Divine Comedy, PARADISE, n [46-148) 108b-109b
+24 RABELAIS: Gargantua and Pantagrud, BK I, 29c, BK II, 69d-70a
+28 GILBERT: Loadstone^ BK vi, 107c-116a; 117c- 121a,c
+30 BACON: Novum Organum, BK II, APH 36, 165c- 166b; APH 48, 185c-d
+32 MILTON: Paradise Lost, BK III [481-483] 146a; BK iv [641-676] 166b-167a; BK VII [346-352] 224b; BK VIII [15-38] 232b-233a; BK x [651- 667] 288b-289a
+34 NEWTON: Principles, BK i, PROP 66, COROL xx-xxi 126b-127b; BK III, PROP 21 294b; LEMMA I-PROP 39 329a-333a / Optics, BK i, 419a-b
+36 SWIFT: Gulliver, PART in, 102a
+
+9f. The comets and meteors
+
+8 ARISTOTLE: Meteorology, BK i, CH 4 447d- 448d, CH 6-8 449b-452d
+14 PLUTARCH* Lytander, 358d-359c
+16 KEPLFR: Epitome, BK iv, 856b 21 D AN rt. Divine Comedy, PARADISE, xv [13-24] 128c
+30 BACON: Novum Organum, BK II, APH159c-d, APH 35, 163a-b; APH 36, 166a-b
+32 MILTON* Paradise Lost, BK i [535-537] 105a; [742-746] 109b; BK ii [706-711] 126b; BK iv [555-560] 164b; BK xii [632-644] 333a
+33 PASCAL: Vacuum, 358a
+34 NEWTON: Principles, BK III, LEMMA 4-pRop333a-368b; GENERAL SCHOL, 369a
+36 SWIFT* Gulliver, PART in, 98a-b; 102b
+41 GIBBON: Decline and Fall, 68c-69a; 615a-b [n 74-81]
+51 TOLSTOY. War and Peace, BK VIII, 340d- 341a,c
+
+10. The influence of the heavenly bodies upon terrestrial phenomena
+
+6 HERODOTUS: History, BK II, 79c
+7 PLATO: Theaetetus, 518b / Statesman, 586c- 589c
+8 ARISTOTLE: Heavens, BK i, CH 9 [279*22-30) 370c; BK II, CH 3 377c-378a / Meteorology \ BK i, CH 2 445b-d / Metaphysics, BK xn, CH[1072*9-18] 602a
+10 HIPPOCRATES: Airs, Waters, Places, par 1-9a-12a passim, par 10-11 13b-14b
+19 AQUINAS: Summa Theologica, PART r, Q 18, A i, REP 1 104c-105c; Q 19, A 6, ANS 113c-114d; Q 65, A 4, REP 3 342b-343c; Q 67, A 3 351b- 352a; Q 82, A 4, ANS 434c-435c; Q 86, A 4, REP 2-3 463d-464d; Q 103, A 5, REP i 531b- 532b; Q no, A i, REP 2-3 564c-565d; Q 115, AA 3-6 588c-592d; Q 116, A i, ANS 592d- 593d 100/(10. The influence of the heavenly bodies upon terrestrial phenomena,)
+20 AQUINAS: Summa Theologica, PART HI SUPPL, Q 76, A i, REP 2 939d-941a; Q 77, A i, ANS 943a-944d; Q 86, A 2, ANS and REP 1-2 993c- 994d; Q 91, A i, REP i 1016b-1017c
+21 DANTE: Divine Comedy, PARADISE, n [112- 148] 109a-b; vn [121-141] 116b-c; vm [97-114] 118a; x [1-27] 120b-c; xm [52-78] 126a-b
+22 CHAUCER: Miller's Talc [3187-3212] 212b- 213a; [35'3-3533l 218a
+24 RABELAIS: Gargantua and Pantagruel, BK II, 72c
+27 SHAKESPEARE: Troilus and Cressida, ACT i, sc in [85-101] 109a
+28 GILBERT: Loadstone, BK i, 14a
+32 MILTON: Arcades [61-73] 26b / Paradise Lost, BK III [606-612] 148b; BK iv [660-688] 166b- 167b; BK VIII [85-106] 234a-b; BK x [641-719] 288b290a
+33 PASCAL: Pens&s, 18 174b-175a
+36 SWIFT: Gulliver, PART in, 98a-b
+41 GIBBON: Decline and Fall, 226b
+
+10a. The influence of the heavenly bodies on living matter - generation and corruption
+
+7 PLATO: Cratylus, 98a / Theaetetus, 518b
+8 ARISTOTLE: Physics, BK II, CH 2 [i94 b i3] 271a / Heavens, BK i, CH 9 [279*22-30] 370c; BK II, CH 3 377c-378a / Generation and Corruption, BK II, CH 10 437d-439c / Metaphysics, BK xn, CH 5 [i07ii2-i7] 600c; CH 6 [1072*9-18] 602a
+9 ARISTOTLE: Parts of Animals, BK iv, CH[680*30-35] 210d / Generation of Animals, BK I, CH 2 [716*15-20] 256b; BK II, CH 3 [736^0- 737*5] 277c-d; CH 4 [738*9-25] 278d-279a; BK iv, CH 2 [767*2-9] 308b; CH 10 [777 b 15-778*10] 319d-320a,c
+12 LUCRETIUS: Nature of Things, BK v [76-81] 62a
+19 AQUINAS: Summa Theologica, PART i, Q 25, A 2, REP 2 144c-145b; Q 70, A i, REP 4 362c- 364b; A 3, REP 3 365b-367a; Q 71, A i, REP i 367a-368b; Q 82, A 4, ANS 434c-435c; Q 86, A 4, REP 2-3 463d-464d; Q 91, A 2, REP485b-486b; Q 92, A i, ANS 488d-489d; Q 105, A i, REP 1 538d-539c; Q 115, A 3 588c-589c; A 5, REP i 590d-591c; Q 118, A i, REP 3 600a-601c
+20 AQUINAS: Summa Theologica, PART i-n, Q 60, A i, ANS 49d-50c; PART in SUPPL, Q 76, A i, REP 2 939d-941a; Q 84, A 2, REP 3 984c-985d; Q 86, A 2, ANS and REP 1-2 993c-994d; Q 91, A i, REP i 1016b-1017c; A 2, ANS and REP 1,1017c-1020c; A 3, REP 2 1020d-1022c
+21 DANTE: Divine Comedy, PARADISE, vn [121- 141] 116b-c; x [7-21] 120b-c; xm [52-78] 126a-b
+22 CHAUCER: franklin's Tale [11,343-347] 356b
+28 GILBERT: Loadstone, BK v, 105a-b
+28 HARVEY: On Animal Generation, 416a; 427b- d; 428c-429a
+29 CERVANTES: Don Quixote, PART II, 340b
+30 BACON: Novum Organum, BK II, APH n, 140d-141a; APH 12, 141d; APH 35, 162b-c
+32 MILTON: Paradise Lost, BK iv [634-688] 166a- 167b; BK VIII [66-178] 233b-236a esp [90-97] 234a; BK ix [99-113] 249b
+33 PASCAL: Pensees, 18 174b-175a
+49 DARWIN: Descent of Man, 256c
+
+10b. The influence of the heavenly bodies on the tides
+
+6 HERODOTUS: History, BK II, 53d-54b
+16 KEPLER: Epitome, BK iv, 919b
+19 AQUINAS: Summa Theologica, PART i, Q 105, A 6, REP i 543b-544a; Q no, A 3, REP i 566d- 567b
+20 AQUINAS: Summa Theologica, PART ii-n, Q 2, A 3, ANS 392d-393c
+22 CHAUCER: Franklin's Tale [11,355-388] 356b- 357a
+28 GILBERT: Loadstone, BK II, 47a-b; BK vi, 113a
+30 BACON: Novum Organum, BK II, APH 36, 164b-165c; APH 45, 176b; APH 46, 178c
+31 DESCARTES: Discourse, PART v, 55c
+33 PASCAL: Pensees, 817, 330b
+34 NEWTON: Principles, BK i, PROP 66, COROL xvin-xix 126a-b; BK HI, PROP 24 296a-299b; PROP 36-37 324a-328b
+35 BERKELEY: Human Knowledge, SECT433a-b
+
+11. The influence of the stars and planets upon the character and actions of men
+
+0 OLD TESTAMENT: Isaiah, 47:13 (D) 7/0/^,47:/Jeremiah, io.2(D)Jeremias, 10:
+0 APOCRYPHA: Baruch, 6:60-69 (D) OT, Baruch, 6:60-
+6 HERODOTUS: History, BK II, 65b; BK VII, 223b-c; BK ix, 289d-290a
+6 THUCYDIDES: Peloponnesian War, BK VII, 552a-c
+14 PLUTARCH- Romulus, 20b-c / Nicias, 435b-d / Dion, 789b-790a
+15 TACITUS- Annals, BK i, 9a-b; 9d; BK iv, 79b; BK vi, 91a-d / Histories, BK i, 195b-c; BK v, 295c
+17 PLOTINUS: Second Ennead, TR in 42a-50a / Third Ennead, TR i, CH 2 78d-79b; CH 5-80a-81b; TR n, CH 10 88a-b / Fourth Ennead, TR iv, CH 30-45 174b-183a
+18 AUGUSTINE : Confessions, BK iv, par 4-6 20a-d; BK vii, par 8-ro 45d-47a / City of God, BK III, CH 15, 176d-177a; BK v, CH 1-7 207d-212c / Christian Doctrine, BK II, CH 21-23 647a-648d
+19 AQUINAS: Summa Theologica, PART i, Q 70, A 2, REP i 364b-365a; Q 86, A 4, REP 2-3 463d- 464d; Q 96, A 3, ANS 512a-c; Q 115, A 4 589d- 590c; A 5, REP i 590d-591c; Q 116, A i, ANS 592d-593d; PART i-n, Q 9, A 5 660d-662a
+21 DANTE: Divine Comedy, HELL, vir (67-96] lOb-c; PURGATORY, xvi [52-84] 77b-d; PARA-
+12 toCHAPTER 5: ASTRONOMY DISE, iv [49-63] lllb; vin [1-12] 116d; [91- 148] 117d-118c; xin [52-78] 126a-b; xxn [112- 123] 140d
+22 CHAUCER- Knight's Tak [2438-2482] 200a-b / Tale of Man of Law [4610-4623] 237b; [4715-4735] 239b-240a / Wife of Bath's Prologue [6187-6202] 266a
+24 RABELAIS: Gargantua and Pantagruel, BK i, 66b-67d; BK II, 69b,d-70d; BK III, 136c-137c; 176a>b; BK iv, 267c-d
+25 MONTAIGNE: Essays, 18d-20d; 213d-215a; 246d-247c
+26 SHAKESPEARE: Julius Caesar, ACT i, sc n [139-141] 570d
+27 SHAKESPEARE: Hamlet, ACT i, sc i [113-125] 30d-31a / Othello, ACT v, sc n [105-111] 240b / King Lear, ACT i, sc n [112-166] 249a-c; ACT iv, sc in [34-37] 272a
+28 GILBLRT- Loadstone, BK III, 73a
+29 CERVANIES: Don Quixote, PART i, 94c; PART II, 222c
+30 BACON: Advancement of learning, 14b-c; 54c- 55a
+32 MILTON: Christs Nativity [125-140] 4b-5a / Arcades [61-73] 26b / Comus [93-144] 35b-36b / Paradise Lost, BK i [594-599] 106b, BK VIII [511-514] 243b, BK x [657-661] 288b
+33 PASCAL Pensees, 173 203b-204a
+36 SWIFT. Gulliver, PART in, 98a-b
+36 Si ERNE. Tristram Shandy, 194b-195a; 332a- 334b;407b-408b
+47 GOETHE Faust, PART II [4947-4976] 122b- 123a, [6667-6670] 163b
+51 TOLSTOY: War and Peace, BK VIII, 340d- 341a,c
+
+12. The worship of the earth, sun, moon, and stars
+
+0 OLD TESTAMENT: Genesis, 37*9-10 / Deuteronomy, 4 19; 17:3 / II Kings, 2 3 '4-5, 1 1 (D) IV Kings, 23-4-5,11 / Jeremiah, 8-1-2; 10-(D) Jeremias, 8-1-2; 10:2 / Ezefyel, 8 16 (D) Ezechiel, 8.16 / Zephaniah, 1:4-5 (D) Sophonias, 1-4-
+0 APOCRYPHA Wisdom of Solomon, 13*1-9 (D) OT, Bool( of Wisdom, 13.1-9 / Baruch, 6:60- 69- (D) OT, Baruch, 6-60-
+5 SOPHOCLES- Antigone [332-340] 134a
+5 EURIPIDES: Orestes [1625-1693] 410b-d
+5 ARISTOPHANES: Clouds [563-626] 495c-496b / Peace [406-416] 530d
+6 HERODOTUS: History, BK i, 31a-b; 48c; BK vii, 226c
+7 PLATO: Apology, 204d-205a / Laws, BK VII, 728b-730d; BK xn, 797b-798b
+8 ARISTOTLE: Metaphysics, BK XH, CH 8 [io74 b i- 14] 604d-605a
+9 ARISTOTLE: Generation of Animals, BK i, CH[716*15-20] 256b
+12 LUCRETIUS: Nature of Things, BK II [581-660] 22b-23b; BK v [396-411] 66b; [821-836] 71d- 72a
+14 PLUTARCH: Aemilius Paulus, 220d-221b
+15 TACITUS: Annals, BK xv, 176a
+16 KEPLER: Harmonies of the World, 1080b- 1085b l7PLoiiNus - Fourth Ennead, TR iv, CH 24-170b-171d
+19 AQUINAS: Summa Theologica, PART i, Q n, A 3, REP i 49a-c; Q 67, A 4, ANS 352a-354a; 115, A 3, REP i 588c-589c
+21 DANTE: Divine Comedy, PARADISP, iv [49-63] lllb; vin [1-12] 116d
+22 CHAUCER: Knight's Tale [2209-2482] 196b- 200b / Franklin's Tale [11,339-393] 356b-357a
+25 MONTAIGNL- Essays, 246d-247c
+27 SHAKESPEARE: Antony and Cleopatra, ACT iv, sc ix [5-18] 340c-d
+35 BERKELEY. Human Knowledge, SECT431b-c
+40 GIBBON Decline and Fall, 59c-60a, 81d; 93b- d; 346d-347a
+41 GIBBON- Decline and Fall, 226a-b; 227c
+46 HFGEL- Philosophy of History, PART i, 238d- 239a; 252a-c
+47 GOETHE: Faust, PART II [7900-7950] 192b- 193b; [8034-8043] 195b; [8078-8081] 196b; [8285-8302] 202a
+
+13. The history of astronomy
+
+5 AESCHYLUS: Prometheus Bound [442-461] 44c-d
+6 HERODOTUS- History, BK II, 49d-50a; 65b; 79c
+7 PLATO- Phaedrus, 138c-d / /fyo%>',204d-205a / Statesman, 586c-589c / Laws, BK vii, 728b- 730d; BK xn, 797b-798b
+8 ARISTOTLE- Heavens, BK i, CH 3 [270^2-26] 361d-362a, en 10 370d-371d, BK II, CH 1-375b,d-377c; en 12 [292*6-9] 383c; CH384d-387d / Meteorology, BK i, CH 6 449b- 450b; CH 8 451b-452d, BK II, CH i [354*27-32] 460b / Metaphysics, BK i, en 2 (982 b ii-i7J 500d; BK xn, CH 8 603b-605a
+11 ARCIIIMLDES- Sand-Reckoner, 520a-b
+12 LUCRETIUS: Nature of Things, BK v [720-730] 70c
+14 PLUTARCH- Romulus, 20b-c / Numa Pompilius, 55a-b / Solon, 74a / Pericles, 138d / Aemilius Paulus, 220d-221b / Lysander, 358d-359c / Nicias, 435b-d
+16 PTOLEMY- Almagest, BK HI, 77a-83a; BK iv, 109a-110b; BK vii, 223a*232b passim; BK ix, 272a-b
+16 COPERNICUS: Revolutions of the Heavenly Spheres, 508a
+16 KEPLER: Epitome, BK iv, 861b-863a; 888b- 891b; 907b-910a; 929a-933a passim; 955a
+18 AUGUSTINE: Confessions, BK v, par 3-6 27c- 28c
+19 AQUINAS: Summa Theologica, PART i, Q 32, A i, REP 2 175d-178a
+22 CHAUCER: Miller's Tale [3187-3212] 212b-213a
+24 RABELAIS: Gargantua and Pantagruel, BK II, 69d-70a
+25 MONTAIGNE '.Essays, 237 d-25Sb
+28 GILBERT: Loadstone, BK vi, 107c-d; 117c-d; 118d-119c
+30 BACON: Advancement of Learning, 24d / JVb- vum Organum, BK i, APH 80 120a-b; APH124a-d; BK II, APH 36, 165c-167b
+32 MILTON. Paradise Lost, BK i [284-291] 99b; BK v (261-263] 181a; BK vui [66-168] 233b- 235b / Areopagitica, 400a
+33 PASCAL: Provincial Letters, 165a / Vacuum, 358a;368b-369a
+35 BERKELEY: Human Knowledge, SECT424a-b; SECT 104 433a-b
+35 HUME: Human Understanding, SECT i, DIV 9, 454c-d
+36 STERNE: Tristram Shandy, 227a
+41 GIBBON: Decline and Fall, 68c-69a; 226b; 299b-c; 664d (n 55-56]
+42 KANT: Pure Reason, 8d (fn 2]; 175b [fn i] / Practical Reason, 361b-c
+46 HEGEL- Philosophy of History, PART i, 219a-b, 251a-b
+51 TOLSTOY: War and Peace, BK vui, 340d- 341a,c; BK xm, 563b; EPILOGUE n, 694d~696d <ref_end>
+
+
+ADDITIONAL READINGS
+
+Listed below are works not included in Great Booty
+
+idea and topics with which this chapter deals. The
+
+I. Works by authors represen
+
+II. Works by authors not repr
+
+For the date, place, and other facts concerning th
+
+the Bibliography of Additional Readings which foll
+
+I.
+
+PTOLEMY. Tetrabiblos AQUINAS. Summa Contra Gentiles, BK in, CH 84-87
+
+On the Trinity of Boethius, Q 5
+
+. DANTE. Convivio (The Banquet), SECOND TREATISE,
+
+CH 3-4 CHAUCER. A Treatise on the Astrolabe COPERNICUS. Commentariolus
+
+. Letter Against Werner KEPLER. Mysterium Cosmographicum
+
+De Motibus Stellae Mortis
+
+.
+
+.Harmonices Mundi, BK i-iv GALILEO. The Sidereal Messenger
+
+.
+
+Dialogo dei massimi sistemi DESCARTES. The Principles of Philosophy, PART in,
+
+5-47, 103-120, 126-157
+
+HOBBES. Concerning Body, PART iv, CH 26 KANT. Cosmogony A. SMITH. The History of
+Astronomy
+
+II.
+
+ARISTARCHUS. On the Sizes and Distances of the Sun
+
+and Moon EPICURUS. Letter to Pythocles
+
+. Letter to Herodotus IBN EZRA. The Beginning of Wisdom MAIMONIDES. The Guide
+for the Perplexed, PART n,
+
+CH 8-12, 24
+
+R. BACON. Opus Majus, PART iv RHETICUS. Narratio Prima SuXREZ. Disputationes
+Metaphysicae, xni (10-13),
+
+xv (3) FONTENELLE. Conversations on the Plurality of Worlds VOLTAIRE.
+"Astrology," "Astronomy," in A Philosophical Dictionary
+
+LAGRANGE. MScanique analytique
+
+ONOMY of the Western World, but relevant to the se works are divided into two
+groups: ted in this collection. esented in this collection. e publication of the
+works cited, consult ows the last chapter of The Great Ideas, LAPLACE. The
+System of the World
+
+MScanique ctlcste (Celestial Mechanics)
+
+. GAUSS. Inaugural Lecture on Astronomy WHEWELL. Astronomy and General Physics
+Considered with Reference to Natural Theology COMTE. The Positive Philosophy, BK
+n A. HUMBOLDT. Cosmos HERSCHEL. Familiar Lectures on Scientific Subjects, 11
+FRAZER. The Golden Bough, PART iv, BK in, CH 7-9; PART v, NOTE (Pliadcs in
+Primitive Calendars) G. H. DARWIN. The Evolution of the Satellites
+
+The Tides and Kindred Phenomena in the Solar
+
+. System SANTA VAN A. Reason in Society, CH 4 DREYER. History of the Planetary
+Systems POINCARE". The Value of Science, PART n, CH 6
+
+Science and Method, BK in, CH 3; BK iv
+
+. KAPTEYN. Recent Researches in the Structure of the
+
+Universe DUHEM. Le systeme du monde ARRHENIUS. The Destinies of the Stars T.
+CHAMBERLIN. The Orig in of the Earth E. HUNTINGTON. Earth and Sun DINGLE. Modern
+Astrophysics SHAPLEY. Starlight EDDINGTON. The Internal Constitution of the
+Stars
+
+. Stars and Atoms JEANS. Problems of Cosmogony and Stellar Dynamics
+
+Astronomy and Cosmogony
+
+. TOLMAN. Relativity, Thermodynamics, and Cosmology H. N. RUSSELL. The Solar
+System and Its Orig in ABETTI. The Sun: Its Phenomena and Physical Features
+HUBBLE. The Realm of the Nebulae GAMOW. The Birth and Death of the Sun B.
+RUSSELL, Human Knowledge, Its Scope and Limits, PART i, CH 2

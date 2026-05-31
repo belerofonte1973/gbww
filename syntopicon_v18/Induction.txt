@@ -118,6 +118,118 @@ OUTLINE OF TOPICS
 of experimental and
 enumerative induction
 
+REFERENCES
+============================================================
+
+1. The theory of induction: generalization from particulars
+
+    [sem referências]
+
+1a. Induction and intuition: their relation to reasoning or demonstration
+
+8 ARISTOTLE: Posterior Analytics, BK i, CH 3 460b-c [72 b i8-24] 99b-c; CH 23 [84 b 3i-85*i] 115d- 116a; ch 31 [8 7 b 39-88 a i 7 ] 120a-c; CH 33 [88 ^121b-c; BK II, CH 2 [90-24-30] 123b-c; CH 19 136a-137a,c / Topics, BK i, CH 12 148d; BK VIII, CH i [i55 b 35-i56*7], 211d-212a; [i56 b io-i8] 212c-d / Metaphysics BK i, CH 9 [992 b 24~993*i] 511a-b
+9 ARISTOTLE. Ethics, BK i, CH 7 [1098*34^3] 152 d / Physics, BK VIII, CH i [252*23-25] 336a 343d; BK vr, CH 3 388b-c; CH 6 389d; CH 8, [1142*23-31] 391 b-c; CH ii 392c-393b esp [ii43*32- b 6]392d-393a/ Rhetorics, BKII, CH 20 [1393*25-26] 641a
+28 HARVEY: On Animal Generation, 332a-335c, esp 333d-334d
+30 BACON: Advancement of Learning, 43d-44c; 61d; 96d-97a / Novum Organum 105a-l95d esp BK i, APH 11-26 107d-108d APH 69 116a-b, APH 105 128b-c, BK II, APH i-io 137a-140d, APH 15-16 149a-b, APH 20-22 150d-153c, APH 52 194c-195d
+31 DESCARTES: Rules, III 3b-5a esp 4a-b; VH, 10c-12a; ix 14d-15d; xi, 17b-d / Objections and Replies, 123a-b; 167c-d
+31 SPINOZA: Ethics, PART II, PROP 40, SCHOL 388a-b
+33 PASCAL- Pensees, 1-5 171a-173a
+35 HUME . Human Understanding, SECT i, DIV451b . c; DIV 9 45^.4553; SECT IV , DIV
+
+1b. Inductive reasoning: the issue concerning inductive and deductive proof
+
+8 ARISTOTLE Prior Analytics, BK II, CH23 90a-c  30-89"!] / Posterior Analytics, BK i, CH i [71*1-11] 97a; , CH 3 [72^5-33] 99c; CH 18 lllb-c; BK II, CH  [9 2 *34- b '] 126b/ Topics, BKI, CH 18 [io8 b 7-i2]
+9 ARISTOTLE: Ethics, BK i, CH 4 [io95*3o- b 8]  340c; CH 7 [1098*35^3) 343d; BK vi, CH 388b-c / Rhetoric, BK i, CH 2 [i356 b 5-i8] 596a-b
+28 GALILEO: Two New Sciences, FOURTH DAY,  252a-b
+28 HARVEY: Motion of the Heart, fcSOc 59c; 61d; 96d-97a / Novum Organum, 105a-
+30 BACON: Advancement of Learning, 42a-c; 195d esp BK i, APH 11-26 107d-108d, APH 69 57b-58b;  116a-b ,   APH 103-106 127d-128c, BK II,  APrt 10-52 14dc-195d
+31 DESCARTES: Rules, II, 2d-3a; vn, 10c~12a; xi  17b-18b; xn, 24a-b/ Discourse, PART vi, 61d- 62c / Objections and Replies; 167c-d 2/04*
+34 NEWTON: Principles, BK HI, RULE iv 271b / Optics, BK HI, 543a-b
+35 LOCKE: Human Understanding* BK iv, CH xn, SECT 10 361b-c
+35 HUME: Human Understanding, SECT iv, DIV 26 460b-c; SECT ix, DIV 82 487b-c; SECT xn, DIV 131-132 508d-509d passim
+42 KANT: Pure Reason, 45b-46a
+43 MILL: Utilitarianism, 445a-447b passim; 475b,d [fn i] passim
+45 FARADAY: Researches in Electricity, 659a
+51 TOLSTOY: War and Peace, EPILOGUE n, 690b
+53 JAMES: Psychology, 674a-675b esp 675b
+
+2. The conditions or sources of induction: memory, experience, experiment
+
+8 ARISTOTLE: Prior Analytics, BK i, CH 30 [46* 18-28] 64a; BK II, CH 23 [68 b i5~29] 90b-c / Posterior Analytics, BK i, CH i [71*1-8] 97a; CH 3 [72 b 25~33] 99c; CH 18 lllb-c; CHI 8 7 b 39-88 a i7] 120a-c; BK II, CH 2 [90*24-30] 123b-c; CH 7 [92*34~ b i] 126b; CH 19 [99 b 2o- ioo b 5] 136a-d / Topics, BK i, CH 12 148d; CH 18 [io8 b 7-i2] 152d; BK II, CH 7 [113*31-33] 158d; BK VIII, CH i [i55 b 35-i50*7] 211d-212a; [i56 b io-i8] 212c-d / Physics, BK i, CH i 259a-b; CH 8 [191*24-34] 267a-b / Heavens, BK III, CH 7 [306*6-18] 397b-c / Generation and Corruption, BK i, CH 2 [316*5-8] 411c / Metaphysics, BK i, CH i 499a-500b; CH 9 [992^4-993*1 ] 511a-b
+9 ARISTOTLE: Ethics, BK i, CH 4 [1095*30^8] 340c; CH 7 [1098*34^8] 343d-344a; BK vi, CH 8 [1142*12-19] 391b; CH n [i 143*32-^6] 392d-393a / Rhetoric, BK II, CH 20 [1393*22- 1394*8] 640d-641d
+20 AQUINAS: Summa Theologica, PART I-H, Q 51, A i, ANS 12b-13c
+28 GILBERT* Loadstone, PREF, la-c
+28 GALILEO: Two New Sciences, THIRD DAY, 200a-b; 207d-208a
+28 HARVEY: Motion of the Heart, 267b,d-268d; 285c-d / Circulation of the Blood, 322d-323d; 324c-d / On Animal Generation, 331b-335c; 383d; 473a
+30 BACON: Advancement of Learning, 16a; 34b; 57b-d; 59c / Novum Organum, BK i, APH108a; APH 19 108b; APH 22 108c; APH 25 108d; APH 69 116a-b; APH 104-105 128a-c; BK II, APH 11-15 140d-149a
+31 DESCARTES- Rules, n, 2d-3a; VH, 10c-12a / Discourse, PART vi, 61d-62c / Objections and Replies, 167c-d
+31 SPINOZA: Ethics, PART II, PROP 40, SCHOL 1-387b-388b
+33 PASCAL: Vacuum, 358a-b
+34 NEWTON: Principles, BK III, RULE m-iv 270b- 271b / Optics, BK III, 543a-b
+35 BERKELEY: Human Knowledge, SECT433d-434a
+35 HUME- Human Understanding, SECT HI, DIV 19, 458a
+42 KANT: Pure Reason, 5a-13d; 45b-46a; 66d-93c / Judgement, 562d-563b
+45 FARADAY: Researches in Electricity, 659a
+46 HEGEL: Philosophy of History, PART iv, 361a-b
+54 FREUD: Instincts, 41 2a
+
+3. The products of induction: definitions, axioms, principles, laws
+
+8 ARISTOTLE: Prior Analytics, BK II, CH 23 90a-c / Posterior Analytics, BK i, CH 3 [72^5-30] 99c; CH 18 lllb-c; CH 31 [87 b 39-88*i7] 120a-c, BK II, CH 2 [90*24-30] 123b-c; CH 7 [92*34~ b i] 126b; CH 19 136a-137a,c / Topics, BK i, CH148d; CH 18 [io8 b 7-i2] 152d; BK VIII, CH i [i55 b 35-i56*7] 211d-212a; [i56 b io-i8] 212c-d / Generation and Corruption, BK i, CH 2 [316* 5-8] 41 Ic
+9 ARISTOTLE: Ethics, BK i, CH 4 [ro95*3o- b 8] 340c; CH 7 [1098*34^3] 343d; BK vi, CH[1139^5-34] 388c; CH 6 389d; CH n [1143*25- b i3] 392d-393a
+19 AQUINAS: Summa Theologica, PART i, Q 79, A 12, ANS 425c-426b
+28 GILBERT: Loadstone, PREF, la-c
+28 GALILEO: Two New Sciences, THIRD DAY, 200a-b; 207d-208a
+28 HARVEY: On Animal Generation, 333d-335a esp 334c-d
+30 BACON: Advancement of Learning, 34b, 57b-d; 96d-97a / Novum Organum, BK i, APH 17-2^, 108a-d; APH 103-106 127d-128c; BK 11, APH i-io 137a-140d
+31 DESCARTES: Objections and Replies, 123a-b; 167c-d
+34 NEWTON: Principles, BK III, RULE ni-iv 270b- 271b / Optics, BK III, 543a-b
+35 LOCKE: Human Understanding, BK i, CH in, SECT 25 120c-d
+35 BERKELEY: Human Knowledge, SECT433d-434a
+35 HUME: Human Understanding, SECT i, DIV451b-c; DIV 9 454c-455a; SECT iv, DIV460b-c
+42 KANT: Pure Reason, 5a-13d; 66d-93c; HOa
+43 MILL: Utilitarianism, 475b,d [fn i]
+46 HEGEL: Philosophy of History, PART iv, 361a-b
+51 TOLSTOY: War and Peace, EPILOGUE n, 690b
+54 FREUD: Instincts, 412a-b
+
+4. The use of induction in argument
+
+    [sem referências]
+
+4a. Dialectical induction: securing assumptions for disputation
+
+8 ARISTOTLE- Topics, BK i, CH 12 148d; CH[io8 b 7-i2] 152d; BK VIH, CH i [i55 b i6-i56 R 7] 211b-212a; [i56 b io-i8] 212c-d; CH, 2 [i57 8 i9- 38]213b-d;cn8 [i6o*35- b i] 2l7d; CH 14 [164* 12-17] 222d
+9 ARISTOTLE: Rhetoric, BK i, CH 2 [i356*36- b 26] 596a-b
+
+4b. Rhetorical induction: inference from example in the process of persuasion
+
+8 ARISTOTLE: Prior Analytics, BK II, CH 24 90c- 91a / Topics, BK VIII, CH i [156*10-18] 212c-d; CH 8 [i6o'35- b i] 217d / Metaphysics, BK II, CH 3 [995*6-8] 513c
+9 ARISTOTLE: Rhetoric, BK i, CH 2 [1356*36- 1358*3] 596a-597d; CH 9 [1368*29-31] 611b-c; BK ii, CH 20 640d-641d; CH 23 [i398 B 32- b i8] 646d-647a; CH 25 [1403*5-9] 652d; BK HI, CH 17 [I4i7 b 35-i4i8*3] 672b
+30 BACON: Advancement of Learning, 58c-59a
+42 KANT: Pref. Metaphysical Elements of Ethics, 376c-d
+
+5. The role of induction in the development of science: the methods of experimental and enumerative induction
+
+8 ARISTOTLE: Prior Analytics, BK II, CH 23 90a-c / Posterior Analytics, BK i, CH 3 [72 b 25~33] 99c; CH 18 lllb-c; BK II, CH 19 136a-137a,c / Physics, BK i, CH 2 [185*13-14] 259d; BK v, CH i [224 b 28--$o] 304d; BK VIII, CH i [252*23- b 5] 336a-b / Generation and Corruption, BK i, CH 2 [316*5-14] 411c-d / Metaphysics, BK i, CH 9 [992 b 30~993 B i] 511b; BK vi, CH i [io25 b 1-16] 547b; BK xi, CH 7 [1064*4-9] 592b; BK xin, CH 4 [io78 b 28~3o] 610b
+9 ARISTOTLE: Generation of Animals, BK v, CH 8 [788 b io-2i] 330c / Ethics, BK i, CH[io95 a }o- b 8] 340c; CH 7 [io98 a 34~ b 3] 343d; BK vi, CH 3 388b-c 10GALFN- Natural Faculties, BK HI, CH 1-199a-200a esp 199c-d
+28 GILBERT: Loadstone, PREP, la-c
+28 GALILEO: Two New Sciences, THIRD DAY, 200a-b; 207d-208a
+28 HARVEY: Motion of the Heart, 280c; 285c-d / Circulation of the Blood, 324c-d / On Animal Generation, 332a-33Sc esp 334c-d; 383d; 473a
+30 BACON: Advancement of Learning, 16a; 34b; 42a-c; 56b-58c; 96d-97a / Novum Organum 105a-195d esp BK i, APH 11-26 107d-108d, APH 69 116a-b, APH 104-106 128a-c, BK II, APH i-io 137a-140d, APH 15-16 149a-b, APH 20-21 150d-153b, APH 52 194c-195d
+31 DESCARTES: Rules, n, 2d-3a; vn 10b-12a / Discourse, PART vi, 61d-62c / Objections and Replies, 167c-d
+33 PASCAL: Vacuum, 358a-b / Arithmetical Triangle, 451b-452a; 458b-459b; 464a-466a
+34 NEWTON: Principles, BK III, RULE m-iv 270b- 271 b; GENERAL scHOL, 371b-372a / Optics, BK III, 543a-b
+35 BERKELEY: Human Knowledge, SECT433d-434a
+35 HUME: Human Understanding, SECT i, DIV454c-455a; SECT HI, DIV 19, 458a; SECT iv, DIV 26 460b-c
+42 KANT: Pure Reason, 5a-13d; 45b-46a; 72c- 85d esp 72c-74b, 82a-b / Intro. Metaphysic of Morals, 387a-b / Judgement, 562d-563b
+43 MILL: Utilitarianism, 445d-446b; 475b,d IM
+45 FARADAY: Researches in Electricity, 659a
+51 TOLSTOY: War and Peace, EPILOGUE n, 690b
+53 IAMES: Psychology, 385a-b; 677b; 862a-865a
+54 FREUD: Instincts, 412a-b <ref_end>
+
+
 CROSS-REFERENCES
 
 For: Other discussions of induction as an intuitive act of g EDGE 6c(a)
