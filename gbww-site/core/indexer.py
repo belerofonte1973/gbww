@@ -78,8 +78,8 @@ _AUTH_CACHE = _AuthorCache()
 
 # Default source: txts-v2/ inside /home/rodrigo/gbww (preferred — has page
 # markers). Fall back to txts/ for volumes still being re-extracted.
-_DEFAULT_TXT_DIR = Path("/home/rodrigo/gbww/txts")
-_FALLBACK_TXT_DIR = Path("/home/rodrigo/gbww/txts-v2")
+_DEFAULT_TXT_DIR = Path("/home/rodrigo/gbww/txts-v2")
+_FALLBACK_TXT_DIR = Path("/home/rodrigo/gbww/txts")
 _SYN_TOPICON_DIR = Path("/home/rodrigo/gbww/txts-v2")  # vol 2 and vol 3 live here too
 
 # Filenames for vol 2 (Great Ideas I) and vol 3 (Great Ideas II)

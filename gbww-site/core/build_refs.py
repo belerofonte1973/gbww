@@ -685,10 +685,15 @@ def build_references(parsed) -> dict:
 
 
 def _find_syntopicon_paths() -> tuple[Path, Path]:
-    """Locate the two Syntopicon volumes (2 and 3). Prefer txts-v2/, fall
-    back to txts/.
+    """Locate the two Syntopicon volumes (2 and 3). Prefer the
+    pymupdf-native extracts in txts-v2/, fall back to the
+    gbww_extract.py output in txts/.
     """
-    for base in (_DEFAULT_TXT_DIR, _FALLBACK_TXT_DIR):
+    candidates = [
+        Path("/home/rodrigo/gbww/txts-v2"),
+        Path("/home/rodrigo/gbww/txts"),
+    ]
+    for base in candidates:
         if not base.is_dir():
             continue
         v2 = next(base.glob("*Great Ideas I*"), None)
@@ -697,7 +702,8 @@ def _find_syntopicon_paths() -> tuple[Path, Path]:
             return v2, v3
     raise SystemExit(
         "Syntopicon volumes (vol 2 + vol 3) not found in txts-v2/ or txts/. "
-        "Run gbww_extract.py on Volume 2 and Volume 3 PDFs first."
+        "Run extrair_syntopicon_pdf.py or gbww_extract.py on Volume 2 and "
+        "Volume 3 PDFs first."
     )
 
 
