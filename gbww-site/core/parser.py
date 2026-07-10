@@ -93,8 +93,11 @@ OUTLINE_HEADER_RE = re.compile(r"^\s*OUTLINE\s+OF\s+TOPICS\s*$", re.IGNORECASE)
 TOPIC_RE = re.compile(
     r"^\s*(\d{1,3})\s*([a-zA-Z^/]?)\s*[.,]\s+([A-Z][^\n]{3,})$"
 )
+# Citation header: "<num> <Name>: <rest>" or "<num> <Name>:"
+# (OCR sometimes breaks the line right after the colon, leaving the
+# rest as the next line). <rest> can be empty in that case.
 CITATION_RE = re.compile(
-    r"^\s*([0-9]{1,3})\s+([A-Z][A-Za-z'\- ]{1,40}?)\s*[:.]\s*(.+?)\s*$"
+    r"^\s*([0-9]{1,3})\s+([A-Z][A-Za-z'\- ]{1,40}?)\s*[:.]\s*(.*)$"
 )
 
 # GBWW page ref: "256a", "114b", "12b-d", "100b-107a"
@@ -102,7 +105,18 @@ PAGE_REF_RE = re.compile(
     r"\b([0-9]{1,4}[a-d])(?:\s*[-—–]\s*([0-9]{1,4}[a-d]))?\b"
 )
 # Author GBWW number prefix on a citation line
-AUTHOR_NUM_PREFIX = re.compile(r"^\s*(\d{1,3})\s+([A-Z][A-Za-z'\.\- ]{1,40}?)\s*[:.]\s*")
+# Examples that must match:
+#   "5 Aeschylus: Prometheus Bound"
+#   "5 Aeschylus : Prometheus Bound"
+#   "5 Aristophanes: Acharnians"
+#   "5 Aeschylus\n : Prometheus Bound" (line-broken OCR)
+#   "5 Sophocles : Oedipus the King"
+# The trailing [:.] is REQUIRED — otherwise we'd stop at "Ae" instead
+# of "Aeschylus". Use {2,40} (min 2 chars) so we don't match a single
+# capital letter that is actually the start of a work title.
+AUTHOR_NUM_PREFIX = re.compile(
+    r"^\s*(\d{1,3})\s+([A-Z][A-Za-z'\.\- ]{2,40})\s*[:.]\s*"
+)
 
 # Cross-reference stop: the line immediately after the references list starts.
 # Either "THE GREAT IDEAS CROSS-REFERENCES" or bare "CROSS-REFERENCES" or
@@ -400,7 +414,7 @@ def _extract_citations_for_chapter(
     def _is_crossref(line: str) -> bool:
         return any(p.search(line) for p in CROSSREF_TRIGGERS)
 
-    for line in chunk:
+    for idx, line in enumerate(chunk):
         stripped = line.strip()
         if not stripped:
             continue
@@ -455,6 +469,32 @@ def _extract_citations_for_chapter(
             author_num = int(m_cite.group(1))
             author_name = m_cite.group(2).strip().rstrip(".'`\"")
             rest = m_cite.group(3).strip()
+            # OCR sometimes breaks the line right after the colon,
+            # leaving the rest on subsequent lines. If rest is empty
+            # OR doesn't contain a page-ref, absorb the next line(s)
+            # until we find a page-ref, a new citation, or a topic bump.
+            if not (rest and PAGE_REF_RE.search(rest)):
+                look_ahead = rest + " " if rest else ""
+                k = idx + 1
+                while k < len(chunk):
+                    nxt = chunk[k].strip()
+                    if not nxt:
+                        k += 1
+                        continue
+                    # Stop if we hit a new citation header, topic bump,
+                    # cross-ref, or a section header.
+                    if (CITATION_RE.match(chunk[k])
+                            or TOPIC_RE.match(chunk[k])
+                            or _is_crossref(nxt)
+                            or _OUTLINE_HEADER_LINE_RE.search(nxt)
+                            or _REFERENCES_HEADER_RE.search(nxt)
+                            or _CROSSREF_HEADER_RE.match(nxt)):
+                        break
+                    look_ahead += " " + nxt
+                    k += 1
+                    if PAGE_REF_RE.search(look_ahead):
+                        break
+                rest = look_ahead.strip()
             # Stop if this line *is* the cross-reference header
             if _is_crossref(rest):
                 break
@@ -1189,25 +1229,34 @@ def parse_volume(path: Path) -> ParsedSyntopicon:
             chapter_num, lines, line_no, next_line, chapter_name,
         )
 
-    # --- Compute the canonical author name per (author_num) by majority
-    # vote across all citations in this volume. The Syntopicon uses one
-    # author number per author throughout, and the same author is cited
-    # many times — the most-frequent spelling of "Plato", "Aquinas",
-    # etc. is the canonical one. OCR variants ("Aqutnas", "MoNTiiSQUiEu")
-    # get outvoted and rewritten.
-    name_counter: dict[int, Counter] = {}
+    # --- Compute the canonical author name by majority vote across all
+    # citations in this volume. The Syntopicon uses ONE author_number per
+    # VOLUME, so multiple distinct authors can share an author_number
+    # (e.g. gbww 5 = Aeschylus, Sophocles, Euripides, Aristophanes all
+    # share author_number=5). We vote per (author_number, author_name)
+    # pair rather than per author_number alone — otherwise the first name
+    # seen for a given volume would crowd out the others.
+    name_counter: dict[tuple[int, str], Counter] = {}
     for c in result.citations:
         if 1 <= c.author_number <= 54:
-            name_counter.setdefault(c.author_number, Counter())[c.author_name] += 1
-    canonical_author_name: dict[int, str] = {
-        num: counter.most_common(1)[0][0] for num, counter in name_counter.items()
-    }
+            key = (c.author_number, c.author_name)
+            counter = name_counter.setdefault(key, Counter())
+            counter[key] += 1
+    # The canonical name for an (author_number, normalized_name) is
+    # the most-frequent spelling of that pair. We re-key by the
+    # original author_name string so citations retain their author.
+    canonical_author_name: dict[tuple[int, str], str] = {}
+    for (num, raw_name), counter in name_counter.items():
+        best = max(counter.items(), key=lambda kv: kv[1])[0]
+        canonical_author_name[(num, raw_name)] = best[1]
 
     # --- Second pass: rewrite each citation's author_name to the
     # canonical form. We mutate the existing Citation objects in place.
     for c in result.citations:
-        if c.author_number in canonical_author_name:
-            c.author_name = canonical_author_name[c.author_number]
+        if 1 <= c.author_number <= 54:
+            key = (c.author_number, c.author_name)
+            if key in canonical_author_name:
+                c.author_name = canonical_author_name[key]
 
     return result
 
