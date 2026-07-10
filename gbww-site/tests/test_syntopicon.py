@@ -161,7 +161,7 @@ class AuthorTests(unittest.TestCase):
         ).fetchone()[0]
         self.assertGreaterEqual(n_authors, 55,
                                f"only {n_authors} canonical (gbww, name) pairs")
-        self.assertLessEqual(n_authors, 500,
+        self.assertLessEqual(n_authors, 350,
                               f"{n_authors} too many (OCR-noise flood?)")
 
     def test_no_duplicate_gbww_numbers(self):

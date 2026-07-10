@@ -233,49 +233,107 @@ def _remember(aid: int, name: str) -> None:
 
 
 def _normalize_for_merge(c: str) -> str:
-    """Normalise a canonical author name for the merge pass: strip
-    volume-split Roman suffixes (e.g. "Aristotle I" -> "aristotle",
-    "Shakespeare II" -> "shakespeare") and trailing whitespace.
+    """Normalise a canonical author name for the merge pass.
+
+    - Lowercase (so 'Euripides' and 'EURIPIDES' collapse).
+    - Strip volume-split Roman suffixes ('Aristotle I' -> 'aristotle').
+    - Drop non-alphanumeric characters so OCR noise (hyphens, spaces,
+      apostrophes, dots) doesn't break the comparison.
+
+    The result is a stable string that we use as a merge key together
+    with the gbww_number. Two OCR variants of the same author whose
+    normalised forms differ only by missing letters (e.g. 'euripides'
+    vs 'euripidi' when OCR dropped 'es') will NOT share this key —
+    those are handled by the prefix-match pass below.
     """
-    return re.sub(r"\s+(I|II|III|IV|V)$", "", c).strip()
+    c = c.lower()
+    c = re.sub(r"\s+(i|ii|iii|iv|v)$", "", c)
+    c = re.sub(r"[^a-z0-9]", "", c)
+    return c.strip()
+
+
+def _prefix_key(c: str, length: int = 5) -> str:
+    """Stable prefix of the normalised name, used as a secondary merge
+    key for OCR variants that differ by 1-2 dropped/swapped letters
+    (e.g. 'euripides' vs 'euripidi' vs 'sopiioclr').
+
+    We require the prefix to share the same first N letters *and* the
+    gbww_number to be the same before we even consider merging.
+    """
+    return c[:length] if len(c) >= length else c
+
+
+def _prefix_similarity(c1: str, c2: str) -> float:
+    """How similar are two normalised names by their first-N characters?
+
+    We compare prefixes of length 5, 6, 7. If the prefixes are nearly
+    identical, the names are likely OCR variants of the same author
+    even if the strings have different lengths (dropped/swapped letters).
+
+    Returns the maximum similarity score across the three prefix lengths.
+    """
+    if not c1 or not c2 or c1 == c2:
+        return 1.0 if c1 == c2 else 0.0
+    # If len difference > 4, almost certainly distinct names.
+    if abs(len(c1) - len(c2)) > 4:
+        return 0.0
+    best = 0.0
+    for n in (5, 6, 7):
+        if len(c1) >= n and len(c2) >= n:
+            r = difflib.SequenceMatcher(None, c1[:n], c2[:n]).ratio()
+            best = max(best, r)
+    # Combine prefix-similarity with overall SequenceMatcher. OCR noise
+    # tends to drop letters at the end of words, so prefix similarity
+    # is a stronger signal than suffix for short names.
+    seq = difflib.SequenceMatcher(None, c1, c2).ratio()
+    return 0.6 * best + 0.4 * seq
 
 
 def _score_pair(c1: str, c2: str) -> float:
     """Score two canonical author names for fuzzy merge.
 
     A high score means the two strings are almost certainly OCR variants
-    of the same author (e.g. "aquinas"/"aqutnas", "bacon"/"bacoxn"). The
-    score combines:
+    of the same author (e.g. "aquinas"/"aqutnas", "bacon"/"bacoxn").
+
+    The score combines:
       - SequenceMatcher ratio (overall similarity)
-      - 2-gram overlap (shared letter pairs in any position)
+      - 2-gram Jaccard overlap (shared letter pairs in any position)
       - 3-4-5 char suffix similarity (same ending, like "son" / "son")
 
-    We require len_diff <= 2 to avoid merging distinct names that happen
-    to share a prefix.
+    The 2-gram Jaccard weight is intentionally high because OCR noise
+    tends to swap, drop, or substitute adjacent letters, which leaves
+    many 2-grams intact. SequenceMatcher ratio alone is too strict
+    for short names (< 10 chars) where losing 1-2 letters can drop
+    the ratio below 0.7.
+
+    We require len_diff <= 3 to avoid merging distinct names that
+    happen to share a prefix.
     """
     if not c1 or not c2:
         return 0.0
     if abs(len(c1) - len(c2)) > 3:
         return 0.0
+
     seq = difflib.SequenceMatcher(None, c1, c2).ratio()
-    f1 = [c1[i:i+2] for i in range(len(c1)-1)]
-    f2 = [c2[i:i+2] for i in range(len(c2)-1)]
-    overlap = sum(1 for a in f1 for b in f2 if a == b or
-                  (len(a) >= 4 and len(b) >= 4 and
-                   difflib.SequenceMatcher(None, a, b).ratio() >= 0.85))
-    overlap_score = min(1.0, overlap / max(1, len(f1)))
+    # 2-gram Jaccard: |A ∩ B| / |A ∪ B|
+    f1 = set(c1[i:i + 2] for i in range(len(c1) - 1))
+    f2 = set(c2[i:i + 2] for i in range(len(c2) - 1))
+    if not f1 and not f2:
+        jaccard = 0.0
+    else:
+        jaccard = len(f1 & f2) / len(f1 | f2)
     suffix = 0.0
     for n in (3, 4, 5):
         if len(c1) >= n and len(c2) >= n:
             r = difflib.SequenceMatcher(None, c1[-n:], c2[-n:]).ratio()
             if r >= 0.85:
                 suffix = max(suffix, r)
-    if suffix >= 0.85:
-        return max(suffix, 0.4 * seq + 0.4 * overlap_score + 0.2 * suffix + 0.15)
-    return 0.5 * seq + 0.35 * overlap_score + 0.15 * suffix
+    # Heavy weight on jaccard (good for OCR swaps), lighter on seq
+    # (good for systematic transliteration), suffix as a tie-breaker.
+    return 0.5 * jaccard + 0.3 * seq + 0.2 * suffix
 
 
-def merge_fuzzy_authors(conn, threshold: float = 0.78) -> int:
+def merge_fuzzy_authors(conn, threshold: float = 0.60) -> int:
     """After all authors are inserted with exact-canonical matching, do a
     pass that collapses OCR variants (FIobbes -> Hobbes, Aqulnas -> Aquinas).
 
@@ -335,17 +393,27 @@ def merge_fuzzy_authors(conn, threshold: float = 0.78) -> int:
             return True
         return False
 
-    # Compare each pair only if they share the SAME gbww_number. Two
-    # entries with different gbww_numbers are distinct Syntopicon rows
-    # even if their spellings are similar (e.g. "Aristotle" at gbww=8
-    # vs "Aristotle" at gbww=9). The pre-filter is the first 3 chars
-    # plus the gbww_number, both as a tuple.
-    by_first3_gbww: dict[tuple[str, int | None], list[tuple[str, int | None]]] = {}
+    # Compare each pair only if they share the SAME gbww_number and
+    # have similar prefixes. Two entries with different gbww_numbers
+    # are distinct Syntopicon rows even if their spellings are similar
+    # (e.g. "Aristotle" at gbww=8 vs "Aristotle" at gbww=9).
+    #
+    # We use prefix-5 matching (first 5 normalised chars + gbww) as the
+    # bucket key. OCR variants of the same author almost always share
+    # their first 5 letters even when later letters get mangled (e.g.
+    # 'euripides' / 'euripidi' / 'kuriides' all start with 'eurip' +
+    # gbww=5 — the prefix key 'eurip:5' captures them all in one
+    # bucket).
+    by_prefix_gbww: dict[tuple[str, int | None], list[tuple[str, int | None]]] = {}
     for k in norm_keys:
-        first3 = k[0][:3] if len(k[0]) >= 3 else k[0]
-        by_first3_gbww.setdefault((first3, k[1]), []).append(k)
+        # prefix-3 (first 3 normalised chars) catches most OCR variants
+        # ('Euripides' / 'EuRiPiDi' / 'Kuripidks' don't share first 5
+        # chars but prefix-3 + gbww_number uniquely identifies the
+        # author within a single volume).
+        pk = (_prefix_key(k[0], 3), k[1])
+        by_prefix_gbww.setdefault(pk, []).append(k)
 
-    for (first3, gbww), group in by_first3_gbww.items():
+    for (prefix, gbww), group in by_prefix_gbww.items():
         if len(group) < 2:
             continue
         for i in range(len(group)):
@@ -353,9 +421,13 @@ def merge_fuzzy_authors(conn, threshold: float = 0.78) -> int:
                 a, b = group[i], group[j]
                 if find(a) == find(b):
                     continue
-                if abs(len(a[0]) - len(b[0])) > 3:
+                # Reject if the strings are very different lengths
+                # (e.g. 'aristotle' vs 'ari' — likely distinct names).
+                if abs(len(a[0]) - len(b[0])) > 4:
                     continue
-                score = _score_pair(a[0], b[0])
+                # Use prefix-similarity as the primary signal. This
+                # beats SequenceMatcher on short OCR-mangled names.
+                score = _prefix_similarity(a[0], b[0])
                 if score >= threshold:
                     union(a, b)
     # Apply unions: each cluster of normalised names (within a single
