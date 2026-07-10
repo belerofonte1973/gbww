@@ -382,7 +382,7 @@ def _extract_citations_for_chapter(
     outline_labels: list[str] | None = None,
 ) -> list[Citation]:
     end = next_chapter_start or len(lines) + 1
-    chunk = lines[chapter_start - 1 : end - 1]
+    chunk = _de_ocr_fuse_headers(lines[chapter_start - 1 : end - 1])
 
     citations: list[Citation] = []
     current_topic: str | None = None
@@ -408,10 +408,10 @@ def _extract_citations_for_chapter(
         if _is_crossref(stripped):
             break
         if not in_outline:
-            if re.match(r"^\s*OUTLINE\s+OF\s+TOPICS\s*'?s*$", stripped, re.IGNORECASE):
+            if _OUTLINE_HEADER_LINE_RE.search(stripped):
                 in_outline = True
             continue
-        if not in_references and re.match(r"^\s*REFERENCES\s*$", stripped, re.IGNORECASE):
+        if not in_references and _REFERENCES_HEADER_RE.search(stripped):
             in_references = True
             # Reset inline counter for the references section
             inline_ordinal = 0
@@ -568,7 +568,7 @@ def _extract_topics_for_chapter(
     the outline is the only thing that determines the label.
     """
     end = next_chapter_start or len(lines) + 1
-    chunk = lines[chapter_start - 1 : end - 1]
+    chunk = _de_ocr_fuse_headers(lines[chapter_start - 1 : end - 1])
     topics: dict[str, str] = {}
     state = "pre_outline"  # -> "in_outline" -> "post_outline" (done)
     # Outline topics are assigned by **ordinal position** in the
@@ -591,7 +591,7 @@ def _extract_topics_for_chapter(
             continue
         # State transitions
         if state == "pre_outline":
-            if re.match(r"^\s*OUTLINE\s+OF\s+TOPICS\s*'?s*$", stripped, re.IGNORECASE):
+            if _OUTLINE_HEADER_LINE_RE.search(stripped):
                 state = "in_outline"
             continue
         if state == "in_outline":
@@ -931,8 +931,45 @@ def _next_chapter_is_different_than_current(line: str, current_chapter_num: int)
     return n != current_chapter_num
 
 
-_OUTLINE_HEADER_LINE_RE = re.compile(r"^OUTLINE\s+OF\s+TOPICS\s*$", re.IGNORECASE)
-_REFERENCES_HEADER_RE = re.compile(r"^REFERENCES\s*$", re.IGNORECASE)
+# Match the chapter section headers OUTLINE OF TOPICS and REFERENCES.
+# OCR sometimes embeds the header inside a sentence without a
+# leading space ("is one everOUTLINE OF TOPICS"). We accept any
+# non-letter boundary (whitespace, end-of-line, or punctuation)
+# before the keyword.
+_OUTLINE_HEADER_LINE_RE = re.compile(
+    r"(?<![A-Za-z])OUTLINE\s+OF\s+TOPICS\b", re.IGNORECASE
+)
+_REFERENCES_HEADER_RE = re.compile(
+    r"(?<![A-Za-z])REFERENCES\b\s*$", re.IGNORECASE
+)
+# OCR fuses the section header with a preceding word by dropping
+# the space. Pre-process by inserting a space whenever we see a
+# lowercase letter glued to "OUTLINE" or "REFERENCES" with no
+# intervening whitespace — the broken-word "everOUTLINE" becomes
+# "ever OUTLINE".
+_OUTLINE_OCR_FUSE_RE = re.compile(
+    r"([a-z]{3,})(OUTLINE\s+OF\s+TOPICS)", re.IGNORECASE
+)
+_REFERENCES_OCR_FUSE_RE = re.compile(
+    r"([a-z]{3,})(REFERENCES\b)", re.IGNORECASE
+)
+
+
+def _de_ocr_fuse_headers(chunk: list[str]) -> list[str]:
+    """Insert a space between an OCR-fused word and a section header.
+
+    The Syntopicon OCR sometimes produces lines like
+    "is one everOUTLINE OF TOPICS" — where the section header is
+    glued to a preceding word. We rewrite such occurrences in-place
+    so the header regexes can match them.
+    """
+    out: list[str] = []
+    for ln in chunk:
+        s = ln
+        s = _OUTLINE_OCR_FUSE_RE.sub(r"\1 \2", s)
+        s = _REFERENCES_OCR_FUSE_RE.sub(r"\1 \2", s)
+        out.append(s)
+    return out
 _CROSSREF_HEADER_RE = re.compile(r"^CROSS[\s\-]REFERENCES?\s*$", re.IGNORECASE)
 _ADDITIONAL_RE_READINGS_RE = re.compile(
     r"^ADDITIONAL\s+READINGS?\s*$",
@@ -964,6 +1001,7 @@ def _extract_idea_body(
     # The next-chapter header may itself be at the start of the chunk
     # (rare). Skip it.
     chunk = _skip_leading_chapter_marker(chunk, chapter_idea_number)
+    chunk = _de_ocr_fuse_headers(chunk)
 
     # Locate boundaries.
     intro_end = len(chunk)  # default = no outline found
@@ -977,11 +1015,11 @@ def _extract_idea_body(
             continue  # page markers between intro and outline
         if (
             outline_pos is None
-            and _OUTLINE_HEADER_LINE_RE.match(s)
+            and _OUTLINE_HEADER_LINE_RE.search(s)
         ):
             outline_pos = idx
             continue
-        if outline_pos is not None and refs_pos is None and _REFERENCES_HEADER_RE.match(s):
+        if outline_pos is not None and refs_pos is None and _REFERENCES_HEADER_RE.search(s):
             refs_pos = idx
             continue
         if (
@@ -1018,7 +1056,7 @@ def _extract_idea_body(
             continue
         if s == "INTRODUCTION":
             continue
-        if _OUTLINE_HEADER_LINE_RE.match(s):
+        if _OUTLINE_HEADER_LINE_RE.search(s):
             continue
         intro_text_lines.append(ln)
     body.introduction = _join_paragraphs(_iter_page_text(intro_text_lines)).strip()
@@ -1074,9 +1112,9 @@ def _extract_idea_body(
     for ln in cr_slice:
         s = ln.strip()
         if (
-            _CROSSREF_HEADER_RE.match(s)
-            or _REFERENCES_HEADER_RE.match(s)
-            or _ADDITIONAL_RE_READINGS_RE.match(s)
+            _CROSSREF_HEADER_RE.search(s)
+            or _REFERENCES_HEADER_RE.search(s)
+            or _ADDITIONAL_RE_READINGS_RE.search(s)
         ):
             continue
         if CHAPTER_RE.search(ln):
