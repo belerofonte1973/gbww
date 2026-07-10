@@ -164,6 +164,33 @@ class AuthorTests(unittest.TestCase):
         self.assertLessEqual(n_authors, 350,
                               f"{n_authors} too many (OCR-noise flood?)")
 
+    def test_canonical_authors_have_refs(self):
+        # The 21 canonical authors that the user identified as missing
+        # before the parser fix (Aeschylus, Sophocles, etc.) must have
+        # refs in the DB. Names are case-insensitive because OCR may
+        # produce 'AURELIUS' / 'AuRELius' instead of 'Aurelius'.
+        cases = [
+            (5, "Aeschylus"), (5, "Sophocles"),
+            (5, "Aristophanes"), (5, "Euripides"),
+            (6, "Thucydides"), (10, "Hippocrates"),
+            (11, "Archimedes"), (11, "Apollonius"),
+            (12, "Epictetus"), (28, "Galileo"),
+            (31, "Spinoza"), (35, "Berkeley"), (35, "Hume"),
+            (38, "Montesquieu"), (23, "Machiavelli"),
+            (34, "Huygens"), (45, "Faraday"),
+            (16, "Copernicus"), (16, "Ptolemy"),
+            (28, "Gilbert"), (50, "Marx-Engels"),
+        ]
+        for gb, name in cases:
+            n = self.con.execute(
+                'SELECT COUNT(*) FROM "references" r '
+                'JOIN authors a ON a.id = r.author_id '
+                'WHERE a.gbww_number = ? AND LOWER(a.name) = LOWER(?)',
+                (gb, name),
+            ).fetchone()[0]
+            self.assertGreater(n, 0,
+                               f"gbww={gb} {name!r}: 0 refs (missing!)")
+
     def test_no_duplicate_gbww_numbers(self):
         # Each (gbww_number, name) pair must be unique. Multiple
         # rows with the same (gbww, name) usually indicate a fuzzy
