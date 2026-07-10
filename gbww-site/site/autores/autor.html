@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Autor — Grandes Livros</title>
+<link rel="stylesheet" href="../css/style.css?v=3">
+</head>
+<body>
+
+<div class="topbar">
+  <a class="brand" href="../index.html"><img src="../assets/cover-motif.png" alt="" width="28" height="28" style="border-radius:3px; object-fit:cover;">Grandes Livros <em>do Ocidente</em></a>
+  <nav class="topnav">
+    <a href="../ideias/">Ideias</a>
+    <a href="../autores/">Autores</a>
+    <a href="../obras/">Obras</a>
+  </nav>
+  <button class="theme-toggle" id="themeToggle" type="button">Modo escuro</button>
+</div>
+
+<section class="intro">
+  <p class="kicker">Autor</p>
+  <h1 id="authorTitle">Carregando…</h1>
+  <p class="lede" id="authorLede"></p>
+</section>
+
+<section class="shelf">
+  <div class="shelf-head">
+    <h2>Obras deste autor no acervo</h2>
+    <span class="count" id="worksCount"></span>
+  </div>
+  <p class="shelf-desc">
+    Clique em uma obra para ver seu texto completo por página, com as
+    passagens em que o Syntopicon a remete marcadas.
+  </p>
+  <ol class="ref-list" id="worksList"></ol>
+</section>
+
+<section class="shelf">
+  <div class="shelf-head"><h2>Aparições no Syntopicon</h2></div>
+  <p class="shelf-desc">
+    Cada bloco é uma ideia + tópico do Syntopicon em que este autor é citado.
+  </p>
+  <ol class="ref-list" id="refsList"></ol>
+</section>
+
+<footer><span>Syntopicon Digital · 2026</span></footer>
+<script src="../js/author.js?v=3"></script>
+</body>
+</html>
