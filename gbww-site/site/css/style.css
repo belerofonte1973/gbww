@@ -1,23 +1,22 @@
 /* ============================================================
    Biblioteca — Design System
    Surface: Explore (index) + Decide/Learn (book pages)
+   Notion-inspired: warm minimalism, multi-layer shadows, whisper
+   borders, terracotta accent.
    ============================================================ */
 
-@font-face {
-  font-family: "Fraunces";
-  src: local("Fraunces");
-  font-display: swap;
-}
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap');
 
 :root {
-  /* ---- color: warm paper library, single accent ---- */
+  /* ---- color: warm paper library, terracotta + gold + cream ---- */
   --paper: #f6f1e6;
   --paper-raised: #fffcf5;
+  --paper-deep: #efe5d2;
   --ink: #201a12;
   --ink-soft: #45392a;
   --muted: #85765f;
-  --border: #ddd0b0;
-  --border-soft: #e9dfc4;
+  --border: rgba(32, 26, 18, 0.12);
+  --border-soft: rgba(32, 26, 18, 0.08);
   --accent: #8a3324;       /* oxblood / terracotta */
   --accent-ink: #5e2016;
   --accent-tint: #f4e1da;
@@ -27,20 +26,34 @@
   /* dark mode */
   --paper-dark: #17140f;
   --paper-raised-dark: #211c14;
+  --paper-deep-dark: #1f1a13;
   --ink-dark: #ece3d0;
   --ink-soft-dark: #c9bc9e;
   --muted-dark: #8f8163;
-  --border-dark: #362e21;
+  --border-dark: rgba(236, 227, 208, 0.10);
+  --border-soft-dark: rgba(236, 227, 208, 0.07);
 
   /* ---- type ---- */
   --serif-display: "Fraunces", "Iowan Old Style", "Source Serif 4", Georgia, serif;
   --serif-body: "Source Serif 4", "Iowan Old Style", Georgia, serif;
   --sans-ui: "IBM Plex Sans", "Segoe UI", Helvetica, Arial, sans-serif;
 
-  /* ---- scale ---- */
-  --radius-s: 3px;
-  --radius-m: 6px;
-  --shadow-card: 0 1px 2px rgba(32, 26, 18, 0.06), 0 1px 0 rgba(32, 26, 18, 0.04);
+  /* ---- radius (Notion scale adapted) ---- */
+  --radius-s: 4px;
+  --radius-m: 8px;
+  --radius-l: 12px;
+  --radius-pill: 9999px;
+
+  /* ---- multi-layer shadows (Notion philosophy: low opacity, many layers) ---- */
+  --shadow-card: 0 1px 2px rgba(32, 26, 18, 0.06),
+                 0 2px 8px rgba(32, 26, 18, 0.06),
+                 0 6px 18px rgba(32, 26, 18, 0.04);
+  --shadow-hover: 0 1px 3px rgba(32, 26, 18, 0.08),
+                  0 6px 16px rgba(32, 26, 18, 0.08),
+                  0 12px 32px rgba(32, 26, 18, 0.06);
+  --shadow-deep: 0 1px 3px rgba(32, 26, 18, 0.05),
+                 0 4px 12px rgba(32, 26, 18, 0.06),
+                 0 16px 36px rgba(32, 26, 18, 0.07);
 }
 
 * { box-sizing: border-box; }
@@ -83,7 +96,7 @@ a:focus-visible, button:focus-visible, input:focus-visible {
 img { max-width: 100%; display: block; }
 
 /* ---------------------------------------------------------
-   Top bar
+   Top bar — Notion-style: clean, whisper-bordered, generous padding
    --------------------------------------------------------- */
 .topbar {
   position: sticky;
@@ -93,10 +106,12 @@ img { max-width: 100%; display: block; }
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  padding: .9rem 1.5rem;
+  padding: 1.1rem 2rem;
   background: color-mix(in srgb, var(--paper) 88%, transparent);
-  backdrop-filter: blur(8px);
+  backdrop-filter: blur(12px) saturate(180%);
+  -webkit-backdrop-filter: blur(12px) saturate(180%);
   border-bottom: 1px solid var(--border-soft);
+  transition: background .25s ease, border-color .25s ease;
 }
 
 .brand {
@@ -149,64 +164,94 @@ img { max-width: 100%; display: block; }
 .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
 
 /* ---------------------------------------------------------
-   Hero / intro (index) — restrained, not a marketing hero
+   Hero / intro (index) — Notion-style typography hierarchy
    --------------------------------------------------------- */
 .intro {
-  max-width: 62rem;
+  max-width: 64rem;
   margin: 0 auto;
-  padding: 3.4rem 1.5rem 2.2rem;
+  padding: 4.5rem 2rem 3rem;
 }
 .intro .kicker {
   font-family: var(--sans-ui);
-  font-size: .78rem;
+  font-size: .76rem;
+  font-weight: 500;
   text-transform: uppercase;
-  letter-spacing: .12em;
+  letter-spacing: .14em;
   color: var(--gold);
-  margin: 0 0 .9rem;
+  margin: 0 0 1.1rem;
+  display: inline-flex;
+  align-items: center;
+  gap: .5rem;
+}
+.intro .kicker::before {
+  content: "";
+  display: inline-block;
+  width: 1.6rem;
+  height: 1px;
+  background: var(--gold);
+  opacity: .7;
 }
 .intro h1 {
   font-family: var(--serif-display);
   font-weight: 600;
-  font-size: clamp(2rem, 4vw, 3rem);
-  line-height: 1.08;
-  margin: 0 0 1rem;
+  font-size: clamp(2.4rem, 4.6vw, 3.4rem);
+  line-height: 1.05;
+  letter-spacing: -.025em;
+  margin: 0 0 1.3rem;
   max-width: 22ch;
+  color: var(--ink);
+  font-feature-settings: "lnum" 1, "kern" 1;
 }
 .intro p.lede {
-  font-size: 1.12rem;
+  font-size: 1.15rem;
+  line-height: 1.55;
   color: var(--ink-soft);
-  max-width: 46rem;
-  margin: 0 0 1.6rem;
+  max-width: 48rem;
+  margin: 0 0 2rem;
 }
 
 /* search */
 .search-row {
   display: flex;
-  gap: .6rem;
-  max-width: 34rem;
+  gap: .5rem;
+  max-width: 38rem;
+  padding: .25rem;
+  background: var(--paper-raised);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-m);
+  box-shadow: var(--shadow-card);
+  transition: border-color .2s ease, box-shadow .2s ease;
+}
+.search-row:focus-within {
+  border-color: var(--accent);
+  box-shadow: var(--shadow-hover);
 }
 .search-row input[type="search"] {
   flex: 1;
   font-family: var(--sans-ui);
   font-size: .95rem;
-  padding: .68rem .9rem;
-  border: 1px solid var(--border);
-  border-radius: var(--radius-m);
-  background: var(--paper-raised);
+  padding: .65rem .85rem;
+  border: none;
+  border-radius: var(--radius-s);
+  background: transparent;
   color: var(--ink);
 }
+.search-row input[type="search"]:focus { outline: none; }
 .search-row input[type="search"]::placeholder { color: var(--muted); }
 .search-row button {
   font-family: var(--sans-ui);
-  font-size: .85rem;
-  padding: .68rem 1.2rem;
-  border-radius: var(--radius-m);
+  font-size: .88rem;
+  font-weight: 500;
+  padding: .65rem 1.3rem;
+  border-radius: var(--radius-s);
   border: 1px solid var(--accent);
   background: var(--accent);
   color: #fff8f0;
   cursor: pointer;
+  transition: background .2s ease, transform .15s ease;
 }
 .search-row button:hover { background: var(--accent-ink); }
+.search-row button:active { transform: scale(.97); }
 
 /* ---------------------------------------------------------
    Collection strip (Explore surface: filters as tabs)
@@ -239,82 +284,99 @@ img { max-width: 100%; display: block; }
    Collections — three named shelves, not equal-weight cards
    --------------------------------------------------------- */
 .shelf {
-  max-width: 62rem;
+  max-width: 64rem;
   margin: 0 auto;
-  padding: 2.6rem 1.5rem 0;
+  padding: 3.5rem 2rem 0;
+  scroll-margin-top: 5rem;
 }
 .shelf-head {
   display: flex;
   align-items: baseline;
   justify-content: space-between;
   gap: 1rem;
-  border-bottom: 1px solid var(--border);
-  padding-bottom: .6rem;
-  margin-bottom: 1.2rem;
+  border-bottom: 1px solid var(--border-soft);
+  padding-bottom: .8rem;
+  margin-bottom: 1.4rem;
 }
 .shelf-head h2 {
   font-family: var(--serif-display);
   font-weight: 600;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
+  letter-spacing: -.015em;
   margin: 0;
+  color: var(--ink);
 }
 .shelf-head .count {
   font-family: var(--sans-ui);
-  font-size: .8rem;
-  color: var(--muted);
+  font-size: .78rem;
+  font-weight: 500;
+  color: var(--gold);
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  padding: .25rem .7rem;
+  background: var(--gold-tint);
+  border-radius: var(--radius-pill);
 }
 .shelf-desc {
-  font-size: .96rem;
+  font-size: 1rem;
+  line-height: 1.5;
   color: var(--ink-soft);
-  max-width: 48rem;
-  margin: -.6rem 0 1.4rem;
+  max-width: 50rem;
+  margin: -.6rem 0 1.6rem;
 }
 
 .entry-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1px;
-  background: var(--border-soft);
-  border: 1px solid var(--border-soft);
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+  gap: 1rem;
 }
 .entry {
   background: var(--paper-raised);
-  padding: 1.1rem 1.2rem 1.25rem;
+  border: 1px solid var(--border-soft);
+  border-radius: var(--radius-l);
+  box-shadow: var(--shadow-card);
+  padding: 1.25rem 1.35rem 1.4rem;
   display: flex;
   flex-direction: column;
-  gap: .35rem;
+  gap: .55rem;
   text-decoration: none;
   color: var(--ink);
-  min-height: 8.4rem;
-  flex: 1 1 15.5rem;
+  min-height: 9.2rem;
+  transition: border-color .2s ease, box-shadow .2s ease,
+              background .2s ease, transform .15s ease;
 }
-@media (min-width: 901px) {
-  .entry-grid[data-count="1"] .entry { flex-grow: 0; max-width: 20rem; }
-  .entry-grid[data-count="2"] .entry { flex-grow: 0; max-width: calc(50% - 1px); }
+.entry:hover {
+  border-color: var(--border);
+  box-shadow: var(--shadow-hover);
+  background: var(--paper-raised);
+  transform: translateY(-1px);
 }
-.entry:hover { background: var(--accent-tint); }
 .entry .entry-lang {
   font-family: var(--sans-ui);
   font-size: .68rem;
+  font-weight: 500;
   text-transform: uppercase;
-  letter-spacing: .08em;
+  letter-spacing: .1em;
   color: var(--gold);
 }
 .entry h3 {
   font-family: var(--serif-display);
-  font-size: 1.08rem;
+  font-size: 1.15rem;
   font-weight: 600;
+  letter-spacing: -.01em;
   margin: 0;
-  line-height: 1.25;
+  line-height: 1.22;
+  color: var(--ink);
 }
 .entry .entry-meta {
   font-family: var(--sans-ui);
-  font-size: .78rem;
+  font-size: .76rem;
   color: var(--muted);
   margin-top: auto;
   display: flex;
   gap: .5rem;
   flex-wrap: wrap;
+  align-items: center;
 }
 .tag {
   display: inline-block;
